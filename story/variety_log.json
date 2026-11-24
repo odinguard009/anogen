@@ -24,5 +24,18 @@
       "pacing_shape": "two spikes with a breather",
       "hook_type": "decision with a price"
     }
+  },
+  {
+    "chapter": 3,
+    "picks": {
+      "opening_type": "an odd small observation",
+      "scene_shape": "preparation then execution",
+      "tension_type": "betrayal suspected",
+      "emotional_tone": "bitter irony",
+      "comic_device": "comic timing in the middle of a plan",
+      "conflict_type": "duel with a technical twist",
+      "pacing_shape": "slow build to a sharp spike",
+      "hook_type": "a promise or threat"
+    }
   }
 ]

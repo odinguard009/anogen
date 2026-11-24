@@ -1,0 +1,272 @@
+# People
+Eden Aster Argentine
+Eden Hale
+Eden
+Aster
+Argentine
+Hale
+House Hale
+House Argentine
+Lysette Maren Corvaille
+Lysette
+Maren
+Corvaille
+Corentin Corvaille
+Corentin
+Aurelian Thorne Valdis
+Aurelian
+Thorne
+Valdis
+Tobias Fenwick
+Tobias
+Fenwick
+Niamh Carrow
+Niamh
+Carrow
+Tesfane Okoru
+Okoru
+Duke Aldous Argentine
+Aldous
+Liora Argentine
+Liora
+Vercourt
+King Theodric IV
+Theodric
+Ysolde Lisle
+Ysolde
+Lisle
+Halvard Strent
+Strent
+Aubrec Wendell
+Wendell
+Aldric Argentine
+Aldric
+Pell Garrow
+Pell
+Garrow
+Anneliese Kroft
+Anneliese
+Kroft
+Dorran Yeats
+Dorran
+Yeats
+Dame Hildegard Ostwald
+Hildegard
+Ostwald
+Ilse Brandmeier
+Brandmeier
+Countess Margit Adler
+Margit
+Adler
+Gideon Valdis
+Gideon
+Rosalind Mereaux
+Rosalind
+Mereaux
+Fennick Ashgrove
+Fennick
+Ashgrove
+Beatrix Hollen
+Beatrix
+Hollen
+Cyprian Vey
+Cyprian
+Vey
+Agnete Rosk
+Agnete
+Rosk
+Matthias Kord
+Matthias
+Kord
+Helene Varga
+Helene
+Varga
+Lucan Merrow
+Lucan
+Merrow
+Brann Okafor-Dunst
+Brann
+Okafor-Dunst
+Empress Dragomira
+Dragomira
+Kaurveth
+Starving King
+Tailor
+Tutor
+Landlord
+Sepiroth Dragon
+Emperor of Void
+Nihl
+Oriane
+Ombrevar
+Kaedros
+Lysandre
+Sefa
+Hald
+Mirelle
+Gorrath
+Vesk
+# Powers, relics, concepts
+Melsche Door
+Sepiroth Gate
+Sepiroth Vault
+Candor
+Wardenshell
+Morrowpin
+Crown of Nothing
+Throne of Nothing
+Throne Door
+Doorstep
+Threshold
+Frost
+Ten Pillars
+Pillar
+Pillars
+Sleeping Legions
+First Legion
+Armory of a Thousand Names
+Tenet
+Tenets
+Kindling
+Spark
+Shape
+Edge
+Crown
+Sovereign
+Bell
+Bells
+Resonance Bell
+Keeping
+Witness
+Ledger
+Homing
+Rampart
+Stitch
+Crown Well
+Crown Wells
+mana
+Hush
+Hushborn
+Husk
+Husks
+Stalker
+Stalkers
+Choir
+Choirs
+Mawgate
+Mawgates
+Veil
+Veils
+Hierarch
+Hierarchs
+Pale
+Pale Reckoning
+PR
+First Breach
+Breach
+Wound
+Night the Relics Vanished
+Abdication
+Well Wars
+Lumen
+Form 13-B
+# Orders
+Argent Order
+Crimson Rampart
+Azure Tide
+Verdant Thorn
+Golden Seal
+Violet Lantern
+Ivory Order
+Grey Gale
+Amber Hearth
+Bronze Bell
+Indigo Veil
+Umber Anvil
+Black Order
+Black Thirteen
+Order Council
+# Academy
+Royal Academy of Hallowcrest
+Hallowcrest
+Undercroft
+Long Stair
+Lance
+Lances
+Lance Seven
+Lance One
+Ladder
+Silver Lists
+Winter Practicum
+Crossing
+Founding Lantern Night
+Lantern Night
+Bell Assessment
+# Places
+Elysmar
+Halveren
+Kesharra
+Vastlund
+Okarune
+Selvara
+Ruhnmara
+Glaceren
+Grey Gulf
+Middle Sea
+Wide Water
+Teeth
+Southern Wall
+Sandneck
+Crownspine
+Whitewood
+Endless Grass
+Frostreach
+Narrow Ice
+Isthmus Line
+Ashen Highlands
+Skyspine
+Solmarch
+Kremhold
+Concord
+Concord of Solmarch
+# Nations
+Kingdom of Verandel
+Verandel
+Commonwealth of Brennoch
+Brennoch
+Moot
+Jarldom of Skarnheim
+Skarnheim
+High Jarl
+Aurelis See
+Aurelis
+Luminarch
+Sunward Guard
+Volkhovar Empire
+Volkhovar
+Ledger of Souls
+Ice Legions
+Orduhan Khaganate
+Orduhan
+Khagan
+Great Gathering
+Qianlu Dynasty
+Qianlu
+Jade Throne
+Akizane Imperial Isles
+Akizane
+Rajmandala of Saravant
+Saravant
+Shahdom of Ezharan
+Ezharan
+Jayavara Maritime League
+Jayavara
+Ratu
+Norhaven Confederation
+Norhaven
+Mansakar
+Mansa
+Tawanqar Highland Commonwealth
+Tawanqar
+Sapa
+Ruhnmaran Union

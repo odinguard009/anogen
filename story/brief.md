@@ -1,7 +1,7 @@
 # Story brief (owner's editable choices)
 
 ## Machine settings
-title: Untitled Serial
+title: The Thirteenth Knight Holds Every Sword
 author: Anogen
 chapter_words_min: 1800
 chapter_words_max: 2500
@@ -34,6 +34,6 @@ arc_default_max: 50
 - Detailed, exciting, varied. Different tactic, terrain and stake each time.
 
 ## Open choices (fill in or say "bebas" so the Development Editor decides)
-- Premise / seed idea: (empty)
-- Protagonist name and background: (empty)
-- Core world hook: (empty)
+- Premise / seed idea: Owner's idea, developed in story/bible/premise.md and story/outline/series.md (invaded 3x-Earth world, Hallowcrest academy, secret Black Order).
+- Protagonist name and background: Eden Aster Argentine, 18, public alias Eden Hale; hidden Argentine heir, sole member of the Black Order, holder of Melsche Door and Sepiroth Gate, unknowing reincarnation of the Emperor of Void.
+- Core world hook: Elysmar, mirrored-Earth world 3x larger; the Hush invasion has eaten 30% from the south pole; 13 nations fight over the last Crown Wells while Veils wear human faces.

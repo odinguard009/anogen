@@ -1,0 +1,14 @@
+- Eden Hale is Eden Aster Argentine, the "frail" heir | known by: Eden, king, Ysolde, Duke | reveal planned: ch 160 (public)
+- The Black Order is Eden alone with his Pillars and shadow-soldiers | known by: Eden, king, Ysolde, Duke | reveal planned: ch 140 (Lysette)
+- Corentin Corvaille was a Veil when the Black Order killed him; Eden did it | known by: Eden (face only), Ysolde | reveal planned: ch 38 (reader), ch 142 (Lysette)
+- Vice-headmaster Halvard Strent is the Tailor, Liora's killer | known by: nobody | reveal planned: ch 185
+- The Tailor knows Eden's identity and waits for the seal to break so the Crown can be taken | known by: nobody | reveal planned: ch 50 (hint), ch 186
+- Liora sealed Eden's Gate, Door and memory; he opened the Gate that night (hairpin Morrowpin) | known by: Duke (partly) | reveal planned: ch 175
+- Ysolde is Liora's half-sister and holds her letter for Eden at 19 | known by: Ysolde, Duke | reveal planned: ch 155
+- King Theodric holds a kill-order on Eden if the "Key" wakes wrong | known by: king, Ysolde | reveal planned: ch 210
+- The front stalls before Verandel because Kaurveth wants the vessel alive | known by: Hushborn | reveal planned: ch 230
+- Eden is the Emperor of Void reborn; the Emperor's abdication caused the invasion | known by: the Tutor | reveal planned: ch 280
+- The Dragon imprisoned the Emperor; jailer and prisoner share Eden's body | known by: nobody fully | reveal planned: ch 285
+- The Tutor is the Emperor's regret, not the whole Emperor | known by: the Tutor | reveal planned: ch 300
+- Niamh is replaced by a Veil on a field patrol (ch 62) | known by: nobody | reveal planned: ch 110
+- Eden has a third, own Tenet sleeping under the other two | known by: nobody | reveal planned: ch 360

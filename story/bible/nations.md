@@ -1,0 +1,29 @@
+# Nations of Elysmar (reference)
+
+Why thirteen: a nation that can field knights must hold a Crown Well. Thirteen Crown Wells remain north of the Pale, and after 142 years of collapse and annexation, every surviving sovereign power holds exactly one (Volkhovar's is the largest). Small states without wells were absorbed or became vassals. The Concord table at Solmarch has 20 seats; 7 are draped in grey for nations the Pale ate (including the Ruhnmaran Union).
+
+Strength order: 1 Volkhovar, 2 Verandel, 3 Qianlu, 4 Norhaven, 5 Saravant, 6 Ezharan, 7 Akizane, 8 Orduhan, 9 Brennoch, 10 Jayavara, 11 Skarnheim, 12 Aurelis See (weak army, huge influence), 13 Mansakar (remnant). Tawanqar unranked (observer, no Crown Well).
+
+## Halveren
+1. **Kingdom of Verandel**. Feudal monarchy, King Theodric IV, capital Solmarch. Culture: Frankish, German, Latin blend; duchies, chivalry, wine, cathedrals of the Lumen faith. Names: given, hidden middle, house. Military: 12 orders, Hallowcrest, Southern Wall. Stance: centre of the Concord, envied and feared.
+2. **Commonwealth of Brennoch**. Island kingdom with a strong parliament (the Moot), off Halveren's east coast. Culture: British and Gaelic isles; clans, ballads, rain, tea-like brews. Names: given, secret hearth-name, clan. Military: best navy after Volkhovar, longbow corps. Stance: Verandel's old friend and trade rival; sends exchange students.
+3. **Jarldom of Skarnheim**. Federation of jarls under an elected High Jarl, northern fjords. Culture: Norse and Finnic; sagas, rune-stones, sea raiders turned whale-traders. Names: given plus patronymic (-sen/-dottir style), hidden rune-name carved on a stone at birth. Military: berserker-style Tenet warriors, ice ships. Stance: neutral, sells iron to everyone.
+4. **Aurelis See**. Holy city-state of the Lumen faith in Verandel's south, ruled by the Luminarch. Culture: Papal and Byzantine; icons, incense, archives. Names: clergy take a vow name; birth names sealed. Military: small Sunward Guard. Stance: claims all vanished relics belong to the faith; hunts rumours of "the Vault". Dangerous to Eden.
+
+## Kesharra
+5. **Volkhovar Empire** (No. 1). Autocracy under Empress Dragomira, capital Kremhold. Culture: Russian and Slavic; onion domes, endless winters, icon painting. Names: given, patronymic, family; the empire records every subject's soul-name in the Ledger of Souls (control). Military: Ice Legions, largest Crown Wells, far from the front. Stance: profits from others bleeding; wants Verandel weak and the relics found.
+6. **Orduhan Khaganate**. Steppe confederation of clans under a Khagan elected at the Great Gathering. Culture: Mongol and Turkic; horse archers, felt tents, eagle hunters. Names: one given name plus clan; a hidden milk-name from childhood. Military: fastest cavalry alive, sold as mercenaries. Stance: buffer between Volkhovar and Qianlu, bribable.
+7. **Qianlu Dynasty** (No. 3). Imperial bureaucracy under the Jade Throne, exam-selected scholar officials. Culture: Chinese; ink, rivers, examinations, ancestral halls. Names: family name first, two-syllable given; courtesy name for peers; secret infant name. Military: crossbow-mage legions, vast logistics. Stance: patient rival of Volkhovar; courts Verandel.
+8. **Akizane Imperial Isles**. Sacred emperor reigns, a council of warrior houses rules. Culture: Japanese; cedar shrines, blade schools, tea ritual. Names: family name first, adult name; hidden shadow-name given by the shrine. Military: elite duelist corps. Stance: isolationist, trades swords for wheat.
+9. **Rajmandala of Saravant**. Confederation of princely states under a Maharaja-of-Maharajas. Culture: Indian; temples, monsoon, astronomy, spice. Names: given, father's name, house or region; hidden star-name cast by astrologers. Military: war elephants armoured with wards, huge infantry. Stance: sends troops to Jayavara; resents northern hoarding.
+10. **Shahdom of Ezharan**. Shah with a council of tribal emirs. Culture: Persian and Arab; caravans, gardens, poetry, observatories. Names: given, son/daughter of father (bin/bint), tribe; hidden mother-name. Military: holds the Sandneck land bridge, desert lancers. Stance: on the front; demands Concord aid; suspects Verandel of hiding strength.
+11. **Jayavara Maritime League**. Thalassocracy of island kingdoms under a rotating Ratu. Culture: Nusantara (Javanese, Malay, Bugis); gamelan, batik, outrigger fleets, keris-smiths. Names: often a single name plus honorific; hidden weton-name from the birth day. Military: sea front against Ruhnmara; master shipwrights. Stance: bleeding, angry, courageous.
+
+## Vastlund
+12. **Norhaven Confederation** (No. 4). All of Vastlund north of the isthmus plus Frostreach; elected Chancellor and a congress of states. Culture: American, Canadian and Mexican mix; frontier towns, railroads of vein-carts, rodeos, plazas. Names: given, PUBLIC middle name, surname (Verandel finds this naive). Military: griffon cavalry, mass-produced mana arms. Stance: generous to Tawanqar, wary of Volkhovar, rivals Verandel for Concord leadership.
+
+## Remnants
+13. **Mansakar** (Okarune). Last kingdom of the south, in the Ashen Highlands. Mansa (king) and griot council. Culture: Mali and Ethiopian; praise-singers, stone churches, gold. Names: given plus lineage praise-name; hidden whisper-name spoken at birth. Military: stone-wardens, small but unbreakable. Stance: needs everyone; trusted by Okoru.
+14. **Tawanqar Highland Commonwealth** (Selvara). Councils of terrace communities under a Sapa elder. Culture: Andean (Inca, Quechua); terraces, knotted-cord records, condors. Names: given plus community name; hidden first-haircut name. Military: mountain slingers, condor riders. Stance: alive on Norhaven's charity.
+
+Count note: 13 seats with Crown Wells = items 1-12 plus Mansakar. Tawanqar holds no Crown Well (lost PR 118) and sits as an observer: a source of bitter debate.

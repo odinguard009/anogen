@@ -1,0 +1,16 @@
+- [open] Dream of a locked door with a silver hairpin through the keyhole; the Dragon refuses to show the relic "Morrowpin" | planted: ch 1 | due: ch 170-176
+- [open] The Tutor speaks of the Void and empty thrones like a man remembering, not teaching | planted: ch 2 | due: ch 275-282
+- [open] Bell test: three clear tones, then a faint fourth nobody but Okoru hears | planted: ch 3 | due: ch 355-362
+- [open] Students gossip about the frail Argentine heir; Eden corrects a detail nobody should know | planted: ch 3 | due: ch 155-162
+- [open] Lysette's locket with her brother Corentin's portrait; Eden glances away from it | planted: ch 4 | due: ch 36-40
+- [open] Empty Lance slot: Pell Garrow's name on the roster | planted: ch 4 | due: ch 44-48
+- [open] Strent never stands under lamps; hums a lullaby while grading | planted: ch 8 | due: ch 48-50 (hint), 183-186
+- [open] Ysolde keeps a sealed envelope in her desk she will not let Eden touch | planted: ch 9 | due: ch 153-156
+- [open] Tobias jokingly blurts his middle name in the dorm | planted: ch 12 | due: ch 45-47
+- [open] Lysette's Witness replays a door-shaped shadow at a vanishing site | planted: ch 13 | due: ch 138-142
+- [open] The Dragon calls the Vault "my prison" once, then corrects it to "my charge" | planted: ch 15 | due: ch 283-287
+- [open] Concord war map: the grey front bends around Verandel's coast like water around a stone | planted: ch 20 | due: ch 225-232
+- [open] The Tutor flinches when Eden says "regret is useless" | planted: ch 30 | due: ch 296-302
+- [open] King Theodric asks Ysolde for "the second envelope" and goes quiet when Eden enters | planted: ch 33 | due: ch 205-212
+- [open] Niamh, back from patrol, cannot remember the tune she always sang badly | planted: ch 62 | due: ch 105-112
+- [open] Three students vanished since spring; mission to find what took them | planted: ch 1 | due: ch 45-50

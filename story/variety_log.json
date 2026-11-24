@@ -167,5 +167,18 @@
       "pacing_shape": "mosaic of short scenes",
       "hook_type": "reveal that reframes the chapter"
     }
+  },
+  {
+    "chapter": 14,
+    "picks": {
+      "opening_type": "action already in progress",
+      "scene_shape": "investigation that reveals a wrong assumption",
+      "tension_type": "promise at risk",
+      "emotional_tone": "bittersweet gratitude",
+      "comic_device": "dry self-deprecation",
+      "conflict_type": "battle of wits",
+      "pacing_shape": "single long scene",
+      "hook_type": "an action shown with no explanation"
+    }
   }
 ]

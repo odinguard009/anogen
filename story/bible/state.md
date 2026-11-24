@@ -4,7 +4,7 @@
 - 18, Year 5, rank 8. Public: Eden Wren, Thornmere-born scholarship ward. True: Eden Aster Argentine. Dyed hair, gray eyes, black gloves.
 - Now: Lysette's timetable (62 absences; roof permit beat her warrant). Lance Nine (Felix, Lysette supervising, Rowan, Clara). Okoru suspects ("don't slam"). Ashen card "Remember Thornmere" = bookmark; a gray-coat staff man noted him. Ch 8: broke dust-wardens Margery, Uncle; "C. Daubert" forged. Strent hummed Liora's lullaby: "Your mother must have sung that to you too"; Eden froze. Ch 9: hooded, held a door-shield at the Wick Street Seal post vs a lamp-oil mob; cut above left eye; Seal seeks "young, hooded, door-shield". Told Ysolde nothing on Strent. Orders: Ember cell, tannery streets, lower city; "Watch the Tallis boy."
 - Tells: hides aura; literal deadpan; angry = polite, quiet, left glove off.
-- Public: blocking lance, 3 Bells, "shadow-shaping" Tenet. Candor only masked (Mantle).
+- Public: blocking lance, 3 Bells, "shadow-shaping" Tenet. Candor only masked.
 - Real power: Melsche Door (lance/shield, summons), Pillars Vesk, Gorrath, Mirelle; First Legion (40). Gate: Candor + 6 minor relics. Never lent one.
 - Knows: Veil tells; Dragon, Tutor in dreams; mother died when he was 10; believes he froze.
 - Emotion: flat; smiles only at his own. War dream most afternoons; quiet when Lysette cried (ch 1).

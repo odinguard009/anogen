@@ -1,16 +1,20 @@
-- [open] Dream of a locked door with a silver hairpin through the keyhole; the Dragon refuses to show the relic "Morrowpin" | planted: ch 1 | due: ch 170-176
-- [open] The Tutor speaks of the Void and empty thrones like a man remembering, not teaching | planted: ch 2 | due: ch 275-282
-- [open] Bell test: three clear tones, then a faint fourth nobody but Okoru hears | planted: ch 3 | due: ch 355-362
-- [open] Students gossip about the frail Argentine heir; Eden corrects a detail nobody should know | planted: ch 3 | due: ch 155-162
-- [open] Lysette's locket with her brother Corentin's portrait; Eden glances away from it | planted: ch 4 | due: ch 36-40
-- [open] Empty Lance slot: Pell Garrow's name on the roster | planted: ch 4 | due: ch 44-48
-- [open] Strent never stands under lamps; hums a lullaby while grading | planted: ch 8 | due: ch 48-50 (hint), 183-186
-- [open] Ysolde keeps a sealed envelope in her desk she will not let Eden touch | planted: ch 9 | due: ch 153-156
-- [open] Tobias jokingly blurts his middle name in the dorm | planted: ch 12 | due: ch 45-47
-- [open] Lysette's Witness replays a door-shaped shadow at a vanishing site | planted: ch 13 | due: ch 138-142
-- [open] The Dragon calls the Vault "my prison" once, then corrects it to "my charge" | planted: ch 15 | due: ch 283-287
-- [open] Concord war map: the grey front bends around Verandel's coast like water around a stone | planted: ch 20 | due: ch 225-232
-- [open] The Tutor flinches when Eden says "regret is useless" | planted: ch 30 | due: ch 296-302
-- [open] King Theodric asks Ysolde for "the second envelope" and goes quiet when Eden enters | planted: ch 33 | due: ch 205-212
-- [open] Niamh, back from patrol, cannot remember the tune she always sang badly | planted: ch 62 | due: ch 105-112
-- [open] Three students vanished since spring; mission to find what took them | planted: ch 1 | due: ch 45-50
+- [open] Rooftop dream of endless war quiets the moment Lysette's crying wakes him | planted: ch 1 | due: ch 196-200
+- [open] Eden's handkerchief, embroidered with a tiny silver feather (his mother's) | planted: ch 1 | due: ch 172-176
+- [open] Locked door with a silver hairpin in the keyhole; Dragon refuses to show the relic Morrowpin | planted: ch 2 | due: ch 172-176
+- [open] The Tutor speaks of empty thrones like a man remembering, not teaching | planted: ch 2 | due: ch 275-282
+- [open] Lysette's locket with Corentin's portrait; Eden glances away | planted: ch 4 | due: ch 36-40
+- [open] Rowan's Dawnbreak matches a light in an old Lirenne royal fresco in the archive | planted: ch 6 | due: ch 105-110
+- [open] Ashen Crowns card "Remember Thornmere" slipped to Eden | planted: ch 7 | due: ch 24-26
+- [open] Strent never stands under lamps; hums a lullaby Eden's mother sang | planted: ch 8 | due: ch 48-50 (hint), 183-186
+- [open] Ysolde's sealed envelope she will not let Eden touch | planted: ch 9 | due: ch 153-156
+- [open] Felix casually tells Eden his middle name while asking if he has eaten | planted: ch 12 | due: ch 45-47
+- [open] Lysette's Witness replays a door-shaped shadow at a Veil kill site | planted: ch 13 | due: ch 138-142
+- [open] The Dragon says "I promised someone" and won't say who | planted: ch 15 | due: ch 283-287
+- [open] Concord map: grey front bends around Verandel like water round a stone | planted: ch 20 | due: ch 226-232
+- [open] A dying Ember's arm shows grey veins under a graft scar | planted: ch 22 | due: ch 90-95
+- [open] Count Merrow at the Lantern Ball, admiring a tapestry of conquered Ostrevaal | planted: ch 25 | due: ch 145-150
+- [open] The Duke, drunk on cider, almost says "your mother had wings" | planted: ch 28 | due: ch 172-176
+- [open] Tutor flinches when Eden says "regret is useless"; mentions a "test" he once set a king | planted: ch 30 | due: ch 166-170, 296-302
+- [open] King asks Ysolde for "the second envelope" and falls silent when Eden enters | planted: ch 33 | due: ch 205-212
+- [open] Seraphine's joke "you'd save me again, right?" hides real feeling | planted: ch 10 | due: ch 143-146
+- [open] Rowan misreads Lysette's coldness as dislike and asks Eden why she hates him (he notices her feelings too late) | planted: ch 40 | due: ch 128-132

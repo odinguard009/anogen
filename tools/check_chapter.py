@@ -129,6 +129,33 @@ def main():
     if dash > 12:
         issues.append(f"em-dash overuse ({dash:.1f}/1000 words)")
 
+    # AI-tell heuristics
+    sl = [len(words(x)) for x in sentences(body)]
+    if len(sl) > 20:
+        mean = sum(sl) / len(sl)
+        sd = (sum((x - mean) ** 2 for x in sl) / len(sl)) ** 0.5
+        notes.append(f"sentence length mean {mean:.1f}, variation {sd / mean:.2f} (human prose usually > 0.45)")
+        short = sum(1 for x in sl if x <= 5) / len(sl)
+        if sd / mean < 0.3 and short < 0.05:
+            notes.append("rhythm is too even: add fragments and very short sentences")
+    contrast = len(re.findall(r"\b(?:wasn't|weren't|isn't|aren't|not)\b[^.!?\n]{0,50}\b(?:but|just)\b", body, re.I)) \
+        + len(re.findall(r"(?:wasn't|weren't|isn't|didn't)[^.!?\n]{0,40}[.!?]\s+It (?:was|is)\b", body, re.I))
+    if contrast > 3:
+        issues.append(f"'not X but Y' contrast pattern x{contrast} (AI tell)")
+    starts = {}
+    for x in sentences(body):
+        w = words(x)
+        if w:
+            starts[w[0].lower()] = starts.get(w[0].lower(), 0) + 1
+    if sl and starts:
+        top, c = max(starts.items(), key=lambda kv: kv[1])
+        if c / len(sl) > 0.22 and c > 6:
+            issues.append(f"{c} sentences start with '{top}' ({c / len(sl):.0%}): vary openers")
+    triples = len(re.findall(r"\b\w+, \w+(?: \w+)?, and \w+", body))
+    if triples > 6:
+        issues.append(f"rule-of-three lists x{triples}: cut most of them")
+    ends = [para.strip().split("\n")[-1] for para in re.split(r"\n\s*\n", body) if para.strip()]
+
     print(f"Words: {wc} (target {lo}-{hi})")
     for n in notes:
         print("note:", n)

@@ -1,17 +1,19 @@
-# Main cast (true names; middle names hidden in-world)
+# Main cast (true names; middle names hidden). Household: argentine.md. Villains: ashen-crowns.md.
 
-- **Eden Aster Argentine** (public: Eden Hale, ward of House Hale), 18, MC, narrator. Cold, flat, nonchalant; honest, principled, quietly protective. Sole member of the Black Order. Secret: Emperor of Void reborn; mother's seal on him. Arc: from lone shield to a man who lets himself be known.
-- **Lysette Maren Corvaille**, 18, romance lead. Golden Seal cadet, top in theory, stubborn, earnest, funny when flustered. Tenet Witness (replays the last minutes of a place). Sworn to unmask the Black Order, which "murdered" her brother Corentin (a Veil wore him). Arc: justice to truth; hunter to partner.
-- **Aurelian Thorne Valdis**, 19, rival. Five-Bell golden boy, son of the Crimson Rampart captain; proud, fair, hates being pitied. Engaged by contract to Lysette; neither wants it. Arc: rival to sworn brother.
-- **Tobias Fenwick**, 18, friend. Merchant's son on scholarship, talks too much, counts everything (Tenet Ledger). Comic heart, braver than he looks. Blurts his middle name early (pays off as Eden's first loan).
-- **Niamh Carrow**, 18, friend. Brennoch exchange archer, sunny, sings badly. Replaced by a Veil on a field patrol (ch 62); her true self survives in the Hush.
-- **Tesfane Okoru**, 46, mentor. One-armed Bronze Bell instructor, refugee knight of Mansakar. Gruff, kind, sees through Eden's act.
-- **Duke Aldous Argentine**, 49, father. Master of the Argent Order. Silent, grieving. Hid the truth of his wife's death to spare Eden guilt; Eden reads it as blame.
-- **King Theodric IV**, 57. Pragmatic, warm in private. Built the Black Order to keep "the Key" close; holds a kill-order contingency.
-- **Ysolde Lisle**, 34, king's secretary and Eden's handler. Deadpan, paperwork tyrant. Secret: half-sister of Eden's mother; keeps Liora's last letter.
-- **Liora Argentine** (dead), mother. Ivory Order warden, Tenet Keeping. Died sealing Eden's Gate and a Veil.
-- **Halvard Strent**, vice-headmaster of Hallowcrest. Beloved, careful, never stands under lamps. Is the Tailor: the Veil who killed Liora.
-- **The Tutor** (Emperor of Void remnant). Faceless man at a board on the edge of nothing; trains Eden in dreams, refuses his name. Is the Emperor's regret.
-- **The Sepiroth Dragon** ("Landlord" to Eden). Pearl-scaled, pompous, fond of Eden. Guards the Vault gate inside him; was the Emperor's jailer and archenemy.
-- **Kaurveth, the Starving King**. Sovereign of the Hush; wants the Void's empty throne and the Crown of Nothing inside Eden.
-- **Nihl, the First Pillar**. Strongest of the Emperor's Ten; wants the Emperor back, Eden erased.
+- **Eden Aster Argentine** (public: Eden Wren), 18, MC/narrator, Year 5, rank 8. Sleeps on the roof, skips class (Headmistress's permit). Flat, nonchalant, honest, principled, quietly caring; smiles at his household because he cannot feel more. Black Order. Half-Valkyrie; Emperor's essence keeps him alive. Arc: unseen weapon to a man who is seen.
+- **Lysette Maren Hollen**, 18, heroine, rank 4, Discipline Committee vice-chair. Proud, sharp-tongued, flustered by kindness, secretly tends the roof garden alone. House Hollen (Golden Seal) shamed: brother Corentin "executed for treason" by the Black Order (he was a Veil; Eden killed it). Tenet Witness. Loves Rowan unrequited; fears new love ends the same. Liora saved her as a baby.
+- **Rowan Tallis**, 18, rank 2, "the Dawn Boy". Frontier-fort orphan raised by a garrison, cheerful, always hungry, kind, dense. Tenet Dawnbreak burns Hushborn. Lost heir of conquered Lirenne; the Ashen Crowns want him as banner.
+- **Felix Ashgrove**, 18, Eden's one close friend, son of the Verdant Thorn master. Quiet, steady; asks "Eaten today?" daily. Knows nothing of Eden's secrets.
+- **Crown Prince Valerius Aurenmark**, 18, rank 1, council president. Serious, rival; knows Eden's power and name, hates that he hides.
+- **Princess Seraphine Aurenmark**, 18, his twin, rank 6. Playful; crush on Eden since he saved her at 12. Eden: friend only. Arc: confesses, is gently refused, becomes a Concord envoy.
+- **Dame Hildegard Ostwald**, headmistress. Half-blind, dry; Liora's friend; knows Eden's name and power, not the Black Order.
+- **Tesfane Okoru**, instructor, one-armed Mansakar refugee; sees through acts.
+- **Duke Aldous Argentine**, 50, father, Argent master. Loud, goofy, ballad-writing; terrifying when serious. Loves Eden.
+- **King Theodric IV**, 49. Warm, guilty son of the Iron King. Holds a kill-order on Eden if the Void wakes.
+- **Ysolde Lisle**, 38, king's secretary, Eden's handler. Deadpan; forged Liora's identity; keeps her letter.
+- **Liora** (dead), mother: Valkyrie of Heaven Gate, cover "Liora Wren". Died sealing Eden.
+- **Halvard Strent**, vice-headmaster, beloved, avoids lamps. The Tailor: Veil spymaster, Liora's killer, Ashen Crowns' sponsor.
+- **Count Lucan Merrow**, Indigo Veil master; secretly the Regent of the Ashen Crowns.
+- **The Tutor**: Emperor of Void's last echo; dream teacher, face turned away.
+- **Sepiroth Dragon** ("Landlord"): pompous, fond of Eden; promised Liora.
+- **Kaurveth**, the Starving King of the Hush. **Nihl**, First Pillar, wants the Emperor back.

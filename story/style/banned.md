@@ -11,3 +11,21 @@ let out a breath he didn't know he was holding
 suddenly | max=2
 somehow | max=2
 seemed to | max=3
+tapestry
+symphony of
+dance of
+a mix of
+couldn't help but | max=1
+the weight of | max=2
+the air was thick with
+a pang of
+ministrations
+eyes sparkled
+time seemed to
+a shiver ran
+sent a shiver
+heart hammered | max=1
+heart pounded | max=1
+let out a breath | max=1
+in that moment | max=2
+it was as if | max=2

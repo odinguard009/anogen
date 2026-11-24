@@ -1,14 +1,17 @@
-- Eden Hale is Eden Aster Argentine, the "frail" heir | known by: Eden, king, Ysolde, Duke | reveal planned: ch 160 (public)
-- The Black Order is Eden alone with his Pillars and shadow-soldiers | known by: Eden, king, Ysolde, Duke | reveal planned: ch 140 (Lysette)
-- Corentin Corvaille was a Veil when the Black Order killed him; Eden did it | known by: Eden (face only), Ysolde | reveal planned: ch 38 (reader), ch 142 (Lysette)
-- Vice-headmaster Halvard Strent is the Tailor, Liora's killer | known by: nobody | reveal planned: ch 185
-- The Tailor knows Eden's identity and waits for the seal to break so the Crown can be taken | known by: nobody | reveal planned: ch 50 (hint), ch 186
-- Liora sealed Eden's Gate, Door and memory; he opened the Gate that night (hairpin Morrowpin) | known by: Duke (partly) | reveal planned: ch 175
-- Ysolde is Liora's half-sister and holds her letter for Eden at 19 | known by: Ysolde, Duke | reveal planned: ch 155
-- King Theodric holds a kill-order on Eden if the "Key" wakes wrong | known by: king, Ysolde | reveal planned: ch 210
-- The front stalls before Verandel because Kaurveth wants the vessel alive | known by: Hushborn | reveal planned: ch 230
-- Eden is the Emperor of Void reborn; the Emperor's abdication caused the invasion | known by: the Tutor | reveal planned: ch 280
-- The Dragon imprisoned the Emperor; jailer and prisoner share Eden's body | known by: nobody fully | reveal planned: ch 285
-- The Tutor is the Emperor's regret, not the whole Emperor | known by: the Tutor | reveal planned: ch 300
-- Niamh is replaced by a Veil on a field patrol (ch 62) | known by: nobody | reveal planned: ch 110
-- Eden has a third, own Tenet sleeping under the other two | known by: nobody | reveal planned: ch 360
+- Corentin Hollen was a Veil when the Black Order (Eden) killed him | known by: Eden (face only), Ysolde | reveal planned: ch 38 (reader), ch 140 (Lysette)
+- The Tailor knows Eden is the vessel and waits for his seal to crack | known by: nobody | reveal planned: ch 50 (hint), ch 186
+- Ashen Crowns' Grey Grafts are Hush flesh supplied by the Tailor | known by: Merrow | reveal planned: ch 95
+- Rowan Tallis is the lost heir of conquered Lirenne | known by: Merrow | reveal planned: ch 110
+- Eden is the Black Order | known by: Eden, king, Ysolde, Duke | reveal planned: ch 140 (Lysette)
+- Count Lucan Merrow is the Regent of the Ashen Crowns | known by: nobody | reveal planned: ch 150
+- Ysolde forged Liora's identity and holds her letter for Eden at 19 | known by: Ysolde, Duke | reveal planned: ch 155
+- Eden is the Argentine heir (public) | known by: king, Ysolde, Duke, household, Ostwald, twins | reveal planned: ch 160 (Eden declares)
+- The Iron King summoned the Emperor; Theodric, Aldous and Liora fought him; the Emperor killed the king | known by: king, Duke | reveal planned: ch 170
+- Liora was the Valkyrie of Heaven Gate; Eden opened the Gate that night; she sealed him and died of the Refusal | known by: Duke, king, Ysolde | reveal planned: ch 175
+- Halvard Strent is the Tailor, Liora's killer | known by: nobody | reveal planned: ch 185
+- Liora saved infant Lysette with a feather; it is why Eden is drawn to her and his nightmares quiet near her | known by: nobody | reveal planned: ch 200
+- King Theodric holds a kill-order on Eden if the Void wakes | known by: king, Ysolde | reveal planned: ch 210
+- The Void Host sleeps inside Eden; the front stalls because Kaurveth wants the essence | known by: Hushborn | reveal planned: ch 230-232
+- The Emperor gave his whole essence to keep unborn Eden alive; the summoning widened the Wound | known by: the Tutor | reveal planned: ch 280
+- The Dragon swore to Liora to guard Eden, sharing a body with its archenemy | known by: Dragon | reveal planned: ch 285
+- The Tutor is the Emperor's last echo, whose only wish is for Eden to live as Eden | known by: the Tutor | reveal planned: ch 300

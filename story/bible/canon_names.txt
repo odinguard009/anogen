@@ -1,35 +1,19 @@
 # People
 Eden Aster Argentine
-Eden Hale
 Eden
 Aster
 Argentine
-Hale
-House Hale
 House Argentine
-Lysette Maren Corvaille
 Lysette
 Maren
-Corvaille
-Corentin Corvaille
 Corentin
-Aurelian Thorne Valdis
-Aurelian
-Thorne
 Valdis
-Tobias Fenwick
-Tobias
-Fenwick
-Niamh Carrow
-Niamh
-Carrow
 Tesfane Okoru
 Okoru
 Duke Aldous Argentine
 Aldous
 Liora Argentine
 Liora
-Vercourt
 King Theodric IV
 Theodric
 Ysolde Lisle
@@ -41,23 +25,11 @@ Aubrec Wendell
 Wendell
 Aldric Argentine
 Aldric
-Pell Garrow
-Pell
-Garrow
-Anneliese Kroft
-Anneliese
-Kroft
-Dorran Yeats
-Dorran
-Yeats
 Dame Hildegard Ostwald
 Hildegard
 Ostwald
 Ilse Brandmeier
 Brandmeier
-Countess Margit Adler
-Margit
-Adler
 Gideon Valdis
 Gideon
 Rosalind Mereaux
@@ -113,7 +85,6 @@ Sepiroth Vault
 Candor
 Wardenshell
 Morrowpin
-Crown of Nothing
 Throne of Nothing
 Throne Door
 Doorstep
@@ -138,9 +109,6 @@ Bells
 Resonance Bell
 Keeping
 Witness
-Ledger
-Homing
-Rampart
 Stitch
 Crown Well
 Crown Wells
@@ -193,11 +161,8 @@ Undercroft
 Long Stair
 Lance
 Lances
-Lance Seven
-Lance One
 Ladder
 Silver Lists
-Winter Practicum
 Crossing
 Founding Lantern Night
 Lantern Night
@@ -270,3 +235,127 @@ Tawanqar Highland Commonwealth
 Tawanqar
 Sapa
 Ruhnmaran Union
+Eden Wren
+Wren
+House Wren
+Lysette Maren Hollen
+House Hollen
+Corentin Hollen
+Rowan Tallis
+Rowan
+Tallis
+Dawn Boy
+Dawnbreak
+Clara Belmont
+Clara
+Belmont
+Felix Ashgrove
+Felix
+Valerius Aurenmark
+Valerius
+Seraphine Aurenmark
+Seraphine
+Aurenmark
+House Aurenmark
+Gerulf Aurenmark
+Gerulf
+Iron King
+Valkyrie
+Valkyries
+Valkyrie of Heaven Gate
+Heaven Gate
+Refusal
+Bertram Quell
+Bertram
+Quell
+Greta Vos
+Greta
+Vos
+Pim
+Odessa
+Hammond
+Silverfell
+Crown Quarter
+Sentence
+Trail
+Verdict
+Mischief
+Crown of Nothing
+Void Host
+Ashen Crowns
+Regent
+Eleven Crowns
+Ember
+Embers
+Cinder
+Cinders
+Grey Graft
+Grey Grafts
+Crown of Kaldmark
+Crown of Morvanne
+Crown of Thornmere
+Crown of Lirenne
+Crown of Gallowmarch
+Ferryman
+Ilsabet Rorke
+Ilsabet
+Rorke
+Desmond Harrow
+Desmond
+Harrow
+Thornmere
+Valmoria
+Ostrevaal
+Kaldmark
+Lirenne
+Morvanne
+Ysterholt
+Caradonne
+Sarnhold
+Aubrevelle
+Gallowmarch
+Grauvale
+Rite of the Far Door
+Frost Hand
+Twentieth Rule
+Lantern Ball
+Steward Council
+Discipline Committee
+Rooftop Garden
+Old Observatory
+Lance Nine
+Ten
+Year 5
+Year 6
+Winter Rotation
+Spell Grammar
+Lantern-Eyed
+Quiet Blade
+Bastion
+Last Archer
+Cartographer of Doors
+Mender
+Siegebreaker
+Herald
+Warden of the Deep Ranks
+Honest Blade
+Professor
+Headmistress
+Prince
+Princess
+Crown Prince
+Lady
+Lord
+Duchess
+Duke
+King
+Emperor
+Dragon
+Remember
+Lady Justiciar
+Mother Superior
+Archmage
+Forgemaster
+Admiral
+Warden
+Captain-General

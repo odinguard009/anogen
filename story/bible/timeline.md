@@ -1,33 +1,30 @@
-# Timeline (reference). PR = Pale Reckoning (years since the First Breach). Story opens autumn PR 142.
+# Timeline (reference). PR = Pale Reckoning (years since the First Breach). Story opens autumn PR 112.
 
 ## Before the Breach
-- Ages ago: the Emperor of Void rules the Void from the Throne of Nothing. He unmakes what worlds discard. Ten Pillars and nine sleeping legions serve him. Under the throne's weight lies the Hush.
-- The Sepiroth Dragon, Elysmar's guardian of things made, keeps a Vault of every holy weapon and treasure. Dragon and Emperor are enemies for ten thousand years: keeping against ending. They fight across worlds; neither can win.
-- About 900 years before PR: the Dragon chooses a mortal knight, Aldric Argentine, as "warden of the Gate": his silver-eyed line can sense relics. The Argentines become the crown's right hand and hereditary masters of the Argent Order.
-- Kingdom of Verandel founded 640 years before PR. The Well Wars between nations rage for centuries; grudges remain.
+- Ages ago: the Emperor of Void rules the Void from the Throne of Nothing; Ten Pillars and nine sleeping legions serve him; beneath him lies the Hush. The Sepiroth Dragon rules Heaven Gate and keeps the Vault; its Valkyries glean holy weapons from dying worlds. Dragon and Emperor: enemies for ten thousand years.
+- Halveren is a patchwork of realms: Verandel (House Aurenmark) and eleven other kingdoms, plus Skarnheim and the Aurelis See. House Argentine has served the Aurenmark crown for centuries.
 
-## The Abdication (PR 0)
-- The Emperor, bored of endless existence, decides to end and be reborn as something that can finish. Only the Dragon can kill him. He goes to Elysmar's south pole and demands a last duel.
-- The duel cracks the pole. The Emperor lets himself lose. As he dies the Dragon understands the throne will stand empty, and tries to lock the dying soul (clinging to the Crown of Nothing) in the Vault as a prisoner.
-- The lock fuses jailer, prisoner and Vault. Every relic in the world is pulled into the Vault that night: the Night the Relics Vanished. The fused seed sinks into the world's mana veins.
-- With the throne empty, the Hush rises through the crack at the pole: the First Breach.
-
-## The invasion
-- PR 0-30: Glaceren falls. Nobody understands the threat.
-- PR 9: Hallowcrest founded.
-- PR 31-61: Ruhnmara's city-states fall one by one; the Ruhnmaran Union collapses PR 61.
-- PR 40: the Tailor first recorded (a Brennoch admiral exposed after his death).
-- PR 60-118: Okarune and Selvara are eaten from the south. Tawanqar loses its Crown Well PR 118. Refugees flood north.
-- PR 100: the Concord of Solmarch founded; never achieves a united command.
-- PR 120 onward: the front reaches the Middle Sea and stalls at the Teeth. The Southern Wall is credited.
+## Breach and conquest
+- PR 0: the weary Emperor's throne thins; the Hush cracks Elysmar's pole (the Wound). The Dragon pulls every relic into the Vault (Night the Relics Vanished). Valkyries begin gleaning on the southern fronts.
+- PR 0-61: Glaceren, then Ruhnmara fall (slow era).
+- PR 9: Hallowcrest founded by the then-king.
+- PR 40: the Tailor first recorded.
+- PR 53: Gerulf Aurenmark crowned at 20. Starts wars at once.
+- PR 53-68: Gerulf conquers all Halveren (eleven kingdoms made duchies; Skarnheim and Aurelis occupied). Becomes the Iron King. At 35 he plans to invade other continents despite the Hush.
+- PR 83: Gerulf 50. Crown Prince Theodric (20) and young Duke Aldous Argentine (21) plot a coup; it fails; Aldous is sent to the Okarune front to die. There he meets Liora, a Valkyrie gleaning relics from a falling city; they fight side by side; she stays for him, sealing her wings. Soldiers call her the Valkyrie of Heaven Gate.
+- PR 86: Ysolde Lisle (then a palace clerk for the prince) forges Liora's identity: last daughter of extinct House Wren of Thornmere. Aldous and Liora marry PR 88. Wren stays safe for Eden later: the house is extinct, the public only ever called her "the Duchess", her maiden name sits in sealed registers, and Wren is a common surname among Thornmere refugees.
+- PR 93: Gerulf, 60, performs the Rite of the Far Door in the sunken chapel of Grauvale to summon a weapon for three continents. The Emperor of Void answers, dragged through the Hush; the Wound tears wider. The Emperor's Void Host marches; nations flee; nobody dies, though nobody notices that until later. Inside Verandel people fear him more than the Hush.
+- PR 93, winter: the Emperor's test ends. Theodric, Aldous and Liora (pregnant) turn on the Iron King. The Emperor intervenes, fights the three, acknowledges them, and kills Gerulf: "I have never killed a human on this world. Until now." He says he is empty, that endless life stole his purpose. Seeing Liora's child will be unmade by the Refusal, he pours all his essence and power into the unborn child: "Perhaps this is what I came for." He vanishes. Theodric is crowned. The public is told the Iron King died of a fever; the Void Host was "disbanded".
+- PR 94: Eden Aster Argentine is born. Theodric frees Skarnheim and Aurelis. Liora, at an Ivory infirmary, saves an infant girl dying of Pale fever with one of her feathers: Lysette Hollen.
+- PR 93-112: with the Wound wider, Okarune and Selvara fall. Tawanqar loses its Crown Well PR 101. The Concord of Solmarch meets yearly, never unites.
 
 ## Eden's life
-- PR 124: the fused seed finds a vessel strong enough: Eden Aster Argentine is born to Duke Aldous and Liora Argentine (née Vercourt). Silver eyes darken to grey by age 3.
-- PR 129 (age 5): genius shows: reads adult texts, calms a panicked horse by talking, asks his mother why grown-ups lie to be kind.
-- PR 130-134: dreams start: a locked door, a voice at a board game.
-- PR 134 (age 10), Liora's birthday: Eden secretly opens the Sepiroth Gate for the first time and draws out a small relic, a silver hairpin called Morrowpin, to give her. The flare of the Vault is the signal the Tailor (wearing the face of the family physician Aubrec Wendell) had waited six years for. That night it attacks to take Eden. Liora fights it in the garden glasshouse and uses Keeping at full depth: she locks Eden's Gate and Door, locks his memory of opening the Gate, and pins the Tailor in place. She dies of total mana-wither. The Tailor tears free hours later, leaving Wendell's dust behind, and vanishes.
-- Official cause: sudden mana-wither illness. Eden remembers only: the glasshouse, her hand on his eyes, the cold, and believing he froze while she died. Duke Aldous knows Eden opened something that night and hides it; he cannot look at the hairpin, so Eden thinks his father blames him.
-- PR 134-137: Eden goes cold and flat. Ysolde Lisle (Liora's half-sister) takes the letter Liora wrote months earlier "for Eden at nineteen".
-- PR 137 (age 13): a Veil kills a minister; the Golden Seal fails. Eden, already able to see wrong shadows, kills a Veil in the palace in front of the king. King and Duke create the Black Order as a solo secret order. Public story: the Argentine heir is frail and kept at the northern estate. Eden lives as Eden Hale, ward of loyal House Hale.
-- PR 140: Black Order executes "traitor" Corentin Corvaille of the Golden Seal (a Veil; the real Corentin was taken a month earlier).
-- PR 142 autumn: Eden, 18, transfers into Hallowcrest Year III by royal writ: three students vanished since spring.
+- PR 99 (5): genius shows: reads adult texts, talks a panicked horse calm, asks why grown-ups lie to be kind.
+- PR 100-104: dreams: a locked door, a faceless man at a board game, endless war.
+- PR 104 (10), Liora's birthday: Eden secretly opens the Sepiroth Gate and draws out a silver hairpin, Morrowpin, as a gift. The flare of Heaven-light wrapped in Void is what the Tailor (wearing family physician Aubrec Wendell) had waited ten years to confirm. That night it comes to take the essence. Liora unseals her wings for the first time in 21 years and fights it in the glasshouse; with Keeping she locks Eden's Gate, Door and memory and pins the Tailor; the Refusal takes her as she finishes. She becomes light and feathers. The Tailor tears free hours later.
+- Official cause: sudden mana-wither. Eden remembers the glasshouse, her hand over his eyes, cold, and believes he froze while she died. His feelings go flat. The Duke keeps the truth because Liora asked him to.
+- PR 106 (12): Volkhovar's Frost Hand kidnaps Princess Seraphine at the Argentine hunting lodge. Eden goes alone, uses Door and Candor, and brings her back. The twins see everything.
+- PR 107 (13): Theodric and Aldous create the Black Order for him. Eden asks that his existence be hidden until he chooses. Public: the heir is raised by tutors in the north.
+- PR 108 (14): enters Hallowcrest as Eden Wren, scholarship ward. Headmistress Ostwald is told his name and power.
+- PR 110: the Black Order executes "traitor" Corentin Hollen (a Veil).
+- PR 112 autumn: Year 5 begins. Story opens weeks before the Lantern Ball.

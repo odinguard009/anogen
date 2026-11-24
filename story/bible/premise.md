@@ -1,15 +1,15 @@
 # Premise
 
-**Pitch.** On Elysmar, a world three times the size of Earth, silent invaders from a starving dimension (the Hush) have eaten 30% of the planet from the south pole up. Eden Argentine, 18, the hidden heir of the kingdom's greatest knight house, enters the Royal Academy of Hallowcrest under the false name Eden Hale. By night he is the entire Black Order, the 13th knight order the whole kingdom fears: a one-boy secret service that hunts Veils, invaders wearing human faces. He carries two abilities no person should hold: Melsche Door (doors cut into shadow) and Sepiroth Gate (authority over the Sepiroth Vault, where every holy weapon ever made now rests). He does not know why.
+**Pitch.** Elysmar, a world three times Earth's size, is being eaten from the south pole by the Hush, a silent starving dimension; 30% is already grey. In the Kingdom of Verandel, Eden Wren, 18, a fifth-year at the Royal Academy of Hallowcrest, sleeps on a rooftop garden, skips class, and still never leaves the top ten. Nobody notices him. That is the point. He is Eden Aster Argentine, hidden heir of the kingdom's greatest knight house, the whole of the secret Black Order that hunts Veils (invaders wearing human faces), and the holder of two abilities no person should have: Melsche Door (doors cut into shadow, an Emperor's sleeping army behind them) and Sepiroth Gate (every holy weapon ever made).
 
-**Tone.** Korean web-novel / light-novel energy, grounded. Academy rivalry, spy intrigue, court politics, frontline war. Cold first-person tactician narration with dry humor. Slow-burn romance. Comedy is light and never undercuts grief or danger.
+**Opening.** He wakes from a dream of endless war to a girl crying beside him, unaware he is there. He offers a handkerchief. Lysette Hollen, proud, sharp-tongued, Discipline Committee, has just watched the boy she loves invite someone else to the Lantern Ball. From then on she drags Eden to class, and class drags him into fights.
 
-**Core conflict.** Outside: the Hush advances while thirteen nations bicker over the last mana wells, and Veils rot the courts from inside. Inside: Eden is a lock with three things behind it: his mother's last seal, a sleeping Emperor of Void, and the Sepiroth Dragon who imprisoned that Emperor. The deeper his power opens, the less of "Eden" may remain.
+**Tone.** Korean web-novel / light-novel energy, grounded. Academy life, spy intrigue, terror plots, court politics, frontline war. Dry first-person tactician narration. Slow-burn romance. A boisterous comic Argentine household with teeth. Comedy never undercuts grief or danger.
 
-**Want.** Find the Veil that killed his mother eight years ago, and keep everyone at a distance so nobody dies for him again.
+**Core conflict.** Outside: the Hush advances; thirteen nations bicker over the last mana wells; the Ashen Crowns, heirs of kingdoms the old Iron King conquered, wage terror for revenge; Veils rot courts from inside. Inside: Eden's powers and memories are sealed by his dead mother, and what is unsealing is an Emperor's gift that may cost him himself.
 
-**Need.** Accept being known: his name, his past, his guilt. Let people stand beside him instead of behind his shield. Choose to be himself, not the Emperor's vessel and not the kingdom's weapon.
+**Want.** Stay unseen, find the Veil that killed his mother, keep everyone at arm's length so no one dies for him again.
 
-**Theme.** Names are trust. Endings (Void), keeping (Vault) and beginnings (Eden) must coexist. A person is the choices they make, not the soul they inherited.
+**Need.** Feel again. Be known by name. Stand in the light and choose to be Eden, not a weapon, not an Emperor's echo.
 
-**Romance.** One line only: Eden and Lysette Corvaille, the Golden Seal cadet sworn to unmask the Black Order, which executed the thing wearing her brother's face. She hunts the person she slowly falls for.
+**Theme.** Names are trust. Old sins (conquest, summoning) demand honest answers, not hiding. Being seen is braver than being strong.

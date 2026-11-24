@@ -1,25 +1,25 @@
 # Series arc (8 arcs, ~400 ch)
 
-1. Ch 1-50 The Transfer. Year III autumn-winter. Q: who takes students? Veil nest under the Undercroft; first loan (Tobias); a Hierarch dies saying "the Tailor sends regards to Liora's boy".
-2. Ch 51-100 The Silver Lists. Spring-summer. Q: who in the Order Council is a Veil? Tourney, Golden Seal vs Black Order war, Niamh replaced (62), Pillar Hald (80). Ends: a pretender "Argentine heir" appears at court.
-3. Ch 101-150 The Concord. Year IV. Summit at Solmarch; Volkhovar and Aurelis hunt relic rumours. Niamh's Veil caught alive (110). Lysette learns Eden is the Black Order and killed "Corentin" (140-142): romance breaks. The Crossing, graduation.
-4. Ch 151-200 Argentine. Eden, 19, unmasks the pretender by revealing himself (160). Liora's letter (155), the night she died (175), Strent is the Tailor (185), father reconciled. Lysette returns as partner, not yet lover.
-5. Ch 201-250 Across the Middle Sea. Counteroffensive into Okarune with Mansakar. The king's kill-order (210). Armory of a Thousand Names (230). The front stalled on purpose (230).
-6. Ch 251-300 The Emperor's Name. Eden breaks his own rule (260). He is the Emperor reborn; the abdication opened the Breach (280). Nations call him the cause. Dragon was the jailer (285). Nihl rises; the Tutor is the Emperor's regret (300).
-7. Ch 301-350 The Pale. A coalition marches to Glaceren because of him. Lysette's confession (320). Niamh pulled from the Hush (330). Nihl turns ally (340).
-8. Ch 351-400 Eden. His own Tenet wakes (360). He refuses throne and Kaurveth, remakes the Void's wall as a door with a keeper, and stays human.
+1. Ch 1-50 The Rooftop. Year 5 autumn. Handkerchief; Lysette drags Eden to class; Ashen Crowns card; they hit the Lantern Ball (25); Winter Rotation; Wall attack; first loan (Felix); "the Tailor sends regards to Liora's boy" (50).
+2. Ch 51-100 Ashen Crowns. Spring. Silver Lists; cell war in Solmarch; Black Order vs Golden Seal; Lysette starts to let Rowan go; Hald (80); grafts are Hush flesh (95).
+3. Ch 101-150 The Concord. Year 6, Eden 19. Summit; Rowan is Lirenne's heir (110) and is tempted; Lysette learns Eden is the Black Order who killed "Corentin" (140): rupture. Seraphine confesses, is refused kindly (145). Regent is Merrow (150). Graduation.
+4. Ch 151-200 Argentine. Liora's letter (155). Eden declares himself heir to shield Rowan and Lysette (160). Iron King truth (170); Liora the Valkyrie, his seal (175); Strent is the Tailor (185). Middle names (195); the feather (200).
+5. Ch 201-250 Across the Middle Sea. Front posting. King's kill-order (210). Armory of a Thousand Names; front stalled on purpose; Void Host revealed (230-232).
+6. Ch 251-300 The Emperor's Gift. Eden breaks his rule (260). The Emperor gave himself for him; the summoning widened the Wound (280). Nations call Eden the cause. Dragon's promise (285). Ashen Crowns choose. Tutor's wish (300).
+7. Ch 301-350 The Pale. Coalition to Glaceren. Lysette confesses, afraid it ends like before (320). A rescue from the Hush (330). Nihl turns (340).
+8. Ch 351-400 Eden. He refuses the throne and Kaurveth, closes the Wound with Door and Gate as one, stays human.
 
 ## Twist ladder (planted -> revealed)
-Corentin was a Veil Eden killed 4->38/142; Tailor knows Eden 12->50; Black Order is Eden 13->140; Niamh replaced 62->110; Ysolde is his aunt 9->155; Eden is the Argentine heir 3->160; Eden opened the Gate the night Liora died 1->175; Strent is the Tailor 8->185; king's kill-order 33->210; front stalls by design 20->230; Emperor reborn 2->280; Dragon was jailer 15->285; Tutor is regret 30->300; third Tenet 3->360.
+Corentin was a Veil 4->38/140; Tailor knows Eden 8->50; grafts 22->95; Rowan's blood 6->110; Black Order is Eden 13->140; Seraphine's feeling 10->145; Regent Merrow 25->150; letter 9->155; Iron King truth 30->170; Valkyrie mother 1->175; Strent=Tailor 8->185; feather 1->200; kill-order 33->210; front by design 20->230; Emperor's gift 2->280; Dragon's promise 15->285; Tutor 30->300.
 
 ## Romance (Eden and Lysette only)
-Distrust and sparring (1-30); grudging partners, shared silences (31-100); yearning, near-confession at the Lantern Night (120); rupture (142); slow repair (151-200); middle names exchanged as trust (195); war closeness (201-300); confession (320); vow with middle names after the final battle (398).
+Handkerchief, bickering, forced attendance (1-30); she watches Rowan, Eden watches her (31-100); Rowan notices too late (130); rupture (140); repair (151-200); middle names (195); war closeness (201-300); confession (320); vow (398). Seraphine: friend only; her arc ends in grace, not rivalry.
 
 ## Comedy
-Eden's deadpan vs Tobias; Dragon vs Tutor bickering; Gorrath voicing all thirteen agents; frail-heir gossip to his face; Form 13-B; Lysette's flustered logic.
+Eden's deadpan vs Lysette's Committee rules; the Argentine household; the Duke's disguises and ballads; Dragon vs Tutor; Gorrath's thirteen voices; Form 13-B.
 
 ## Battle variety
-Masked urban hunts, duels, Undercroft maze, silent Wall siege, naval strait, tourney, court assassination, desert war, legions, dream duels, the Hush.
+Masked hunts, duels, Ball hostage raid, silent Wall siege, terror cells, tourney, naval strait, desert war, legions, dream duels, the Hush.
 
 ## Ending
-Bittersweet-hopeful: the Breach closes, the Pale slowly greens, Eden keeps the door as a living man; names spoken openly.
+Bittersweet-hopeful: Wound closed, Pale greening, duchies given voice, names spoken openly.

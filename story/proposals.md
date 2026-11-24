@@ -1,26 +1,32 @@
-# Proposals: keputusan yang perlu dikonfirmasi Odin
+# Proposals: keputusan untuk dikonfirmasi Odin (revisi 2, ide 1-19)
 
-Semua di bawah sudah saya pakai di story pack. Kalau setuju, cukup jawab "setuju semua". Kalau mau ganti, sebut nomornya.
+Semua sudah dipakai di story pack. Jawab "setuju semua" atau sebut nomor yang mau diganti.
 
-## A. Asumsi dan pilihan yang saya ambil
-1. **Peta (ambigu: Anda menulis "timur" dua kali).** Saya pakai peta Bumi yang dicerminkan timur-barat: benua analog Asia (Kesharra) di BARAT, analog Amerika (Vastlund) di TIMUR seberang samudra Grey Gulf. Halveren (Eropa) tetap di tengah-utara. Konsekuensi: selat Gibraltar-analog (the Teeth) ada di ujung timur Middle Sea.
-2. **Nama MC (kontradiksi "bernama Argentine tapi tak ada yang tahu").** Nama asli: Eden Aster Argentine (Aster = nama tengah rahasia dari ibunya). Nama publik sehari-hari: Eden Hale, anak asuh House Hale (keluarga ksatria loyal). Publik mengira pewaris Argentine itu anak sakit-sakitan yang disembunyikan di utara.
-3. **30% planet.** Dihitung dari luas permukaan: 4 benua selatan + laut selatan di bawah kira-kira 45 derajat LS = sekitar 30%. Invasi merambat lewat urat mana di batuan, jadi daratan cepat habis, laut dalam memperlambat.
-4. **Negara terkuat No. 1: Kekaisaran Volkhovar** (analog Rusia): sumur mana terbesar, jauh dari front, untung saat negara lain berdarah. Verandel No. 2.
-5. **Jumlah negara: 13 negara berdaulat** (masing-masing memegang 1 dari 13 Crown Well yang tersisa) + Tawanqar sebagai sisa negara pengamat tanpa sumur. Total 14 entri.
-6. **Sistem kemampuan "Tenet"** (tema dari keyakinan terdalam; naik tingkat hanya saat keyakinan diuji). Kapasitas mana diukur "Bells" 1-7. Dua sumbu terpisah.
-7. **Kenapa Eden punya dua kemampuan:** satu milik Emperor, satu milik Vault/Dragon. Tenet asli Eden sendiri masih tidur (twist ch 360).
-8. **Kematian ibu (asli, bukan meniru):** Eden umur 10 diam-diam membuka Sepiroth Gate untuk mengambil jepit rambut pusaka sebagai hadiah ulang tahun ibu; pancaran itu memancing Veil (penyusup) yang menyamar jadi dokter keluarga. Ibu mengunci kekuatan dan ingatan Eden lalu mati. Segel inilah alasan kekuatan Eden terbuka bertahap.
-9. **Penyebab invasi:** Emperor of Void (kehidupan lampau Eden) memilih mati di kutub selatan; tahtanya kosong, makhluk Hush naik. Jadi MC tanpa sadar adalah penyebab invasi (twist besar ch 280).
+## A. Pilihan baru (ide 11-19)
+1. **Nama keluarga ibu: Wren.** Eden dikenal sebagai "Eden Wren". Liora (Valkyrie) diberi identitas palsu sebagai putri terakhir House Wren, keluarga kecil dari kerajaan taklukan Thornmere yang sudah punah. Aman karena keluarganya punah, publik hanya mengenalnya sebagai "Duchess", nama gadisnya ada di arsip tersegel, dan "Wren" nama umum di kalangan pengungsi Thornmere. Efek samping yang berguna: nama ini membuat Ashen Crowns mengira Eden simpatisan, jadi ia terlibat secara tidak sengaja.
+2. **Heroine: Lysette Maren Hollen.** Wakil ketua Komite Disiplin, peringkat 4. Angkuh, lidahnya tajam, gampang salah tingkah kalau dipuji, diam-diam merawat taman atap sendirian. Keluarga jaksa (Golden Seal) yang tercoreng karena kakaknya, Corentin, dieksekusi Black Order (ternyata Veil). **Cowok yang ia sukai: Rowan Tallis**, "the Dawn Boy": yatim dari benteng perbatasan yang dibesarkan satu garnisun, ceria, selalu lapar, baik, tidak peka. Ia ternyata pewaris kerajaan taklukan Lirenne. Ia mengajak Clara Belmont ke Lantern Ball.
+3. **Alasan tersembunyi Eden tertarik pada Lysette:** saat bayi Lysette diselamatkan Liora dengan sehelai bulu Valkyrie. Mimpi perang Eden mereda di dekatnya. Terungkap ch 200.
+4. **Kelompok antagonis: Ashen Crowns.** Pewaris 11 kerajaan yang ditaklukkan Iron King, menuntut balas pada wangsa Aurenmark. Pangkat: Regent, Eleven Crowns, Embers, Cinders. Kekuatan dari Grey Graft (serpihan daging Hush). Rekrutmen lewat kartu hitam bertuliskan "Remember". Lapisan reveal: Grey Graft berasal dari Tailor (ch 95), Rowan pewaris Lirenne (ch 110), Regent adalah Count Merrow, kepala intelijen kerajaan (ch 150).
+5. **Penyebab Breach:** retakan awal (PR 0) terjadi karena Emperor of Void lelah sehingga lantai Void menipis. Ritual Iron King (PR 93) merobek Wound lebih lebar, membuat invasi berlari jauh lebih cepat; Okarune dan Selvara jatuh dalam 19 tahun. Ini menjaga ide Anda bahwa invasi sudah ada saat Iron King berumur 35.
+6. **Emperor "tidak pernah membunuh manusia":** saya buat Iron King satu-satunya: "I have never killed a human on this world. Until now." Mohon konfirmasi.
+7. **Valkyrie of Heaven Gate:** ksatria naga Sepiroth yang mengumpulkan senjata suci dari dunia yang sekarat. Dunia Elysmar menolak makhluk asing (the Refusal). Liora bertahan 21 tahun dengan menyegel sayapnya, lalu mati saat membukanya untuk melindungi Eden (umur 10). Sepiroth Gate adalah warisan darahnya. Melsche Door adalah hadiah Emperor.
+8. **Princess Seraphine:** suka Eden sejak diselamatkan dari penculik Volkhovar (Eden umur 12). Eden hanya menganggapnya teman. Ia mengaku (ch 145), ditolak dengan lembut, lalu menjadi sekutu Lysette dan utusan Concord. Bukan harem, bukan saingan cinta.
+9. **Satu sahabat: Felix Ashgrove**, putra master Verdant Thorn, setiap hari bertanya "Eaten today?". Ia tidak tahu rahasia Eden. Ia penerima pinjaman relik pertama (ch 47). Catatan: Seraphine tetap "teman" tapi bukan sahabat dekat; Valerius rival.
+10. **Akademi:** 6 tahun, masuk umur 14. Aturan Kedua Puluh: lewat usia 20 dikeluarkan. Eden kelas 5, peringkat 8 (selalu 7-9). Lantern Ball di akhir semester gugur. Ada Komite Disiplin, Steward Council (ketua: Valerius), dan rotasi musim dingin ke Southern Wall.
+11. **Siapa tahu apa:**
+   - Eden pewaris Argentine: raja, Ysolde, Duke, seisi rumah Argentine, Headmistress, si kembar.
+   - Kekuatan Eden: raja, Ysolde, Duke, Headmistress, si kembar.
+   - Black Order: hanya raja, Ysolde, Duke.
+12. **Identitas Eden disembunyikan:** publik mengira pewaris Duke dibesarkan guru privat di utara (ada rumor sakit-sakitan atau tidak ada). Eden mengumumkan diri sendiri di ch 160, untuk melindungi Rowan dan Lysette.
 
-## B. Pertanyaan (dengan rekomendasi saya)
-1. Judul: "The Thirteenth Knight Holds Every Sword" oke? Rekomendasi: pakai; alternatif pendek "The Black Thirteenth".
-2. Sekretaris raja (Ysolde) dibuat bibi Eden dan setia. Atau mau dijadikan pengkhianat? Rekomendasi: tetap setia; pengkhianatnya wakil kepala akademi (Strent).
-3. Niamh (teman) diganti Veil di arc 2 lalu diselamatkan di arc 7. Terlalu kelam? Rekomendasi: pertahankan, karena memberi taruhan nyata tanpa kematian permanen.
-4. Lysette, pemeran romansa, memburu Black Order karena "kakaknya" dieksekusi (ternyata Veil). Oke sebagai komplikasi utama? Rekomendasi: ya.
-5. Romansa: ciuman pertama boleh ada (bersih, non-seksual) sekitar ch 320, atau cukup pengakuan dan sumpah nama tengah? Rekomendasi: pengakuan ch 320, ciuman ringan setelah pertempuran akhir.
-6. Panjang seri sekitar 400 bab (8 arc x 50). Oke? Rekomendasi: ya; arc bisa dipendekkan.
-7. Eden mulai sebagai siswa pindahan tahun ke-3 (bukan murid baru) supaya umurnya pas 18 dan lulus 19/20. Oke? Rekomendasi: ya.
+## B. Pertanyaan (rekomendasi saya)
+1. Lantai dansa pertama Eden-Lysette di atap setelah serangan Ball (ch 26): terlalu cepat? Rekomendasi: pertahankan, sebagai momen rindu, bukan pacaran.
+2. Clara terluka di ch 47-50 (bukan mati)? Rekomendasi: terluka; kematian disimpan untuk arc perang.
+3. Seraphine perlu romansa sendiri nanti (misalnya dengan Felix, latar belakang saja)? Rekomendasi: boleh, sangat pelan, mulai arc 5.
+4. Judul tetap "The Thirteenth Knight Holds Every Sword"? Rekomendasi: ya.
 
-## C. Inkonsistensi yang belum bisa diselesaikan
-- Tidak ada. Catatan kecil: Anda menyebut 3 benua "hampir 100%" habis; saya set Okarune 97%, Selvara 98%, Ruhnmara 100%, agar dua negara sisa (Mansakar, Tawanqar) masih bisa muncul.
+## C. Yang saya ubah dari draf 1
+Siswa pindahan dan nama "Hale" dihapus. Tobias, Niamh, dan Aurelian dihapus. Twist "naga sebagai sipir" diganti "naga berjanji pada Liora". Tahun cerita sekarang PR 112.
+
+## D. Inkonsistensi tersisa
+Tidak ada yang besar. Ide 11 menyebut "hanya 3 orang tahu kekuatannya"; saya artikan "di akademi", karena raja, Ysolde, dan Duke jelas juga tahu.

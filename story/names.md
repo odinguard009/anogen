@@ -1,12 +1,13 @@
 # Name pool and naming rules
 
 Naming rules (prose; tools ignore this section):
-- Verandel: given + hidden middle (keeping name, given by the mother at the first-year rite, soul-bound, used in oaths, Tenet registration and relic loans) + house. Public form: given + house ("Eden Hale"). Nobles may add "of House X". Commoners use a place or trade byname as house. Saying someone's middle name aloud without leave is a grave insult; telling yours is deep trust. A Veil cannot speak its victim's middle name.
+- Verandel: given + hidden middle (keeping name, given by the mother at the first-year rite, soul-bound, used in oaths, Tenet registration and relic loans) + house. Public form: given + house ("Eden Wren"). Eden uses his mother's cover surname Wren (extinct Thornmere house; common among refugees). Nobles may add "of House X". Commoners use a place or trade byname as house. Saying someone's middle name aloud without leave is a grave insult; telling yours is deep trust. A Veil cannot speak its victim's middle name.
 - Brennoch: given + secret hearth-name + clan. Skarnheim: given + patronymic (-sen/-dottir) + hidden rune-name. Aurelis clergy: vow name only.
 - Volkhovar: given + patronymic + family; soul-names registered by the state. Orduhan: given + clan; hidden milk-name.
 - Qianlu: family name first, then given; courtesy name among peers; secret infant name. Akizane: family name first; hidden shadow-name.
 - Saravant: given + father's name + house/region; hidden star-name. Ezharan: given + bin/bint + father + tribe; hidden mother-name.
 - Jayavara: often one name plus honorific; hidden weton-name. Norhaven: given + PUBLIC middle + surname.
+- Conquered duchies (old kingdoms of Thornmere, Lirenne, Kaldmark...): Verandel form, but families quietly keep old-kingdom house names and Ashen Crowns use them as recruitment lists.
 - Mansakar: given + lineage praise-name; hidden whisper-name. Tawanqar: given + community name; hidden first-haircut name.
 
 ## Verandel given names
@@ -66,6 +67,9 @@ Amaru, Chaska, Illari, Kusi, Mayta, Nina, Pacha, Sayri, Tupaq, Wayra
 
 ## Aurelis vow names
 Brother Anselm, Sister Clementia, Brother Ignatius, Sister Perpetua, Brother Severus, Sister Theodora, Brother Valerian, Sister Honoria
+
+## Conquered duchies (old-kingdom names)
+Alderic, Brisa, Corwen, Danae, Edrisse, Falk, Gwenna, Haskel, Ione, Jory, Kestrel, Lorne, Maelis, Neve, Oswin
 
 ## Place names (spare)
 Ashfold, Brindlemere, Crowhallow, Duskwater, Embermoor, Fallowreach, Greywatch, Hollin Ford, Ironvale, Larkspur Gate, Marrowdeep, Saltmere

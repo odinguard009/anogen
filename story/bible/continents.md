@@ -28,7 +28,7 @@ South of Halveren: Middle Sea, then Okarune. South-west: Ruhnmara. South-east: S
 - Invasion: about 98%. Tawanqar holds the highest terraces of the Skyspine, supplied by Norhaven airships of griffons.
 
 ## Ruhnmara (Australia analog), south-west
-- Was red desert, reefs, eucalyptus-like silver forests. Its union of city-states fell completely by PR 61.
+- Was red desert, reefs, eucalyptus-like silver forests. Its union of city-states fell completely by PR 61, the slow era before the Wound widened.
 - Invasion: 100%. A grey continent; the Hush's second staging ground.
 
 ## Glaceren (Antarctica analog), south pole

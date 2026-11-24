@@ -1,42 +1,42 @@
 # Powers: Melsche Door and Sepiroth Gate (reference)
 
-Why two: one soul, one Tenet. Eden carries three souls' worth of foundation: his own, the Emperor of Void's, and the Vault the Dragon bound to that Emperor. Melsche Door is the Emperor's. Sepiroth Gate is the Vault's. Eden's own Tenet sleeps under both (reveal ch 360). Everyone, Eden included, believes he is a rare "twin-Tenet" born of Argentine blood.
+## Why two (one soul, one Tenet)
+- Sepiroth Gate is Eden's own: a Valkyrie's birthright (authority over the Vault), inherited from Liora.
+- Melsche Door is not his: it is the Emperor of Void's power, poured into the unborn Eden in PR 93 together with the Emperor's whole essence, to wrap the half-Valkyrie child in "nothing" so Elysmar's Refusal could not unmake him. Absence cannot be refused.
+- Everyone, Eden included, believes he is a rare "twin-Tenet" of Argentine blood.
 
-Why it unlocks slowly: his mother Liora's Tenet Keeping sealed both at age 10. The seal is eroding. Each crack comes from conviction tested (a true choice under pressure), never from training alone. Major crack: ch 175 (memory of her death returns).
+## Why it unlocks slowly
+At age 10 Liora's Valkyrie art Keeping sealed his Gate, his Door and his memory of that night. The seal erodes only when his conviction is tested and he chooses again; also when warmth returns (each real feeling loosens it, which is why Lysette matters). Major crack ch 175.
 
-## Melsche Door (Emperor's Tenet, theme: "every ending is a doorway")
-- Eden does not "control shadow". He cuts doors into shadows. What sleeps in the Void comes through the door, or the door's frame becomes a weapon.
-- Rule of edges: a door needs a shadow with a clear edge (light AND dark). Total darkness has no edge: no doors. Flat noon light gives only tiny doors. Door size is capped by the shadow's size. Best terrain: torchlight, forests at dusk, cities at night.
-- Dark lance (daily form): the door's frame pulled out as a short black lance, 1.5 m, matte, faint cold. Command "close": the lance unfolds into a door-panel shield, tall rectangle with an iron-ring knocker. "Open": back to lance. At the academy he only uses it as a shield or for parries.
-- Summons: Pillars and soldiers step out of shadows. A soldier costs a little mana per minute; a Pillar costs a lot. A full legion needs a day to wake and a huge shadow (city at dusk, stormfront, eclipse).
-- Cost: the Frost. Every deep use cools his feelings further for hours. Warmth (friends, Lysette) slowly undoes it. This is part of why he seems emotionless.
-- Later forms: Doorstep (step from shadow to shadow within sight, ch 70); Threshold (close a door on an enemy's attack, swallowing it, ch 130); Throne Door (Emperor's true form, ch 290).
+## Melsche Door (theme: "every ending is a doorway")
+- He cuts doors into shadows. What sleeps in the Void comes through, or the door's frame becomes a weapon.
+- Rule of edges: a door needs a shadow with a clear edge (light AND dark). Total darkness: no doors. Flat noon: tiny doors. Door size is capped by shadow size.
+- Dark lance (daily form): the door's frame drawn out as a short black lance (1.5 m, matte, faintly cold). "Close": it unfolds into a tall door-panel shield with an iron-ring knocker. "Open": lance again. At the academy he uses it only to block.
+- Summons step out of shadows. Soldiers cost a little mana a minute; Pillars a lot. A full legion needs a day to wake and a huge shadow (city at dusk, storm, eclipse).
+- The Emperor's law, kept by the Door: summoned knights never kill humans (they disarm, drive, wall off). Against Hushborn they kill freely. Eden learns why at ch 170.
+- Cost: the Frost. Deep use cools his feelings for hours. Warmth slowly undoes it.
+- The dream of endless war: the Emperor's memories of aeons of war across worlds, leaking as the seal thins. Suffocating. Quiet only near Lysette (reason ch 200).
+- Later forms: Doorstep (shadow-to-shadow step in sight, ch 70); Threshold (close a door on an attack and swallow it, ch 130); Throne Door (the Emperor's true form, ch 290).
 
-### The Ten Pillars (the Emperor's loyal subordinates; unlocked from lowest rank up)
-- X Vesk, the Lantern-Eyed: scout, wears shadow-disguises, sarcastic. Unlocked (start).
-- IX Gorrath, the Bastion: giant shield-knight, gentle, bad at lying, does all the Black Order "voices". Unlocked.
-- VIII Mirelle, the Quiet Blade: duelist, nearly silent, deadly. Unlocked.
-- VII Hald, the Last Archer: siege sniper. ch 80.
-- VI Sefa, the Cartographer of Doors: long-range travel through linked shadows. ch 140.
-- V Lysandre, the Mender: heals wounds and the Frost. ch 178.
-- IV Kaedros, the Siegebreaker: walls and gates fall. ch 225.
-- III Ombrevar, Warden of the Deep Ranks: general of all legions. ch 240.
-- II Oriane, the Herald: strategist, voice of the Emperor's court; first to suspect who Eden is. ch 270.
-- I Nihl, the First: the Emperor's left hand. Wants the Emperor back and Eden erased. Appears ch 300; antagonist until ch 340, ally at the end.
+### The Ten Pillars (unlocked from lowest rank up)
+- X Vesk, the Lantern-Eyed: scout, shadow-disguises, sarcastic. Unlocked.
+- IX Gorrath, the Bastion: giant shield-knight, gentle, bad liar, does all the Black Order "voices". Unlocked.
+- VIII Mirelle, the Quiet Blade: duelist, nearly silent. Unlocked.
+- VII Hald, the Last Archer: ch 80. VI Sefa, Cartographer of Doors (long-range travel): ch 140. V Lysandre, the Mender (heals wounds and Frost): ch 178. IV Kaedros, the Siegebreaker: ch 225. III Ombrevar, Warden of the Deep Ranks (general): ch 240. II Oriane, the Herald (strategist; first to guess who Eden is): ch 270. I Nihl, the First: wants the Emperor restored and Eden erased; appears ch 300, foe until ch 340, ally at the end.
 
-### The Sleeping Legions (millions of knight-tier soldiers)
-Nine legions of one million each, faceless knights in dull black plate with a white thread where a face would be. First Legion unlocked (start; he has never woken more than 40 at once). Second ch 145, Third to Fifth ch 240, Sixth to Ninth ch 330.
+### The Sleeping Legions (the "Void Host" the world fears)
+Nine legions of one million knight-tier soldiers in dull black plate, a white thread where a face should be. They marched in PR 93 and the world never forgot. First Legion unlocked (he has never woken more than 40). Second ch 145; Third-Fifth ch 240 (public reveal of the Void Host ch 232); Sixth-Ninth ch 330.
 
-## Sepiroth Gate (the Vault's Tenet, theme: "nothing made is ever lost")
-- The Sepiroth Vault holds every holy weapon and treasure ever made on Elysmar. All of them entered it on the Night the Relics Vanished (PR 0). The world does not know where they went.
-- To call a relic, Eden must have met it in the dream Vault and learned its name. Relics have wills. The Dragon opens the gate; it can refuse.
-- Lending: Eden can lend a relic to a person whose middle name he knows. The relic must consent. The loan ends when Eden lets go or the borrower betrays the relic's ideal (the relic returns and burns them). Each loan costs Eden a steady drain.
+## Sepiroth Gate (theme: "nothing made is ever lost")
+- The Sepiroth Vault at Heaven Gate holds every holy weapon and treasure ever made on Elysmar; all were pulled in on the Night the Relics Vanished (PR 0).
+- To call a relic, Eden must have met it in the dream Vault and learned its name. Relics have wills. The Dragon opens the gate.
+- Lending: to a person whose middle name he knows, if the relic consents. Ends when he lets go or the borrower betrays the relic's ideal (it returns and burns them). Each loan is a steady drain.
 - Cost: core drain per second held; fever and nosebleeds when overdrawn.
-- Candor, the Honest Blade (daily relic): a hand-and-a-half sword with a pale blade like dawn through ice and a plain grey grip. It does not shine; it makes light honest. In its light illusions fail, Veils show their true grey form, and mana constructs split at their seams. Cheap to hold (it chose him). Public assumes it is a Tenet-made weapon.
-- Ladder: start, Candor + 6 minor relics he knows by name. First loan ch 47 (Wardenshell, a round shield, to Tobias). Ch 120: twelve relics. Ch 176: seal breaks, 100 relics. Ch 230: the Armory of a Thousand Names (mass loans to an army). Ch 320: the Vault's sealed lowest floor.
+- Candor, the Honest Blade (daily relic): hand-and-a-half sword, pale blade like dawn through ice, plain grey grip. It does not shine; it makes light honest. Illusions fail, Veils show grey form, mana constructs and Grey Grafts split at their seams. Cheap to hold (it chose him). Public assumes a Tenet-made weapon.
+- Ladder: start, Candor + 6 minor relics. First loan ch 47 (Wardenshell, round shield, to Felix). Ch 120: twelve relics. Ch 176: seal breaks, 100 relics. Ch 230: Armory of a Thousand Names (mass loans). Ch 320: the Vault's lowest floor.
 
 ## The Sepiroth Dragon
-Pearl-white, scales like stacked shields, eyes of molten silver. Lives at the gate of the dream Vault. Proud, verbose, loves stories. Eden calls it "Landlord"; it hates that. It imprisoned the dying Emperor in the Vault at the pole (PR 0) and was dragged into Eden with him. It does not know the Tutor is in the same body until ch 285.
+Pearl-white, scales like stacked shields, molten-silver eyes. Lord of Heaven Gate; Valkyries are its knights. Ancient enemy of the Emperor (keeping against ending). Sent Liora to glean relics from dying lands; she stayed for love. At her death she bound the Vault's gate to Eden and the Dragon swore to guard him, which means living in one body with its archenemy's essence. Eden calls it "Landlord".
 
 ## The Tutor
-The Emperor's remnant: a tall man whose face is always turned away, sitting at a board game on a white floor that ends in nothing. Teaches fighting, doors and patience. Refuses his name. He is the part of the Emperor that regretted abdicating: he wants Eden to live as Eden.
+The Emperor's last echo: a tall man with his face always turned away, at a board game on a white floor that ends in nothing. Trains Eden. Refuses his name. He wants Eden to live as Eden, not as him.

@@ -13,12 +13,19 @@
 - Recovery: sleep, food, standing near a well. Mana-wither from overdraw: hair greys, hands go cold, heart slows. Severe wither kills.
 
 ## Tenet (ability theme)
-- Every person develops exactly one Tenet between ages 12 and 15, at the Kindling (a fever night). A Tenet is a theme born from the person's deepest conviction or wound, not a power level. Two people with the same Bells can have Tenets of opposite natures.
+- Every person develops exactly one Tenet between ages 12 and 14, at the Kindling (a fever night). A Tenet is a theme born from the person's deepest conviction or wound, not a power level. Two people with the same Bells can have Tenets of opposite natures.
 - Anatomy: Theme (the idea, e.g. Keeping, Pursuit, Witness), Form (how it shows: a weapon, a sense, a field, a beast-shape), Law (the one rule it cannot break).
 - Tiers (depth): Spark (it reacts), Shape (it obeys), Edge (it creates new uses), Crown (it changes the area around you), Sovereign (it changes the rules of the world in a small radius; only a handful alive). A Tenet deepens only when the owner's conviction is tested and they choose it again. Training refines control, not depth.
 - A Tenet can warp if the conviction breaks (a knight whose Tenet Shield turned into Wall and shut out his family). Warping is a known tragedy.
 - Registration: in Verandel, Tenets are registered with the middle name at the order or academy, sealed. Only the order master may open the record.
-- Examples: Keeping (Liora: lock a thing as it is), Witness (Lysette: replay the last minutes of a place as ghost-light), Ledger (Tobias: count anything he looks at: people, mana, odds), Homing (Niamh: an arrow returns to the hand that loosed it), Rampart (Aurelian: walls of red light that push), Stitch (Okoru: binds wounds and ropes alike).
+- Examples: Witness (Lysette: replay the last minutes of a place as ghost-light), Dawnbreak (Rowan: dawn-coloured light that burns Hushborn), Trail (Felix: sees the path anything took through a forest or room), Verdict (Valerius: a spoken ruling becomes a binding force-field), Mischief (Seraphine: small illusions and swapped positions), Sentence (Duke Aldous), Stitch (Okoru: binds wounds and ropes alike).
+- Exception: Grey Grafts (Hush flesh) give a borrowed second power at the cost of slowly becoming Hushborn.
+
+## The Refusal
+Elysmar's mana slowly unmakes beings not born of it. Hushborn survive by turning land Pale. Valkyries survive a while by sealing their wings and living almost human; Liora lasted 21 years. A half-Valkyrie child would be unmade in the womb; Eden lives because the Emperor's essence wraps him in nothing.
+
+## Valkyrie arts
+Not Tenets. Valkyries of Heaven Gate wield wing-light and Keeping (lock a thing exactly as it is). Using them on Elysmar speeds the Refusal.
 
 ## Knights and magic
 Knights do not need physical weapons. Many fight with Tenet forms, spells (structured mana patterns learned at the academy: wards, bolts, sigils of force) or both. Orders train specific spell schools (see orders.md).

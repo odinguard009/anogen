@@ -76,5 +76,18 @@
       "pacing_shape": "single long scene",
       "hook_type": "quiet line that changes the stakes"
     }
+  },
+  {
+    "chapter": 7,
+    "picks": {
+      "opening_type": "aftermath of an event, then back-fill",
+      "scene_shape": "negotiation with hidden leverage",
+      "tension_type": "unknown rules of a situation",
+      "emotional_tone": "relief with a catch",
+      "comic_device": "a character failing at a small task",
+      "conflict_type": "no combat: interpersonal conflict",
+      "pacing_shape": "fast start, slows into consequence",
+      "hook_type": "unexpected arrival"
+    }
   }
 ]

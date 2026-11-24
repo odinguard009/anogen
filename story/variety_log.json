@@ -154,5 +154,18 @@
       "pacing_shape": "interrupted scene: cut away at the peak, return later",
       "hook_type": "quiet line that changes the stakes"
     }
+  },
+  {
+    "chapter": 13,
+    "picks": {
+      "opening_type": "concrete setting detail",
+      "scene_shape": "negotiation with hidden leverage",
+      "tension_type": "social exposure",
+      "emotional_tone": "dread under ordinary routine",
+      "comic_device": "comic timing in the middle of a plan",
+      "conflict_type": "no combat: interpersonal conflict",
+      "pacing_shape": "mosaic of short scenes",
+      "hook_type": "reveal that reframes the chapter"
+    }
   }
 ]

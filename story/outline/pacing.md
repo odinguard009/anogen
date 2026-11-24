@@ -12,7 +12,7 @@ Ch 9: calm build, sharp spike (Wick Street siege), quiet debrief
 Ch 10: emotional (Lysette POV; clean file, chalk duel, letter, handkerchief)
 Ch 11: tense (graded maze run, dust-hounds, tannin-thumb Ember watches Rowan)
 Ch 12: emotional (Felix asks why; Perrin; Lysette's two lunches)
-Ch 13: tense
+Ch 13: tense (Veil lamplighter kill; Witness replay of the door; Rochefort; plate)
 Ch 14: comic
 Ch 15: calm
 Ch 16: tense

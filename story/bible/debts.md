@@ -5,12 +5,12 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [open] Hairpin in locked door (Morrowpin) | planted: ch 2 | due: ch 172-176, 197
 - [open] Veil: "bottom of the world"; Candor hums | planted: ch 3 | due: ch 48-50, 176
 - [open] Ledger: Rowan circled, "Before the last dance" | planted: ch 3 | due: ch 18-24
-- [open] Bell: three tones, a faint fourth | planted: ch 3 | due: ch 420-425
-- [open] Locket (Corentin); Eden looks away | planted: ch 4 | due: ch 36-38
-- [open] Core dust; forged Daubert signature | planted: ch 5-8 | due: ch 95
+- [open] Bell: faint fourth tone | planted: ch 3 | due: ch 420-425
+- [open] Locket (Corentin) | planted: ch 4 | due: ch 36-38
+- [open] Forged Daubert signature | planted: ch 5-8 | due: ch 95
 - [open] Okoru saw the shield-hold before; ch 11 "not by feel" | planted: ch 6, 11 | due: ch 60-66
-- [open] Rowan's light matches Lirenne fresco | planted: ch 6 | due: ch 105-110
-- [open] Lilies revive near Clara | planted: ch 6, 43 | due: ch 478-480
+- [open] Rowan's light = Lirenne fresco | planted: ch 6 | due: ch 105-110
+- [open] Lilies revive near Clara | planted: ch 6 | due: ch 478-480
 - [open] Ashen card "Remember Thornmere" (bookmark) | planted: ch 7 | due: ch 24
 - [open] Gray-coat Ember (tannin thumb) watches Rowan | planted: ch 7, 11 | due: ch 15-24
 - [open] Strent: no lamps, Liora's lullaby, "your mother sang" | planted: ch 8 | due: ch 50, 185
@@ -18,7 +18,7 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [open] Ysolde's gray-sealed envelope | planted: ch 9 | due: ch 153-156
 - [open] Seraphine "save me again?" | planted: ch 10 | due: ch 143-147
 - [open] Felix's middle name; two lunches | planted: ch 12 | due: ch 47; 106-108
-- [open] Witness: door-shaped shadow | planted: ch 13 | due: ch 138-142
+- [open] Witness plate (door, figure) with Okoru; Insp. Rochefort | planted: ch 13 | due: ch 138-142
 - [open] Dragon: "I promised" | planted: ch 15 | due: ch 420-425
 - [open] Verdict makes ruling physical | planted: ch 16 | due: ch 540-545
 - [open] Ember's gray veins | planted: ch 22 | due: ch 90-95

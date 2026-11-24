@@ -1,13 +1,46 @@
 {
   "_note": "Recommended model per bot (role). Quota weight per model is UNVERIFIED: measure at claude.ai/settings/usage and adjust.",
-  "concurrency": {"max_agents_per_job": 1, "rule": "Never run more than one bot per job. Acquire tools/lock.py before spawning an agent; release after."},
-  "orchestrator": {"model": "sonnet", "where": "main chat session; runs scripts, commits, sends files, spawns ONE agent at a time"},
-  "roles": {
-    "development_editor": {"model": "opus", "mode": "delegate", "when": "arc planning, big idea intake, story bible changes"},
-    "lead_writer": {"model": "sonnet", "mode": "delegate", "when": "writes chapters in batches of 5 (also does canon bookkeeping per chapter)"},
-    "copy_critic": {"model": "opus", "mode": "delegate", "when": "after each 5-chapter batch: strict scoring and targeted patches (independent from the writer)"},
-    "canon_keeper": {"model": "sonnet", "mode": "inside lead_writer batch", "when": "after every chapter (mechanical bookkeeping)"},
-    "managing_editor": {"model": "opus", "mode": "delegate", "when": "every 10 chapters: audit, max 3 proposals"}
+  "concurrency": {
+    "max_agents_per_job": 1,
+    "rule": "Never run more than one bot per job. Acquire tools/lock.py before spawning an agent; release after."
   },
-  "scripts_no_model": ["archive staff (context_pack, precheck, variety, inbox)", "manuscript checker (check_chapter)", "production staff (build_epub, save)", "lock, status, log_run, engine_state"]
+  "orchestrator": {
+    "model": "sonnet",
+    "where": "main chat session; runs scripts, commits, sends files, spawns ONE agent at a time"
+  },
+  "roles": {
+    "development_editor": {
+      "model": "opus",
+      "mode": "delegate",
+      "when": "arc planning, big idea intake, story bible changes"
+    },
+    "lead_writer": {
+      "model": "sonnet",
+      "mode": "delegate",
+      "when": "writes chapters in batches of 5 (also does canon bookkeeping per chapter)"
+    },
+    "copy_critic": {
+      "model": "opus",
+      "mode": "delegate",
+      "when": "after each 5-chapter batch: strict scoring and targeted patches (independent from the writer)"
+    },
+    "canon_keeper": {
+      "model": "sonnet",
+      "mode": "inside lead_writer batch",
+      "when": "after every chapter (mechanical bookkeeping)"
+    },
+    "managing_editor": {
+      "model": "opus",
+      "mode": "delegate",
+      "when": "every 10 chapters: audit, max 3 proposals"
+    }
+  },
+  "scripts_no_model": [
+    "archive staff (context_pack, precheck, variety, inbox)",
+    "manuscript checker (check_chapter)",
+    "production staff (build_epub, save)",
+    "lock, status, log_run, engine_state"
+  ],
+  "locked": true,
+  "_lock_note": "LOCKED by the owner (2026-11-25). Do not change models, concurrency or this file unless the owner explicitly orders it in plain words."
 }

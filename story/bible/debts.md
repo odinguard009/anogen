@@ -1,32 +1,33 @@
-Plants in the current window (ch 1-60). Later twists: twists-1.md, twists-2.md.
-- [open] War dream quiets when Lysette's crying wakes him | planted: ch 1 | due: ch 200-205
-- [open] Handkerchief with a silver feather; Lysette keeps it "to wash it" | planted: ch 1 | due: ch 140, 175, 600
-- [open] Lysette's roof garden thrives out of season | planted: ch 1 | due: ch 575-580
-- [open] Locked door, hairpin in the keyhole; Dragon hides Morrowpin | planted: ch 2 | due: ch 172-176, 197
-- [open] Dying Veil: "You smell like the bottom of the world" | planted: ch 3 | due: ch 48-50
-- [open] Bell: three tones, a faint fourth (Dragon's voice) | planted: ch 3 | due: ch 420-425
-- [open] Lysette's locket (Corentin); Eden looks away | planted: ch 4 | due: ch 36-40
+Plants, ch 1-60 (table: outline/arc-1.md; later: twists-1/2.md).
+- [open] War dream quiets when Lysette cries near him | planted: ch 1, 26 | due: ch 200-205
+- [open] Feather handkerchief; Lysette keeps it "to wash it" | planted: ch 1 | due: ch 140, 175, 600
+- [open] Roof garden green out of season | planted: ch 1 | due: ch 575-580
+- [open] Hairpin in a locked door's keyhole (Morrowpin) | planted: ch 2 | due: ch 172-176, 197
+- [open] Veil: "You smell like the bottom of the world"; Candor hums a note | planted: ch 3 | due: ch 48-50, 176
+- [open] Bell: three tones, a faint fourth | planted: ch 3 | due: ch 420-425
+- [open] Lysette's locket (Corentin); Eden looks away | planted: ch 4 | due: ch 36-38
 - [open] Rowan's light matches a Lirenne fresco | planted: ch 6 | due: ch 105-110
-- [open] Wilted flowers revive where Clara sits | planted: ch 6 | due: ch 478-480
-- [open] Ashen card "Remember Thornmere" | planted: ch 7 | due: ch 24-26
-- [open] Strent avoids lamps, hums Liora's lullaby | planted: ch 8 | due: ch 48-50, 183-186
+- [open] Wilted flowers revive near Clara | planted: ch 6, 43 | due: ch 478-480
+- [open] Ashen card "Remember Thornmere" | planted: ch 7 | due: ch 24
+- [open] Strent avoids lamps, hums Liora's lullaby, knows "Wren's" mother sang | planted: ch 8 | due: ch 50, 183-186
 - [open] Ysolde's sealed envelope | planted: ch 9 | due: ch 153-156
-- [open] Seraphine's "you'd save me again, right?"; her vow to make Felix laugh | planted: ch 10 | due: ch 143-147
-- [open] Felix gives his middle name with "Eaten today?" | planted: ch 12 | due: ch 45-47
-- [open] Witness shows a door-shaped shadow at a kill site | planted: ch 13 | due: ch 138-142
-- [open] Two lunches "to save time" | planted: ch 14 | due: ch 106-108
+- [open] Seraphine "you'd save me again, right?"; joke count | planted: ch 10 | due: ch 143-147
+- [open] Felix's middle name Perrin; two lunches | planted: ch 12 | due: ch 47; 106-108
+- [open] Witness: door-shaped shadow at a kill site | planted: ch 13 | due: ch 138-142
 - [open] Dragon: "I promised someone" | planted: ch 15 | due: ch 420-425
-- [open] Valerius's Verdict makes a ruling physical | planted: ch 16 | due: ch 540-545
+- [open] Verdict makes a ruling physical | planted: ch 16 | due: ch 540-545
 - [open] Concord map: front bends round Verandel | planted: ch 20 | due: ch 280-285
-- [open] Ember's grey veins under a graft scar | planted: ch 22 | due: ch 90-95
-- [open] Feather stamped inside Eden's left gauntlet | planted: ch 23 | due: ch 172-176
-- [open] Eden spares Ilsabet Rorke; Merrow admires the Ostrevaal tapestry | planted: ch 25 | due: ch 145-150, 295-300
-- [open] Bertram's muddy boots; Duke almost says "your mother had wings" | planted: ch 28 | due: ch 160-176
-- [open] Duke "checks the fit" of his helm for an hour | planted: ch 30 | due: ch 251
-- [open] Tutor mentions a "test" he set a king | planted: ch 30 | due: ch 166-170
-- [open] King asks for "the second envelope" | planted: ch 33 | due: ch 210-214
-- [open] Lysette's scarf on Eden all winter; a titan silhouette on the horizon | planted: ch 33-34 | due: ch 244, 600
-- [open] Rowan asks why Lysette hates him | planted: ch 40 | due: ch 128-132
-- [open] Felix sees a feather mark inside Wardenshell | planted: ch 47 | due: ch 175
-- [open] Seraphine takes the Wall post beside Eden's | planted: ch 35 | due: ch 145
+- [open] Ember's grey veins under a graft | planted: ch 22 | due: ch 90-95
+- [open] Feather inside Eden's left gauntlet | planted: ch 23 | due: ch 172-176
+- [open] Ilsabet spared; Merrow admires the Ostrevaal tapestry | planted: ch 25 | due: ch 145-150, 270-300
+- [open] Bertram's muddy boots; "your mother had w-" | planted: ch 28 | due: ch 160-176
+- [open] Tutor's "test I once set a king" | planted: ch 29 | due: ch 166-170
+- [open] Duke's hour in the helm; Strent's letter names "the boy's late mother" | planted: ch 30 | due: ch 251; 185
+- [open] King asks for "the second envelope"; Lysette's scarf | planted: ch 33 | due: ch 210-214; 600
+- [open] Titan silhouette on the horizon | planted: ch 34 | due: ch 244
+- [open] Seraphine takes the post beside Eden's | planted: ch 35 | due: ch 145
+- [open] Rowan asks why Lysette hates him | planted: ch 39 | due: ch 128-132
+- [open] Groundskeeper Veil taken for the mastermind | planted: ch 45 | due: ch 185
+- [open] Feather inside Wardenshell; Strent first at the crisis | planted: ch 47-48 | due: ch 175; 99, 185
+- [open] Witness shows light where Eden stood; "Liora's boy" | planted: ch 50 | due: ch 51-55, 140
 - [open] Okoru: "they never test the Teeth hard" | planted: ch 60 | due: ch 285

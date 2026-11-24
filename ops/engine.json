@@ -1,4 +1,20 @@
 {
-  "arcs": {},
-  "batch": {"mode": "none", "target": 0, "arc": null, "max": null, "start_chapter": null, "status": "idle", "stop_reason": ""}
+  "arcs": {
+    "1": {
+      "start": 1,
+      "end": 50,
+      "name": "The Rooftop",
+      "max": 50,
+      "status": "planned"
+    }
+  },
+  "batch": {
+    "mode": "none",
+    "target": 0,
+    "arc": null,
+    "max": null,
+    "start_chapter": null,
+    "status": "idle",
+    "stop_reason": ""
+  }
 }

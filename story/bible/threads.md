@@ -10,7 +10,7 @@
 
 ## Ledger (raised | feeds / partial answers | payoff | check)
 1. Who killed Liora, and how | 1 | 28 wings slip, 50 "Liora's boy", 85 Duke locks the glasshouse when Eden visits, 120 armor warm under Lysette's hand, 155 letter | 175 (Tailor 185) | ok, max gap 35
-2. The Tailor's identity | 50 | 75 a captured Veil names "the Tailor" at the academy, 99 Strent first at every crisis, 130 a lamp test Strent dodges, 157 | 185 | ok
+2. The Tailor's identity | 50 (seeds 8, 30 Strent's letter, 45 groundskeeper decoy, 48) | 75 a captured Veil names "the Tailor" at the academy, 99 Strent first at every crisis, 130 a lamp test Strent dodges, 157 | 185 | ok
 3. Corentin was a Veil (Lysette) | 4 | 38 reader, 72, 101, 133 | 140 | ok
 4. Ashen Crowns and the Regent | 7 | 25, 50, 77, 95 grafts, 112 | 150 | ok
 5. Rowan's heritage | 6 | 44, 70 an Ashen card for Rowan: "Remember Lirenne", 90 | 110 | ok (was a 46-ch gap; 70 added)
@@ -21,7 +21,7 @@
 10. Liora's feather and Eden's pull to Lysette | 1 | 26, 54, 90, 108, 150 the dream quiets again, 178 | 205; deeper 580 | ok
 11. Why the front stalls | 20 | 60 Okoru: "they never test the Teeth hard", 100, 140, 180, 215, 240, 270 | 285 | ok
 12. The Void Host is inside Eden | 20 | 66 tavern rumour, 100 Gorrath: "we are many more", 145, 200 Second legion usable, 248 ten thousand rise publicly | 290 | ok
-13. Who is the Tutor / Emperor in Eden | 2 | 30, 60 Tutor names the Iron King, 95, 111, 145, 170 the summoning truth, 205, 230, 260, 300 | 340 (name and gift), 400 (wish) | ok, fed every ~35
+13. Who is the Tutor / Emperor in Eden | 2 | 29, 60 Tutor names the Iron King, 95, 111, 145, 170 the summoning truth, 205, 230, 260, 300 | 340 (name and gift), 400 (wish) | ok, fed every ~35
 14. Dragon's promise | 15 | 47 refuses to talk about the feather mark, 88, 120, 160, 200, 240, 280, 330, 380 | 425 | ok, a dream beat every ~40
 15. Liora's armor (Aster) | 23 | 47, 120 | 175 | ok
 16. The Duke's grief in the armor | 30 | 85 disguise visit ends with him quiet in the carriage, 120, 164, 200 | 251 | ok
@@ -44,4 +44,4 @@
 33. Liora's rings "Not yet" | 176 | 205, 300, 450, 500 | 600 | ok
 34. Eden's fear of becoming Melchsee | 298 (sixth Toll) | 340, 400, 446, 590, 726 | 795 | ok
 
-New feeds added in this audit: 35, 60, 66, 70, 75, 85, 100, 104, 110, 120, 130, 150, 160 and the recurring dream, Hierarch, Kell and Clara-visit beats. Writers treat these as small beats (a line, a scene), not chapters.
+Arc 1 plan: Tutor feed 30->29 (ch 30 is the Duke's POV); Rowan's question 40->39 (ch 40 is Ysolde's POV); Felix's middle name is Perrin. New feeds added in this audit: 35, 60, 66, 70, 75, 85, 100, 104, 110, 120, 130, 150, 160 and the recurring dream, Hierarch, Kell and Clara-visit beats. Writers treat these as small beats (a line, a scene), not chapters.

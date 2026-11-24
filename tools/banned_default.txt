@@ -1,0 +1,40 @@
+# Genre-neutral starter list of common AI-prose tics. One phrase per line.
+# Format: phrase  or  phrase | max=N  (N occurrences allowed per chapter, default 0)
+a testament to
+unbeknownst to
+little did he know
+little did she know
+little did they know
+shiver down his spine
+shiver down her spine
+shivers down his spine
+shivers down her spine
+sent a shiver
+orbs
+the weight of
+let out a breath he didn't know he was holding
+let out a breath she didn't know she was holding
+a mix of
+couldn't help but
+for what felt like an eternity
+the air was thick with
+tapestry of
+symphony of
+dance of
+heart hammered
+heart pounded in his chest
+heart pounded in her chest
+a sense of
+steeled himself
+steeled herself
+resolve hardened
+eyes sparkled
+eyes glinted
+barely above a whisper
+a whisper of
+the silence stretched
+the silence was deafening
+in that moment
+suddenly | max=2
+somehow | max=2
+seemed to | max=3

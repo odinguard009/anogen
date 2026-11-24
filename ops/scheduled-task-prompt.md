@@ -1,0 +1,1 @@
+Work in the Anogen repository. Read CLAUDE.md first. Then execute the command "write next chapter" exactly as CLAUDE.md defines it: one chapter, committed and pushed, then stop. Do not ask questions. If a step fails, log it with tools/log_run.py --status failed and stop.

@@ -1,0 +1,93 @@
+{
+  "opening_type": [
+    "action already in progress",
+    "line of dialogue",
+    "concrete setting detail",
+    "internal thought of the narrator",
+    "a document, notice or letter",
+    "an odd small observation",
+    "aftermath of an event, then back-fill",
+    "a direct question or order",
+    "a countdown or deadline"
+  ],
+  "scene_shape": [
+    "cold open in action",
+    "quiet scene that turns sharply",
+    "two-person dialogue duel",
+    "ensemble scene with conflicting goals",
+    "journey with one hard interruption",
+    "investigation that reveals a wrong assumption",
+    "preparation then execution",
+    "negotiation with hidden leverage",
+    "escape or pursuit",
+    "slow reveal in a single location"
+  ],
+  "tension_type": [
+    "ticking clock",
+    "hidden information",
+    "moral dilemma",
+    "physical danger",
+    "social exposure",
+    "resource shortage",
+    "betrayal suspected",
+    "outmatched opponent",
+    "promise at risk",
+    "unknown rules of a situation"
+  ],
+  "emotional_tone": [
+    "quiet warmth",
+    "restrained grief",
+    "fierce resolve",
+    "awkward tenderness",
+    "bitter irony",
+    "relief with a catch",
+    "loneliness",
+    "pride that costs something",
+    "fear held in check",
+    "bittersweet gratitude"
+  ],
+  "comic_device": [
+    "deadpan understatement",
+    "mismatched expectations",
+    "a running gag, lightly touched",
+    "literal-minded reply",
+    "comic timing in the middle of a plan",
+    "a character failing at a small task",
+    "banter between allies",
+    "dry self-deprecation",
+    "none this chapter"
+  ],
+  "conflict_type": [
+    "duel with a technical twist",
+    "battle of wits",
+    "ambush",
+    "siege or defence of a place",
+    "escape under pressure",
+    "losing fight with a costly exit",
+    "team fight with roles",
+    "political maneuver",
+    "trial or exam with rules",
+    "hunt against a creature",
+    "no combat: interpersonal conflict"
+  ],
+  "pacing_shape": [
+    "slow build to a sharp spike",
+    "fast start, slows into consequence",
+    "two spikes with a breather",
+    "steady climb ending on a drop",
+    "flat surface, tension underneath",
+    "mosaic of short scenes",
+    "single long scene"
+  ],
+  "hook_type": [
+    "question left open",
+    "reveal that reframes the chapter",
+    "danger arrives",
+    "emotional gut-punch",
+    "reversal of fortune",
+    "decision with a price",
+    "a promise or threat",
+    "unexpected arrival",
+    "quiet line that changes the stakes"
+  ]
+}

@@ -1,10 +1,10 @@
 # Medical Exemption
 
-The warrant was pinned to my coat when I woke. Not tucked into a pocket, not left on the grass by my head. Pinned, through the lapel, with a brass Committee pin, so that the paper rose and fell on my chest while I breathed and I'd have had to be dead not to find it.
+The warrant was pinned to my coat when I woke. Not tucked in a pocket, not left on the grass by my head. Pinned through the lapel with a brass Committee pin, so the paper rose and fell on my chest as I breathed. I'd have had to be dead to miss it.
 
 *WARRANT OF ATTENDANCE (FIRST). Eden Wren, Year Five. Absent from Strategy, ninth bell. The student is to present himself to the issuing officer without delay.*
 
-Under that, a wax seal. Or the idea of one. The impression was there, the Committee's little bell inside a circle, but pale, nearly pink, as if the stamp had been pressed into a pad gone dry and then pressed again, harder, with feeling.
+Below that was a wax seal. Or the idea of one. The Committee's little bell inside a circle was there, but pale, almost pink. It looked like someone had pressed the stamp on a dry pad, then pressed again, harder, with feeling.
 
 The sun had moved most of the way across the apple tree. I'd been asleep about two hours. By roof standards, that's a short morning.
 
@@ -14,27 +14,35 @@ It had been a long one before that.
 
 Rowan Tallis had found me at breakfast.
 
-That isn't quite right. Rowan Tallis had found me from the far end of the refectory, through two hundred people and a steam cart, and said "EDEN!" in the voice garrison children learn for calling across a parade ground in wind. Every head between us turned to see who Eden was. Several of them had never needed to know before.
+That isn't quite right. He found me from the far end of the refectory, through two hundred people and a steam cart. "EDEN!" he yelled, in the voice garrison kids learn for calling across a parade ground in wind. Every head between us turned to see who Eden was. Several of them had never needed to know before.
 
 "I saved you a seat," he said, arriving. He had. He'd saved it by putting his bowl on it.
 
 Felix, across from me, buttered his roll with total concentration.
 
-Rowan wanted to know where I'd grown up, whether I rode, whether I'd ever thrown a spear properly, because he could show me, it was all in the hips, and whether it was true I slept on the Old Observatory because someone had told him that and he'd said, no, that's mad, nobody sleeps on a roof in autumn. He wanted to know whether I'd eaten. Felix looked up at that, sharply. It's his question. He's never said so, but it is.
+"So where'd you grow up?" Rowan asked, sitting. "Do you ride? Have you ever thrown a spear properly? I can show you, it's all in the hips. Oh, and is it true you sleep on the Old Observatory? Someone said that and I said no, that's mad, nobody sleeps on a roof in autumn."
+
+"It's a good roof," I said.
+
+"Have you eaten?"
+
+Felix looked up sharply at that. It's his question. He's never said so, but it is.
 
 "Technically," I said.
 
-"Technically isn't eating," said Rowan, and gave me his egg.
+"Technically isn't eating." Rowan gave me his egg.
 
-He found me again at the seventh bell, outside Spell Grammar, and walked me to my seat. He found me in the cloister at the eighth. By then there was a small, interested crowd that traveled with him like gulls behind a fishing boat, and in the middle of it was me, being told about a mule called Corporal.
+He found me again at the seventh bell, outside Spell Grammar, and walked me to my seat. He found me in the cloister at the eighth. By then a small, interested crowd followed him like gulls behind a fishing boat. I stood in the middle of it, being told about a mule called Corporal.
 
-Strategy was at the ninth bell, in the round room at the top of the west stair, which is quiet and warm and has a window seat I'm fond of. I'd stood at the foot of the west stair and looked up it and thought about the round room, and then about the window seat Lysette had grudgingly let me keep, and then about how Rowan took Strategy too, front row, which he'd told me twice, and that the seat beside him had been empty all week.
+"He bit a general," Rowan said. "Once. Only once. They both respected each other after."
+
+Strategy was at the ninth bell, in the round room at the top of the west stair. It's quiet and warm and has a window seat I like. I stood at the foot of the stair and looked up. Then I thought about Rowan, who took Strategy too. Front row, he'd told me twice. The seat beside him had been empty all week.
 
 The Old Observatory is on the other side of the cloister. Nobody follows you up its stair. It has two hundred and six steps and a door at the top that sticks.
 
 * * *
 
-The door stuck now. Somebody on the other side put a shoulder to it, swore in a whisper, and put a shoulder to it again, and Lysette Hollen came out onto the roof with a stack of papers under one arm and a Committee armband on the other and a small dent in her composure.
+The door stuck now. Someone on the other side put a shoulder to it, swore in a whisper, and tried again. Then Lysette Hollen came out onto the roof with a stack of papers under one arm, a Committee armband on the other, and a small dent in her calm.
 
 She looked at me. She looked at the warrant on my chest.
 
@@ -46,13 +54,13 @@ She looked at me. She looked at the warrant on my chest.
 
 I sat up. The warrant crackled. "I have an exemption."
 
-"You have sixty-one absences and now sixty-two."
+"You have sixty-one absences. Now sixty-two."
 
-"Medical," I said, and took the folded permit out of my inside pocket and held it out.
+"Medical," I said. I took a folded permit from my inside pocket and held it out.
 
-She didn't take it at first. I watched her decide whether taking it was a concession. Then she came across the grass, past the herb beds, and took it, and unfolded it, and read it.
+She didn't take it at first. I watched her decide whether taking it was a concession. Then she crossed the grass, past the herb beds, took it, and read it.
 
-The permit is a single page in the headmistress's handwriting, which is very large, because she's half blind and writes as if for someone even blinder. It says that the student Eden Wren, on medical advice, is excused attendance during such hours as he is resting on the roofs of the Academy, and is not to be disturbed there by any officer of the student body. It is signed *H. Ostwald* and sealed with a real seal, a proper one, deep red, with an owl in it.
+It's one page in the headmistress's handwriting, which is huge, because she's half blind and writes for someone even blinder. It says the student Eden Wren, on medical advice, is excused from attendance while he rests on the roofs of the Academy. No officer of the student body may disturb him there. It's signed *H. Ostwald*, with a real seal, deep red, with an owl in it.
 
 Lysette read it twice. The second time her lips moved on one word.
 
@@ -68,33 +76,33 @@ Lysette read it twice. The second time her lips moved on one word.
 
 "Then you'd have to ask the headmistress."
 
-She looked at me over the top of the paper with the expression people use on a cart that has lost a wheel in a narrow street: not angry yet, because it hasn't occurred to anyone yet whose fault it is. I could see her running through the handbook in her head. Officers of the student body. Was a Committee vice-chair an officer of the student body? She was. Could a headmistress's medical exemption overrule a Committee warrant? Nobody had ever had to find out, because nobody had ever been stupid enough to get one and then use it.
+She looked at me over the paper the way you look at a cart that has lost a wheel in a narrow street. She wasn't angry yet, because nobody had decided whose fault it was. I could see her running through the handbook in her head. Was a Committee vice-chair an officer of the student body? She was. Could a headmistress's exemption beat a Committee warrant? Nobody had ever found out, because nobody had been dumb enough to get one and use it.
 
-Watching someone who's very good at rules walk into one she didn't know existed: I'd expected to enjoy that more.
+I'd expected to enjoy this more. Watching a person who's great at rules walk into one she didn't know existed is less fun than it sounds.
 
 "This isn't in the handbook," she said.
 
 "No."
 
-"There's a section on exemptions. I wrote half of it. This isn't in it."
+"There's a whole section on exemptions. I wrote half of it. This isn't in it."
 
 "The handbook's yours. The roof's hers."
 
-She opened her mouth, and closed it, and looked at the permit again, and then, for a moment, not at the permit. At the herb beds.
+She opened her mouth and shut it. She looked at the permit again. Then, for a moment, she looked at something else. The herb beds.
 
-Somebody had weeded them that morning. The soil was dark where it had been turned, and there was a neat little pile of pulled chickweed by the stone edging, wilting, waiting to be thrown away. I'd stepped over it on my way to the apple tree at the ninth bell. Whoever had done it had done it before dawn, and carefully, and had left the trowel behind in the sage, handle up.
+Someone had weeded them that morning. The soil was dark where it had been turned. A neat little pile of chickweed sat by the stone edging, wilting. I'd stepped over it on my way to the apple tree. Whoever did it had come before dawn, worked carefully, and left the trowel in the sage, handle up.
 
 The trowel was still there. Its handle was wrapped in a strip of dark wool, the same color as a Committee coat.
 
-I didn't look at it. I looked at the warrant instead, which was easier.
+I didn't look at it. I looked at the warrant, which was easier.
 
-"Here," I said. "Your seal didn't take."
+"Your seal didn't take," I said.
 
 "It took."
 
 "It's pink."
 
-"The pad's dry. I've requisitioned another." She snatched the warrant back off my coat, pin and all, and stuck her thumb on the pin, and said nothing about it, very loudly. "You're impossible."
+"The pad's dry. I've requisitioned another." She snatched the warrant off my coat, pin and all, jabbed her thumb on the pin, and said nothing about it very loudly. "You're impossible."
 
 "I'm exempt."
 
@@ -102,51 +110,53 @@ I didn't look at it. I looked at the warrant instead, which was easier.
 
 "No."
 
-"And Lance Nine eats at the long table by the east windows, by order of Instructor Okoru, starting today. All five. So you'll come to lunch. You'll come to lunch, and you'll eat it, and you'll sit with your Lance, and I'll tick you off, and none of that is attendance, so your *exemption*"—she leaned on the word as though it might break—"doesn't come into it."
+"And Lance Nine eats at the long table by the east windows, by order of Instructor Okoru, starting today. All five of us. So you'll come to lunch and eat it and sit with your Lance. I'll tick you off. None of that is attendance, so your *exemption*"—she leaned on the word like it might break—"doesn't come into it."
 
-I thought about it. There was a gap in her argument wide enough to sleep in, and she knew it, and was standing in front of it looking at me.
+I thought about it. Her argument had a gap in it wide enough to sleep in. She knew it, and she stood in front of the gap, looking at me.
 
 "Fine," I said.
 
-She blinked. She'd come up two hundred and six steps for a fight. "Fine?"
+She blinked. She'd climbed two hundred and six steps for a fight. "Fine?"
 
 "I'm hungry."
 
-That one was true, and I hadn't planned to say it. She looked at me a little longer than she needed to. Then she turned, and went to the door, and put her shoulder to it, and it opened easily from that side, and she went down without looking back at the sage.
+That was true, and I hadn't planned to say it. She looked at me a little longer than she needed to. Then she turned, put her shoulder to the door, and it opened easily from that side. She went down without looking back at the sage.
 
 * * *
 
-The refectory at the noon bell is the closest thing Hallowcrest has to a battlefield, and it's worse, because nobody's allowed to win. Four hundred Year Fives, two serving hatches, one bell. People form lines in the way that water forms lines going down a drain.
+The refectory at noon is the closest thing Hallowcrest has to a battlefield. It's worse, because nobody's allowed to win. Four hundred Year Fives, two serving hatches, one bell. People line up the way water lines up going down a drain.
 
-The long table by the east windows had five places laid with the Lance's number chalked on a slate at the end, which was Okoru's idea of a joke, or of a warning. Rowan was already there. Clara was beside him, peeling an orange in one long unbroken spiral. Felix had come with me, saying nothing, which is different from Felix being quiet; it means he's saving something.
+The long table by the east windows had five places. A slate at the end said LANCE NINE in chalk, which was Okoru's idea of a joke, or a warning. Rowan was already there. Clara sat beside him, peeling an orange in one long spiral. Felix had come with me and said nothing. That's different from Felix being quiet. It means he's saving something.
 
-"Eden," said Rowan, half rising. "Lysette got you. She said she would. She said, I'll have him at the table by noon or I'll eat my armband."
+"Eden!" Rowan half stood. "Lysette got you. She said she would. She said, I'll have him at that table by noon or I'll eat my armband."
 
-"I did not say that," said Lysette, sitting down at the far end.
+"I did not say that," said Lysette, sitting at the far end.
 
 "You said something very like it."
 
 "I said I would *see to it*."
 
-Rowan tried to lean over to me and say something privately. Rowan can't do anything privately. The whisper came out at roughly the volume of a man ordering beer, and it was, "She's frightening when she's on duty, isn't she," and Lysette, four seats away, said, "Yes," without looking up from her soup.
+Rowan leaned toward me to say something private. Rowan can't do private. It came out at the volume of a man ordering beer. "She's scary when she's on duty, isn't she?"
 
-Clara laughed. Then she put a piece of orange on Rowan's plate, and he ate it without noticing, and Lysette watched him not notice, and went back to her soup.
+"Yes," said Lysette, four seats away, without looking up from her soup.
+
+Clara laughed. She put a piece of orange on Rowan's plate, and he ate it without noticing. Lysette watched him not notice, then went back to her soup.
 
 That was when Seraphine arrived.
 
-She didn't sit at our table; she's Lance One and has her own. She stopped behind Felix with her tray on her hip and looked down at him, then at me, then back.
+She doesn't sit with us. She's Lance One and has her own table. She stopped behind Felix with her tray on her hip and looked at him, then at me, then back.
 
-"My saviour's at a table," she said. "In public. With people. Felix, what did you do?"
+"My savior's at a table," she said. "In public. With people. Felix, what did you do?"
 
-"Nothing," said Felix.
+"Nothing."
 
 "You must have done something. He's eating."
 
 "Lysette did it."
 
-"Ah." She glanced up the table at Lysette and smiled a smile that I've seen her use on her brother when he's about to lose an argument. Then back at Felix, with her head on one side. "Do you ever laugh? I've never seen you laugh. Not once, in five years. Is it a rule in your house?"
+"Ah." She glanced up the table at Lysette and smiled the smile she uses on her brother when he's about to lose an argument. Then she tipped her head at Felix. "Do you ever laugh? I've never seen you laugh. Not once in five years. Is it a rule in your house?"
 
-Felix considered this properly. "No."
+Felix thought about it properly. "No."
 
 "Do you know any jokes?"
 
@@ -156,47 +166,51 @@ Felix considered this properly. "No."
 
 "It's not very good."
 
-"That's not a reason, that's a review." She waited. He didn't tell it. She narrowed her eyes at him, delighted, the way she narrows them at a lock she means to pick. "All right. Before the Ball. I'm going to make you laugh before the Ball."
+"That's not a reason, that's a review." She waited. He didn't tell it. She narrowed her eyes, delighted, the way she does at a lock she means to pick. "Fine. Before the Ball, I'm going to make you laugh."
 
 "Why?"
 
-"Because you asked why," said Seraphine, and went back to her own table, and Felix watched her go with the expression of a man who has been informed that his house is going to be redecorated and isn't sure whose house it was.
+"Because you asked why," said Seraphine, and went back to her table.
+
+Felix watched her go. He looked like a man who'd just been told his house would be redecorated, and wasn't sure whose house it was.
 
 * * *
 
-I went up to the hatch for bread, because the basket at our end was empty and Rowan was looking at it.
+I went up to the hatch for bread, because our basket was empty and Rowan kept looking at it.
 
-The crush at the hatch is always worst just after the bell, when the second wave arrives and the first hasn't left, and you stand pressed in among coats and trays with someone's elbow in your kidney. A kitchen girl was handing out rolls from a basket the size of a cradle. Flour to the wrists. A scarf in faded duchy green tied over her hair, the kind of green they wear in the south hills, which nobody in Solmarch wears on purpose.
+The crush at the hatch is worst just after the bell. The second wave arrives before the first has left, and you stand pressed between coats and trays with an elbow in your kidney. A kitchen girl was handing out rolls from a basket the size of a cradle. Flour to her wrists. A faded green scarf tied over her hair, the green they wear in the south hills. Nobody in Solmarch wears it on purpose.
 
-She gave me two rolls. Under the second one, flat against my palm, there was a card.
+She gave me two rolls. Under the second one, flat against my palm, was a card.
 
-Black. Stiff. The size of a playing card. Pressed onto it, flattened and dried, was a rose gone the color of old ash, every petal intact; someone had taken a great deal of care over a dead flower. Under it, in white ink, two words.
+It was black and stiff, the size of a playing card. A rose was pressed onto it, flattened and dried, gone the color of old ash. Every petal was whole. Someone had taken great care over a dead flower. Beneath it, in white ink, were two words.
 
 *Remember Thornmere.*
 
-When I looked up the girl was already handing rolls to a boy from the north towers, and her face was nothing, a kitchen face, tired, and when the boy moved she was behind the basket and then behind the hatch and then I couldn't see her.
+When I looked up, she was already handing rolls to a boy from the north towers. Her face was nothing, a tired kitchen face. Then the boy moved, and she was behind the basket, then behind the hatch, and then I couldn't see her.
 
 Thornmere. The name on my scholarship papers. My mother picked it because the house that held it is gone, every last member, and a dead house doesn't send relatives to ask questions.
 
 Somebody, apparently, had come to remember it anyway.
 
-I went back to the table. I put a roll in front of Rowan, who said, "Oh, you *legend*," and I sat, and took my Strategy book out of my coat, and opened it at the chapter on supply lines, which I hadn't read, and put the card in it. It made a good bookmark. Stiff, flat, the right size. The rose sat against the page about fodder.
+I went back to the table and put a roll in front of Rowan.
 
-I closed the book and put it back in my inside pocket, next to the exemption.
+"Oh, you *legend*," he said.
 
-Felix had seen the card. He looked at it, then at me, and buttered another roll and said nothing, and that was all right.
+I sat. I took my Strategy book out of my coat and opened it at the chapter on supply lines, which I hadn't read. I slid the card in. It made a good bookmark, stiff and flat, with the rose lying against the page about fodder. I closed the book and put it back next to the exemption.
+
+Felix had seen the card. He looked at it, then at me. Then he buttered another roll and said nothing, which was all right.
 
 The hall doors at the far end opened.
 
-They open all lunch, people coming and going. These opened slowly, and a man came in who didn't go to the hatches. Forty or so, plain gray staff coat, new; the creases from the folding were still in the sleeves. He stopped just inside the door and looked down the long tables like someone matching a face to a description.
+They open all lunch, people coming and going. These opened slowly, and the man who came in didn't go to the hatches. He was about forty, in a plain gray staff coat so new that the fold lines still showed in the sleeves. He stopped just inside and looked down the long tables like someone matching faces to a description.
 
 He found me. I'd swear to that. He found me as I put the book away, and he watched my hand come out of my coat, empty.
 
-Then he took a small notebook from his own pocket and wrote something in it. Not much. A line. His thumb, holding the notebook open, was black at the nail, grained black. Brazier work, or a coal scuttle.
+Then he took a small notebook from his pocket and wrote one line. His thumb, holding the page open, was black at the nail. Brazier work, or a coal scuttle.
 
-Golden Seal, I thought. One of the investigators down from Lantern Ward, the ones Ysolde warned me about, come up the hill to look at the academy for the same reason the Seal looks at anything: because someone's been blamed and somebody else has to be found.
+Golden Seal, I thought. One of the investigators from Lantern Ward, the ones Ysolde warned me about. They'd come up the hill to look at the academy for the reason the Seal looks at anything. Someone has been blamed, and somebody else has to be found.
 
-He closed the notebook and went out again, and the doors swung shut behind him, slowly.
+He closed the notebook and left. The doors swung shut behind him, slowly.
 
 "Who was that?" said Rowan, with his mouth full.
 

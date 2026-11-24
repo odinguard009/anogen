@@ -37,5 +37,18 @@
       "pacing_shape": "slow build to a sharp spike",
       "hook_type": "a promise or threat"
     }
+  },
+  {
+    "chapter": 4,
+    "picks": {
+      "opening_type": "concrete setting detail",
+      "scene_shape": "investigation that reveals a wrong assumption",
+      "tension_type": "hidden information",
+      "emotional_tone": "loneliness",
+      "comic_device": "dry self-deprecation",
+      "conflict_type": "losing fight with a costly exit",
+      "pacing_shape": "flat surface, tension underneath",
+      "hook_type": "emotional gut-punch"
+    }
   }
 ]

@@ -23,10 +23,10 @@ Plants ch 1-60 (outline/arc-1.md; later: twists-1/2.md).
 - [open] Ilsabet spared; Merrow admires Ostrevaal tapestry | planted: ch 25 | due: ch 145-150, 270-300
 - [open] Bertram's boots; "your mother had w-" | planted: ch 28 | due: ch 160-176
 - [open] Tutor's "test I once set a king" | planted: ch 29 | due: ch 166-170
-- [open] Duke's hour in the helm; Strent's letter names "the boy's late mother" | planted: ch 30 | due: ch 251; 185
-- [open] King asks for "the second envelope"; Lysette's scarf | planted: ch 33 | due: ch 210-214; 600
+- [open] Duke's hour in helm; Strent's letter: "the boy's late mother" | planted: ch 30 | due: ch 251; 185
+- [open] King's "second envelope"; Lysette's scarf | planted: ch 33 | due: ch 210-214; 600
 - [open] Titan silhouette on horizon | planted: ch 34 | due: ch 244
-- [open] Seraphine takes the post beside Eden's | planted: ch 35 | due: ch 145
+- [open] Seraphine takes post beside Eden | planted: ch 35 | due: ch 145
 - [open] Rowan asks why Lysette hates him | planted: ch 39 | due: ch 128-132
 - [open] Groundskeeper Veil mistaken for mastermind | planted: ch 45 | due: ch 185
 - [open] Feather inside Wardenshell; Strent first at the crisis | planted: ch 47-48 | due: ch 175; 99, 185

@@ -1,5 +1,16 @@
 # Style profile (swappable; engine reads only this file for style)
 
+## READABILITY (owner's order 2026-11-25; highest priority, overrides any rule below that conflicts)
+- Audience: teenagers and young adults reading web novels / light novels on a phone. Reference feel: Holy Emperor's Grandson is a Necromancer, Semi-Coercive Imperialist, The Academy's Weapon Replicator, Highschool DxD, Mahouka, Infinite Dendrogram, Bleach, Dandadan (ideas of pace and clarity only; never copy).
+- Plain, everyday words. Pick the simple word every time: "use" not "employ", "hard" not "arduous", "hide" not "conceal". If a word would make a teen reach for a dictionary, replace it. Invented world terms are fine but explain them by action in one short line, max 1-2 new ones per chapter.
+- Short sentences, mostly 8-18 words. Max one long sentence per paragraph; no sentence over 30 words. Few commas and clauses stacked together; no semicolons.
+- Short paragraphs: 1-4 lines on a phone, usually 1-3 sentences. Break big blocks.
+- More dialogue: aim for 30-45% of the words in quiet scenes, still plenty in fights. Quick back-and-forth, one idea per line. Each speaker sounds different and talks like a real teen or young adult (contractions, slang-lite, teasing), not like a legal document.
+- Fights: clear and fast. Say what happens in order, who is where, what the move is. Short punchy lines; no abstract or poetic descriptions of combat.
+- Feelings and humor must be easy to catch on first read: keep subtext, but make the joke or the emotion land without needing a second read. Wit stays dry but simple.
+- Keep metaphors rare, concrete and easy (one per page at most). No academic, legal, military-jargon or archaic wording unless a character is deliberately a stiff noble, and even then keep it short.
+- Keep the human feel rules below (uneven rhythm, no tidy endings, no AI tics), but never at the cost of clarity.
+
 ## Voice
 - First person, past tense. Dry, observant, understated humor; feelings shown through small actions rather than stated.
 - Tactical narration in fights: read the terrain, name the options, pay the cost.

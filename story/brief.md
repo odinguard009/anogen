@@ -12,6 +12,7 @@ arc_default_max: 50
 ## Genre and tone
 - Original fantasy world (not copied from any existing work).
 - Korean web-novel / Japanese light-novel feel. Language of the story: English.
+- Audience: teenagers and young adults. Simple, easy-to-read English (see READABILITY in story/style/profile.md).
 - Never boring: twists planted early, heartfelt moments, heart-pounding scenes.
 
 ## Protagonist

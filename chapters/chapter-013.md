@@ -6,7 +6,7 @@ I was on the wall above the landing, flat, under the shade of an overhanging fig
 
 He was good at it. He had the shuffle, the stoop, the way of touching his cap. His shadow lay along the steps in front of him, long and agreeable.
 
-His shadow didn't breathe. It's a small thing. Everyone's shadow rises and falls a little, if you've trained for it. His lay on the stone like a dropped coat.
+His shadow didn't breathe. It's a small thing. Everyone's shadow rises and falls a little, if you've trained yourself to see it. His lay on the stone like a dropped coat.
 
 I came down off the wall with my lance already folded in my left hand, and he turned with the snuffer, and said, in the kind old voice of Lothar Pell, "Evening, young master. Past curfew, ain't it?"
 
@@ -106,7 +106,7 @@ There was a very small silence.
 
 Okoru had come down the Stair from the top, with his sleeve pinned across his chest and his jaw working on its root. He was carrying nothing. He walked into the circle of juniors and they parted for him, and he crouched, with a soldier's economy, by the edge of the dust, and put his one finger into it, and rubbed it against his thumb.
 
-"This is a Veil," he said. "Dust like this is. I've shoveled a basin of it on the Wall." He looked up at Rochefort. "The lamplighter's real name was Pell. His wife's been looking for him since eleven last night. I'd go and tell her myself, if I were you, rather than wait to count her in a ledger."
+"This was a Veil," he said. "I've shoveled a basin of this stuff off the Wall." He looked up at Rochefort. "The lamplighter's real name was Pell. His wife's been looking for him since eleven last night. I'd go and tell her myself, if I were you, rather than wait to count her in a ledger."
 
 Rochefort didn't answer at once. For a man with a bag at his feet he looked, for the first time, a little fixed in place.
 
@@ -114,7 +114,9 @@ Rochefort didn't answer at once. For a man with a bag at his feet he looked, for
 
 "Do."
 
-She did it there, kneeling on the cold step with a clean glass plate from her satchel, her fingers moving over its face, the grey of the wall coming away from the stone in tiny threads and settling in the glass. It took her four minutes. She never once let the plate tilt. Her breath was steady, which it hadn't been on the wall, and she kept her eyes on the work so completely that she might have been alone, and nobody in the circle, not the inspector, not Okoru, not Mathilde Lindqvelle weeping quietly in someone's coat, said a word until she'd finished. I stood there with a lamp in my hand and watched somebody do, with great care, a thing I had never in my life been able to do at all. It was very good. It was extraordinarily good. If I'd needed anybody to find me, I'd have wanted it to be anyone else.
+She did it there, kneeling on the cold step with a clean glass plate from her satchel, her fingers moving over its face, the grey of the wall coming away from the stone in tiny threads and settling in the glass. It took her four minutes. She never once let the plate tilt. Her breath was steady, which it hadn't been on the wall, and she kept her eyes on the work so completely that she might have been alone, and nobody in the circle, not the inspector, not Okoru, not Mathilde Lindqvelle weeping quietly in someone's coat, said a word until she'd finished. I stood there with a lamp in my hand and watched somebody do, with great care, a thing I had never in my life been able to do at all. It was extraordinarily good.
+
+If anyone on this plateau was ever going to find me, it would be her.
 
 She stood and gave Okoru the plate.
 

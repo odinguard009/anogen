@@ -20,11 +20,11 @@ I didn't open my eyes. I was on my back in the thyme at the far end of the roof,
 
 I took that as encouragement, and went on not opening my eyes.
 
-The thing about a perfect record is that nobody tells you it'll be this tiring. Day one I'd gone down at noon in the library annex under a table, with a sign on my chest, *Studying*, and Lysette had walked in at twelve-oh-six with a Committee runner on each arm and a warrant. Day two the warrant became two warrants. Day three there'd been a wire across the gap in the boiler-room wall. I'd had to start taking notes. It's the only time in my life I've been grateful to a ledger: *Nap 3. Boiler room. Thirty-eight minutes. Interrupted by a bucket.* Signed, *E. Wren,* witnessed, for want of anyone, by an apple tree.
+The thing about a perfect record is that nobody tells you it'll be this tiring. Day one I'd gone down at noon in the library annex under a table, with a sign on my chest, *Studying*, and Lysette had walked in at twelve-oh-six with a Committee runner on each arm and a warrant. Day two the warrant became two warrants. Day three there'd been a wire across the gap in the boiler-room wall. I'd had to start taking notes. It's the only time in my life I've been grateful to a ledger: *Nap 3. Boiler room. Thirty-eight minutes. Undisturbed, apart from a bucket.* Signed, *E. Wren,* witnessed, for want of anyone, by an apple tree.
 
 Six in a row. If I got through this one I'd have seven, and I would be the first person in the history of the Royal Academy to have trained for sleeping. It's not on the Ladder. There's no pin for it.
 
-I had also bet Felix a month of carrying my Strategy book. I'd rather not go into that.
+I had also bet Felix a month of carrying his Strategy book. I'd rather not go into that.
 
 "Seraphine's joke," said Felix. "Number nineteen. Do you want it?"
 
@@ -68,7 +68,7 @@ I'd taken the notice for the bursar's. The bursar never repairs anything.
 
 "I didn't think there was one." He was silent a moment. "I'd have said the roof was in excellent repair. Apart from the telescope."
 
-"Day one," I said. "I thought she was hunting me. The warrants, the runners, the whole campaign." I opened both eyes and looked at the sky. "She's been keeping them off the stair."
+"Since day one," I said. "I thought she was hunting me. The warrants, the runners, the whole campaign." I opened both eyes and looked at the sky. "She's been keeping them off the stair."
 
 "Ah," said Felix.
 
@@ -80,7 +80,7 @@ I was already still. It's the first thing the body does. I lay in the thyme with
 
 Then light, slow footsteps on the planks.
 
-Felix said nothing at all, and the tree said nothing, and I think the cloud went away. I heard her go past the dome. I heard the planks of the first bed. I heard, not a yard from my head, the clunk of the little tin watering can, which lives by the apple tree in a place where I'd put it three weeks ago after the first time I'd moved it by accident, and found it wrong.
+Felix said nothing at all, and the tree said nothing, and I think the cloud went away. I heard her go past the dome. I heard the planks of the first bed. I heard, not a yard from my head, the clunk of the little tin watering can, which I'd knocked over three weeks ago and set back, carefully, a thumb's width from where she keeps it.
 
 She stood over me. I could tell from the shadow, and from how it changed the red behind my eyelids to a dull brown.
 
@@ -92,11 +92,11 @@ It was not what I'd expected. It was very low, hardly voiced, said down to the t
 
 She was looking at the label, I thought. And then at my hand. I did not open my eyes.
 
-There was a long silence in which I heard Lysette discover the thing a person discovers eventually, if she knows a place well enough: that every plank in it is where it was and a few are not.
+There was a long silence. I heard her crouch. I heard a fingernail tick against copper wire, once, and then the can, nudged that thumb's width back to where it belonged.
 
 "Seven days," she said, to no one. "I've sent runners to the boiler room *twice.*"
 
-I counted the leaves above me. I felt the apple tree leaning in over the two of us, politely, and Felix not breathing in it. I thought: if she says my name, I will have to answer, and my record will be spoiled, and I'll lose my Strategy book for a month and probably a good deal else.
+I counted the leaves above me. I felt the apple tree leaning in over the two of us, politely, and Felix not breathing in it. I thought: if she says my name, I will have to answer, and my record will be spoiled, and I'll be carrying Felix's Strategy book for a month, and probably a good deal else.
 
 She didn't say my name.
 
@@ -114,6 +114,12 @@ Then she pushed each one into the soil of the bed with her thumb, one at a time,
 
 She wiped her hand on her skirt. She sat down on the edge of the herb bed with her knees up and her back to me, and her face to the dome, and the sky, and the long gold flat of Solmarch going down toward the river. And that was all. She didn't go. She stayed there with her chin on her arms and the little tin can beside her and the whole bright noon around her, like a person who has come to sit with something and has decided it will do.
 
+After a while she said, to the dome, "Three weeks."
+
+I didn't move.
+
+"And you never told anyone." It wasn't a question. I'm not a fool, so I didn't answer it.
+
 Behind me in the tree, very softly, Felix shifted his weight onto the other foot.
 
-I stayed where I was. I was warm. It's the one thing I'm sure of. It was the best nap of my life, and I'm entering it in the book.
+I stayed where I was. I was warm. It was the best nap of my life, and I'm entering it in the book, and not one word of why.

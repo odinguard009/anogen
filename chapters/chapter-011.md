@@ -28,7 +28,7 @@ The Bell Door opened on a passage the width of two men and the color of wet slat
 
 Here is what I knew in the first forty paces, because I knew it from the doorframe and not because I'd looked: the passage lamps were all wrong.
 
-A glowstone on a chain hangs at every junction in the Undercroft, a thumb-sized lump of green-white, and each of them throws one shadow. The post of a gate, the edge of a bench, a boot. One. Here every shadow had a second one, faint, lying under the first like a bad carbon copy, and the faint ones all leaned the same way, off to the left and down the passage. That meant a bigger light somewhere behind everything, far and strong. Something had been lit at the exit. Someone had wanted it found by somebody who knew how to look, and had hung the mark where only a person who spends his life in other people's shadows would read it.
+A glowstone on a chain hangs at every junction in the Undercroft, a thumb-sized lump of green-white, and each of them throws one shadow. The post of a gate, the edge of a bench, a boot. One. Here every shadow had a second one, faint, lying under the first like a ghost of it, and the faint ones all leaned the same way, off to the left and down the passage. That meant a bigger light somewhere ahead, far and strong. Whoever set the maze had hung a lamp over the exit fit for a harbor and forgotten that light goes round corners.
 
 I didn't say so. I was Wren, who sleeps, who has sixty-one absences and a lance for blocking.
 
@@ -74,7 +74,7 @@ Felix looked at the left branch. He looked at me, for a half second longer than 
 
 At the fourth minute the Kennel opened, and the bursar had indeed bought what he could afford.
 
-They came out of the dark in a line, five of them. Dust-hounds, Daubert would have called them, if he'd named them, and probably something warmer than that. Cane frames, canvas stretched over the ribs, sand in the belly for weight, a tin bell clapper for a tongue. Cheap, and quick on four legs, and not remotely amusing. One tin tongue rang. Then they all did, and the sound came down the passage at us like a sack of cutlery.
+They came out of the dark in a line, five of them. Dust-hounds, the board called them. Cane frames, canvas stretched over the ribs, sand in the belly for weight, a tin bell clapper for a tongue. Cheap, and quick on four legs, and not remotely amusing. One tin tongue rang. Then they all did, and the sound came down the passage at us like a sack of cutlery.
 
 "Back!" Felix had the bow off his shoulder before the second one rang. Nobody told him not to. The Undercroft's rule is relics no, Tenets yes, and ordinary weapons the way they come. He put an arrow through the first one's front leg and the creature went over its own foot into the second. They piled into a heap against the gutter, rattling, with sand running out of one of them like a pierced ham.
 
@@ -104,7 +104,7 @@ I said it in the voice I use for bad news in a warehouse, and nobody argued.
 
 I'd always assumed the worst thing about being hunted by a sandbag was the noise. It's not. It's that they stop for nothing. They have no judgment to give up; a hound that has your footfall keeps it until the sand runs out, round corners, down steps, across a floor that has just been wet.
 
-We ran with the glass running behind us. Rowan carried Clara over a gap that I don't think she'd have cleared. Felix got hit twice from behind and cursed, quietly, in a language I didn't know he had. And then at a small square junction under a lamp that was almost dark, Lysette pulled up so suddenly that I nearly went into her. Two passages, both lit. Both empty. Behind us the tin tongues, close.
+We ran with the glass running behind us. Rowan carried Clara over a gap that I don't think she'd have cleared. Felix clipped a wall twice and cursed, quietly, in a language I didn't know he had. And then at a small square junction under a lamp that was almost dark, Lysette pulled up so suddenly that I nearly went into her. Two passages, both lit. Both empty. Behind us the tin tongues, close.
 
 "Which?" she said.
 
@@ -124,7 +124,7 @@ Lysette had stopped on the other side to see whether I'd made it.
 
 "Your face." She had her clipboard in front of her like a shield, and she frowned into the dark above my eyebrow. "That's still open."
 
-"It's a door cut. It'll close."
+"I walked into a door. It'll close."
 
 "It's been nine days." She said it fast, and then looked at the clipboard, as if the number might be written there. "Committee records. If it's infected I'm the one who has to fill in the form."
 

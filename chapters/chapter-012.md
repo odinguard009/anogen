@@ -46,7 +46,7 @@ We did the arm first, since he wanted to; he turned his sleeve up and showed me 
 
 "You are a lot of things, but I've never once seen you lucky."
 
-It was the first thing he said that I had no answer to, and I was almost grateful for the next one, because it was worse.
+It was the first thing he'd said that I had no answer to. The next one was worse.
 
 The cat came and sat in the rectangle of sun between us and looked at nothing. A long way off, the lowchapel bell rang once for the half hour, and Hob began shouting about his barrow. It would have been a very good lunch.
 
@@ -64,19 +64,19 @@ Felix put down his bun, the way a man puts down a drink at the start of a toast.
 
 I didn't answer. I don't think it was a question.
 
-"Because you never said you had a locked door," said Felix, quite gently. "You just acted like a person who didn't."
+"Because you never told me there was a locked door," said Felix, quite gently. "You just stood in front of it."
 
 * * *
 
-I did not sleep that afternoon. It's the one thing I can say for the afternoon.
+I didn't sleep that afternoon. I tried, which is worse.
 
-I lay on the roof of the Old Observatory with my coat over my face, and the war came anyway, the way it does, at the edge of the blanket. Banners somewhere. A river the wrong color. A row of men in black armor standing three deep in a field who had been standing there a very long time, waiting for me to arrive and say what for. The Tutor, in the dream, was far off and busy and did not look round. He never does at that hour. The Dragon did.
+I lay on the roof of the Old Observatory with my coat over my face, and the war came anyway, the way it does, at the edge of the blanket. Banners somewhere. A river the wrong color. A row of men in black armor standing three deep in a field who had been standing there a very long time, waiting for me to arrive and say what for. The Tutor, in the half-dream, was far off and busy and did not look round. He never does at that hour. The Dragon did.
 
 *You didn't answer the boy,* said Sepiroth, in the dry voice he uses when he'd like to be thought above it.
 
 *Leave it.*
 
-*I heard the whole thing. Landlords hear things. A very nice young man, practically a hedge. And you sat there with a bun in your hand for as long as it takes to boil an egg. I counted.*
+*I heard the whole thing. Landlords hear things. A very nice young man. Practically a sheepdog. And you sat there with a bun in your hand for as long as it takes to boil an egg. I counted.*
 
 *Leave it,* I said again, and he left it, which is rarer than you'd think, and the afternoon went down into evening without me finding a single thing to say.
 
@@ -150,7 +150,7 @@ She stopped when she saw us. Felix lifted one hand off his knee, politely. I thi
 
 "You're a flight risk," she said.
 
-She put the parcel on the sack beside me. She tucked the other one under her arm, and I realized that it was hers; she'd brought hers too. She went red from the collar up and said, to the cat, "There's a rota. I've put you on it. Wherever you are," and walked off round the corner of the tack room with her back so straight it must have hurt.
+She put the parcel on the sack beside me. She tucked the other one under her arm, and I realized that it was hers; she'd brought hers too. She moved the clipboard to the other arm, which took longer than it should have, and said, to the cat, "There's a rota. I've put you on it. Wherever you are," and walked off round the corner of the tack room with her back so straight it must have hurt.
 
 Felix watched the corner for a while.
 

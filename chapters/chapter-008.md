@@ -86,7 +86,7 @@ He held her. He leaned the shield in and pinned her against her own rack, gently
 
 Two wardens knelt in the lattice of moonlight, cracked through the chest. Their hollows, when I looked with a match cupped in my glove, were full of gray dust. Packed. Neat.
 
-Gorrath put Margery back in her slot. He didn't have to; nobody would believe two broken wardens had walked back into their racks; I didn't stop him. He lifted her like furniture, carefully, by the hips, and stood her up under her plate and straightened her head. Then he did the same for Uncle.
+Gorrath put Margery back in her slot. There was no point. Nobody was going to believe two broken wardens had walked home by themselves. I didn't stop him. He lifted her like furniture, carefully, by the hips, and stood her up under her plate and straightened her head. Then he did the same for Uncle.
 
 "There," he said.
 

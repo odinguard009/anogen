@@ -70,7 +70,7 @@ Lysette read it twice. The second time her lips moved on one word.
 
 She looked at me over the top of the paper with the expression people use on a cart that has lost a wheel in a narrow street: not angry yet, because it hasn't occurred to anyone yet whose fault it is. I could see her running through the handbook in her head. Officers of the student body. Was a Committee vice-chair an officer of the student body? She was. Could a headmistress's medical exemption overrule a Committee warrant? Nobody had ever had to find out, because nobody had ever been stupid enough to get one and then use it.
 
-It isn't a good feeling, watching someone who's very good at rules come up against one she didn't know existed. I'd expected to enjoy it more.
+Watching someone who's very good at rules walk into one she didn't know existed: I'd expected to enjoy that more.
 
 "This isn't in the handbook," she said.
 
@@ -104,7 +104,7 @@ I didn't look at it. I looked at the warrant instead, which was easier.
 
 "And Lance Nine eats at the long table by the east windows, by order of Instructor Okoru, starting today. All five. So you'll come to lunch. You'll come to lunch, and you'll eat it, and you'll sit with your Lance, and I'll tick you off, and none of that is attendance, so your *exemption*"—she leaned on the word as though it might break—"doesn't come into it."
 
-I thought about it. There was a gap in her argument about the size of a cart, and she knew it, and was standing in front of it looking at me.
+I thought about it. There was a gap in her argument wide enough to sleep in, and she knew it, and was standing in front of it looking at me.
 
 "Fine," I said.
 

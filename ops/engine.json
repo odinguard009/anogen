@@ -14,8 +14,8 @@
     "arc": 1,
     "max": 50,
     "start_chapter": 1,
-    "status": "stopped",
-    "stop_reason": "5-hour quota limit hit; paused by owner"
+    "status": "running",
+    "stop_reason": ""
   },
   "critic_through": 5
 }

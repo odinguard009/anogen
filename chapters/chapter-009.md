@@ -82,7 +82,7 @@ I didn't step.
 
 It took me above the left eye. There was a white flash and a noise like a dropped plank, and then I was still standing, which I'd decided beforehand, and something warm was running into my eyebrow.
 
-The crowd had gone quiet. It's a particular quiet; I've heard it before, on other streets. The quiet of people who've just seen what they almost did.
+The crowd had gone quiet. It's a particular quiet. I've heard it before, on other streets, and it never lasts long.
 
 The porter was staring at the burning puddle. He'd let go of the bail. His hands hung open.
 

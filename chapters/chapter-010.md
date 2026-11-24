@@ -64,11 +64,11 @@ Wren thought about it. He seemed to actually think about it, chewing.
 
 Seraphine laughed. It was a real laugh, startled out of her. But under it, for a second, something in her face went still and careful, and then she put it away, and turned to Felix.
 
-"Right," she said. "Attempt one. Felix Ashgrove. Why did the griffon refuse to fly on the Lantern Ball?"
+"Right," she said. "Attempt one. Felix Ashgrove. Why did the griffon leave the Lantern Ball early?"
 
 Felix looked up at her.
 
-"Because it didn't have a partner," said Seraphine. "Because it was *feathered out*."
+"It was *feathered out*," said Seraphine. "Tired. Feathered. It's a pun, you're allowed to make a noise."
 
 Felix considered this. "Griffons don't go to the Ball."
 
@@ -76,7 +76,7 @@ Felix considered this. "Griffons don't go to the Ball."
 
 "They're not allowed in the atrium. There was a rule after the one that ate the cake."
 
-Seraphine looked at him for a long moment. Then she took a pen out of her sleeve and wrote a small, neat *1* on the back of her left hand, and showed it to him, and went back to her own table without another word. Felix watched her go. He didn't look like a man who'd won anything.
+Seraphine looked at him. Then she took a pen out of her sleeve and wrote a small, neat *1* on the back of her left hand, and showed it to him, and went back to her own table without another word. Felix watched her go. He didn't look like a man who'd won anything.
 
 Lysette realized she had been watching all of it, Seraphine and Felix, Wren chewing, the plaster on his eyebrow, and that the next table had got louder at some point, Rowan had got the honey open and spilled it, and she hadn't turned round.
 

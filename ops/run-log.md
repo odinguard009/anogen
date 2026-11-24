@@ -51,3 +51,9 @@ One entry per run. The owner fills in quota_note after checking claude.ai/settin
 - words: 2193
 - scores: tension 3, surprise 4, emotion 4, battle_clarity 3, voice 4, freshness 4
 - quota_note: 
+
+### critic pass ch 6 - scores 3,4,3,-,4,4 - clean; plants (fresco light, lilies) land quietly; Okoru vestry scene strong. No patch.
+### critic pass ch 7 - scores 3,3,3,-,4,3 - cut explained feeling on the roof; replaced repeated cart image. Food/"eaten" gag now in 3 straight chapters (ch 5-7), Rowan-the-loud-friend beats repetitive.
+### critic pass ch 8 - scores 4,4,4,4,4,4 - best of batch; fixed clumsy double-semicolon line (Gorrath and the racks).
+### critic pass ch 9 - scores 4,3,4,3,4,4 - cut tidy aphorism after the cobblestone ("the quiet of people who've just seen..."). Wick Street clear.
+### critic pass ch 10 - scores 3,4,4,3,4,4 - fixed muddled double-punchline griffon joke and ungrammatical setup; trimmed a "for a long moment". Chalk-duel Witness use fresh.

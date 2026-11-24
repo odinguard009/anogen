@@ -49,5 +49,8 @@ Use `python3 tools/schedule.py enable|disable`. Enable: create a scheduled task 
 ### "lanjutkan"
 `python3 tools/engine_state.py batch-resume`, then continue the loop. If an interrupted chapter exists (precheck warning), finish its bookkeeping first.
 
+## Reading page (owner's standing choice)
+The owner reads inside the chat app, not via downloaded files. After each finished chapter (in a batch: after the batch stops, one page with all new chapters), publish the chapter text as a reading page with the Artifact tool (use the Docs type if the session lists it, else a self-contained HTML page; call list_types and the guide first). Update the same artifact for later chapters of the same arc instead of making many pages. The page is a copy for reading; chapters/*.md stays the source of truth. Do not paste the link in text (the card shows it). The EPUB is still built per completed arc.
+
 ## Token discipline
 In a batch, each chapter should be done in as few rounds as possible; if the conversation grows long, finish the current chapter, commit, and tell the owner to say "lanjutkan" in a fresh chat (state survives in ops/engine.json). Do not re-read files. Do not summarize steps back to the owner. After a chapter, reply with one or two lines only.

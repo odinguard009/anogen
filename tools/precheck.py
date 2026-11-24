@@ -14,16 +14,16 @@ import variety
 
 
 def unused_names(limit=6):
-    """names.md: lines '## culture' headers, then names (one per line or comma separated)."""
+    """names.md: lines under '## culture' headers, then names (one per line or comma separated)."""
     txt = read(STORY / "names.md")
     used = canon_tokens()
-    out, culture = {}, "general"
+    out, culture = {}, None
     for line in txt.splitlines():
         s = line.strip()
         if s.startswith("#"):
-            culture = s.lstrip("#").strip() or "general"
+            culture = s.lstrip("#").strip() if s.startswith("##") else None
             continue
-        if not s or s.startswith("<!--"):
+        if culture is None or not s or s.startswith("<!--") or len(s) > 200:
             continue
         for n in re.split(r"[,;]", s.lstrip("-* ")):
             n = n.strip()
@@ -60,6 +60,12 @@ def build(chapter=None, peek=False):
         for num, first, last in edges:
             lines.append(f"- ch {num} opens: {first}")
             lines.append(f"  ch {num} ends: {last}")
+    cf = chapter_files()
+    if cf:
+        hi = cf[-1][0]
+        summ = read(STORY / "bible" / "summaries.md")
+        if not re.search(r"(?mi)^\W*Ch\.?\s*%d\b" % hi, summ):
+            lines.append(f"WARNING: chapter {hi} has no summary in summaries.md: a previous run was interrupted. Finish its bookkeeping (Canon Keeper) and run save.py BEFORE writing chapter {n}.")
     un = inbox.unprocessed_ideas()
     lines.append(f"Inbox: {len(un)} unprocessed idea(s)" + (" -> develop them first (Development Editor)." if un else "."))
     return "\n".join(lines)

@@ -32,7 +32,7 @@ def load_banned():
             s, opt = s.split("|", 1)
             mm = re.search(r"max\s*=\s*(\d+)", opt)
             mx = int(mm.group(1)) if mm else 0
-        out.append((s.strip().lower(), mx))
+        out.append((s.strip().lower().replace("’", "'"), mx))
     return out
 
 
@@ -57,7 +57,7 @@ def main():
     if not raw.strip():
         print("SUMMARY: FAIL file empty or missing")
         return
-    body = clean_body(raw)
+    body = clean_body(raw).replace("’", "'").replace("‘", "'")
     wc = len(words(body))
     lo, hi = setting_int("chapter_words_min"), setting_int("chapter_words_max")
     issues, notes = [], []
@@ -107,7 +107,9 @@ def main():
         for s in sentences(body):
             toks = words(s)
             for w in toks[1:]:
-                if w[0].isupper() and w.lower() not in canon and w.lower() not in STOP and w not in ("I",) \
+                if w.endswith("'s"):
+                    w = w[:-2]
+                if w and w[0].isupper() and w.lower() not in canon and w.lower() not in STOP and w not in ("I",) \
                         and not w.lower().startswith("i'"):
                     unk[w] = unk.get(w, 0) + 1
         fresh = [w for w, c in unk.items() if c >= 2]

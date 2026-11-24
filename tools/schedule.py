@@ -17,7 +17,7 @@ DEFAULT = {
     "timezone": "Asia/Jakarta",
     "runs_per_day": 2,
     "times": ["09:17", "21:43"],
-    "command": "write next chapter",
+    "command": "tulis bab berikutnya",
     "chapters_per_run": 1,
     "arc_max_chapters": 50,
     "task_id": None,

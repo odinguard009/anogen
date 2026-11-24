@@ -18,7 +18,13 @@ def main():
     ap.add_argument("--trailer", default="")
     a = ap.parse_args()
 
-    git("add", "-A")
+    if git("rev-parse", "--is-inside-work-tree").returncode != 0:
+        print("ERROR: not a git repository; nothing saved.")
+        sys.exit(1)
+    r = git("add", "-A")
+    if r.returncode != 0:
+        print("ERROR: git add failed:", (r.stdout + r.stderr).strip())
+        sys.exit(1)
     if not git("status", "--porcelain").stdout.strip():
         print("Nothing to commit.")
         return

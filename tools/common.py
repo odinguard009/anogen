@@ -43,8 +43,10 @@ def write(path, text):
 def load_json(path, default):
     try:
         return json.loads(Path(path).read_text(encoding="utf-8"))
-    except (FileNotFoundError, ValueError):
+    except FileNotFoundError:
         return default
+    except ValueError as e:
+        raise SystemExit(f"ERROR: {path} is not valid JSON ({e}). Fix it; nothing was overwritten.")
 
 
 def save_json(path, data):
@@ -66,8 +68,11 @@ def chapter_path(n):
 
 
 def next_chapter_number():
-    cf = chapter_files()
-    return cf[-1][0] + 1 if cf else 1
+    """Lowest chapter number that does not exist yet (fills gaps first)."""
+    n = 1
+    while chapter_path(n).exists():
+        n += 1
+    return n
 
 
 def chapter_title(text, fallback=""):
@@ -137,11 +142,14 @@ def canon_names():
     return names
 
 
+_NAME_STOP = {"of", "the", "a", "an", "and", "de", "von", "van", "la", "le", "el", "al", "bin", "ibn"}
+
+
 def canon_tokens():
     toks = set()
     for n in canon_names():
         for t in re.split(r"[\s,]+", n.lower().replace("’", "'")):
-            if t:
+            if t and t not in _NAME_STOP:
                 toks.add(t)
     return toks
 

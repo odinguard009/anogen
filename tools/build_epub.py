@@ -21,8 +21,8 @@ from common import OUT, chapter_path, chapter_title, load_json, OPS, read, setti
 CSS = """body{font-family:serif;line-height:1.5;margin:0 4%}
 h1{text-align:center;margin:1.5em 0 1em;font-size:1.4em}
 p{margin:0 0 .7em;text-indent:0}
-hr{border:0;text-align:center;margin:1.2em 0}
-hr:after{content:"* * *"}
+p.brk{text-align:center;margin:1.2em 0}
+h2{text-align:center;font-size:1.1em}
 .title{text-align:center;margin-top:30%}
 """
 
@@ -30,6 +30,7 @@ hr:after{content:"* * *"}
 def inline(s):
     s = escape(s)
     s = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", s)
+    s = re.sub(r"__(.+?)__", r"<strong>\1</strong>", s)
     s = re.sub(r"(?<![\w*])\*(?!\s)(.+?)(?<!\s)\*(?![\w*])", r"<em>\1</em>", s)
     s = re.sub(r"(?<![\w_])_(?!\s)(.+?)(?<!\s)_(?![\w_])", r"<em>\1</em>", s)
     return s
@@ -44,19 +45,28 @@ def md_to_xhtml(md, fallback_title):
     while i < len(lines) and not lines[i].strip():
         i += 1
     if i < len(lines) and lines[i].lstrip().startswith("#"):
-        title = lines[i].lstrip("#").strip() or fallback_title
+        title = lines[i].lstrip("#").strip().replace("*", "").replace("_", " ").strip() or fallback_title
         i += 1
     body, buf = [], []
 
     def flush():
         if buf:
-            body.append("<p>" + inline(" ".join(x.strip() for x in buf)) + "</p>")
+            txt = " ".join(x.strip() for x in buf)
+            if txt.startswith("#"):
+                body.append("<h2>" + escape(txt.lstrip("#").strip().replace("*", "")) + "</h2>")
+            else:
+                h = "<p>" + inline(txt) + "</p>"
+                try:
+                    ET.fromstring("<r>" + h + "</r>")
+                except ET.ParseError:
+                    h = "<p>" + escape(txt.replace("*", "")) + "</p>"
+                body.append(h)
             buf.clear()
 
     for ln in lines[i:]:
         if BREAK.match(ln):
             flush()
-            body.append("<hr/>")
+            body.append('<p class="brk">* * *</p>')
         elif not ln.strip():
             flush()
         else:

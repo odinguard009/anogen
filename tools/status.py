@@ -22,6 +22,9 @@ def main():
     b = engine_state.load()["batch"]
     print(f"Batch: {b['mode']} / {b['status']} {b.get('stop_reason', '')}".rstrip())
     print(f"Inbox: {len(inbox.unprocessed_ideas())} unprocessed idea(s)")
+    prop = read(STORY / "proposals.md")
+    if prop.strip():
+        print(f"Proposals pending: {sum(1 for l in prop.splitlines() if l.lstrip().startswith(('-', '#', '*')))} entries in story/proposals.md (owner decides)")
     sc = schedule.load()
     print(f"Schedule: {'ON' if sc['enabled'] else 'OFF'} ({', '.join(sc['times'])} {sc['timezone']})")
     rows = list(csv.reader(read(OPS / "scores.csv").splitlines()))

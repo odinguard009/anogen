@@ -14,7 +14,7 @@ NAMES = ["tension", "surprise", "emotion", "battle_clarity", "voice", "freshness
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--command", default="write next chapter")
+    ap.add_argument("--command", default="tulis bab berikutnya")
     ap.add_argument("--chapter", type=int, default=None)
     ap.add_argument("--status", default="ok")
     ap.add_argument("--words", type=int, default=None)

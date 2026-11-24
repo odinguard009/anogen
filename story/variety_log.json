@@ -11,5 +11,18 @@
       "pacing_shape": "fast start, slows into consequence",
       "hook_type": "unexpected arrival"
     }
+  },
+  {
+    "chapter": 2,
+    "picks": {
+      "opening_type": "a document, notice or letter",
+      "scene_shape": "quiet scene that turns sharply",
+      "tension_type": "physical danger",
+      "emotional_tone": "bittersweet gratitude",
+      "comic_device": "deadpan understatement",
+      "conflict_type": "siege or defence of a place",
+      "pacing_shape": "two spikes with a breather",
+      "hook_type": "decision with a price"
+    }
   }
 ]

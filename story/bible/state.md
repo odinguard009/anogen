@@ -1,9 +1,9 @@
-# State after chapter 1 (autumn PR 112, ninth month, ~3 weeks before the Lantern Ball)
+# State after chapter 2 (autumn PR 112, ninth month, ~3 weeks before the Lantern Ball)
 
 ## Eden (narrator)
 - 18, Year 5 at Hallowcrest, rank 8. Public: Eden Wren, Thornmere-born scholarship ward. True: Eden Aster Argentine. Dyed-dull silver hair, gray eyes, lean, black gloves.
-- Location: Old Observatory roof, afternoon; skipped Spell Grammar (61 absences; Ostwald's "medical exemption" permit, hidden from Lysette).
-- Habits/tells: hides his aura so well people walk past him; reads shadows, counts exits; gave his mother's feather handkerchief to Lysette (she keeps it "to wash"); literal deadpan answers; when truly angry goes polite and quiet and removes his left glove.
+- Location: Hallowcrest, attending class under Lysette's written timetable (61 absences; Ostwald's "medical exemption" roof permit, hidden from her). Six-word answer to Brandmeier (ch 2); the year resents him.
+- Tells: hides his aura; counts exits; gave his mother's feather handkerchief to Lysette (she keeps it "to wash"); literal deadpan answers; when truly angry goes polite and quiet and removes his left glove.
 - Shows publicly: dark lance (blocking only), a claimed 3-Bell core and "shadow-shaping" Tenet. Candor only as the Black Order (masked) or when serious.
 - Real power: Melsche Door (lance/shield, short summons), Pillars X Vesk, IX Gorrath, VIII Mirelle; First Legion (never woken more than 40). Sepiroth Gate: Candor plus 6 minor relics known by name. Never lent a relic. True Bells unknown.
 - Knows: he is the Black Order; Veil tells; the Dragon and the Tutor in dreams; mother died on her birthday when he was 10; he believes he froze.
@@ -20,10 +20,10 @@
 
 ## Relationships
 - Felix Ashgrove: only close friend since Year 1; daily "Eaten today?".
-- Valerius: rival, serious; wants Eden to stop hiding. Seraphine: playful, crush; Eden treats her as a friend.
+- Valerius: rival, serious; wants Eden to stop hiding; ch 2 Eden dodged his "stopped hiding?"; he said "Pity." Seraphine: playful, crush; Eden treats her as a friend.
 - Ysolde: handler; Form 13-B nagging. King: monthly meetings, distant warmth. Duke: loud love; Eden answers with a smile and few words. Household: adores him.
 - Dragon "Landlord": friendly bickering. Tutor: wary respect.
-- Lysette: met ch 1 on the roof (she cried over Rowan inviting Clara to the Ball); she tends the garden secretly; Eden knows. She vowed to march him to class from tomorrow.
+- Lysette: met ch 1 on the roof (cried over Rowan inviting Clara); tends the garden secretly; Eden knows. Escorts him to class; still keeps the handkerchief; now asks herself why the Prince knows him.
 - Not yet met: Rowan, Clara.
 
 ## World now

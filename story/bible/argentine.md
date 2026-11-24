@@ -33,4 +33,4 @@ After every battle, alone, the Duke closes himself in Vowsilver, helm down, and 
 - Beat 2, ch 164: Pim asks why the helm's padding is always damp. Bertram, polishing it: "Condensation." He says it gently.
 - Beat 3, ch 200: after the coup Eden sees his father walk into the armory and not come out; he almost follows, doesn't.
 - Release, ch 251: on the far side of the Middle Sea, Eden enters his father's tent and finds him in the armor, shoulders shaking. The Duke opens the helm and, without a word, puts it on his son's head. A Keep plays: "Aldous, you fool. Come home and eat something." Eden laughs, and then cannot stop crying, and does not know which one it is. The Duke holds his gauntlet over Eden's. Neither says anything for a long time. After that, Eden asks "Eaten today?" too.
-- Payoff, ch 645-646: the last Keeps play through Aster and Vowsilver at once; father and son hear her together.
+- Payoff, ch 795-796: the last Keeps play through Aster and Vowsilver at once; father and son hear her together.

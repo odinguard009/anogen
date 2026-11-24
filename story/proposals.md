@@ -1,9 +1,14 @@
-# Proposals: keputusan untuk dikonfirmasi Odin (revisi 4: 700 bab, tiga pasangan, komedi, dewa, antagonis politik)
+# Proposals: keputusan untuk dikonfirmasi Odin (revisi 5: 850 bab, tiga pasangan, komedi, dewa, armor, titan)
 
 Semua sudah dipakai di story pack. Jawab "setuju semua" atau sebut nomor yang mau diganti.
 
 ## A. Struktur dan aturan
-1. **Panjang: 14 arc, sekitar 700 bab.** Arc 14 (651-700) berupa slice-of-life penutup: festival, kontes masak, perpisahan para Pillar, dan tiga pernikahan. Arc perang (5, 6, 8, 10, 12) diselang-seling dengan arc politik, sekolah, mata-mata, dan dewa. Rekomendasi: setuju; arc bisa dipadatkan kalau terasa lambat.
+1. **Panjang: 17 arc, sekitar 850 bab** (batas maksimal 1000; arc bisa disesuaikan). Supaya ada ruang tanpa memadatkan materi, saya menyisipkan tiga arc baru sebelum finale:
+   - Arc 13 Titanfall (ch 601-650): tiga titan baru, dan setiap retainer memimpin satu front bersama sebuah negara.
+   - Arc 14 The Ledger of Souls (ch 651-700): Belozerov menguasai Volkhovar lewat buku jiwa; Kell berkhianat, lalu berbalik.
+   - Arc 15 The Void Road (ch 701-750): perjalanan ke Void dan kisah masa lalu kesepuluh retainer; Tutor dan Naga akhirnya berdamai.
+   
+   Finale pindah ke ch 751-800 dan epilog ke ch 801-850. Semua nomor bab di atas 600 sudah digeser +150 secara konsisten di seluruh file. Nomor bab 1-600 tidak berubah. Detail di bible/arcs-4.md.
 2. **Musuh berganti tiap arc:**
    - teror (1), ekonomi dan faksi istana (2), politik luar negeri (3), kudeta (4)
    - perang monster (5, 6, 8, 10, 12)
@@ -34,9 +39,9 @@ Semua sudah dipakai di story pack. Jawab "setuju semua" atau sebut nomor yang ma
 ## C. Karakter
 9. **Eden:** perpaduan orisinal dari analis dingin, "pemalas" yang menyembunyikan kekuatan, realis keras, dan pelindung yang meledak kalau orangnya disakiti. Tanda khas: kalau marah, ia jadi sopan dan sangat pelan lalu melepas sarung tangan kirinya. Detail di style/profile.md.
 10. **Tiga pasangan utama** (masing-masing satu pasangan, bukan harem; detail di bible/romance.md):
-    - **Eden dan Lysette:** pengakuan Lysette ch 450, pengakuan Eden dan ciuman pertama ch 500, lamaran ch 600, pernikahan ch 695.
-    - **Valerius dan Ishani:** pangeran kaku yang taat aturan bertemu gadis Saravant usil yang tak bisa tidur. Komplikasi tunggal: Ishani dijodohkan dengan pangeran Qianlu (ch 310-345). Valerius mengaku lewat proposal tertulis lengkap dengan pasal (ch 520). Ishani bertarung melawan Vehra di dalam mimpi Valerius (ch 550-585). Menikah ch 690.
-    - **Felix dan Seraphine:** cowok kalem yang serba lurus bertemu putri jahil. Seraphine bertekad membuat Felix tertawa, dan berhasil di ch 147. Felix hilang di laut (ch 382-397). Komplikasi tunggal: Felix merasa tak pantas setelah lengannya cacat. Felix mengaku ch 466, menikah ch 685.
+    - **Eden dan Lysette:** pengakuan Lysette ch 450, pengakuan Eden dan ciuman pertama ch 500, lamaran ch 600, pernikahan ch 845.
+    - **Valerius dan Ishani:** pangeran kaku yang taat aturan bertemu gadis Saravant usil yang tak bisa tidur. Komplikasi tunggal: Ishani dijodohkan dengan pangeran Qianlu (ch 310-345). Valerius mengaku lewat proposal tertulis lengkap dengan pasal (ch 520). Ishani bertarung melawan Vehra di dalam mimpi Valerius (ch 550-585). Menikah ch 840.
+    - **Felix dan Seraphine:** cowok kalem yang serba lurus bertemu putri jahil. Seraphine bertekad membuat Felix tertawa, dan berhasil di ch 147. Felix hilang di laut (ch 382-397). Komplikasi tunggal: Felix merasa tak pantas setelah lengannya cacat. Felix mengaku ch 466, menikah ch 835.
     - **Pendukung:** Rowan dan Clara.
 
     Rekomendasi: setuju. Kedua pasangan baru ini lawan sifat, dan keduanya menyatu dengan plot dewa dan perang.
@@ -88,23 +93,38 @@ Semua sudah dipakai di story pack. Jawab "setuju semua" atau sebut nomor yang ma
 17. **Armor Eden, "Aster":** armor hitam Black Order ternyata karya ibunya yang tersegel (terungkap ch 175).
     - 5 tahap evolusi: ch 175, 199, 400, 446, dan 590. Tiap tahap terkait pemulihan emosi Eden serta terbukanya Emperor dan Naga.
     - Armor ini tidak berdentang (tanpa Seven Tolls). Harganya: setiap pemakaian besar menghabiskan satu Keep, satu pesan ibunya, untuk selamanya.
-    - Pesan terakhir diputar di ch 645, lewat Aster dan Vowsilver bersamaan.
+    - Pesan terakhir diputar di ch 795, lewat Aster dan Vowsilver bersamaan.
 18. **Showpiece sang Duke:** ch 193-194, saat kudeta. Ia datang memakai sandal sambil makan roti, lalu berkata "Sentence. All of you. Before the ninth bell." Enam puluh ksatria dan tiga Crown tumbang tanpa satu pun yang mati.
 19. **Kebiasaan rahasia sang Duke:** sehabis bertempur, ia menangis sendirian di dalam Vowsilver sambil mendengarkan Keep istrinya. Ia menghematnya, hanya diputar di malam-malam terberat.
     - Beat: ch 30, ch 164 (Bertram: "Condensation."), ch 200.
     - Pelepasan besar di ch 251: Duke memakaikan helmnya ke kepala Eden, lalu terdengar suara Liora: "Aldous, you fool. Come home and eat something." Eden tertawa sekaligus menangis.
-    - Payoff di ch 645-646.
+    - Payoff di ch 795-796.
 20. **Kelas ukuran monster** (bible/titans.md): Veil, Husk, Ravager, Wallbreaker, Colossus (100-200 m), Titan (300 m ke atas, 6 bernama), dan skala Sovereign (tubuh Kaurveth).
-    - Pertempuran titan: Thrennos ch 244-249, Grey Shepherd 284-287, Ossuary Reef 384-388, Ubrak 489-494, Lament 594-598, Hollow Gate 632-636.
+    - Pertempuran titan: Thrennos ch 244-249, Grey Shepherd 284-287, Ossuary Reef 384-388, Ubrak 489-494, Lament 594-598, Hollow Gate 782-786.
     - Prinsipnya: makin besar bayangan, makin besar pintu.
     - Konstruksi raksasa: Thousandfold Knight (seribu prajurit legion yang menyatu jadi satu ksatria raksasa) dan Stonewarden milik Han.
     - Politik titan: perebutan komando lewat Titan Accord, dan perdagangan bangkai titan.
 21. **Argent Raiment dihapus**, diganti Vowsilver (karya Liora). Dawnglass sekarang dipinjamkan ke Lysette di ch 507.
 
+## C4. Nama dewa dan gaya bertarung (baru)
+22. **Nama dewa:**
+    - Emperor of Void = **Melchsee**. Naga = **Sepiroth, Dragon of Heaven's Vault**. Nama lama (Ormath, Seraiel) sudah diganti di seluruh pack.
+    - Covenant sepuluh dewa sekarang bernama Tenfold Covenant, supaya tidak bentrok dengan nama naga.
+    - Hubungan Melsche dan Melchsee: "Melsche" adalah ejaan manusia yang keliru atas "Melchsee" (tercatat saat ritual Iron King), jadi Melsche Door = Pintu Melchsee. Tutor kesal setiap mendengar ejaan itu (beat komedi). Nama asli terungkap di ch 340.
+    - Rekomendasi: setuju.
+23. **Gaya bertarung "Lintel and Lamp"** (bible/combat-style.md):
+    - Tenang, minimalis, tanpa terburu-buru. Tombak-perisai di kiri, Candor di kanan dengan ujung mengarah ke bawah.
+    - Ritmenya "Close, Open, Light": perisai untuk membaca lawan, tombak untuk membuka pertahanan, pedang untuk mengakhiri.
+    - Pembuka khasnya: menurunkan kedua senjata dan menunggu.
+    - 9 jurus bernama (Latch sampai Last Light). Tanda khas sebelum serius: kedipan pelan dan satu ketukan pada cincin.
+    - 6 tahap perkembangan, dari solo (arc 1-2) sampai komandan legion yang tetap bertarung di garis depan (arc 8-9). Bertarung tanpa Candor di arc 6-7. Pertarungan terakhir kembali minimalis.
+    - Sepuluh retainer, masing-masing dengan gaya bertarung, kepribadian, dan bab terbukanya. Ada 10 kombo tim, misalnya "Long Door": panah Hald masuk lewat bayangan di samping Eden dan keluar di belakang musuh.
+    - Set piece saat Eden memimpin sambil bertarung: ch 290, 398, 560, dan 596.
+
 ## D. Pertanyaan
 1. Valerius menjadi host Vehra (dewa antagonis) mulai ch 545, tapi akhirnya menguasainya. Terlalu berat untuk sang pangeran? Rekomendasi: pertahankan; ini memberi rival yang benar-benar setara.
 2. Lysette sebagai host Aurelune: oke, atau biarkan ia manusia biasa? Rekomendasi: oke, tapi baru terungkap di ch 580.
-3. Mau 700 bab dengan arc 14 sebagai penutup santai, atau bab komedinya disebar saja dan total tetap 650? Rekomendasi: 700, karena tiga pernikahan butuh ruang.
+3. Total 850 bab cukup, atau mau ditambah lagi sampai 1000 (misalnya arc khusus festival dan kehidupan akademi)? Rekomendasi: 850 dulu; tambahan bisa disisipkan nanti.
 4. Judul tetap "The Thirteenth Knight Holds Every Sword"? Rekomendasi: ya.
 
 ## E. Catatan teknis

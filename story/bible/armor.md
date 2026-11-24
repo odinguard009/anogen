@@ -41,7 +41,7 @@ Tiers: Ward-plate < Pale Raiment < Named Raiment < Sovereign Raiment; Throne-for
 7. **Mirrorlace** | silver-lace half-armor and mask | Vault | trades places with a reflection | Tolls; Vow "harm no guest" | Seraphine | 330
 8. **Wingwake** | Liora's feathered Valkyrie plate, white and silver | Vault floor 4 | flight; feathers as blades that seal wounds | Tolls; rejected by Elysmar if worn long | Lysette | 425 (seen), 446 (worn)
 9. **Nullcrown Plate** | the Emperor's own: black on black, a ring of missing space above the helm | Throne Door | a sliver of Ending: weapons that strike it simply stop | Frost-fever; risk of the Emperor surfacing | Eden | 400
-10. **Sepiroth's Scale** | pearl plates like stacked shields | Vault floor 7, Seraiel's Firstwork | keeps whatever it guards unchanged (a city, for a minute) | heavy Tolls | Eden | 560
+10. **Sepiroth's Scale** | pearl plates like stacked shields | Vault floor 7, Sepiroth's Firstwork | keeps whatever it guards unchanged (a city, for a minute) | heavy Tolls | Eden | 560
 11. **Ashmail of Kaldmark** | grey plate grown over skin, frost veins | Pale Raiment (graft) | strength, cold aura, regrowth | slowly turns the wearer Hushborn | Ilsabet Rorke | 25
 12. **Lantern Rig** | brass frame, glowing stone cores | Lanternhouse mercenary tech | strength, flame bursts | stones can explode | Kell's mercenaries | 72
 13. **Frostplate** | white-blue Ice Legion plate | Volkhovar mass armor | cold-forged, near-Raiment toughness | slow, brittle in heat | Ice Legions | 370
@@ -55,9 +55,9 @@ Tiers: Ward-plate < Pale Raiment < Named Raiment < Sovereign Raiment; Throne-for
 - Stage 1, Ember (175-176): the seal cracks when he remembers her death; silver feather veins show through the black; first Keep (humming).
 - Stage 2, Argent Dawn (199): white-silver over black, his first public armor, at the coup's end; Keep at 205.
 - Stage 3, Threshold (400): the Emperor's Nullcrown merges in (a ring of absence above the helm); Keep to the Emperor.
-- Stage 4, Gatewing (446): Seraiel acknowledged; wing-shields of stacked pearl; Keep to the Dragon.
+- Stage 4, Gatewing (446): Sepiroth acknowledged; wing-shields of stacked pearl; Keep to the Dragon.
 - Stage 5, Garden (590): with Lysette's Seedtime, green-gold vine filigree; the armor begins to grow, not just guard. Keep at 600.
-- End (645): the last Keep spent; he hangs Aster on the roof-garden trellis, where it rusts beautifully under roses.
+- End (795): the last Keep spent; he hangs Aster on the roof-garden trellis, where it rusts beautifully under roses.
 
 ## Colossal constructs (for titan battles, titans.md)
 - **Thousandfold Knight**: a thousand legion soldiers interlocked into one giant armored knight, Eden in its chest (debut 490).

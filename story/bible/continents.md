@@ -32,7 +32,7 @@ South of Halveren: Middle Sea, then Okarune. South-west: Ruhnmara. South-east: S
 - Invasion: 100%. A grey continent; the Hush's second staging ground.
 
 ## Glaceren (Antarctica analog), south pole
-- Ice over black rock. Site of the Emperor's last duel with the Sepiroth Dragon and the First Breach (the Wound).
+- Ice over black rock. Site of the Emperor's last duel with the Dragon Sepiroth and the First Breach (the Wound).
 - Invasion: 100% since PR 0. Nobody has returned from it.
 
 ## Oceans

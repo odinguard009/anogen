@@ -13,5 +13,5 @@
 4. Lord Marshal Gideon Valdis (ch 247): holds the Teeth's inner gate; passes the Wall to Valerius; foreshadowed from ch 211 (his old wound, his letter to his daughter).
 5. Empress Dragomira (ch 540): Vehra's host; dies refusing Vehra's last order, her one free act; shows the Binding's cruelty; frees Volkhovar to join the coalition. God-hosts may fall only with this weight; no other host dies.
 - Han Shuzhen loses his arm to stone (cost, not death). Kell survives his god's ending.
-6. Kaurveth (ch 640): given an ending that fulfils his want; not a slaughter.
-7. The Tutor, the Emperor's last echo (ch 645): ends as he wished; the Emperor finally finishes.
+6. Kaurveth (ch 790): given an ending that fulfils his want; not a slaughter.
+7. The Tutor, the Emperor's last echo (ch 795): ends as he wished; the Emperor finally finishes.

@@ -36,7 +36,7 @@ How it should feel: stolen glances, the one who looks away first, things said si
 - 420-445 He forgets her and is politely kind, like to a stranger. She reintroduces herself: "Lysette Hollen. Discipline Committee. You owe me sixty-one absences."
 - 450 Her confession on a broken Vault floor: "I was afraid it would end like the last time. It almost did. I'm saying it anyway."
 - 500 His confession: his face moves for the first time she has seen; first kiss. The Duke, informed by Greta's network, composes a ballad within the hour.
-- 540 She watches him walk into the god war and does not say stay. 580 Seedtime. 600 Proposal with the handkerchief: "Washed. Finally." 648 Vow with middle names. 695 Wedding in the roof garden.
+- 540 She watches him walk into the god war and does not say stay. 580 Seedtime. 600 Proposal with the handkerchief: "Washed. Finally." 798 Vow with middle names. 845 Wedding in the roof garden.
 - Ache set pieces: 90, 120, 140, 175, 420-445, 540. Smile payoffs: 26, 133, 230, 445, 500, 600.
 
 ## Couple 2: Valerius and Ishani. Banter rivals, duty against heart
@@ -48,12 +48,12 @@ How it should feel: stolen glances, the one who looks away first, things said si
 - 505-515 He learns she hosts Niveth and is hurt she hid it; he admits his own fear; forgiven.
 - 520 Confession: a written courtship proposal read aloud. "Clause four: you may rearrange my dreams, with notice." She amends it in ink: "without notice."
 - 545-585 Vehra in him; she fights inside his dreams in the garden she built as a prank. 600 She falls asleep on his shoulder, her first real sleep in years; he doesn't move for six hours.
-- 690 Wedding: he planned every detail; she changes one; he lets her.
+- 840 Wedding: he planned every detail; she changes one; he lets her.
 - Smiles: 115, 119, 124, 520, 600. Ache: 150, 330, 545.
 
 ## Couple 3: Felix and Seraphine. Oblivious, earnest, devoted
 - 10 He is the only one who never laughs at her jokes. She starts counting attempts.
-- 60 She sees Eden watch Lysette; Felix hands her a sweet bun: "Eaten today?" (Greta packed two, reveal 662).
+- 60 She sees Eden watch Lysette; Felix hands her a sweet bun: "Eaten today?" (Greta packed two, reveal 812).
 - 88 She eats lunch near his corner "for the light". He moves to give her more light.
 - 145-147 Eden refuses her kindly. Felix sits beside her on the funicular, saying nothing. Joke number 212 finally makes him laugh; she cries harder, smiling.
 - 236 His guilt about befriending Eden on orders. "Orders start things. Choices keep them."
@@ -61,8 +61,12 @@ How it should feel: stolen glances, the one who looks away first, things said si
 - 382-397 Lost at sea. She keeps his last note and refuses to grieve. When he is found she runs across a beach in court shoes.
 - 400-460 Obstacle: his ruined bow arm; he steps back "for her sake". She pretends to agree and recruits Greta, Kirana and Lysette.
 - 466 Confession over a field-kitchen pot: "I'd like to ask if you've eaten. Every day. For the rest of it." She answers with joke 1,000; he laughs.
-- 560 Engagement. 685 Wedding: his first public speech, four words.
-- Smiles: 147, 397, 466, 685. Ache: 145, 382, 430.
+- 560 Engagement. 835 Wedding: his first public speech, four words.
+- Smiles: 147, 397, 466, 835. Ache: 145, 382, 430.
 
 ## Supporting couple: Rowan and Clara
 Ball invitation (1), she is wounded saving him (47), replaced (228, revealed 262), he speaks her middle name to bring her back (480), engaged (600).
+
+## Arcs 13-15 (601-750)
+Beats are in arcs-4.md: stolen griffon hour (633), wedding-date argument (666), Ishani's drawing (672), Felix and Seraphine's first real fight (681), "by the collar" (726), Felix's list (733), the dream dance (737).
+Gap-fillers (no couple goes ~25 ch without a beat): 612 Lysette's letter with a pressed roof-garden flower; 700 Felix and Seraphine read names side by side in the square; 712 Felix's daily joke-by-door to Seraphine begins (Sefa grumbles); 760 Seraphine visits the gate Felix guards; 772 Eden and Lysette's last quiet night on a cliff of nothing; 785 Ishani holds Valerius's hand as he prepares to bind Vehra; 805-845 weddings arc.

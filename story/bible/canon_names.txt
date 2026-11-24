@@ -66,7 +66,7 @@ Starving King
 Tailor
 Tutor
 Landlord
-Sepiroth Dragon
+Dragon Sepiroth
 Emperor of Void
 Nihl
 Oriane
@@ -362,8 +362,8 @@ Captain-General
 Sepiroth
 Ten Sovereigns
 Sovereigns
-Ormath
-Seraiel
+Melchsee
+Sepiroth
 Myrrhen
 Wellmother
 Kaelthos
@@ -520,3 +520,21 @@ Mourning
 Ember stage
 Argent Dawn
 Gatewing
+Melsche
+Tenfold Covenant
+Dragon of Heaven's Vault
+Lintel and Lamp
+Latch
+Hinge
+Draught
+Lintel
+Lampwick
+Doorstop
+Open House
+Knock and Answer
+Titanfall
+Ledger of Souls
+Void Road
+Gravemother
+Cinderback
+Weeping Crown

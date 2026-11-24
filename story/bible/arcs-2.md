@@ -1,4 +1,4 @@
-# Arc roadmap, part 2 (arcs 8-14, ch 351-700). Romance: romance.md. Light chapters: comedy.md. Same victory rule as part 1: Eden wins; the tension is the path and the price.
+# Arc roadmap, part 2 (arcs 8-12 and 16-17; arcs 13-15 in arcs-4.md). Romance: romance.md. Light chapters: comedy.md. Same victory rule as part 1: Eden wins; the tension is the path and the price.
 
 ## Arc 8 The Grey Sea (351-400) naval monster war + Volkhovar sabotage.
 Q: can the sea hold when the land cannot? Enemy: Hush raft-fleets from Ruhnmara; Volkhovar and the Isthmus Company trying to buy or seize Admiral Kirana (Thalos's host); Nihl.
@@ -8,8 +8,8 @@ Win (395-400): Nihl takes half the First Legion. Eden could crush him; instead h
 Growth: Felix becomes scout-commander; Seraphine refuses to grieve him (382) and runs to him (397).
 
 ## Arc 9 Heaven Gate (401-450) divine.
-Q: what does Eden owe the dead who made him? Enemy: Valkyrie Marshal Aethra and Seraiel's court, who call Eden an abomination.
-Beats: the Tutor's wish (400); entry costs Eden his memories of Lysette (420); Oriane (410); Vault floors 4-6; the Dragon is Seraiel (425); the Ten Sovereigns and the Binding of Thrones; Han and Kirana host gods (430); Kaurveth is the tenth (440); Lysette brings him back by speaking both their middle names (445); her confession, afraid it would end like before (450).
+Q: what does Eden owe the dead who made him? Enemy: Valkyrie Marshal Aethra and Sepiroth's court, who call Eden an abomination.
+Beats: the Tutor's wish (400); entry costs Eden his memories of Lysette (420); Oriane (410); Vault floors 4-6; the Dragon is Sepiroth (425); the Ten Sovereigns and the Binding of Thrones; Han and Kirana host gods (430); Kaurveth is the tenth (440); Lysette brings him back by speaking both their middle names (445); her confession, afraid it would end like before (450).
 Tactics: duels on floating weapon-racks; trial by ten relics; a fight in which Eden cannot remember why he protects her.
 Win (441-445): Aethra's court rules to unmake him. Eden out-argues and out-fights the trial by ten relics, but cannot remember Lysette; she, outside, speaks the names, and his Keeping blood answers. Cost: some small memories never return.
 Growth: Eden feels jealousy, fear and joy at once; Lysette chooses him knowing he might forget her again.
@@ -34,12 +34,12 @@ Beats: coalition of thirteen nations and eight hosts; Legions 6-9 (560); Kell ho
 Tactics: seven fronts, seven Hierarchs, seven tactics; polar night with no shadow edges (they build lines of light for doors).
 Win (595-600): the march reaches the Wound because every ally's earlier choice is in place. Cost: Eden's Frost turns to fever; Lysette's Witness burns out for a year; Valerius almost lost to Vehra.
 
-## Arc 13 Eden (601-650) divine finale.
+## Arc 16 Eden (751-800) divine finale.
 Q: what should end, what should be kept, what should begin? Enemy: Vehra and Kaurveth's body, both reaching for the empty throne through Kell.
-Beats: Myrrhen speaks through Clara (630); Kell chooses to give Kaurveth an ending, a want fulfilled (640); Valerius binds Vehra to time without power over mortals (643); the Tutor finishes (645); Ending, Keeping and Beginning (Eden and Lysette) close the Wound; Myrrhen accepts Eden (645); vow with middle names (648); epilogue (650).
+Beats: Gorrath wakes from the Void road (790); Myrrhen speaks through Clara (780); Kell chooses to give Kaurveth an ending, a want fulfilled (790); Valerius binds Vehra to time without power over mortals (793); the Tutor finishes (795); Ending, Keeping and Beginning (Eden and Lysette) close the Wound; Myrrhen accepts Eden (795); vow with middle names (798); epilogue (800).
 Win: earned by everything planted (loans, names, doors, mercy, allies' choices). Cost: Eden gives up the Door and the Ten Pillars, who sleep with honour.
 
-## Arc 14 Names Spoken Openly (651-700) slice-of-life finale, light stakes.
+## Arc 17 Names Spoken Openly (801-850) slice-of-life finale, light stakes.
 Q: what do people do with a world they kept? Mostly comedy and warmth, one gentle thread: the duchies' parliament (Valerius gives the conquered kingdoms a voice) and the Pillars' farewell.
-Beats: Hallowcrest reopens; Lysette teaches discipline, Eden lectures from the roof (655); the Duke's one-day retirement (662); a three-nation cooking contest (670); Pillars' farewell feast (678); weddings: Felix and Seraphine (685), Valerius and Ishani (690), Eden and Lysette (695, roof garden); epilogue at the greening Pale (700).
-Battles: one flex scuffle with leftover Husks (667), played for awe and laughs.
+Beats: Hallowcrest reopens; Lysette teaches discipline, Eden lectures from the roof (805); the Duke's one-day retirement (812); a three-nation cooking contest (820); Pillars' farewell feast (828); weddings: Felix and Seraphine (835), Valerius and Ishani (840), Eden and Lysette (845, roof garden); epilogue at the greening Pale (850).
+Battles: one flex scuffle with leftover Husks (817), played for awe and laughs.

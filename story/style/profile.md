@@ -33,6 +33,7 @@
 - Lazy on the surface (naps, skips, shrugs), prepared underneath (scouted three nights ago). Never boasts; never explains his plan before it works.
 - Realist: no illusions about nobles, nations or himself; chooses the least bad option and says so. Keeps a few hard rules anyway (no kill without confirmation; never kill humans with the Emperor's knights).
 - Flat feelings, shown by what he does: remembers everyone's tea, stands between, smiles only at his household. Healing shows as small slips: a laugh he didn't plan, a sentence he can't finish near Lysette.
+- Fights calm and minimal (style "Lintel and Lamp": shield to read, lance to open, light to end); variety grows with retainers and relics (bible/combat-style.md).
 - Snaps when someone hurts his people on purpose, or uses a hostage or a child: he goes polite and very quiet, takes off his left glove, and stops hiding. Then his resolve, not his mood, raises his power.
 
 ## Battles and aura

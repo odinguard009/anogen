@@ -1,6 +1,7 @@
 # Battle craft: toolkit for the Lead Writer (reference)
 
 ## Principles
+- Eden's base style, named forms and team combos: combat-style.md. Stage I fights are calm and one-sided; variety grows as retainers and relics unlock.
 - Eden is overpowered; fights stay exciting because of HOW he wins. Every fight introduces at least one new application (list below; never repeat a trick as the centrepiece).
 - Banned default: "summon a bigger weapon". Escalating raw power is the last answer, never the first.
 - Use power by theme and constraint: doors need edges; relics have wills and odd properties; loans need middle names; Raiments toll.
@@ -64,8 +65,8 @@
 46. Dream war where doors are literal doors (507)
 47. Banner shadows inside a shadowless cathedral (548)
 48. Lines of light built across polar night to make edges (596)
-49. Giving the god of Want what he wants, instead of taking (640)
-50. Leftover Husks swept by one door the size of the festival (667)
+49. Giving the god of Want what he wants, instead of taking (790)
+50. Leftover Husks swept by one door the size of the festival (817)
 
 ## Giant-scale tricks (titans.md)
 51. A Wallbreaker's own shadow used to drop it into its tunnel (223)
@@ -76,6 +77,18 @@
 56. The Thousandfold Knight wrestles Ubrak while Han raises a valley wall behind it (490)
 57. Rowan's sun throws Ubrak's shadow across the sky; Eden opens a door in a cloud (493)
 58. Lysette's Seedtime grows a beginning inside Lament's song: one child's voice that it cannot erase (597)
+
+## New-arc tricks (arcs-4.md)
+59. Sefa links four fronts so one door moves a reserve across continents (624)
+60. Gravemother's tide reversed by Kirana while Eden opens a door in the trough beneath it (618)
+61. Stonewarden as an anvil, the Thousandfold Knight as a hammer, Cinderback between (630)
+62. A titan's carried city lifted off whole by legion hands (646)
+63. Telling puppets from people by whose shadow breathes (658)
+64. Stopping a cavalry charge by closing doors in front of every horse's shadow, no rider hurt (668)
+65. Burning the Ledger page by page with Candor's honest light, each name freed as it burns (695)
+66. Light carried into the all-shadow Void so doors have edges again (705)
+67. Ten retainers rehearse Open House against Kept Knights (731)
+68. A garden planted in nothing as a foothold (742)
 
 ## Set-piece geometry (vary every arc)
 - Arc 1: market chase, maze, ballroom with glass roof, battlement in silence, night camp.
@@ -90,5 +103,6 @@
 - Arc 10: terraces, thin air, condor drops, a well's depths (underwater).
 - Arc 11: dreams, sunlit cathedral, ritual circle of hosts.
 - Arc 12: seven fronts, polar night, ice cliffs, aerial on Hollowmane.
-- Arc 13: the Throne of Nothing, the Wound, inside a god.
-- Arc 14: festival grounds.
+- Arcs 13-15: see arcs-4.md.
+- Arc 16: the Throne of Nothing, the Wound, inside a god.
+- Arc 17: festival grounds.

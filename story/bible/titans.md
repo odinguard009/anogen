@@ -6,7 +6,7 @@
 3. **Ravager class** (elephant to house): armoured brutes that smash walls; large Choirs. Fought by: Crimson Rampart force walls, Umber Anvil ballistae ("veinspears"), Grey Gale lance charges at the joints.
 4. **Wallbreaker class** (castle size, 30-60 m): siege beasts and living Mawgates. Fought by: mines and counter-tunnels (Umber Anvil), Violet Lantern siege spells, concentrated veinspear batteries, orders working together.
 5. **Colossus class** (100-200 m): walking or swimming kaiju-scale bodies that change a battle by existing; they carry Husk swarms like fleas and silence for kilometres. Fought by: coalitions, terrain (straits, mountains, deep water), god-hosts, Eden.
-6. **Titan class** (300 m and more): mountain-walkers, named, each a piece of Kaurveth's body grown independent. Only six known. Fought by: whole fronts.
+6. **Titan class** (300 m and more): mountain-walkers, named, each a piece of Kaurveth's body grown independent. Nine known. Fought by: whole fronts.
 7. **Sovereign scale**: Kaurveth's body itself (finale).
 
 ## Hierarchy (minds vs bodies)
@@ -25,8 +25,11 @@ Minds: Veils (scouts) < Hierarchs (generals, seven) < Kaurveth. Bodies: Husks < 
 3. **Ossuary Reef** (Titan, sea): a living reef of grey bone that moves under the Grey Sea and wrecks fleets. Ch 384-388, with Kirana.
 4. **Ubrak, the Silent Mountain** (Titan, mountain-walker): so large it has weather. Selvara, ch 489-494; the Thousandfold Knight debuts.
 5. **Lament** (Titan, the Choir of Choirs): its song can erase a nation's voice. The pole, ch 594-598.
-6. **The Hollow Gate** (Titan that is a living Wound-mouth): ch 632-636, before Kaurveth's body.
-7. **Kaurveth's body** (Sovereign scale): ch 636-640.
+5b. **Gravemother** (Titan, sea): a whale-mountain that drinks tides; rises under Jayavara, ch 615-620.
+5c. **Cinderback** (Titan, land): a burning grey ridge that walks across the Endless Grass, ch 628-632.
+5d. **The Weeping Crown** (Titan, land): carries a ruined city on its back like a crown; walks on Norhaven, ch 642-646.
+6. **The Hollow Gate** (Titan that is a living Wound-mouth): ch 782-786, before Kaurveth's body.
+7. **Kaurveth's body** (Sovereign scale): ch 786-790.
 Colossus skirmishes also at 223 (a Wallbreaker at the Teeth), 296 (Ashen Highlands), 365 (sea), 470 (Skyspine), 566 and 578 (polar fronts).
 
 ## Politics of titans

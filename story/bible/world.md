@@ -6,7 +6,7 @@
 
 **Names.** Verandel: given, hidden middle (soul-bound, used in oaths and relic loans), house. Public form: given + house. Telling your middle name is deep trust. A Veil cannot speak its victim's middle name.
 
-**Other realms.** The Void (nothing between worlds) was ruled by the Emperor of Void. Beneath it the Hush: starving sediment of unmade worlds. Above, Heaven Gate: realm of the Sepiroth Dragon and its Valkyries, keepers of the Sepiroth Vault.
+**Other realms.** The Void (nothing between worlds) was ruled by the Emperor of Void. Beneath it the Hush: starving sediment of unmade worlds. Above, Heaven Gate: realm of the Dragon Sepiroth and its Valkyries, keepers of the Sepiroth Vault.
 
 **Invasion.** PR 0: the Emperor's weariness thinned the Void's floor; the Hush broke through at the pole (the Wound). That night the Dragon pulled every holy weapon on Elysmar into the Vault (the Night the Relics Vanished). Hushborn spread through mana veins, turning land grey and silent (the Pale) to survive the Refusal. Slow for 93 years; since the Iron King's summoning (PR 93) the Wound widened and the south fell fast. Now 30% Pale. Deep sea slows them. The front stalls at Verandel's coast; the public credits the Southern Wall.
 

@@ -1,8 +1,8 @@
 # Timeline (reference). PR = Pale Reckoning (years since the First Breach). Story opens autumn PR 112.
 
 ## Before the Breach
-- Before worlds: the Ten Sovereigns of the Sepiroth make worlds together. Kaurveth (Want) devours worlds and is cast beneath the Void; Ormath (Ending) sits on the throne as the lid. Myrrhen dissolves into Elysmar as mana. Ormath and Seraiel war over the remnants. About 3,000 years before PR: Vehra's Binding of Thrones seals the gods' wills into mortal hosts on Elysmar, passing on death; Ormath stays free as the lid; Seraiel is bound to the Vault's gate (gods.md, gods-hosts.md).
-- Ages ago: the Emperor of Void rules the Void from the Throne of Nothing; Ten Pillars and nine sleeping legions serve him; beneath him lies the Hush. The Sepiroth Dragon rules Heaven Gate and keeps the Vault; its Valkyries glean holy weapons from dying worlds. Dragon and Emperor: enemies for ten thousand years.
+- Before worlds: the Ten Sovereigns of the Sepiroth make worlds together. Kaurveth (Want) devours worlds and is cast beneath the Void; Melchsee (Ending) sits on the throne as the lid. Myrrhen dissolves into Elysmar as mana. Melchsee and Sepiroth war over the remnants. About 3,000 years before PR: Vehra's Binding of Thrones seals the gods' wills into mortal hosts on Elysmar, passing on death; Melchsee stays free as the lid; Sepiroth is bound to the Vault's gate (gods.md, gods-hosts.md).
+- Ages ago: the Emperor of Void rules the Void from the Throne of Nothing; Ten Pillars and nine sleeping legions serve him; beneath him lies the Hush. The Dragon Sepiroth rules Heaven Gate and keeps the Vault; its Valkyries glean holy weapons from dying worlds. Dragon and Emperor: enemies for ten thousand years.
 - Halveren is a patchwork of realms: Verandel (House Aurenmark) and eleven other kingdoms, plus Skarnheim and the Aurelis See. House Argentine has served the Aurenmark crown for centuries.
 
 ## Breach and conquest

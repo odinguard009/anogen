@@ -27,7 +27,7 @@ Finite Crown Wells; northern profit from southern blood; fear of Verandel's Void
 10. Monster campaign + corporate greed: Selvara, the Isthmus Company (451-500).
 11. Divine + religious: Vehra's puppets, Ashkar's crusade, Dragomira (501-550).
 12. Monster final campaign: Glaceren, Kaurveth's Hierarchs (551-600).
-13. Divine finale: Vehra and Kaurveth (601-650).
+13. Divine finale: Vehra and Kaurveth (751-800).
 
 ## Victory rule (every arc)
 Eden is overpowered; the reader should trust he will win. Tension comes from the path and the price: what he must reveal, whom he must shield, which rule he must keep, what it costs (power, memory, trust, standing, injury, bonds, principles). He prepares, plans and strains; no fake last-second rescues. Battle mix per arc: arcs-3.md.

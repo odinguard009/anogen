@@ -89,5 +89,18 @@
       "pacing_shape": "fast start, slows into consequence",
       "hook_type": "unexpected arrival"
     }
+  },
+  {
+    "chapter": 8,
+    "picks": {
+      "opening_type": "a countdown or deadline",
+      "scene_shape": "ensemble scene with conflicting goals",
+      "tension_type": "promise at risk",
+      "emotional_tone": "quiet warmth",
+      "comic_device": "deadpan understatement",
+      "conflict_type": "team fight with roles",
+      "pacing_shape": "two spikes with a breather",
+      "hook_type": "danger arrives"
+    }
   }
 ]

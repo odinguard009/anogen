@@ -35,4 +35,9 @@ One entry per run. The owner fills in quota_note after checking claude.ai/settin
 ### 2026-11-24 19:23 UTC (02:23 WIB) - tulis bab berikutnya - chapter 7 - ok
 - words: 2412
 - scores: tension 3, surprise 3, emotion 3, battle_clarity -, voice 4, freshness 4
+- quota_note:
+
+### 2026-11-24 19:25 UTC (02:25 WIB) - tulis bab berikutnya - chapter 8 - ok
+- words: 2075
+- scores: tension 4, surprise 4, emotion 4, battle_clarity 4, voice 4, freshness 4
 - quota_note: 

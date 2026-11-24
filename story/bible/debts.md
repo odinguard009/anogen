@@ -1,7 +1,7 @@
 Plants, ch 1-60 (table: outline/arc-1.md; later: twists-1/2.md).
 - [open] War dream quiets when Lysette cries near him | planted: ch 1, 26 | due: ch 200-205
 - [open] Feather handkerchief; Lysette keeps it "to wash it" | planted: ch 1 | due: ch 140, 175, 600
-- [open] Roof garden green out of season | planted: ch 1 | due: ch 575-580
+- [open] Roof garden green out of season; apple blossom | planted: ch 1 | due: ch 575-580
 - [open] Hairpin in a locked door's keyhole (Morrowpin) | planted: ch 2 | due: ch 172-176, 197
 - [open] Veil: "You smell like the bottom of the world"; Candor hums a note | planted: ch 3 | due: ch 48-50, 176
 - [open] Bell: three tones, a faint fourth | planted: ch 3 | due: ch 420-425

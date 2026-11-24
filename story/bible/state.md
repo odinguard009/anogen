@@ -1,14 +1,14 @@
-# State at the start of chapter 1 (autumn PR 112, three weeks before the Lantern Ball)
+# State after chapter 1 (autumn PR 112, ninth month, ~3 weeks before the Lantern Ball)
 
 ## Eden (narrator)
-- 18, Year 5 at Hallowcrest, rank 8. Public: Eden Wren, Thornmere-born scholarship ward. True: Eden Aster Argentine. Silver-grey hair he keeps dull with dye, grey eyes, lean, average height, black gloves.
-- Location: asleep on the Old Observatory roof garden, afternoon, skipping Spell Grammar (61 recorded absences; permit from Ostwald).
-- Habits/tells: hides his aura so well people walk past him; reads shadows, counts exits; carries his mother's handkerchief; literal deadpan answers; when truly angry goes polite and quiet and removes his left glove.
+- 18, Year 5 at Hallowcrest, rank 8. Public: Eden Wren, Thornmere-born scholarship ward. True: Eden Aster Argentine. Dyed-dull silver hair, gray eyes, lean, black gloves.
+- Location: Old Observatory roof, afternoon; skipped Spell Grammar (61 absences; Ostwald's "medical exemption" permit, hidden from Lysette).
+- Habits/tells: hides his aura so well people walk past him; reads shadows, counts exits; gave his mother's feather handkerchief to Lysette (she keeps it "to wash"); literal deadpan answers; when truly angry goes polite and quiet and removes his left glove.
 - Shows publicly: dark lance (blocking only), a claimed 3-Bell core and "shadow-shaping" Tenet. Candor only as the Black Order (masked) or when serious.
 - Real power: Melsche Door (lance/shield, short summons), Pillars X Vesk, IX Gorrath, VIII Mirelle; First Legion (never woken more than 40). Sepiroth Gate: Candor plus 6 minor relics known by name. Never lent a relic. True Bells unknown.
 - Knows: he is the Black Order; Veil tells; the Dragon and the Tutor in dreams; mother died on her birthday when he was 10; he believes he froze.
-- Does not know: mother was a Valkyrie; the Emperor's gift; the gods and their hosts; the truth of the Iron King's death (PR 93); his seal; that he opened the Gate that night; the Tailor; the letter; why he is drawn to Lysette; why the front stalls; the king's kill-order.
-- Emotional state: flat; can only smile at those he loves. Dry humor intact. The dream of endless war chokes him most afternoons.
+- Does not know: see secrets.md (Valkyrie mother, Emperor's gift, seal, Gate, Tailor, letter, kill-order, why drawn to Lysette).
+- Emotional state: flat; can only smile at those he loves. Dry humor intact. War dream chokes him most afternoons; it went silent when Lysette cried (ch 1).
 - Black Order tally: 31 Veils in five years, including the one wearing Corentin Hollen (he remembers the face, not the family).
 
 ## Who knows what
@@ -23,7 +23,8 @@
 - Valerius: rival, serious; wants Eden to stop hiding. Seraphine: playful, crush; Eden treats her as a friend.
 - Ysolde: handler; Form 13-B nagging. King: monthly meetings, distant warmth. Duke: loud love; Eden answers with a smile and few words. Household: adores him.
 - Dragon "Landlord": friendly bickering. Tutor: wary respect.
-- Not yet met properly: Lysette (knows her by reputation as the Committee terror), Rowan (classmate, never spoken), Clara.
+- Lysette: met ch 1 on the roof (she cried over Rowan inviting Clara to the Ball); she tends the garden secretly; Eden knows. She vowed to march him to class from tomorrow.
+- Not yet met: Rowan, Clara.
 
 ## World now
 - Front holds at the Teeth; grey dust on southern winds is heavier this autumn.

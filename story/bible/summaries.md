@@ -1,0 +1,4 @@
+# Chapter summaries
+
+## Ch 1 - Forty Minutes of Grass
+Eden skips Spell Grammar to sleep on the Old Observatory roof garden, where the grass and apple tree stay green out of season. The endless-war dream (ash, banners, no air) chokes him until a girl's crying cuts it off; he wakes without the usual ash taste. Lysette Hollen sits a meter away, unaware of him, and when she wipes her nose on her Committee armband he offers his mother's feather handkerchief. Mortified and sharp, she bargains for silence (he hides his Ostwald permit), admits Rowan invited Clara Belmont to the Lantern Ball with a lopsided paper lantern that caught fire, laughs once, and keeps the handkerchief "to wash it." Minutes later she returns with the Committee book: "Eden Wren. Sixty-one absences. Tomorrow you attend class. I will see to it personally."

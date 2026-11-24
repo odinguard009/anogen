@@ -128,5 +128,18 @@
       "pacing_shape": "flat surface, tension underneath",
       "hook_type": "emotional gut-punch"
     }
+  },
+  {
+    "chapter": 11,
+    "picks": {
+      "opening_type": "a direct question or order",
+      "scene_shape": "escape or pursuit",
+      "tension_type": "hidden information",
+      "emotional_tone": "awkward tenderness",
+      "comic_device": "banter between allies",
+      "conflict_type": "hunt against a creature",
+      "pacing_shape": "steady climb ending on a drop",
+      "hook_type": "reversal of fortune"
+    }
   }
 ]

@@ -27,9 +27,9 @@ def main():
     if nx.get("audit_due_at"):
         print("Managing-editor audit due (through chapter %d)" % nx["audit_due_at"])
     print(f"Inbox: {len(inbox.unprocessed_ideas())} unprocessed idea(s)")
-    prop = read(STORY / "proposals.md")
+    prop = read(STORY / "proposals-audit.md")
     if prop.strip():
-        print(f"Proposals pending: {sum(1 for l in prop.splitlines() if l.lstrip().startswith(('-', '#', '*')))} entries in story/proposals.md (owner decides)")
+        print(f"Proposals pending: {sum(1 for l in prop.splitlines() if l.lstrip().startswith(('-', '*')))} entries in story/proposals-audit.md (owner decides)")
     sc = schedule.load()
     print(f"Schedule: {'ON' if sc['enabled'] else 'OFF'} ({', '.join(sc['times'])} {sc['timezone']})")
     rows = list(csv.reader(read(OPS / "scores.csv").splitlines()))
@@ -37,7 +37,7 @@ def main():
         last = rows[-3:]
         print("Recent critic scores:")
         for r in last:
-            print("  ch", ", ".join(f"{h} {v}" for h, v in zip(rows[0][1:], r[1:])) if r[0] == "" else f"  ch {r[0]}: " + ", ".join(r[1:]))
+            print(f"  {r[0]}: " + ", ".join(r[1:]))
 
 
 if __name__ == "__main__":

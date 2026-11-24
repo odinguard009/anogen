@@ -1,6 +1,6 @@
 # Proposals: keputusan untuk dikonfirmasi Odin (revisi 5: 850 bab, tiga pasangan, komedi, dewa, armor, titan)
 
-Semua sudah dipakai di story pack. Jawab "setuju semua" atau sebut nomor yang mau diganti.
+STATUS: DISETUJUI SEMUA oleh Odin (2026-11-24). Jangan dibuka lagi tanpa perintah eksplisit Odin. Usulan baru dari audit masuk ke story/proposals-audit.md.
 
 ## A. Struktur dan aturan
 1. **Panjang: 17 arc, sekitar 850 bab** (batas maksimal 1000; arc bisa disesuaikan). Supaya ada ruang tanpa memadatkan materi, saya menyisipkan tiga arc baru sebelum finale:

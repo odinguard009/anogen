@@ -168,6 +168,10 @@ def main():
         d = json.loads(o)
         check("batch ends when arc written", d["continue"] is False and d["batch"]["status"] == "done", o)
         c, o = run(root, "engine_state.py", "arc-complete", "1")
+        check("arc-complete refuses without critic pass", c == 2 and "critic" in o, o)
+        ed = json.loads((root / "ops" / "engine.json").read_text())
+        run(root, "engine_state.py", "mark", "critic", str(ed["arcs"]["1"]["end"]))
+        c, o = run(root, "engine_state.py", "arc-complete", "1")
         check("arc-complete ok", c == 0, o)
 
         # epub

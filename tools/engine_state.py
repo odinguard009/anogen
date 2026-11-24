@@ -70,8 +70,6 @@ def compute_next(apply=False):
                 reason = f"arc {b['arc']} fully written"
                 if apply:
                     b["status"], b["stop_reason"] = "done", reason
-                    if not missing_chapters(arc):
-                        arc["status"] = "complete"
             elif b.get("max") and (n - b["start_chapter"]) >= b["max"]:
                 reason = "max chapters for this batch reached before the arc ended"
                 if apply:
@@ -93,6 +91,8 @@ def compute_next(apply=False):
         if b.get("max"):
             limit = min(limit, b["start_chapter"] + b["max"] - 1)
     writer_range = [n, min(n + 4, limit)] if (cont and limit and n <= limit) else None
+    if writer_range is None and not cont and b["status"] not in ("running",) and reason.startswith("no running batch"):
+        writer_range = [n, n]  # single-chapter mode
     ct = d.get("critic_through", 0)
     critic_pending = [ct + 1, hi] if hi > ct else None
     at = d.get("audit_through", 0)
@@ -165,6 +165,9 @@ def main():
         miss = missing_chapters(arc)
         if miss:
             print(f"Arc {a.arc} is NOT complete. Missing chapters: {miss[:20]}")
+            sys.exit(2)
+        if d.get("critic_through", 0) < arc["end"]:
+            print(f"Arc {a.arc} NOT released: critic pass done only through chapter {d.get('critic_through', 0)} (need {arc['end']}).")
             sys.exit(2)
         arc["status"] = "complete"
         save(d)

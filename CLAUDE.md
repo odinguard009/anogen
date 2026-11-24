@@ -4,6 +4,9 @@ Owner: Odin (Indonesian; not a coder). Talk to him in Indonesian: concise, direc
 
 Everything runs strictly sequentially: ONE agent at a time (see 'Production flow' below). Never parallel agents. Batch independent tool calls in one turn.
 
+## SOP (owner's order 2026-11-25)
+Read ops/sop.md at the start of every session and follow it: work autonomously, never ask the owner except for the STOP list, decide with the defaults, log in ops/decisions.md, log blocked actions in ops/blocked.md (retry them first on "lanjutkan"), use at most ONE agent at a time and only when needed, never a sub-agent inside an agent.
+
 ## Layout
 - tools/: scripts (0 tokens). story/: the story pack (brief, style, bible, outline, inbox). roles/: instructions per role, load only the one you need. chapters/: chapter-NNN.md. ops/: engine.json, schedule.json, run-log.md, scores.csv. out/: EPUBs.
 - Style lives only in story/style/profile.md (swappable). The engine is genre-neutral.

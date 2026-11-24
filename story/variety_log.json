@@ -193,5 +193,18 @@
       "pacing_shape": "fast start, slows into consequence",
       "hook_type": "unexpected arrival"
     }
+  },
+  {
+    "chapter": 16,
+    "picks": {
+      "opening_type": "a countdown or deadline",
+      "scene_shape": "quiet scene that turns sharply",
+      "tension_type": "physical danger",
+      "emotional_tone": "fierce resolve",
+      "comic_device": "none this chapter: humor only in narration",
+      "conflict_type": "ambush",
+      "pacing_shape": "flat surface, tension underneath",
+      "hook_type": "question left open"
+    }
   }
 ]

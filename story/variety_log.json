@@ -115,5 +115,18 @@
       "pacing_shape": "slow build to a sharp spike",
       "hook_type": "a promise or threat"
     }
+  },
+  {
+    "chapter": 10,
+    "picks": {
+      "opening_type": "an odd small observation",
+      "scene_shape": "preparation then execution",
+      "tension_type": "resource shortage",
+      "emotional_tone": "bitter irony",
+      "comic_device": "none this chapter",
+      "conflict_type": "duel with a technical twist",
+      "pacing_shape": "flat surface, tension underneath",
+      "hook_type": "emotional gut-punch"
+    }
   }
 ]

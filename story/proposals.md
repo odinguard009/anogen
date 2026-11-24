@@ -121,6 +121,27 @@ Semua sudah dipakai di story pack. Jawab "setuju semua" atau sebut nomor yang ma
     - Sepuluh retainer, masing-masing dengan gaya bertarung, kepribadian, dan bab terbukanya. Ada 10 kombo tim, misalnya "Long Door": panah Hald masuk lewat bayangan di samping Eden dan keluar di belakang musuh.
     - Set piece saat Eden memimpin sambil bertarung: ch 290, 398, 560, dan 596.
 
+## C5. Gaya bertarung pemeran, intrik, dan realisme (baru)
+24. **Gaya bertarung tiap tokoh** (bible/cast-combat-1.md dan cast-combat-2.md). Contoh:
+    - Lysette: "Ledger of Wrongs", membaca masa lalu lawan lewat Witness.
+    - Felix: "Patient Path", jebakan dan pelacakan; setelah lengannya cacat ia beralih ke kapak dan perisai.
+    - Valerius: "Court in Session", setiap putusannya jadi dinding.
+    - Seraphine: "Masquerade", tukar posisi dan ilusi.
+    - Ishani: "Sleepwalker", menang sebelum pertarungan dimulai.
+    - Duke: "the Lake Freezes".
+    - Raja: "the Last to Draw".
+    - Juga Han, Kirana, Dragomira, Belozerov, Aethra, dan lainnya.
+    
+    Setiap tokoh punya tahap perkembangan, kelemahan, dan pertarungan sorotan tanpa Eden sebagai bintang (misalnya Valerius menahan Teeth sendirian di ch 636, dan Ostwald menjaga gerbang akademi di ch 194).
+25. **Intrik politik** (bible/intrigue-craft.md):
+    - Aturan anti-bosan: tidak ada rapat penuh eksposisi, dan setiap adegan politik mengubah situasi. Taruhan, tenggat, dan aturan main disebut jelas sekali saja.
+    - 10 pola adegan, misalnya The Count, The Clause, Cutout Chain, dan Canary Trap.
+    - 24 set piece intrik dengan nomor bab, dari lelang buku pemerasan (ch 56) sampai piagam parlemen kadipaten (ch 825).
+26. **Realisme manusia:** reaksi yang proporsional, perasaan campur aduk, dan antagonis yang kredibel dengan alasan masuk akal.
+    - Adegan "slapping-face" (penjahat mengejek, pahlawan mengungkap, kerumunan terkejut) dibatasi paling banyak sekali per arc, dan bentuknya tidak boleh sama.
+    - Reaksi pada momen aura sudah saya revisi supaya lebih manusiawi. Contoh: deklarasi Eden di ch 160 membuat seorang master tetap duduk karena merasa dibohongi, dan ibu Lysette keluar ruangan. Akademi tidak terkejut serempak di ch 163; yang ada seminggu canggung dan beberapa teman marah.
+    - Aturan ini juga dimasukkan ke style/profile.md dan roles/lead-writer.md.
+
 ## D. Pertanyaan
 1. Valerius menjadi host Vehra (dewa antagonis) mulai ch 545, tapi akhirnya menguasainya. Terlalu berat untuk sang pangeran? Rekomendasi: pertahankan; ini memberi rival yang benar-benar setara.
 2. Lysette sebagai host Aurelune: oke, atau biarkan ia manusia biasa? Rekomendasi: oke, tapi baru terungkap di ch 580.

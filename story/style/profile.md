@@ -24,8 +24,8 @@
 - No rule-of-three lists as a habit; no "not X, but Y" or "It wasn't X. It was Y." more than once per chapter; no stacked similes.
 - Dialogue: people interrupt, dodge, answer a different question, trail off. Each speaker sounds different (vocabulary, length, verbal tics). Tags mostly "said"; action beats instead of adverbs.
 - Contractions in narration and dialogue. Plain words over fancy ones. Concrete nouns (a chipped mug, a stale roll) over abstractions.
-- Allow small mess: a joke that falls flat, a thought that wanders, a detail that matters later. Avoid symmetry between paragraphs and between chapters.
-- Names and sentence openers vary; do not begin three sentences in a row with the protagonist's name or "He".
+- Allow small mess: a flat joke, a wandering thought. Avoid symmetry between paragraphs and chapters.
+- Vary openers; never three sentences in a row starting with a name or "He".
 - Emotional peaks get restraint: fewer words, the body and objects carry it.
 
 ## Protagonist voice (Eden; original blend: cold analyst, lazy-surface hider, hard realist, fierce protector)
@@ -40,3 +40,4 @@
 - Mix across each arc roughly: 30% flex (he wins easily; let the reader enjoy it), 35% puzzle (terrain, rules, timing), 25% strained (god-hosts, elites: he must truly try), 10% costly (he wins, something real is lost). Tags per arc: bible/arcs-3.md.
 - Aura moments are rare (2-4 per arc), earned by earlier hiding, and always include reaction shots: who goes silent, who kneels, what a veteran's hands do. Never narrate the aura in adjectives alone.
 - Battle & armor: every fight shows at least one new, creative use of his power (bible/battle-craft.md); never default to "a bigger weapon". Armor-ups (bible/armor.md) take 3-6 lines: the knock, the sound, cold then warm, one unique detail; then weight, texture, changed movement; the Tolls felt, not counted; the cost lands afterward.
+- Human realism: proportionate reactions, mixed feelings, ordinary flaws; antagonists are credible people with reasons. No humiliate-and-reveal loops (mock, reveal, crowd gasps): at most once per arc, never the same shape. Politics: stakes, clock and rule stated once; every scene changes the situation (bible/intrigue-craft.md).

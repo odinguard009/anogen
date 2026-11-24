@@ -23,6 +23,7 @@
 - Every fight debuts a new trick; calm minimal style grows into team command; armor scene ~every 10 ch; Aster evolves; titans in war arcs.
 - Ten gods in mortal hosts; Eden carries Melchsee and Sepiroth. 39 major twists, planted 10+ ch ahead.
 - A light comic chapter every 5-8 chapters, never inside key emotional or tense scenes.
+- Politics: stakes, clock, rule, traps (intrigue-craft.md). Human reactions; no slap-face loops.
 
 ## Three couples (romance.md)
 - Eden and Lysette (aching slow-burn; handkerchief): roof dance (26), rupture (140), names (198), forgetting (420-445), confessions (450, 500), proposal (600), wedding (845).

@@ -78,7 +78,7 @@ def build(chapter=None, extra=(), peek=False):
     add("Engine state", f"next_chapter: {nxt['next_chapter']}\nbatch: {nxt['batch']}\ncontinue: {nxt['continue']} ({nxt['reason']})", 800)
     sections.append(precheck.build(n, peek=peek))
     add("Idea inbox", "\n".join(f"- {i}" for i in __import__('inbox').unprocessed_ideas()), 3000)
-    add("Style profile", read(STORY / "style" / "profile.md"), 4500)
+    add("Style profile", read(STORY / "style" / "profile.md"), 6500)
     add("Banned phrases", read(STORY / "style" / "banned.md"), 1500)
     add("Series arc", read(STORY / "outline" / "series.md"), 3000)
     ol = outline_lines(n)

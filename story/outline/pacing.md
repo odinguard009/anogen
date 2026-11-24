@@ -5,7 +5,7 @@ Ch 2: calm
 Ch 3: tense
 Ch 4: emotional
 Ch 5: tense
-Ch 6: calm
+Ch 6: calm (mystery; Lance Nine formed, dead master's signature)
 Ch 7: comic
 Ch 8: tense
 Ch 9: calm

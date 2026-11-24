@@ -63,5 +63,18 @@
       "pacing_shape": "mosaic of short scenes",
       "hook_type": "question left open"
     }
+  },
+  {
+    "chapter": 6,
+    "picks": {
+      "opening_type": "internal thought of the narrator",
+      "scene_shape": "two-person dialogue duel",
+      "tension_type": "social exposure",
+      "emotional_tone": "restrained grief",
+      "comic_device": "mismatched expectations",
+      "conflict_type": "escape under pressure",
+      "pacing_shape": "single long scene",
+      "hook_type": "quiet line that changes the stakes"
+    }
   }
 ]

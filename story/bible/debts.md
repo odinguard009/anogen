@@ -1,13 +1,14 @@
-Plants ch 1-60 (outline/arc-1.md; later: twists-1/2.md).
-- [open] War dream quiets when Lysette cries near him | planted: ch 1, 26 | due: ch 200-205
+Plants ch 1-60 (arc-1.md; twists-1/2.md).
+- [open] War dream quiets when Lysette cries | planted: ch 1, 26 | due: ch 200-205
 - [open] Feather handkerchief kept "to wash" | planted: ch 1 | due: ch 140, 175, 600
-- [open] Roof garden green out of season; apple blossom | planted: ch 1 | due: ch 575-580
+- [open] Roof garden green out of season | planted: ch 1 | due: ch 575-580
 - [open] Hairpin in locked door (Morrowpin) | planted: ch 2 | due: ch 172-176, 197
 - [open] Veil: "You smell like the bottom of the world"; Candor hums a note | planted: ch 3 | due: ch 48-50, 176
 - [open] Ledger: Rowan circled, "Before the last dance" | planted: ch 3 | due: ch 18-24
 - [open] Bell: three tones, a faint fourth | planted: ch 3 | due: ch 420-425
 - [open] Lysette's locket (Corentin); Eden looks away | planted: ch 4 | due: ch 36-38
-- [open] Warden core full of gray dust; store keys? | planted: ch 5 | due: ch 6, 95
+- [open] Core dust; signed by dead C. Daubert | planted: ch 5-6 | due: ch 8, 95
+- [open] Okoru saw the shield-hold once before | planted: ch 6 | due: ch 60-66
 - [open] Rowan's light matches Lirenne fresco | planted: ch 6 | due: ch 105-110
 - [open] Wilted flowers revive near Clara | planted: ch 6, 43 | due: ch 478-480
 - [open] Ashen card "Remember Thornmere" | planted: ch 7 | due: ch 24
@@ -21,10 +22,10 @@ Plants ch 1-60 (outline/arc-1.md; later: twists-1/2.md).
 - [open] Concord map: front bends round Verandel | planted: ch 20 | due: ch 280-285
 - [open] Ember's gray veins under graft | planted: ch 22 | due: ch 90-95
 - [open] Feather inside Eden's left gauntlet | planted: ch 23 | due: ch 172-176
-- [open] Ilsabet spared; Merrow admires Ostrevaal tapestry | planted: ch 25 | due: ch 145-150, 270-300
+- [open] Ilsabet spared; Merrow's Ostrevaal tapestry | planted: ch 25 | due: ch 145-150, 270-300
 - [open] Bertram's boots; "your mother had w-" | planted: ch 28 | due: ch 160-176
 - [open] Tutor's "test I once set a king" | planted: ch 29 | due: ch 166-170
-- [open] Duke's hour in helm; Strent's letter: "the boy's late mother" | planted: ch 30 | due: ch 251; 185
+- [open] Duke's hour in helm; Strent's "late mother" letter | planted: ch 30 | due: ch 251; 185
 - [open] King's "second envelope"; Lysette's scarf | planted: ch 33 | due: ch 210-214; 600
 - [open] Titan silhouette | planted: ch 34 | due: ch 244
 - [open] Seraphine takes post beside Eden | planted: ch 35 | due: ch 145

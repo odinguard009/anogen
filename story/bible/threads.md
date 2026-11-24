@@ -13,7 +13,7 @@
 2. The Tailor's identity | 50 (seeds 8, 30 Strent's letter, 45 groundskeeper decoy, 48) | 75 a captured Veil names "the Tailor" at the academy, 99 Strent first at every crisis, 130 a lamp test Strent dodges, 157 | 185 | ok
 3. Corentin was a Veil (Lysette) | 4 | 38 reader, 72, 101, 133 | 140 | ok
 4. Ashen Crowns and the Regent | 7 | 25, 50, 77, 95 grafts, 112 | 150 | ok
-5. Rowan's heritage | 6 | 44, 70 an Ashen card for Rowan: "Remember Lirenne", 90 | 110 | ok (was a 46-ch gap; 70 added)
+5. Rowan's heritage | 6 (fresco plant written) | 44, 70 an Ashen card for Rowan: "Remember Lirenne", 90 | 110 | ok (was a 46-ch gap; 70 added)
 6. Seraphine's crush | 10 | 35 she takes the Wall post beside Eden's, 60, 88, 118 | 145 | ok (35 added)
 7. Is the Black Order Eden? (Lysette) | 13 | 50, 72, 101, 133 | 140 | ok
 8. Eden's hidden heirship | 3 | 28, 66 frail-heir gossip, 104 the Duke's "fishmonger" visit, 133 | 160 | ok

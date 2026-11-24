@@ -92,3 +92,8 @@ One entry per run. The owner fills in quota_note after checking claude.ai/settin
 ### critic pass ch 13 - scores 4,4,3,3,4,3 - fixed confusing shield/door oil hit (lance snaps into door-shield), "screamed a very great scream", awkward Okoru ledger line, "extraordinarily" -> plain words. Short Veil kill now scored for battle clarity.
 ### critic pass ch 14 - scores 3,4,4,-,4,4 - fixed continuity (boiler-room nap "witnessed by an apple tree" -> bucket; "beside the rosemary all week" contradicted the moving naps), simplified the record joke, the tangled "stopped asking" paragraph and the dried-blood ink line; small bursar aside keeps it above 1800 words.
 ### critic pass ch 15 - scores 3,3,4,-,4,4 - split 50-word run-on opener; fixed loaf math (six loaves "each morning" vs fourteen total); replaced repeated gestures (ears going red, staring as if words were written there, both used in ch 11) and hard words ("tremendous diplomacy", "enormous goodwill").
+
+### 2026-11-24 23:59 UTC (06:59 WIB) - tulis bab berikutnya - chapter 16 - ok
+- words: 1862
+- scores: tension 4, surprise 3, emotion 3, battle_clarity 4, voice 4, freshness 3
+- quota_note: 

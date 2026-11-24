@@ -1,19 +1,19 @@
-Plants placed in the current window (ch 1-60). Long-range plants and later twists: twists-1.md, twists-2.md.
+Plants in the current window (ch 1-60). Later twists: twists-1.md, twists-2.md.
 - [open] Rooftop dream of endless war quiets when Lysette's crying wakes him | planted: ch 1 | due: ch 200-205
 - [open] Handkerchief with a tiny silver feather (his mother's) | planted: ch 1 | due: ch 172-176
 - [open] Locked door with a silver hairpin in its keyhole; Dragon won't show Morrowpin | planted: ch 2 | due: ch 172-176, 195-200
 - [open] Dying Veil: "You smell like the bottom of the world" | planted: ch 3 | due: ch 48-50
-- [open] Bell test: three tones, a faint fourth only Okoru hears (the Dragon's voice) | planted: ch 3 | due: ch 420-425
+- [open] Bell test: three tones, a faint fourth only Okoru hears (Dragon's voice) | planted: ch 3 | due: ch 420-425
 - [open] Lysette's locket (Corentin); Eden looks away | planted: ch 4 | due: ch 36-40
-- [open] Rowan's light matches a Lirenne royal fresco | planted: ch 6 | due: ch 105-110
+- [open] Rowan's light matches a Lirenne fresco | planted: ch 6 | due: ch 105-110
 - [open] Ashen card "Remember Thornmere" slipped to Eden | planted: ch 7 | due: ch 24-26
 - [open] Strent avoids lamps, hums Liora's lullaby | planted: ch 8 | due: ch 48-50 (hint), 183-186
 - [open] Ysolde's sealed envelope | planted: ch 9 | due: ch 153-156
 - [open] Seraphine's "you'd save me again, right?" | planted: ch 10 | due: ch 143-146
 - [open] Felix gives his middle name while asking "Eaten today?" | planted: ch 12 | due: ch 45-47
-- [open] Lysette's Witness shows a door-shaped shadow at a kill site | planted: ch 13 | due: ch 138-142
+- [open] Witness shows a door-shaped shadow at a kill site | planted: ch 13 | due: ch 138-142
 - [open] Dragon: "I promised someone" | planted: ch 15 | due: ch 420-425
-- [open] Concord map: front bends round Verandel like water round a stone | planted: ch 20 | due: ch 280-285
+- [open] Concord map: front bends round Verandel like water round stone | planted: ch 20 | due: ch 280-285
 - [open] Dying Ember's grey veins under a graft scar | planted: ch 22 | due: ch 90-95
 - [open] Eden spares the Crown of Kaldmark, Ilsabet Rorke | planted: ch 25 | due: ch 295-300
 - [open] Merrow admires the Ostrevaal tapestry at the Ball | planted: ch 25 | due: ch 145-150
@@ -25,3 +25,7 @@ Plants placed in the current window (ch 1-60). Long-range plants and later twist
 - [open] Lysette's roof garden thrives out of season under her hands | planted: ch 1 | due: ch 575-580
 - [open] Wilted flowers revive where Clara sits | planted: ch 6 | due: ch 478-480
 - [open] Valerius's Verdict makes a spoken ruling physical | planted: ch 16 | due: ch 540-545
+- [open] Seraphine vows to make Felix laugh; he never does | planted: ch 10 | due: ch 146-147
+- [open] Lysette brings two lunches to the roof "to save time" | planted: ch 14 | due: ch 106-108
+- [open] Lysette keeps Eden's handkerchief "to wash it"; never returns it | planted: ch 1 | due: ch 140, 175, 600
+- [open] Lysette's scarf, worn by Eden all winter | planted: ch 33 | due: ch 600

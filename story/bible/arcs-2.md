@@ -1,11 +1,11 @@
-# Arc roadmap, part 2 (arcs 8-13, ch 351-650). Same victory rule as part 1: Eden wins; the tension is the path and the price.
+# Arc roadmap, part 2 (arcs 8-14, ch 351-700). Romance: romance.md. Light chapters: comedy.md. Same victory rule as part 1: Eden wins; the tension is the path and the price.
 
 ## Arc 8 The Grey Sea (351-400) naval monster war + Volkhovar sabotage.
 Q: can the sea hold when the land cannot? Enemy: Hush raft-fleets from Ruhnmara; Volkhovar and the Isthmus Company trying to buy or seize Admiral Kirana (Thalos's host); Nihl.
 Beats: Kirana and Akizane's duelist Tsukishiro Kaede; a Frost Hand plot to kill Kirana near a groomed successor (succession hunt, foiled 370); Ombrevar (380); Felix lost overboard (382), feared dead; Nihl declares Eden a usurper (390); Felix found alive on a Jayavara reef (397, Wardenshell's return law and Kirana's tide); Throne Door (400).
 Tactics: doors on wave troughs; ships as moving shadows; boarding grey rafts; typhoon battle with Kirana steering it.
 Win (395-400): Nihl takes half the First Legion. Eden could crush him; instead he keeps the Emperor's law (never kill humans) that Nihl breaks, and the soldiers return to the one who keeps it. Cost: his hold on the Door is shaken; Felix's bow arm is ruined.
-Growth: Felix becomes scout-commander; Seraphine and Felix, slowly (background).
+Growth: Felix becomes scout-commander; Seraphine refuses to grieve him (382) and runs to him (397).
 
 ## Arc 9 Heaven Gate (401-450) divine.
 Q: what does Eden owe the dead who made him? Enemy: Valkyrie Marshal Aethra and Seraiel's court, who call Eden an abomination.
@@ -38,3 +38,8 @@ Win (595-600): the march reaches the Wound because every ally's earlier choice i
 Q: what should end, what should be kept, what should begin? Enemy: Vehra and Kaurveth's body, both reaching for the empty throne through Kell.
 Beats: Myrrhen speaks through Clara (630); Kell chooses to give Kaurveth an ending, a want fulfilled (640); Valerius binds Vehra to time without power over mortals (643); the Tutor finishes (645); Ending, Keeping and Beginning (Eden and Lysette) close the Wound; Myrrhen accepts Eden (645); vow with middle names (648); epilogue (650).
 Win: earned by everything planted (loans, names, doors, mercy, allies' choices). Cost: Eden gives up the Door and the Ten Pillars, who sleep with honour.
+
+## Arc 14 Names Spoken Openly (651-700) slice-of-life finale, light stakes.
+Q: what do people do with a world they kept? Mostly comedy and warmth, one gentle thread: the duchies' parliament (Valerius gives the conquered kingdoms a voice) and the Pillars' farewell.
+Beats: Hallowcrest reopens; Lysette teaches discipline, Eden lectures from the roof (655); the Duke's one-day retirement (662); a three-nation cooking contest (670); Pillars' farewell feast (678); weddings: Felix and Seraphine (685), Valerius and Ishani (690), Eden and Lysette (695, roof garden); epilogue at the greening Pale (700).
+Battles: one flex scuffle with leftover Husks (667), played for awe and laughs.

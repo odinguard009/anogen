@@ -52,3 +52,10 @@ Aura: 560 the last four legions rise and thirteen flags dip (reaction: Han's sto
 ## Arc 13 (601-650)
 Battles: Vehra's threads 620 strained; Kaurveth's body 635-640 strained; finale 645 costly (the Door given up).
 Aura: 640 he speaks to the god of Want as an equal and the Hush goes still (reaction: Kell weeps without knowing why). 648 no aura, by design: the vow is quiet.
+
+## Arc 14 (651-700)
+Battles: leftover Husks at the festival 667 flex (one sweep, students cheer).
+Aura: 655 first lecture: three hundred students go silent before he says a word, then he falls asleep at the lectern (reaction: Lysette writes him up).
+
+## Romance per arc (full ladder: romance.md)
+1: handkerchief 1, scarf 33, sleeve 44 | Seraphine's joke count 10. 2: watering can 54, "Not nothing" 66, Rowan let go 90 | bun 60, "for the light" 88. 3: Ball echo 120, roof 133, rupture 140 | Ishani 115-124 | Felix laughs 147. 4: handkerchief back 175, names 198. 5: feather 205, letters 230 | Ishani's Wall drawing 230 | "Choices keep them" 236. 7: betrothal crisis 310-345 | tribunal bun 330 | "I'm not fine" 349. 8: Felix lost and found 382-397. 9: stranger 420-445, her confession 450. 10: his confession and kiss 500 | Felix's confession 466. 11: Ishani's secret 505-515, clauses 520. 12: Ishani in his dreams 545-585, she sleeps 600 | proposal 600 | engagement 560. 13: vow 648. 14: weddings 685, 690, 695.

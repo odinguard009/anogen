@@ -1,9 +1,9 @@
-# Proposals: keputusan untuk dikonfirmasi Odin (revisi 3: 650 bab, dewa, antagonis politik, gaya Eden)
+# Proposals: keputusan untuk dikonfirmasi Odin (revisi 4: 700 bab, tiga pasangan, komedi, dewa, antagonis politik)
 
 Semua sudah dipakai di story pack. Jawab "setuju semua" atau sebut nomor yang mau diganti.
 
 ## A. Struktur dan aturan
-1. **Panjang: 13 arc x 50 = sekitar 650 bab.** Arc perang (5, 6, 8, 10, 12) diselang-seling dengan arc politik, sekolah, mata-mata, dan dewa. Rekomendasi: setuju; arc bisa dipadatkan kalau terasa lambat.
+1. **Panjang: 14 arc, sekitar 700 bab.** Arc 14 (651-700) berupa slice-of-life penutup: festival, kontes masak, perpisahan para Pillar, dan tiga pernikahan. Arc perang (5, 6, 8, 10, 12) diselang-seling dengan arc politik, sekolah, mata-mata, dan dewa. Rekomendasi: setuju; arc bisa dipadatkan kalau terasa lambat.
 2. **Musuh berganti tiap arc:**
    - teror (1), ekonomi dan faksi istana (2), politik luar negeri (3), kudeta (4)
    - perang monster (5, 6, 8, 10, 12)
@@ -33,12 +33,33 @@ Semua sudah dipakai di story pack. Jawab "setuju semua" atau sebut nomor yang ma
 
 ## C. Karakter
 9. **Eden:** perpaduan orisinal dari analis dingin, "pemalas" yang menyembunyikan kekuatan, realis keras, dan pelindung yang meledak kalau orangnya disakiti. Tanda khas: kalau marah, ia jadi sopan dan sangat pelan lalu melepas sarung tangan kirinya. Detail di style/profile.md.
-10. **Romansa:** pengakuan Lysette di ch 450, pengakuan Eden dan ciuman pertama di ch 500, lamaran di ch 600, sumpah nama tengah di ch 648. Rekomendasi: setuju.
+10. **Tiga pasangan utama** (masing-masing satu pasangan, bukan harem; detail di bible/romance.md):
+    - **Eden dan Lysette:** pengakuan Lysette ch 450, pengakuan Eden dan ciuman pertama ch 500, lamaran ch 600, pernikahan ch 695.
+    - **Valerius dan Ishani:** pangeran kaku yang taat aturan bertemu gadis Saravant usil yang tak bisa tidur. Komplikasi tunggal: Ishani dijodohkan dengan pangeran Qianlu (ch 310-345). Valerius mengaku lewat proposal tertulis lengkap dengan pasal (ch 520). Ishani bertarung melawan Vehra di dalam mimpi Valerius (ch 550-585). Menikah ch 690.
+    - **Felix dan Seraphine:** cowok kalem yang serba lurus bertemu putri jahil. Seraphine bertekad membuat Felix tertawa, dan berhasil di ch 147. Felix hilang di laut (ch 382-397). Komplikasi tunggal: Felix merasa tak pantas setelah lengannya cacat. Felix mengaku ch 466, menikah ch 685.
+    - **Pendukung:** Rowan dan Clara.
+
+    Rekomendasi: setuju. Kedua pasangan baru ini lawan sifat, dan keduanya menyatu dengan plot dewa dan perang.
+    **Rasa tiap pasangan dibuat berbeda** (tabel di bible/romance.md):
+    - **Eden-Lysette:** slow-burn yang menyesakkan. Motif: saputangan, taman atap, dan gema Lantern Ball. Penghalang: rahasia dan rasa bersalah. Pengakuan hampir tanpa kata, di atap.
+      - 6 momen "ache": ch 90, 120, 140, 175, 420-445, 540.
+      - 6 momen "senyum": ch 26 "On purpose.", ch 133 "The view's better here.", ch 230 surat yang disimpan rapi, ch 445 "You owe me sixty-one absences.", ch 500 ciuman pertama dan balada sang Duke, ch 600 lamaran dengan saputangan yang "Washed. Finally."
+    - **Valerius-Ishani:** rival penuh banter, tugas melawan hati. Motif: lampu yang dibiarkan menyala, serta memo bernomor melawan gambar-gambar Ishani. Pengakuan formal berupa pasal-pasal, lalu Ishani mengubahnya dengan tinta.
+    - **Felix-Seraphine:** komedi polos-tulus dan kesetiaan yang tenang. Motif: "Eaten today?", roti manis, dan hitungan lelucon Seraphine. Penghalang: rasa tak pantas dalam diri Felix. Pengakuan sederhana di dapur lapangan.
+11. **Komedi** (detail di bible/comedy.md): satu bab ringan setiap 5-8 bab, 6-8 per arc, tidak pernah di tengah adegan emosional atau tegang. Mesin komedi tetap:
+    - rumah Argentine
+    - razia Komite Disiplin
+    - Klub Taman Atap
+    - misi Seraphine membuat Felix tertawa
+    - prank mimpi Ishani pada Valerius
+    - Naga vs Tutor
+    - suara-suara Gorrath
+    - Form 13-B
 
 ## D. Pertanyaan
 1. Valerius menjadi host Vehra (dewa antagonis) mulai ch 545, tapi akhirnya menguasainya. Terlalu berat untuk sang pangeran? Rekomendasi: pertahankan; ini memberi rival yang benar-benar setara.
 2. Lysette sebagai host Aurelune: oke, atau biarkan ia manusia biasa? Rekomendasi: oke, tapi baru terungkap di ch 580.
-3. Felix dan Seraphine jadi pasangan (latar belakang, mulai arc 8)? Rekomendasi: ya, sangat pelan.
+3. Mau 700 bab dengan arc 14 sebagai penutup santai, atau bab komedinya disebar saja dan total tetap 650? Rekomendasi: 700, karena tiga pernikahan butuh ruang.
 4. Judul tetap "The Thirteenth Knight Holds Every Sword"? Rekomendasi: ya.
 
 ## E. Catatan teknis

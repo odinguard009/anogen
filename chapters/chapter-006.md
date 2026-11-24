@@ -2,19 +2,25 @@
 
 I had picked my Lance three days before anyone told us we'd be picked.
 
-Fourteen, if the numbering went by the Ladder the way it did last year. Three star-readers who spent every break on the observatory steps arguing about a comet nobody else could see, and a boy from the river towers who carved spoons. Between the four of them I'd counted maybe forty words in public since summer. A Lance like that gets the back of the line, the cold end of the Wall in winter, the job of counting crates. Nobody watches a Lance like that. I'd have slept through the whole year in it and come out the other side a spoon richer.
+Lance Fourteen. That was the plan, if the Ladder numbers worked like last year. It had three star-readers who spent every break on the observatory steps arguing about a comet nobody else could see, plus a boy from the river towers who carved spoons.
 
-Okoru read the lists in the lowchapel, because he says nobody falls asleep in the lowchapel. He's right. It's the oldest room on the plateau, a stone box half sunk in the hill, cold in all seasons, and the pews have names cut into the ends. Not donors. Year Sixes who went out on the Crossing and didn't come back from the Teeth. The newest ones are still pale in the grooves. There were a few jars of lilies along the side aisle from a remembrance in the summer, and nobody had cleared them, and they'd gone the color of tea.
+Together, those four had said maybe forty words in public since summer. A Lance like that gets the back of the line, the cold end of the Wall in winter, and the job of counting crates. Nobody watches a Lance like that. I could have slept through the whole year and come out the other side with a spoon.
 
-"Lance One," said Okoru from the step below the bell-rope. The rope had been cut off at head height a century ago, and he stood under the frayed end of it as though it had been put there for him. "Aurenmark. Aurenmark."
+Okoru read the lists in the lowchapel. He says nobody falls asleep in the lowchapel. He's right. It's the oldest room on the plateau, a stone box half sunk in the hill, cold in every season. The pews have names cut into the ends. They aren't donors. They're Year Sixes who went out on the Crossing and never came back from the Teeth.
 
-Seraphine turned around in her pew and waggled her fingers at me. Her brother didn't turn around. He doesn't need to; he has a way of not looking at you that you can feel in your shoulder blades.
+The newest names were still pale in the grooves. Along the side aisle stood a few jars of lilies from the summer remembrance. Nobody had cleared them. They'd gone the color of tea.
 
-Lances Two to Eight went by. I didn't listen to most of them. I was watching the star-readers, who were sitting together near the back, already arguing in whispers, perfect.
+"Lance One," said Okoru. He stood on the step under the bell-rope. Someone had cut the rope off at head height a century ago, and he stood under the frayed end like it was put there for him. "Aurenmark. Aurenmark."
+
+Seraphine turned in her pew and waggled her fingers at me. "Good luck, sleepy," she mouthed. Her brother didn't turn around. He doesn't need to. He has a way of not looking at you that you feel in your shoulder blades.
+
+Lances Two to Eight went by. I didn't listen. I watched the star-readers at the back, already whispering at each other.
+
+"Perfect," I whispered, to nobody.
 
 "Nine," said Okoru. "Ashgrove."
 
-Felix, beside me, didn't move at all.
+Felix, beside me, didn't move.
 
 "Wren."
 
@@ -24,19 +30,23 @@ That was fine. Nine was low enough.
 
 That was less fine.
 
-There's a particular sound a room makes when it adds up a sum it likes. The Dawn Boy, rank two, and Clara Belmont, rank three, in the same Lance with the year's biggest truant and Felix Ashgrove, who is nineteenth and doesn't care. Somebody behind me said, "Oh, *bad* luck," and meant it warmly, as people do about a funeral they won't have to attend.
+A room makes a certain sound when it adds up a sum it likes. The Dawn Boy was rank two. Clara Belmont was rank three. They'd be in one Lance with the year's biggest truant and Felix Ashgrove, who is nineteenth and doesn't care. Somebody behind me said, "Oh, *bad* luck." He said it warmly, like a man talking about a funeral he doesn't have to attend.
 
 "And Hollen," said Okoru.
 
-Lysette stood up. She doesn't usually stand to speak; she was doing it now so that she'd be taller than the pew in front. "Instructor. With respect, I'm on the Committee rota for the whole of autumn, and the rota assumes—"
+Lysette stood up. She doesn't usually stand to speak. She did it now so she'd be taller than the pew in front.
 
-"Wren has sixty-one absences." He didn't look at his slate for the number. "Committee's already assigned itself to him in the Undercroft. I watched. I'm making it official. You'll supervise."
+"Instructor, with respect. I'm on the Committee rota all autumn, and the rota assumes—"
+
+"Wren has sixty-one absences." He didn't look at his slate for the number. "The Committee already assigned itself to him in the Undercroft. I watched. Now I'm making it official. You'll supervise."
 
 "Supervise," she said.
 
 "Find a better word and I'll use it."
 
-She sat down. Two pews ahead, Rowan Tallis had turned all the way round with his elbow on the back of the seat, grinning at her like a dog that's been told the walk is still on, and she looked straight ahead at the frayed bell-rope and said, "Wonderful," in a voice you could have kept butter in.
+She sat down. Two pews ahead, Rowan Tallis had turned all the way around, elbow on the seat back. He grinned at her like a dog who's just heard the walk is still on. She stared at the frayed rope.
+
+"Wonderful," she said, in a voice you could keep butter in.
 
 Felix leaned an inch toward me without turning his head.
 
@@ -50,29 +60,35 @@ I hadn't told him about Fourteen. I hadn't told anybody.
 
 * * *
 
-When the lists were done Okoru said, "Nine stays," and the rest of the year filed out past us, and a good many of them looked at me on the way, which they don't usually do. I'd been the boy who slept. I was becoming the boy who slept in Lance Nine. It's a different thing, and worse, because people like to know where the furniture is in a room with a prince in it.
+When the lists were done, Okoru said, "Nine stays." The rest of the year filed out past us. A lot of them looked at me on the way, which they don't usually do.
 
-Rowan came down the aisle before Okoru could say anything else, sidestepping the lily jars, and put his hand out.
+I used to be the boy who slept. Now I was the boy who slept in Lance Nine, which is worse, because people like to know where the furniture is in a room with a prince in it.
+
+Rowan came down the aisle before Okoru could say more. He stepped around the lily jars and stuck out his hand.
 
 "You're the door one," he said.
 
-I looked at his hand. It was the size of a shovel blade and had a burn scar across the knuckles in the shape of a pan handle.
+I looked at his hand. It was the size of a shovel blade, with a burn scar across the knuckles in the shape of a pan handle.
 
-"The warden," he said. "In the drill. Clara said you were very calm. I said I bet he's terrified inside, he's just got one of those faces. Were you terrified inside?"
+"The warden," he said. "In the drill. Clara said you were really calm. I said, I bet he's terrified inside, he just has one of those faces. Were you terrified inside?"
 
 "No."
 
-"See, that's what someone terrified would say." He laughed. He has a big laugh, the kind that doesn't check first whether it's allowed, and it went up into the vault and came back down sounding like three people. Then he dug in his coat pocket and came out with half a honey-cake, folded into a page of somebody's History of the Breach notes, and held it out to me as if we'd agreed on it. "Here. I always bring two. I never eat the second, I don't know why I bring it."
+"See, that's exactly what a terrified person would say."
 
-Felix said, very softly, "Eaten today?"
+He laughed. It's a big laugh, the kind that never checks if it's allowed, and it went up into the vault and came back sounding like three people. Then he dug in his coat and pulled out half a honey-cake wrapped in a page of somebody's notes on the Breach.
 
-"He's about to," said Rowan, delighted, and pressed the cake into my glove.
+"Here. I always bring two. I never eat the second one. No idea why I bring it."
 
-It's very hard to dislike someone who gives you food without wanting to know anything. I'd been trying since the market, since Rowan's name circled twice in a dead man's ledger. It had been easier when he was a gold edge through a grille.
+"Eaten today?" Felix asked me, very softly.
 
-Clara had sat down on the end of the side pew to wait, beside one of the dead lily jars. She's small, brown-haired, with a habit of sitting very still that makes the people near her talk less. She'd put her hand on the pew-end without looking, over the names, and left it there. Lysette had sat as far from her as the pew allowed, which was two people's width, and was writing something in her Committee book with a great deal of attention.
+"He's about to," said Rowan, delighted. He pressed the cake into my glove.
 
-"Hollen," Rowan said, turning. "You were brilliant. In the drill. You hit it dead center, I saw through the grille. Clara saw. We both said."
+It's hard to dislike someone who feeds you and wants nothing back. I'd been trying since the market, ever since I saw his name circled twice in a dead man's ledger. It was easier when he was just a gold edge behind a grille.
+
+Clara had sat down on the end of a side pew to wait, next to a dead lily jar. She's small and brown-haired, and she sits so still that people near her talk less. Her hand rested on the pew end, over the names, and she didn't seem to know it. Lysette sat as far from her as the pew allowed, which was two people's width, and wrote in her Committee book like it was the most interesting book ever made.
+
+"Hollen," Rowan said, turning. "You were brilliant in the drill. You hit it dead center. I saw through the grille. Clara saw too. We both said."
 
 "Thank you, Tallis."
 
@@ -80,19 +96,23 @@ Clara had sat down on the end of the side pew to wait, beside one of the dead li
 
 "I was occupied."
 
-"That's a yes," said Rowan to me, conspiratorially, and Lysette's pencil went through the page.
+"That's a yes," Rowan told me, in a loud whisper. Lysette's pencil went right through the page.
 
-"Nine," said Okoru. "Corridor. I'll take you one at a time." He jerked his chin at the vestry door, and went through it, and left it open behind him.
+"Nine," Okoru called. "Corridor. I'll take you one at a time." He jerked his chin at the vestry door, went through it, and left it open.
 
-Clara got up last. I was behind her in the aisle, so I saw the jar she'd been sitting beside. The lilies in it were standing up. Not fresh, not quite; the edges of the petals were still brown. But upright, and white underneath the brown, as if somebody had given them water an hour ago instead of three months. None of the other jars had changed.
+Clara got up last. "Coming, Wren?" she said, over her shoulder, and I said yes, and stayed one step behind her. That's how I saw the jar she'd been sitting beside. The lilies in it were standing up.
 
-She didn't look back at them. I don't think she knew.
+They weren't fresh. The petal edges were still brown. But the flowers stood upright and white underneath, like somebody had watered them an hour ago instead of three months ago, and none of the other jars had changed.
+
+She didn't look back. I don't think she knew.
 
 * * *
 
-The corridor that runs from the lowchapel to the vestry is where the academy keeps what it hasn't decided to throw away. Paintings, mostly. Somebody in the Iron King's time had gone along it with a pot of lime-wash and covered over a row of frescoes, one for each of the old kingdoms he'd taken, and somebody else, later, had started to scrape the wash off again and given up a third of the way down. So you get a long white wall with patches of color showing through like a map of a damp ceiling, and every few yards, a face.
+The corridor between the lowchapel and the vestry is where the academy keeps whatever it hasn't decided to throw away. Mostly paintings. Back in the Iron King's time, somebody had gone down it with a pot of lime-wash and covered a row of frescoes, one for each old kingdom he'd taken. Later, someone else started scraping the wash off, then gave up a third of the way along.
 
-Felix and Rowan sat on the stone bench under the windows. Clara took the far end. Lysette stood. I leaned on the wall beside the one fresco that had been scraped almost clean: a woman in a long red coat, standing on a hill with her back to the viewer, holding up something that must have been the sun, and the whole edge of her painted in gold leaf going brown at the corners. Underneath, the plaster had a word half eaten by damp. LIREN. The last letters had gone.
+So it's a long white wall with patches of color showing through, like a map of a damp ceiling. Every few yards there's a face.
+
+Felix and Rowan sat on the stone bench under the windows. Clara took the far end. Lysette stood. I leaned on the wall by the one fresco that had been scraped almost clean. It showed a woman in a long red coat, standing on a hill with her back to us, holding up something that must have been the sun. Her whole outline was gold leaf, going brown at the corners. Below her, the plaster had a word half eaten by damp. LIREN. The last letters were gone.
 
 "Wren," said Lysette.
 
@@ -106,35 +126,41 @@ Felix and Rowan sat on the stone bench under the windows. Clara took the far end
 
 "You keep telling me things I know."
 
-She opened her mouth, closed it, and wrote something down. I was fairly sure it was my name.
+She opened her mouth, shut it, and wrote something down. I was fairly sure it was my name.
 
-On the bench, Rowan was showing Felix something. "No, look, if I keep it at Spark I can make it go round in a ring. Like a coin on a table. Clara thinks it's stupid."
+On the bench, Rowan was showing Felix something. "No, look. If I keep it at Spark, I can make it go round in a ring. Like a coin on a table. Clara thinks it's stupid."
 
 "I think it's very stupid," said Clara, without opening her eyes.
 
-He held up his hand. His Tenet came on the way it always does, without fuss, a warm gold line tracing the outside of his fingers, and then the line lifted off his skin and went round his palm in a slow circle, and everybody watched it, because you do. Felix watched it with polite despair.
+"It's a great ring!"
 
-I wasn't watching the ring. The light had reached the wall behind Rowan's shoulder, and on the wall the woman's gold edge had caught it.
+"It's a ring," said Felix, with polite despair.
 
-Gold leaf takes any light. That's what it's for. A candle makes it candle-colored, glowstone makes it greenish. This went exactly the shade of the ring in Rowan's hand. Not near it. The same, down to the slight rose at the outer edge, as though somebody had mixed the paint while looking at him. For about as long as he held the ring up, the painted woman on the hill had a border of the same light as the boy on the bench, and then he closed his hand and they both went out.
+Rowan held up his hand. His Tenet came on the way it always does, with no fuss, a warm gold line tracing his fingers. Then it lifted off his skin and spun around his palm in a slow circle. Everybody watched, because you do.
 
-Nobody else had looked. Lysette was looking at her book. Clara's eyes were shut.
+I wasn't watching the ring. The light had reached the wall behind Rowan's shoulder, and the woman's gold edge had caught it.
 
-I put that away in the place where I keep things I can't use yet. It's getting full.
+Gold leaf takes on any light. That's what it's for. Candlelight makes it candle-colored, and glowstone makes it green. This went exactly the shade of Rowan's ring. Not close. The same, down to the faint rose at the outer edge, as if the painter had mixed the paint while looking at him.
 
-"Tallis," said Okoru from inside.
+For as long as he held up the ring, the painted woman on the hill glowed with the same light as the boy on the bench. Then he closed his hand, and both lights went out.
 
-Rowan went in, still talking. Through the open door I could hear Okoru's voice, low, and Rowan's, not low at all, and about two minutes later Rowan came out saying, "That's fair, actually, that's completely fair," and sat back down.
+"Did you see that?" I almost said. Nobody else had looked. Lysette was reading her book, and Clara's eyes were still shut.
 
-Then Clara. Then Felix, who came out again exactly as he went in.
+I put it away in the place where I keep things I can't use yet. That place is getting full.
 
-Then Okoru said, "Wren," and I went.
+"Tallis," Okoru called from inside.
+
+Rowan went in, still talking. I heard Okoru's low voice, then Rowan's, not low at all. About two minutes later he came out saying, "No, that's fair, that's totally fair," and sat back down.
+
+Then Clara went in. Then Felix, who came out exactly the way he went in.
+
+Then Okoru said, "Wren." I went.
 
 * * *
 
-The vestry was a room for keeping vestments that hadn't held a vestment in fifty years. Okoru had taken it over as an office for the Lances, which meant a table, two chairs, a brazier, and on the table a ledger bound in green cloth with the stamp of the warden store on the corner. It was open. He sat on the far side of it with his pinned sleeve toward the brazier.
+The vestry was made for storing robes, though it hadn't held a robe in fifty years. Okoru had turned it into an office for the Lances: a table, two chairs, a brazier, and a ledger bound in green cloth with the warden store's stamp on the corner. The book lay open. He sat on the far side with his pinned sleeve toward the fire.
 
-On the table beside the ledger, folded into a neat square, was the cloth he'd put over the construct's chest. Someone had shaken it out. Not well. The folds were gray.
+Next to the ledger lay the cloth he'd laid over the warden's chest. Someone had folded it into a neat square, after shaking it out badly. The folds were gray.
 
 "Sit," he said.
 
@@ -150,48 +176,50 @@ On the table beside the ledger, folded into a neat square, was the cloth he'd pu
 
 "Fourteen has five."
 
-"Fifteen."
+"Fifteen, then."
 
-"Fifteen has five. They all have five, Wren. That's what a Lance is." He didn't smile. "Try another one."
+"Fifteen has five. They all have five, Wren. That's what a Lance is." He didn't smile. "Try again."
 
-I tried the truthful version, which sometimes works on people who expect a lie. "Nine's top-heavy. Ranks two, three and four. Nobody grades that fairly. Put me in with people my size and you'll get a better spread."
+So I tried the truth. It sometimes works on people who expect a lie. "Nine is top-heavy. Rank two, three, and four. Nobody can grade that fairly. Put me with people my size and you'll get a better spread."
 
 "Your size," said Okoru.
 
-The door behind me was open. In the corridor, Rowan was telling Felix about a horse he'd had at the fort, and Lysette's pencil was going. Every word in this room went out into that one; the stone carried it.
+The door behind me was still open. Out in the corridor, Rowan was telling Felix about a horse he'd had at the fort, and Lysette's pencil was scratching. The stone carried every word of it into this room, and every word of ours out there.
 
 "I'll shut that," I said.
 
 "Leave it."
 
-He let it sit for a moment. Then, not loudly, but not quietly either, in the voice he uses to tell a whole drill yard where they've gone wrong: "Your lance closed."
+He let the quiet sit. Then he spoke, not loud and not quiet. It was the voice he uses to tell a whole drill yard what they've done wrong.
 
-Out in the corridor the horse story didn't stop. The pencil did.
+"Your lance closed."
 
-"It's a blocking lance," I said. "It's built to close."
+Out in the corridor, the horse story kept going. The pencil stopped.
 
-"I've watched blocking lances close for thirty-one years. They clack. They don't slam." He turned the green ledger a little on the table, a quarter turn, toward me. "And you hold a shield like a man holds a door against weather. I've seen that once before. He was not a student."
+"It's a blocking lance, sir," I said. "It's built to close."
 
-"Then it's a coincidence, sir."
+"I've watched blocking lances close for thirty-one years. They clack. They don't slam." He turned the green ledger a quarter turn toward me. "And you hold a shield like a man holding a door shut against the weather. I saw that once before. He wasn't a student."
 
-"Probably," said Okoru, who didn't think so, and I watched him decide not to push it any further with the door open, which was, I realized, why he'd left it open. Not to expose me. To show me he could, and hadn't. Fine.
+"Then it's a coincidence."
 
-I looked down at the ledger, because he plainly wanted me to and there was no reason left not to.
+"Probably," said Okoru, who didn't think so.
 
-It was the store's issue book for the autumn and summer, one line per item, in a dozen hands. Bolts, padding, a wheel for the funicular. Halfway down the left-hand page, against the number of the warden we'd broken: *Core, one. Charged. For refit.* And a signature in brown ink, upright, slightly old-fashioned, with a long tail on the last letter that went right under the date. *C. Daubert.*
+I watched him decide not to push. That was why he'd left the door open. Not to expose me, but to show me he could, and that he hadn't. Fine.
+
+I looked down at the ledger, because he clearly wanted me to.
+
+It was the store's issue book, one line per item, written in a dozen hands. Bolts, padding, a wheel for the funicular. Halfway down the left page, next to the warden we'd broken, it said: *Core, one. Charged. For refit.* Below that was a signature in brown ink, upright and old-fashioned, with a long tail on the last letter that ran under the date. *C. Daubert.*
 
 The date was the eleventh day of the sixth month.
 
-"Who's Daubert?" I said.
+"Who's Daubert?" I asked.
 
-Okoru didn't answer right away. He picked up the folded cloth from beside the ledger and shook it out one-handed over the brazier, and the last of the gray dust came out of the weave and went into the coals without a sound. Then he folded it again. Halves, quarters. He did it slowly, pinning each fold against his chest with his chin, the way he must have learned to do everything after the arm.
+Okoru didn't answer. He picked up the folded cloth and shook it out one-handed over the brazier, and the last gray dust fell into the coals without a sound. Then he folded it again, halves, then quarters, pinning each fold against his chest with his chin. He must have learned to do everything that way after the arm.
 
-"Clement Daubert taught construct-work on this plateau for twenty-six years," he said. "He built that warden. He built half the wardens down there. He liked them slow. He said a slow thing teaches better than a fast one, because you have time to be ashamed of your mistake while it's still coming at you."
+"Clement Daubert taught construct-work here for twenty-six years," he said. "He built that warden. Half the wardens down there, actually. He liked them slow. He used to say a slow thing teaches better. You have time to be ashamed of your mistake while it's still coming at you."
 
-He set the folded cloth down square on the table, on top of the signature, and smoothed it once with his palm.
+He set the cloth on the table, right on top of the signature. He smoothed it once with his palm.
 
 "He died in the spring," said Okoru. "Fourth month. I carried the front of his coffin down the Long Stair."
 
-He looked at me then, the long look from the drill, and didn't say anything about the date.
-
-He didn't have to. Fourth month, sixth month. Out in the corridor Rowan laughed at something, and the stone carried that in too.
+He gave me the long look from the drill. He didn't mention the date, and he didn't have to. Fourth month. Sixth month. Out in the corridor, Rowan laughed at something, and the stone carried that in too.

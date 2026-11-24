@@ -57,3 +57,7 @@ One entry per run. The owner fills in quota_note after checking claude.ai/settin
 ### critic pass ch 8 - scores 4,4,4,4,4,4 - best of batch; fixed clumsy double-semicolon line (Gorrath and the racks).
 ### critic pass ch 9 - scores 4,3,4,3,4,4 - cut tidy aphorism after the cobblestone ("the quiet of people who've just seen..."). Wick Street clear.
 ### critic pass ch 10 - scores 3,4,4,3,4,4 - fixed muddled double-punchline griffon joke and ungrammatical setup; trimmed a "for a long moment". Chalk-duel Witness use fresh.
+
+### 2026-11-24 23:25 UTC (06:25 WIB) - audit - ok
+- notes: audit ch 1-10: 3 proposals in story/proposals-audit.md (rest food gag + Rowan second note; break and-chains/even rhythm; real cost spike by ch 13); +12 banned.md entries; +13 variety options; no debts past due
+- quota_note: 

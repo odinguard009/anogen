@@ -8,7 +8,9 @@
     "an odd small observation",
     "aftermath of an event, then back-fill",
     "a direct question or order",
-    "a countdown or deadline"
+    "a countdown or deadline",
+    "a sound heard before anything is seen",
+    "mid-argument, no context given"
   ],
   "scene_shape": [
     "cold open in action",
@@ -44,7 +46,9 @@
     "loneliness",
     "pride that costs something",
     "fear held in check",
-    "bittersweet gratitude"
+    "bittersweet gratitude",
+    "irritation that hides worry",
+    "dread under ordinary routine"
   ],
   "comic_device": [
     "deadpan understatement",
@@ -55,7 +59,10 @@
     "a character failing at a small task",
     "banter between allies",
     "dry self-deprecation",
-    "none this chapter"
+    "none this chapter",
+    "a joke that lands on someone other than Rowan or Felix",
+    "the straight man loses his composure once",
+    "none this chapter: humor only in narration"
   ],
   "conflict_type": [
     "duel with a technical twist",
@@ -77,7 +84,9 @@
     "steady climb ending on a drop",
     "flat surface, tension underneath",
     "mosaic of short scenes",
-    "single long scene"
+    "single long scene",
+    "uneven: a racing run-on, then one-line fragments",
+    "interrupted scene: cut away at the peak, return later"
   ],
   "hook_type": [
     "question left open",
@@ -88,6 +97,8 @@
     "decision with a price",
     "a promise or threat",
     "unexpected arrival",
-    "quiet line that changes the stakes"
+    "quiet line that changes the stakes",
+    "an action shown with no explanation",
+    "a physical cost that arrives late"
   ]
 }

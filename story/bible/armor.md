@@ -4,23 +4,21 @@
 - **Ward-plate** (common tier): order-issued plate of vein-steel etched with wards. Worn and buckled like ordinary armor; no ritual, no Tolls. Tough, heavy, honest. Every knight has one.
 - **Named Raiments** (titled tier): holy armors forged by saints, smiths and Valkyries over millennia. All vanished into the Sepiroth Vault on PR 0 with the other relics. Only Eden can call or lend them. A Raiment seen in public is a political earthquake.
 - **Sovereign Raiments** (god tier): Firstworks on Vault floors 7-9, made by the Sovereigns themselves.
-- **The Faceless Mantle**: the Emperor's soldiers' plate, drawn from Melsche Door. The Black Order's identity.
+- **The Faceless Mantle**: the Emperor's soldiers' plate, drawn from Melsche Door; Gorrath and Vesk wear it as Black Order "agents". Eden's own black armor only looks the same: it is Aster, his mother's work, sealed (reveal 175).
+- **Liora's works** (liora.md): Keepforged by Liora. They never Toll and never Keep; they run on her stored light, and spending it spends her Keeps forever.
 - **Throne-forms**: god-hosts do not wear Raiments; their domain grows over them (Han's jade skin, Kirana's tide-cloak). Different rules: no Tolls, the host's own Throne Toll instead.
 - **Corrupted**: Pale Raiments (Hush imitations grown from Grey Graft flesh; they ring with silence), Lantern rigs (Lanternhouse mercenary frames powered by unstable mana stones), and Kept Knights (see cost).
 
 ## The summoning: the Knock
-Eden's door-shield carries an iron ring-knocker. One knock turns lance to shield and back. Three knocks, and a name spoken, open the Gate for a Raiment: the knocker rings like a far bell, the shadow at his feet deepens to a well, pale plates rise out of it and close over him from the feet up with the sound of a vault door sealing, each plate cold for one heartbeat, then body-warm. A borrower answers the third knock by speaking their own middle name; the Raiment comes to them. The Faceless Mantle needs no knock: he steps backward into his own shadow and steps out wearing it.
+Eden's door-shield carries an iron ring-knocker. One knock turns lance to shield and back. Three knocks, and a name spoken, open the Gate for a Raiment: the knocker rings like a far bell, the shadow at his feet deepens to a well, pale plates rise out of it and close over him from the feet up with the sound of a vault door sealing, each plate cold for one heartbeat, then body-warm. A borrower answers the third knock by speaking their own middle name; the Raiment comes to them. The Faceless Mantle needs no knock: he steps backward into his own shadow and steps out wearing it. Aster answers three knocks and his own middle name (the name she chose).
 
 ## Cost: the Seven Tolls
-- A Raiment remembers; worn too long, it keeps its wearer. While worn, it tolls like the Resonance Bell. Tolls come faster with exertion, injury, and every breach of the Raiment's Vow (its ideal: e.g. "never strike the fallen"). Calm, a wearer might hear one toll in ten minutes; in a hard fight, one a minute.
+- A Raiment remembers; worn too long, it keeps its wearer. While worn, it tolls like the Resonance Bell. Tolls come faster with exertion, injury, and every breach of the Raiment's Vow (its ideal: e.g. "never strike the fallen"). Calm: one toll in ten minutes; hard fight: one a minute.
 - Each toll adds weight (joints stiffen, breath shortens). At the sixth the armor is a burden. At the seventh the wearer is Kept: they freeze into the Raiment forever, asleep, an armored statue on a Vault floor. The Vault's lower halls are lined with Kept Knights (and in arc 9 some wake as guardians).
-- Taking a Raiment off early costs nothing but the fight's advantage. The tension: how long dare you stay.
 - Eden is different: Void cannot be kept. At his seventh toll, the Emperor's essence surfaces instead and Eden loses himself for a while (cold, merciless, not him). He fears this more than being Kept. Each toll also deepens the Frost.
 - The Faceless Mantle has no Tolls; its cost is the Frost and visibility (it reads as Black Order to anyone who sees it).
-- Ward-plate cost: weight and fatigue only.
 
-## Tiers in practice
-Ward-plate < Pale Raiment (strong, poisons its wearer) < Named Raiment < Sovereign Raiment. Throne-forms sit beside the scale, as strong as their host's mastery.
+Tiers: Ward-plate < Pale Raiment < Named Raiment < Sovereign Raiment; Throne-forms beside the scale.
 
 ## How it interacts with Eden's powers
 - Door + Raiment: doors can open in the armor's own shadow-seams; Doorstep while armored leaves a ring of frost.
@@ -32,9 +30,11 @@ Ward-plate < Pale Raiment (strong, poisons its wearer) < Named Raiment < Soverei
 - **Selenwing**: Liora's winged Valkyrie mare, Kept in the Vault since her death; wakes for Lysette (446).
 
 ## Catalog (look | source | abilities | cost | wearer | debut)
-1. **Faceless Mantle** | matte black plate, smooth helm with a white thread slit | Door | silent, shadow-blended, holds up to Ward-plate blows; Gorrath and Vesk wear copies as "agents" | Frost | Eden (Black Order) | 3 (mask), 23 (full)
-2. **Dawnglass Raiment** | plate like pale ice at dawn, plain grey gambeson | Vault, Candor's sister | light around the wearer turns honest: illusions, Veils and grafts fail within ten paces | Seven Tolls; Vow "never lie in it" | Eden | 199
-3. **Argent Raiment** | silver plate with lake-blue enamel, House Argentine's | Vault | the wearer's named target cannot flee the field | Tolls; Vow "never strike a kneeling foe" | Duke Aldous (returned to him) | 197
+1. **Faceless Mantle** | matte black plate, smooth helm with a white thread slit | Door | silent, shadow-blended; Pillars wear it as "agents" | Frost | Gorrath, Vesk (Black Order) | 23
+1b. **Aster** | sealed: identical black, with a feather stamped inside the left gauntlet (plant 23) | Liora's masterwork | grows with Eden; see stages below | spends her Keeps | Eden | 23 (sealed), 175 (revealed)
+2. **Dawnglass Raiment** | plate like pale ice at dawn | Vault, Candor's sister | light around the wearer turns honest within ten paces | Seven Tolls; Vow "never lie in it" | Lysette (loan, dream war) | 507
+3. **Vowsilver** | silver plate, lake-blue enamel, feather veins | Liora's work | amplifies Sentence; named targets cannot flee | stored light, her Keeps | Duke Aldous | 193
+3b. **Patience and Kingsrest** | plain grey sword, mail that never rusts | Liora's work | the sword grows heavier for anyone attacking its bearer | stored light | King Theodric | 345
 4. **Thornward Mail** | grey-green scale, root-like greaves | Vault | roots anchor the wearer; cannot be knocked down | Tolls | Felix (loan) | 98
 5. **Redwall Raiment** | crimson plate with tower-shaped pauldrons, the Valdis heirloom | Vault | turns Verdict rulings into standing walls | Tolls; Vow "hold" | Valerius (loan after Gideon falls) | 247
 6. **Daybreak Hauberk** | gold-white chain like sunrise through mist, Lirenne royal | Vault | stores sunlight and releases it at dusk | Tolls | Rowan | 270
@@ -50,11 +50,25 @@ Ward-plate < Pale Raiment (strong, poisons its wearer) < Named Raiment < Soverei
 16. **Firstplate** | Nihl's armor: black that swallows all light, the Faceless Mantle's dark mirror | Door (First Pillar) | no shadow at all: Eden cannot open doors on him | breaks the Emperor's law | Nihl | 390
 17. **Kept Knight armors** | ancient Raiments with sleepers inside | Vault | many; wake as guardians | they are the warning | Vault | 428
 
+## Aster's evolution (Eden's armor; tied to healing and unlocks)
+- Stage 0, Mourning (23-174): sealed black; looks like the Faceless Mantle; costs only Frost. He thinks it is the Door's.
+- Stage 1, Ember (175-176): the seal cracks when he remembers her death; silver feather veins show through the black; first Keep (humming).
+- Stage 2, Argent Dawn (199): white-silver over black, his first public armor, at the coup's end; Keep at 205.
+- Stage 3, Threshold (400): the Emperor's Nullcrown merges in (a ring of absence above the helm); Keep to the Emperor.
+- Stage 4, Gatewing (446): Seraiel acknowledged; wing-shields of stacked pearl; Keep to the Dragon.
+- Stage 5, Garden (590): with Lysette's Seedtime, green-gold vine filigree; the armor begins to grow, not just guard. Keep at 600.
+- End (645): the last Keep spent; he hangs Aster on the roof-garden trellis, where it rusts beautifully under roses.
+
+## Colossal constructs (for titan battles, titans.md)
+- **Thousandfold Knight**: a thousand legion soldiers interlocked into one giant armored knight, Eden in its chest (debut 490).
+- **Stonewarden**: Han's Living Mountain raised as a walking fortress (debut 575).
+- **Sepiroth's Scale** at full size: a pearl dome over a city (560).
+
 ## Armor-scene schedule
 At least one notable armor scene about every 10 chapters in action arcs; showpieces timed with aura moments. Detail per arc: arcs-3.md.
 
 ## Writing armor scenes
-- Transformation in 3-6 lines: the knock, the sound, the cold-then-warm, one detail unique to that Raiment. Never the same wording twice.
-- Show weight and texture: how the plates sound on stone, what the helm smells like, how his stride changes.
+- Transformation in 3-6 lines: knock, sound, cold-then-warm, one unique detail. Never the same wording twice.
+- Weight and texture: plates on stone, the helm's smell, the changed stride.
 - Count Tolls in the prose sparingly (a bell, a stiffening knee). The reader should feel the clock without a number.
-- Aftermath: the cost lands (stiff joints, the Frost, a borrower's shaking hands, the political fallout of being seen).
+- Aftermath: the cost lands (stiff joints, the Frost, a spent Keep, the fallout of being seen).

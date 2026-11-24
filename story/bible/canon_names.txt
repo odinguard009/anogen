@@ -459,7 +459,6 @@ Kept Knight
 Kept Knights
 Faceless Mantle
 Dawnglass Raiment
-Argent Raiment
 Thornward Mail
 Redwall Raiment
 Daybreak Hauberk
@@ -483,3 +482,41 @@ Tallow Saint's Candle
 Glassmonger's Lens
 Wayfinder's Thread
 Assayer's Scale
+Vowsilver
+Patience
+Kingsrest
+Keepforging
+Keep
+Keeps
+Mending
+Glasshouse Forge
+Last Light
+Starsteel
+Thousandfold Knight
+Stonewarden
+Veil class
+Husk class
+Ravager
+Ravagers
+Ravager class
+Wallbreaker
+Wallbreakers
+Colossus
+Colossi
+Titan
+Titans
+Thrennos
+Drowned Bell
+Grey Shepherd
+Ossuary Reef
+Ubrak
+Silent Mountain
+Lament
+Hollow Gate
+Titan Accord
+veinspear
+veinspears
+Mourning
+Ember stage
+Argent Dawn
+Gatewing

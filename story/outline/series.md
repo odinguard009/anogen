@@ -1,9 +1,9 @@
-# Series roadmap (14 arcs, ~700 ch). Detail: bible/arcs-1/2/3, twists, politics, gods(-hosts), romance, comedy, deaths, armor, battle-craft
+# Series roadmap (14 arcs, ~700 ch). Detail in bible/ reference files (arcs-1/2/3 first)
 
 1. 1-50 The Rooftop (school, terror): can Eden stay unseen once someone insists on seeing him?
 2. 51-100 Lanterns and Ledgers (economic, court): who profits from the fear?
 3. 101-150 The Concord (foreign politics): can thirteen nations share a table? Lysette learns he is the Black Order (140).
-4. 151-200 Argentine (coup): who is Eden when he stops hiding? Declares himself (160); mother's truth (175); graduation.
+4. 151-200 Argentine (coup): who is Eden when he stops hiding? Declares himself (160); mother's truth (175); the Duke unleashed (193).
 5. 201-250 The Teeth (siege): can they hold the narrowest place on Elysmar?
 6. 251-300 Across the Middle Sea (campaign): can the south be taken back? The Void Host is Eden (290).
 7. 301-350 The Void's Son (tribunal, faith, embargo): saviour or cause?
@@ -20,7 +20,7 @@
 - Eden is overpowered and wins; tension is path and price, not fake odds. Battles ~30% flex, 35% puzzle, 25% strained, 10% costly; 2-4 earned aura moments per arc. Main circle lives.
 - Ten gods sealed in mortal hosts; Eden carries two. 36 major twists, planted 10+ chapters ahead.
 - A light comic chapter every 5-8 chapters, never inside key emotional or tense scenes.
-- Every fight debuts a new trick (battle-craft.md); armor scene about every 10 ch in action arcs (armor.md).
+- Every fight debuts a new trick; armor scene ~every 10 ch; Eden's armor Aster (Liora's work) evolves; titans in war arcs.
 
 ## Three couples (one partner each; romance.md)
 - Eden and Lysette (aching slow-burn; motif: handkerchief): handkerchief (1), roof dance (26), rupture (140), middle names (198), forgetting (420-445), her confession (450), his and first kiss (500), proposal (600), wedding (695).

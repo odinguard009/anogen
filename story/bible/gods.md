@@ -5,7 +5,7 @@ Before worlds, ten Sovereigns stood in a covenant called the Sepiroth: a tree of
 
 ## The Ten (domain; what they made; where body and will are now)
 1. **Ormath, the Emperor of Void.** Ending. Made the Void, the boundary that lets things finish. Body: the Void and the Throne of Nothing. Will: never bound; gave itself to unborn Eden (PR 93).
-2. **Seraiel, the Sepiroth Dragon.** Keeping. Made memory, Heaven Gate and the Vault; Valkyries are its knights. Will: bound to the Vault's gate, which passes down the Valkyrie gatekeepers; now Eden's Sepiroth Gate.
+2. **Seraiel, the Sepiroth Dragon.** Keeping. Made memory, Heaven Gate and the Vault; Valkyries are its knights. Will: bound to the Vault's gate, which passes down the Valkyrie gatekeepers; Liora held it, then Eden (at her death).
 3. **Myrrhen, the Wellmother.** Flow. Made life-current. Dissolved her body into Elysmar as mana so mortals could make (Tenets). The Refusal is her body's instinct. Will: bound in a mortal line (now Clara Belmont).
 4. **Kaelthos, the Forgefather.** Form. Made matter and bodies. Body: Halveren's Crownspine. Will: Han Shuzhen of Qianlu.
 5. **Vehra, the Weaver.** Order. Made law, time, fate-threads. Designed the Binding. Fears mortals who can rewrite laws (the Sovereign Tier). Will: Empress Dragomira of Volkhovar; jumps to Valerius (ch 545).

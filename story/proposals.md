@@ -72,6 +72,35 @@ Semua sudah dipakai di story pack. Jawab "setuju semua" atau sebut nomor yang ma
     - Showpiece armor bertepatan dengan momen aura: ch 199 Dawnglass dan Argent Raiment sang Duke, ch 400 Nullcrown, ch 446 Lysette dalam Wingwake, ch 560 Sepiroth's Scale.
     - Rekomendasi: setuju.
 
+## C3. Liora, sang Duke, dan titan (baru)
+16. **Liora** (bible/liora.md): host Naga sebelum Eden, sekaligus pandai besi terhebat sepanjang masa. Sistem tempanya bernama Keepforging: setiap lipatan logam menyimpan "Keep", yaitu potongan suaranya. Tanda khasnya:
+    - bulu kecil di dalam sarung tangan kiri
+    - empat not lagu nina bobo
+    - urat perak di setiap pelat
+    
+    Karya-karyanya:
+    - Aster: armor Eden
+    - Vowsilver: armor sang Duke
+    - Patience dan Kingsrest: pedang dan zirah raja
+    - Wingwake: armor Valkyrie miliknya sendiri
+    - Candor: ditempa ulang olehnya
+    - Glasshouse Forge: tempa rahasia, berisi pedang "Last Light" yang belum selesai dan dua cincin berlabel "Not yet"
+17. **Armor Eden, "Aster":** armor hitam Black Order ternyata karya ibunya yang tersegel (terungkap ch 175).
+    - 5 tahap evolusi: ch 175, 199, 400, 446, dan 590. Tiap tahap terkait pemulihan emosi Eden serta terbukanya Emperor dan Naga.
+    - Armor ini tidak berdentang (tanpa Seven Tolls). Harganya: setiap pemakaian besar menghabiskan satu Keep, satu pesan ibunya, untuk selamanya.
+    - Pesan terakhir diputar di ch 645, lewat Aster dan Vowsilver bersamaan.
+18. **Showpiece sang Duke:** ch 193-194, saat kudeta. Ia datang memakai sandal sambil makan roti, lalu berkata "Sentence. All of you. Before the ninth bell." Enam puluh ksatria dan tiga Crown tumbang tanpa satu pun yang mati.
+19. **Kebiasaan rahasia sang Duke:** sehabis bertempur, ia menangis sendirian di dalam Vowsilver sambil mendengarkan Keep istrinya. Ia menghematnya, hanya diputar di malam-malam terberat.
+    - Beat: ch 30, ch 164 (Bertram: "Condensation."), ch 200.
+    - Pelepasan besar di ch 251: Duke memakaikan helmnya ke kepala Eden, lalu terdengar suara Liora: "Aldous, you fool. Come home and eat something." Eden tertawa sekaligus menangis.
+    - Payoff di ch 645-646.
+20. **Kelas ukuran monster** (bible/titans.md): Veil, Husk, Ravager, Wallbreaker, Colossus (100-200 m), Titan (300 m ke atas, 6 bernama), dan skala Sovereign (tubuh Kaurveth).
+    - Pertempuran titan: Thrennos ch 244-249, Grey Shepherd 284-287, Ossuary Reef 384-388, Ubrak 489-494, Lament 594-598, Hollow Gate 632-636.
+    - Prinsipnya: makin besar bayangan, makin besar pintu.
+    - Konstruksi raksasa: Thousandfold Knight (seribu prajurit legion yang menyatu jadi satu ksatria raksasa) dan Stonewarden milik Han.
+    - Politik titan: perebutan komando lewat Titan Accord, dan perdagangan bangkai titan.
+21. **Argent Raiment dihapus**, diganti Vowsilver (karya Liora). Dawnglass sekarang dipinjamkan ke Lysette di ch 507.
+
 ## D. Pertanyaan
 1. Valerius menjadi host Vehra (dewa antagonis) mulai ch 545, tapi akhirnya menguasainya. Terlalu berat untuk sang pangeran? Rekomendasi: pertahankan; ini memberi rival yang benar-benar setara.
 2. Lysette sebagai host Aurelune: oke, atau biarkan ia manusia biasa? Rekomendasi: oke, tapi baru terungkap di ch 580.

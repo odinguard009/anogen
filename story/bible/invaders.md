@@ -14,7 +14,7 @@
 ## Spread
 Through mana veins in rock, like frost through cracks. Fast on land, very slow over deep ocean. Land bridges and straits are where wars are fought.
 
-## Hierarchy
+## Hierarchy (size classes and named titans: titans.md)
 - Husks: dog-to-horse sized, grey, many-jointed, eyeless swarmers.
 - Stalkers: tall, thin ambushers that lie flat as a shadow on stone.
 - Choirs: bloated nodes that "sing" silence over a battlefield, killing voice commands and spell chants. Kill the Choir and sound returns in a rush.

@@ -31,6 +31,7 @@ At age 10 Liora's Valkyrie art Keeping sealed his Gate, his Door and his memory 
 Nine legions of one million knight-tier soldiers in dull black plate, a white thread where a face should be. They marched in PR 93 and the world never forgot. First Legion unlocked (he has never woken more than 40; first mass waking of 10,000 at ch 248). Second stirs ch 145, usable ch 200; Third-Fifth ch 290 (public reveal of the Void Host); Sixth-Ninth ch 560. Eden gives up the Door and the legions at the end (ch 645).
 
 ## Sepiroth Gate (theme: "nothing made is ever lost")
+- Liora was Seraiel's host and the Vault's gatekeeper before him; Eden had partial access by blood, full at her death (liora.md). Relics trust him because she mended them.
 - The Sepiroth Vault at Heaven Gate holds every holy weapon and treasure ever made on Elysmar; all were pulled in on the Night the Relics Vanished (PR 0).
 - To call a relic, Eden must have met it in the dream Vault and learned its name. Relics have wills. The Dragon opens the gate.
 - Lending: to a person whose middle name he knows, if the relic consents. Ends when he lets go or the borrower betrays the relic's ideal (it returns and burns them). Each loan is a steady drain.
@@ -48,3 +49,4 @@ The Emperor's last echo: a tall man with his face always turned away, at a board
 - The Knock: one knock on the door-shield's iron ring switches lance and shield; three knocks and a name open the Gate for a Raiment (holy armor from the Vault). Borrowers answer the third knock with their own middle name.
 - The Faceless Mantle (Black Order armor) is drawn from his own shadow: no Tolls, costs Frost.
 - Raiments toll; the seventh Toll Keeps a wearer forever. Eden cannot be Kept (Void); at his seventh the Emperor's essence surfaces instead.
+- Eden's own armor is Aster, Liora's masterwork, sealed black until ch 175; it evolves in stages and spends her Keeps (armor.md, liora.md).

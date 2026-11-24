@@ -19,4 +19,5 @@
 36. Myrrhen accepts Eden as her child; he can live without the Void's wrap | plants: 1 (grass greener where he sleeps), 498, 600 | he must stay wrapped forever | ch 645
 
 Smaller twists (plant >= 10 ch ahead): the Ferryman was Ostwald's favourite student (plant 140, reveal 268); Brandmeier is the king's informant at Hallowcrest (plant 70, reveal 152); Theodora was Seraphine's tutor (reveal 318); Han's stone arm was taken by Kaelthos to stop a landslide on refugees (reveal 430).
+Liora's rings in the Glasshouse Forge, labelled "Not yet" (plant 176), are the proposal rings (600).
 Romance-linked small twists: Ishani's naps were always fake, she cannot sleep (plant 115, 124; reveal 505); the tidy dream-garden she built in Valerius's head as a prank (115) is the fortress she defends against Vehra (550); the sweet bun Felix gave Seraphine (60) came from the Argentine kitchen, Greta's matchmaking (reveal 662).

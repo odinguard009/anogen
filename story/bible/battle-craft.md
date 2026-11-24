@@ -67,6 +67,16 @@
 49. Giving the god of Want what he wants, instead of taking (640)
 50. Leftover Husks swept by one door the size of the festival (667)
 
+## Giant-scale tricks (titans.md)
+51. A Wallbreaker's own shadow used to drop it into its tunnel (223)
+52. Doors under Thrennos's bell open onto deep water so it sinks into its own silence (247)
+53. A whole regiment moved onto the Grey Shepherd's back through its shadow (285)
+54. Threshold swallows a titan's silence-breath and returns it to its Choirs (287)
+55. Relic bolts lent to a veinspear battery; crews answer the knock with their names (386)
+56. The Thousandfold Knight wrestles Ubrak while Han raises a valley wall behind it (490)
+57. Rowan's sun throws Ubrak's shadow across the sky; Eden opens a door in a cloud (493)
+58. Lysette's Seedtime grows a beginning inside Lament's song: one child's voice that it cannot erase (597)
+
 ## Set-piece geometry (vary every arc)
 - Arc 1: market chase, maze, ballroom with glass roof, battlement in silence, night camp.
 - Arc 2: tourney arena, burning warehouse, rooftops, parade street.

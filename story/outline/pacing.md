@@ -10,7 +10,7 @@ Ch 7: comic (warrant vs roof permit; Ashen card; gray-coat watcher)
 Ch 8: tense (workshop fight in moon lattice; forged signature; Strent and the lullaby)
 Ch 9: calm build, sharp spike (Wick Street siege), quiet debrief
 Ch 10: emotional (Lysette POV; clean file, chalk duel, letter, handkerchief)
-Ch 11: tense
+Ch 11: tense (graded maze run, dust-hounds, tannin-thumb Ember watches Rowan)
 Ch 12: emotional
 Ch 13: tense
 Ch 14: comic

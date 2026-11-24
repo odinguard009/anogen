@@ -7,21 +7,20 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [open] Ledger: Rowan circled, "Before the last dance" | planted: ch 3 | due: ch 18-24
 - [open] Bell: three tones, a faint fourth | planted: ch 3 | due: ch 420-425
 - [open] Locket (Corentin); Eden looks away | planted: ch 4 | due: ch 36-38
-- [open] Core dust; forged Daubert signature (blotter) | planted: ch 5-8 | due: ch 95
-- [open] Okoru saw the shield-hold once before | planted: ch 6 | due: ch 60-66
+- [open] Core dust; forged Daubert signature | planted: ch 5-8 | due: ch 95
+- [open] Okoru saw the shield-hold before; ch 11 "not by feel" | planted: ch 6, 11 | due: ch 60-66
 - [open] Rowan's light matches Lirenne fresco | planted: ch 6 | due: ch 105-110
 - [open] Lilies revive near Clara | planted: ch 6, 43 | due: ch 478-480
 - [open] Ashen card "Remember Thornmere" (bookmark) | planted: ch 7 | due: ch 24
-- [open] Gray-coat man notes Eden | planted: ch 7 | due: ch 11-24
+- [open] Gray-coat Ember (tannin thumb) watches Rowan | planted: ch 7, 11 | due: ch 15-24
 - [open] Strent: no lamps, Liora's lullaby, "your mother sang" | planted: ch 8 | due: ch 50, 185
 - [open] Seal seeks hooded door-shield; Beatrix: thank him | planted: ch 9-10 | due: ch 13-24, 72
 - [open] Ysolde's gray-sealed envelope | planted: ch 9 | due: ch 153-156
-- [open] Seraphine "save me again?"; joke count | planted: ch 10 | due: ch 143-147
+- [open] Seraphine "save me again?" | planted: ch 10 | due: ch 143-147
 - [open] Felix's middle name; two lunches | planted: ch 12 | due: ch 47; 106-108
 - [open] Witness: door-shaped shadow | planted: ch 13 | due: ch 138-142
 - [open] Dragon: "I promised" | planted: ch 15 | due: ch 420-425
 - [open] Verdict makes ruling physical | planted: ch 16 | due: ch 540-545
-- [open] Concord map: front bends | planted: ch 20 | due: ch 280-285
 - [open] Ember's gray veins | planted: ch 22 | due: ch 90-95
 - [open] Feather inside Eden's left gauntlet | planted: ch 23 | due: ch 172-176
 - [open] Ilsabet spared; Merrow tapestry | planted: ch 25 | due: ch 145-150, 270-300

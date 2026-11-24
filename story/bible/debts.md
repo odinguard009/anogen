@@ -14,8 +14,8 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [open] Ashen card "Remember Thornmere" (bookmark) | planted: ch 7 | due: ch 24
 - [open] Gray-coat man notes Eden | planted: ch 7 | due: ch 11-24
 - [open] Strent: no lamps, Liora's lullaby, "your mother sang" | planted: ch 8 | due: ch 50, 185
-- [open] Two broken wardens reracked | planted: ch 8 | due: ch 9-12
-- [open] Ysolde's sealed envelope | planted: ch 9 | due: ch 153-156
+- [open] Seal seeks hooded door-shield | planted: ch 9 | due: ch 13-24
+- [open] Ysolde's gray-sealed envelope | planted: ch 9 | due: ch 153-156
 - [open] Seraphine "save me again?"; joke count | planted: ch 10 | due: ch 143-147
 - [open] Felix's middle name; two lunches | planted: ch 12 | due: ch 47; 106-108
 - [open] Witness: door-shaped shadow | planted: ch 13 | due: ch 138-142
@@ -32,7 +32,7 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [open] Titan shape | planted: ch 34 | due: ch 244
 - [open] Seraphine takes post beside Eden | planted: ch 35 | due: ch 145
 - [open] Rowan: why does Lysette hate me | planted: ch 39 | due: ch 128-132
-- [open] Groundskeeper Veil as false mastermind | planted: ch 45 | due: ch 185
+- [open] Groundskeeper Veil decoy | planted: ch 45 | due: ch 185
 - [open] Feather in Wardenshell; Strent first | planted: ch 47-48 | due: ch 175; 99, 185
 - [open] Witness: light where Eden stood; "Liora's boy" | planted: ch 50 | due: ch 51-55, 140
 - [open] Okoru: "they never test the Teeth" | planted: ch 60 | due: ch 285

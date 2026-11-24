@@ -102,5 +102,18 @@
       "pacing_shape": "two spikes with a breather",
       "hook_type": "danger arrives"
     }
+  },
+  {
+    "chapter": 9,
+    "picks": {
+      "opening_type": "line of dialogue",
+      "scene_shape": "journey with one hard interruption",
+      "tension_type": "physical danger",
+      "emotional_tone": "pride that costs something",
+      "comic_device": "literal-minded reply",
+      "conflict_type": "siege or defence of a place",
+      "pacing_shape": "slow build to a sharp spike",
+      "hook_type": "a promise or threat"
+    }
   }
 ]

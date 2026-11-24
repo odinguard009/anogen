@@ -14,7 +14,7 @@ Ch 11: tense (graded maze run, dust-hounds, tannin-thumb Ember watches Rowan)
 Ch 12: emotional (Felix asks why; Perrin; Lysette's two lunches)
 Ch 13: tense (Veil lamplighter kill; Witness replay of the door; Rochefort; plate)
 Ch 14: comic (single scene; roof stakeout; warrant buried in the herb bed)
-Ch 15: calm
+Ch 15: calm (tail; Candlewick bakery; truce; Dragon "I promised someone")
 Ch 16: tense
 Ch 17: tense
 Ch 18: calm

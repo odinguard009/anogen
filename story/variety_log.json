@@ -180,5 +180,18 @@
       "pacing_shape": "single long scene",
       "hook_type": "an action shown with no explanation"
     }
+  },
+  {
+    "chapter": 15,
+    "picks": {
+      "opening_type": "line of dialogue",
+      "scene_shape": "slow reveal in a single location",
+      "tension_type": "unknown rules of a situation",
+      "emotional_tone": "relief with a catch",
+      "comic_device": "the straight man loses his composure once",
+      "conflict_type": "trial or exam with rules",
+      "pacing_shape": "fast start, slows into consequence",
+      "hook_type": "unexpected arrival"
+    }
   }
 ]

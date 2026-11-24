@@ -93,8 +93,9 @@ def main():
         rng = random.Random(7)
         names = ["Alvar", "Brenna"]
         for n in range(1, 4):
+            epi = "> \"A fine quote.\" - Somebody\n\n" if n == 1 else ""
             write(root / f"chapters/chapter-{n:03d}.md",
-                  f"# Chapter {n} Title\n\n" + filler(rng, 2000, names) + "\n")
+                  f"# Chapter {n} Title\n\n" + epi + filler(rng, 2000, names) + "\n")
 
         # variety
         c, o1 = run(root, "variety.py", "draw", "--chapter", "4")
@@ -178,6 +179,7 @@ def main():
                 nm = z.namelist()
                 check("epub mimetype first and stored", nm[0] == "mimetype" and z.getinfo("mimetype").compress_type == 0)
                 check("epub has 6 chapters", sum(1 for n in nm if n.startswith("OEBPS/c") and n.endswith(".xhtml")) == 6, str(nm))
+                check("epub epigraph", b'class="epigraph"' in z.read("OEBPS/c001.xhtml") and b"A fine quote" in z.read("OEBPS/c001.xhtml"))
                 check("epub scene break", b'class="brk"' in z.read("OEBPS/c001.xhtml"))
         # gap handling and resume
         os_unlink = (root / "chapters/chapter-003.md")

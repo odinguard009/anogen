@@ -46,6 +46,14 @@ def pacing_lines(n):
     return out
 
 
+def epigraph_for(n):
+    for line in read(STORY / "outline" / "epigraphs.md").splitlines():
+        m = re.match(r"^\s*(?:[-*]\s*)?Ch\.?\s*(\d+)\s*\|\s*(.+)$", line)
+        if m and int(m.group(1)) == n:
+            return m.group(2).strip()
+    return ""
+
+
 def last_summaries(n, k=3):
     txt = read(STORY / "bible" / "summaries.md")
     items = re.split(r"(?m)^(?=#{1,3}\s*Ch\.?\s*\d+|\-\s*Ch\.?\s*\d+)", txt)
@@ -80,6 +88,9 @@ def build(chapter=None, extra=(), peek=False):
     add("Idea inbox", "\n".join(f"- {i}" for i in __import__('inbox').unprocessed_ideas()), 3000)
     add("Style profile", read(STORY / "style" / "profile.md"), 6500)
     add("Banned phrases", read(STORY / "style" / "banned.md"), 1500)
+    ep = epigraph_for(n)
+    if ep:
+        add("Epigraph for this chapter (put it right under the title as a '> ' blockquote, one or two lines)", ep, 500)
     add("Series arc", read(STORY / "outline" / "series.md"), 3000)
     ol = outline_lines(n)
     add("Outline for this and next chapters", "\n".join(ol) if ol else "NO OUTLINE for this chapter: Development Editor must plan the arc first.", 2500)

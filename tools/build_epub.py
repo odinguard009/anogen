@@ -23,6 +23,8 @@ h1{text-align:center;margin:1.5em 0 1em;font-size:1.4em}
 p{margin:0 0 .7em;text-indent:0}
 p.brk{text-align:center;margin:1.2em 0}
 h2{text-align:center;font-size:1.1em}
+blockquote.epigraph{margin:0 12% 1.6em;font-style:italic;text-align:center}
+blockquote.epigraph p{margin:0 0 .3em}
 .title{text-align:center;margin-top:30%}
 """
 
@@ -63,7 +65,16 @@ def md_to_xhtml(md, fallback_title):
                 body.append(h)
             buf.clear()
 
+    quote = []
     for ln in lines[i:]:
+        if ln.lstrip().startswith(">"):
+            flush()
+            quote.append(ln.lstrip()[1:].strip())
+            continue
+        if quote:
+            body.append('<blockquote class="epigraph">' + "".join(
+                "<p>" + inline(q) + "</p>" for q in quote if q) + "</blockquote>")
+            quote = []
         if BREAK.match(ln):
             flush()
             body.append('<p class="brk">* * *</p>')
@@ -71,6 +82,9 @@ def md_to_xhtml(md, fallback_title):
             flush()
         else:
             buf.append(ln)
+    if quote:
+        body.append('<blockquote class="epigraph">' + "".join(
+            "<p>" + inline(q) + "</p>" for q in quote if q) + "</blockquote>")
     flush()
     xhtml = ('<?xml version="1.0" encoding="utf-8"?>\n'
              '<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="en">'

@@ -96,7 +96,8 @@ def body_text(text):
 
 def clean_body(text):
     """Body without scene-break lines and emphasis marks (for counting and analysis)."""
-    kept = [ln for ln in body_text(text).splitlines() if not _BREAK_RE.match(ln)]
+    kept = [ln for ln in body_text(text).splitlines()
+            if not _BREAK_RE.match(ln) and not ln.lstrip().startswith(">")]
     return "\n".join(kept).replace("*", "")
 
 

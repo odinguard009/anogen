@@ -1,4 +1,4 @@
-# Series roadmap: 17 arcs, ~850 ch (max 1000; arcs adjustable). Detail: bible/ (arcs-1/2/3/4 first)
+# Series roadmap: 17 arcs, ~850 ch (max 1000; arcs adjustable). Detail: bible/arcs-1,1b,2,3,4
 
 1. 1-50 The Rooftop (school, terror): can Eden stay unseen once someone insists on seeing him?
 2. 51-100 Lanterns and Ledgers (economic, court): who profits from the fear?
@@ -20,10 +20,11 @@
 
 ## Rules
 - Enemy type changes each arc. Eden is overpowered; tension is path and price. Battles ~30% flex, 35% puzzle, 25% strained, 10% costly; 2-4 earned aura moments per arc. Main circle lives.
-- Every fight debuts a new trick; calm minimal style grows into team command; armor scene ~every 10 ch; Aster evolves; titans in war arcs.
-- Ten gods in mortal hosts; Eden carries Melchsee and Sepiroth. 39 major twists, planted 10+ ch ahead.
-- A light comic chapter every 5-8 chapters, never inside key emotional or tense scenes.
-- Politics: stakes, clock, rule, traps (intrigue-craft.md). Human reactions; no slap-face loops.
+- Every fight debuts a new trick; calm style grows into team command; armor ~every 10 ch; titans in war arcs.
+- Ten gods in mortal hosts; Eden carries Melchsee and Sepiroth. 39 twists, planted 10+ ch ahead.
+- A light comic chapter every 5-8 ch, never inside key emotional or tense scenes.
+- Politics: stakes, clock, rule, traps. Human reactions; no slap-face loops.
+- Every arc ends with a Resolution and a Hook; threads fed every <=40 ch (threads.md).
 
 ## Three couples (romance.md)
 - Eden and Lysette (aching slow-burn; handkerchief): roof dance (26), rupture (140), names (198), forgetting (420-445), confessions (450, 500), proposal (600), wedding (845).
@@ -32,4 +33,4 @@
 - Support: Rowan and Clara.
 
 ## Ending
-Ending, Keeping and Beginning (Eden and Lysette) close the Wound; Kaurveth ends through Kell; Valerius binds Vehra; Melchsee finishes. Eden gives up the Door, keeps the Gate: a man who is seen, the Pale greening, names spoken.
+Ending, Keeping and Beginning (Eden and Lysette) close the Wound; Kaurveth ends through Kell; Valerius binds Vehra; Melchsee finishes. Eden gives up the Door, keeps the Gate: a man who is seen; the Pale greens.

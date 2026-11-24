@@ -28,3 +28,5 @@ Plants in the current window (ch 1-60). Later twists: twists-1.md, twists-2.md.
 - [open] Lysette's scarf on Eden all winter; a titan silhouette on the horizon | planted: ch 33-34 | due: ch 244, 600
 - [open] Rowan asks why Lysette hates him | planted: ch 40 | due: ch 128-132
 - [open] Felix sees a feather mark inside Wardenshell | planted: ch 47 | due: ch 175
+- [open] Seraphine takes the Wall post beside Eden's | planted: ch 35 | due: ch 145
+- [open] Okoru: "they never test the Teeth hard" | planted: ch 60 | due: ch 285

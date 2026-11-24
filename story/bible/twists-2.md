@@ -1,4 +1,4 @@
-# Twist ladder, part 2 (ch 301-800 reveals). Format: twist | plants | misdirection | revealed
+# Twist ladder, part 2 (extra feeds: threads.md) (ch 301-800 reveals). Format: twist | plants | misdirection | revealed
 
 20. Eden is not the Emperor reborn: the Emperor gave his whole essence to keep him alive and is ending inside him | plants: 2 (Tutor never says "you are me"), 111, 230, 300 | readers and Nihl assume reincarnation | ch 340
 21. The Tutor's only wish is for Eden to live as Eden | plants: 30 (flinch at "regret"), 220, 333 | Nihl claims the Tutor will take the body | ch 400

@@ -17,7 +17,8 @@ Goals: series arc, arc outlines, twists with early foreshadowing, romance beats,
 6. story/bible/debts.md: `- [open] <promise or planted clue> | planted: ch X | due: ch Y-Z`.
 7. Register the arc: `python3 tools/engine_state.py arc-plan K --start S --end E --name "..." --max M`.
 8. Inbox: for each idea decide where it fits (new beat, twist, foreshadow, character). Never overwrite canon: conflicts go to story/proposals.md. Then `python3 tools/inbox.py done all --note "arc K ch N"`.
-9. `python3 tools/save.py "plan: arc K"`.
+9. Every arc plan must state its Resolution (central question answered, problem resolved, emotional payoff) and its Hook into the next arc, and update story/bible/threads.md so no major thread goes more than ~40 chapters without a feed (dangle policy there).
+10. `python3 tools/save.py "plan: arc K"`.
 
 ## Content limits
 No sexual content, no ecchi, no harem. Pure slow-burn romance.

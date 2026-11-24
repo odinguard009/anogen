@@ -10,6 +10,8 @@ Armor: Aster Garden stage first full war use 605; Redwall and Verdict hold the T
 Romance: Eden and Lysette, engaged, keep missing each other across fronts: letters, and one stolen hour on a griffon at 633 (smile). Felix sends Seraphine a bun by griffon (comedy, 626). Ishani keeps Valerius awake in his dreams so Vehra cannot speak (640).
 Light chapters: 604 (retainers argue over who gets which front), 611, 622 (Gorrath adopts a war orphan's kitten), 637, 648.
 Win (646-650): every front holds because each retainer and host was placed by Eden's plan weeks before. Cost: Sefa's link burns his maps (he loses his memory of the Void's roads); the world now knows each retainer by name.
+Resolution: three titans fall, every front holds, the retainers become public heroes.
+Hook: Belozerov seizes Volkhovar with the Ledger of Souls.
 
 ## Arc 14 The Ledger of Souls (651-700) political-divine thriller.
 Q: who owns a person: a ledger, a god, or themselves? After Dragomira's death, spymaster Belozerov seizes Volkhovar with the Ledger of Souls: Vehra's threads still run through every name written in it, and with them he can puppet soldiers. Kell, host of Want, is courted by Kaurveth's whisper and by Belozerov's money.
@@ -20,6 +22,8 @@ Armor: Frostplate turned against them 662; Dawnglass loaned to Lysette again to 
 Romance: Valerius tells Ishani that if Vehra takes him she must leave; she refuses with a drawing (672, ache then smile). Eden and Lysette set a wedding date and argue about the roof garden's capacity (comedy, 666). Felix and Seraphine fight their first real argument and make up over soup (681).
 Light chapters: 653, 661 (the Argentine household "invades" the capital to help plan weddings), 666, 679, 688, 697.
 Win: names are spoken back to their owners. Cost: Valerius is scarred by Vehra; Volkhovar has no ruler (Seraphine helps it choose a regency council).
+Resolution: the Ledger burned, names returned, Kell turns back, Volkhovar chooses a regency council.
+Hook: to close the Wound from both sides Eden must walk the Void Road to the Throne of Nothing.
 
 ## Arc 15 The Void Road (701-750) divine journey, the retainers' arc.
 Q: what was the Emperor's court before it slept in a boy? To close the Wound from both sides, Eden must reach the Throne of Nothing through the Void. Only the Ten know the road.
@@ -30,3 +34,5 @@ Armor: Nullcrown and Aster merge further 721; Wingwake in the Void (Lysette flie
 Romance: in the Void Eden admits he is afraid he will become the Emperor; Lysette says she will drag him back by the collar, as always (726, smile). Valerius and Ishani dance in a dream at the edge of the Void (737). Felix stays behind to guard the gate and writes Seraphine a list of things he likes about her (number 41 is "the jokes") (733).
 Light chapters: 703 (packing for the Void), 712 (Vesk's tour of the Void's gossip), 724, 738, 746.
 Win: the road is open and the Throne is in reach. Cost: Gorrath left asleep (returns 790); Sefa's lost roads.
+Resolution: the road is open, the Ten swear to Eden, Sepiroth and the Tutor make peace.
+Hook: the Throne is in sight, Kaurveth's body wakes, and Gorrath is left asleep on the road.

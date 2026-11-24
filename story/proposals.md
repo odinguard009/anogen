@@ -142,6 +142,18 @@ Semua sudah dipakai di story pack. Jawab "setuju semua" atau sebut nomor yang ma
     - Reaksi pada momen aura sudah saya revisi supaya lebih manusiawi. Contoh: deklarasi Eden di ch 160 membuat seorang master tetap duduk karena merasa dibohongi, dan ibu Lysette keluar ruangan. Akademi tidak terkejut serempak di ch 163; yang ada seminggu canggung dan beberapa teman marah.
     - Aturan ini juga dimasukkan ke style/profile.md dan roles/lead-writer.md.
 
+## C6. Struktur arc dan kebijakan "dangle" (baru)
+27. **Setiap arc kini punya baris Resolution dan Hook.**
+    - Resolution: pertanyaan arc terjawab, masalahnya selesai, dan ada payoff emosional.
+    - Hook: pembuka rasa penasaran untuk arc berikutnya. Contoh: arc 1 ditutup dengan "The Tailor sends regards to Liora's boy", arc 12 dengan Wound yang retak dan titan-titan yang bergerak ke utara.
+    - arcs-1.md saya pecah menjadi arcs-1 (arc 1-4) dan arcs-1b (arc 5-7) agar tetap di bawah batas ukuran.
+28. **Kebijakan dangle** (bible/threads.md):
+    - Setiap thread besar mendapat petunjuk atau perkembangan paling lama tiap 40 bab, dan jawaban parsial dalam sekitar 30-40 bab sejak dimunculkan.
+    - Cliffhanger di tengah arc selesai dalam 3 bab. Hook di akhir arc harus selesai atau berkembang dalam 5 bab pertama arc berikutnya.
+    - Ada buku besar berisi 34 thread: kapan dimunculkan, di bab mana diberi petunjuk, dan di mana dibayar.
+    - Celah yang terlalu panjang sudah diisi mini-reveal, misalnya kartu "Remember Lirenne" untuk Rowan (ch 70), Ysolde membakar draf perintah eksekusi (ch 70), dan rumor tavern soal Void Host (ch 66).
+    - Aturan ini juga ditambahkan ke roles/development-editor.md dan roles/canon-keeper.md.
+
 ## D. Pertanyaan
 1. Valerius menjadi host Vehra (dewa antagonis) mulai ch 545, tapi akhirnya menguasainya. Terlalu berat untuk sang pangeran? Rekomendasi: pertahankan; ini memberi rival yang benar-benar setara.
 2. Lysette sebagai host Aurelune: oke, atau biarkan ia manusia biasa? Rekomendasi: oke, tapi baru terungkap di ch 580.

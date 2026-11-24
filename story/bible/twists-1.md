@@ -1,4 +1,4 @@
-# Twist ladder, part 1 (ch 1-300 reveals). Format: twist | plants | misdirection | revealed
+# Twist ladder, part 1 (ch 1-300 reveals). Extra feeds and dangle checks: threads.md. Format: twist | plants | misdirection | revealed
 
 1. Corentin Hollen was a Veil, and Eden killed it | plants: 4 (locket, Eden looks away), 13 (door-shadow at a kill site), 22 (Eden knows Veil dust smell), 36 | reader assumes the Black Order kills innocents for the crown | reader ch 38; Lysette ch 140
 2. The Tailor knows Eden is "Liora's boy" | plants: 3 ("bottom of the world"), 8 (lullaby), 30 | Ashen Crowns seem purely political | ch 50

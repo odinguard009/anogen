@@ -16,7 +16,7 @@ I came down off the wall with my lance already folded in my left hand. He turned
 
 Then he swung the pole.
 
-The cup was full of lit oil. He'd been saving one flame. I took it on the shield, and it burst across the door in a wet gold sheet. It ran down the grain, over the edge, and onto my left hand where it held the ring. It got inside the glove.
+The cup was full of lit oil. He'd been saving one flame. I snapped the lance shut into the door-shield and took it there. The oil burst across the wood in a wet gold sheet. It ran down the grain, over the edge, and onto my left hand where it held the ring. It got inside the glove.
 
 I don't remember deciding to open the door at his feet. I remember the glove sticking to my skin, and the smell. Then a long gray many-jointed thing in a lamplighter's apron sank through the step like the stone was water. It went in up to the waist, with Lothar Pell's face still on the front of it.
 
@@ -36,7 +36,7 @@ Then I went up to the roof and was sick, quietly. Afterward I slept.
 
 She said it to the whole refectory queue. Then she said it to the bursar's clerk. Then, with her hands twisting in her sleeves, she said it to the first Discipline Committee officer who came running. That was Lysette, baton in hand, with her hair coming down on the left.
 
-The girl's name was Mathilde Lindqvelle. She'd come down the Stair for early chapel and stepped in something. She'd screamed a very great scream and hadn't stopped for an hour.
+The girl's name was Mathilde Lindqvelle. She'd come down the Stair for early chapel and stepped in something. She'd screamed, and she hadn't really stopped for an hour.
 
 I know all this because Lysette caught me by the sleeve at the end of the queue. She put her other hand flat on my chest.
 
@@ -128,7 +128,7 @@ There was a very small silence.
 
 Okoru had come down the Stair from the top, his sleeve pinned across his chest, his jaw working on its root. He carried nothing. The juniors parted for him. He crouched by the edge of the dust, soldier-neat, put his one finger into it, and rubbed it against his thumb.
 
-"This was a Veil," he said. "I've shoveled a basin of this stuff off the Wall." He looked up at Rochefort. "The lamplighter's name was Pell. His wife's been looking for him since eleven last night. If I were you, I'd go tell her myself. Don't wait to count her in a ledger."
+"This was a Veil," he said. "I've shoveled a basin of this stuff off the Wall." He looked up at Rochefort. "The lamplighter's name was Pell. His wife's been looking for him since eleven last night. If I were you, I'd go tell her myself. Before she reads it in somebody's ledger."
 
 Rochefort didn't answer right away. For a man with a bag at his feet, he looked, for the first time, a little stuck.
 
@@ -142,7 +142,7 @@ She did it right there. She knelt on the cold step with a clean glass plate from
 
 Her breath was steady now, which it hadn't been at the wall. She kept her eyes on the work so completely that she might have been alone. Nobody said a word until she finished. Not the inspector, not Okoru, not Mathilde Lindqvelle, who was crying quietly in someone's coat.
 
-I stood there with a lamp in my hand. I watched someone do, with great care, a thing I'd never been able to do at all. It was extraordinarily good.
+I stood there with a lamp in my hand. I watched someone do, with great care, a thing I'd never been able to do at all. She was the best I'd ever seen.
 
 If anyone on this plateau was ever going to find me, it would be her.
 

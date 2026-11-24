@@ -42,7 +42,7 @@ He wanted to start with the arm. He turned up his sleeve and showed me where Cla
 
 "It was a guess."
 
-"I've been wrong in front of Okoru before. He's never looked at me like that on the way out." He flicked the seed at the cat. The cat ignored it. "I don't mind being wrong. What I'm turning over is being wrong, at your suggestion, and your suggestion beating my feet."
+"I've been wrong in front of Okoru before. He's never looked at me like that on the way out." He flicked the seed at the cat. The cat ignored it. "I don't mind being wrong. What bugs me is this. My feet said right. You said left. And you won."
 
 "Lucky, then."
 
@@ -90,7 +90,7 @@ The Tutor was far off and busy in the half-dream, and he didn't look round. He n
 
 I'd had a speech for this once. I was fourteen and new, with a list of rules written inside my wrist. Never be at the center of anything. Never be at the edge, either, because edges are where people look. Never let one person know three things about you.
 
-Everyone I'd ever let close, I'd used up. The King had Ysolde, and Ysolde had a locked cabinet. I had the Duke and Greta and Bertram, and a house I couldn't walk into without a letter, because every road to it ran past the one thing a Thornmere scholarship boy could never be seen to have, which was a family.
+Everyone I'd ever let close, I'd used up. The King had Ysolde, and Ysolde had a locked cabinet. I had the Duke and Greta and Bertram, and a house I couldn't even visit without a letter. A Thornmere scholarship boy isn't supposed to have a family. Every road to that house ran past that fact.
 
 The speech didn't cover a boy with a bun.
 
@@ -156,13 +156,13 @@ She stopped when she saw us. Felix lifted one hand off his knee, politely. I thi
 
 "Hollen."
 
-"A stable boy told me where you are. Eleven days I've tried to work out where you eat, and on the eleventh I thought of *asking.*" She held the two parcels out in front of her, very straight. Brown paper, string, a smell of onions. She held one out toward me without looking at me. She was looking at a spot six inches above the cat. "It's Committee efficiency. If I know you're fed, I don't have to count you. It saves a form."
+"A stable boy told me where you are. Eleven days I've tried to work out where you eat, and on the eleventh I thought of *asking.*" She had two parcels. Brown paper, string, a smell of onions. She held one out toward me without looking at me. She was looking at a spot six inches above the cat. "It's Committee efficiency. If I know you're fed, I don't have to count you. It saves a form."
 
 "Lysette—"
 
 "You're a flight risk," she said.
 
-She put the parcel on the sack beside me. She tucked the other under her arm. I realized it was hers. She'd brought her own too. She moved the clipboard to the other arm, which took longer than it should have.
+She put the parcel on the sack beside me and tucked the other under her arm. That one was hers. So she'd planned to eat lunch too, just not with us. She moved the clipboard to the other arm, which took longer than it should have.
 
 "There's a rota," she told the cat. "I've put you on it. Wherever you are."
 

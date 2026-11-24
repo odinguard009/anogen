@@ -20,9 +20,9 @@ I didn't open my eyes. I lay on my back in the thyme at the far end of the roof,
 
 I took that as encouragement and went on not opening my eyes.
 
-Nobody tells you a perfect record is this tiring. On day one I'd lain down at noon under a table in the library annex, with a sign on my chest that said *Studying*. Lysette walked in at twelve-oh-six with a Committee runner on each arm and a warrant. On day two the warrant became two warrants. On day three there was a wire across the gap in the boiler-room wall. I had to start taking notes. It's the only time in my life I've been grateful to a ledger. *Nap 3. Boiler room. Thirty-eight minutes. Undisturbed, apart from a bucket.* Signed *E. Wren*, and witnessed, for want of anyone else, by an apple tree.
+Nobody tells you a perfect record is this tiring. On day one I'd lain down at noon under a table in the library annex, with a sign on my chest that said *Studying*. Lysette walked in at twelve-oh-six with a Committee runner on each arm and a warrant. On day two the warrant became two warrants. On day three there was a wire across the gap in the boiler-room wall. I had to start taking notes. It's the only time in my life I've been grateful to a ledger. *Nap 3. Boiler room. Thirty-eight minutes. Undisturbed, apart from a bucket.* Signed *E. Wren*, and witnessed, for want of anyone else, by the bucket.
 
-Six in a row. If I got through this one, I'd be the first person in the history of the Royal Academy to train for sleeping. It's not on the Ladder. There's no pin for it.
+Six in a row. One more, and I'd hold the Royal Academy record for naps taken under Committee fire. It's not on the Ladder. There's no pin for it.
 
 I'd also bet Felix a month of carrying his Strategy book. I'd rather not go into that.
 
@@ -58,15 +58,15 @@ I shut my eyes.
 
 "She has seven officers on paper," said Felix. "One in practice. She's throwing that one at the whole plateau."
 
-I'd been over the week in my head, the way you go over a bad bridge. Felix's lunches, next to all that, were a mercy. I'd stopped asking what he told her. It had only occurred to me this morning that I'd also stopped asking why she'd never once asked him about the roof.
+I'd been over the week in my head, the way you go over a bad bridge. Felix's lunches were the only good part. I'd stopped asking what he told her. Only this morning had I noticed something else. She'd never once asked him about the roof.
 
 And in seven days, not one Committee runner had climbed the roof stair.
 
 I lay there and let that sit on me.
 
-It's a narrow stair, forty-one steps up the east side of the Old Observatory, behind a door with a rusty latch. The only people who've ever used it are a headmistress with a bad eye, a girl who cries, and me. The door had a notice on it. On day one I'd walked past and read it without reading it, the way you do. *CLOSED FOR REPAIR. Masonry. By order.* It was in a square, tidy hand. The ink was the color of dried blood, which is what the Committee's inkpots are filled with. It was the same ink and the same hand as warrants one through nine.
+It's a narrow stair, forty-one steps up the east side of the Old Observatory, behind a door with a rusty latch. The only people who've ever used it are a headmistress with a bad eye, a girl who cries, and me. The door had a notice on it. On day one I'd walked past and read it without reading it, the way you do. *CLOSED FOR REPAIR. Masonry. By order.* It was in a square, tidy hand. The ink was Committee ink, a red-brown like dried blood. It was the same ink and the same hand as warrants one through nine.
 
-I'd taken the notice for the bursar's. The bursar never repairs anything.
+I'd taken the notice for the bursar's. The bursar never repairs anything. He writes notes about repairing things, in pencil, and then loses the pencil.
 
 "Felix," I said.
 
@@ -108,7 +108,7 @@ I'd had the right line ready for a month. A little apology, half a joke. *I was 
 
 "You're in the rosemary," said Lysette.
 
-It wasn't what I expected. She said it very low, hardly voiced, down to the thyme. I'd been lying beside the rosemary all week. My left hand rested in the herb bed with one finger against a wooden plant label. It had been snapped in half and had a year of weather on it. Somebody had mended it with a twist of copper wire and a short stick. Three weeks ago, and nobody had asked me to.
+It wasn't what I expected. She said it very low, to the thyme. I'd thought I was lying in the thyme. Apparently I'd rolled. My left hand rested in the herb bed with one finger against a wooden plant label. It had been snapped in half and had a year of weather on it. Somebody had mended it with a twist of copper wire and a short stick. Three weeks ago, and nobody had asked me to.
 
 She was looking at the label, I thought. Then at my hand. I did not open my eyes.
 

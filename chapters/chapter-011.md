@@ -98,7 +98,7 @@ One tin tongue rang. Then they all did, and the noise came down the passage like
 
 "Back!" Felix had his bow off before the second bell. "Everybody back!"
 
-The Undercroft has one rule. No relics, Tenets are fine, and normal weapons are fine. Nobody told him to stop. He put an arrow through the first hound's front leg. It tripped over its own foot and slammed into the second. They piled up against the gutter, rattling, and sand poured out of one like stuffing from a split pillow.
+Okoru's rule was no relics. Tenets were fine, and so were plain weapons. Nobody told him to stop. He put an arrow through the first hound's front leg. It tripped over its own foot and slammed into the second. They piled up against the gutter, rattling, and sand poured out of one like stuffing from a split pillow.
 
 "Three left," said Clara, flat as a bench.
 
@@ -110,7 +110,7 @@ They split around the pile. Two went for Felix. One went for Rowan.
 
 He lit his hand.
 
-It was Spark, not Dawn, a small gold flare the size of a lantern thrown straight up into the cane faces. Whatever the hounds saw with, it wasn't built for gold. The first two froze with their tin tongues clacking and swung their heads side to side, like the passage had changed shape. The third ran into the wall chasing its own shadow.
+It was Spark, not Dawn. A small gold flare, the size of a lantern, went straight up into the cane faces. Whatever the hounds saw with, it wasn't built for gold. The first two froze with their tin tongues clacking and swung their heads side to side, like the passage had changed shape. The third ran into the wall chasing its own shadow.
 
 Rowan was grinning. Then he saw Felix's arm.
 

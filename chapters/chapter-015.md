@@ -2,7 +2,7 @@
 
 "You've passed that fishmonger twice," said Lysette.
 
-She said it from about four feet behind my left shoulder, in the voice she uses to read a rule aloud. I kept walking. A man was selling eels out of a barrel, and I kept walking past the eels. I thought, in order, that she'd been there since the funicular, that I hadn't seen her, that I'd spent four years learning not to be followed, and that the Discipline Committee had undone it in exactly nine minutes in Lantern Ward.
+She said it from about four feet behind my left shoulder, in the voice she uses to read a rule aloud. I kept walking. A man was selling eels out of a barrel, and I kept walking past the eels and did the sums. She'd been behind me since the funicular, and I hadn't seen her. Four years of learning not to be followed, and the Discipline Committee had undone it in nine minutes flat.
 
 "It's a good fishmonger," I said.
 
@@ -74,7 +74,7 @@ The bakery was long and narrow and hot, with a counter at the front. A huge old 
 
 I'd expected one of them. I hadn't expected all of them. The slates hit the benches like dropped plates. A small girl with a missing front tooth crossed the floor with her arms out and hit me at about the knee. A boy of seven had decided he was too old for that. He stood very straight by the table.
 
-"Good afternoon, Mister Wren," he said, in a tone of tremendous diplomacy.
+"Good afternoon, Mister Wren," he said, in his best grown-up voice.
 
 "Bodil," I said. "Halla. Idris. Not now."
 
@@ -94,9 +94,9 @@ Some silences stand up by themselves. I'd like to say I'd said it fondly, in a l
 
 "It's a very good plant," I said. "It's good for the finches."
 
-"Oh, it's *lovely* for the finches," said Halla, with enormous goodwill. "And it hurts."
+"Oh, it's *lovely* for the finches," said Halla, very kindly. "And it hurts."
 
-Lysette said nothing at all. She stood in the middle of the bakery in her hat, her pencil in the air, while ten children looked her over, openly and without malice. It was the way you'd look at a new kind of bird that had walked into the kitchen. Her ears went red. A grandmother at the back was shaking silently.
+Lysette said nothing at all. She stood in the middle of the bakery in her hat, her pencil in the air, while ten children looked her over, openly and without malice. It was the way you'd look at a new kind of bird that had walked into the kitchen. She went pink from the collar up. A grandmother at the back was shaking silently.
 
 Then a short, wide woman in a floury apron came around the end of the counter, wiping her hands, a ledger under one arm. She looked at me over her spectacles.
 
@@ -110,9 +110,9 @@ Then a short, wide woman in a floury apron came around the end of the counter, w
 
 "Hush, girl," said Mistress Brisa. "He talks about nothing else."
 
-That one went in. I watched it land. The pencil stopped. Lysette did something I'd seen her do once before, in the lowchapel. She stared at the wall very hard, as if a sentence might be written on it. Her mouth was tight, but not from annoyance.
+That one went in. I watched it land. The pencil stopped. Lysette did something I'd seen her do once before, in the lowchapel. She studied the oven door very hard, like it had asked her a question. Her mouth was tight, but not from annoyance.
 
-I paid. Four silver is nearly half my scholarship stipend, and I've never noticed it leave. It buys six loaves each morning for the benches, so none of the children come in hungry and none of the parents have to pretend not to notice. The other eight go on the hook outside, with the ribbon. That's the hook's whole rule. You take a loaf if you have none. You pay one forward if you can. Nobody asks which. The ribbon is so you can tell, from the end of the lane, whether it's worth the walk.
+I paid. Four silver is nearly half my scholarship stipend, and I've never once missed it. Six loaves go to the benches in the mornings, so none of the children come in hungry and none of the parents have to pretend not to notice. The other eight go on the hook outside, with the ribbon. That's the hook's whole rule. You take a loaf if you have none. You pay one forward if you can. Nobody asks which. The ribbon is so you can tell, from the end of the lane, whether it's worth the walk.
 
 "You don't eat any of it," said Lysette quietly.
 

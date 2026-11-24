@@ -11,7 +11,7 @@ Ch 8: tense (workshop fight in moon lattice; forged signature; Strent and the lu
 Ch 9: calm build, sharp spike (Wick Street siege), quiet debrief
 Ch 10: emotional (Lysette POV; clean file, chalk duel, letter, handkerchief)
 Ch 11: tense (graded maze run, dust-hounds, tannin-thumb Ember watches Rowan)
-Ch 12: emotional
+Ch 12: emotional (Felix asks why; Perrin; Lysette's two lunches)
 Ch 13: tense
 Ch 14: comic
 Ch 15: calm

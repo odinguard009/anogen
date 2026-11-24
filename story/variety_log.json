@@ -141,5 +141,18 @@
       "pacing_shape": "steady climb ending on a drop",
       "hook_type": "reversal of fortune"
     }
+  },
+  {
+    "chapter": 12,
+    "picks": {
+      "opening_type": "internal thought of the narrator",
+      "scene_shape": "cold open in action",
+      "tension_type": "moral dilemma",
+      "emotional_tone": "loneliness",
+      "comic_device": "a running gag, lightly touched",
+      "conflict_type": "losing fight with a costly exit",
+      "pacing_shape": "interrupted scene: cut away at the peak, return later",
+      "hook_type": "quiet line that changes the stakes"
+    }
   }
 ]

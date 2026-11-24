@@ -50,5 +50,18 @@
       "pacing_shape": "flat surface, tension underneath",
       "hook_type": "emotional gut-punch"
     }
+  },
+  {
+    "chapter": 5,
+    "picks": {
+      "opening_type": "action already in progress",
+      "scene_shape": "cold open in action",
+      "tension_type": "outmatched opponent",
+      "emotional_tone": "awkward tenderness",
+      "comic_device": "a running gag, lightly touched",
+      "conflict_type": "ambush",
+      "pacing_shape": "mosaic of short scenes",
+      "hook_type": "question left open"
+    }
   }
 ]

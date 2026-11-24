@@ -38,3 +38,4 @@
 ## Battles and aura
 - Mix across each arc roughly: 30% flex (he wins easily; let the reader enjoy it), 35% puzzle (terrain, rules, timing), 25% strained (god-hosts, elites: he must truly try), 10% costly (he wins, something real is lost). Tags per arc: bible/arcs-3.md.
 - Aura moments are rare (2-4 per arc), earned by earlier hiding, and always include reaction shots: who goes silent, who kneels, what a veteran's hands do. Never narrate the aura in adjectives alone.
+- Battle & armor: every fight shows at least one new, creative use of his power (bible/battle-craft.md); never default to "a bigger weapon". Armor-ups (bible/armor.md) take 3-6 lines: the knock, the sound, cold then warm, one unique detail; then weight, texture, changed movement; the Tolls felt, not counted; the cost lands afterward.

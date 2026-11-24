@@ -59,3 +59,19 @@ Aura: 655 first lecture: three hundred students go silent before he says a word,
 
 ## Romance per arc (full ladder: romance.md)
 1: handkerchief 1, scarf 33, sleeve 44 | Seraphine's joke count 10. 2: watering can 54, "Not nothing" 66, Rowan let go 90 | bun 60, "for the light" 88. 3: Ball echo 120, roof 133, rupture 140 | Ishani 115-124 | Felix laughs 147. 4: handkerchief back 175, names 198. 5: feather 205, letters 230 | Ishani's Wall drawing 230 | "Choices keep them" 236. 7: betrothal crisis 310-345 | tribunal bun 330 | "I'm not fine" 349. 8: Felix lost and found 382-397. 9: stranger 420-445, her confession 450. 10: his confession and kiss 500 | Felix's confession 466. 11: Ishani's secret 505-515, clauses 520. 12: Ishani in his dreams 545-585, she sleeps 600 | proposal 600 | engagement 560. 13: vow 648. 14: weddings 685, 690, 695.
+
+## Armor scenes and new tricks per arc (armor.md, battle-craft.md)
+1: Faceless Mantle mask 3, full 23; Ashmail of Kaldmark 25; Ward-plate drills 31; tricks 1-10.
+2: Lantern rigs 72; Mantle vs Golden Seal Ward-plate 72; Thornward Mail lent to Felix 98 (first Raiment loan, armor-up on a parade roof); tricks 11-18.
+3: Han's jade Throne-form 125; Mantle in the summit 131; tricks 19-23.
+4: Argent Raiment returns to the Duke 197 (showpiece with aura 199); Dawnglass Raiment 199 (Eden's first public Raiment); tricks 24-28.
+5: Greyborn Carapace 245; Redwall to Valerius 247; Hollowmane 248; armor rotations on the Wall every ~10 ch (210, 220, 233); tricks 29-34.
+6: Daybreak Hauberk to Rowan 270; mass Ward-plate plus relic loans 280; Eden hears his sixth Toll for the first time 298; tricks 35-37.
+7: Sunward Gilt 312; Mirrorlace to Seraphine 330; no armor in court 340 (by design); trick 38.
+8: Kirana's tide-cloak 356; Frostplate 370; Firstplate 390; Nullcrown Plate 400 (showpiece, aura); tricks 39-41.
+9: Kept Knights 428; Wingwake seen 425, worn by Lysette 446 on Selenwing; tricks 42-43.
+10: Raiments in thin air (Tolls come faster) 462; Rowan's Hauberk at noon 499; tricks 44-45.
+11: Throne-forms clash 510-530; Dawnglass in the dream war 507; tricks 46-47.
+12: Sepiroth's Scale 560 (showpiece, aura); armored cavalry on Hollowmane 590; trick 48.
+13: Nullcrown at the Throne 640; armor set down for the last time 645; trick 49.
+14: ceremonial Raiments at the weddings 685-695 (worn for one quiet minute, for joy); trick 50.

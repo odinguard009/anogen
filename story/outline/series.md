@@ -1,4 +1,4 @@
-# Series roadmap (14 arcs, ~700 ch). Detail: bible/arcs-1/2/3, twists-1/2, politics, gods, gods-hosts, romance, comedy, deaths
+# Series roadmap (14 arcs, ~700 ch). Detail: bible/arcs-1/2/3, twists, politics, gods(-hosts), romance, comedy, deaths, armor, battle-craft
 
 1. 1-50 The Rooftop (school, terror): can Eden stay unseen once someone insists on seeing him?
 2. 51-100 Lanterns and Ledgers (economic, court): who profits from the fear?
@@ -13,13 +13,14 @@
 11. 501-550 The Ten Thrones (gods, hosts): what if gods want the world unmade? Vehra enters Valerius (545).
 12. 551-600 The Pale (final campaign): can every nation march together once?
 13. 601-650 Eden (finale): what should end, be kept, and begin?
-14. 651-700 Names Spoken Openly (slice-of-life): what do people do with a world they kept? Three weddings.
+14. 651-700 Names Spoken Openly (slice-of-life): what do people do with a world they kept?
 
 ## Rules
-- Enemy type changes every arc; war arcs alternate with political, school, spy, divine.
+- Enemy type changes each arc; war arcs alternate with politics, school, spy, divine.
 - Eden is overpowered and wins; tension is path and price, not fake odds. Battles ~30% flex, 35% puzzle, 25% strained, 10% costly; 2-4 earned aura moments per arc. Main circle lives.
 - Ten gods sealed in mortal hosts; Eden carries two. 36 major twists, planted 10+ chapters ahead.
 - A light comic chapter every 5-8 chapters, never inside key emotional or tense scenes.
+- Every fight debuts a new trick (battle-craft.md); armor scene about every 10 ch in action arcs (armor.md).
 
 ## Three couples (one partner each; romance.md)
 - Eden and Lysette (aching slow-burn; motif: handkerchief): handkerchief (1), roof dance (26), rupture (140), middle names (198), forgetting (420-445), her confession (450), his and first kiss (500), proposal (600), wedding (695).
@@ -28,4 +29,4 @@
 - Support: Rowan and Clara.
 
 ## Ending
-Ending, Keeping and Beginning (Eden and Lysette) close the Wound; Kaurveth ends through Kell; Valerius binds Vehra; the Emperor finishes; the Wellmother accepts Eden. He gives up the Door, keeps the Gate: a living man who is seen, the Pale greening, names spoken openly.
+Ending, Keeping and Beginning (Eden and Lysette) close the Wound; Kaurveth ends through Kell; Valerius binds Vehra; the Emperor finishes. He gives up the Door, keeps the Gate: a man who is seen, the Pale greening, names spoken openly.

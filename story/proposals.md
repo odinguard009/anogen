@@ -56,6 +56,22 @@ Semua sudah dipakai di story pack. Jawab "setuju semua" atau sebut nomor yang ma
     - suara-suara Gorrath
     - Form 13-B
 
+## C2. Pertarungan dan armor (baru)
+12. **Toolkit pertarungan** (bible/battle-craft.md): prinsip kreativitas dan 50 trik khas, masing-masing dengan bab debutnya; setiap pertarungan memperkenalkan minimal satu trik baru. Ada larangan tegas: "panggil senjata yang lebih besar" tidak boleh jadi jawaban default. Variasi medan per arc: udara, bawah air, pengepungan, dalam ruangan, berkuda, kerumunan, duel, ritual.
+13. **Sistem armor orisinal** (bible/armor.md):
+    - Ward-plate: armor massal tiap ordo.
+    - Named Raiment: armor suci dari Vault; hanya Eden yang bisa memanggil atau meminjamkannya.
+    - Sovereign Raiment: buatan para dewa.
+    - Faceless Mantle: armor hitam Black Order, dari bayangan.
+    - Throne-form: wujud domain para host dewa.
+    - Armor rusak: Pale Raiment, Lantern rig, dan Kept Knight.
+14. **Cara memanggil armor ("the Knock"):** tiga ketukan pada cincin pengetuk perisai-pintu Eden, lalu nama armornya. Peminjam menjawab dengan nama tengahnya sendiri.
+15. **Batasnya: Seven Tolls.** Selama dipakai, armor berdentang seperti lonceng. Dentangnya makin cepat saat bertarung, terluka, atau melanggar sumpah armor. Pada dentang ketujuh, pemakainya "Kept": membatu selamanya di Vault. Eden tidak bisa di-Kept karena Void; yang terjadi justru esensi Emperor yang muncul ke permukaan. Ini sengaja berbeda dari timer di Garo.
+    - Katalog berisi 17 armor dan 2 tunggangan: Hollowmane dan Selenwing (kuda Valkyrie milik Liora, dipakai Lysette).
+    - Jadwal adegan armor: minimal satu tiap sekitar 10 bab di arc aksi.
+    - Showpiece armor bertepatan dengan momen aura: ch 199 Dawnglass dan Argent Raiment sang Duke, ch 400 Nullcrown, ch 446 Lysette dalam Wingwake, ch 560 Sepiroth's Scale.
+    - Rekomendasi: setuju.
+
 ## D. Pertanyaan
 1. Valerius menjadi host Vehra (dewa antagonis) mulai ch 545, tapi akhirnya menguasainya. Terlalu berat untuk sang pangeran? Rekomendasi: pertahankan; ini memberi rival yang benar-benar setara.
 2. Lysette sebagai host Aurelune: oke, atau biarkan ia manusia biasa? Rekomendasi: oke, tapi baru terungkap di ch 580.

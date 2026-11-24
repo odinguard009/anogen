@@ -43,3 +43,8 @@ Pearl-white, scales like stacked shields, molten-silver eyes. Lord of Heaven Gat
 
 ## The Tutor
 The Emperor's last echo: a tall man with his face always turned away, at a board game on a white floor that ends in nothing. Trains Eden. Refuses his name. He wants Eden to live as Eden, not as him (reveal ch 400). He is not training a successor; he is finishing.
+
+## Armor (details: armor.md; tricks: battle-craft.md)
+- The Knock: one knock on the door-shield's iron ring switches lance and shield; three knocks and a name open the Gate for a Raiment (holy armor from the Vault). Borrowers answer the third knock with their own middle name.
+- The Faceless Mantle (Black Order armor) is drawn from his own shadow: no Tolls, costs Frost.
+- Raiments toll; the seventh Toll Keeps a wearer forever. Eden cannot be Kept (Void); at his seventh the Emperor's essence surfaces instead.

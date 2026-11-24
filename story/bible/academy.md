@@ -12,7 +12,7 @@
 - Year 5 Field: five-student Lances; Winter Rotation on the Southern Wall (live Hushborn, supervised).
 - Year 6 Command: lead younger Lances, Concord honor guard, the Crossing (a night on the Teeth beyond the Wall). Graduation at 19-20; postings the same month to the front or as squire-knights to an order.
 - Failed years are repeated. The Twentieth Rule: no student may remain enrolled past their 20th year (expelled on their 21st birthday). Dropouts usually go to the Wall as common soldiers.
-- Eden: entered PR 108 at 14; now Year 5 at 18; graduates end of Year 6 (ch about 150) at 19.
+- Eden: entered PR 108 at 14; now Year 5 at 18; graduates end of Year 6 (ch 200) at 19. Year 5 = arcs 1-2 (ch 1-100); Year 6 = arcs 3-4 (ch 101-200).
 
 ## Ranks, exams, life
 - The Ladder: public year ranking from semester exams (theory, arms, field marks) and sanctioned duels. Top ten wear a bronze pin ("the Ten"). Year 5 now: 1 Valerius, 2 Rowan, 3 Clara Belmont, 4 Lysette, 6 Seraphine, 8 Eden (always 7-9, never higher). Felix: 19.

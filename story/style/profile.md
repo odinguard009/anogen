@@ -27,3 +27,14 @@
 - Allow small mess: a joke that falls flat, a thought that wanders, a detail that matters later. Avoid symmetry between paragraphs and between chapters.
 - Names and sentence openers vary; do not begin three sentences in a row with the protagonist's name or "He".
 - Emotional peaks get restraint: fewer words, the body and objects carry it.
+
+## Protagonist voice (Eden; original blend: cold analyst, lazy-surface hider, hard realist, fierce protector)
+- Narrates like a quiet engineer of outcomes: notices exits, shadows, who is lying, what it costs. Understatement and literal answers as humor ("Eaten today?" "Technically.").
+- Lazy on the surface (naps, skips, shrugs), prepared underneath (scouted three nights ago). Never boasts; never explains his plan before it works.
+- Realist: no illusions about nobles, nations or himself; chooses the least bad option and says so. Keeps a few hard rules anyway (no kill without confirmation; never kill humans with the Emperor's knights).
+- Flat feelings, shown by what he does: remembers everyone's tea, stands between, smiles only at his household. Healing shows as small slips: a laugh he didn't plan, a sentence he can't finish near Lysette.
+- Snaps when someone hurts his people on purpose, or uses a hostage or a child: he goes polite and very quiet, takes off his left glove, and stops hiding. Then his resolve, not his mood, raises his power.
+
+## Battles and aura
+- Mix across each arc roughly: 30% flex (he wins easily; let the reader enjoy it), 35% puzzle (terrain, rules, timing), 25% strained (god-hosts, elites: he must truly try), 10% costly (he wins, something real is lost). Tags per arc: bible/arcs-3.md.
+- Aura moments are rare (2-4 per arc), earned by earlier hiding, and always include reaction shots: who goes silent, who kneels, what a veteran's hands do. Never narrate the aura in adjectives alone.

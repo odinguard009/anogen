@@ -3,11 +3,11 @@
 ## Eden (narrator)
 - 18, Year 5 at Hallowcrest, rank 8. Public: Eden Wren, Thornmere-born scholarship ward. True: Eden Aster Argentine. Silver-grey hair he keeps dull with dye, grey eyes, lean, average height, black gloves.
 - Location: asleep on the Old Observatory roof garden, afternoon, skipping Spell Grammar (61 recorded absences; permit from Ostwald).
-- Habits: hides his aura so well people walk past him; reads everyone's shadow; counts exits; carries a plain handkerchief (his mother's habit).
+- Habits/tells: hides his aura so well people walk past him; reads shadows, counts exits; carries his mother's handkerchief; literal deadpan answers; when truly angry goes polite and quiet and removes his left glove.
 - Shows publicly: dark lance (blocking only), a claimed 3-Bell core and "shadow-shaping" Tenet. Candor only as the Black Order (masked) or when serious.
 - Real power: Melsche Door (lance/shield, short summons), Pillars X Vesk, IX Gorrath, VIII Mirelle; First Legion (never woken more than 40). Sepiroth Gate: Candor plus 6 minor relics known by name. Never lent a relic. True Bells unknown.
 - Knows: he is the Black Order; Veil tells; the Dragon and the Tutor in dreams; mother died on her birthday when he was 10; he believes he froze.
-- Does not know: mother was a Valkyrie; the Emperor's gift; the truth of the Iron King's death (PR 93); his seal; that he opened the Gate that night; the Tailor; the letter; why he is drawn to Lysette; why the front stalls; the king's kill-order.
+- Does not know: mother was a Valkyrie; the Emperor's gift; the gods and their hosts; the truth of the Iron King's death (PR 93); his seal; that he opened the Gate that night; the Tailor; the letter; why he is drawn to Lysette; why the front stalls; the king's kill-order.
 - Emotional state: flat; can only smile at those he loves. Dry humor intact. The dream of endless war chokes him most afternoons.
 - Black Order tally: 31 Veils in five years, including the one wearing Corentin Hollen (he remembers the face, not the family).
 

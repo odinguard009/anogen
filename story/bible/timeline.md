@@ -1,6 +1,7 @@
 # Timeline (reference). PR = Pale Reckoning (years since the First Breach). Story opens autumn PR 112.
 
 ## Before the Breach
+- Before worlds: the Ten Sovereigns of the Sepiroth make worlds together. Kaurveth (Want) devours worlds and is cast beneath the Void; Ormath (Ending) sits on the throne as the lid. Myrrhen dissolves into Elysmar as mana. Ormath and Seraiel war over the remnants. About 3,000 years before PR: Vehra's Binding of Thrones seals the gods' wills into mortal hosts on Elysmar, passing on death; Ormath stays free as the lid; Seraiel is bound to the Vault's gate (gods.md, gods-hosts.md).
 - Ages ago: the Emperor of Void rules the Void from the Throne of Nothing; Ten Pillars and nine sleeping legions serve him; beneath him lies the Hush. The Sepiroth Dragon rules Heaven Gate and keeps the Vault; its Valkyries glean holy weapons from dying worlds. Dragon and Emperor: enemies for ten thousand years.
 - Halveren is a patchwork of realms: Verandel (House Aurenmark) and eleven other kingdoms, plus Skarnheim and the Aurelis See. House Argentine has served the Aurenmark crown for centuries.
 
@@ -13,10 +14,10 @@
 - PR 53-68: Gerulf conquers all Halveren (eleven kingdoms made duchies; Skarnheim and Aurelis occupied). Becomes the Iron King. At 35 he plans to invade other continents despite the Hush.
 - PR 83: Gerulf 50. Crown Prince Theodric (20) and young Duke Aldous Argentine (21) plot a coup; it fails; Aldous is sent to the Okarune front to die. There he meets Liora, a Valkyrie gleaning relics from a falling city; they fight side by side; she stays for him, sealing her wings. Soldiers call her the Valkyrie of Heaven Gate.
 - PR 86: Ysolde Lisle (then a palace clerk for the prince) forges Liora's identity: last daughter of extinct House Wren of Thornmere. Aldous and Liora marry PR 88. Wren stays safe for Eden later: the house is extinct, the public only ever called her "the Duchess", her maiden name sits in sealed registers, and Wren is a common surname among Thornmere refugees.
-- PR 93: Gerulf, 60, performs the Rite of the Far Door in the sunken chapel of Grauvale to summon a weapon for three continents. The Emperor of Void answers, dragged through the Hush; the Wound tears wider. The Emperor's Void Host marches; nations flee; nobody dies, though nobody notices that until later. Inside Verandel people fear him more than the Hush.
+- PR 93: Gerulf, 60, performs the Rite of the Far Door (text obtained from a Volkhovar oracle; truly Vehra's gift) in the sunken chapel of Grauvale to summon a weapon for three continents. The Emperor of Void answers, dragged through the Hush; the Wound tears wider. The Emperor's Void Host marches; nations flee; nobody dies, though nobody notices that until later. Inside Verandel people fear him more than the Hush.
 - PR 93, winter: the Emperor's test ends. Theodric, Aldous and Liora (pregnant) turn on the Iron King. The Emperor intervenes, fights the three, acknowledges them, and kills Gerulf: "I have never killed a human on this world. Until now." He says he is empty, that endless life stole his purpose. Seeing Liora's child will be unmade by the Refusal, he pours all his essence and power into the unborn child: "Perhaps this is what I came for." He vanishes. Theodric is crowned. The public is told the Iron King died of a fever; the Void Host was "disbanded".
 - PR 94: Eden Aster Argentine is born. Theodric frees Skarnheim and Aurelis. Liora, at an Ivory infirmary, saves an infant girl dying of Pale fever with one of her feathers: Lysette Hollen.
-- PR 93-112: with the Wound wider, Okarune and Selvara fall. Tawanqar loses its Crown Well PR 101. The Concord of Solmarch meets yearly, never unites.
+- PR 93-112: with the Wound wider, Okarune and Selvara fall. Volkhovar's Empress Dragomira (crowned PR 97) begins the Ledger of Souls. Tawanqar loses its Crown Well PR 101. The Concord of Solmarch meets yearly, never unites.
 
 ## Eden's life
 - PR 99 (5): genius shows: reads adult texts, talks a panicked horse calm, asks why grown-ups lie to be kind.

@@ -27,3 +27,10 @@ Strength order: 1 Volkhovar, 2 Verandel, 3 Qianlu, 4 Norhaven, 5 Saravant, 6 Ezh
 14. **Tawanqar Highland Commonwealth** (Selvara). Councils of terrace communities under a Sapa elder. Culture: Andean (Inca, Quechua); terraces, knotted-cord records, condors. Names: given plus community name; hidden first-haircut name. Military: mountain slingers, condor riders. Stance: alive on Norhaven's charity.
 
 Count note: 13 seats with Crown Wells = items 1-12 plus Mansakar. Tawanqar holds no Crown Well (lost PR 101) and sits as an observer: a source of bitter debate.
+
+## Key figures (schemes in politics.md)
+- God-host deterrents (gods-hosts.md): Volkhovar's Fate-Empress Dragomira (Vehra; the core of its No. 1 rank; dies ch 540), Qianlu's Jade General Han Shuzhen (Kaelthos), Jayavara's Admiral Kirana (Thalos), Saravant's hidden Ishani (Niveth). Verandel's deterrent is the rumoured Void Host; its real hosts are secret.
+- Volkhovar: spymaster Count Arkady Belozerov (Frost Hand, runs succession hunts).
+- Aurelis: Luminarch Severus; Inquisitor Sister Theodora. Norhaven: Chancellor Grady Owen Marsh; the Isthmus Company.
+- Ezharan: Shah Kaveh. Qianlu: Minister Shen Ruolan. Akizane: duelist Tsukishiro Kaede.
+- Mansakar: Prince Dawit. Tawanqar: condor-rider captain Wayra. Verandel's merchant cartel: the Lanternhouse Compact (Ambrose Kell).

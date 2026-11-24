@@ -24,11 +24,12 @@ A secret network of heirs, exiles and grieving families of the eleven kingdoms t
 His mother's cover name Wren belongs to an extinct Thornmere house. In ch 7 a Cinder slips him a recruitment card: "Remember Thornmere." He ignores it; the Ashen Crowns mark him as a possible sympathizer, then as an obstacle when he blunders through their Lantern Ball attack (ch 24-26) while trying to reach the roof.
 
 ## Known Crowns (more can be added)
-- Crown of Kaldmark: Ilsabet Rorke, ice-axe giant of a woman, honourable, first Crown Eden fights (ch 25).
+- Crown of Kaldmark: Ilsabet Rorke, ice-axe giant of a woman, honourable, first Crown Eden fights (ch 25); he spares her.
 - Crown of Morvanne: "the Ferryman", a gentle-voiced poisoner.
 - Crown of Thornmere: empty seat; they hope to fill it (with Eden, ironically).
 - Crown of Lirenne: empty; reserved for Rowan.
 - Crown of Gallowmarch: Desmond Harrow, grafted fanatic; dies at ch 50 delivering the Tailor's message.
+- Allies of convenience: the Iron Faction and the Lanternhouse Compact (politics.md).
 
 ## Reveal ladder
-ch 7 card; ch 24-26 Ball attack; ch 50 the Tailor's message; ch 95 grafts are Hush flesh; ch 110 Rowan's lineage; ch 150 the Regent is Merrow; ch 170 the summoning truth (their accusation is partly right); ch 290 the Ashen Crowns' final choice (some join the war against the Hush).
+ch 7 card; ch 24-26 Ball attack; ch 50 the Tailor's message; ch 95 grafts are Hush flesh; ch 110 Rowan's lineage; ch 150 the Regent is Merrow; ch 190-199 coup with the Iron Faction, Merrow killed by the Tailor's trap (199); ch 170 the summoning truth (their accusation is partly right); ch 270 the remnant under Ilsabet Rorke joins the war against the Hush; ch 300 they hold Eden's flank. Their grievance is answered politically at the end (duchies given a voice).

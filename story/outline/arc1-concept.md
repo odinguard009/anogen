@@ -16,7 +16,7 @@ Power rule: lance-as-shield in class; Candor only masked or when someone will di
 - 6-10: Lance Nine formed (Eden, Felix, Lysette, Rowan, Clara): Lysette suffers politely; Rowan finds the Lirenne fresco (6). Ashen card "Remember Thornmere" (7). Strent's lullaby (8). Ysolde's envelope (9). Seraphine's "you'd save me again, right?" (10). Ch 10 interlude: Lysette.
 - 11-15: Felix gives his middle name (12). Lysette's Witness at a Black Order kill site shows a door-shaped shadow (13). Lysette, Committee duty, follows Eden off-campus. Dragon: "I promised someone" (15).
 - 16-20: Ladder duel vs Valerius: Eden fights only defensively and loses by a hair on purpose; Valerius is furious he held back. Concord map (20). Ch 20 interlude: Valerius.
-- 21-26: Ember cell in the lower city; a dying Ember's graft (22). Lantern Ball (24-26): Eden skips it for the roof; Lysette arrives in her gown to cry again; the Ashen Crowns seize the atrium to take Rowan and Seraphine. Eden enters through the roof glass shadows; fights the Crown of Kaldmark with lance and Gorrath's cover; Valerius sees. Merrow admires a tapestry (25). Eden and Lysette's first dance happens on the roof after, to the band still playing below.
+- 21-26: Ember cell in the lower city; a dying Ember's graft (22). Lantern Ball (24-26): Eden skips it for the roof; Lysette arrives in her gown to cry again; the Ashen Crowns seize the atrium to take Rowan and Seraphine. Eden enters through the roof glass shadows; fights the Crown of Kaldmark (Ilsabet Rorke) with lance and Gorrath's cover and spares her; Valerius sees. Merrow admires a tapestry (25). Eden and Lysette's first dance happens on the roof after, to the band still playing below.
 - 27-30: Aftermath, finals; Eden still rank 8. Weekend at Silverfell with Felix: the household's comedy, bandits dispatched politely; the Duke nearly says "your mother had wings" (28). Tutor's "test" (30). Ch 30 interlude: the Duke.
 - 31-40: Winter Rotation on the Southern Wall. A Choir silences the battlement; Lance Nine fights with hand signals. King's "second envelope" (33). Lysette tells the Lance about Corentin; Eden realizes he killed his Veil (38) and says nothing. Rowan asks why Lysette hates him (40). Ch 40 interlude: Ysolde.
 - 41-50: Ashen Crowns and Hushborn hit the student camp together through a Mawgate under the Wall; grafted Embers. Night battle: Eden lights oil fires to make edges for doors. Loans Wardenshell to Felix (47). Clara is wounded saving Rowan (cost). Eden attacks seriously with Candor; the Lance sees only white light; Lysette replays it with Witness and stares at him. The Crown of Gallowmarch, dying grey: "The Tailor sends regards to Liora's boy." (50)
@@ -24,6 +24,7 @@ Power rule: lance-as-shield in class; Candor only masked or when someone will di
 ## Set pieces
 - Battle: market chase (3), construct (5), Valerius duel (16-18), Ball siege (24-26), silent Wall (31-34), Mawgate night (45-50).
 - Emotional: handkerchief (1), Ball roof dance (26), Corentin's story and Eden's silence (36-38), Felix holding a relic he doesn't understand (47).
+- Aura (earned, with reaction shots): 25 the Ball glass walk, 49 the look that stops a knife. Battle tags in bible/arcs-3.md.
 - Comedy: Lysette's attendance raids, the Duke's fishmonger disguise, Gorrath's voices, Form 13-B for a Husk.
 
 ## Unlocks

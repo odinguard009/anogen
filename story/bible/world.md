@@ -1,4 +1,4 @@
-# World: Elysmar (compact rules; details in continents, nations, mana, invaders, ashen-crowns, orders, powers, academy, argentine, timeline .md)
+# World: Elysmar (compact rules; details in continents, nations, mana, invaders, ashen-crowns, orders, powers, academy, argentine, timeline, politics, gods, gods-hosts .md)
 
 **Planet.** Three times Earth's surface; seven continents in Earth's layout mirrored east-west. Halveren (Europe analog) north-centre; Kesharra (Asia analog) to its WEST; Vastlund (North America analog) EAST across the Grey Gulf; Okarune (Africa analog) south past the Middle Sea; Selvara (S. America analog) south-east; Ruhnmara (Australia analog) south-west; Glaceren at the south pole. Year: PR (Pale Reckoning) 112, autumn.
 

@@ -1,19 +1,20 @@
-# Main cast (true names; middle names hidden). Household: argentine.md. Villains: ashen-crowns.md.
+# Main cast (true names; middle names hidden). Household: argentine.md. Villains: politics.md, ashen-crowns.md. Gods: gods.md. Main circle never dies: deaths.md.
 
-- **Eden Aster Argentine** (public: Eden Wren), 18, MC/narrator, Year 5, rank 8. Sleeps on the roof, skips class (Headmistress's permit). Flat, nonchalant, honest, principled, quietly caring; smiles at his household because he cannot feel more. Black Order. Half-Valkyrie; Emperor's essence keeps him alive. Arc: unseen weapon to a man who is seen.
-- **Lysette Maren Hollen**, 18, heroine, rank 4, Discipline Committee vice-chair. Proud, sharp-tongued, flustered by kindness, secretly tends the roof garden alone. House Hollen (Golden Seal) shamed: brother Corentin "executed for treason" by the Black Order (he was a Veil; Eden killed it). Tenet Witness. Loves Rowan unrequited; fears new love ends the same. Liora saved her as a baby.
-- **Rowan Tallis**, 18, rank 2, "the Dawn Boy". Frontier-fort orphan raised by a garrison, cheerful, always hungry, kind, dense. Tenet Dawnbreak burns Hushborn. Lost heir of conquered Lirenne; the Ashen Crowns want him as banner.
-- **Felix Ashgrove**, 18, Eden's one close friend, son of the Verdant Thorn master. Quiet, steady; asks "Eaten today?" daily. Knows nothing of Eden's secrets.
-- **Crown Prince Valerius Aurenmark**, 18, rank 1, council president. Serious, rival; knows Eden's power and name, hates that he hides.
+- **Eden Aster Argentine** (public: Eden Wren), 18, MC/narrator, Year 5, rank 8, sleeps on the roof. Cold analyst, lazy-surface hider, hard realist, fierce protector (voice: style/profile.md). Flat feelings; smiles only at his household. Snaps, quiet and polite, glove off, when his people are hurt. Black Order. Half-Valkyrie; hosts the Emperor's essence and the Dragon's Gate (gods-hosts.md). Arc: unseen weapon to a man who is seen.
+- **Lysette Maren Hollen**, 18, heroine, rank 4, Discipline Committee vice-chair. Proud, sharp-tongued, flustered by kindness, secretly tends the roof garden alone. House Hollen (Golden Seal) shamed: brother Corentin "executed for treason" by the Black Order (he was a Veil; Eden killed it). Tenet Witness. Loves Rowan unrequited; fears new love ends the same. Liora saved her as a baby. Dormant host of Aurelune.
+- **Rowan Tallis**, 18, rank 2, "the Dawn Boy". Frontier-fort orphan raised by a garrison, cheerful, always hungry, kind, dense. Dawnbreak (dormant Ashkar). Lost heir of Lirenne; the Ashen Crowns and Aurelis want him.
+- **Felix Ashgrove**, 18, Eden's one close friend, son of the Verdant Thorn master. Quiet, steady; asks "Eaten today?" daily. Befriended him on his father's order, stayed by choice.
+- **Crown Prince Valerius Aurenmark**, 18, rank 1, council president. Serious rival (Tenet Verdict); hates that Eden hides. Vehra's host from ch 545.
 - **Princess Seraphine Aurenmark**, 18, his twin, rank 6. Playful; crush on Eden since he saved her at 12. Eden: friend only. Arc: confesses, is gently refused, becomes a Concord envoy.
-- **Dame Hildegard Ostwald**, headmistress. Half-blind, dry; Liora's friend; knows Eden's name and power, not the Black Order.
-- **Tesfane Okoru**, instructor, one-armed Mansakar refugee; sees through acts.
-- **Duke Aldous Argentine**, 50, father, Argent master. Loud, goofy, ballad-writing; terrifying when serious. Loves Eden.
+- **Dame Hildegard Ostwald**, headmistress. Half-blind, dry; knows Eden's name and power, not the Black Order.
+- **Tesfane Okoru**, one-armed Mansakar instructor; sees through acts.
+- **Duke Aldous Argentine**, 50, father, Argent master. Loud, goofy, ballad-writing; terrifying when serious.
 - **King Theodric IV**, 49. Warm, guilty son of the Iron King. Holds a kill-order on Eden if the Void wakes.
-- **Ysolde Lisle**, 38, king's secretary, Eden's handler. Deadpan; forged Liora's identity; keeps her letter.
+- **Ysolde Lisle**, 38, king's secretary, Eden's handler. Deadpan; keeps Liora's letter.
 - **Liora** (dead), mother: Valkyrie of Heaven Gate, cover "Liora Wren". Died sealing Eden.
-- **Halvard Strent**, vice-headmaster, beloved, avoids lamps. The Tailor: Veil spymaster, Liora's killer, Ashen Crowns' sponsor.
+- **Halvard Strent**, beloved vice-headmaster, avoids lamps. The Tailor: Veil spymaster, Liora's killer.
 - **Count Lucan Merrow**, Indigo Veil master; secretly the Regent of the Ashen Crowns.
 - **The Tutor**: Emperor of Void's last echo; dream teacher, face turned away.
-- **Sepiroth Dragon** ("Landlord"): pompous, fond of Eden; promised Liora.
-- **Kaurveth**, the Starving King of the Hush. **Nihl**, First Pillar, wants the Emperor back.
+- **Sepiroth Dragon** ("Landlord"): pompous, fond of Eden.
+- **Kaurveth**, the Starving King (a fallen god). **Nihl**, First Pillar, tests Eden as a foe.
+- Foes: Halberg (Iron Faction), Ambrose Kell (Kaurveth's host), Dragomira (Vehra's host), Belozerov. Other hosts: Han, Kirana, Ishani, Clara.

@@ -95,7 +95,7 @@ def build(chapter=None, extra=(), peek=False):
     add("End of previous chapter (continue from here, do not repeat it)", tail, 2200)
     add("Premise", read(STORY / "bible" / "premise.md"), 2500)
     for e in extra:
-        add(f"Extra: {e}", read(STORY / "bible" / f"{e}.md"), 4000)
+        add(f"Extra: {e}", read(STORY / "bible" / f"{e}.md"), 9500)
 
     out = "\n\n".join(sections)
     limit = setting_int("context_pack_max_chars")

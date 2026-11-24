@@ -359,3 +359,85 @@ Forgemaster
 Admiral
 Warden
 Captain-General
+Sepiroth
+Ten Sovereigns
+Sovereigns
+Ormath
+Seraiel
+Myrrhen
+Wellmother
+Kaelthos
+Forgefather
+Vehra
+Weaver
+Ashkar
+First Flame
+Niveth
+Dreamer
+Thalos
+Tide
+Aurelune
+Gardener
+Devouring
+Firstworks
+Beginning
+Iron Faction
+Konrad Halberg
+Halberg
+Archduke
+Lanternhouse Compact
+Lanternhouse
+Ambrose Kell
+Ambrose
+Kell
+Arkady Belozerov
+Arkady
+Belozerov
+Luminarch Severus
+Severus
+Theodora
+Inquisitor
+Grady Owen Marsh
+Grady
+Marsh
+Isthmus Company
+Kaveh
+Shen Ruolan
+Kirana
+Tsukishiro Kaede
+Tsukishiro
+Kaede
+Dawit
+Wayra
+Aethra
+Tidewright
+Ashen Choir
+Thousand Mouths
+Concord Speaker
+Founders' Day
+Void's Son
+Lanterns and Ledgers
+Ten Thrones
+Skyspine Campaign
+Throne
+Thrones
+Throne-bearer
+Throne-bearers
+Binding of Thrones
+Loom of Days
+Fate-Empress
+Living Mountain
+Jade General
+Han Shuzhen
+Han
+Shuzhen
+Tidecall
+Sleepwalk
+Ishani
+Noonbringer
+Wellspring
+Seedtime
+Enthroned
+Awakened
+Stirring
+Dormant

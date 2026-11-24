@@ -1,20 +1,27 @@
-- [open] Rooftop dream of endless war quiets the moment Lysette's crying wakes him | planted: ch 1 | due: ch 196-200
-- [open] Eden's handkerchief, embroidered with a tiny silver feather (his mother's) | planted: ch 1 | due: ch 172-176
-- [open] Locked door with a silver hairpin in the keyhole; Dragon refuses to show the relic Morrowpin | planted: ch 2 | due: ch 172-176
-- [open] The Tutor speaks of empty thrones like a man remembering, not teaching | planted: ch 2 | due: ch 275-282
-- [open] Lysette's locket with Corentin's portrait; Eden glances away | planted: ch 4 | due: ch 36-40
-- [open] Rowan's Dawnbreak matches a light in an old Lirenne royal fresco in the archive | planted: ch 6 | due: ch 105-110
-- [open] Ashen Crowns card "Remember Thornmere" slipped to Eden | planted: ch 7 | due: ch 24-26
-- [open] Strent never stands under lamps; hums a lullaby Eden's mother sang | planted: ch 8 | due: ch 48-50 (hint), 183-186
-- [open] Ysolde's sealed envelope she will not let Eden touch | planted: ch 9 | due: ch 153-156
-- [open] Felix casually tells Eden his middle name while asking if he has eaten | planted: ch 12 | due: ch 45-47
-- [open] Lysette's Witness replays a door-shaped shadow at a Veil kill site | planted: ch 13 | due: ch 138-142
-- [open] The Dragon says "I promised someone" and won't say who | planted: ch 15 | due: ch 283-287
-- [open] Concord map: grey front bends around Verandel like water round a stone | planted: ch 20 | due: ch 226-232
-- [open] A dying Ember's arm shows grey veins under a graft scar | planted: ch 22 | due: ch 90-95
-- [open] Count Merrow at the Lantern Ball, admiring a tapestry of conquered Ostrevaal | planted: ch 25 | due: ch 145-150
-- [open] The Duke, drunk on cider, almost says "your mother had wings" | planted: ch 28 | due: ch 172-176
-- [open] Tutor flinches when Eden says "regret is useless"; mentions a "test" he once set a king | planted: ch 30 | due: ch 166-170, 296-302
-- [open] King asks Ysolde for "the second envelope" and falls silent when Eden enters | planted: ch 33 | due: ch 205-212
-- [open] Seraphine's joke "you'd save me again, right?" hides real feeling | planted: ch 10 | due: ch 143-146
-- [open] Rowan misreads Lysette's coldness as dislike and asks Eden why she hates him (he notices her feelings too late) | planted: ch 40 | due: ch 128-132
+Plants placed in the current window (ch 1-60). Long-range plants and later twists: twists-1.md, twists-2.md.
+- [open] Rooftop dream of endless war quiets when Lysette's crying wakes him | planted: ch 1 | due: ch 200-205
+- [open] Handkerchief with a tiny silver feather (his mother's) | planted: ch 1 | due: ch 172-176
+- [open] Locked door with a silver hairpin in its keyhole; Dragon won't show Morrowpin | planted: ch 2 | due: ch 172-176, 195-200
+- [open] Dying Veil: "You smell like the bottom of the world" | planted: ch 3 | due: ch 48-50
+- [open] Bell test: three tones, a faint fourth only Okoru hears (the Dragon's voice) | planted: ch 3 | due: ch 420-425
+- [open] Lysette's locket (Corentin); Eden looks away | planted: ch 4 | due: ch 36-40
+- [open] Rowan's light matches a Lirenne royal fresco | planted: ch 6 | due: ch 105-110
+- [open] Ashen card "Remember Thornmere" slipped to Eden | planted: ch 7 | due: ch 24-26
+- [open] Strent avoids lamps, hums Liora's lullaby | planted: ch 8 | due: ch 48-50 (hint), 183-186
+- [open] Ysolde's sealed envelope | planted: ch 9 | due: ch 153-156
+- [open] Seraphine's "you'd save me again, right?" | planted: ch 10 | due: ch 143-146
+- [open] Felix gives his middle name while asking "Eaten today?" | planted: ch 12 | due: ch 45-47
+- [open] Lysette's Witness shows a door-shaped shadow at a kill site | planted: ch 13 | due: ch 138-142
+- [open] Dragon: "I promised someone" | planted: ch 15 | due: ch 420-425
+- [open] Concord map: front bends round Verandel like water round a stone | planted: ch 20 | due: ch 280-285
+- [open] Dying Ember's grey veins under a graft scar | planted: ch 22 | due: ch 90-95
+- [open] Eden spares the Crown of Kaldmark, Ilsabet Rorke | planted: ch 25 | due: ch 295-300
+- [open] Merrow admires the Ostrevaal tapestry at the Ball | planted: ch 25 | due: ch 145-150
+- [open] Bertram's boots muddy at dawn after Eden's night out | planted: ch 28 | due: ch 160-163
+- [open] Duke, on cider, almost says "your mother had wings" | planted: ch 28 | due: ch 172-176
+- [open] Tutor mentions a "test" he once set a king | planted: ch 30 | due: ch 166-170
+- [open] King asks Ysolde for "the second envelope" | planted: ch 33 | due: ch 210-214
+- [open] Rowan asks Eden why Lysette hates him | planted: ch 40 | due: ch 128-132
+- [open] Lysette's roof garden thrives out of season under her hands | planted: ch 1 | due: ch 575-580
+- [open] Wilted flowers revive where Clara sits | planted: ch 6 | due: ch 478-480
+- [open] Valerius's Verdict makes a spoken ruling physical | planted: ch 16 | due: ch 540-545

@@ -30,31 +30,31 @@ Ardcarrow, Breckinridge, Dunmallow, Kilbrannan, Morlough, Tavish
 Asgeir, Bodil, Eirik, Freyda, Gunnvald, Halla, Ingvar, Jorun, Ketil, Liv, Orm, Ragna, Sigvor, Thorvi, Ulfar
 
 ## Volkhovar
-Arkady, Bogdana, Dobrynya, Yelisaveta, Gavrila, Irinka, Kazimir, Lyudmila, Miroslav, Nadezhda, Oleg, Radomira, Stanimir, Vasilisa, Zlatan
+Arkady, Bogdana, Dobrynya, Yelisaveta, Gavrila, Irinka, Kazimir, Lyudmila, Miroslav, Nadezhda, Oleg, Radomira, Stanimir, Vasilisa, Zlatan, Ostromir, Snezhana
 
 ## Volkhovar families
 Belozerov, Dragunov, Krasnoyar, Morozhin, Sokolvin, Velikoy
 
 ## Qianlu
 Bai Lianshu, Cao Mingyue, Feng Yaoqi, Gao Wenrui, Han Shuzhen, Lu Qingxuan, Mei Hanxiao, Qin Shaoyun, Shen Ruolan, Tang Yizhou
-Wei Chenrou, Xu Jinhai, Yan Moqing, Zhao Linfeng, Zhou Xiaolan
+Wei Chenrou, Xu Jinhai, Yan Moqing, Zhao Linfeng, Zhou Xiaolan, Pei Yunhe, Ren Zhaoxi
 
 ## Akizane
 Asahina Kurei, Fujikawa Mio, Hanazono Seiji, Ishimura Tokiko, Kagenori Ren, Kurosaki Aoi, Minase Haruto, Nagatsuki Sayo
-Oribe Tetsu, Sakuraba Yuzuha, Shirakawa Genji, Takanashi Rinne, Tsukishiro Kaede, Umemiya Daichi, Yasaka Hotaru
+Oribe Tetsu, Sakuraba Yuzuha, Shirakawa Genji, Takanashi Rinne, Tsukishiro Kaede, Umemiya Daichi, Yasaka Hotaru, Kirishima Sora
 
 ## Saravant
-Aditya, Bhavani, Chandrika, Devarsh, Ishani, Kavindra, Lakshmira, Madhav, Nandini, Pranav, Rukmini, Shaurya, Tarini, Vikramaditya, Yamini
+Aditya, Bhavani, Chandrika, Devarsh, Ishani, Kavindra, Lakshmira, Madhav, Nandini, Pranav, Rukmini, Shaurya, Tarini, Vikramaditya, Yamini, Ambika, Hemant
 
 ## Ezharan
-Arash, Bahira, Darius, Farzaneh, Hamid, Jalila, Kaveh, Laleh, Nasreen, Omid, Parvaneh, Rostam, Shirin, Yasmeen, Zahir
+Arash, Bahira, Darius, Farzaneh, Hamid, Jalila, Kaveh, Laleh, Nasreen, Omid, Parvaneh, Rostam, Shirin, Yasmeen, Zahir, Mehrdad
 
 ## Jayavara
-Ayu, Bayu, Citra, Dharma, Gendhis, Hanggara, Indah, Jaladri, Kirana, Laksmi, Mahesa, Nawang, Pramudya, Sekar, Wira
+Ayu, Bayu, Citra, Dharma, Gendhis, Hanggara, Indah, Jaladri, Kirana, Laksmi, Mahesa, Nawang, Pramudya, Sekar, Wira, Sasmita, Larasati
 
 ## Norhaven
 Abigail Rose, Beau Emmett, Caleb Jonah, Dolores Marie, Elias Grant, Fernanda Lucia, Grady Owen, Harriet June, Isaac Wade, Josefina Paz
-Lucas Reed, Maple Iris, Nathaniel Cole, Rosalia Mae, Wyatt Ellis
+Lucas Reed, Maple Iris, Nathaniel Cole, Rosalia Mae, Wyatt Ellis, Hollis Dean, Marisol Faye
 
 ## Orduhan
 Altan, Batu, Chaghan, Erdene, Khulan, Mongke, Narantsetseg, Ogedai, Saran, Temuge

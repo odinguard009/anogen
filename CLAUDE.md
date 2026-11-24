@@ -52,5 +52,10 @@ Use `python3 tools/schedule.py enable|disable`. Enable: create a scheduled task 
 ## Reading page (owner's standing choice)
 The owner reads inside the chat app, not via downloaded files. After each finished chapter (in a batch: after the batch stops, one page with all new chapters), publish the chapter text as a reading page with the Artifact tool (use the Docs type if the session lists it, else a self-contained HTML page; call list_types and the guide first). Update the same artifact for later chapters of the same arc instead of making many pages. The page is a copy for reading; chapters/*.md stays the source of truth. Do not paste the link in text (the card shows it). The EPUB is still built per completed arc.
 
+## Bots, models and the one-bot lock (owner's permanent rule)
+- NEVER more than one bot (agent) running per job. Before spawning an agent: `python3 tools/lock.py acquire JOB --owner NAME`; if it says BUSY, do not start another. Release when it ends: `lock.py release JOB`. Stale locks (older than the TTL) are taken over automatically.
+- Models per bot are in ops/models.json: development editor, copy critic and managing editor on Opus; lead writer (with canon bookkeeping per chapter) on Sonnet; the main chat is the orchestrator on Sonnet. Pass `model` explicitly when spawning an agent. Quota weight per model is unverified: measure and adjust.
+- Chapter production in batches of 5, strictly sequential: (1) lead writer agent (ops/batch-writer-prompt.md) -> (2) copy critic agent (ops/batch-critic-prompt.md) -> commit; every 10 chapters: managing editor agent. One agent at a time, never overlapping.
+
 ## Token discipline
 In a batch, each chapter should be done in as few rounds as possible; if the conversation grows long, finish the current chapter, commit, and tell the owner to say "lanjutkan" in a fresh chat (state survives in ops/engine.json). Do not re-read files. Do not summarize steps back to the owner. After a chapter, reply with one or two lines only.

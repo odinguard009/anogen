@@ -232,6 +232,16 @@ def main():
         c, o = run(root, "schedule.py", "set", "times", "25:00")
         check("schedule rejects bad time", c != 0, o)
 
+        # lock
+        c, o = run(root, "lock.py", "acquire", "arc1", "--owner", "writer-a")
+        check("lock acquire", c == 0, o)
+        c, o = run(root, "lock.py", "acquire", "arc1", "--owner", "writer-b")
+        check("lock refuses second bot", c == 3 and "BUSY" in o, o)
+        run(root, "lock.py", "release", "arc1")
+        c, o = run(root, "lock.py", "acquire", "arc1", "--owner", "writer-b")
+        check("lock reacquire after release", c == 0, o)
+        run(root, "lock.py", "release", "arc1")
+
         # status
         c, o = run(root, "status.py")
         check("status runs", c == 0 and "Chapters written: 6" in o and "Schedule: OFF" in o, o)

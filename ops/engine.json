@@ -16,5 +16,6 @@
     "start_chapter": 1,
     "status": "stopped",
     "stop_reason": "5-hour quota limit hit; paused by owner"
-  }
+  },
+  "critic_through": 5
 }

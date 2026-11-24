@@ -7,6 +7,7 @@ Usage:
   engine_state.py arc-complete K          # release gate: all chapters of the arc must exist
   engine_state.py batch-start --mode n --target N
   engine_state.py batch-start --mode arc --arc K [--max M]
+  engine_state.py mark critic|audit N     # record independent critic / audit done through chapter N
   engine_state.py batch-resume            # continue a stopped batch (keeps start/target)
   engine_state.py batch-stop --reason TEXT [--status stopped|done]
   engine_state.py next                    # what to do next (updates state when a batch ends)
@@ -80,7 +81,25 @@ def compute_next(apply=False):
                 reason = f"arc {b['arc']}: chapter {n} of {arc['start']}-{arc['end']}"
     if apply:
         save(d)
-    return {"next_chapter": n, "continue": cont, "reason": reason, "batch": b, "arc": arc}
+    hi = n - 1 if n > 1 else 0
+    from common import chapter_files
+    cf = chapter_files()
+    hi = cf[-1][0] if cf else 0
+    limit = None
+    if b["status"] in ("running",) and b["mode"] == "n":
+        limit = b["start_chapter"] + b["target"] - 1
+    elif b["status"] in ("running",) and b["mode"] == "arc" and arc:
+        limit = arc["end"]
+        if b.get("max"):
+            limit = min(limit, b["start_chapter"] + b["max"] - 1)
+    writer_range = [n, min(n + 4, limit)] if (cont and limit and n <= limit) else None
+    ct = d.get("critic_through", 0)
+    critic_pending = [ct + 1, hi] if hi > ct else None
+    at = d.get("audit_through", 0)
+    audit_due = (hi // 10) * 10 > at
+    return {"next_chapter": n, "continue": cont, "reason": reason, "batch": b, "arc": arc,
+            "writer_range": writer_range, "critic_pending": critic_pending,
+            "audit_due_at": (hi // 10) * 10 if audit_due else None}
 
 
 def main():
@@ -102,6 +121,9 @@ def main():
     p.add_argument("--arc", type=int, default=None)
     p.add_argument("--max", type=int, default=None)
     sub.add_parser("batch-resume")
+    p = sub.add_parser("mark")
+    p.add_argument("what", choices=["critic", "audit"])
+    p.add_argument("chapter", type=int)
     p = sub.add_parser("batch-stop")
     p.add_argument("--reason", required=True)
     p.add_argument("--status", choices=["stopped", "done"], default="stopped")
@@ -166,6 +188,10 @@ def main():
                           "start_chapter": n, "status": "running", "stop_reason": ""}
         save(d)
         print("Batch started at chapter", n)
+    elif a.cmd == "mark":
+        d[a.what + "_through"] = a.chapter
+        save(d)
+        print(f"{a.what} done through chapter {a.chapter}")
     elif a.cmd == "batch-resume":
         b = d["batch"]
         if b["mode"] == "none" or b["status"] not in ("stopped", "running"):

@@ -200,6 +200,13 @@ def main():
         c, o = run(root, "engine_state.py", "show")
         check("corrupt engine.json is an error", c != 0 and (root / "ops/engine.json").read_text() == "{bad", o)
         (root / "ops/engine.json").write_text(json.dumps({"arcs": {"1": {"start": 1, "end": 6, "name": "", "max": 10, "status": "complete"}}, "batch": {"mode": "none", "target": 0, "arc": None, "max": None, "start_chapter": None, "status": "idle", "stop_reason": ""}}))
+        # critic/audit tracking
+        c, o = run(root, "engine_state.py", "next")
+        d2 = json.loads(o)
+        check("critic pending reported", d2["critic_pending"] == [1, 6], o)
+        run(root, "engine_state.py", "mark", "critic", "6")
+        c, o = run(root, "engine_state.py", "next")
+        check("critic pending cleared", json.loads(o)["critic_pending"] is None, o)
         # batch n
         c, o = run(root, "engine_state.py", "batch-start", "--mode", "n", "--target", "2")
         c, o = run(root, "engine_state.py", "next")

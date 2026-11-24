@@ -2,7 +2,7 @@
 
 Owner: Odin (Indonesian; not a coder). Talk to him in Indonesian: concise, direct, no flattery, no fabrication. Stories are written in English. The owner never touches code: you run every command, commit and push.
 
-Everything runs strictly sequentially. No subagents inside the engine, no parallel agents. Batch independent tool calls in one turn.
+Everything runs strictly sequentially: ONE agent at a time (see 'Production flow' below). Never parallel agents. Batch independent tool calls in one turn.
 
 ## Layout
 - tools/: scripts (0 tokens). story/: the story pack (brief, style, bible, outline, inbox). roles/: instructions per role, load only the one you need. chapters/: chapter-NNN.md. ops/: engine.json, schedule.json, run-log.md, scores.csv. out/: EPUBs.
@@ -21,21 +21,22 @@ Everything runs strictly sequentially. No subagents inside the engine, no parall
 ### "mulai cerita baru" (+ optional seed idea, or "bebas")
 Load roles/development-editor.md. Build the story pack (premise, characters, world, series arc, names, canon_names, style tweaks if he asks). Plan arc 1 (default max = arc_default_max). Commit and push. Do NOT write chapters unless asked.
 
-### "tulis bab berikutnya"
-0. If precheck warns that the previous chapter lacks bookkeeping, finish it (Canon Keeper) and `python3 tools/save.py "recover"` first.
-1. `python3 tools/context_pack.py --extra world` (one call; characters are included; contains precheck, inbox, outline, state, style, last summaries).
-2. If inbox has ideas or the outline lacks this chapter: roles/development-editor.md first.
-3. Write: roles/lead-writer.md. Check and patch: roles/copy-critic.md.
-4. Bookkeep: roles/canon-keeper.md.
-5. `python3 tools/log_run.py --chapter N --words W --scores "..."`; then `python3 tools/save.py "chapter N: Title"`.
-6. Every 10th chapter: roles/managing-editor.md.
-Target 6-8 tool rounds per chapter. Read each file at most once; the pack already holds the context.
+### Production flow (used by "tulis bab berikutnya", "kerjakan N bab", "generate 1 arc", "lanjutkan")
+You (main chat, Sonnet) are only the orchestrator. Do not write chapters yourself. Per batch, strictly in this order, one agent at a time:
+0. `python3 tools/engine_state.py next` -> JSON: `writer_range` ([A,B], at most 5 chapters; null = nothing to write), `critic_pending` ([A,B] chapters without an independent critic pass), `audit_due_at`. If the lock is busy (`lock.py status`) do not spawn anything; tell the owner.
+1. If the outline lacks the chapters or `story/inbox.md` has ideas: development editor first (roles/development-editor.md, model opus, as an agent, under the lock).
+2. WRITER: `python3 tools/lock.py acquire write --owner writer`; spawn ONE agent with `model: "sonnet"`. Prompt = contents of ops/batch-writer-prompt.md + "Your range: chapters A-B." (replace the Claude-Session URL in the prompt's commit trailers with the current session URL if it differs). When it ends: `lock.py release write`. Verify with `git log` and `python3 tools/status.py`; if it died (quota), `engine_state.py batch-stop --reason "..."`, commit what exists, report.
+3. CRITIC: `lock.py acquire critic --owner critic`; spawn ONE agent with `model: "opus"`. Prompt = ops/batch-critic-prompt.md + "Your range: chapters A-B." (use `critic_pending`). Then `lock.py release critic` and `python3 tools/engine_state.py mark critic B`.
+4. AUDIT: if `audit_due_at` is set, spawn ONE Opus agent for roles/managing-editor.md (same lock procedure), then `engine_state.py mark audit N`.
+5. Commit/push anything left (`python3 tools/save.py "..."`), run `engine_state.py next`; repeat from step 2 while `continue` is true. After each batch publish the reading page (below) and reply to the owner with one or two lines.
+Single chapter ("tulis bab berikutnya"): same flow with a range of one chapter (writer range [N,N]); the critic runs on the next batch or when pending chapters reach 5.
+Never run two agents at once, even for different jobs. Do not use `run_in_background` tricks to overlap.
 
 ### "kerjakan N bab"
-`python3 tools/engine_state.py batch-start --mode n --target N`, then loop "tulis bab berikutnya", calling `python3 tools/engine_state.py next` after each chapter; stop when `continue` is false. On quota or error: `batch-stop --reason "..."`, commit what exists, and report. A later "lanjutkan" runs `engine_state.py batch-resume` and continues from the lowest missing chapter.
+`python3 tools/engine_state.py batch-start --mode n --target N`, then loop the production flow; stop when `continue` is false. On quota or error: `batch-stop --reason "..."`, commit what exists, report.
 
 ### "generate 1 arc maksimal N bab"
-Plan the arc (development editor) so it finishes within N chapters: `arc-plan K --start S --end E --max N`. Then `batch-start --mode arc --arc K --max N` and loop as above. When the arc is fully written: `engine_state.py arc-complete K`, `python3 tools/build_epub.py --arc K`, commit, push, and send out/arc-K.epub to the owner with the SendUserFile tool.
+Development editor plans the arc within N chapters (`arc-plan K --start S --end E --max N`). Then `batch-start --mode arc --arc K --max N` and loop the production flow. When the arc is fully written AND `critic_pending` is null: `engine_state.py arc-complete K`, `python3 tools/build_epub.py --arc K`, commit, push, send out/arc-K.epub with SendUserFile.
 
 ### "ide: ..." / "belokkan arah: ..."
 `python3 tools/inbox.py add "text"`; confirm in one line. It is developed automatically at the next chapter or arc planning (foreshadowing at least 10 chapters ahead).
@@ -47,7 +48,7 @@ Plan the arc (development editor) so it finishes within N chapters: `arc-plan K 
 Use `python3 tools/schedule.py enable|disable`. Enable: create a scheduled task with the cloud scheduler tool (cron from `schedule.py cron`, prompt from ops/scheduled-task-prompt.md), then `schedule.py set-task-id ID`. Disable: delete that task, then `set-task-id none`. Changing times: `schedule.py set times "08:00,20:00"`. Tell the owner honestly what is unverified (quota use of scheduled runs, push ability).
 
 ### "lanjutkan"
-`python3 tools/engine_state.py batch-resume`, then continue the loop. If an interrupted chapter exists (precheck warning), finish its bookkeeping first.
+`python3 tools/engine_state.py batch-resume`, `python3 tools/lock.py status` (release a stale lock only if no agent is running), `python3 tools/engine_state.py next`, then continue the production flow. If critic_pending exists, run the critic before more writing. If precheck warns that a chapter lacks bookkeeping, have the writer agent finish it first.
 
 ## Reading page (owner's standing choice)
 The owner reads inside the chat app, not via downloaded files. After each finished chapter (in a batch: after the batch stops, one page with all new chapters), publish the chapter text as a reading page with the Artifact tool (use the Docs type if the session lists it, else a self-contained HTML page; call list_types and the guide first). Update the same artifact for later chapters of the same arc instead of making many pages. The page is a copy for reading; chapters/*.md stays the source of truth. Do not paste the link in text (the card shows it). The EPUB is still built per completed arc.

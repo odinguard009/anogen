@@ -21,6 +21,11 @@ def main():
         print(f"Arc {k}: {v['start']}-{v['end']} [{v['status']}] {have}/{v['end'] - v['start'] + 1} written")
     b = engine_state.load()["batch"]
     print(f"Batch: {b['mode']} / {b['status']} {b.get('stop_reason', '')}".rstrip())
+    nx = engine_state.compute_next()
+    if nx.get("critic_pending"):
+        print("Critic pass pending: chapters %d-%d" % tuple(nx["critic_pending"]))
+    if nx.get("audit_due_at"):
+        print("Managing-editor audit due (through chapter %d)" % nx["audit_due_at"])
     print(f"Inbox: {len(inbox.unprocessed_ideas())} unprocessed idea(s)")
     prop = read(STORY / "proposals.md")
     if prop.strip():

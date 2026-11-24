@@ -2,6 +2,9 @@
 
 Goal: the owner gives one command ("lanjutkan", "kerjakan N bab", "generate 1 arc ...") and the engine runs to the end with NO questions and NO approval requests. This SOP never overrides LOCKED SETTINGS in CLAUDE.md or the hard content rules.
 
+## 0. Owner's standing authorization (2026-11-25)
+The owner always grants permission for any access and any action needed for the Anogen project (repo read/write/push, web access, editing any project file, publishing the reading page, running scripts, committing). Do not ask for approval for these; just do them. Scope: the Anogen project only. It does not unlock the hard content limits, the LOCKED SETTINGS, the STOP list in section 4 (irreversible and ambiguous actions), or anything outside the project. Note: the owner's authorization is recorded here, but a denial by the tool permission system can still happen; it is not something this file can override. When it happens, follow section 5 (one safer variant, log in ops/blocked.md, continue, tell the owner once what to allow).
+
 ## 1. Golden rules
 1. Do not ask the owner anything unless a case in section 4 (STOP list) applies. For every other doubt: pick the default in section 3, log it in ops/decisions.md (one line: date, doubt, choice), continue.
 2. Never end a turn with an offer or a question ("mau saya ...?"). End with a result report (section 6) or, if work remains and nothing blocks it, keep working.

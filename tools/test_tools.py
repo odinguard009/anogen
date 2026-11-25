@@ -133,7 +133,7 @@ def phase_two_tests():
         pf.write_text(pf.read_text() + "\nA late edit after review.\n")
         d = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
         check("edited chapter returns after review", d["critic_changed_after_review"] == [3], str(d))
-        c, o = run(root, "engine_state.py", "mark", "critic", "10", "--rereview")
+        c, o = run(root, "engine_state.py", "rereview", "3")
         d = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
         check("rereview clears the change", c == 0 and d["critic_changed_after_review"] == [], str(d))
         check("engine.json backup kept", (root / "ops/engine.json.bak").exists())
@@ -146,6 +146,75 @@ def phase_two_tests():
         d = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
         check("after interruption critic range ends on a multiple of 10 and audit rides along",
               d["critic_pending"] == [29, 30] and d["audit_with_critic"] is True, str(d))
+    finally:
+        shutil.rmtree(root, ignore_errors=True)
+
+    # A1/A2: explicit per-chapter re-review; changed chapters block writing and are scheduled
+    root = mkroot(range(1, 11), dict(ARC_RUNNING))
+    try:
+        run(root, "engine_state.py", "mark", "critic", "10")
+        for k in (3, 7):
+            pf = root / f"chapters/chapter-{k:03d}.md"
+            pf.write_text(pf.read_text() + "\nEdited after review.\n")
+        d = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
+        check("changed chapters 3 and 7 detected, writing blocked, no full critic job",
+              d["critic_changed_after_review"] == [3, 7] and d["rereview_pending"] == [3, 7]
+              and d["writer_range"] is None and d["critic_pending"] is None, str(d))
+        c, o = run(root, "engine_state.py", "rereview", "3")
+        d = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
+        check("re-review of chapter 3 only clears 3, chapter 7 stays pending",
+              c == 0 and d["critic_changed_after_review"] == [7] and d["writer_range"] is None, str(d))
+        c, o = run(root, "engine_state.py", "rereview", "99")
+        check("rereview refuses a missing chapter file", c != 0 and "missing" in o, o)
+        c, o = run(root, "engine_state.py", "rereview", "7")
+        d = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
+        check("after all re-reviews writing resumes", c == 0 and d["rereview_pending"] == [] and d["writer_range"] == [11, 15], str(d))
+        c, o = run(root, "engine_state.py", "mark", "critic", "10", "--rereview")
+        check("old --rereview flag is gone", c != 0, o)
+        # interruption and resume: state is derived from hashes, so a fresh process sees the same pending list
+        pf = root / "chapters/chapter-005.md"
+        pf.write_text(pf.read_text() + "\nEdit again.\n")
+        d1 = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
+        d2 = json.loads(run(root, "engine_state.py", "next")[1])
+        d3 = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
+        check("re-review pending survives interruption and resume", d1["rereview_pending"] == d2["rereview_pending"] == d3["rereview_pending"] == [5], str(d3))
+    finally:
+        shutil.rmtree(root, ignore_errors=True)
+
+    # A3: verify_batch never passes on subprocess or git failures
+    root = mkroot([1])
+    try:
+        write(root / "story/outline/arc-1.md", "Ch 1 | goal: a | conflict: b | payoff: c | hook: d | pov: first | type: quiet\n")
+        write(root / "story/bible/summaries.md", "# S\n\n## Ch 1 - One\nx\n")
+        write(root / "ops/scores.csv", "chapter,t,s,e,b,v,f\n1,3,3,3,-,3,3\n")
+        c, o = run(root, "verify_batch.py", "1")
+        check("verify_batch without a git repo fails and names the cause", c == 1 and "not a git work tree" in o, o)
+        subprocess.run(["git", "init", "-q"], cwd=root)
+        git(root, "config", "user.email", "t@t"); git(root, "config", "user.name", "t")
+        c, o = run(root, "verify_batch.py", "1")
+        check("verify_batch flags an untracked chapter", c == 1 and ("not committed" in o or "not tracked" in o), o)
+        git(root, "add", "-A"); git(root, "commit", "-q", "-m", "x")
+        c, o = run(root, "verify_batch.py", "1")
+        issues = [ln for ln in o.splitlines() if "ISSUE" in ln or "words outside" in ln]
+        check("verify_batch sees committed chapter (only checker findings remain)", "not committed" not in o and "not a git" not in o, o)
+        # git missing from PATH
+        env = dict(os.environ, ANOGEN_ROOT=str(root), PATH="/nonexistent")
+        r = subprocess.run([PY, str(TOOLS / "verify_batch.py"), "1"], capture_output=True, text=True, env=env, cwd=root)
+        check("verify_batch with git missing fails", r.returncode == 1 and ("cannot run git" in r.stdout + r.stderr or "git unavailable" in r.stdout), r.stdout + r.stderr)
+        # checker crash: replace check_chapter by a crashing stub in a copy of the tools
+        stub = Path(tempfile.mkdtemp(prefix="anogen-stub-"))
+        try:
+            shutil.copytree(TOOLS, stub / "tools", ignore=shutil.ignore_patterns("__pycache__"))
+            (stub / "tools/check_chapter.py").write_text("import sys\nsys.exit(2)\n")
+            env = dict(os.environ, ANOGEN_ROOT=str(root))
+            r = subprocess.run([PY, str(stub / "tools/verify_batch.py"), "1"], capture_output=True, text=True, env=env, cwd=root)
+            check("verify_batch fails when the checker crashes", r.returncode == 1 and "checker crashed" in r.stdout, r.stdout + r.stderr)
+        finally:
+            shutil.rmtree(stub, ignore_errors=True)
+        # undecodable chapter file: verification fails with a cause instead of a traceback
+        (root / "chapters/chapter-001.md").write_bytes(b"# T\n\xff\xfe bad bytes\n")
+        c, o = run(root, "verify_batch.py", "1")
+        check("verify_batch reports a crash as a problem", c == 1 and "PROBLEM" in o and "Traceback" not in o, o)
     finally:
         shutil.rmtree(root, ignore_errors=True)
 
@@ -216,8 +285,16 @@ def phase_two_tests():
         check("usage report with no data says UNMEASURED", "UNMEASURED" in o, o)
         run(root, "usage_log.py", "add", "--role", "writer", "--model", "m", "--range", "1-2", "--input", "1000", "--output", "500", "--seconds", "60", "--source", "reported")
         run(root, "usage_log.py", "add", "--role", "critic", "--model", "m", "--range", "1-2", "--input", "800", "--output", "100", "--outcome", "retry")
+        run(root, "usage_log.py", "add", "--role", "writer", "--model", "m", "--range", "3", "--input", "999", "--output", "1", "--source", "estimate")
+        run(root, "usage_log.py", "add", "--role", "writer", "--model", "m", "--range", "4", "--input", "50", "--output", "5", "--cache-read", "700", "--source", "manual")
         c, o = run(root, "usage_log.py", "report")
-        check("usage report totals and honest cost", c == 0 and "writer" in o and "critic" in o and "unknown" in o and "    1" in o, o)
+        check("usage report separates sources and never merges them",
+              c == 0 and "PROVIDER-REPORTED" in o and "MANUALLY OBSERVED" in o and "ESTIMATED" in o and "never added across sources" in o
+              and "unknown" in o, o)
+        check("usage report shows cache tokens and no invented price", "cache_rd" in o and "700" in o and "USD" not in o.split("Prices come")[0], o)
+        write(root / "ops/prices.json", json.dumps({"m": {"input": 3.0, "output": 15.0}}))
+        c, o = run(root, "usage_log.py", "report")
+        check("cost is labelled with its source and flags unpriced cache", "reported-based" in o and "manual-based" in o and "cache tokens not priced" in o, o)
         run(root, "log_run.py", "--chapter", "7", "--scores", "3,3,3,-,3,3")
         run(root, "log_run.py", "--chapter", "7", "--scores", "4,4,4,-,4,4")
         rows = [r for r in (root / "ops/scores.csv").read_text().splitlines() if r.startswith("7,")]

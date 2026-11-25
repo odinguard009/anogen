@@ -7,7 +7,8 @@ Usage:
   engine_state.py arc-complete K          # release gate: all chapters of the arc must exist
   engine_state.py batch-start --mode n --target N
   engine_state.py batch-start --mode arc --arc K [--max M]
-  engine_state.py mark critic|audit N [--rereview]   # critic/audit done through chapter N (validated; records chapter hashes)
+  engine_state.py mark critic|audit N     # critic/audit done through chapter N (validated; records chapter hashes)
+  engine_state.py rereview C [C ...]      # critic re-reviewed exactly these chapters (already reviewed, now edited); nothing else is blessed
   engine_state.py baseline-reviewed       # owner-accepted: record current hashes for chapters 1..critic_through
   engine_state.py batch-resume            # continue a stopped batch (keeps start/target)
   engine_state.py batch-stop --reason TEXT [--status stopped|done]
@@ -119,6 +120,8 @@ def compute_next(apply=False):
     critic_waiting = [ct + 1, hi] if (hi > ct and not critic_due) else None
     reviewed = d.get("reviewed", {})
     changed = [k for k in sorted(existing) if k <= ct and str(k) in reviewed and reviewed[str(k)] != file_hash(chapter_path(k))]
+    if changed:
+        writer_range = None  # changed chapters are an editorial task that must run before more writing
     at = d.get("audit_through", 0)
     audit_missed = (ct // 10) * 10 if (ct // 10) * 10 > at else None
     audit_with_critic = bool(critic_pending) and critic_pending[1] % 10 == 0 and critic_pending[1] > at
@@ -126,6 +129,8 @@ def compute_next(apply=False):
             "writer_range": writer_range, "gap_note": gap_note,
             "critic_pending": critic_pending, "critic_waiting": critic_waiting,
             "critic_changed_after_review": changed,
+            "rereview_pending": changed,
+            "rereview_blocks_writing": bool(changed),
             "audit_with_critic": audit_with_critic, "audit_due_at": audit_missed}
 
 
@@ -136,6 +141,8 @@ def main():
     p = sub.add_parser("next")
     p.add_argument("--no-apply", action="store_true", help="pure read: do not update batch status")
     sub.add_parser("baseline-reviewed")
+    p = sub.add_parser("rereview")
+    p.add_argument("chapters", type=int, nargs="+")
     p = sub.add_parser("arc-plan")
     p.add_argument("arc", type=int)
     p.add_argument("--start", type=int, required=True)
@@ -153,7 +160,6 @@ def main():
     p = sub.add_parser("mark")
     p.add_argument("what", choices=["critic", "audit"])
     p.add_argument("chapter", type=int)
-    p.add_argument("--rereview", action="store_true", help="critic only: also bless chapters changed after their review")
     p = sub.add_parser("batch-stop")
     p.add_argument("--reason", required=True)
     p.add_argument("--status", choices=["stopped", "done"], default="stopped")
@@ -232,8 +238,8 @@ def main():
         hi = (chapter_files() or [(0, None)])[-1][0]
         if a.chapter > hi:
             sys.exit(f"cannot mark {a.what} through {a.chapter}: highest chapter is {hi}")
-        if a.chapter < cur and not a.rereview:
-            sys.exit(f"{key} is already {cur}; marks never go backwards")
+        if a.chapter < cur:
+            sys.exit(f"{key} is already {cur}; marks never go backwards (use 'rereview C ...' for edited chapters)")
         if a.what == "audit" and a.chapter > d.get("critic_through", 0):
             sys.exit(f"audit cannot pass the critic: critic_through is {d.get('critic_through', 0)}")
         if a.what == "critic":
@@ -241,14 +247,24 @@ def main():
             if miss:
                 sys.exit(f"cannot mark critic: missing chapters {miss[:10]}")
             rev = d.setdefault("reviewed", {})
-            todo = list(range(cur + 1, a.chapter + 1))
-            if a.rereview:
-                todo += [k for k in range(1, cur + 1) if str(k) in rev]
-            for k in todo:
+            for k in range(cur + 1, a.chapter + 1):
                 rev[str(k)] = file_hash(chapter_path(k))
         d[key] = max(cur, a.chapter)
         save(d)
         print(f"{a.what} done through chapter {d[key]}")
+    elif a.cmd == "rereview":
+        rev = d.setdefault("reviewed", {})
+        ct = d.get("critic_through", 0)
+        bad = sorted({k for k in a.chapters if not chapter_path(k).exists()})
+        if bad:
+            sys.exit(f"cannot re-review: missing chapter files {bad[:10]}")
+        bad = sorted({k for k in a.chapters if k > ct})
+        if bad:
+            sys.exit(f"cannot re-review chapters {bad[:10]}: not reviewed yet (critic_through is {ct}); use 'mark critic'")
+        for k in sorted(set(a.chapters)):
+            rev[str(k)] = file_hash(chapter_path(k))
+        save(d)
+        print("re-reviewed (hashes updated) only:", sorted(set(a.chapters)))
     elif a.cmd == "baseline-reviewed":
         rev = d.setdefault("reviewed", {})
         for k in range(1, d.get("critic_through", 0) + 1):

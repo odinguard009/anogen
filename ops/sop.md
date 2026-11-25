@@ -44,6 +44,6 @@ The owner always grants permission for any access and any action needed for the 
 - Never state results of an agent before its report is read and verified with git/scripts.
 
 ## 7. Session hygiene
-- One chat session handles at most TWO batches (writer -> critic [+ audit]). Then commit, push, report, and tell the owner to say "lanjutkan" in a fresh chat. A long chat resends its whole history every turn and is the biggest hidden cost (owner approved this rule 2026-11-25).
+- NO per-session batch limit (owner order 2026-11-25, replaces the earlier two-batch rule). Run to completion with no dialog; report once at the end. If quota hits or the chat grows too long, commit, push, `batch-stop`, and report.
 - Token discipline in CLAUDE.md applies. If the conversation grows long, finish the current chapter, commit, push, and tell the owner to say "lanjutkan" in a fresh chat (state lives in ops/engine.json).
 - Keep ops/decisions.md and ops/blocked.md short; the managing editor trims them at each audit.

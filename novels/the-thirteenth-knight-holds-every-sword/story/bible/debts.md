@@ -6,7 +6,7 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [open] Veil: "bottom of the world"; Ea hums | planted: ch 3 | due: ch 48-50, 176
 - [open] Ledger = Ball guest list (41 lanterns, Rowan no.1); Embers want Rowan alive on the night of lights | planted: ch 3, 18 | due: ch 24-26
 - [open] Bell: faint fourth tone | planted: ch 3 | due: ch 420-425
-- [open] Locket (Corentin) | planted: ch 4 | due: ch 36-38
+- [open] Locket (Corentin) | planted: ch 4, 21 | due: ch 36, 45
 - [open] Forged Daubert signature | planted: ch 5-8 | due: ch 95
 - [open] Okoru saw the shield-hold before; ch 11 "not by feel" | planted: ch 6, 11 | due: ch 60-66
 - [open] Rowan's light = Lirenne fresco | planted: ch 6 | due: ch 105-110
@@ -16,7 +16,7 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [open] Strent: no lamps, Liora's lullaby, "your mother sang" | planted: ch 8 | due: ch 50, 185
 - [open] Seal seeks hooded door-shield; Beatrix: thank him | planted: ch 9-10 | due: ch 13-24, 72
 - [open] Ysolde's gray-sealed envelope | planted: ch 9 | due: ch 153-156
-- [open] Seraphine "save me again?" | planted: ch 10 | due: ch 143-147
+- [open] Seraphine "save me?" | planted: ch 10 | due: ch 35, 145
 - [open] Felix's middle name; two lunches | planted: ch 12 | due: ch 47; 106-108
 - [open] Witness plate (door, figure) with Okoru; Insp. Rochefort | planted: ch 13 | due: ch 138-142
 - [open] Dragon: "I promised" | planted: ch 15 | due: ch 420-425

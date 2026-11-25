@@ -1,3 +1,4 @@
+SUPERSEDED where it conflicts by story/bible/power-system.md (owner order 2026-11-25; includes the removal of ranking levels: Bells = tank size only, Tenet tiers = stages of use, not ranks)
 # Battle craft: toolkit for the Lead Writer (reference)
 
 ## Principles

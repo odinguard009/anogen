@@ -1,3 +1,4 @@
+SUPERSEDED where it conflicts by story/bible/power-system.md (owner order 2026-11-25; includes the removal of ranking levels: Bells = tank size only, Tenet tiers = stages of use, not ranks)
 # Eden's combat style: "Lintel and Lamp" (reference)
 
 Feel: calm, minimal, unhurried, precise; reading the opponent; one-sided exchanges; composure that frightens. Original details only.

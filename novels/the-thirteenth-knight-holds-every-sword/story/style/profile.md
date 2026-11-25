@@ -31,6 +31,18 @@ Why: chapters 3-4 were still hard to follow although sentences averaged only 7 w
 - Later uses stay short and only add what is new (a new form, a new limit, a new trick). Never repeat the full description.
 - Track it: story/bible/first-use.md lists each weapon and ability and the chapter where its first-use description was given. Before writing a use, check that file; after writing a first use, add the line.
 
+## POWER, TECH AND REVEAL CANON (owner's order 2026-11-25; permanent)
+- Aura, mana, Tenet, class/job and spell words follow story/bible/power-system.md exactly (one word, one meaning; no levels or ranks; a class/job reading is one rare italic line only its owner sees).
+- Tech details (guns, veinlines, bellwire, presses, engines) follow story/bible/tech.md; at most 2 new tech terms per chapter; a gun never decides a knight's fight on its own.
+- Every reveal follows story/bible/reveal-ladder.md: hint, doubt, evidence, confirm, in that order and with its gaps; never confirm early.
+- Awakening (Ondra) vocabulary follows power-system.md section 14. Its first appearance on the page needs the full first-use description and heavy earlier build-up; it never appears in a chapter without earlier hints on the ladder.
+
+## SPECIAL ATTACK LABEL (owner's order 2026-11-25; permanent)
+- When a named signature attack (or a named form on its first or deciding use) lands, the narration shows its name as a bold label in square brackets: **[Latch]**. Put it at the moment the move lands, on its own short line or inside the action sentence.
+- It is a narration marker, not speech: never inside dialogue quotes unless the character really says the name.
+- First use: the attack's first-use description (look, body, effect, limit) in the SAME scene. Later uses: the label plus one fresh detail. The label never replaces description.
+- At most 1-2 labels per chapter. Names and owners: power-system.md section 13. Bold brackets = attack; italics = class/job reading; never mix them.
+
 ## SCENE FEEL AND ARMOR (owner's order 2026-11-25; permanent; same priority as CLARITY AND PICTURE)
 SCENE FEEL (mood):
 - Before writing each scene, pick its mood in 2-3 words (tense, warm, sad, funny, cold, quiet-before-trouble). Then let everything carry it: the place and light, the sounds, sentence length and speed, the verbs, what people do with their hands. One scene, one main mood; a change of mood needs a clear turn inside the scene.

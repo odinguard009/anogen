@@ -18,7 +18,7 @@ This file wins over powers.md, mana.md, combat-style.md and battle-craft.md wher
 14. Penulis wajib memakai 10 aturan pertarungan dan daftar cek 6 butir di bawah.
 15. Setiap kekuatan yang muncul pertama kali wajib dijelaskan (rupa, cara pakai, efek, batas).
 16. Serangan khas tiap tokoh ditulis sebagai label tebal **[Nama]** saat serangan terjadi (bagian 13). Maksimal 1-2 per bab.
-17. Kebangkitan puncak bernama ONDRA (bagian 14): langka, mahal, bukan peringkat. Dipicu keyakinan yang dipilih lagi dengan harga nyata, lalu menyebut nama tengahnya sendiri dengan keras. Contoh: Eden = Evrin (bab 590), Lysette = Auda (bab 141), Valerius = Esk (bab 194).
+17. Kebangkitan puncak bernama UNBIND (bagian 14): langka, mahal, bukan peringkat. Dipicu keyakinan yang dipilih lagi dengan harga nyata, lalu menyebut nama tengahnya sendiri dengan keras. Contoh: Eden = Evrin (bab 590), Lysette = Auda (bab 141), Valerius = Esk (bab 194).
 
 ## The stack (one line each)
 MANA (fuel) -> AURA (body field) -> TENET (one unique power) -> CLASS/JOB (registered role that names learned skills).
@@ -216,7 +216,7 @@ The registry cannot read beings it did not birth. Eden sees the Pillars' roles o
 | Dragomira | [Yrre] | a pull of the hand at nothing | a fate-thread tugs: a bridge cracks on cue | ages her a season | ch 530 |
 | Belozerov | [Zhar] | cane-sword and a thread | a puppet's hand strikes for him | cuts his own years | ch 693 |
 
-## 14. ONDRA: the awakening (rare peak state; not a rank)
+## 14. UNBIND: the awakening (rare peak state; not a rank)
 Name history: first proposed "Ondra" (with Kaith, Uvar); the owner rejected it as too occult and asked for a plain, strong keyword in the style of TCG keywords (Manifest, Advent). Chosen 2026-11-25: **Unbind** (the act: "Unbind"; the state: "Unbound"; label **[Unbind: Form name]**, for example **[Unbind: Evrin]**). Form names (Evrin, Auda, Esk...) are still the old proposals and can be changed on request.
 What it is: for a few minutes, a person's Tenet may break the ONE limit it normally has, while its Law still holds. It is not more power. It is the same power without its usual limit, so a good matchup or terrain can still beat it.
 - TRIGGER: the owner's conviction is tested at a real cost, and they choose it again; then they speak their own middle name aloud. In Verandel middle names are secret, so the price begins at once: everyone in earshot now knows it. No anger power-ups, no last-second luck.
@@ -225,7 +225,7 @@ What it is: for a few minutes, a person's Tenet may break the ONE limit it norma
 - LIMITS: one to five minutes. Afterwards the Tenet is "hollow" (does not work) for one to three days. Each Unbind takes one small thing forever, tied to the conviction (a memory, a taste, the ability to say a certain lie). It cannot heal death, cannot undo the past, and does not stop slow and heavy blows the owner does not see.
 - WITH RAIMENTS: Tolls ring twice as fast. With signature attacks: a new attack may appear during an Unbind (labelled).
 - COUNTERS: a Choir's silence (the name cannot be spoken), waiting it out, terrain that its idea does not fit, another Unbind, and above all breaking the conviction: if the owner doubts it mid-way, it collapses.
-- LOAN vs ONDRA: answering a relic's knock with your middle name is spoken low, to the relic alone, and wakes nothing. An Unbind needs the name declared aloud as a vow to the world, after a real test. Only the second rings the bells.
+- LOAN vs UNBIND: answering a relic's knock with your middle name is spoken low, to the relic alone, and wakes nothing. An Unbind needs the name declared aloud as a vow to the world, after a real test. Only the second rings the bells.
 - WHO CANNOT: Hushborn and Veils (the planet no longer reads them), Void-born beings (Pillars, Nihl), Valkyries. Grafted people can force a false one: no bells ring (hint ch 49).
 - RARITY: a handful per nation, a few hundred in the world. Most knights never awaken: the test must be real, and few will say their middle name before enemies.
 - SOCIAL: a public Unbind is news on the bellwire within the hour. The person's middle name is now public (relics can be lent to them; enemies can use the name). Nations count Unbind-holders like fortresses.

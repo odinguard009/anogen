@@ -198,11 +198,11 @@ He circled, and I turned with him, by ear. He struck low and I caught it on the 
 
 That was when my sword hummed.
 
-My sword is called Candor. I had not called it yet, and it waited inside, behind the Gate, the place where I keep it. From in there it made one low, clean note, like a wet finger on the rim of a glass. It had never done that before, because swords do not hum. The Veil jerked back as if the note had burned him.
+My sword is called Ea. I had not called it yet, and it waited inside, behind the Gate, the place where I keep it. From in there it made one low, clean note, like a wet finger on the rim of a glass. It had never done that before, because swords do not hum. The Veil jerked back as if the note had burned him.
 
-I had a tinderbox in my left glove, next to the peppermint, and I struck it. One spark, then a flame the size of a fingernail. That was all I needed. Light on one side and dark on the other made an edge, and an edge makes a door. I reached into the Gate, and Candor came into my right hand as if it had been waiting there all along.
+I had a tinderbox in my left glove, next to the peppermint, and I struck it. One spark, then a flame the size of a fingernail. That was all I needed. Light on one side and dark on the other made an edge, and an edge makes a door. I reached into the Gate, and Ea came into my right hand as if it had been waiting there all along.
 
-Candor does not shine, though people expect it to. What it does is make any light tell the truth. In the light of one match, the clerk's brown coat hung off something gray and thin, as tall as a door. It had long legs and too many elbows, like a heron made of ash, and the clerk's face sat on the front of it like a mask that had slipped.
+Ea does not shine, though people expect it to. What it does is make any light tell the truth. In the light of one match, the clerk's brown coat hung off something gray and thin, as tall as a door. It had long legs and too many elbows, like a heron made of ash, and the clerk's face sat on the front of it like a mask that had slipped.
 
 I always confirm before I end one, because that is my rule. I made it at thirteen, and I have never broken it.
 
@@ -210,7 +210,7 @@ I always confirm before I end one, because that is my rule. I made it at thirtee
 
 The face opened its mouth and nothing came out, and when it tried again there was still nothing.
 
-That was my answer, so I used the last light of the match, which shook in my fingers. I caught the next swing on the shield, opened its guard with the lance at the shoulder, and put Candor through the place where a heart should be.
+That was my answer, so I used the last light of the match, which shook in my fingers. I caught the next swing on the shield, opened its guard with the lance at the shoulder, and put Ea through the place where a heart should be.
 
 It sank slowly between the dye barrels, and the gray turned to dust from the edges inward, like burning paper. Only the face was left, lying in the dirt, with its eyes on me.
 

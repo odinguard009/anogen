@@ -112,7 +112,7 @@ Felix was drawing his bow anyway.
 
 Lysette had her batons out, good ones, and she could block once, maybe twice. The third swing would go through her guard like wind through a window.
 
-I could call Gorrath, nine feet of shield-knight who comes out of my shadow. But I would have to do it in front of Felix and Lysette and, through the bars, in front of Rowan's whole team. That would end my quiet life, and much more. I could put Candor, my sword, through the crystal, and that would end my quiet life just as fast. What I was allowed to use in front of people was a short dark lance, for blocking.
+I could call Gorrath, nine feet of shield-knight who comes out of my shadow. But I would have to do it in front of Felix and Lysette and, through the bars, in front of Rowan's whole team. That would end my quiet life, and much more. I could put Ea, my sword, through the crystal, and that would end my quiet life just as fast. What I was allowed to use in front of people was a short dark lance, for blocking.
 
 "Felix," I said. "Shoot the crystal. Keep it looking at you."
 

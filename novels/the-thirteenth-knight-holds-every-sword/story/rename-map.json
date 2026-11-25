@@ -1,5 +1,5 @@
 {
-  "_note": "Owner approved 2026-11-25 (table B of proposals-revision-names-tech.md). Ixa (Eden's lance) and Ea (Eden's sword) are NEW names and are introduced in text by the writers, not replaced here.",
+  "_note": "Owner approved 2026-11-25 (table B of proposals-revision-names-tech.md). Ixa (Eden's lance) and Ea (Eden's sword) are NEW names and are introduced in text by the writers, not replaced here. Ea replaces Candor (Candor is Eden's only sword in canon; Odin said 'Ea untuk pedang Eden'). Reversible: swap the map.",
   "_skip": [
     "story/proposals-revision-names-tech.md"
   ],
@@ -33,5 +33,6 @@
   "Hollowmane": "Mavra",
   "Selenwing": "Isra",
   "Wardenshell": "Thessa",
-  "Morrowpin": "Ynde"
+  "Morrowpin": "Ynde",
+  "Candor": "Ea"
 }

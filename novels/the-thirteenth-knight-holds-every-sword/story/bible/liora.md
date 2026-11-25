@@ -17,7 +17,7 @@
 2. **Sevar** (Duke Aldous's armor). Silver plate, lake-blue enamel, feather veins. Amplifies his Tenet Sentence. Holds Keeps of her voice for him alone. Showpiece ch 193-194.
 3. **Tamu** and **Oru** (King Theodric's sword and mail). A plain grey sword that grows heavier for whoever attacks its bearer; mail that never rusts. Seen ch 345 when the king refuses to hand Eden over.
 4. **Eyra**: her own Valkyrie plate, forged in Heaven Gate. Found ch 425; worn by Lysette ch 446.
-5. **Candor**: she re-forged its broken blade before Eden was born and asked it to choose her son (reveal ch 176).
+5. **Ea**: she re-forged its broken blade before Eden was born and asked it to choose her son (reveal ch 176).
 6. **Thessa** and **Ynde**: Vault relics she mended; her feather mark inside (Felix notices it ch 47; nobody thinks about it).
 7. **The Glasshouse Forge**: her hidden forge beneath the Silverfell glasshouse where she died. Found ch 176. Inside: tools still warm with Keeping, an unfinished sword ("Last Light", finished by Kaelthos and Han, ch 575), and two plain rings in a box labelled "Not yet. For whoever he loves." Payoff: proposal ch 600.
 8. **Letters**: the letter Ysolde keeps (155); the Keeps inside Aster and Sevar.

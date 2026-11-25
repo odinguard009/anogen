@@ -25,6 +25,12 @@ Why: chapters 3-4 were still hard to follow although sentences averaged only 7 w
 9. SAY THE PLAN: when the hero does something clever, one plain sentence says what he wants and why, before or right after ("I needed light. Light makes edges. Edges make doors.").
 10. Keep chapter length 1800-2500 words; description replaces side details, not story events.
 
+## FIRST USE OF A WEAPON, ARMOR OR ABILITY (owner's order 2026-11-25; permanent; same priority as CLARITY AND PICTURE)
+- The first time a named character uses a weapon, armor, relic or ability on the page, describe it in 2-4 plain sentences INSIDE the action (never a pause for exposition): (1) what it looks like, (2) how the body uses it (grip, stance, gesture, sound), (3) what it does to the target or the space, (4) its limit or cost, if the character knows it.
+- Use the same pattern for every new character with a fighting power when they first act, so the reader can picture what this person can do before the scene asks them to win.
+- Later uses stay short and only add what is new (a new form, a new limit, a new trick). Never repeat the full description.
+- Track it: story/bible/first-use.md lists each weapon and ability and the chapter where its first-use description was given. Before writing a use, check that file; after writing a first use, add the line.
+
 ## SCENE FEEL AND ARMOR (owner's order 2026-11-25; permanent; same priority as CLARITY AND PICTURE)
 SCENE FEEL (mood):
 - Before writing each scene, pick its mood in 2-3 words (tense, warm, sad, funny, cold, quiet-before-trouble). Then let everything carry it: the place and light, the sounds, sentence length and speed, the verbs, what people do with their hands. One scene, one main mood; a change of mood needs a clear turn inside the scene.

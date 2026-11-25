@@ -3,7 +3,7 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [open] Handkerchief "to wash" | planted: ch 1 | due: ch 140, 175, 600
 - [open] Roof garden green out of season | planted: ch 1 | due: ch 575-580
 - [open] Hairpin in locked door (Ynde) | planted: ch 2 | due: ch 172-176, 197
-- [open] Veil: "bottom of the world"; Candor hums | planted: ch 3 | due: ch 48-50, 176
+- [open] Veil: "bottom of the world"; Ea hums | planted: ch 3 | due: ch 48-50, 176
 - [open] Ledger = Ball guest list (41 lanterns, Rowan no.1); Embers want Rowan alive on the night of lights | planted: ch 3, 18 | due: ch 24-26
 - [open] Bell: faint fourth tone | planted: ch 3 | due: ch 420-425
 - [open] Locket (Corentin) | planted: ch 4 | due: ch 36-38

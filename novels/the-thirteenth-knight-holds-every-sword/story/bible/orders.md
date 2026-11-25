@@ -18,7 +18,7 @@ Twelve public orders, each about 2,000-6,000 knights plus squires, each with a c
 13. **Black Order** (black). Officially founded PR 107 by royal writ; members unknown; records sealed by the king. Duty: hunt Veils who wear human faces, by any means, including nobles and officers. Executions are announced as "treason". Public belief: 13 masked agents ("the Black Thirteen"), assassins above the law; abroad, many assume it is the remnant of the Void Host. Feared by almost every other order; hated by the Golden Seal.
 - Reality: Eden alone, plus his Pillars and shadow-soldiers posing as masked agents (Gorrath does the voices, Vesk does disguises). Black mask, plain black coat, no insignia.
 - Known only to: Eden, King Theodric, Ysolde Lisle (handler), Duke Aldous.
-- Methods: Ysolde sends sealed tasks; Eden confirms a Veil (shadow tell, then Candor light) before killing. Rule he set himself: no kill without confirmation. Planned: he breaks it once at ch 260 under pressure; it haunts him.
+- Methods: Ysolde sends sealed tasks; Eden confirms a Veil (shadow tell, then Ea light) before killing. Rule he set himself: no kill without confirmation. Planned: he breaks it once at ch 260 under pressure; it haunts him.
 - Count so far: 31 Veils killed in five years. One was the Veil wearing Corentin Hollen (PR 110).
 - Paperwork: Ysolde requires Form 13-B for every death. Running joke.
 

@@ -144,7 +144,7 @@ I had expected it. He stood by the red vat with his tally stick in his right han
 
 It wasn't stained. It was gray. Fine lines had spread under the skin, pale and branching, like frost on the inside of a window.
 
-Candor, at my hip, did not hum. It went cold. Behind the sour sweetness of the vats there was another smell, dry and papery, like a grave opened long ago. I had smelled it twice in my life, and both times it came from the same kind of thing.
+Ea, at my hip, did not hum. It went cold. Behind the sour sweetness of the vats there was another smell, dry and papery, like a grave opened long ago. I had smelled it twice in my life, and both times it came from the same kind of thing.
 
 *Veil dust.*
 

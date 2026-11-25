@@ -32,7 +32,7 @@ Tiers: Ward-plate < Pale Raiment < Named Raiment < Sovereign Raiment; Throne-for
 ## Catalog (look | source | abilities | cost | wearer | debut)
 1. **Umra** | matte black plate, smooth helm with a white thread slit | Door | silent, shadow-blended; Pillars wear it as "agents" | Frost | Gorrath, Vesk (Black Order) | 23
 1b. **Aster** | sealed: identical black, with a feather stamped inside the left gauntlet (plant 23) | Liora's masterwork | grows with Eden; see stages below | spends her Keeps | Eden | 23 (sealed), 175 (revealed)
-2. **Ilune** | plate like pale ice at dawn | Vault, Candor's sister | light around the wearer turns honest within ten paces | Seven Tolls; Vow "never lie in it" | Lysette (loan, dream war) | 507
+2. **Ilune** | plate like pale ice at dawn | Vault, Ea's sister | light around the wearer turns honest within ten paces | Seven Tolls; Vow "never lie in it" | Lysette (loan, dream war) | 507
 3. **Sevar** | silver plate, lake-blue enamel, feather veins | Liora's work | amplifies Sentence; named targets cannot flee | stored light, her Keeps | Duke Aldous | 193
 3b. **Tamu and Oru** | plain grey sword, mail that never rusts | Liora's work | the sword grows heavier for anyone attacking its bearer | stored light | King Theodric | 345
 4. **Rhael** | grey-green scale, root-like greaves | Vault | roots anchor the wearer; cannot be knocked down | Tolls | Felix (loan) | 98

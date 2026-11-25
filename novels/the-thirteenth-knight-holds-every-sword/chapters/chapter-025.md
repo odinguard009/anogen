@@ -162,7 +162,7 @@ I had already seen what I needed. Her pale plates pulled her swing high every ti
 
 She went for my head.
 
-I stopped waiting. I lifted the shield over my head, flat, like a door over a doorway. Her axe came down on it with a flash and a hard, ringing bite that I felt in my teeth. Under the shield, my right hand was already moving. Candor, my short bright sword, drew across the glowing vein at her collar.
+I stopped waiting. I lifted the shield over my head, flat, like a door over a doorway. Her axe came down on it with a flash and a hard, ringing bite that I felt in my teeth. Under the shield, my right hand was already moving. Ea, my short bright sword, drew across the glowing vein at her collar.
 
 It was a clean cut. No wasted turn of the wrist. This was the form I call the Lintel, and it ends a fight in one motion.
 
@@ -172,7 +172,7 @@ Ilsabet went to her knees. With her plates cracked and dull, she looked younger,
 
 "Do it," she said. It was her real voice now, rough and low. "Do it. Someone will, and they will not have your manners."
 
-I held Candor at her throat, and the blade made a little white glow on her face.
+I held Ea at her throat, and the blade made a little white glow on her face.
 
 "No," I said.
 

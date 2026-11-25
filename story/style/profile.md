@@ -1,5 +1,17 @@
 # Style profile (swappable; engine reads only this file for style)
 
+## LEVEL: simple English for learners (owner's order 2026-11-25; applies on top of READABILITY and wins any conflict)
+The owner is not a native English reader. Write as if for readers who recently learned English (about CEFR A2-B1). The story stays exciting; only the language gets simpler.
+- Use the most common everyday words (roughly the 2,000-3,000 most common English words). If a word is rare, formal, literary or old-fashioned, replace it with a plain one. Examples: "stairs" not "flights"; "went quiet" not "fell silent"; "angry" not "incensed"; "hide" not "conceal".
+- No idioms, no sayings, no slang that needs cultural knowledge ("flights of stairs", "break the ice", "under the weather"). Say the plain meaning instead. Avoid phrasal verbs when one plain verb works ("look for" is fine; "brush off", "pan out" are not).
+- One idea per sentence. Mostly 6-12 words. Simple past tense, active voice. Subject first. No inverted sentences, no passive chains, no sentences with more than one "which/that/who" clause, no semicolons, no parentheses.
+- Concrete words for things people can picture (door, rope, knife, bread). Abstract nouns only when needed. Say numbers and places clearly.
+- Figurative language: at most one very simple comparison per page ("fast like a horse"). No stacked or poetic metaphors. Jokes must work from plain words, not wordplay.
+- World words (invented names and terms): at most 1-2 new ones per chapter; the first time, explain them in plain words inside the sentence ("the Hush, the black fog that eats land").
+- Dialogue: short lines, normal spoken English, one idea per line. People can still be funny, rude or shy.
+- Fights: say who does what, in order, with simple verbs (hit, jump, block, run, fall). No long poetic action sentences.
+- Keep the story exactly: events, names, facts, hooks. Only the language changes.
+
 ## READABILITY (owner's order 2026-11-25; highest priority, overrides any rule below that conflicts)
 - Audience: teenagers and young adults reading web novels / light novels on a phone. Reference feel: Holy Emperor's Grandson is a Necromancer, Semi-Coercive Imperialist, The Academy's Weapon Replicator, Highschool DxD, Mahouka, Infinite Dendrogram, Bleach, Dandadan (ideas of pace and clarity only; never copy).
 - Plain, everyday words. Pick the simple word every time: "use" not "employ", "hard" not "arduous", "hide" not "conceal". If a word would make a teen reach for a dictionary, replace it. Invented world terms are fine but explain them by action in one short line, max 1-2 new ones per chapter.

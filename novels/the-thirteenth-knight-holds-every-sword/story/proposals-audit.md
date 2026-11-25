@@ -60,3 +60,8 @@ Auto-applied: banned.md (+caps: "eaten today" 1, "very" 8, "like a" 6, "nobody" 
 - 2026-11-25 owner order: twists-1 T1-17 E 255 -> 254; T1-22 E 164 -> 162 (ladder gaps). T2-39 E 598 -> 593 pending arc 12 planning (twists-2 not edited).
 
 - 2026-11-25 owner order: Door/Gate are names only (Door = Shadow Legions, Gate = Vault summoning); armor is anti-invader (power-system.md sections 15-16). powers.md, armor.md, invaders.md carry pointer notes. Shadow-door tricks in ch 1-25 are read as the army's exits; no chapter text changed.
+
+## Audit through chapter 10 (2026-11-25, same-session audit, not independent)
+1. Dialogue share: ch 8, 9, 10 first drafts came out at 17-21% and needed several patch rounds. Suggest the writer plans at least 6 dialogue exchanges per chapter before drafting. No engine change made.
+2. Repeated device: Gorrath holds a door in ch 8 and again in ch 9. Suggest a different use of the retainers before ch 20 (Mirelle or Vesk carry the next action beat).
+3. Ledger: the debt "Seal seeks hooded door-shield; Beatrix" says planted ch 10 but ch 10 (Lysette POV) does not plant it. Plant it by ch 13 or move the date; owner/planner to decide.

@@ -14,8 +14,8 @@
     "arc": null,
     "max": null,
     "start_chapter": 1,
-    "status": "running",
-    "stop_reason": ""
+    "status": "done",
+    "stop_reason": "batch complete (10/10)"
   },
   "critic_through": 0,
   "audit_through": 0,

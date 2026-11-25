@@ -56,13 +56,13 @@ Vesk came first, as he always did, small and grey and silent, and he went straig
 
 Then came Gorrath. He was nine feet tall, and he had to bend his head under the roof beams. He wore black plate, matte and smooth, like mine, and he carried a tower shield as big as a barn door, with a dent in one corner from a battle I had never asked about. He did not make a sound. When he set the shield's edge against the floor, it touched the stone like a hand on a sleeping child.
 
-"Boy," he said, in a voice as soft as a grandmother's. "Do you want the stairs?"
+"Boy," he said, in a voice as soft as a grandmother's. "Do you want the other door?"
 
-"The stairs. Please. Hold them, but do not break anything."
+"The passage door, behind us. Please. Hold it, but do not break anything."
 
 "I never break anything," said Gorrath, hurt. "Only things that get in the way."
 
-"Oh, I will hold them." He seemed pleased. "I am very good at holding."
+"Oh, I will hold it." He seemed pleased. "I am good at holding."
 
 He moved without sound toward the door at the end of the room, and stood in front of it, and became a wall.
 
@@ -94,7 +94,7 @@ A small black rectangle opened in the dark, no bigger than a book. It hung in th
 
 A long thin blade came out of it.
 
-It came without sound, straight and fast, from a door that was only a hand's width wide and a whole room away. It passed through the dark and the lamplight and went into the wooden post behind the man's shoulder, exactly where his throat had been one second before. He had flinched. I did not know why. I think some animal part of him had felt it coming.
+It came without sound, straight and fast, from a door that was only a hand's width wide and a whole room away. It passed through the dark and the lamplight and went into the wooden post behind the man's shoulder, exactly where his throat had been one second before. He had flinched, and I could not say why. Some animal part of him had felt it coming.
 
 **[Sile]**
 
@@ -126,7 +126,7 @@ The man did something I did not expect. He laughed, a short, soft, tired laugh, 
 
 It hit the floor and burst. Oil ran across the stone in a bright line. The whole room went orange and red, and every shadow in it leapt, and Vesk hissed, and Gorrath took one step forward with the shield. The man ran for the other door, a small iron hatch in the wall behind the press, and I heard him go up a ladder, fast, in the dark.
 
-I did not follow. I could not. A fire was running toward the shelves, and a shelf is made of wood.
+I stayed where I was, because a fire was running toward the shelves, and a shelf is made of wood.
 
 "Boy," said Gorrath. "Fire."
 
@@ -186,7 +186,7 @@ I knew him. Everybody did. Halvard Strent, the vice-headmaster. The one the stud
 
 "Old chalk, I expect. Go on, now." "You'll forgive the dark. I can't bear a lamp. They give me terrible headaches. So I wait for the moon, and when it goes, I give up and go to bed. It's a poor system."
 
-I stood in the doorway. My heart was beating hard, and I did not look at the ladder behind me, or at the oil on my boots.
+I stood in the doorway. My heart was beating hard, and I kept my eyes off the ladder behind me, or at the oil on my boots.
 
 "Yes, sir. I'll go. But sir, who else works late down here?"
 

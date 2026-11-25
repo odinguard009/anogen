@@ -60,7 +60,7 @@ At the Bell Assessment the year a person turns 14 (and again each year), they la
 - CLASS: what kind of fighter or person the planet reads you as. One class. It changes only at a life turn. Examples: Knight, Ranger, Mender, Duelist, Warden, Commander. Rare classes exist that registrars only hear of in stories.
 - JOB: the role you act in now. One to three. A job names your learned skills (forms, spells, drills) and gives each skill one clear limit. A new skill comes from training plus a real test, never from a number going up.
 - The live reading can change mid-scene when the role changes (Eden is the example).
-- VISIBILITY: only the owner sees their own reading. Other characters see only what the owner declares. The Crown Register, the kingdom's record office, writes down the declared jobs, checked against the Bell's tones by a Golden Seal clerk. The reader sees a reading only through the POV owner.
+- VISIBILITY: only the owner sees their own reading. Other characters see only what the owner declares. The Crown Register, the kingdom's record office, writes down the declared jobs, checked against the Bell's tones by a Golden Seal clerk. The Register is sealed like Tenet records: only the order master or the king's office may open it. Boards post ranks, never jobs. The reader sees a reading only through the POV owner.
 - NOT: levels, stats, a hit-point bar, or a ranking. Two people with the same job can fight in opposite ways.
 
 ### On the page (format)
@@ -225,6 +225,7 @@ What it is: for a few minutes, a person's Tenet may break the ONE limit it norma
 - LIMITS: one to five minutes. Afterwards the Tenet is "hollow" (does not work) for one to three days. Each Ondra takes one small thing forever, tied to the conviction (a memory, a taste, the ability to say a certain lie). It cannot heal death, cannot undo the past, and does not stop slow and heavy blows the owner does not see.
 - WITH RAIMENTS: Tolls ring twice as fast. With signature attacks: a new attack may appear during an Ondra (labelled).
 - COUNTERS: a Choir's silence (the name cannot be spoken), waiting it out, terrain that its idea does not fit, another Ondra, and above all breaking the conviction: if the owner doubts it mid-way, it collapses.
+- LOAN vs ONDRA: answering a relic's knock with your middle name is spoken low, to the relic alone, and wakes nothing. An Ondra needs the name declared aloud as a vow to the world, after a real test. Only the second rings the bells.
 - WHO CANNOT: Hushborn and Veils (the planet no longer reads them), Void-born beings (Pillars, Nihl), Valkyries. Grafted people can force a false one: no bells ring (hint ch 49).
 - RARITY: a handful per nation, a few hundred in the world. Most knights never awaken: the test must be real, and few will say their middle name before enemies.
 - SOCIAL: a public Ondra is news on the bellwire within the hour. The person's middle name is now public (relics can be lent to them; enemies can use the name). Nations count Ondra-holders like fortresses.

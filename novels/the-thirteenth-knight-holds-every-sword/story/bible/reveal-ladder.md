@@ -77,8 +77,7 @@ Small twists (gap 3+; D and E to be placed at their arc's planning): Brandmeier 
 | "Thornmere boy, Wren" (Ashen card) | 7 | 11 | 18, 23 | 24 | done |
 | Embers want Rowan on the night of lights | 3 | 18 | 23 | 24 | done |
 | Merrow's "which hall" | 20 | 22 | 23 | 24 | done |
-| Eden's true answer to Lysette (debt) | 24 | 25 | - | 26 | planned: "Were you up here the whole time?" "No." |
-| Felix learns Eden hides power (big) | 11 | 28 | 36 | 47 | planned |
+| Felix learns Eden hides power (big) | 11 | 28 | 37 | 47 | planned |
 | Groundskeeper is a Veil | 31 | 36 | 41, 43 | 45 | planned |
 | Groundskeeper "mastermind" (misdirection) | 45 | - | - | 185 (false) | ok |
 
@@ -87,12 +86,12 @@ Small twists (gap 3+; D and E to be placed at their arc's planning): Brandmeier 
 |---|---|---|---|---|
 | Lysette (Auda) | 49 (her replay's dust hangs still for a breath) | 72 | 133 | 141 |
 | Duke Aldous (Durn) | 28 (a bell rings once as he laughs) | 85 | 133 | 193 |
-| Valerius (Esk) | 25 (his wall frosts when he looks at Eden) | 120 | 160 | 194 |
+| Valerius (Esk) | 46 (his wall frosts for a breath when he sees the camp burn) | 120 | 160 | 194 |
 | Archduke Halberg (Kolv) | 77 | 150 | 180 | 194 |
 | Clara (Ressa) | 46 (grass greens under her knees for a second) | 120 | 200 | 226 |
 | Rowan (Tirra) | 34 (his light makes the night bright for one breath) | 110 | 200 | 230 |
 | Felix (Vant) | 47 ("something said my name back") | 108 | 170 | 238 |
-| Ilsabet Rorke (Ruun) | 25 (frost under her stays when she falls) | 150 | 270 | 285 |
+| Ilsabet Rorke (Ruun) | 150 (frost under her stays when she falls) | 200 | 270 | 285 |
 | Okoru (Imbri) | 39 (old story: he held the cistern with threads) | 60 | 194 | 296 |
 | Seraphine (Rinn) | 35 (a candle flickers backward at her swap) | 106 | 149 | 330 |
 | Belozerov (Sorn) | 106 | 541 | 651 | 693 |
@@ -100,7 +99,7 @@ Small twists (gap 3+; D and E to be placed at their arc's planning): Brandmeier 
 
 ## PATCH LIST for chapters 1-25 (17 items; prefer cutting; model lines only show intent)
 1. ch 3 | "I pulled out my lance and closed it into the shield, a door-shield the size of a small door with an iron ring-knocker in the middle." | First use of Ixa: name it, look (matte black, a little shorter than Eden, cold), and limit (only as strong as his arms). Model: "I drew Ixa out of my shadow, a short black lance as cold as a gate in winter, and knocked once." Same chapter, "Ea does not shine, though people expect it to." | add Ea's look before it (hand-and-a-half sword, pale blade like ice at dawn, plain grey grip) and "I reached into the Gate" gets 4-6 words of cost (holding it drains him a little, like a slow breath out).
-2. ch 4 | "Everyone in the school knows that name. Two years ago the Black Order killed Corentin Hollen for treason against the crown." (and the rest of that paragraph, to "the lost gloves.") | CUT. Replace with: the yard knows the name and goes quiet; he died two years ago; no cause, no Black Order, no notice. Model: "Everyone knew the name. Nobody said it to her face."
+2. ch 4 | "Everyone in the school knows that name. Two years ago the Black Order killed Corentin Hollen for treason against the crown." (and the rest of that paragraph, to "the lost gloves.") | CUT the cause. Replace with honest avoidance: the yard knows the name and goes quiet; he died two years ago; Eden admits there was a notice and he never read the gate notices (true to him, no cause stated). Model: "Everyone knew the name. There had been a notice on the gate once. I never read the gate notices."
 3. ch 4 | "and the feeling that somewhere deep in a house a door was closing very quietly." | CUT (the door image points at Eden too early). Keep the stomach turning.
 4. ch 4 | "\"I will prove,\" she said, to the yard, to the east wall, to the sky above it, \"that they are monsters.\"" | CUT the vow (it names a killer). Keep her standing straight; the next line "The girl stopped saying sorry. Nobody said a word." still works. Her vow now first comes in ch 13.
 5. ch 4 | "\"My savior slept through breakfast again.\"" | Remove "savior". Model: "\"The sleeper came to lunch.\""

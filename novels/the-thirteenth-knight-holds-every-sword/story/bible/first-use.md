@@ -37,7 +37,7 @@ Format: `name | owner | first on page ch N | described: yes/partly/no | limit sh
 Not yet on page: Stitch (Okoru), Mischief (Seraphine), the word "aura", spells cast on page, class/job readings, guns, Ward-plate, Resonance Bell in use, Raiments, Thessa.
 
 ## Planned first uses (outline chapters)
-- Class/job reading (Eden: Knight, Black Lancer) | ch 27 (finals board posts registered jobs; his own reading in his head)
+- Class/job reading (Eden: Knight, Black Lancer) | ch 27 (finals board posts ranks; his own reading in his head)
 - Aura as a word and a knight's aura stopping a bullet | ch 31 (Wall drill: a sergeant shows recruits a pistol ball sliding off)
 - First gun on the page (mana-lock musket on the Wall) | ch 31
 - Ward-plate | ch 31

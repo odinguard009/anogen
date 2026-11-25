@@ -284,5 +284,18 @@
       "pacing_shape": "steady climb ending on a drop",
       "hook_type": "unexpected arrival"
     }
+  },
+  {
+    "chapter": 23,
+    "picks": {
+      "opening_type": "a document, notice or letter",
+      "scene_shape": "escape or pursuit",
+      "tension_type": "outmatched opponent",
+      "emotional_tone": "pride that costs something",
+      "comic_device": "physical comedy with no food and no forms",
+      "conflict_type": "ambush",
+      "pacing_shape": "fast start, slows into consequence",
+      "hook_type": "decision with a price"
+    }
   }
 ]

@@ -1,10 +1,10 @@
 Full ladder with plants and misdirection: twists-1.md, twists-2.md. Near-term secrets:
-- Corentin Hollen was a Veil; Eden killed it | known by: Eden (face only), Ysolde | reveal planned: ch 36 (Black Order link), 45 (reader), 140 (Lysette)
+- Corentin Hollen was a Veil; Eden killed it | known by: Eden (face only), Ysolde | reveal planned: ch 36 (Thirteenth Vigil link), 45 (reader), 140 (Lysette)
 - The Tailor knows Eden is the vessel, waits for the seal to crack | known by: nobody | reveal planned: ch 50 (hint)
 - Grey Grafts are Hush flesh from the Tailor | known by: Merrow | reveal planned: ch 95
 - Volkhovar finances the Lanternhouse Compact | known by: Kell, Belozerov | reveal planned: ch 98
 - Rowan is Lirenne's lost heir | known by: Merrow | reveal planned: ch 110
-- Eden is the Black Order | known by: Eden, king, Ysolde, Duke (household guesses) | reveal planned: ch 140 (Lysette)
+- Eden is the Thirteenth Vigil | known by: Eden, king, Ysolde, Duke (household guesses) | reveal planned: ch 140 (Lysette)
 - Merrow is the Regent | known by: nobody | reveal planned: ch 150
 - Ysolde holds Liora's letter | known by: Ysolde, Duke | reveal planned: ch 155
 - Eden is the Argentine heir | known by: king, Ysolde, Duke, household, Ostwald, twins | reveal planned: ch 160

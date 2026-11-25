@@ -4,7 +4,7 @@
 - No death unless it carries clear meaning for plot or theme, is foreshadowed at least 10 chapters ahead, and is given a full scene of weight. Never kill for shock or to "raise stakes" cheaply. Nameless soldiers die in war, but the narration notices them.
 - Tension comes from other costs: lost power (Inead's refusal 260-330), lost memory (Lysette, 420-445), broken trust (140, 214, 236), public cost (160, 290, 301-350), injury (Duke's fingers 200, Felix's arm 382), strained bonds, tested principles.
 - "Feared dead but alive" is used once, fairly: Felix lost at sea (382), found alive (397); planted by Thessa's law and Thalos's tide. Clara's Veil replacement is not a death: she is rescued from the Hush (480).
-- Already dead before the story: Liora (meaning: the root wound), Corentin Hollen (meaning: Lysette's grief and the Black Order's moral cost; cannot be saved).
+- Already dead before the story: Liora (meaning: the root wound), Corentin Hollen (meaning: Lysette's grief and the Thirteenth Vigil's moral cost; cannot be saved).
 
 ## Planned deaths (complete list; add only with a purpose line)
 1. Desmond Harrow, Crown of Gallowmarch (ch 50): grafted enemy dies grey; shows the graft's price and delivers the Tailor's message.

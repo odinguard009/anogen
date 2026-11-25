@@ -31,7 +31,7 @@ SUPERSEDED where it conflicts by story/bible/power-system.md (owner order 2026-1
 11. Mutebell, a minor relic that silences his own steps (62)
 12. Losing on purpose by making the opponent fall to his own momentum (66)
 13. Doorstep chain through moving carriages (70)
-14. Leaking a false Black Order schedule to flush a mole (77)
+14. Leaking a false Thirteenth Vigil schedule to flush a mole (77)
 15. The Tallow Saint's Candle, a relic flame that never goes out: guaranteed edges in the dark (79)
 16. Lying flat at noon to shrink his shadow in a sniper duel; Hald's arrows enter one shadow and exit another (84)
 17. The Glassmonger's Lens: seeing through walls along shadows (88)

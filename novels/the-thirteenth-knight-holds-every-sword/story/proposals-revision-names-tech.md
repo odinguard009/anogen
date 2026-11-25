@@ -36,7 +36,7 @@ Catatan jujur: "Exa" dan "Inead" TIDAK ada di kanon sekarang. Saya anggap itu co
 | Wardenshell | **Thessa** | dipinjamkan ke Felix (arc 1, bab 47-50 di outline) |
 | Morrowpin (jepit rambut, relik Keeping; muncul di bab 2) | **Ynde** | sudah ada di teks bab, jadi ikut dihitung di langkah E.1 |
 
-Tidak diusulkan sekarang (butuh keputusan Odin dulu, karena Odin sudah membaca bab-bab ini): nama orang, nama negara dan tempat, nama orde berwarna (Argent Order, Crimson Rampart, dst.), nama teknik Eden (Lintel and Lamp, Latch, Hinge, Doorstep; nadanya sengaja jenaka).
+Tidak diusulkan sekarang (butuh keputusan Odin dulu, karena Odin sudah membaca bab-bab ini): nama orang, nama negara dan tempat, nama orde berwarna (Crownguard, Rampart Host, dst.), nama teknik Eden (Lintel and Lamp, Latch, Hinge, Doorstep; nadanya sengaja jenaka).
 Armor tetap "Aster" (itu nama tengah Eden dan nama ibunya; bukan nama jelek).
 
 ## C. Lapisan teknologi: "Zaman Meridian" (setara 1800-an + mana engineering)

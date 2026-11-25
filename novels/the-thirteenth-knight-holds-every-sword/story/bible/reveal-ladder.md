@@ -3,16 +3,16 @@ Rungs: H = HINT (reader may not notice), D = DOUBT (someone asks a question), E 
 Rules: small reveal = at least 3 chapters between rungs; big reveal = at least 8, and C never earlier than 15 chapters after the first H. Gaps count from the first chapter of each rung; a rung may have several beats. New start 2026-11-25: nothing is written yet, so every rung below is still to be written. Writers: never confirm early; never skip a rung.
 
 ## Ringkasan untuk Odin
-- Pembunuhan Corentin dipecah dua. (a) "Black Order yang mengeksekusi Corentin" baru pasti di bab 36. (b) "Corentin sebenarnya Veil, dan Eden yang membunuhnya" baru terungkap ke pembaca di bab 45. Lysette tetap tahu di bab 140.
+- Pembunuhan Corentin dipecah dua. (a) "Thirteenth Vigil yang mengeksekusi Corentin" baru pasti di bab 36. (b) "Corentin sebenarnya Veil, dan Eden yang membunuhnya" baru terungkap ke pembaca di bab 45. Lysette tetap tahu di bab 140.
 - Kisah Eden menyelamatkan Putri Seraphine (umur 12) baru diceritakan jelas di bab 35. Bab 4, 7, 10 diperhalus: tidak ada lagi "my savior" dan cerita serigala.
 - Daftar tambalan bab 1-25: 17 butir (di bawah).
 
 ## The two early problems, decided
 ### Corentin (was: stated flat in ch 4, echoed in 10, 13, 21)
 Split into two reveals.
-- C1 "the Black Order (so, Eden) executed Corentin" (big) [REDESIGNED 2026-11-25, locket removed from ch 4]: H 10 and 13 (ch 10 letter: "shame"; ch 13 an empty frame-shaped pale patch on her desk wall, she says "None of your business") | D 21 (the locket appears for the first time, silver, she wears it once a year and shuts it when the Black Order is mentioned) | E 27 (a Seal column names "the Hollen affair, PR 110"; Eden does not count back; she opens the locket for him at night on the roof: a young man's face; Eden's stomach turns and he looks away) | C 36 (a veteran: "Like the Hollen boy." Eden: in PR 110 the Black Order was only him).
+- C1 "the Thirteenth Vigil (so, Eden) executed Corentin" (big) [REDESIGNED 2026-11-25, locket removed from ch 4]: H 10 and 13 (ch 10 letter: "shame"; ch 13 an empty frame-shaped pale patch on her desk wall, she says "None of your business") | D 21 (the locket appears for the first time, silver, she wears it once a year and shuts it when the Thirteenth Vigil is mentioned) | E 27 (a Seal column names "the Hollen affair, PR 110"; Eden does not count back; she opens the locket for him at night on the roof: a young man's face; Eden's stomach turns and he looks away) | C 36 (a veteran: "Like the Hollen boy." Eden: in PR 110 the Thirteenth Vigil was only him).
 - C2 "Corentin was a Veil; Eden killed it" (big; reader): H 13 (the empty frame; Eden does not connect it) | D 21 (he came home from court and could not dance) | E 27 (stomach turns at the face) and 37 (the PR 110 file carries Eden's own confirm mark; he cannot remember the face clearly) | C 45 (the groundskeeper Veil's grey brings back the memory: the same grey under Corentin's face). Lysette's own ladder: H 13, D 50, E 101/133, C 140.
-- Ch 4 now carries NO locket, no face, no Corentin (owner order 2026-11-25). The old rule below no longer applies. Old ch 4 must lose: the Black Order notice, "treason", the door image, the vow. Ch 13 keeps its vow ("I'll find out who opens the doors").
+- Ch 4 now carries NO locket, no face, no Corentin (owner order 2026-11-25). The old rule below no longer applies. Old ch 4 must lose: the Thirteenth Vigil notice, "treason", the door image, the vow. Ch 13 keeps its vow ("I'll find out who opens the doors").
 ### Seraphine's rescue (was: "my savior" in ch 4 and 7, the wolves story in ch 10)
 - S1 "Eden saved Seraphine at twelve, and that is why the twins know him" (big): H 2 (Valerius: "finally stopped hiding?") and 4 (she treats him like an old friend) | D 10 (Lysette: why does a princess ask a sleeper "You'd save me, right?") | E 25 (glass walk: her hand stops shaking, as if she knows this walk) | C 35 (on the Wall at night: "It was cold like this at the lodge." Eden tells the reader the PR 106 rescue in plain words).
 - T1-6 (her love, ch 145) stays separate; its seed is now "You'd save me, right?" (ch 10).
@@ -20,7 +20,7 @@ Split into two reveals.
 ## Table: twists-1 (T1) and twists-2 (T2)
 | Reveal | H | D | E | C | Status |
 |---|---|---|---|---|---|
-| T1-1a C1 Black Order executed Corentin | 4 | 13 | 27 | 36 | replanned |
+| T1-1a C1 Thirteenth Vigil executed Corentin | 4 | 13 | 27 | 36 | replanned |
 | T1-1b C2 Corentin was a Veil (reader) | 4 | 21 | 37 | 45 | replanned (was 38) |
 | T1-1c Lysette learns | 13 | 50 | 101, 133 | 140 | ok |
 | S1 Eden saved Seraphine | 2, 4 | 10 | 25 | 35 | replanned |
@@ -29,7 +29,7 @@ Split into two reveals.
 | T1-4 Volkhovar funds Lanternhouse | 55 | 70 | 88 | 98 | ok |
 | T1-5 Rowan heir of Lirenne | 6 | 44 | 70, 90 | 110 | ok |
 | T1-6 Seraphine's love | 10 | 35 | 60, 118 | 145 | ok |
-| T1-7 Eden is the Black Order (Lysette) | 13 | 24-25 | 50, 101 | 140 | ok |
+| T1-7 Eden is the Thirteenth Vigil (Lysette) | 13 | 24-25 | 50, 101 | 140 | ok |
 | T1-8 Merrow is the Regent | 20, 25 | 77 | 112 | 150 | ok |
 | T1-9 Ysolde holds Liora's letter | 9 | 40 | 63, 133 | 155 | ok |
 | T1-10 Household guards Eden | 28 | 75 | 133 | 163 | ok |
@@ -99,7 +99,7 @@ Small twists (gap 3+; D and E to be placed at their arc's planning): Brandmeier 
 
 ## PATCH LIST for chapters 1-25 (17 items) = WRITING CONSTRAINTS for the new draft of ch 1-25 (written for the first draft; apply them as rules while writing; prefer cutting; model lines only show intent)
 1. ch 3 | "I pulled out my lance and closed it into the shield, a door-shield the size of a small door with an iron ring-knocker in the middle." | First use of Exa: name it, look (matte black, a little shorter than Eden, cold), and limit (only as strong as his arms). Model: "I drew Exa out of my shadow, a short black lance as cold as a gate in winter, and knocked once." Same chapter, "Inead does not shine, though people expect it to." | add Inead's look before it (hand-and-a-half sword, pale blade like ice at dawn, plain grey grip) and "I reached into the Gate" gets 4-6 words of cost (holding it drains him a little, like a slow breath out).
-2. ch 4 | "Everyone in the school knows that name. Two years ago the Black Order killed Corentin Hollen for treason against the crown." (and the rest of that paragraph, to "the lost gloves.") | CUT the cause. Replace with honest avoidance: the yard knows the name and goes quiet; he died two years ago; Eden admits there was a notice and he never read the gate notices (true to him, no cause stated). Model: "Everyone knew the name. There had been a notice on the gate once. I never read the gate notices."
+2. ch 4 | "Everyone in the school knows that name. Two years ago the Thirteenth Vigil killed Corentin Hollen for treason against the crown." (and the rest of that paragraph, to "the lost gloves.") | CUT the cause. Replace with honest avoidance: the yard knows the name and goes quiet; he died two years ago; Eden admits there was a notice and he never read the gate notices (true to him, no cause stated). Model: "Everyone knew the name. There had been a notice on the gate once. I never read the gate notices."
 3. ch 4 | "and the feeling that somewhere deep in a house a door was closing very quietly." | CUT (the door image points at Eden too early). Keep the stomach turning.
 4. ch 4 | "\"I will prove,\" she said, to the yard, to the east wall, to the sky above it, \"that they are monsters.\"" | CUT the vow (it names a killer). Keep her standing straight; the next line "The girl stopped saying sorry. Nobody said a word." still works. Her vow now first comes in ch 13.
 5. ch 4 | "\"My savior slept through breakfast again.\"" | Remove "savior". Model: "\"The sleeper came to lunch.\""
@@ -107,7 +107,7 @@ Small twists (gap 3+; D and E to be placed at their arc's planning): Brandmeier 
 7. ch 5 | "What I was allowed to use in front of people was a short dark lance, for blocking." -> "...was Exa, my short dark lance, for blocking." | Name consistency. Same chapter, at "I knocked." in the warden fight: add the label **[Latch]** on the line where the blade sticks. Description already enough.
 8. ch 7 | "\"My savior is at a table,\" she said." | Model: "\"Our sleeper is at a table,\" she said."
 9. ch 8 | "Mirelle did not come out. She never did until she had a reason" | Add Mirelle's look in 2 sentences (tall, grey mask, a long thin blade) and her limit (she strikes only through a door Eden opens). At "a long thin blade came up through it": add the label **[Sile]**.
-10. ch 10 | "and it would be until the Black Order was dragged into the light. *Until then, we are the family of a traitor, and we will act as if we were not.*" | Keep the shame, remove the Black Order and "traitor". Model: "...at certain tables. *We will act as if it were not.*"
+10. ch 10 | "and it would be until the Thirteenth Vigil was dragged into the light. *Until then, we are the family of a traitor, and we will act as if we were not.*" | Keep the shame, remove the Thirteenth Vigil and "traitor". Model: "...at certain tables. *We will act as if it were not.*"
 11. ch 10 | "\"You'd save me again, right? If I needed it. Like last time.\"" plus the paragraph "Lysette knew about last time only as a rumor, with a different number of wolves each time." and the wolves exchange up to before "\"Probably,\" he said." | Make it "\"You'd save me, right? If I needed it.\"" Cut the wolves rumor and the two-wolves/seven-wolves lines. Add one line of Lysette's doubt: why would a princess ask a sleeper that, as if it were an old joke? Keep "Probably. If I'm awake." and her still face.
 12. ch 11 | "It was Spark, a small gold flare the size of a lantern." | Avoid the stage word. Model: "It was his light, a small gold flare..." and after the hounds, one line: his hands are cold after (limit). Same chapter, after "and the edges of the cut came together and turned pink and closed.": one line where Clara rubs her own arm as if the cut were hers (her cost).
 13. ch 16 | at "\"This line is not crossed,\" he said." add **[Injunction]** where the wall rises; after "\"Court is in session,\" said Valerius." show one ruling costing him a breath (limit). At "I call it the Hinge." add **[Hinge]** at the pivot. (2 labels.)

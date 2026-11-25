@@ -20,13 +20,13 @@ Aldous
 Aldric
 Aldric Argentine
 Ama
-Amber Hearth
+Hearthwrights
 Ambrose
 Ambrose Kell
 Archduke
 Archmage
 Argent Dawn
-Argent Order
+Crownguard
 Argentine
 Arkady
 Arkady Belozerov
@@ -47,7 +47,7 @@ Aurelis See
 Aurelune
 Aurenmark
 Awakened
-Azure Tide
+Tidewatch
 Back-Trail
 Bastien Ardenne
 Bastion
@@ -64,7 +64,7 @@ Bertram
 Bertram Quell
 Binding of Thrones
 Black Lancer
-Black Order
+Thirteenth Vigil
 Black Thirteen
 Blue Hour
 Bodil
@@ -74,7 +74,7 @@ Brann Okafor-Dunst
 Breach
 Brennoch
 Brisa
-Bronze Bell
+Bellwardens
 Brunn
 Bursar
 Candlewick
@@ -104,7 +104,7 @@ Corentin Hollen
 Corporal
 Corwen
 Court in Session
-Crimson Rampart
+Rampart Host
 Crossing
 Crown
 Crown Prince
@@ -211,7 +211,7 @@ Gisela Morvaine
 Glaceren
 Glasshouse Forge
 Glassmonger's Lens
-Golden Seal
+Justiciar Seal
 Gorrath
 Grady
 Grady Owen Marsh
@@ -222,7 +222,7 @@ Great Gathering
 Green Line
 Greta
 Greta Vos
-Grey Gale
+Galewing
 Grey Graft
 Grey Grafts
 Grey Gulf
@@ -275,7 +275,7 @@ Ilsabet Rorke
 Ilse Brandmeier
 Ilune
 Imbri
-Indigo Veil
+Cipher Court
 Injunction
 Inquiry
 Inquisitor
@@ -288,7 +288,7 @@ Isra
 Isthmus Company
 Isthmus Line
 Ithe
-Ivory Order
+Mercyhold
 Exa
 Jade General
 Jade Throne
@@ -600,7 +600,7 @@ Tsukishiro Kaede
 Tutor
 Twentieth Rule
 Ubrak
-Umber Anvil
+Sapper Forge
 Umra
 Unbind
 Uncle
@@ -623,11 +623,11 @@ Veil
 Veil class
 Veils
 Verandel
-Verdant Thorn
+Thornwardens
 Verdict
 Vesk
 Vey
-Violet Lantern
+Wellspire
 Vire
 Void Heir
 Void Host

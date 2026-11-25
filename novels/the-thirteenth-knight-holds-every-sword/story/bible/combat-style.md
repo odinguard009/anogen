@@ -43,7 +43,7 @@ Slow blink before he finishes. One tap on the knocker ring when he decides. "Fin
 
 ## The Ten Retainers (Ten Pillars): how they fight
 - X Vesk, the Lantern-Eyed (start): scout; wears shadows as disguises; knives; sarcastic gossip.
-- IX Gorrath, the Bastion (start): giant with a tower shield; gentle; terrible liar; does the Black Order's voices.
+- IX Gorrath, the Bastion (start): giant with a tower shield; gentle; terrible liar; does the Thirteenth Vigil's voices.
 - VIII Mirelle, the Quiet Blade (start): one long thin blade; almost never speaks; strikes in silence.
 - VII Hald, the Last Archer (80): greatbow; arrows into one shadow, out of another; grumpy, counts every arrow.
 - VI Sefa, the Cartographer of Doors (240): links shadows across distance with a folding chain-compass; chatty scholar.

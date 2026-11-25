@@ -52,7 +52,7 @@ The door cracked again. From inside, an old woman's voice shouted, hoarse and an
 
 "Then it will be easy to give us."
 
-I stood still at the corner. Here is what I knew. I could not use my armor in the open street, because the Black Order was a rumour, and every rumour needs a long time to die. I could not blow a whistle for the city watch, because the watch would ask a boy in a school coat what he was doing on Wick Street, and a boy who sleeps on roofs does not have good answers. I could walk away. That was the easy thing, and it was the sensible thing, and I had done it before, many times, and I had never liked myself afterward.
+I stood still at the corner. Here is what I knew. I could not use my armor in the open street, because the Thirteenth Vigil was a rumour, and every rumour needs a long time to die. I could not blow a whistle for the city watch, because the watch would ask a boy in a school coat what he was doing on Wick Street, and a boy who sleeps on roofs does not have good answers. I could walk away. That was the easy thing, and it was the sensible thing, and I had done it before, many times, and I had never liked myself afterward.
 
 "Gorrath," I whispered.
 

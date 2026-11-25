@@ -2,7 +2,7 @@
 
 ## Eden (narrator)
 - 18, public Eden Wren, roof sleeper ("the roof is a medical matter"). 61 absences. Nightly war dream; Tutor's siege game; crooked door with silver hairpin ("Not yet").
-- Black Order for Ysolde (tall, thin, grey coat). Ch 3: killed the Veil wearing telephone supervisor Alaric Aubin Dunmore in the Solmarch exchange; its book lists Year 5, Rowan circled; it said it was told a man in black would come. Eden wears Umra, draws gold-light Inead for the last stroke only.
+- Thirteenth Vigil for Ysolde (tall, thin, grey coat). Ch 3: killed the Veil wearing telephone supervisor Alaric Aubin Dunmore in the Solmarch exchange; its book lists Year 5, Rowan circled; it said it was told a man in black would come. Eden wears Umra, draws gold-light Inead for the last stroke only.
 - Powers shown: Door (needs a shade edge), Umra, Gate + Inead, Exa (folds to door-shield), Latch, Sile (Mirelle). Bell: 3 tones; only he hears a 4th.
 - Flat: logs his feelings as facts (cold stomach twice by ch 5; dropped soup at a ringing telephone). Lysette: "calmest person I know, and that is the sad part."
 - Ch 7: Lysette's pink warrant on his coat; deal: morning classes for 25 min roof at lunch. Black card "Remember Thornmere. Remember." (bookmark). Grey-coated man with tea-brown thumb watched, took notes.

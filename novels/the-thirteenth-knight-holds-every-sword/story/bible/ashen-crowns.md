@@ -17,7 +17,7 @@ A secret network of heirs, exiles and grieving families of the eleven kingdoms t
 
 ## Methods
 - Grey Grafts: a sliver of Hush flesh sewn under the skin. Gives a second, borrowed Tenet-like power (the only known exception to one-soul-one-Tenet) at the cost of slow greying; the grafted eventually turn Hushborn. Members do not know where grafts come from until ch 95.
-- Assassinations, kidnappings of conquered-kingdom descendants, sabotage of supply roads, bombings with unstable mana stones, staging fake "Black Order" murders to turn the public against the crown's secret order.
+- Assassinations, kidnappings of conquered-kingdom descendants, sabotage of supply roads, bombings with unstable mana stones, staging fake "Thirteenth Vigil" murders to turn the public against the crown's secret order.
 - Recruitment hook: a black card with a pressed ash-rose and the name of your family's lost kingdom, and one word: "Remember." Sent to anyone with a conquered-kingdom surname.
 
 ## How Eden is involved by accident

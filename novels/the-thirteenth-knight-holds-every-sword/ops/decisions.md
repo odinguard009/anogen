@@ -33,3 +33,6 @@ Also reset (found while reading the writer pack): reveal-ladder.md ("count as do
 
 ## 2026-11-25 owner order: style merge and eight changes
 Owner (after reading ch 1-10 of the new start): he liked the old drafts' openings, voice and endings; liked the new drafts' battles. Orders: (1) merge both; (2) Lysette's look from his reference picture (characters.md); (3) rename Ea -> Inead (gold sword of light, loud opposite of the black armor), Ixa -> Exa (rename.py applied to story/ and chapters/); (4) Eden works silent, secret, precise; Black Order a legend, no crowd chase (orders.md, profile.md STYLE MERGE); (5) armor-up scene rewritten in Garo manner (armor.md, profile.md); (6) Eden flat, never the most emotional (characters.md, profile.md); (7) Corentin locket removed from ch 4; first on page ch 21, opened ch 27; ladder, twists, debts, arc-1 outline updated; (8) Veil redesign and ch 3 first fight rebuilt as a hook (invaders.md); (9) setting late 1890s with motor-cars and telephones (tech.md). Chapters 1-10 are to be rewritten under these rules (owner's explicit order, locked setting 9).
+
+## 2026-11-25 owner order: every order gets its own name
+All 13 orders renamed so no name is a color alone (orders.md, rename.py on story/ plus one word in chapter 9). Colors stay as livery. Chapters were not rewritten.

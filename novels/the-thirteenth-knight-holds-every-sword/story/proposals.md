@@ -67,7 +67,7 @@ STATUS: DISETUJUI SEMUA oleh Odin (2026-11-24). Jangan dibuka lagi tanpa perinta
     - Ward-plate: armor massal tiap ordo.
     - Named Raiment: armor suci dari Vault; hanya Eden yang bisa memanggil atau meminjamkannya.
     - Sovereign Raiment: buatan para dewa.
-    - Umra: armor hitam Black Order, dari bayangan.
+    - Umra: armor hitam Thirteenth Vigil, dari bayangan.
     - Throne-form: wujud domain para host dewa.
     - Armor rusak: Pale Raiment, Lantern rig, dan Kept Knight.
 14. **Cara memanggil armor ("the Knock"):** tiga ketukan pada cincin pengetuk perisai-pintu Eden, lalu nama armornya. Peminjam menjawab dengan nama tengahnya sendiri.
@@ -90,7 +90,7 @@ STATUS: DISETUJUI SEMUA oleh Odin (2026-11-24). Jangan dibuka lagi tanpa perinta
     - Eyra: armor Valkyrie miliknya sendiri
     - Inead: ditempa ulang olehnya
     - Glasshouse Forge: tempa rahasia, berisi pedang "Last Light" yang belum selesai dan dua cincin berlabel "Not yet"
-17. **Armor Eden, "Aster":** armor hitam Black Order ternyata karya ibunya yang tersegel (terungkap ch 175).
+17. **Armor Eden, "Aster":** armor hitam Thirteenth Vigil ternyata karya ibunya yang tersegel (terungkap ch 175).
     - 5 tahap evolusi: ch 175, 199, 400, 446, dan 590. Tiap tahap terkait pemulihan emosi Eden serta terbukanya Emperor dan Naga.
     - Armor ini tidak berdentang (tanpa Seven Tolls). Harganya: setiap pemakaian besar menghabiskan satu Keep, satu pesan ibunya, untuk selamanya.
     - Pesan terakhir diputar di ch 795, lewat Aster dan Sevar bersamaan.

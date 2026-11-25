@@ -23,11 +23,11 @@
 
 ## Intrigue set pieces (chapters)
 1. 56-60 Kell's sealed-bid auction for a blackmail ledger; Eden bids through a cutout and loses on purpose to learn who wins.
-2. 72 Two raids collide: Black Order and Golden Seal hit the same warehouse; Lysette's mother leads one.
-3. 77 Canary trap: false Black Order schedules leaked to four suspects.
+2. 72 Two raids collide: Thirteenth Vigil and Justiciar Seal hit the same warehouse; Lysette's mother leads one.
+3. 77 Canary trap: false Thirteenth Vigil schedules leaked to four suspects.
 4. 82 Order Council war-budget vote: seven of twelve masters by the noon bell; Halberg buys two, Ostwald's sudden proxy flips one.
 5. 96-100 Parade carts: a train of twelve carts, one bomb; the clock is the parade route.
-6. 105 A delegate's murder framed on the Black Order; 48 hours before the Concord session.
+6. 105 A delegate's murder framed on the Thirteenth Vigil; 48 hours before the Concord session.
 7. 112 Seat-lapse clause: a nation absent three sessions loses its seat; Volkhovar delays Mansakar's ship.
 8. 117 Poison banquet: seven courses as the timer.
 9. 128 Seraphine's first negotiation: well-rights swap with Saravant; she wins by giving more than asked.

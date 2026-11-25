@@ -62,7 +62,7 @@ At the Bell Assessment the year a person turns 14 (and again each year), they la
 - CLASS: what kind of fighter or person the planet reads you as. One class. It changes only at a life turn. Examples: Knight, Ranger, Mender, Duelist, Warden, Commander. Rare classes exist that registrars only hear of in stories.
 - JOB: the role you act in now. One to three. A job names your learned skills (forms, spells, drills) and gives each skill one clear limit. A new skill comes from training plus a real test, never from a number going up.
 - The live reading can change mid-scene when the role changes (Eden is the example).
-- VISIBILITY: only the owner sees their own reading. Other characters see only what the owner declares. The Crown Register, the kingdom's record office, writes down the declared jobs, checked against the Bell's tones by a Golden Seal clerk. The Register is sealed like Tenet records: only the order master or the king's office may open it. Boards post ranks, never jobs. The reader sees a reading only through the POV owner.
+- VISIBILITY: only the owner sees their own reading. Other characters see only what the owner declares. The Crown Register, the kingdom's record office, writes down the declared jobs, checked against the Bell's tones by a Justiciar Seal clerk. The Register is sealed like Tenet records: only the order master or the king's office may open it. Boards post ranks, never jobs. The reader sees a reading only through the POV owner.
 - NOT: levels, stats, a hit-point bar, or a ranking. Two people with the same job can fight in opposite ways.
 
 ### On the page (format)
@@ -85,7 +85,7 @@ A Choir's silence stops spoken words; hand-sign spells still work, slowly.
 - God powers: Melsche Door, Sepiroth Gate, Valkyrie arts, Throne powers. They sit where a Tenet would sit but are not Tenets. They have their own prices.
 
 ## 5b. One example: all layers in one moment
-A Crimson Rampart knight holds a gate on the Wall. Six steps away, an Ember fires a pistol. She breathes in and raises her aura (MANA spent like a full bucket): the ball slides off her shoulder plate, and her hand stings. A second man lifts a crossbow, and she knows aura will not stop a bolt. Her job is Warden; its skill is a door-sized ward, and she casts it in two breaths (SPELL, a sprint of mana). The bolt cracks against it. Then her TENET, Shield, makes the ward hold its place while she steps out from behind it. Her reading never shows; the man only sees a tired woman who will not move.
+A Rampart Host knight holds a gate on the Wall. Six steps away, an Ember fires a pistol. She breathes in and raises her aura (MANA spent like a full bucket): the ball slides off her shoulder plate, and her hand stings. A second man lifts a crossbow, and she knows aura will not stop a bolt. Her job is Warden; its skill is a door-sized ward, and she casts it in two breaths (SPELL, a sprint of mana). The bolt cracks against it. Then her TENET, Shield, makes the ward hold its place while she steps out from behind it. Her reading never shows; the man only sees a tired woman who will not move.
 
 ## 6. What trained people can do (no levels; for imagination)
 - Ordinary person: no aura. A bullet, bolt or sword kills them. Household spells at most (warm a cup, light a lamp-stone).
@@ -116,7 +116,7 @@ Who wins is never settled by this list. A small tank used well beats a big tank 
 | Inead (sword) | relic via the Gate | hand-and-a-half sword of gold light made solid (owner order 2026-11-25), plain grey grip; shines like a low sun and rings softly when drawn, the loud opposite of Eden's black armor; makes light honest: illusions fail, Veils show grey | needs some light; cheap to hold, but still a small drain |
 | Sepiroth Gate | god power, Valkyrie birthright | summons ANY weapon or relic stored in the Sepiroth Vault (section 15); lends them by middle name | drain per second per relic; fever, nosebleed when overdrawn |
 | Raiments and Tolls | gear | holy armor, each with one power | Tolls add weight; seventh Toll Keeps (Eden: the Emperor surfaces) |
-| Umra / Aster | Door gear (Aster: Liora's work) | black plate rising from his shadow, silent | Frost; reads as Black Order to anyone who sees |
+| Umra / Aster | Door gear (Aster: Liora's work) | black plate rising from his shadow, silent | Frost; reads as Thirteenth Vigil to anyone who sees |
 | Ten Pillars | Door summons | each has own aura, skills and voice | drain per minute; big shadow for big summons; never kill humans |
 | Witness (Lysette) | Tenet | replays a place's last minutes as ghost-light | still place, time; headache at half a minute, nosebleed at five |
 | Dawnbreak (Rowan) | Tenet | gold light that burns Hushborn and throws hard shadows | drains warmth; makes him easy to see |
@@ -149,7 +149,7 @@ Who wins is never settled by this list. A small tank used well beats a big tank 
 ## 11. Class and job table (registered / true)
 | Person | Registered (Crown Register) | True reading (only they see) |
 |---|---|---|
-| Eden | Knight: Black Lancer, White Swordsman | as Eden Wren: Knight, Black Lancer; as the Black Order: Void Heir |
+| Eden | Knight: Black Lancer, White Swordsman | as Eden Wren: Knight, Black Lancer; as the Thirteenth Vigil: Void Heir |
 | Lysette | Knight: Inquisitor | same; a hidden line wakes at ch 580 |
 | Rowan | Knight: Vanguard | same; a hidden line wakes at ch 470 |
 | Felix | Ranger: Archer, Tracker | same |

@@ -35,6 +35,6 @@ arc_default_max: 50
 - Detailed, exciting, varied. Different tactic, terrain and stake each time.
 
 ## Open choices (fill in or say "bebas" so the Development Editor decides)
-- Premise / seed idea: Owner's idea, developed in story/bible/premise.md and story/outline/series.md (invaded 3x-Earth world, Hallowcrest academy, secret Black Order).
-- Protagonist name and background: Eden Aster Argentine, 18, public name Eden Wren (mother's cover surname); Year 5 rooftop sleeper, always rank 7-9; hidden Argentine heir; sole member of the Black Order; half-Valkyrie kept alive by the Emperor of Void's essence; holds Melsche Door and Sepiroth Gate.
+- Premise / seed idea: Owner's idea, developed in story/bible/premise.md and story/outline/series.md (invaded 3x-Earth world, Hallowcrest academy, secret Thirteenth Vigil).
+- Protagonist name and background: Eden Aster Argentine, 18, public name Eden Wren (mother's cover surname); Year 5 rooftop sleeper, always rank 7-9; hidden Argentine heir; sole member of the Thirteenth Vigil; half-Valkyrie kept alive by the Emperor of Void's essence; holds Melsche Door and Sepiroth Gate.
 - Core world hook: Elysmar, mirrored-Earth world 3x larger; the Hush has eaten 30% from the south pole; the Iron King's summoning of the Emperor of Void still shapes politics; 13 nations fight over the last Crown Wells; the Ashen Crowns wage terror; Veils wear human faces.

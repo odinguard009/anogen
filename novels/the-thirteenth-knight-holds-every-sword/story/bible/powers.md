@@ -25,7 +25,7 @@ At age 10 Liora's Valkyrie art Keeping sealed his Gate, his Door and his memory 
 
 ### The Ten Pillars (unlocked from lowest rank up)
 - X Vesk, the Lantern-Eyed: scout, shadow-disguises, sarcastic. Unlocked.
-- IX Gorrath, the Bastion: giant shield-knight, gentle, bad liar, does all the Black Order "voices". Unlocked.
+- IX Gorrath, the Bastion: giant shield-knight, gentle, bad liar, does all the Thirteenth Vigil "voices". Unlocked.
 - VIII Mirelle, the Quiet Blade: duelist, nearly silent. Unlocked.
 - VII Hald, the Last Archer: ch 80. VI Sefa, Cartographer of Doors (long-range travel): ch 240. V Lysandre, the Mender (heals wounds and Frost): ch 300. IV Kaedros, the Siegebreaker: ch 350. III Ombrevar, Warden of the Deep Ranks (general): ch 380. II Oriane, the Herald (strategist; first to guess what Eden is): ch 410. I Nihl, the First: appears ch 390 calling Eden a usurper; his betrayal is a test (reveal ch 515); ally after.
 
@@ -49,7 +49,7 @@ The Emperor's last echo: a tall man with his face always turned away, at a board
 
 ## Armor (details: armor.md; tricks: battle-craft.md)
 - The Knock: one knock on the door-shield's iron ring switches lance and shield; three knocks and a name open the Gate for a Raiment (holy armor from the Vault). Borrowers answer the third knock with their own middle name.
-- Umra (Black Order armor) is drawn from his own shadow: no Tolls, costs Frost.
+- Umra (Thirteenth Vigil armor) is drawn from his own shadow: no Tolls, costs Frost.
 - Raiments toll; the seventh Toll Keeps a wearer forever. Eden cannot be Kept (Void); at his seventh the Emperor's essence surfaces instead.
 - Eden's own armor is Aster, Liora's masterwork, sealed black until ch 175; it evolves in stages and spends her Keeps (armor.md, liora.md).
 - Fighting style (Lintel and Lamp), forms, the ten retainers' fighting roles and team combos: combat-style.md. Melsche Door is the human spelling of Melchsee's Door (gods.md).

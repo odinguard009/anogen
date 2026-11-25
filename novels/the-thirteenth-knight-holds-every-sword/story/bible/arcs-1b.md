@@ -2,7 +2,7 @@
 
 ## Arc 5 The Teeth (201-250) monster war, siege. Graduates posted.
 Q: can they hold the narrowest place on Elysmar? Enemy: Hierarch the Tidewright, who drains the strait to make a land bridge.
-Beats: Eden posted as a junior knight under the Crimson Rampart; Kirana's fleet guards the strait's sea side; the feather truth (205); kill-order revealed (214), Eden keeps fighting for a king who might kill him; Felix's friendship began as an order from his father (236), bond strained then healed; Sixth Pillar Sefa (240); Clara replaced by a Veil during a night patrol (228, not yet known); Lord Marshal Gideon Valdis dies holding the inner gate (247).
+Beats: Eden posted as a junior knight under the Rampart Host; Kirana's fleet guards the strait's sea side; the feather truth (205); kill-order revealed (214), Eden keeps fighting for a king who might kill him; Felix's friendship began as an order from his father (236), bond strained then healed; Sixth Pillar Sefa (240); Clara replaced by a Veil during a night patrol (228, not yet known); Lord Marshal Gideon Valdis dies holding the inner gate (247).
 Tactics: falling-tide war; drum-code against Choirs; mining under Mawgates; door-bridges over a drained strait.
 Win (245-250): the Tidewright drains the strait for a final push. Eden prepared for a storm-front with Kirana's forecasts; under the clouds' shadow he wakes 10,000 of the First Legion while Valerius' Verdict holds the breach. Victory is certain once he chooses; the cost is that the world sees black knights. Cost: rumours of black knights at the Teeth reach every capital; Gideon's death.
 Growth: Valerius takes Gideon's place at the Wall; Rowan learns to command, not shine.

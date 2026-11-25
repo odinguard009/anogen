@@ -7,7 +7,7 @@ Battles: market Veil hunt 3 flex; berserk construct 5 puzzle; Valerius duel 16-1
 Aura: 25 he walks through the Ball's broken glass and the grafted Embers step back without knowing why (reaction: Seraphine's hand stops shaking). 49 a single look at the dying Crown stops a hostage knife (reaction: Felix sees, says nothing, asks "Eaten today?" the next morning).
 
 ## Arc 2 (51-100)
-Battles: tourney rounds 60-66 flex (he "loses" on purpose in 67, puzzle); warehouse of volatile stones 78 puzzle; rooftop sniper duel with Hald 84 strained; parade carts 96-100 puzzle; Black Order vs Golden Seal raid 72 costly (public blame).
+Battles: tourney rounds 60-66 flex (he "loses" on purpose in 67, puzzle); warehouse of volatile stones 78 puzzle; rooftop sniper duel with Hald 84 strained; parade carts 96-100 puzzle; Thirteenth Vigil vs Justiciar Seal raid 72 costly (public blame).
 Aura: 67 he lowers his lance in the quarterfinal and the arena's seasoned scouts go quiet (reaction: Okoru stops chewing). 88 at Kell's dinner he says one quiet sentence and a hired duelist resigns on the spot.
 
 ## Arc 3 (101-150)
@@ -63,7 +63,7 @@ Romance per arc: romance.md (end).
 
 ## Armor scenes and new tricks per arc (armor.md, battle-craft.md)
 1: Umra mask 3, full 23 (Aster sealed; feather mark plant); Duke's helm hour 30; titan silhouette 34; Gryle 25; Ward-plate drills 31; tricks 1-10.
-2: Lantern rigs 72; Umra vs Golden Seal Ward-plate 72; Rhael lent to Felix 98 (first Raiment loan, armor-up on a parade roof); tricks 11-18.
+2: Lantern rigs 72; Umra vs Justiciar Seal Ward-plate 72; Rhael lent to Felix 98 (first Raiment loan, armor-up on a parade roof); tricks 11-18.
 3: Han's jade Throne-form 125; Umra in the summit 131; tricks 19-23.
 4: Aster's seal cracks 175-176 (Glasshouse Forge found); the Duke in Sevar 193-194 (flex showpiece, aura); Aster Argent Dawn 199 (first public armor); tricks 24-28.
 5: Wallbreaker 223; Thrennos the Drowned Bell 244-249 (Colossus) with Greyborn Carapace 245; Karum to Valerius 247; Mavra 248; armor rotations on the Wall every ~10 ch (210, 220, 233); tricks 29-34.

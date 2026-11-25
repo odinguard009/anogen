@@ -110,3 +110,10 @@ HUMAN FEEL (at simple level; reinforces "Human feel" below):
 - Aura moments are rare (2-4 per arc), earned by earlier hiding, and always include reaction shots: who goes silent, who kneels, what a veteran's hands do. Never narrate the aura in adjectives alone.
 - Battle & armor: every fight shows at least one new, creative use of his power (bible/battle-craft.md); never default to "a bigger weapon". Armor-ups (bible/armor.md) take 3-6 lines: the knock, the sound, cold then warm, one unique detail; then weight, texture, changed movement; the Tolls felt, not counted; the cost lands afterward.
 - Human realism: proportionate reactions, mixed feelings, ordinary flaws; antagonists are credible people with reasons. No humiliate-and-reveal loops (mock, reveal, crowd gasps): at most once per arc, never the same shape. Politics: stakes, clock and rule stated once; every scene changes the situation (bible/intrigue-craft.md).
+
+## NATURAL FLOW AND CHARACTER TEMPERAMENT (owner order 2026-11-25, permanent)
+- Nothing may feel forced or rushed. Every new power, reveal, armor, rule or twist must be set up earlier, fit the scene it appears in, and leave no plot hole. If it does not fit naturally, delay it or cut it; never squeeze it in.
+- Check before writing each scene: does this follow from what came before? Would a reader ask "why did nobody just...?" Fix the cause in the scene, not with an excuse line.
+- Characters, most of them, control their emotions and talk and act like normal people: calm reactions, ordinary reasons, no melodrama, no random outbursts, no speeches. Anger, fear and grief show in small, believable ways.
+- Only a small minority are eccentric, and each eccentric is eccentric on purpose, consistently (the reason is in the bible). Do not make a whole cast quirky or hot-headed.
+- Avoid what readers hate: characters acting stupid to keep the plot going, sudden power-ups without cost, info dumps, contrived coincidences, repeated misunderstandings, a reveal everyone saw coming but the hero.

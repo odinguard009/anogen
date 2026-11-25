@@ -15,7 +15,7 @@ Words used here (LOCKED SETTING 13: agents are never spawned; the orchestrator p
 
 ## Hard rules
 - No sexual content, no ecchi, no harem. Pure slow-burn romance, light comedy that never undercuts key scenes.
-- Never copy text, scenes, characters or worlds from existing works. Research is for ideas and technique only.
+- Existing works (OWNER ORDER 2026-11-25, replaces the old no-copying rule): observing, imitating and modifying ideas, structures, mechanics, characters-as-archetypes, scenes and styles from existing works is allowed and encouraged (observe, imitate, modify). Keep the story coherent with its own canon.
 - Never overwrite canon. Conflicts go to story/proposals-audit.md (approved decisions are in story/proposals.md and are never re-opened without the owner's order).
 - Never enable the schedule unless the owner says "hidupkan jadwal".
 - Chapter words: see story/brief.md Machine settings. Chapter format (owner order 2026-11-25): first line `# Chapter N: Title` (N = the chapter number, example `# Chapter 1: Forty Minutes of Grass`), scene breaks `* * *`; tools/check_chapter.py enforces it.

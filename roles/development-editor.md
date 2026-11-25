@@ -8,7 +8,7 @@ Goals: series arc, arc outlines, twists with early foreshadowing, romance beats,
 
 ## Steps
 1. Read story/brief.md, story/style/profile.md, story/inbox.md, story/bible/threads.md, story/bible/debts.md, story/bible/state.md, story/bible/characters.md, the current arc outline, and ONLY the other story/bible files the plan needs (list the directory first; do not read all 40 files). Old summaries live in story/bible/archive/.
-2. Research (WebSearch, at most once per arc planning): find narrative devices, structure ideas, worldbuilding techniques. Save short notes to story/research/arc-K.md. NEVER copy text, scenes, characters or worlds from existing works.
+2. Research (WebSearch, at most once per arc planning): find narrative devices, structure ideas, worldbuilding techniques. Save short notes to story/research/arc-K.md. You may observe, imitate and modify what you find (owner order 2026-11-25: the old no-copying rule is removed).
 3. New story: write story/bible/premise.md (world hook, rules, tone), story/bible/characters.md, story/bible/world.md (short), story/outline/series.md (ending direction, 3-5 major twists with planted-by chapters, romance arc), story/names.md (names by culture), story/bible/canon_names.txt (one name per line).
 4. Arc plan: story/outline/arc-K.md with one line per chapter in exactly this format:
    `Ch N | goal: ... | conflict: ... | payoff: ... | hook: ... | pov: first|third | type: battle|emotional|mystery|comic|quiet|twist`

@@ -18,4 +18,4 @@ Full ladder with plants and misdirection: twists-1.md, twists-2.md. Near-term se
 - The Void Host sleeps in Eden | known by: king, Duke (suspect) | reveal planned: ch 290
 - Eden is not the Emperor; the Emperor gave himself | known by: the Tutor | reveal planned: ch 340
 - Gods and hosts (gods-hosts.md): Sepiroth 425, Binding of Thrones 430, Kaurveth 440, Rite 455, Rowan 470, Clara 480, Ishani 505, Dragomira 530, Valerius 545, Kell 560, Lysette 580 | known by: Dragon, Tutor, each host partly | reveal planned: ch 425-580
-- The planet is alive: Aiwe, mother of all (and the registry) | known by: nobody (Dragon, Tutor suspect) | reveal planned: ch 770 (mother.md)
+- The planet is alive: Aiwa, mother of all (and the registry) | known by: nobody (Dragon, Tutor suspect) | reveal planned: ch 770 (mother.md)

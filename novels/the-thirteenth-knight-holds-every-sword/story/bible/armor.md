@@ -1,3 +1,4 @@
+NOTE 2026-11-25 (owner order): armor exists to fight Invaders without suffering their side effects (poison blood, silence, memory fog, cold); Garo-style armor-up scenes. See power-system.md section 16, which wins on conflict.
 # Armor of Elysmar: Raiments (reference)
 
 ## Where armor comes from

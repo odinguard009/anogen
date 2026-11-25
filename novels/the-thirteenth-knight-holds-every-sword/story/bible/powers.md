@@ -1,3 +1,4 @@
+NOTE 2026-11-25 (owner order): Door and Gate are only names. Real powers: Door = Shadow Legions (millions of shadow knights), Gate = summon any weapon in the Vault. See power-system.md sections 15-16, which win on conflict.
 SUPERSEDED where it conflicts by story/bible/power-system.md (owner order 2026-11-25; includes the removal of ranking levels: Bells = tank size only, Tenet tiers = stages of use, not ranks)
 # Powers: Melsche Door and Sepiroth Gate (reference)
 

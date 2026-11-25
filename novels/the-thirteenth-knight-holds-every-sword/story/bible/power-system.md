@@ -14,11 +14,13 @@ This file wins over powers.md, mana.md, combat-style.md and battle-craft.md wher
 10. Relik dan Raiment = perlengkapan pinjaman dengan kemauan sendiri dan harga sendiri (Tolls). Kekuatan dewa (Door, Gate, Throne) berada di luar tumpukan.
 11. Tidak ada tabel level. Pertarungan diputuskan oleh pasangan lawan, medan, persiapan, harga, dan kecerdikan.
 12. Senjata api ada, tetapi medan mana merusak mesiu dan pemicu, dan aura menepis peluru. Jadi ksatria tetap penting (lihat tech.md).
-13. Planet punya kesadaran: Aiwe, ibu semua makhluk, termasuk Sepuluh Dewa. Registri adalah dia. Ini rahasia besar; terungkap jauh nanti.
+13. Planet punya kesadaran: Aiwa, ibu semua makhluk, termasuk Sepuluh Dewa. Registri adalah dia. Ini rahasia besar; terungkap jauh nanti.
 14. Penulis wajib memakai 10 aturan pertarungan dan daftar cek 6 butir di bawah.
 15. Setiap kekuatan yang muncul pertama kali wajib dijelaskan (rupa, cara pakai, efek, batas).
 16. Serangan khas tiap tokoh ditulis sebagai label tebal **[Nama]** saat serangan terjadi (bagian 13). Maksimal 1-2 per bab.
-17. Kebangkitan puncak bernama ONDRA (bagian 14): langka, mahal, bukan peringkat. Dipicu keyakinan yang dipilih lagi dengan harga nyata, lalu menyebut nama tengahnya sendiri dengan keras. Contoh: Eden = Evrin (bab 590), Lysette = Auda (bab 141), Valerius = Esk (bab 194).
+17. Kebangkitan puncak bernama UNBIND (bagian 14): langka, mahal, bukan peringkat. Dipicu keyakinan yang dipilih lagi dengan harga nyata, lalu menyebut nama tengahnya sendiri dengan keras. Contoh: Eden = Evrin (bab 590), Lysette = Auda (bab 141), Valerius = Esk (bab 194).
+18. "Door" dan "Gate" hanya nama. Kekuatan Eden yang sebenarnya: (a) memerintah jutaan ksatria bayangan (Legiun Tidur, kekuatan Kaisar Void, mirip pasukan bayangan Solo Leveling), (b) memanggil senjata apa pun di Vault (kekuatan sang Naga). Lihat bagian 15.
+19. Armor dibuat untuk melawan Invader (Hush) supaya pemakainya tidak terkena efek sampingnya: darah beracun, bisu, kabut ingatan, dingin. Memakai armor adegan besar seperti Garo: panggil, plat menutup, helm terakhir, ada batas waktu (Tolls). Lihat bagian 16.
 
 ## The stack (one line each)
 MANA (fuel) -> AURA (body field) -> TENET (one unique power) -> CLASS/JOB (registered role that names learned skills).
@@ -56,7 +58,7 @@ Cost: each Tenet has its own price, shown on the page (Witness: headache, then n
 
 ## 4. CLASS AND JOB: the registered role
 Analogy: class is the kind of tool you are; job is the work you are doing with it today.
-At the Bell Assessment the year a person turns 14 (and again each year), they lay a palm on the Resonance Bell. The Bell measures the tank. In the same touch, the planet's registry reads them, and a quiet line appears in their own head: their CLASS and one to three JOBS. Scholars call this the reading and believe it is a law of mana. The truth is in mother.md: the registry is a living mind, Aiwe.
+At the Bell Assessment the year a person turns 14 (and again each year), they lay a palm on the Resonance Bell. The Bell measures the tank. In the same touch, the planet's registry reads them, and a quiet line appears in their own head: their CLASS and one to three JOBS. Scholars call this the reading and believe it is a law of mana. The truth is in mother.md: the registry is a living mind, Aiwa.
 - CLASS: what kind of fighter or person the planet reads you as. One class. It changes only at a life turn. Examples: Knight, Ranger, Mender, Duelist, Warden, Commander. Rare classes exist that registrars only hear of in stories.
 - JOB: the role you act in now. One to three. A job names your learned skills (forms, spells, drills) and gives each skill one clear limit. A new skill comes from training plus a real test, never from a number going up.
 - The live reading can change mid-scene when the role changes (Eden is the example).
@@ -108,11 +110,11 @@ Who wins is never settled by this list. A small tank used well beats a big tank 
 ## 8. Mapping every existing power
 | Power | Layer | What it does | Limit and cost |
 |---|---|---|---|
-| Melsche Door (Eden) | god power, Emperor's gift | cuts doors in shadow; summons step out | needs a hard edge of light and dark; door size = shadow size; summons drain mana each minute; deep use brings the Frost |
+| Melsche Door (Eden) | god power, Emperor's gift | the SHADOW LEGIONS: he commands shadow knights, up to millions (section 15); shadow doors are only their exits and his roads | needs a hard edge of light and dark; door size = shadow size; summons drain mana each minute; deep use brings the Frost |
 | The Frost | cost of the Door | feelings go flat for hours; fingers white and numb | warmth slowly undoes it |
 | Ixa (dark lance) | Door gear | the door's frame drawn out: matte black lance, about 1.5 m, cold to touch; one knock folds it into a tall door-shield with an iron ring | free to hold; only as strong as Eden's grip and aura |
 | Ea (sword) | relic via the Gate | hand-and-a-half sword, pale blade like ice at dawn, plain grey grip; does not shine, makes light honest: illusions fail, Veils show grey | needs some light; cheap to hold, but still a small drain |
-| Sepiroth Gate | god power, Valkyrie birthright | calls relics he has met in the dream Vault; lends them by middle name | drain per second per relic; fever, nosebleed when overdrawn |
+| Sepiroth Gate | god power, Valkyrie birthright | summons ANY weapon or relic stored in the Sepiroth Vault (section 15); lends them by middle name | drain per second per relic; fever, nosebleed when overdrawn |
 | Raiments and Tolls | gear | holy armor, each with one power | Tolls add weight; seventh Toll Keeps (Eden: the Emperor surfaces) |
 | Umra / Aster | Door gear (Aster: Liora's work) | black plate rising from his shadow, silent | Frost; reads as Black Order to anyone who sees |
 | Ten Pillars | Door summons | each has own aura, skills and voice | drain per minute; big shadow for big summons; never kill humans |
@@ -216,26 +218,26 @@ The registry cannot read beings it did not birth. Eden sees the Pillars' roles o
 | Dragomira | [Yrre] | a pull of the hand at nothing | a fate-thread tugs: a bridge cracks on cue | ages her a season | ch 530 |
 | Belozerov | [Zhar] | cane-sword and a thread | a puppet's hand strikes for him | cuts his own years | ch 693 |
 
-## 14. ONDRA: the awakening (rare peak state; not a rank)
-Name proposals: Ondra, Kaith, Uvar. Chosen: **Ondra** (say "ON-dra").
+## 14. UNBIND: the awakening (rare peak state; not a rank)
+Name history: first proposed "Ondra" (with Kaith, Uvar); the owner rejected it as too occult and asked for a plain, strong keyword in the style of TCG keywords (Manifest, Advent). Chosen 2026-11-25: **Unbind** (the act: "Unbind"; the state: "Unbound"; label **[Unbind: Form name]**, for example **[Unbind: Evrin]**). Form names (Evrin, Auda, Esk...) are still the old proposals and can be changed on request.
 What it is: for a few minutes, a person's Tenet may break the ONE limit it normally has, while its Law still holds. It is not more power. It is the same power without its usual limit, so a good matchup or terrain can still beat it.
 - TRIGGER: the owner's conviction is tested at a real cost, and they choose it again; then they speak their own middle name aloud. In Verandel middle names are secret, so the price begins at once: everyone in earshot now knows it. No anger power-ups, no last-second luck.
-- THE SIGN: every bell within earshot rings once by itself (the planet answers; mother.md). Dust and rain stop in the air around the person for one breath. Their aura becomes visible for the first time, as clear shimmer. Bystanders feel their own name in their mouth; animals lie down. The reading changes: one italic line with the Ondra's name.
+- THE SIGN: every bell within earshot rings once by itself (the planet answers; mother.md). Dust and rain stop in the air around the person for one breath. Their aura becomes visible for the first time, as clear shimmer. Bystanders feel their own name in their mouth; animals lie down. The reading changes: one italic line with the Unbind's name.
 - WHAT IT DOES: one clear idea per person (table below): one change in the body, the space or the weapon.
-- LIMITS: one to five minutes. Afterwards the Tenet is "hollow" (does not work) for one to three days. Each Ondra takes one small thing forever, tied to the conviction (a memory, a taste, the ability to say a certain lie). It cannot heal death, cannot undo the past, and does not stop slow and heavy blows the owner does not see.
-- WITH RAIMENTS: Tolls ring twice as fast. With signature attacks: a new attack may appear during an Ondra (labelled).
-- COUNTERS: a Choir's silence (the name cannot be spoken), waiting it out, terrain that its idea does not fit, another Ondra, and above all breaking the conviction: if the owner doubts it mid-way, it collapses.
-- LOAN vs ONDRA: answering a relic's knock with your middle name is spoken low, to the relic alone, and wakes nothing. An Ondra needs the name declared aloud as a vow to the world, after a real test. Only the second rings the bells.
+- LIMITS: one to five minutes. Afterwards the Tenet is "hollow" (does not work) for one to three days. Each Unbind takes one small thing forever, tied to the conviction (a memory, a taste, the ability to say a certain lie). It cannot heal death, cannot undo the past, and does not stop slow and heavy blows the owner does not see.
+- WITH RAIMENTS: Tolls ring twice as fast. With signature attacks: a new attack may appear during an Unbind (labelled).
+- COUNTERS: a Choir's silence (the name cannot be spoken), waiting it out, terrain that its idea does not fit, another Unbind, and above all breaking the conviction: if the owner doubts it mid-way, it collapses.
+- LOAN vs UNBIND: answering a relic's knock with your middle name is spoken low, to the relic alone, and wakes nothing. An Unbind needs the name declared aloud as a vow to the world, after a real test. Only the second rings the bells.
 - WHO CANNOT: Hushborn and Veils (the planet no longer reads them), Void-born beings (Pillars, Nihl), Valkyries. Grafted people can force a false one: no bells ring (hint ch 49).
 - RARITY: a handful per nation, a few hundred in the world. Most knights never awaken: the test must be real, and few will say their middle name before enemies.
-- SOCIAL: a public Ondra is news on the bellwire within the hour. The person's middle name is now public (relics can be lent to them; enemies can use the name). Nations count Ondra-holders like fortresses.
-- On the page: bold label **[Ondra name]** when it begins; first use gets the full first-use description and heavy earlier hints.
+- SOCIAL: a public Unbind is news on the bellwire within the hour. The person's middle name is now public (relics can be lent to them; enemies can use the name). Nations count Unbind-holders like fortresses.
+- On the page: bold label **[Unbind: Form name]** when it begins; first use gets the full first-use description and heavy earlier hints.
 
-| Person | Ondra | Idea (one sentence) | Conviction | Cost | First shown |
+| Person | Unbind | Idea (one sentence) | Conviction | Cost | First shown |
 |---|---|---|---|---|---|
 | Eden | Evrin | the Void wrap opens and the planet reads him whole: his doors no longer need an edge, and any door can lead to the Vault | "I am Eden, not a weapon; I choose to be seen" | the Refusal touches him while it lasts: a white streak of hair and a fever; it brings the Emperor's ending closer | ch 590 |
 | Lysette | Auda | a replay becomes solid: the past moment stands again where it happened and everyone can see and touch it | the truth must be seen, even when it hurts her | she loses that moment from her own memory | ch 141 |
-| Valerius | Esk | his rulings bind people, not only space ("You will not lift that sword") | law protects the weak, even against the crown | every ruling binds him too; each Ondra adds one lie he can never say | ch 194 |
+| Valerius | Esk | his rulings bind people, not only space ("You will not lift that sword") | law protects the weak, even against the crown | every ruling binds him too; each Unbind adds one lie he can never say | ch 194 |
 | Rowan | Tirra | a street becomes daylight at night: no Hushborn can stand in it | nobody gets left behind | he forgets one night of his life | ch 230 |
 | Felix | Vant | his allies hear the paths too; arrows follow a path around corners | "I stay, by choice" | deaf for a day; forgets one road home | ch 238 |
 | Seraphine | Rinn | anyone she has touched once can be swapped with anyone else in the hall | she laughs so others can breathe | she cannot lie while it lasts, and must answer any question asked | ch 330 |
@@ -245,4 +247,36 @@ What it is: for a few minutes, a person's Tenet may break the ONE limit it norma
 | Ilsabet Rorke | Ruun | the ground freezes into a field where nothing slides or falls | she fights fair, even for a wrong cause | her graft deepens | ch 285 |
 | Archduke Halberg | Kolv | his banner becomes a wall his soldiers cannot break from | Verandel must be great again | his men cannot retreat even when they should | ch 194 |
 | Count Belozerov | Sorn | his puppets fight with his own skill | the world killed the Empress; he will own it | cuts his own years | ch 693 |
-No Ondra: the Tailor, Nihl, the Pillars, Kell, Dragomira (her god power is a Throne, not an Ondra).
+No Unbind: the Tailor, Nihl, the Pillars, Kell, Dragomira (her god power is a Throne, not an Unbind).
+
+## 15. Eden's two real powers (owner order 2026-11-25: "Door" and "Gate" are only NAMES)
+Odin's original plan is the truth. The words Door and Gate stay in the book as names, but this is what the powers ARE.
+**A. The Emperor of Void's power = the Shadow Legions (name: Melsche Door).**
+- Eden commands shadow knights: black soldiers in plain dark plate with a white thread where a face should be. In the full plan there are nine legions of about a million each (the Sleeping Legions). Think of an army that lives in the dark and answers one man.
+- He calls them out of any shadow big enough to hold them, and they go back into shadow when released. They hear his orders as a shared mind: a thought, a short word or a hand sign is enough. He fights as a general first and a duellist second (the brief: "narrates fights like a tactician").
+- Scale on the page: at the start he can call one to forty (the First Legion is unlocked; he has never woken more than forty). A mass waking of 10,000 comes at ch 248; more legions later (see powers.md and the ladder). The Ten Pillars are the named commanders (Vesk, Gorrath, Mirelle now).
+- Rules: (1) the knight rises from a shadow as large as the unit; (2) each knight costs a little mana per minute, a Pillar costs a lot, a whole legion needs a day and a huge shadow (a city at dusk, a storm, an eclipse); (3) the Emperor's law: they never kill humans (they disarm, drive back, wall off); against Hushborn they kill freely; (4) what hurts them is felt by Eden as cold; (5) deep use brings the Frost; (6) light kills the exit: no shadow edge, no army.
+- The shadow DOORS seen on the page (dropping a Veil into a cellar, book-sized doors for Mirelle's blade) are the same power seen small: a shadow door is the exit and the road of his army. They are not a separate power.
+**B. The Dragon's power = the Vault (name: Sepiroth Gate).**
+- Eden can summon ANY weapon, armor or relic stored in the Sepiroth Vault: every holy weapon ever made on Elysmar. He calls it into his hand (weapons) or onto his body (Raiments). Ea is one of them.
+- Limits: he must have met the weapon's will in the dream Vault (that gives him its name), the weapon may refuse a bad cause, each held relic drains him per second, and overdraw brings fever and nosebleeds. He can lend a relic to a person whose middle name he knows.
+- How it feels in a fight: personal and chosen (the right tool for this enemy), where the Legions are scale and strategy.
+**C. How the two work together:** the army holds the field; the Vault gives him the one right weapon for the enemy in front of him. Neither is a level. Each has a cost, and fights are still decided by matchup and preparation.
+
+## 16. Armor: made to fight the Invaders (owner order 2026-11-25; Garo-style armor scenes)
+**Why armor exists.** Invaders (the Hush) hurt even the winner. The kill is not the danger; the aftermath is. Armor is built so a knight can fight them and walk away.
+| Invader | Side effect on the victor | What the armor does |
+|---|---|---|
+| Husk blood | grey rot: skin and flesh go numb, cold, then dead | sealed plate, double-sealed cuffs and gloves, ward-glazed seams |
+| Stalker claws | silence venom: voice and mana vanish for hours | closed gorget with a small tuned bell ring that keeps the voice alive |
+| Choir silence | no chants, no spoken orders | bellwire sigils in the plate carry orders by resonance |
+| Veil dust | breathing it fogs memory and name | filter helm with salt-silk; the visor seals before you step in |
+| The Pale ground | slow mana drain from standing there | mana-stone cores in the greaves; walking on ward-soles |
+| Hierarch themes | each has one (burn, rust, fear...) | handled by the matching Raiment or ward-charge |
+- A knight in plain clothes who wins a fight with a Husk can still die in three days. This is why every knight owns ward-plate, why armor shortages are politics (tech.md: ward-plate is mana engineering, and the Hush follows big mana machines), and why Raiments matter.
+- Against HUMANS knights wear light guard kit. Full armor is for invaders and for show (aura moments). That keeps armor-ups special.
+**Armor-up scene (the Garo-style set piece; use for every Raiment and for Eden's armor).**
+1. The call: three knocks and the middle name (armor.md). 2. The sign: a sound and a change in the light (the knocker rings like a far bell; the shadow at his feet deepens). 3. The closing, in a fixed order: boots, legs, chest, shoulders, gauntlets, and the helm LAST, closing with a bell-note. 4. One unique detail per armor. 5. The clock: the Tolls are the time limit (calm: one toll in ten minutes; hard fight: one a minute; the seventh Keeps the wearer). 6. The cost lands afterwards.
+- Armor-up is a bold label moment: **[Armor name]** at the moment the helm closes (1-2 per chapter at most, with the other labelled attacks).
+- Eden's own armor: Umra (soldier plate drawn from his shadow, silent, costs the Frost) and Aster (his mother's work) are his anti-invader plate; Ea and Ixa are his weapons; the army fights beside him.
+- Ward-plate is the common tier (every knight): its seals wear out; each fight against invaders spends seal-charge; an armorer re-seals it. Plot use: an unsealed glove, a cracked seam, a stolen helm filter are the small disasters that make invaders frightening.

@@ -50,11 +50,13 @@ Auto-applied: banned.md (+caps: "eaten today" 1, "very" 8, "like a" 6, "nobody" 
 - 2026-11-25 owner order: "aura beats = a sliver of the Emperor's authority" (battle-craft.md, profile.md Battles and aura) -> aura is every trained knight's body field; an "aura moment" is a full raise; Eden's carries the Emperor's weight under it.
 - 2026-11-25 owner order: "No guns" (mana.md) -> guns and cannon exist (Meridian Age, tech.md), fouled by mana fields and turned aside by aura. mana.md sentence edited.
 - 2026-11-25 owner order: no class/job layer -> registry readings (Class, Jobs) assigned at the Bell Assessment, seen only by the owner; Eden registered Black Lancer, White Swordsman; live reading as the Black Order: Void Heir.
-- 2026-11-25 owner order: gods.md "the Ten made worlds before worlds" -> deeper layer: the planet-mind Aiwe dreamed the Ten first; Myrrhen is her eldest; the Refusal is Aiwe's immune reaction (mother.md). No event changes.
+- 2026-11-25 owner order: gods.md "the Ten made worlds before worlds" -> deeper layer: the planet-mind Aiwa dreamed the Ten first; Myrrhen is her eldest; the Refusal is Aiwa's immune reaction (mother.md). No event changes.
 - 2026-11-25 owner order: Trail "sees the path" (mana.md, cast-combat-1.md) -> he hears and feels the path, as in ch 11 (canon follows the chapter; no patch).
 - 2026-11-25 owner order: forms named only (combat-style.md) -> technique vs signature attacks with **[Label]** (power-system.md 13); Eden's signatures: Lintel (25), Lampwick (49), Threshold (180).
-- 2026-11-25 owner order: no peak state -> Ondra awakenings (power-system.md 14).
+- 2026-11-25 owner order: no peak state -> Unbind awakenings (power-system.md 14).
 - 2026-11-25 owner order: Corentin reader reveal ch 38 (twists-1, arc-1) -> Black Order link ch 36, reader reveal ch 45; ch 4 and 10 patched (reveal-ladder.md).
 - 2026-11-25 owner order: Seraphine rescue told as a joke in ch 4/7/10 -> told plainly in ch 35; ch 4/7/10 softened.
 - 2026-11-25 owner order: Ea "short bright sword" that glows (ch 25) -> canon look (pale hand-and-a-half blade, does not shine); patch item 17.
 - 2026-11-25 owner order: twists-1 T1-17 E 255 -> 254; T1-22 E 164 -> 162 (ladder gaps). T2-39 E 598 -> 593 pending arc 12 planning (twists-2 not edited).
+
+- 2026-11-25 owner order: Door/Gate are names only (Door = Shadow Legions, Gate = Vault summoning); armor is anti-invader (power-system.md sections 15-16). powers.md, armor.md, invaders.md carry pointer notes. Shadow-door tricks in ch 1-25 are read as the army's exits; no chapter text changed.

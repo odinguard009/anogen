@@ -67,7 +67,7 @@ Split into two reveals.
 | T2-37 Belozerov takes Volkhovar | 106 | 310 | 530, 541 | 655 | ok |
 | T2-38 Kell turns back | 55 | 560 | 640 | 685 | ok |
 | T2-39 Lament's fall is the alarm | 34 | 287 | 593 | 601 | to change at arc 12 planning: E 598 -> 593 |
-| NEW The planet-mind Aiwe (mother.md) | 1, 3, 27, 31, 41, 47, 50 | 230 | 495, 601 | 770 | new |
+| NEW The planet-mind Aiwa (mother.md) | 1, 3, 27, 31, 41, 47, 50 | 230 | 495, 601 | 770 | new |
 Small twists (gap 3+; D and E to be placed at their arc's planning): Brandmeier informant H 70, C 152; Ferryman H 140, C 268; Theodora C 318; Han's arm C 430; rings "Not yet" H 176, C 600; Ishani's fake naps H 115, 124, C 505; dream garden H 115, C 550; sweet bun H 60, C 812.
 
 ## Table: arc-1 outline reveals (small unless marked)
@@ -81,8 +81,8 @@ Small twists (gap 3+; D and E to be placed at their arc's planning): Brandmeier 
 | Groundskeeper is a Veil | 31 | 36 | 41, 43 | 45 | planned |
 | Groundskeeper "mastermind" (misdirection) | 45 | - | - | 185 (false) | ok |
 
-## Ondra awakenings (power-system.md section 14; all big)
-| Person (Ondra) | H | D | E | C |
+## Unbind awakenings (power-system.md section 14; all big)
+| Person (Unbind) | H | D | E | C |
 |---|---|---|---|---|
 | Lysette (Auda) | 49 (her replay's dust hangs still for a breath) | 72 | 133 | 141 |
 | Duke Aldous (Durn) | 28 (a bell rings once as he laughs) | 85 | 133 | 193 |

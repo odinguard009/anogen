@@ -623,9 +623,9 @@ Theobald
 Duskwater Dyeworks
 Blue Hour
 Tallow Row
-# Owner orders 2026-11-25 (power system, tech, planet-mind, attacks, Ondra)
+# Owner orders 2026-11-25 (power system, tech, planet-mind, attacks, Unbind)
 Ixa
-Aiwe
+Aiwa
 Meridian Age
 veinline
 bellwire
@@ -634,20 +634,11 @@ Crown Register
 Void Heir
 Black Lancer
 White Swordsman
-Ondra
-Lintel
-Lampwick
-Latch
-Hinge
-Draught
-Citation
-Injunction
-Switcheroo
+Unbind
 Ithe
 Osk
 Wyl
 Tavu
-Ninth Bell
 Mott
 Brunn
 Sile

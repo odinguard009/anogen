@@ -240,7 +240,7 @@ He gave me the long look from the drill. He did not mention the date. Fourth mon
 
 "Only that."
 
-He gave one small nod. It did not mean he believed me.
+Okoru tapped the green book twice, as if to say the answer was there and not in my mouth.
 
 "Tell me something," he said, to nobody, very quietly. "Who held the keys to that store room all week?"
 

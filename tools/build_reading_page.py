@@ -41,8 +41,8 @@ def main():
                 t = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", t)
                 t = re.sub(r"\*(.+?)\*", r"<i>\1</i>", t)
                 out.append("<p>%s</p>" % t)
-        toc.append('<li><a href="#c%d">%d. %s</a></li>' % (n, n, html.escape(title)))
-        parts.append('<section id="c%d"><h2>Chapter %d: %s</h2>%s</section>' % (n, n, html.escape(title), "".join(out)))
+        toc.append('<li><a href="#c%d">%s</a></li>' % (n, html.escape(title)))
+        parts.append('<section id="c%d"><h2>%s</h2>%s</section>' % (n, html.escape(title), "".join(out)))
     title = html.escape(settings().get("title", "Reading page"))
     doc = ('<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'
            f"<title>{title} - Reading Page</title><style>body{{max-width:40rem;margin:0 auto;padding:1rem;font:18px/1.7 Georgia,serif;color:#222;background:#fbfaf6}}"

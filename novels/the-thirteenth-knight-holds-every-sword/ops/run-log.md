@@ -57,3 +57,7 @@
 ### 2026-11-25 10:48 UTC (17:48 WIB) - audit - ok
 - notes: audit through chapter 10: 3 proposals in proposals-audit.md
 - quota_note: 
+
+### critic re-review ch 1-10 after owner style merge (same session, not independent)
+- Checks done: check_chapter on all ten (OK), prepass, greps for leftovers (Ea, Ixa, locket, black hair, ribbon, market chase, crowd shout: none left), canon fixes (Clara's surname Belmont in ch 6, Veil description now matches ch 3 in ch 9, ch 8 Mirelle strike now pins the sleeve so the "no kill without proof" rule holds, ch 5 dust points to the exchange).
+- Not done: no fresh-eyes read of ch 1, 2, 5, 6, 7 beyond the patches. Style judgement is the owner's.

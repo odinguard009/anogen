@@ -14,7 +14,7 @@ This file wins over powers.md, mana.md, combat-style.md and battle-craft.md wher
 10. Relik dan Raiment = perlengkapan pinjaman dengan kemauan sendiri dan harga sendiri (Tolls). Kekuatan dewa (Door, Gate, Throne) berada di luar tumpukan.
 11. Tidak ada tabel level. Pertarungan diputuskan oleh pasangan lawan, medan, persiapan, harga, dan kecerdikan.
 12. Senjata api ada, tetapi medan mana merusak mesiu dan pemicu, dan aura menepis peluru. Jadi ksatria tetap penting (lihat tech.md).
-13. Planet punya kesadaran: Aiwe, ibu semua makhluk, termasuk Sepuluh Dewa. Registri adalah dia. Ini rahasia besar; terungkap jauh nanti.
+13. Planet punya kesadaran: Aiwa, ibu semua makhluk, termasuk Sepuluh Dewa. Registri adalah dia. Ini rahasia besar; terungkap jauh nanti.
 14. Penulis wajib memakai 10 aturan pertarungan dan daftar cek 6 butir di bawah.
 15. Setiap kekuatan yang muncul pertama kali wajib dijelaskan (rupa, cara pakai, efek, batas).
 16. Serangan khas tiap tokoh ditulis sebagai label tebal **[Nama]** saat serangan terjadi (bagian 13). Maksimal 1-2 per bab.
@@ -56,7 +56,7 @@ Cost: each Tenet has its own price, shown on the page (Witness: headache, then n
 
 ## 4. CLASS AND JOB: the registered role
 Analogy: class is the kind of tool you are; job is the work you are doing with it today.
-At the Bell Assessment the year a person turns 14 (and again each year), they lay a palm on the Resonance Bell. The Bell measures the tank. In the same touch, the planet's registry reads them, and a quiet line appears in their own head: their CLASS and one to three JOBS. Scholars call this the reading and believe it is a law of mana. The truth is in mother.md: the registry is a living mind, Aiwe.
+At the Bell Assessment the year a person turns 14 (and again each year), they lay a palm on the Resonance Bell. The Bell measures the tank. In the same touch, the planet's registry reads them, and a quiet line appears in their own head: their CLASS and one to three JOBS. Scholars call this the reading and believe it is a law of mana. The truth is in mother.md: the registry is a living mind, Aiwa.
 - CLASS: what kind of fighter or person the planet reads you as. One class. It changes only at a life turn. Examples: Knight, Ranger, Mender, Duelist, Warden, Commander. Rare classes exist that registrars only hear of in stories.
 - JOB: the role you act in now. One to three. A job names your learned skills (forms, spells, drills) and gives each skill one clear limit. A new skill comes from training plus a real test, never from a number going up.
 - The live reading can change mid-scene when the role changes (Eden is the example).

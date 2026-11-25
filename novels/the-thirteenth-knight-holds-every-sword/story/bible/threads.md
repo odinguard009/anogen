@@ -45,5 +45,5 @@
 34. Eden's fear of becoming Melchsee | 298 (sixth Toll) | 340, 400, 446, 590, 726 | 795 | ok
 
 Arc 1: Tutor feed at 29, Rowan's question at 39; Felix's middle name is Perrin. Audit feeds: 35, 60, 66, 70, 75, 85, 100, 104, 110, 120, 130, 150, 160 + recurring dream, Hierarch, Kell, Clara-visit beats. Small beats, not chapters. Rungs: reveal-ladder.md.
-36. Aiwe the planet-mind (mother.md) | 1 | 27,31,41,47,50,230,495,601 | 770 | ok
+36. Aiwa the planet-mind (mother.md) | 1 | 27,31,41,47,50,230,495,601 | 770 | ok
 35. Merrow asks "which hall" the Ball lanterns hang in (planted ch 20) | 280 | 285-290 pay off | 295 | open

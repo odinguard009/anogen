@@ -625,7 +625,7 @@ Blue Hour
 Tallow Row
 # Owner orders 2026-11-25 (power system, tech, planet-mind, attacks, Ondra)
 Ixa
-Aiwe
+Aiwa
 Meridian Age
 veinline
 bellwire
@@ -635,19 +635,10 @@ Void Heir
 Black Lancer
 White Swordsman
 Ondra
-Lintel
-Lampwick
-Latch
-Hinge
-Draught
-Citation
-Injunction
-Switcheroo
 Ithe
 Osk
 Wyl
 Tavu
-Ninth Bell
 Mott
 Brunn
 Sile

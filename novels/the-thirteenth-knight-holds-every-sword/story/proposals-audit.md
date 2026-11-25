@@ -50,7 +50,7 @@ Auto-applied: banned.md (+caps: "eaten today" 1, "very" 8, "like a" 6, "nobody" 
 - 2026-11-25 owner order: "aura beats = a sliver of the Emperor's authority" (battle-craft.md, profile.md Battles and aura) -> aura is every trained knight's body field; an "aura moment" is a full raise; Eden's carries the Emperor's weight under it.
 - 2026-11-25 owner order: "No guns" (mana.md) -> guns and cannon exist (Meridian Age, tech.md), fouled by mana fields and turned aside by aura. mana.md sentence edited.
 - 2026-11-25 owner order: no class/job layer -> registry readings (Class, Jobs) assigned at the Bell Assessment, seen only by the owner; Eden registered Black Lancer, White Swordsman; live reading as the Black Order: Void Heir.
-- 2026-11-25 owner order: gods.md "the Ten made worlds before worlds" -> deeper layer: the planet-mind Aiwe dreamed the Ten first; Myrrhen is her eldest; the Refusal is Aiwe's immune reaction (mother.md). No event changes.
+- 2026-11-25 owner order: gods.md "the Ten made worlds before worlds" -> deeper layer: the planet-mind Aiwa dreamed the Ten first; Myrrhen is her eldest; the Refusal is Aiwa's immune reaction (mother.md). No event changes.
 - 2026-11-25 owner order: Trail "sees the path" (mana.md, cast-combat-1.md) -> he hears and feels the path, as in ch 11 (canon follows the chapter; no patch).
 - 2026-11-25 owner order: forms named only (combat-style.md) -> technique vs signature attacks with **[Label]** (power-system.md 13); Eden's signatures: Lintel (25), Lampwick (49), Threshold (180).
 - 2026-11-25 owner order: no peak state -> Ondra awakenings (power-system.md 14).

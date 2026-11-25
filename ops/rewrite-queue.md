@@ -7,4 +7,4 @@ Prompt: ops/rewrite-prompt.md. One agent at a time, standard tier (Sonnet). Rang
 - 16-20: DONE (2026-11-25)
 - 21-22: DONE (2026-11-25)
 
-Opus critic is not run on rewrites (same as the earlier rewrites; canon and events do not change). The next normal critic pass covers the new text.
+Rewrites change the chapter text, so the chapters are marked as edited after their critic review (`engine_state.py next` lists them in `rereview_pending` and writes nothing new until they are re-reviewed). A rewrite therefore costs the rewrite agent PLUS a strong-tier critic re-review of those chapters (`engine_state.py rereview N ...` afterwards). Owner decision 2026-11-25 for the already finished 1-22 rewrite: accepted without re-review (baseline-reviewed).

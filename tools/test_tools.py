@@ -133,7 +133,7 @@ def phase_two_tests():
         pf.write_text(pf.read_text() + "\nA late edit after review.\n")
         d = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
         check("edited chapter returns after review", d["critic_changed_after_review"] == [3], str(d))
-        c, o = run(root, "engine_state.py", "mark", "critic", "10", "--rereview")
+        c, o = run(root, "engine_state.py", "rereview", "3")
         d = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
         check("rereview clears the change", c == 0 and d["critic_changed_after_review"] == [], str(d))
         check("engine.json backup kept", (root / "ops/engine.json.bak").exists())
@@ -146,6 +146,75 @@ def phase_two_tests():
         d = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
         check("after interruption critic range ends on a multiple of 10 and audit rides along",
               d["critic_pending"] == [29, 30] and d["audit_with_critic"] is True, str(d))
+    finally:
+        shutil.rmtree(root, ignore_errors=True)
+
+    # A1/A2: explicit per-chapter re-review; changed chapters block writing and are scheduled
+    root = mkroot(range(1, 11), dict(ARC_RUNNING))
+    try:
+        run(root, "engine_state.py", "mark", "critic", "10")
+        for k in (3, 7):
+            pf = root / f"chapters/chapter-{k:03d}.md"
+            pf.write_text(pf.read_text() + "\nEdited after review.\n")
+        d = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
+        check("changed chapters 3 and 7 detected, writing blocked, no full critic job",
+              d["critic_changed_after_review"] == [3, 7] and d["rereview_pending"] == [3, 7]
+              and d["writer_range"] is None and d["critic_pending"] is None, str(d))
+        c, o = run(root, "engine_state.py", "rereview", "3")
+        d = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
+        check("re-review of chapter 3 only clears 3, chapter 7 stays pending",
+              c == 0 and d["critic_changed_after_review"] == [7] and d["writer_range"] is None, str(d))
+        c, o = run(root, "engine_state.py", "rereview", "99")
+        check("rereview refuses a missing chapter file", c != 0 and "missing" in o, o)
+        c, o = run(root, "engine_state.py", "rereview", "7")
+        d = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
+        check("after all re-reviews writing resumes", c == 0 and d["rereview_pending"] == [] and d["writer_range"] == [11, 15], str(d))
+        c, o = run(root, "engine_state.py", "mark", "critic", "10", "--rereview")
+        check("old --rereview flag is gone", c != 0, o)
+        # interruption and resume: state is derived from hashes, so a fresh process sees the same pending list
+        pf = root / "chapters/chapter-005.md"
+        pf.write_text(pf.read_text() + "\nEdit again.\n")
+        d1 = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
+        d2 = json.loads(run(root, "engine_state.py", "next")[1])
+        d3 = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
+        check("re-review pending survives interruption and resume", d1["rereview_pending"] == d2["rereview_pending"] == d3["rereview_pending"] == [5], str(d3))
+    finally:
+        shutil.rmtree(root, ignore_errors=True)
+
+    # A3: verify_batch never passes on subprocess or git failures
+    root = mkroot([1])
+    try:
+        write(root / "story/outline/arc-1.md", "Ch 1 | goal: a | conflict: b | payoff: c | hook: d | pov: first | type: quiet\n")
+        write(root / "story/bible/summaries.md", "# S\n\n## Ch 1 - One\nx\n")
+        write(root / "ops/scores.csv", "chapter,t,s,e,b,v,f\n1,3,3,3,-,3,3\n")
+        c, o = run(root, "verify_batch.py", "1")
+        check("verify_batch without a git repo fails and names the cause", c == 1 and "not a git work tree" in o, o)
+        subprocess.run(["git", "init", "-q"], cwd=root)
+        git(root, "config", "user.email", "t@t"); git(root, "config", "user.name", "t")
+        c, o = run(root, "verify_batch.py", "1")
+        check("verify_batch flags an untracked chapter", c == 1 and ("not committed" in o or "not tracked" in o), o)
+        git(root, "add", "-A"); git(root, "commit", "-q", "-m", "x")
+        c, o = run(root, "verify_batch.py", "1")
+        issues = [ln for ln in o.splitlines() if "ISSUE" in ln or "words outside" in ln]
+        check("verify_batch sees committed chapter (only checker findings remain)", "not committed" not in o and "not a git" not in o, o)
+        # git missing from PATH
+        env = dict(os.environ, ANOGEN_ROOT=str(root), PATH="/nonexistent")
+        r = subprocess.run([PY, str(TOOLS / "verify_batch.py"), "1"], capture_output=True, text=True, env=env, cwd=root)
+        check("verify_batch with git missing fails", r.returncode == 1 and ("cannot run git" in r.stdout + r.stderr or "git unavailable" in r.stdout), r.stdout + r.stderr)
+        # checker crash: replace check_chapter by a crashing stub in a copy of the tools
+        stub = Path(tempfile.mkdtemp(prefix="anogen-stub-"))
+        try:
+            shutil.copytree(TOOLS, stub / "tools", ignore=shutil.ignore_patterns("__pycache__"))
+            (stub / "tools/check_chapter.py").write_text("import sys\nsys.exit(2)\n")
+            env = dict(os.environ, ANOGEN_ROOT=str(root))
+            r = subprocess.run([PY, str(stub / "tools/verify_batch.py"), "1"], capture_output=True, text=True, env=env, cwd=root)
+            check("verify_batch fails when the checker crashes", r.returncode == 1 and "checker crashed" in r.stdout, r.stdout + r.stderr)
+        finally:
+            shutil.rmtree(stub, ignore_errors=True)
+        # undecodable chapter file: verification fails with a cause instead of a traceback
+        (root / "chapters/chapter-001.md").write_bytes(b"# T\n\xff\xfe bad bytes\n")
+        c, o = run(root, "verify_batch.py", "1")
+        check("verify_batch reports a crash as a problem", c == 1 and "PROBLEM" in o and "Traceback" not in o, o)
     finally:
         shutil.rmtree(root, ignore_errors=True)
 
@@ -216,12 +285,120 @@ def phase_two_tests():
         check("usage report with no data says UNMEASURED", "UNMEASURED" in o, o)
         run(root, "usage_log.py", "add", "--role", "writer", "--model", "m", "--range", "1-2", "--input", "1000", "--output", "500", "--seconds", "60", "--source", "reported")
         run(root, "usage_log.py", "add", "--role", "critic", "--model", "m", "--range", "1-2", "--input", "800", "--output", "100", "--outcome", "retry")
+        run(root, "usage_log.py", "add", "--role", "writer", "--model", "m", "--range", "3", "--input", "999", "--output", "1", "--source", "estimate")
+        run(root, "usage_log.py", "add", "--role", "writer", "--model", "m", "--range", "4", "--input", "50", "--output", "5", "--cache-read", "700", "--source", "manual")
         c, o = run(root, "usage_log.py", "report")
-        check("usage report totals and honest cost", c == 0 and "writer" in o and "critic" in o and "unknown" in o and "    1" in o, o)
+        check("usage report separates sources and never merges them",
+              c == 0 and "PROVIDER-REPORTED" in o and "MANUALLY OBSERVED" in o and "ESTIMATED" in o and "never added across sources" in o
+              and "unknown" in o, o)
+        check("usage report shows cache tokens and no invented price", "cache_rd" in o and "700" in o and "USD" not in o.split("Prices come")[0], o)
+        write(root / "ops/prices.json", json.dumps({"m": {"input": 3.0, "output": 15.0}}))
+        c, o = run(root, "usage_log.py", "report")
+        check("cost is labelled with its source and flags unpriced cache", "reported-based" in o and "manual-based" in o and "cache tokens not priced" in o, o)
         run(root, "log_run.py", "--chapter", "7", "--scores", "3,3,3,-,3,3")
         run(root, "log_run.py", "--chapter", "7", "--scores", "4,4,4,-,4,4")
         rows = [r for r in (root / "ops/scores.csv").read_text().splitlines() if r.startswith("7,")]
         check("log_run keeps one scores row per chapter", rows == ["7,4,4,4,-,4,4"], str(rows))
+    finally:
+        shutil.rmtree(root, ignore_errors=True)
+
+
+def phase_b_tests():
+    fx = TOOLS.parent / "tests/fixtures/golden5"
+
+    def pack(root, *args):
+        return run(root, "context_pack.py", "--part", "delta", *args)
+
+    def fresh():
+        root = Path(tempfile.mkdtemp(prefix="anogen-fx-"))
+        shutil.rmtree(root)
+        shutil.copytree(fx / "root", root)
+        for name in ("state", "debts", "secrets"):
+            shutil.copy(fx / "memory/pack23" / f"{name}.md", root / "story/bible" / f"{name}.md")
+        return root
+
+    def install(root, k):
+        for name in ("state", "debts", "secrets"):
+            shutil.copy(fx / "memory" / f"pack{k}" / f"{name}.md", root / "story/bible" / f"{name}.md")
+
+    # diff round trip (property test over random edits)
+    code = ("import random, context_pack as c\nrng = random.Random(5); ok = True\n"
+            "for _ in range(300):\n"
+            "    old = [f'line {i} ' + 'x' * rng.randint(0, 20) for i in range(rng.randint(0, 30))]\n"
+            "    new = list(old)\n"
+            "    for _ in range(rng.randint(0, 6)):\n"
+            "        op = rng.choice('dia'); k = rng.randint(0, max(len(new) - 1, 0))\n"
+            "        if op == 'd' and new: new.pop(k)\n"
+            "        elif op == 'i': new.insert(k, 'new ' + str(rng.random()))\n"
+            "        elif new: new[k] = 'changed ' + str(rng.random())\n"
+            "    a, b = '\\n'.join(old).strip(), '\\n'.join(new).strip()\n"
+            "    ok &= c.apply_diff(a, c.make_diff(a, b)).strip() == b\n"
+            "print(ok)\n")
+    r = subprocess.run([PY, "-c", code], capture_output=True, text=True, cwd=TOOLS,
+                       env=dict(os.environ, ANOGEN_ROOT=str(fx / "root")))
+    check("make_diff/apply_diff rebuild text exactly (300 random edits)", r.stdout.strip() == "True", r.stdout + r.stderr[-300:])
+
+    root = fresh()
+    try:
+        c, o = pack(root, "--chapter", "24", "--no-tail", "--incremental")
+        check("incremental without a cache falls back to FULL and says why", c == 0 and "context mode: FULL: no cache" in o and "[CHANGED" not in o and "## State\n#" in o, o[:300])
+        c, o = pack(root, "--chapter", "23", "--incremental", "--batch-start")
+        check("batch start gives full text and writes the cache", c == 0 and "FULL: batch start" in o and (root / "ops/ctx-cache.json").exists(), o[:200])
+        full23 = o
+        c, o = pack(root, "--chapter", "23", "--no-tail")
+        check("default pack is unchanged (no mode line, full State)", c == 0 and "context mode" not in o and "## State\n#" in o)
+        install(root, 24)
+        c, o = pack(root, "--chapter", "24", "--no-tail", "--incremental", "--peek")
+        check("next chapter sends a diff for State and stubs for Debts/Secrets",
+              c == 0 and "DIFF vs the chapter 23 pack" in o and "## State [CHANGED since the chapter 23 pack" in o and "[unchanged since the chapter 23 pack" in o, o[:400])
+        cache_before = (root / "ops/ctx-cache.json").read_text()
+        check("--peek never writes the cache", '"base_chapter": 23' in cache_before)
+        c, o = pack(root, "--chapter", "25", "--no-tail", "--incremental", "--peek")
+        check("a skipped chapter (cache is for 23, asking for 25) falls back to FULL", "FULL: cache is for chapter 23" in o and "## State\n#" in o, o[:300])
+        c, o = pack(root, "--chapter", "24", "--no-tail", "--incremental")
+        check("chapter 24 incremental ok and cache moves to 24", c == 0 and '"base_chapter": 24' in (root / "ops/ctx-cache.json").read_text())
+        # invalidation: static source change
+        (root / "story/style/banned.md").write_text((root / "story/style/banned.md").read_text() + "\n- extra\n")
+        c, o = pack(root, "--chapter", "25", "--no-tail", "--incremental", "--peek")
+        check("changed static source invalidates the cache", "FULL: static sources" in o, o[:300])
+        (root / "story/style/banned.md").write_text((root / "story/style/banned.md").read_text().replace("\n- extra\n", ""))
+        # invalidation: old cache
+        d = json.loads((root / "ops/ctx-cache.json").read_text()); d["ts"] -= 4 * 3600
+        (root / "ops/ctx-cache.json").write_text(json.dumps(d))
+        c, o = pack(root, "--chapter", "25", "--no-tail", "--incremental", "--peek")
+        check("cache older than 3 hours is ignored", "FULL: cache older than 3 hours" in o, o[:300])
+        # large change: diff bigger than 60% falls back to full text
+        d["ts"] += 4 * 3600
+        (root / "ops/ctx-cache.json").write_text(json.dumps(d))
+        (root / "story/bible/state.md").write_text("# Totally new state\n" + "\n".join(f"- brand new line {i} about something else entirely" for i in range(40)))
+        c, o = pack(root, "--chapter", "25", "--no-tail", "--incremental", "--peek")
+        check("a change larger than 60% sends the full text, not a diff", "## State\n# Totally new state" in o and "[CHANGED" not in o.split("## Debts")[0], o[:300])
+    finally:
+        shutil.rmtree(root, ignore_errors=True)
+
+    # golden A/B: lossless, smaller from the second chapter, retrieval finds the planted facts
+    r = subprocess.run([PY, str(TOOLS / "ctx_compare.py"), "--json"], capture_output=True, text=True)
+    try:
+        res = json.loads(r.stdout)
+    except ValueError:
+        res = {"problems": ["unparsable output"], "rows": []}
+    check("golden fixture: State/Debts/Secrets rebuilt exactly from incremental packs", r.returncode == 0 and not res["problems"], r.stdout[-400:] + r.stderr[-300:])
+    later = [x for x in res["rows"] if x["chapter"] != 23]
+    check("golden fixture: incremental pack is smaller for every later chapter", bool(later) and all(x["incremental_chars"] < x["full_chars"] for x in later), str(res.get("rows")))
+    check("golden fixture: first chapter pays only the small mode note", res["rows"] and res["rows"][0]["incremental_chars"] - res["rows"][0]["full_chars"] < 300, str(res.get("rows")))
+    check("golden fixture: retrieval finds the expected thread/twist lines", all(not v["missing"] for v in res.get("retrieval", {"x": {"missing": ["?"]}}).values()), str(res.get("retrieval")))
+
+    # retrieval behaviour
+    root = fresh()
+    try:
+        c, o = run(root, "memory_retrieve.py", "--chapter", "26")
+        check("retrieval shows provenance for every item", c == 0 and "story/bible/twists-1.md:16" in o and "ignored as too common" in o, o[:400])
+        c, o = run(root, "memory_retrieve.py", "--chapter", "26", "--budget", "500")
+        check("retrieval over budget names what it left out", "not shown, over the 500-char budget" in o, o[-300:])
+        c, o = run(root, "context_pack.py", "--part", "delta", "--chapter", "26", "--no-tail", "--retrieve", "--peek")
+        check("--retrieve adds the Retrieved memory section", c == 0 and "## Retrieved memory" in o)
+        c, o = run(root, "context_pack.py", "--part", "delta", "--chapter", "26", "--no-tail", "--peek")
+        check("without --retrieve there is no retrieval section", "Retrieved memory" not in o)
     finally:
         shutil.rmtree(root, ignore_errors=True)
 
@@ -432,6 +609,7 @@ def main():
         shutil.rmtree(root, ignore_errors=True)
 
     phase_two_tests()
+    phase_b_tests()
     if FAILS:
         print("\nFAILED:", ", ".join(FAILS))
         sys.exit(1)

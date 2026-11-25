@@ -4,3 +4,4 @@ ops/lock.json
 out/reading-page.html
 .lock.guard
 ops/*.bak
+ops/ctx-cache.json

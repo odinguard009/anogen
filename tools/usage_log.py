@@ -51,46 +51,68 @@ def cmd_add(a):
     print("logged usage:", a.role, a.range, a.outcome)
 
 
+SOURCES = ("reported", "manual", "estimate")
+LABEL = {"reported": "PROVIDER-REPORTED (actual)", "manual": "MANUALLY OBSERVED (owner/orchestrator read, not provider data)",
+         "estimate": "ESTIMATED (not measured)"}
+
+
 def cmd_report(_a):
     rs = rows()
     if not rs:
         print("No usage recorded yet (ops/usage.jsonl is empty). Token and cost figures are UNMEASURED.")
         return
     prices = load_json(OPS / "prices.json", {})
-    by = {}
-    for r in rs:
-        b = by.setdefault(r["role"], {"runs": 0, "in": 0, "out": 0, "sec": 0, "retries": 0, "failed": 0, "cost": 0.0, "costed": 0, "unreported": 0})
-        b["runs"] += 1
-        b["retries"] += r["outcome"] == "retry"
-        b["failed"] += r["outcome"] == "failed"
-        b["sec"] += r.get("seconds") or 0
-        if r.get("input") is None and r.get("output") is None:
-            b["unreported"] += 1
-        b["in"] += r.get("input") or 0
-        b["out"] += r.get("output") or 0
-        p = prices.get(r.get("model") or "")
-        if p and r.get("input") is not None and r.get("output") is not None:
-            b["cost"] += (r["input"] * p["input"] + r["output"] * p["output"]) / 1e6
-            b["costed"] += 1
-    tot_in = sum(b["in"] for b in by.values())
-    tot_out = sum(b["out"] for b in by.values())
-    print(f"{'role':18}{'runs':>5}{'input':>10}{'output':>9}{'sec':>7}{'retry':>6}{'fail':>5}  cost")
-    for role, b in sorted(by.items()):
-        cost = f"{b['cost']:.2f} USD" if b["costed"] == b["runs"] and b["runs"] else ("unknown" if not b["costed"] else f"partial {b['cost']:.2f} USD")
-        print(f"{role:18}{b['runs']:>5}{b['in']:>10}{b['out']:>9}{b['sec']:>7.0f}{b['retries']:>6}{b['failed']:>5}  {cost}")
-    drafted = set()
-    for r in rs:
-        if r["role"] == "writer" and r["outcome"] == "ok":
-            drafted.update(chapter_span(r["range"]))
-    words = sum(word_count(read(chapter_path(n))) for n in drafted if chapter_path(n).exists())
-    print(f"writer chapters with usage logged: {len(drafted)} ({words} words)")
-    if drafted and (tot_in or tot_out):
-        print(f"all roles: {(tot_in + tot_out) / len(drafted):.0f} tokens per logged chapter; "
-              f"{(tot_in + tot_out) / max(words, 1) * 1000:.0f} tokens per 1,000 words")
-    srcs = sorted({r.get("source", "?") for r in rs})
-    print("sources:", ", ".join(srcs), "(only 'reported' is provider data)")
-    if any(b["unreported"] for b in by.values()):
-        print("note: some runs have no token counts; totals are lower bounds.")
+    print("Usage is reported per data source and is never added across sources.")
+    for src in SOURCES:
+        sub = [r for r in rs if r.get("source", "manual") == src]
+        if not sub:
+            continue
+        print(f"\n== {LABEL[src]}: {len(sub)} run(s)")
+        by = {}
+        for r in sub:
+            b = by.setdefault(r["role"], {"runs": 0, "in": 0, "out": 0, "cr": 0, "cw": 0, "sec": 0, "retries": 0, "failed": 0,
+                                         "cost": 0.0, "costed": 0, "cache_unpriced": 0, "no_tokens": 0})
+            b["runs"] += 1
+            b["retries"] += r["outcome"] == "retry"
+            b["failed"] += r["outcome"] == "failed"
+            b["sec"] += r.get("seconds") or 0
+            if r.get("input") is None and r.get("output") is None:
+                b["no_tokens"] += 1
+            b["in"] += r.get("input") or 0
+            b["out"] += r.get("output") or 0
+            b["cr"] += r.get("cache_read") or 0
+            b["cw"] += r.get("cache_write") or 0
+            p = prices.get(r.get("model") or "")
+            if p and r.get("input") is not None and r.get("output") is not None:
+                c = (r["input"] * p["input"] + r["output"] * p["output"]) / 1e6
+                for key, field in (("cache_read", "cache_read"), ("cache_write", "cache_write")):
+                    if r.get(field):
+                        if key in p:
+                            c += r[field] * p[key] / 1e6
+                        else:
+                            b["cache_unpriced"] += 1
+                b["cost"] += c
+                b["costed"] += 1
+        print(f"{'role':18}{'runs':>5}{'input':>10}{'output':>9}{'cache_rd':>10}{'cache_wr':>10}{'sec':>7}{'retry':>6}{'fail':>5}  cost ({src}-based)")
+        for role, b in sorted(by.items()):
+            if not b["costed"]:
+                cost = "unknown (no price for model or no tokens)"
+            else:
+                cost = f"{b['cost']:.2f} USD" + ("" if b["costed"] == b["runs"] else f" for {b['costed']}/{b['runs']} runs") + \
+                    (" (cache tokens not priced: add cache_read/cache_write to prices.json)" if b["cache_unpriced"] else "")
+            print(f"{role:18}{b['runs']:>5}{b['in']:>10}{b['out']:>9}{b['cr']:>10}{b['cw']:>10}{b['sec']:>7.0f}{b['retries']:>6}{b['failed']:>5}  {cost}")
+        if any(b["no_tokens"] for b in by.values()):
+            print("note: some runs carry no token counts; these totals are lower bounds.")
+        drafted = set()
+        for r in sub:
+            if r["role"] == "writer" and r["outcome"] == "ok":
+                drafted.update(chapter_span(r["range"]))
+        words = sum(word_count(read(chapter_path(n))) for n in drafted if chapter_path(n).exists())
+        tot = sum(b["in"] + b["out"] for b in by.values())
+        if drafted and tot:
+            print(f"writer chapters in this source: {len(drafted)} ({words} words); all roles: {tot / len(drafted):.0f} tokens per chapter, "
+                  f"{tot / max(words, 1) * 1000:.0f} tokens per 1,000 words (input+output, cache not included)")
+    print("\nPrices come only from ops/prices.json (supplied by the owner); none are built in.")
 
 
 def main():

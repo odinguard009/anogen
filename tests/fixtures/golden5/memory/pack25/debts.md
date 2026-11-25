@@ -1,0 +1,37 @@
+Plants ch 1-60 (arc-1.md; twists-1/2.md).
+- [open] War dream quiets when Lysette cries | planted: ch 1, 26 | due: ch 200-205
+- [open] Handkerchief "to wash" | planted: ch 1 | due: ch 140, 175, 600
+- [open] Roof garden green out of season | planted: ch 1 | due: ch 575-580
+- [open] Hairpin in locked door (Morrowpin) | planted: ch 2 | due: ch 172-176, 197
+- [open] Veil: "bottom of the world"; Candor hums | planted: ch 3 | due: ch 48-50, 176
+- [open] Ledger = Ball guest list (41 lanterns, Rowan no.1); Embers want Rowan alive on the night of lights | planted: ch 3, 18 | due: ch 24-26
+- [open] Bell: faint fourth tone | planted: ch 3 | due: ch 420-425
+- [open] Locket (Corentin) | planted: ch 4 | due: ch 36-38
+- [open] Forged Daubert signature | planted: ch 5-8 | due: ch 95
+- [open] Okoru saw the shield-hold before; ch 11 "not by feel" | planted: ch 6, 11 | due: ch 60-66
+- [open] Rowan's light = Lirenne fresco | planted: ch 6 | due: ch 105-110
+- [open] Lilies revive near Clara | planted: ch 6 | due: ch 478-480
+- [open] Ashen card "Remember Thornmere" (bookmark) | planted: ch 7 | due: ch 24
+- [paid ch 18] Gray-coat Ember = Corwen, bag man; sent to Ysolde
+- [open] Strent: no lamps, Liora's lullaby, "your mother sang" | planted: ch 8 | due: ch 50, 185
+- [open] Seal seeks hooded door-shield; Beatrix: thank him | planted: ch 9-10 | due: ch 13-24, 72
+- [open] Ysolde's gray-sealed envelope | planted: ch 9 | due: ch 153-156
+- [open] Seraphine "save me again?" | planted: ch 10 | due: ch 143-147
+- [open] Felix's middle name; two lunches | planted: ch 12 | due: ch 47; 106-108
+- [open] Witness plate (door, figure) with Okoru; Insp. Rochefort | planted: ch 13 | due: ch 138-142
+- [open] Dragon: "I promised" | planted: ch 15 | due: ch 420-425
+- [open] Verdict makes ruling physical | planted: ch 16 | due: ch 540-545
+- [open] Ember's gray veins | planted: ch 22 | due: ch 90-95
+- [open] Feather inside Eden's left gauntlet | planted: ch 23 | due: ch 172-176
+- [open] Ilsabet spared; Merrow tapestry | planted: ch 25 | due: ch 145-150, 270-300
+- [open] Bertram: "your mother had w-" | planted: ch 28 | due: ch 160-176
+- [open] Tutor's "test I once set a king" | planted: ch 29 | due: ch 166-170
+- [open] Duke's helm hour; Strent letter | planted: ch 30 | due: ch 251; 185
+- [open] King's 2nd envelope; scarf | planted: ch 33 | due: ch 210-214; 600
+- [open] Titan shape | planted: ch 34 | due: ch 244
+- [open] Seraphine takes post beside Eden | planted: ch 35 | due: ch 145
+- [open] Rowan: why hate me | planted: ch 39 | due: ch 128-132
+- [open] Groundskeeper Veil decoy | planted: ch 45 | due: ch 185
+- [open] Feather in Wardenshell; Strent first | planted: ch 47-48 | due: ch 175; 99, 185
+- [open] Witness: light where Eden stood; "Liora's boy" | planted: ch 50 | due: ch 51-55, 140
+- [open] Okoru: "they never test the Teeth" | planted: ch 60 | due: ch 285

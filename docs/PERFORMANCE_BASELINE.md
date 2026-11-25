@@ -35,7 +35,7 @@ Direct API calls from code: 0 (MEASURED by search). Web searches: at most 1 per 
 | Writer prompt + 2 roles | 3,787 + 1,908 + 941 = 6,636 | ~1.7k |
 | Critic prompt + role | 2,617 + 1,046 = 3,663 | ~0.9k |
 | Writer batch floor (5 chapters) | | **~28k** (before output, reads and accumulation) |
-| Critic batch floor (5 chapters) | | **~19k** (5 chapters × ~2.9k + prompts + profile) |
+| Critic floor per 5 chapters | | **~19k** (5 chapters × ~2.9k + prompts + profile); since the owner's order the critic runs once per 10 chapters, so the floor per run is about double (ESTIMATE) |
 | Chapter text | 2,204 words | ~2.9k tokens (1.33 tokens/word ESTIMATE) |
 
 Known defect inside these figures: the style profile in the static pack is cut at 9,000 of 13,816 chars (F-01).
@@ -113,3 +113,17 @@ python3 tools/context_pack.py --part delta --peek | wc -c     # --peek avoids wr
 ```
 
 Timing and synthetic-scale runs used scratch copies (`ANOGEN_ROOT` pointing at a copy of the tree); the repository itself was not modified by any measurement.
+
+## 11. Second-pass checkpoint (2026-11-25)
+
+Golden fixture comparison (`python3 tools/ctx_compare.py`, MEASURED characters; tokens ESTIMATE = chars/4; no provider data):
+
+| Metric | Current delta pack | Incremental delta pack |
+|---|---|---|
+| Chars, chapters 23-27 total | 76.3k | 52.2k |
+| Chars saved over chapters 24-27 (the later chapters of a batch) | | 24.2k, about 6.0k tokens (ESTIMATE) |
+| First chapter of a batch | baseline | +79 chars (mode note) |
+| State/Debts/Secrets rebuilt exactly from pack + diffs | n/a | yes, all 5 chapters |
+| Retrieval, planted sources found | n/a | chapter 26: 2/2; chapter 28: 3/3 (`--retrieve` adds ~3.5k chars per chapter) |
+
+Static pack with the full style profile: 28.4k chars (was 23.6k with the profile cut at 9,000). Still unmeasured: provider tokens, cost, writer quality with diffs, retries.

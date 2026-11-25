@@ -11,6 +11,8 @@ Add one line per first use as each chapter is written: `name | owner | first on 
 - Veil tells (flat unbreathing shadow; cannot say the victim's middle name; grey shape in Ea's light; falls to grey dust) | Veils | ch 3 | yes | n/a
 - Vesk | Eden's Pillar | ch 3 | yes (small man in grey, lamp-yellow eyes, speaks from Eden's shadow, wears black plate) | yes (cannot follow into total dark)
 
+- Ixa (dark lance; in public carried in a leather case on his back) | Eden | ch 4 | yes (short, a little longer than his arm, matte black, cold in the sun; drawn from his shadow each morning) | yes (only as strong as his arms and breath; the fold into a door-shield not yet shown)
+
 ## Planned first uses (outline chapters)
 - Class/job reading (Eden: Knight, Black Lancer) | ch 27 (finals board posts ranks; his own reading in his head)
 - Aura as a word and a knight's aura stopping a bullet | ch 31 (Wall drill: a sergeant shows recruits a pistol ball sliding off)

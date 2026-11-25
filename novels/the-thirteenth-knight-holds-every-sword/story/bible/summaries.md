@@ -10,3 +10,6 @@ In the nightly dream Eden loses a siege game to the Tutor, and the Landlord scol
 
 ## Ch 3 - The Bottom of the World
 At the Solmarch lantern market Vesk and Eden spot a tax clerk with a flat, unbreathing shadow. Eden steps into his shadow and out in Umra, the black plate. The Veil bolts at once, as if warned, and the crowd shouts "The Black Order!" Eden knocks a door open in an awning's shade and drops it into a cellar. When it cannot say its own middle name (Aubin), he kills it with Ea; it dies saying "You smell like the bottom of the world." Its book lists Hallowcrest Year 5 students, with Rowan circled hard in red. Ysolde appears at the stairs and demands Form 13-B, three copies, by morning.
+
+## Ch 4 - Eleven Seconds of Silence
+At lunch Seraphine sits down uninvited, teases Eden as an old friend and Lysette as a hunting dog, and steals his bread. In Arms Rowan attacks like a storm while Eden only blocks with Ixa, his public lance; Okoru watches his feet too long and says "Nothing. That is what bothers me." Afterwards Eden finds Lysette alone in the yard and she opens her locket: it holds a portrait of her brother Corentin, dead two years. Eden looks away first, his stomach turning for no reason he knows. Hook: she says he looked away because it hurt, not because it was rude.

@@ -1,18 +1,18 @@
 # Court Is in Session
 
-The notice said two hours and ten minutes. By the time Felix finished reading it aloud, it was two hours and six.
+The notice said two hours and ten minutes. Felix read it out loud. By the end, it was two hours and six.
 
-"'Crown Prince Valerius Aurenmark, Rank One, calls Eden Wren, Rank Eight, to a formal duel for the Ladder,'" he read. "'Long Court, sixth bell, before the assembled year. A refusal forfeits the rung and requires an Inquiry into its cause.'" He stopped. "That last part is underlined."
+"'Crown Prince Valerius Aurenmark, Rank One, calls Eden Wren, Rank Eight, to a formal duel for the Ladder,'" he read. "'Long Court, sixth bell, before the whole year. If he refuses, he loses his rung. The Committee must then ask why he refused.'" He stopped. "That last part is underlined."
 
-"Somebody underlined it by hand," said Rowan. "With a ruler."
+"Someone underlined it by hand," said Rowan. "With a ruler."
 
-"It's him. He'd use a ruler."
+"It's him. He would use a ruler."
 
-We stood in the atrium in front of the board, with about forty people pretending not to look at me. The notice was pinned dead center. Someone had already scratched a small bet into the corner of the frame.
+We stood in the atrium in front of the board. About forty people pretended not to look at me. The notice hung in the middle of the board. Someone had already scratched a small bet into the corner of the frame.
 
-Rank one may call anyone within eight rungs, once a term. I'd read the rule the year I arrived, the way I read all rules, looking for the exits. This one had a very small exit. You could refuse. Then the Committee would ask why Wren wouldn't fight, and then someone would start asking what Wren was.
+Rank one may call anyone within eight rungs, once a term. I had read that rule the year I came. I read all rules that way. I look for the exits. This rule had one small exit. I could refuse. Then the Committee would ask why Wren would not fight. Then someone would ask what Wren was.
 
-"You could just lose," said Rowan helpfully.
+"You could just lose," said Rowan.
 
 "That's the plan."
 
@@ -22,129 +22,129 @@ Rank one may call anyone within eight rungs, once a term. I'd read the rule the 
 
 "What? It's good advice!"
 
-It was good advice. It was also the second-worst thing I could do. A rank-eight who loses fast gets noticed for losing fast. Valerius had picked his moment well. He always did. He'd read the rule the same year I had.
+It was good advice. It was also the second-worst thing I could do. A rank-eight who loses fast gets noticed for losing fast. Valerius had picked his moment well. He always did. He had read the rule the same year I had.
 
-"Eaten today?" Felix said quietly.
+"Have you eaten today?" Felix asked quietly.
 
 "Not yet."
 
-He put half a bun in my glove and didn't say anything else, which was the nicest thing anyone did for me that day.
+He put half a bun in my glove. He said nothing else. It was the nicest thing anyone did for me that day.
 
 * * *
 
-The waiting room under the Long Court benches is a stone box with a bench and a water jug. It smells like old sand and other people's nerves. I sat there with my lance across my knees and listened to the crowd arrive overhead. Boots on planks. A lot of boots.
+The waiting room under the Long Court benches is a stone box. It has one bench and a water jug. It smells of old sand and of other people's fear. I sat there with my lance across my knees. Above me the crowd came in. I heard boots on wood. A lot of boots.
 
-Nobody comes to Ladder duels. They're boring. Two people circle each other for ten minutes and a judge writes down a number. Today they were coming in rows.
+Nobody comes to Ladder duels. They are boring. Two people walk in circles for ten minutes. A judge writes down a number. Today people came in rows.
 
-Okoru ducked through the door with a sliver of licorice root in his cheek.
+Okoru ducked through the door. He had a piece of licorice root in his cheek.
 
-"Rules," he said. "Blunting rings on both blades. Prince's request, no healers on the sand. Three judges. Me, Brandmeier, and Dame Ostwald, who has asked me to say she's only here for the tea."
+"Rules," he said. "Both blades have blunting rings. The Prince asked for no healers on the sand. We have three judges. Me, Brandmeier, and Dame Ostwald. She asked me to say she is only here for the tea."
 
 "Is there tea?"
 
-"There is not. She's very disappointed." He shifted the root to the other cheek. "A touch is a clean hit on the body. A judge rings the bell, and that's the duel."
+"There is not. She is very sad about it." He moved the root to the other cheek. "A touch is a clean hit on the body. A judge rings the bell. Then the duel is over."
 
 "Fine."
 
-"Fine," Okoru repeated. "That's the word you use before you get serious. I've heard you say it twice."
+"Fine," said Okoru. "That's the word you say before you get serious. I've heard you say it twice."
 
-"I'm not going to get serious."
+"I won't get serious."
 
-"Good. Then say it quieter."
+"Good. Then say it more quietly."
 
-He got as far as the door, then turned back.
+He walked to the door. Then he turned back.
 
-"One more thing. The rings don't cover the Verdict," he said. "A blade can be blunted. A wall can't. It has no soft setting. Last spring a Year Four walked into one at full run and we put his collarbone back together in two pieces."
+"One more thing. The rings don't cover the Verdict. You can blunt a blade. You can't blunt a wall. It has no soft setting. Last spring a Year Four ran into one. We put his collarbone back together in two pieces."
 
 "Noted."
 
 "Don't note it. Think about it."
 
-He left. The door had barely shut when it opened again, and Lysette came in without knocking, carrying the duel book against her chest like a shield.
+He left. The door had just closed when it opened again. Lysette came in without knocking. She held the duel book against her chest like a shield.
 
-She was the marshal. Of course she was. The Committee runs every sanctioned duel, and the Committee was her.
+She was the marshal. Of course she was. The Committee runs every duel, and she was the Committee.
 
 "Stand up," she said.
 
-I stood up. She looked at my boots, my belt, my glove. She tugged the left cuff straight, with the tips of two fingers, like she was fixing a picture. Her hand was perfectly steady. That's how I knew.
+I stood. She looked at my boots, my belt and my glove. She pulled my left cuff straight with two fingers, like she was fixing a picture. Her hand was perfectly steady. That is how I knew she was afraid.
 
-"If it goes bad you yield," she said. "Don't look at me when you do it. Just say it out loud. The marshal can call a yield from the desk and I will. I'll ring it myself."
+"If it goes badly, you yield," she said. "Don't look at me. Just say it out loud. The marshal can call a yield from the desk. I will ring the bell myself."
 
-"I'll keep that in mind."
+"I'll remember that."
 
-"Don't keep it in mind. Do it."
+"Don't remember it. Do it."
 
 "Lysette."
 
-"He's doing this on purpose." Her voice dropped. "I don't know why. But he waited until the Ball was three weeks off and the whole year was bored. I put it in my notes. I put a star next to it."
+"He is doing this on purpose." Her voice dropped. "I don't know why. But he waited until the Ball was three weeks away and the whole year was bored. I wrote it in my notes. I put a star next to it."
 
-"What's a star mean?"
+"What does a star mean?"
 
-"That I don't like it."
+"It means I don't like it."
 
-She went out. The crowd above us made one big sound, like a lid coming off a pot, and I understood that the Prince had arrived.
+She went out. Above us the crowd made one big sound, like a lid coming off a pot. I knew the Prince had arrived.
 
 * * *
 
-Long Court is a sand oval, forty paces end to end, with a white chalk line across the middle. Benches on three sides. The judges' table at the north end, with a brass bell on a stand and a rope hanging from its tongue. At the sixth bell the sun had dropped behind the Armory roof, and every post on the sand threw a shadow as long as a cart.
+Long Court is an oval of sand. It is forty paces long. A white chalk line runs across the middle. Benches stand on three sides. At the north end is the judges' table. A brass bell hangs there on a stand with a rope on its tongue. At the sixth bell, the sun had dropped behind the Armory roof. Every post on the sand threw a shadow as long as a cart.
 
-I took the south mark. Valerius was already on the north.
+I took the south mark. Valerius already stood on the north.
 
-Rowan was in the front row with Clara and Felix, waving with his whole arm. Clara had her hands folded and a look like she was counting exits. Felix just nodded once. Lysette sat at the marshal's desk beside the bell with the book open and her pen already moving, and she did not look up.
+Rowan sat in the front row with Clara and Felix. He waved with his whole arm. Clara folded her hands. She looked like she was counting the exits. Felix nodded once. Lysette sat at the marshal's desk beside the bell. Her book was open and her pen was moving. She did not look up.
 
-He'd taken off the cloak. He stood square, feet apart, longsword down in front of him with both hands on the pommel. Textbook. It's a beautiful thing to watch, I'll admit, the way a perfect staircase is.
+Valerius had taken off his cloak. He stood square with his feet apart. He held his longsword point down in front of him, with both hands on the end. It was perfect. I will admit it was beautiful to watch.
 
 "Wren," he said.
 
 "Your Highness."
 
-"On the Ladder it's Valerius."
+"On the Ladder, I'm Valerius."
 
-"Then it's Wren."
+"Then I'm Wren."
 
-"Do you know why I called you?" said Valerius.
+"Do you know why I called you?"
 
-"The Ladder says one rank within eight."
+"The Ladder says one rank can call anyone within eight."
 
-"That's why I was allowed to."
+"That is why I was allowed to."
 
-"I like the first answer better."
+"I liked the first answer better."
 
-Somebody in the benches laughed. Brandmeier hissed, and it stopped. At the judges' table, Dame Ostwald sat with her good eye turned my way and a thermos in her lap. I decided not to think about the thermos.
+Someone on the benches laughed. Brandmeier hissed, and it stopped. At the judges' table, Dame Ostwald sat with her good eye on me. She had a flask in her lap. I decided not to think about the flask.
 
-The bell was tapped once. Valerius lifted the blade.
+Someone tapped the bell once. Valerius raised his blade.
 
-For the first exchange I did nothing clever. That's the rule I give myself. Block, and watch the shoulders.
+In the first exchange, I did nothing clever. That is my rule. Block, and watch the shoulders.
 
-He came straight down the middle and cut high, then low, then high again, each stroke clean and level. I caught every one on the lance shaft. He doesn't telegraph. But he has a habit before a ruling: his weight sits down into his back heel, like a man about to say something important.
+He came straight down the middle. He cut high, then low, then high again. Each cut was clean and level. I caught every one on the lance shaft. He does not warn you with his body. But he has one habit before a ruling. His weight sinks into his back heel, like a man about to say something important.
 
 He did it now.
 
 "This line is not crossed," he said.
 
-He drew the sword tip through the sand behind my boots, one long scratch.
+He dragged the tip of his sword through the sand behind my boots. It made one long scratch.
 
-The sand didn't stay a scratch. A pane of pale, cloudy force stood up out of the line, shoulder high, as if it had been there all along and just needed telling. I was already moving, and it caught me hard across the left side of my back.
+The scratch did not stay a scratch. A pane of pale, cloudy force rose out of the line. It was as high as my shoulder. I was already moving, and it hit me hard across the left side of my back.
 
 It was like being hit by a door. It did not feel like a spell.
 
-My ribs on the left side went hot, then dull. I stayed up. That mattered more than the pain, so I stayed up and I kept the lance level and my face bored.
+My ribs on the left went hot, then dull. I stayed on my feet. That mattered more than the pain. I kept the lance level and my face bored.
 
-"Sorry," said Valerius. He didn't sound it.
+"Sorry," said Valerius. He did not sound sorry.
 
 "It's a good wall."
 
-"It's a fair wall. That's the point of it. Everyone in this court can see it's fair."
+"It's a fair wall. That's the point. Everyone in this court can see it's fair."
 
-"Then everyone's very lucky."
+"Then everyone is lucky."
 
-*That's a crack,* said the Dragon, suddenly, from very far away. *Not a bad one.*
+*That was a joke,* said the Dragon, from far away. *A good one.*
 
 *Not now.*
 
-"Court is in session," said Valerius, and drew a second line at my right.
+"Court is in session," said Valerius. He drew a second line on my right.
 
-Another wall. Then a third, close on my left, so I stood in a stone-colored corridor as wide as a wardrobe with the Prince at the open end. Behind the frosted panes the benches were smudges of faces. They could see shapes, and no more. That was the first thing I noticed. The second was how neat it was. He wasn't trying to hit me. He was shrinking the room until I had only one thing left to do, and that was something he wanted to see.
+Another wall rose. Then a third came up close on my left. Now I stood in a gray corridor as wide as a wardrobe. The Prince stood at the open end. Behind the cloudy walls, the benches were smears of faces. They could see shapes and nothing more. That was the first thing I noticed. The second was how neat it was. He was not trying to hit me. He was making my room smaller. Soon I would have only one thing left to do, and he wanted to see it.
 
 Everyone watches a trapped man the same way. They wait for him to break out.
 
@@ -154,17 +154,17 @@ Everyone watches a trapped man the same way. They wait for him to break out.
 
 "Liar."
 
-He stepped in and cut. I blocked, and my feet slid back an inch, and my heel hit the wall. There it was. Nowhere to go.
+He stepped in and cut. I blocked. My feet slid back an inch. My heel hit the wall. There it was. I had nowhere to go.
 
-And that was when I stopped thinking of the walls as his.
+That was when I stopped thinking of the walls as his.
 
-They were cover. Frosted, thick enough that the benches saw a smear. Three panes, three smears. And one open end, where Valerius would have to come around.
+They were cover. They were thick, and the benches could only see a smear. Three walls made three smears. And there was one open end, where Valerius would have to come around.
 
-He'd have to come around. Square on, textbook. The same way he does everything.
+He would come around. Straight on. The same way he does everything.
 
-I could feel my pulse in the cracked rib. Each breath had a small catch in it, like a drawer that doesn't quite close.
+I could feel my pulse in my hurt rib. Each breath caught a little, as if something inside would not close.
 
-I let the lance droop. I let my shoulders go loose and my breath go ragged, which wasn't hard, with the ribs. I looked tired. I looked like a boy who'd run out of ideas.
+I let the lance drop. I let my shoulders go loose and my breath go rough. That was not hard with the ribs. I looked tired. I looked like I had no ideas left.
 
 "Last chance," said Valerius.
 
@@ -174,25 +174,25 @@ I let the lance droop. I let my shoulders go loose and my breath go ragged, whic
 
 He charged.
 
-He took the corner at full speed, blade low and level, and it was a good charge. It would have gone through a man. I was waiting on the hinge side, back against the wall, and when his front foot landed I pivoted on mine, the way a door turns, and let the blade go by where my chest had been.
+He took the corner at full speed. His blade was low and level. It was a good charge. It would have gone through a man. I waited on the side of the wall, with my back against it. When his front foot landed, I turned on mine like a door on a hinge. His blade went past the place where my chest had been.
 
-The Hinge. It's only a step. It makes all the difference, because now he was past me, and his sword arm was out, and his wrist was an inch from my hand.
+I call it the Hinge. It is only one step. But now he was past me. His sword arm was out. His wrist was an inch from my hand.
 
-I turned the lance in my fingers and tapped the butt end into the inside of his wrist.
+I turned the lance in my fingers. I tapped the butt end into the inside of his wrist.
 
-Not hard. Just exactly there, on the nerve, where it runs close to the bone.
+It was not hard. It was exactly in the right place, on the nerve near the bone.
 
-His fingers opened. They didn't ask permission.
+His fingers opened. They did not ask his permission.
 
-The longsword fell and stuck upright in the sand between us, quivering.
+The longsword fell. It stuck upright in the sand between us and shook.
 
-From the benches it would have looked like nothing. The wall's edge, the Prince's own shoulder, the smear of the pane. What the year saw was the Prince charging, Wren in the way with his lance across his chest, and the Prince's sword somehow on the ground. Someone said, "Did he *drop* it?"
+From the benches it looked like nothing. They saw the wall's edge, the Prince's shoulder and a smear. They saw the Prince charge. They saw Wren in the way with his lance across his chest. Then the Prince's sword was on the ground. Someone said, "Did he drop it?"
 
 Okoru had stopped chewing.
 
-I saw that over Valerius's shoulder. He sat at the judges' table with his jaw gone still and the licorice root forgotten in his cheek, and his one hand lay flat on the wood. He'd seen the whole thing. He was the only one who could have. He was looking at the angle, not at me.
+I saw that over Valerius's shoulder. He sat at the judges' table. His jaw was still. He had forgotten the licorice root in his cheek. One hand lay flat on the wood. He had seen all of it. He was the only one who could. He was looking at the angle, not at me.
 
-Valerius stood very straight. He flexed his right hand once, slowly, and looked at it. Then he looked at me. It was a long, careful look, the way you'd look at a lock that had opened too easily.
+Valerius stood very straight. He opened and closed his right hand once, slowly, and looked at it. Then he looked at me. It was a long, careful look, like you give a lock that opened too easily.
 
 "Again," he said.
 
@@ -200,4 +200,4 @@ He said it so only I could hear.
 
 "And this time," said Valerius, "try."
 
-He pulled the sword out of the sand with his left hand. Behind him, the judges' bell hung on its stand, and nobody had touched the rope.
+He pulled the sword out of the sand with his left hand. Behind him, the judges' bell hung on its stand. Nobody had touched the rope.

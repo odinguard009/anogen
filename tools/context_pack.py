@@ -11,12 +11,22 @@ Usage: context_pack.py [--chapter N] [--extra world,armor] [--peek] [--part full
   of the file) falls back to the full text. Running without --incremental always gives the full pack.
 --retrieve: add "Retrieved memory" (tools/memory_retrieve.py): threads, twists, timeline and older summaries that match the
   names and chapter numbers of the outline lines, each with file:line provenance.
+--style auto|full (default auto): in auto mode the situational style blocks (SPECIAL ATTACK LABEL, the ARMOR part of SCENE FEEL,
+  Battles and aura) are replaced by a one-line stub ONLY when none of the outline lines for chapters N..N+4 mentions fighting,
+  armor or powers; no outline lines found = full style. --style full always loads everything.
+--budget N: character budget for the pack (default: setting context_pack_max_chars). Over budget, whole low-priority sections
+  (Extra:, Retrieved memory, Pacing) are dropped in that order and named in a PACK NOTE; never mid-section. If the protected
+  sections alone are over budget the old tail cut and exit 4 remain.
+--log: append one line (chars, fingerprint, per-section sizes, omitted sections) to ops/context-log.jsonl.
+Duplicate long lines across sections are removed (kept once) and counted in the footer.
 Default full = both. "characters" is always in the pack; do not pass it in --extra.
 Prints a compact pack; each section is capped and the total is capped by
 the setting context_pack_max_chars.
 """
 import argparse
+import datetime
 import difflib
+import json
 import hashlib
 import re
 import sys
@@ -41,6 +51,10 @@ def cap(text, n, title="?"):
     return text[:n].rstrip() + f"\n[...TRUNCATED: {len(text) - n} chars of '{title}' lost; raise the cap or shorten the source file]"
 
 
+LAST = {}   # facts about the last build(): sizes, omitted sections (read by main() for the footer and the log)
+LOG = OPS / "context-log.jsonl"
+SITUATIONAL_RE = re.compile(r"fight|battle|duel|attack|clash|sword|lance|blade|armou?r|raiment|aura|spar\b|\bwar\b|siege|combat|tournament|ambush|raid|kill|monster|husk|hush|veil|stalker|choir|unbind|invader|shadow knight|legion|weapon|strike|wound|\bdoor\b|\bgate\b", re.I)
+DROPPABLE = ("Extra:", "Retrieved memory", "Pacing")   # dropped whole, in this order, when over budget
 CACHE = OPS / "ctx-cache.json"   # local only (gitignored): what the previous chapter's pack contained
 DIFFABLE = ("State", "Debts (open promises)", "Secrets")
 CACHE_TTL_SECONDS = 3 * 3600
@@ -54,6 +68,52 @@ def sha(text):
 
 def static_hash():
     return sha("\x00".join(read(STORY / d / f) for d, f in STATIC_SOURCES))
+
+
+def style_for(profile, outline, mode="auto"):
+    """(text, omitted_names). Situational blocks are stubbed only in auto mode and only when the outline shows no trigger."""
+    if mode == "full" or not outline.strip() or SITUATIONAL_RE.search(outline):
+        return profile, []
+    omitted = []
+
+    def cut(text, start_re, end_re, name):
+        m = re.search(start_re, text, re.M)
+        if not m:
+            return text
+        e = re.search(end_re, text[m.end():], re.M)
+        end = m.end() + e.start() if e else len(text)
+        omitted.append(name)
+        return text[:m.start()] + text[end:]
+    text = cut(profile, r"^## SPECIAL ATTACK LABEL", r"^## ", "SPECIAL ATTACK LABEL")
+    text = cut(text, r"^ARMOR \(follow", r"^HUMAN FEEL \(", "ARMOR (in SCENE FEEL AND ARMOR)")
+    text = cut(text, r"^## Battles and aura", r"^## ", "Battles and aura")
+    if omitted:
+        text = text.rstrip() + "\n\n[STYLE NOTE: omitted for this batch because the outline lines show no fight, armor or power use: " + "; ".join(omitted) + ". Run context_pack.py --style full to load them.]"
+    return text, omitted
+
+
+def dedup_sections(sections):
+    """Keep the first copy of any identical long line (>= 80 chars) across sections. Returns (sections, removed_chars)."""
+    seen, out, removed = set(), [], 0
+    for s in sections:
+        if s.startswith("## ") and "[CHANGED since" in s.split("\n", 1)[0]:
+            out.append(s)
+            continue
+        keep = []
+        for ln in s.split("\n"):
+            k = ln.strip()
+            if len(k) >= 80 and k in seen:
+                removed += len(ln) + 1
+                continue
+            if len(k) >= 80:
+                seen.add(k)
+            keep.append(ln)
+        out.append("\n".join(keep))
+    return out, removed
+
+
+def section_title(s):
+    return s.split("\n", 1)[0][3:].strip() if s.startswith("## ") else ""
 
 
 def make_diff(old, new):
@@ -147,7 +207,7 @@ def load_cache(n, batch_start):
     return c, f"DIFF vs the chapter {n - 1} pack"
 
 
-def build(chapter=None, extra=(), peek=False, part="full", no_tail=False, incremental=False, batch_start=False, retrieve=False):
+def build(chapter=None, extra=(), peek=False, part="full", no_tail=False, incremental=False, batch_start=False, retrieve=False, style="auto", budget=None):
     n = chapter or engine_state.compute_next()["next_chapter"]
     nxt = engine_state.compute_next()
     sections = []
@@ -180,7 +240,9 @@ def build(chapter=None, extra=(), peek=False, part="full", no_tail=False, increm
         sections.append(precheck.build(n, peek=peek))
         add("Idea inbox", "\n".join(f"- {i}" for i in __import__('inbox').unprocessed_ideas()), 3000)
     if want_s:
-        add("Style profile", read(STORY / "style" / "profile.md"), 20000)
+        prof, style_omitted = style_for(read(STORY / "style" / "profile.md"), "\n".join(outline_lines(n, 5)), style)
+        LAST["style_omitted"] = style_omitted
+        add("Style profile", prof, 20000)
         add("Banned phrases", read(STORY / "style" / "banned.md"), 2500)
     if want_d:
         ep = epigraph_for(n)
@@ -215,14 +277,28 @@ def build(chapter=None, extra=(), peek=False, part="full", no_tail=False, increm
             seen.add(e)
             add(f"Extra: {e}", read(STORY / "bible" / f"{e}.md"), 9500)
 
+    sections, dup_removed = dedup_sections(sections)
+    limit = budget or setting_int("context_pack_max_chars")
+    omitted = []
     out = "\n\n".join(sections)
-    limit = setting_int("context_pack_max_chars")
-    if len(out) > limit:
-        # never cut silently: cut only the tail and name what was lost
+    for prefix in DROPPABLE:
+        while len(out) > limit:
+            idx = next((i for i in range(len(sections) - 1, -1, -1) if section_title(sections[i]).startswith(prefix)), None)
+            if idx is None:
+                break
+            omitted.append((section_title(sections[idx]), len(sections[idx])))
+            del sections[idx]
+            out = "\n\n".join(sections)
+    if omitted:
+        out += "\n[PACK NOTE: over the budget of " + str(limit) + " chars, these low-priority sections were dropped whole: " + ", ".join(f"{s} ({k} chars)" for s, k in omitted) + "]"
+    if len(out) > limit + (200 if omitted else 0):
+        # last resort, never silent: cut only the tail and name what was lost
         cut = out[limit:]
         lost = [ln[3:].strip() for ln in cut.splitlines() if ln.startswith("## ")]
         TRUNCATED.append(("whole pack (" + (", ".join(lost) or "tail of the last section") + ")", len(cut)))
-        out = out[:limit].rstrip() + "\n[...PACK TRUNCATED at context_pack_max_chars; lost sections: " + (", ".join(lost) or "tail of the last section") + "]"
+        out = out[:limit].rstrip() + "\n[...PACK TRUNCATED at the budget; lost sections: " + (", ".join(lost) or "tail of the last section") + "]"
+    LAST.update(chars=len(out), omitted=omitted, dup_removed=dup_removed, part=part, chapter=n,
+                sizes={section_title(s) or "?": len(s) for s in sections})
     if incremental and not peek and part in ("full", "delta") and not TRUNCATED:
         save_json(CACHE, {"base_chapter": n, "ts": time.time(), "static_hash": static_hash(), "sections": delivered})
     if TRUNCATED:
@@ -240,9 +316,21 @@ def main():
     ap.add_argument("--incremental", action="store_true")
     ap.add_argument("--batch-start", action="store_true")
     ap.add_argument("--retrieve", action="store_true")
+    ap.add_argument("--style", choices=["auto", "full"], default="auto")
+    ap.add_argument("--budget", type=int, default=None)
+    ap.add_argument("--log", action="store_true")
     a = ap.parse_args()
     extra = [e.strip() for e in a.extra.split(",") if e.strip()]
-    print(build(a.chapter, extra, a.peek, a.part, a.no_tail, a.incremental, a.batch_start, a.retrieve))
+    out = build(a.chapter, extra, a.peek, a.part, a.no_tail, a.incremental, a.batch_start, a.retrieve, a.style, a.budget)
+    fp = sha(out)
+    print(out)
+    print(f"[context fingerprint {fp}; {len(out)} chars (about {len(out) // 4} tokens, ESTIMATE chars/4); duplicate chars removed: {LAST.get('dup_removed', 0)}]")
+    if a.log:
+        with open(LOG, "a", encoding="utf-8") as f:
+            f.write(json.dumps({"ts": datetime.datetime.now().astimezone().isoformat(timespec="seconds"), "chapter": LAST.get("chapter"),
+                                "part": LAST.get("part"), "chars": len(out), "fingerprint": fp, "style_omitted": LAST.get("style_omitted", []),
+                                "omitted": LAST.get("omitted", []), "dup_removed": LAST.get("dup_removed", 0), "sizes": LAST.get("sizes", {}),
+                                "tokens": "unavailable (chars only)"}, ensure_ascii=False) + "\n")
     if TRUNCATED:
         print("ERROR: context pack was truncated (see PACK WARNING); fix the caps before writing.", file=sys.stderr)
         sys.exit(4)

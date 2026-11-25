@@ -46,7 +46,7 @@ Tidak ada data token aktual, jadi ini perkiraan dari ukuran file (chars/4, bukan
 5. Tidak ada angka revisi/retry aktual (Not available).
 
 ## 5. Context cost breakdown (Measured: `context_pack.py`, bab 26, karakter)
-- Pack statis (`--part static --extra combat-style`): **32.195 karakter** (~8.000 token, Estimated). Bagian terbesar: Style profile ~19.000 karakter (LEVEL 2.067, CLARITY 2.956, SCENE FEEL AND ARMOR 2.459, READABILITY 1.841, HUMAN FEEL 1.233, NATURAL FLOW 1.094, dll), Characters 2.898, Premise 2.076, combat-style ekstra ~6.000.
+- Pack statis (`--part static --extra combat-style`): **32.195 karakter** (~8.000 token, Estimated). Bagian terbesar: Style profile 17.453 karakter (Measured; LEVEL 2.067, CLARITY 2.956, SCENE FEEL AND ARMOR 2.459, READABILITY 1.841, HUMAN FEEL 1.233, NATURAL FLOW 1.094, dll), Characters 2.898, Premise 2.076, combat-style ekstra ~6.000.
 - Pack delta awal batch (`--batch-start --retrieve`): **20.792 karakter**. Terbesar: Retrieved memory 3.492, Precheck 2.542, Outline 2.351, Debts 2.769, Secrets 2.253, End of previous chapter 1.591, tiga ringkasan terakhir ~2.200.
 - Pack delta incremental bab berikutnya: **19.264 karakter** pada kondisi ini (hemat kecil karena State/Debts/Secrets baru direset).
 - Fixture beku (`ctx_compare.py`, bab 23-27): A (penuh) 76.406 vs B (incremental) 52.285 karakter = **31,6% lebih kecil (Measured, karakter; token Estimated)**. Ini hanya fixture, bukan data produksi.

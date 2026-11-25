@@ -6,3 +6,5 @@ novels/*/ops/*.bak
 novels/*/ops/ctx-cache.json
 novels/lock.json
 novels/.lock.guard
+novels/*/ops/memory.sqlite*
+novels/*/ops/context-log.jsonl

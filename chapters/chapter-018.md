@@ -1,56 +1,56 @@
 # What the Bell Market Sells
 
-Everyone in the bell market points with their whole arm. After an hour I worked out why. It's loud enough that half the stallholders have gone a little deaf, so they say things with their elbows.
+Everyone in the bell market points with their whole arm. After an hour, I knew why. It is so loud that half the sellers have gone a little deaf. So they talk with their elbows.
 
-It's Solmarch's oldest square. Two hundred stalls selling lanterns, chimes, hand-bells, and little brass clappers in tubs like nails. A hundred different pitches go off at once, and under them somebody is always shouting a price. On a free Sunday nine days before the Lantern Ball, half of Hallowcrest was in there buying something shiny.
+It is the oldest square in Solmarch. It has two hundred stalls. They sell lanterns, chimes and hand bells. Small brass clappers lie in tubs like nails. A hundred different sounds ring at once. Under them, someone always shouts a price. It was a free Sunday, nine days before the Lantern Ball. Half of Hallowcrest was there to buy something shiny.
 
 One of them was Rowan.
 
 *Your boy has stopped again,* said a voice at my boot.
 
-That's Vesk. He lives in my shadow when I need him, and he talks the way other people sneeze. Out of nowhere, and about everything.
+That was Vesk. He lives in my shadow when I need him. He talks the way other people sneeze. It comes from nowhere, and it is about everything.
 
-*Third stall. A bell the size of his head. He's bargaining in a language that isn't Verandel. I think it's cheerfulness.*
+*Third stall. A bell as big as his head. He is bargaining in a language that is not Verandel. I think it is cheerfulness.*
 
-"He's buying a lantern for Clara," I said, very quietly, to the back of my own hand.
+"He's buying a lantern for Clara," I said. I spoke very quietly, to the back of my own hand.
 
-*He's buying everything for Clara. I counted four things and a pastry. The pastry is for him.*
+*He is buying everything for Clara. I counted four things and a pastry. The pastry is for him.*
 
-Ysolde's order had been four words. *Watch the Tallis boy.* So here I was in a brown coat and a flat cap, a boy buying chestnuts, watching a boy who was watching a lot of other things.
+Ysolde's order had been four words. *Watch the Tallis boy.* So there I was in a brown coat and a flat cap. I was a boy buying chestnuts. I watched a boy who watched a lot of other things.
 
 That was the trouble with Rowan. He notices everything except danger.
 
-He noticed a pickpocket working a crowd of tourists and kicked a barrel into the man's path without even looking. He noticed a woman wearing her shoes on the wrong feet and told her kindly. He noticed the lantern seller's cat had one blue eye and one green, and he told the cat about it. He did not once notice the man in the gray coat who'd been three stalls behind him since the clock tower.
+He saw a pickpocket working on tourists. He kicked a barrel into the man's path without looking. He saw a woman with her shoes on the wrong feet. He told her, kindly. He saw that the lantern seller's cat had one blue eye and one green. He told the cat about it. He did not see the man in the gray coat. That man had walked three stalls behind him since the clock tower.
 
 *Tannin thumb,* said Vesk. *Left hand, in his pocket. Same walk as the maze gallery.*
 
-I'd seen him too. The gray coat from the tannery. The man who'd stood at the back of the gallery the day of the maze, and then stopped being there.
+I had seen him too. He was the gray coat from the tannery. He had stood at the back of the gallery on the day of the maze. Then he had stopped being there.
 
 "Where's Gorrath?"
 
-*Behind the pretzel stand pretending to be a pretzel stand.*
+*Behind the pretzel stand. He is pretending to be a pretzel stand.*
 
 "Mirelle?"
 
-Vesk didn't answer that. She never needs to be asked. I looked up and found a chimney on the east side of the square, and there was a long thin shadow lying along the tiles that wasn't a chimney's. That was my answer.
+Vesk did not answer. She never needs to be asked. I looked up and found a chimney on the east side of the square. A long, thin shadow lay along the tiles. It was not the chimney's shadow. That was my answer.
 
-"Can you take him?" I said.
+"Can you take him?" I asked.
 
 *Can I? Yes. Should I, in front of two hundred stalls? Ask me something harder.*
 
-Three retainers, one boy. It looks like a lot. In a crowd, it isn't. Anyone I scared off would be back tomorrow with a friend.
+Three retainers against one man looks like a lot. In a crowd, it is not. If I scared him off, he would come back tomorrow with a friend.
 
-I needed to turn the tail around. Not catch him. Make him go where I wanted.
+I needed to turn the tail around. I did not want to catch him. I wanted to make him go where I chose.
 
 * * *
 
 I found the child by the cider barrels.
 
-She was about five, with a brown braid coming loose and one boot untied. She stood completely still in the middle of the flow, with a bell in her fist that she'd clearly been told to hold, and she was crying without any noise. The way kids do when they've decided that noise would make it real.
+She was about five. Her brown braid was coming loose. One boot was untied. She stood perfectly still in the middle of the crowd. She held a bell in her fist. Someone had clearly told her to hold it. She was crying without any sound. Kids do that when they decide that noise would make it real.
 
-Adults went around her like water around a post.
+The adults walked around her like water around a post.
 
-I crouched down. "Lost?"
+I crouched down. "Are you lost?"
 
 She nodded. Nothing else.
 
@@ -58,59 +58,65 @@ She nodded. Nothing else.
 
 "Odile."
 
-"Odile, I'm going to help you find your mother. But I need you to do one small job first. Can you do it?"
+"Odile, I'll help you find your mother. First I need you to do one small job. Can you do it?"
 
-*Eden,* said Vesk, very softly.
+*Eden,* said Vesk, softly.
 
 *I know.*
 
-Here is the dilemma, and I'll say it plainly because I don't like leaving it out. The plan was good and clean. A lost child grabs a stranger's coat and cries "Papa, there you are!" and the crowd does the rest. Wardens come, questions come, and the stranger can't slip away in a street full of strangers. It had worked on me once, when I was nine. It works on everyone.
+Here is my problem. I will say it plainly, because I don't like to leave it out. The plan was good and clean. A lost child grabs a stranger's coat. She cries, "Papa, there you are!" and the crowd does the rest. Wardens come. Questions come. The stranger cannot slip away. It worked on me once when I was nine. It works on everyone.
 
-But I'd be using her. I'd be making a frightened five-year-old run at a man with a knife in his belt, and I'd be telling her it was a game.
+But I would be using her. I would make a scared five-year-old run at a man with a knife in his belt. And I would tell her it was a game.
 
 The other choice was to let him follow Rowan.
 
-*I can do it quieter,* said Vesk. *Knife, alley, five minutes. You'll never even see her cry.*
+*I can do it more quietly,* said Vesk. *Knife, alley, five minutes. You will never even see her cry.*
 
-I didn't answer that, because we both knew what Vesk meant.
+I did not answer, because we both knew what Vesk meant.
 
-"Odile," I said. "See the big man at the pretzel stand? He's my friend. His name's Gorrath. He's going to stand right behind you the entire time. If anybody scares you, you run to him. Okay?"
+*Eden?*
 
-She looked at the pretzel stand. Gorrath, who is seven feet tall and the gentlest man alive, waved one very small wave and nearly knocked over the stand.
+"No," I said. "Not her. Not like that."
+
+*Then the child it is,* said Vesk. *I only wanted you to say it.*
+
+"Odile," I said. "Do you see the big man at the pretzel stand? He's my friend. His name is Gorrath. He'll stand right behind you the whole time. If anyone scares you, run to him. Okay?"
+
+She looked at the pretzel stand. Gorrath is seven feet tall, and he is the gentlest man alive. He gave one tiny wave. He nearly knocked over the stand.
 
 "Okay," said Odile.
 
-"The man in the gray coat. The one with the dark thumb. When I say, you tug his sleeve and say you've lost your mama and he looks nice. Then you hold on. Hold on tight, like it's a rope. Can you do that?"
+"You see the man in the gray coat? The one with the dark thumb. When I say, pull his sleeve. Say you lost your mama and he looks nice. Then hold on. Hold on tight, like it's a rope. Can you do that?"
 
 "Is it a game?"
 
 I thought about lying. It would have been so easy.
 
-"It's a job," I said. "It's an important one. And afterward I'll buy you a pretzel the size of your head."
+"It's a job," I said. "It's an important one. And after, I'll buy you a pretzel as big as your head."
 
 * * *
 
-It took less than a minute. She was very good. She went through the crowd at a run, small and furious, and caught the gray coat by the sleeve with both hands, and howled.
+It took less than a minute. She was good. She ran through the crowd, small and angry. She caught the gray coat by the sleeve with both hands. She howled.
 
-"*Mama!* I lost my mama! You look nice! *Don't go!*"
+"Mama! I lost my mama! You look nice! Don't go!"
 
-The gray coat jerked his arm. She held on like a limpet. Heads turned. A baker's wife said "Oh, the poor thing." A warden at the clock tower started walking. The man had maybe four seconds to decide between making a scene and running, and he picked running, and that was the mistake.
+The gray coat jerked his arm. She held on tight. Heads turned. A baker's wife said, "Oh, the poor thing." A warden at the clock tower started to walk. The man had maybe four seconds. He could make a scene, or he could run. He ran. That was his mistake.
 
-He broke for the nearest alley.
+He ran for the nearest alley.
 
-It was the one with Gorrath's cart in it, parked across the end, and Gorrath himself leaning on it. A moment later a woman's voice came out of the shadow under the cart, high and furious. "*There* you are! You said you'd take me home!" That was Vesk. It's his best voice. It's a terrible one, but it works on the guilty.
+Gorrath's cart was in it. It was parked across the end. Gorrath leaned on it. A woman's voice came out of the shadow under the cart. It was high and angry. "There you are! You said you'd take me home!" That was Vesk. It is his best voice. It is a terrible voice, but it works on guilty people.
 
-The man spun. And a thin blade came out of the shadow of the chimney, from forty feet up, with no sound at all, and pinned the hem of his coat to a post.
+The man spun around. Then a thin blade flew out of the shadow of the chimney. It came from forty feet up and made no sound. It pinned the edge of his coat to a post.
 
 He drew a knife. I was already there.
 
 "Don't," I said.
 
-He slashed anyway. I put the lance's shaft in the way and let the knife skid off it, and then my other hand, the burned one, closed on his wrist, and I turned it until he opened his fingers. The knife dropped. It rang once on the cobbles, just like a bell.
+He cut at me anyway. I put the lance shaft in the way. The knife slid off it. Then my other hand, the burned one, closed on his wrist. I turned it until he opened his fingers. The knife fell. It rang once on the stones, like a bell.
 
-Mirelle came down off the wall behind him like a cat. She didn't say anything. She never does. She laid one finger on his throat, at the place under the jaw, and he went down gently and was not dead.
+Mirelle dropped off the wall behind him. She was as light as a cat. She said nothing. She never does. She laid one finger on his throat, under the jaw. He went down slowly. He was not dead.
 
-*Flawless,* said Vesk. *We're all very proud. Nobody has complimented me.*
+*Perfect,* said Vesk. *We are all very proud. Nobody has praised me.*
 
 "Good work, Vesk."
 
@@ -118,7 +124,7 @@ Mirelle came down off the wall behind him like a cat. She didn't say anything. S
 
 * * *
 
-Odile's voice came through the curtain, loud enough for the whole street.
+Odile's voice came through the curtain. It was loud enough for the whole street.
 
 "Did I do the job?"
 
@@ -126,84 +132,92 @@ Odile's voice came through the curtain, loud enough for the whole street.
 
 "Do I still get the pretzel?"
 
-"Two. Gorrath's buying."
+"Two. Gorrath is paying."
 
-Outside, Gorrath made a small, worried sound, the sound of a man counting coins in his head.
+Outside, Gorrath made a small, worried sound. It was the sound of a man counting coins in his head.
 
-The cart's back room is a very small space. It has a lamp hung on a nail and a bench, and we sat the man on the bench with his coat still pinned. I kept my hood up and my face in the dark.
+The back room of the cart is very small. A lamp hangs on a nail. There is one bench. We sat the man on the bench with his coat still pinned. I kept my hood up and my face in the dark.
 
-He woke slowly. He looked at me, and at Gorrath filling the doorway, and he laughed. It was a short, dry sound.
+He woke up slowly. He looked at me. He looked at Gorrath, who filled the doorway. Then he laughed. It was a short, dry sound.
 
 "You're not Seal," he said.
 
 "No."
 
-"You're not the Order either. They'd have just done it." He rubbed his throat. "So who sends a five-year-old at me?"
+"You're not the Order either. They would have just killed me." He rubbed his throat. "So who sends a five-year-old after me?"
 
 "I did. She's getting a pretzel."
 
-"That's monstrous."
+"That's terrible."
 
-"It's cheaper than the other option." I sat down opposite him. "What's your name?"
+"It's cheaper than the other choice." I sat down across from him. "What's your name?"
 
 "Corwen."
 
 "That's not a name. That's a kingdom."
 
-"It's the one I was born with." He said it flatly. Corwen was one of the kingdoms the Iron King swallowed, back when he called conquest a mercy. I let that stand in the room for a moment, because it was true, and because it was the first honest thing either of us had said.
+"It's the name I was born with." He said it flatly. Corwen was one of the kingdoms the Iron King took. He had called it a gift. I let that sit in the room for a moment. It was true. It was also the first honest thing either of us had said.
 
-"Why are you following the Tallis boy?"
+"Why do you follow the Tallis boy?"
 
-"I'm not."
+"I don't."
 
 "Corwen."
 
-"I carry a bag. I'm paid to carry it." He looked at the lamp. "I've got a daughter. Did you know that? Seven years old. She lives in Thornmere with her aunt, and she's never seen the sea."
+"I carry a bag. They pay me to carry it." He looked at the lamp. "I have a daughter. Did you know that? She's seven. She lives in Thornmere with her aunt. She has never seen the sea."
 
-I didn't answer. A man will tell you everything, if you let him decide when.
+I did not answer. A man will tell you everything if you let him choose when.
 
-"They want him alive," said Corwen, finally. "The boy. They said he's the one that can't be touched. Alive, and on the night of lights, and not before. If anybody hurt a hair on him before that, there'd be no pay for any of us." He shrugged. "That's all. That's the whole job. Walk behind. Count his steps. Be somewhere else when it starts."
+"They want him alive," said Corwen at last. "The boy. They say he is the one who can't be touched. They want him alive, on the night of lights. Not before. If anyone hurts one hair on him before that, none of us gets paid." He shrugged. "That's all. That is the whole job. Walk behind him. Count his steps. Be somewhere else when it starts."
 
 "When what starts?"
 
 "I don't know. I'm a bag man."
 
-It was true. I could tell from how he said it. He wasn't clever enough to lie about this.
+It was true. I could hear it in how he said it. He was not clever enough to lie about this.
 
 "There's a stall," I said. "Where you hand in your counts."
 
-His eyes flicked to the door. That was enough.
+His eyes jumped to the door. That was enough.
 
 * * *
 
-Gorrath rolled Corwen in a carpet and carried him off to the bookbinder's, where Ysolde's people would find him very annoying by evening. I asked Gorrath to pass on one request about a girl in Thornmere and the sea. He can't lie, so he promised to try.
+"Where do I take him?" asked Gorrath.
 
-The lantern-maker's stall was the blue one on the north row. The lantern-maker was a thin woman who sold paper stars and recited prices like a prayer, and she was gone. She'd left in a hurry. Her till was open, and a long ledger lay on the counter under a bell jar, where a person might put something they were proud of.
+"The bookbinder's. Ysolde will want to talk to him."
+
+"And if he wakes up?"
+
+"Then he'll talk to you. Be nice."
+
+"I am always nice," said Gorrath. He rolled Corwen in a carpet and carried him off to the bookbinder's. Ysolde's people would find him annoying by evening. I asked Gorrath to pass on one request. It was about a girl in Thornmere and the sea. He cannot lie, so he promised to try.
+
+The lantern maker's stall was the blue one on the north row. The lantern maker was a thin woman. She sold paper stars and said her prices like a prayer. Now she was gone. She had left in a hurry. Her till was open. A long book lay on the counter under a glass bell. It was the kind of place where someone keeps something they are proud of.
 
 I turned the pages.
 
-Names. Dozens of them, in a tidy slanted hand, each with a number beside it. A column of lantern numbers, a column of dates. Beside every name, a small note: *tall. quiet. left-handed. dances badly.* I knew the hand. I'd seen it once, in a dead clerk's ledger, in the back room of a bookbinder's shop.
+There were names. There were dozens of them, in a neat, slanting hand. Each had a number next to it. One column had lantern numbers. One had dates. Beside every name was a small note. *Tall. Quiet. Left-handed. Dances badly.* I knew the hand. I had seen it once, in a dead clerk's book, in the back room of a bookbinder's shop.
 
 *Well?* said Vesk.
 
 "Wait."
 
-*You've gone very still. You only go still when it's bad.*
+*You have gone very still. You only go still when it is bad.*
 
 "I said wait."
 
 I knew the names, too.
 
-Every one was a Year Five student. All forty-one. In Fauconier's book they'd looked like a list of people someone meant to watch. In this one, with the numbers beside them, they looked like something else entirely.
+Every one was a Year Five student. All forty-one. In Fauconier's book, they had looked like a list of people someone wanted to watch. In this book, with the numbers beside them, they looked like something else.
 
-They were seats.
+They were places.
 
-It was a guest list. Lanterns for the Ball, one per name, each with the place it would hang. And in the margin of the very last page, written small, three words I'd already read once in the dark.
+It was a guest list. There was one lantern for each name at the Ball. Each had a place where it would hang. In the margin of the very last page, in small writing, were three words. I had already read them once in the dark.
 
 *Before the last dance.*
 
 Rowan's lantern was number one. It hung nearest the glass door.
 
-I closed the book. My hands were quite steady. Behind me, in the street, a bell rang, and a child laughed, and Gorrath was trying very hard to buy a pretzel without letting go of the little girl's hand.
+I closed the book. My hands were quite steady. Behind me in the street, a bell rang, and a child laughed. Gorrath was trying very hard to buy a pretzel without letting go of the little girl's hand.
 
-Nine days. And a list of forty-one people who were going to be there.
+Nine days. And a list of forty-one people who would all be there.

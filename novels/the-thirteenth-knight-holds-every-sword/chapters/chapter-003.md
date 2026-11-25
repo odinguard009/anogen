@@ -12,7 +12,7 @@ On the fourth night, Ysolde put the file in front of me. "Well?"
 
 We sat in the back room of a bookbinder's shop in Solmarch, the big market town below our school. It was after sundown and the shop was closed. The room smelled of glue and cold tea, and a dark cloth hung over the window.
 
-Ysolde kept her coat on, as always. She is a thin woman with sharp eyes and short gray hair, and she always looks about to leave. She is the King's secretary, and she wants paperwork for everything.
+Ysolde kept her coat on, as always. She is a thin woman with sharp eyes and short gray hair, and she always looks about to leave. She is the royal secretary, and she wants paperwork for everything.
 
 The file said: *Emeric Fauconier. Thirty-four. Tax clerk. Unmarried. No debts. Clean.*
 
@@ -20,7 +20,7 @@ The file said: *Emeric Fauconier. Thirty-four. Tax clerk. Unmarried. No debts. C
 
 "People do that."
 
-"Not at thirty-four. Men that age don't change, they only get tired." She turned her teacup a quarter turn on the saucer, which is what she does instead of sighing. "I want this quiet. The Golden Seal has six investigators in town this week. They are the King's police, and they hate any secret they did not find first. If they see your mask, they will want it."
+"Not at thirty-four. Men that age don't change, they only get tired." She turned her teacup a quarter turn on the saucer, which is what she does instead of sighing. "I want this quiet. The Golden Seal has six investigators in town this week. They are the royal police, and they hate any secret they did not find first. If they see your mask, they will want it."
 
 "They can have the mask."
 
@@ -124,9 +124,9 @@ He turned his head and looked straight at my roof, though he should not have bee
 
 * * *
 
-He was fast for a man with a clerk's knees. He pushed through the crowd the wrong way, against the people, which was smart, because nobody in a lantern market looks up at the roofs.
+He was fast for a man with a clerk's knees. He pushed through the crowd the wrong way.
 
-I ran along the roofs and jumped the alley to a balcony. Below me he shoved through a family of five and cut left toward the river stairs.
+I ran along the roofs and jumped the alley to a balcony. Below me he cut left toward the river stairs.
 
 A big fire basket hangs at the top of those stairs. Its light would kill every edge, and past it were the dock lanes, where the Golden Seal had its men.
 
@@ -190,7 +190,7 @@ A Veil is a monster that wears a dead person's face and life. This one had stopp
 
 He came at me in the dark and I only heard it. His feet hit the packed earth with a stride too long for a clerk, and then came the sound a coat makes when the arms inside grow longer than the sleeves.
 
-I pulled out my lance and closed it into the shield, a door-shield the size of a small door with an iron ring-knocker in the middle. His first blow hit it with a weight no clerk ever had. I let it push me back one step, to learn how strong he was.
+I drew Ixa out of my shadow, a short black lance, matte and cold. One knock on its iron ring, and it folded into a door-shield with the knocker in the middle. It is only as strong as my arms. His first blow hit it with a weight no clerk ever had. I let it push me back one step, to learn how strong he was.
 
 He was strong, but not strong enough.
 
@@ -200,7 +200,7 @@ That was when my sword hummed.
 
 My sword is called Ea. I had not called it yet, and it waited inside, behind the Gate, the place where I keep it. From in there it made one low, clean note, like a wet finger on the rim of a glass. It had never done that before, because swords do not hum. The Veil jerked back as if the note had burned him.
 
-I had a tinderbox in my left glove, next to the peppermint, and I struck it. One spark, then a flame the size of a fingernail. That was all I needed. Light on one side and dark on the other made an edge, and an edge makes a door. I reached into the Gate, and Ea came into my right hand as if it had been waiting there all along.
+I had a tinderbox in my left glove, next to the peppermint, and I struck it. One spark, then a flame the size of a fingernail. That was all I needed. Light on one side and dark on the other made an edge, and an edge makes a door. I reached into the Gate, and Ea came into my right hand as if it had been waiting there all along. It is a pale sword with a plain grey grip. Holding it drains me a little, like a slow breath.
 
 Ea does not shine, though people expect it to. What it does is make any light tell the truth. In the light of one match, the clerk's brown coat hung off something gray and thin, as tall as a door. It had long legs and too many elbows, like a heron made of ash, and the clerk's face sat on the front of it like a mask that had slipped.
 

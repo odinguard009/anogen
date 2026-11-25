@@ -80,7 +80,7 @@ In my pocket was a page with his name circled twice in someone else's ink, and I
 
 So I filed the chain instead. A girl in love with a boy who laughs with someone else, and a chain she touches when it hurts. I thought I knew what hung on the end of it, a token or a dried flower or a button from his coat. People keep strange things.
 
-"Oh, *look*," said a voice above my head. "My savior slept through breakfast again."
+"Oh, *look*," said a voice above my head. "The sleeper came to lunch."
 
 Princess Seraphine sat down next to Lysette without asking. She had her brother's fair hair and none of his straight back, and she had a pastry in each hand. She put one on my plate.
 
@@ -100,17 +100,17 @@ Princess Seraphine sat down next to Lysette without asking. She had her brother'
 
 "Any officer," Lysette said, in the voice you use with a judge, "can start a Committee order."
 
-Seraphine smiled at her, a very pleasant smile, and Lysette's ears went pink. Seraphine and I have known each other since we were twelve, and most of the time she is kind. Lysette did not know that yet.
+Seraphine smiled at her, a very pleasant smile, and Lysette's ears went pink. Seraphine talks to me as if we share an old joke. Most of the time she is kind. Lysette did not know that yet.
 
-"He saved my life once," Seraphine told her, leaning in. "Did he say so?"
+"He is always tired," Seraphine told her, leaning in. "Did he say so?"
 
 "No."
 
-"He never does. It was very dashing. Then he went to sleep in a hedge."
+"He never does. He will go to sleep anywhere. A hedge. A ditch."
 
-"It was a ditch," I said.
+"A bench," I said.
 
-"See? Modest." She pointed her pastry at Lysette. "Do you know what he said afterward? 'Are you hurt?' Nothing else. Then he left."
+"See? Modest." She pointed her pastry at Lysette.
 
 "I was tired."
 
@@ -216,7 +216,7 @@ It was a locket, plain gold and a little dented. Inside, on the left, was a tiny
 
 It was a young man, sixteen or seventeen when the picture was painted. He had her coloring and her stubborn chin, but his mouth was softer, and he had the face of someone who had been laughing a second before the painter told him to hold still.
 
-Something in my stomach turned over, slowly, like a fish in cold water. I did not know why. I looked at that face and found nothing I could name, only that slow turn, and the feeling that somewhere deep in a house a door was closing very quietly.
+Something in my stomach turned over, slowly, like a fish in cold water. I did not know why. I looked at that face and found nothing I could name, only that slow turn.
 
 "Is it yours?" I asked, though I knew.
 
@@ -226,7 +226,7 @@ She held out her hand, and I gave it to her.
 
 Behind us, someone in the yard whispered the name. I heard it pass from person to person, and then it stopped.
 
-Everyone in the school knows that name. Two years ago the Black Order killed Corentin Hollen for treason against the crown. There was no trial and there was no body, only a notice, one sheet, pinned on the school gate and on the board in the front hall. It hung there for a week, between the club lists and the lost gloves.
+Everyone in the school knew that name. Behind us, the yard had gone quiet. He had died two years ago. There had been a notice on the gate once, for a week, between the club lists and the lost gloves. I never read the gate notices.
 
 Lysette closed the locket, and her thumb stayed on the clasp. At lunch I had thought I knew what she kept reaching for every time she looked at Rowan. I had a whole theory, and it was wrong.
 
@@ -243,8 +243,6 @@ She had stood. The chain hung from her fist in two pieces. She was not talking t
 "It's fine. It's not your fault." Lysette did not look at her. "It's old. It was going to break."
 
 She stood straight.
-
-"I will prove," she said, to the yard, to the east wall, to the sky above it, "that they are monsters."
 
 The girl stopped saying sorry. Nobody said a word.
 

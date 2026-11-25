@@ -72,7 +72,7 @@ Not on a door, but on the black plate of my own shield arm, three times, slowly.
 
 "Gorrath," I said. "Thirteen."
 
-"Thirteen," said the wall.
+**[Knock and Answer]** "Thirteen," said the wall.
 
 The floor under the nearest shadow opened a crack the size of a hand. No one saw it, because no one looks at shadows. It worked like the mouth of a speaking-pipe, and a voice came out of it.
 

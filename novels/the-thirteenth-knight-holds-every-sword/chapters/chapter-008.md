@@ -26,7 +26,9 @@ He came out of the long shadow under the benches, the only shadow big enough to 
 
 "Then someone made it fast," said Vesk. He was still mostly in my shadow, so all I could see were two eyes the color of lamps. "That's rude to the tortoise. Thirty-one."
 
-Mirelle did not come out. She never did until she had a reason, but I could feel her somewhere in the dark under the grate, like a held breath with a blade in it.
+Mirelle did not come out. She never did until she had a reason, but I could feel her somewhere in the dark under the grate, like a held breath with a blade in it. She is tall, in a grey mask, and she strikes only through a door I open.
+
+"She waits on you," Vesk whispered. "Rude, honestly."
 
 "Tell the plan again," Vesk said.
 
@@ -80,7 +82,7 @@ I knelt and put two fingers on the nearest black bar.
 
 "Watch me," I said. I knocked.
 
-The door that opened was the size of a book, a little black panel in the floor with a hinge as small as a fingernail. From far below, and yet very close, a long thin blade came up through it and went straight into Uncle's chest from underneath. It hit the crystal and made no sound. That was Mirelle. Most blades are noisy when they go through stone, but hers do not think they need to be.
+The door that opened was the size of a book, a little black panel in the floor with a hinge as small as a fingernail. From far below, and yet very close, **[Sile]** a long thin blade came up through it and went straight into Uncle's chest from underneath. It hit the crystal and made no sound. That was Mirelle. Most blades are noisy when they go through stone, but hers do not think they need to be.
 
 The blade slid back down and the little door shut. Uncle stood still for a moment. Then it bent at the knees, slowly, and knelt in the moonlight with its head down, back in the pose it had kept for years.
 

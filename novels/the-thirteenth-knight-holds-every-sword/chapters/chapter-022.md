@@ -26,9 +26,9 @@ It looked like a dye-works, and it smelled like one, of wet wool and salt and a 
 
 "Your mask is doing the thing. It looks like a closed door that is thinking."
 
-I let that go. Tonight I wore only the hood and mask of Umra, my black armor, because full plate would ring on every beam. It was the face of the Black Order, a black cloth with nothing on it. I had put it on four days before the Ball, under the roof of the dye-works in the lower city. Ysolde's note had been short.
+I let that go. Tonight I wore only the hood and mask of Umra, my black armor, because full plate would ring on every beam. It was the face of the Black Order, a black cloth with nothing on it. I had put it on four days before the dance, under the roof of the dye-works in the lower city. Ysolde's note had been short.
 
-*Tannery group moved. Lower city, dye-works, east of the bell market. Break it before the Ball. No kills.*
+*Tannery group moved. Lower city, dye-works, east of the bell market. Break it before the dance. No kills.*
 
 The second line was underlined. She rarely does that, because she thinks it makes her look emotional.
 
@@ -68,7 +68,7 @@ I have seen Vesk do it nine times, and each time the back of my neck itches. He 
 
 A lamp in the loft room threw Dietrich's shadow on the wall behind the long table, and it stood up. It was heavy, with a square head and one hand on its hip. It had Dietrich's slouch exactly, and I don't know how Vesk got the slouch.
 
-"Blue Hour," said Dietrich's shadow, in Dietrich's voice, from forty feet away.
+**[Mott]** "Blue Hour," said Dietrich's shadow, in Dietrich's voice, from forty feet away. Vesk calls this trick Mott. It holds only while the real man keeps quiet.
 
 Every head turned.
 
@@ -126,7 +126,7 @@ He threw the pie. It was not a bad idea, and I leaned away, and the pie hit the 
 
 I gave him the first attack for free, as I always do. I held the lance at my hip, and his blade slammed into it, shoulder first. He was a big man with a wild guard. He swung left the second time and right the third, and that left a gap in the middle as wide as a hand. I put the lance through it.
 
-That move is called the Draught, because it goes through the narrow place like wind under a door. The point stopped a finger from his throat, and his sword hung up in the air. He looked at the lance. Then he stopped.
+**[Draught]** That move is called the Draught, because it goes through the narrow place like wind under a door. The point stopped a finger from his throat, and his sword hung up in the air. He looked at the lance. Then he stopped.
 
 "Down," I said.
 

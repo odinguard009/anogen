@@ -150,7 +150,7 @@ Clara laughed and put a piece of orange on Rowan's plate. He ate it and did not 
 
 That was when Seraphine came. She did not sit with us, because she was in another Lance with its own table. She stopped behind Felix with her tray on her hip, looked at him, looked at me, and looked back at him.
 
-"My savior is at a table," she said. "In public. With people. Felix, what did you do?"
+"Our sleeper is at a table," she said. "In public. With people. Felix, what did you do?"
 
 "Nothing."
 

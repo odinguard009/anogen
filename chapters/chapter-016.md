@@ -42,7 +42,7 @@ Nobody comes to Ladder duels, because they are boring: two people walk in circle
 
 Okoru ducked through the door with a piece of licorice root in his cheek. He was tall and thin, and he never stood straight under a low roof.
 
-"Rules," he said. "Both blades have blunting rings. He asked for no healers on the sand. We have three judges, me, the old one with the cane, and Dame Ostwald. She asked me to say she is only here for the tea."
+"Rules," he said. "Both blades have blunting rings. He asked for no healers on the sand. We have three judges, me, Brandmeier and Dame Ostwald. She asked me to say she is only here for the tea."
 
 "Is there tea?"
 
@@ -108,7 +108,7 @@ Valerius had taken off his cloak. He stood square with his feet apart and held h
 
 "I liked the first answer better."
 
-Someone on the benches laughed. The old judge hissed, and it stopped. At the table, Dame Ostwald watched me with her good eye and held a flask in her lap. I decided not to think about the flask.
+Someone on the benches laughed. Brandmeier hissed, and it stopped. At the table, Dame Ostwald watched me with her good eye and held a flask in her lap. I decided not to think about the flask.
 
 Someone tapped the bell once, and Valerius raised his blade.
 

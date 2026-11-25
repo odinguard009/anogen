@@ -52,7 +52,9 @@ Okoru ducked through the door with a sliver of licorice root in his cheek.
 
 "Good. Then say it quieter."
 
-"The rings don't cover the Verdict," said Okoru. "A blade can be blunted. A wall can't. It has no soft setting. Last spring a Year Four walked into one at full run and we put his collarbone back together in two pieces."
+He got as far as the door, then turned back.
+
+"One more thing. The rings don't cover the Verdict," he said. "A blade can be blunted. A wall can't. It has no soft setting. Last spring a Year Four walked into one at full run and we put his collarbone back together in two pieces."
 
 "Noted."
 
@@ -108,7 +110,7 @@ He'd taken off the cloak. He stood square, feet apart, longsword down in front o
 
 "I like the first answer better."
 
-Somebody in the benches laughed. Brandmeier hissed, and it stopped. Up in the top row, Dame Ostwald sat with her good eye turned my way and a thermos in her lap. I decided not to think about the thermos.
+Somebody in the benches laughed. Brandmeier hissed, and it stopped. At the judges' table, Dame Ostwald sat with her good eye turned my way and a thermos in her lap. I decided not to think about the thermos.
 
 The bell was tapped once. Valerius lifted the blade.
 
@@ -122,7 +124,7 @@ He did it now.
 
 He drew the sword tip through the sand behind my boots, one long scratch.
 
-The sand didn't stay a scratch. A pane of pale, cloudy force stood up out of the line, shoulder high, as if it had been there all along and just needed telling. I was already moving, and it caught me square between the shoulder blades.
+The sand didn't stay a scratch. A pane of pale, cloudy force stood up out of the line, shoulder high, as if it had been there all along and just needed telling. I was already moving, and it caught me hard across the left side of my back.
 
 It was like being hit by a door. It did not feel like a spell.
 
@@ -144,7 +146,7 @@ My ribs on the left side went hot, then dull. I stayed up. That mattered more th
 
 Another wall. Then a third, close on my left, so I stood in a stone-colored corridor as wide as a wardrobe with the Prince at the open end. Behind the frosted panes the benches were smudges of faces. They could see shapes, and no more. That was the first thing I noticed. The second was how neat it was. He wasn't trying to hit me. He was shrinking the room until I had only one thing left to do, and that was something he wanted to see.
 
-Everyone has a plan for a trapped man. They assume he'll make an exit.
+Everyone watches a trapped man the same way. They wait for him to break out.
 
 "Come on," said Valerius, low. "You can do better than the corner."
 

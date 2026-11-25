@@ -72,7 +72,7 @@ Lysette stopped.
 
 "Does he have more? Because the cake—"
 
-"There is no supplier," said Clara, from the whisk, in the voice of a girl who'd been told the sky was blue, and she'd never once thought to check. "It smells like a garden."
+"It smells like a garden," said Clara, from the whisk, not looking up. "A real one. With dirt."
 
 Lysette went back under the sink so fast she banged her head on the pipe. I'm fairly sure she said a word the handbook forbids. When she came up, her face was very calm and she held the extinguisher out in front of her like a baby she hadn't wanted.
 
@@ -100,13 +100,13 @@ I sat.
 
 Felix gave me a small, sad look from across the room. It was the look of a man watching a friend stuff himself into a very small boat.
 
-"Eaten today?" he said.
+"The window behind you opens," he said.
 
-"Technically."
+"It's painted shut."
 
-"It's a cake. There's going to be a *lot* of cake."
+"Then it's a cake. You'll survive a cake."
 
-"That's what I'm afraid of."
+"That's what people say before the cake."
 
 Seraphine pointed her spoon at him.
 
@@ -164,7 +164,7 @@ The thing about flour is that it doesn't burn. It *goes.* The whole cloud caught
 
 I was already moving. I'd been moving since *wait.*
 
-Behind the long stone table there's a shadow. In the lamp, it's a thick black rectangle, and it was about two feet from the oven door. I put one gloved hand flat against my own shadow on the floor, down by my knee, where nobody was looking, and I knocked.
+Behind the long stone table there's a shadow. In the lamp, it's a thick black rectangle, and it was about two feet from the oven door. I dropped to one knee behind the table, put my gloved hand flat on the edge of that shadow, where nobody was looking, and I knocked.
 
 It was a very small door, hung in a very big hurry.
 
@@ -188,7 +188,7 @@ She was in the doorway. The extinguisher was in her hands, and she hadn't used i
 
 "It's a good year for it."
 
-I felt my rib then, a long, bright line of it down the left side, like someone had drawn it with a hot wire. I'd put weight on the arm that was holding the door, and the door had weighed more than it looked. Late bills are the worst bills. I stood up very straight, and I did not touch my side.
+I felt my rib then, a long, bright line of it down the left side, like someone had drawn it with a hot wire. I'd put weight on the arm that was holding the door, and the door had weighed more than it looked. The bill always comes later. It always comes. I stood up very straight, and I did not touch my side.
 
 Lysette picked up her form. She smoothed it out on her knee, read the damage, and filled in a line. I watched over her shoulder. *Cause of fire,* she wrote, in a perfectly clear hand. *Luck.*
 

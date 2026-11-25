@@ -117,3 +117,9 @@ One entry per run. The owner fills in quota_note after checking claude.ai/settin
 - words: 1810
 - scores: tension 3, surprise 3, emotion 3, battle_clarity -, voice 4, freshness 3
 - quota_note: 
+
+### critic pass ch 16 - scores 4,3,3,4,4,3 - Ostwald moved to the judges' table (was in top row while judging); Okoru double speech split; wall hit made consistent with left ribs.
+### critic pass ch 17 - scores 4,3,4,4,4,3 - Ostwald's thermos on judges' table; wall height matched ch 16; added lane banter and waiting-room line (dialogue 23%->26%).
+### critic pass ch 18 - scores 3,3,3,3,3,3 - Eden's coat no longer "grey" like the tail's; cart voice no longer says "Corwen" before his name is known (now Vesk); Corwen fall dated to Iron King conquest; Odile pretzel beat; dialogue still ~23% (Vesk lines are italic).
+### critic pass ch 19 - scores 3,3,3,3,4,3 - Felix's "Eaten today?/Technically" repeat replaced; Clara's tangled line simplified; shadow-door staging clarified; "late bills" line made plain.
+### critic pass ch 20 - scores 3,4,3,-,3,3 - Hush front fixed to canon (world.md: front stalls at Verandel's coast, Wall at the Teeth still attacked): no "forty miles" claim, Sandneck gate -> Teeth gate, map scope fixed; Ostermark non-sequitur fixed; Ball countdown five -> six days; Seraphine's Lysette line follows ch 19.

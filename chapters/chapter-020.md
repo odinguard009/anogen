@@ -30,7 +30,7 @@ Seraphine caught him on the tower stairs. She'd come straight from somewhere, be
 
 "Nobody who's that sleepy is that precise."
 
-"Then he's a very precise sleepy boy." She patted his sleeve, flaking a little flour onto it. "Go and be a prince at your father. I'm going to find out who Lysette is taking to the Ball."
+"Then he's a very precise sleepy boy." She patted his sleeve, flaking a little flour onto it. "Go and be a prince at your father. I'm going to find out who Lysette is taking to the Ball. She says she hasn't decided. *Nobody* hasn't decided."
 
 "Why?"
 
@@ -40,7 +40,7 @@ She went off down the stairs, humming, and Valerius brushed the flour from his s
 
 * * *
 
-The war room was in the palace's oldest tower, a round stone chamber with no windows. In the middle stood a table the size of a wagon, and across the table lay the Concord map. It showed all of Halveren, painted by hand, with red pins along the Hush front and blue pins along the coasts and a small gold pin in Solmarch, where they stood.
+The war room was in the palace's oldest tower, a round stone chamber with no windows. In the middle stood a table the size of a wagon, and across the table lay the Concord map. It showed Halveren and the grey lands across the Middle Sea, painted by hand, with red pins along the Hush front and blue pins along the coasts and a small gold pin in Solmarch, where they stood.
 
 The ministers had gathered like crows round a field. There were nine of them. Valerius was the tenth, the youngest, and the only one who'd had to be told where to stand.
 
@@ -52,7 +52,7 @@ Valerius sat. A servant put a cup of something warm in front of him and went awa
 
 "Minister Castelreigh. The southern report."
 
-A thin man with a gray moustache cleared his throat. "The Wall holds, Majesty. Three nights ago a Choir tried the Sandneck gate and was driven off. We lost eleven. The Hush lost, we think, around forty."
+A thin man with a gray moustache cleared his throat. "The Wall holds, Majesty. Three nights ago a Choir tried the east gate at the Teeth and was driven off. We lost eleven. The Hush lost, we think, around forty."
 
 "Think?"
 
@@ -66,7 +66,7 @@ It was a perfectly ordinary answer. Valerius watched it settle over the room lik
 
 It took him a long moment to understand what he was seeing.
 
-The front is a line. It runs along the edge of the dead lands, from the Wall in the south, up through the Teeth, and out around the shoulder of the continent. Red pin after red pin. It should be a ragged, wobbling thing, like a coastline. It was.
+The front is a line. It runs along the edge of the dead lands, from the Wall at the Teeth, along the far shore of the Middle Sea, and out around the shoulder of the next continent. Red pin after red pin. It should be a ragged, wobbling thing, like a coastline. It was.
 
 Except here.
 
@@ -96,7 +96,7 @@ Valerius looked at him. Hartenfels beamed. It's hard to be angry at a man who is
 
 The room moved. Not much. A shoulder here, a boot there. Valerius knew the sound of a room deciding not to say something, because he'd grown up inside one.
 
-"It's in the field reports," said the cartographer. Her voice was very small. "From fourteen different watch-posts. We checked them twice. The Hush won't go within forty miles of our southern coast. It hasn't, not in nineteen years. Nobody's been able to say why."
+"It's in the field reports," said the cartographer. Her voice was very small. "From fourteen different watch-posts. We checked them twice. The Hush throws itself at the Wall. Everywhere else it creeps forward a little every year. But it has never crossed the sea to our southern coast. Not once in nineteen years. Nobody's been able to say why."
 
 Valerius put his finger on the first red pin where the line began to curve, and followed it slowly to the last. He had come in thinking the bend was a mistake. He had spent every morning of his life expecting mistakes to be small and stupid, and for the first time he saw that this one was neither. It was the neatest part of the whole map.
 
@@ -106,7 +106,7 @@ Valerius put his finger on the first red pin where the line began to curve, and 
 
 "Thank you, Minister."
 
-"Some of us," said Minister Ostermark, quietly, to his hands, "can."
+"Some of us," said Minister Ostermark, quietly, to his hands, "remember what marched nineteen years ago."
 
 "Lord Ostermark," said the king, in a very pleasant voice.
 
@@ -148,11 +148,11 @@ They stood in the cold corridor after the others had gone. Lucan Merrow was sixt
 
 "I mean to."
 
-"Of course. But, Valerius." The old man put one hand on his shoulder. "I watched you in there. You saw the bend. Good. Most of that room has been looking at it for ten years and calling it ink. But you must be careful what you do with the things you see. A king doesn't chase every shadow. He decides which ones to follow."
+"Of course. But, Valerius." The old man put one hand on his shoulder. "I watched you in there. You saw the bend. Good. Most of that room has been looking at it for years and calling it ink. But you must be careful what you do with the things you see. A king doesn't chase every shadow. He decides which ones to follow."
 
 "It isn't a shadow. It's three hundred miles of coast."
 
-"It's a map." Merrow's voice stayed gentle. "And your father's tired, and the Concord is looking for a reason to quarrel, and you've got five days to a ball with five hundred young people in a glass hall and half the foreign delegation watching. Which of those do you think will get worse if you start asking about the Void Host?"
+"It's a map." Merrow's voice stayed gentle. "And your father's tired, and the Concord is looking for a reason to quarrel, and you've got six days to a ball with five hundred young people in a glass hall and half the foreign delegation watching. Which of those do you think will get worse if you start asking about the Void Host?"
 
 Valerius opened his mouth. He closed it.
 

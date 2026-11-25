@@ -12,7 +12,7 @@ He didn't say it loudly. He didn't need to. The Long Court had gone so quiet I c
 
 Okoru said nothing. He'd put the licorice root back in his cheek and was chewing again, slow and thoughtful, which was worse.
 
-That left Dame Ostwald. She had her thermos clamped between her knees and was trying to unscrew the lid with one hand, because the other held her cane. The lid had been winning for a while. She gave it a last twist, scowled at it, and set the whole thing down on the bench.
+That left Dame Ostwald. She had her thermos clamped between her knees and was trying to unscrew the lid with one hand, because the other held her cane. The lid had been winning for a while. She gave it a last twist, scowled at it, and set the whole thing down on the judges' table.
 
 "Resume," she said. "I want to see how it ends."
 
@@ -50,7 +50,19 @@ A wall went up, right across the middle of the Long Court, ten paces long. Then 
 
 He came down the lane at a run.
 
-So I ran too, the other way, because a dead end with a prince in it is not a place to be. I hit the end of my lane and found a gap and went through sideways. Another lane. A turn. The walls were ten feet of cloudy glass, and I could hear his boots through them, one lane over and level with me, like a man pacing a horse down a fence.
+So I ran too, the other way, because a dead end with a prince in it is not a place to be. I hit the end of my lane and found a gap and went through sideways. Another lane. A turn. The walls were head-high panes of cloudy force, and I could hear his boots through them, one lane over and level with me, like a man pacing a horse down a fence.
+
+"You're slower on the left," he called through the glass.
+
+"I'm saving it."
+
+"For what?"
+
+"Lunch."
+
+"You've never once been funny in a fight, Wren."
+
+"You've never once listened."
 
 He ruled again. A wall dropped in front of my face, so close that my nose nearly touched it. I spun and went back. My cracked rib made a noise inside me like a spoon in a jar.
 
@@ -92,9 +104,17 @@ On the way out of the court Rowan caught my sleeve with both hands.
 
 "You were *so close!* Did you see his face? I thought you had him!"
 
+"Ribs," I said.
+
+"What?"
+
+"You're pulling on the side with the ribs."
+
+"Oh! Sorry. But you *did* have him!"
+
 "I didn't."
 
-"You did! The lance was right there!"
+"The lance was right there! I saw it!"
 
 "Rowan," said Clara, quietly. "Let go of his arm."
 
@@ -114,7 +134,11 @@ He'd followed me into the waiting room. Nobody else was in there, and the door w
 
 "Don't." He pointed the sword at the floor. "Don't be funny at me. I've been your rival for five years and I've never once beaten you. Do you understand? Not once. Only the part you let me see."
 
-I didn't have an answer. I sat down on the bench because my ribs asked me to.
+"What do you want me to say?" I said. "Sorry?"
+
+"I want you to say *why.*"
+
+I didn't have an answer to that. I sat down on the bench because my ribs asked me to.
 
 Then the door shoved open behind him, and he stepped aside like a man stepping out of a river. Lysette stood there with a roll of gauze and a tin of salve and the duel book still under one arm.
 

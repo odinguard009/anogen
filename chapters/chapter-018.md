@@ -16,7 +16,7 @@ That's Vesk. He lives in my shadow when I need him, and he talks the way other p
 
 *He's buying everything for Clara. I counted four things and a pastry. The pastry is for him.*
 
-Ysolde's order had been four words. *Watch the Tallis boy.* So here I was in a grey coat and a flat cap, a boy buying chestnuts, watching a boy who was watching a lot of other things.
+Ysolde's order had been four words. *Watch the Tallis boy.* So here I was in a brown coat and a flat cap, a boy buying chestnuts, watching a boy who was watching a lot of other things.
 
 That was the trouble with Rowan. He notices everything except danger.
 
@@ -33,6 +33,10 @@ I'd seen him too. The gray coat from the tannery. The man who'd stood at the bac
 "Mirelle?"
 
 Vesk didn't answer that. She never needs to be asked. I looked up and found a chimney on the east side of the square, and there was a long thin shadow lying along the tiles that wasn't a chimney's. That was my answer.
+
+"Can you take him?" I said.
+
+*Can I? Yes. Should I, in front of two hundred stalls? Ask me something harder.*
 
 Three retainers, one boy. It looks like a lot. In a crowd, it isn't. Anyone I scared off would be back tomorrow with a friend.
 
@@ -94,7 +98,7 @@ The gray coat jerked his arm. She held on like a limpet. Heads turned. A baker's
 
 He broke for the nearest alley.
 
-It was the one with Gorrath's cart in it, parked across the end, and Gorrath himself leaning on it. A moment later a woman's voice came from somewhere in the cart, high and furious, calling "Corwen! Corwen, you said you'd take me home!" It's his best voice. It's a terrible one, but it works on the guilty.
+It was the one with Gorrath's cart in it, parked across the end, and Gorrath himself leaning on it. A moment later a woman's voice came out of the shadow under the cart, high and furious. "*There* you are! You said you'd take me home!" That was Vesk. It's his best voice. It's a terrible one, but it works on the guilty.
 
 The man spun. And a thin blade came out of the shadow of the chimney, from forty feet up, with no sound at all, and pinned the hem of his coat to a post.
 
@@ -114,6 +118,18 @@ Mirelle came down off the wall behind him like a cat. She didn't say anything. S
 
 * * *
 
+Odile's voice came through the curtain, loud enough for the whole street.
+
+"Did I do the job?"
+
+"You did the job," I said.
+
+"Do I still get the pretzel?"
+
+"Two. Gorrath's buying."
+
+Outside, Gorrath made a small, worried sound, the sound of a man counting coins in his head.
+
 The cart's back room is a very small space. It has a lamp hung on a nail and a bench, and we sat the man on the bench with his coat still pinned. I kept my hood up and my face in the dark.
 
 He woke slowly. He looked at me, and at Gorrath filling the doorway, and he laughed. It was a short, dry sound.
@@ -124,7 +140,7 @@ He woke slowly. He looked at me, and at Gorrath filling the doorway, and he laug
 
 "You're not the Order either. They'd have just done it." He rubbed his throat. "So who sends a five-year-old at me?"
 
-"I did. I'll be sending her mother a pretzel."
+"I did. She's getting a pretzel."
 
 "That's monstrous."
 
@@ -134,7 +150,7 @@ He woke slowly. He looked at me, and at Gorrath filling the doorway, and he laug
 
 "That's not a name. That's a kingdom."
 
-"It's the one I was born with." He said it flatly. Corwen was a place that fell forty years ago, to a king who'd said it was a mercy. I let that stand in the room for a moment, because it was true, and because it was the first honest thing either of us had said.
+"It's the one I was born with." He said it flatly. Corwen was one of the kingdoms the Iron King swallowed, back when he called conquest a mercy. I let that stand in the room for a moment, because it was true, and because it was the first honest thing either of us had said.
 
 "Why are you following the Tallis boy?"
 
@@ -167,6 +183,14 @@ The lantern-maker's stall was the blue one on the north row. The lantern-maker w
 I turned the pages.
 
 Names. Dozens of them, in a tidy slanted hand, each with a number beside it. A column of lantern numbers, a column of dates. Beside every name, a small note: *tall. quiet. left-handed. dances badly.* I knew the hand. I'd seen it once, in a dead clerk's ledger, in the back room of a bookbinder's shop.
+
+*Well?* said Vesk.
+
+"Wait."
+
+*You've gone very still. You only go still when it's bad.*
+
+"I said wait."
 
 I knew the names, too.
 

@@ -12,7 +12,7 @@ I knew that because I'd read the maintenance book the first week I came to Hallo
 
 "It's not a secret. I'm going to eat them."
 
-That was Wednesday afternoon, nine days before the Ball, and the whole of Lance Nine stood in the east kitchen in aprons. Not by choice. Rowan had put our names down for the Ball-week bake before anyone could object. He'd written "Lance Nine: cake, probably big" on the club's sign-up sheet in letters the size of his fist.
+That was Wednesday afternoon, six days before the Ball, and the whole of Lance Nine stood in the east kitchen in aprons. Not by choice. Rowan had put our names down for the Ball-week bake before anyone could object. He'd written "Lance Nine: cake, probably big" on the club's sign-up sheet in letters the size of his fist.
 
 "A cake," I said.
 

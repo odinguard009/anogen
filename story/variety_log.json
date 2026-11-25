@@ -245,5 +245,18 @@
       "pacing_shape": "mosaic of short scenes",
       "hook_type": "a physical cost that arrives late"
     }
+  },
+  {
+    "chapter": 20,
+    "picks": {
+      "opening_type": "internal thought of the narrator",
+      "scene_shape": "investigation that reveals a wrong assumption",
+      "tension_type": "social exposure",
+      "emotional_tone": "fear held in check",
+      "comic_device": "literal-minded reply",
+      "conflict_type": "siege or defence of a place",
+      "pacing_shape": "uneven: a racing run-on, then one-line fragments",
+      "hook_type": "reveal that reframes the chapter"
+    }
   }
 ]

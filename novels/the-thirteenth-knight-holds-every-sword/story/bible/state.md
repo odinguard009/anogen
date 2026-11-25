@@ -1,22 +1,20 @@
-# State after chapter 1 (autumn, PR 112; Year 5 term started three weeks ago)
+# State after chapter 2 (day after ch 1; autumn, PR 112; Year 5)
 
 ## Eden (narrator)
-- 18, Year 5, public name Eden Wren. Sleeps on the Old Observatory roof garden under a two-word medical paper ("See Headmistress"). 61 absences this term. Keeps his low profile as a rule.
-- Has the war dream (ash, black banners, no air); Lysette's crying pulled him out of it. His hands did not shake after; he felt rested. He does not know why.
-- His mother's handkerchief (silver feather in one corner, kept 8 years) is now with Lysette.
+- 18, Year 5, public name Eden Wren. Sleeps on the Old Observatory roof under a two-word medical paper. 61 absences this term (three weeks old). Rule: never be noticed.
+- Dream (every night): grey ash, black banners, no air. Night before ch 2: the dark room with the Tutor (face always turned away, kind voice, thin calm hands), a siege board of ten squares per side; Eden lost his castle again. The Landlord (huge old voice, "the rent is paid in being sensible") scolded him for giving the handkerchief away. A crooked wooden door with a silver hairpin in the keyhole stood at the end of the table; the Tutor said "Not yet."
+- In Spell Grammar he answered Brandmeier in six words ("A command gives. A request asks."), correct. The class now resents him. He does not know why he did it.
+- Eats little: "Eaten today?" "Technically."
 
 ## Lysette Hollen
-- 18, Year 5, vice-chair of the Discipline Committee (gold pin, small black book with ribbon). Black hair, tight ribbon. Secretly tends the roof herbs at dawn and cries there when she must.
-- Saw Rowan ask Clara to the Lantern Ball in the dining hall today. Says she never planned to ask him.
-- Keeps the handkerchief "to wash it". Knows Eden's name and his 61 absences; has read his medical paper. Plans to check on him every morning and afternoon from tomorrow.
-- Does not know he heard her cry in the dream sense; does not know about the Black Order.
+- Vice-chair of the Discipline Committee. Wrote Eden a colour-coded timetable (red rooms, blue time, green books, one black warning: do not sleep in the yard) and woke him at six. Walks behind him between classes. Has his handkerchief.
+- Was in the corridor when Valerius spoke to Eden.
 
 ## Others
-- Rowan asked Clara to the Lantern Ball (public, dining hall). Clara: second floor, kind.
-- The headmistress signed Eden's roof paper two years ago (unnamed on the page so far).
-
-## Place
-- Old Observatory: back of the grounds behind the stables; narrow stairs; last door sticks (shoulder push). Roof: green grass out of season, dwarf apple tree with red apples, herb beds, broken telescope. Warm grass. Nobody waters the apple tree; it grows by itself.
+- Felix (brown hair, ink on two fingers, long bow-case on his shoulder): sits beside Eden, 3 years; quiet; asks "Eaten today?" every day.
+- Brandmeier: tall, narrow, grey hair pulled tight, black gloves, cold room; picks one student to humiliate.
+- Crown Prince Valerius: fair hair, cold blue eyes, blue council sash. Said in front of Lysette and the hall: "So you have finally stopped hiding." Eden said nothing.
+- Rowan: waved at Eden in the corridor (Eden did not wave back). Asked Clara to the Lantern Ball (ch 1).
 
 ## Who knows what
-- Only Lysette knows Eden uses the roof (new). Nobody knows his dream.
+- Lysette knows the roof and Eden's absences. Valerius suspects Eden has been hiding something. No one knows the dream.

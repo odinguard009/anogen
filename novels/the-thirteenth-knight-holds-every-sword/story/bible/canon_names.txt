@@ -673,3 +673,7 @@ mana-lock
 veinline
 veinspear
 veinspears
+Ulrike
+Mistress Ulrike
+Theodric
+Wick Street

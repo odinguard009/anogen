@@ -1,22 +1,21 @@
 Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [open] War dream quiets when Lysette cries | planted: ch 1, 26 | due: ch 200-205
 - [open] Handkerchief "to wash" | planted: ch 1 | due: ch 140, 175, 600
-- [open] Roof garden green out of season | planted: ch 1 | due: ch 575-580
 - [open] Hairpin in locked door (Ynde) | planted: ch 2 | due: ch 172-176, 197
 - [open] Veil: "bottom of the world"; Ea hums | planted: ch 3 | due: ch 48-50, 176
 - [open] Who told the Veil where Eden would stand? | planted: ch 3 | due: ch 18
-- [open] Ledger = Ball guest list (41 lanterns, Rowan no.1); Embers want Rowan alive that night | planted: ch 3, 18 | due: ch 24-26
-- [open] Bell: faint fourth tone | planted: ch 3 | due: ch 420-425
+- [open] Ledger = Ball guest list (Rowan no.1); Embers want Rowan alive | planted: ch 3, 18 | due: ch 24-26
 - [open] Locket (Corentin) | planted: ch 4, 21 | due: ch 36, 45
-- [open] Forged dead-master signatures (Vane ch 6, stamp ch 8); grey dust ch 5 | planted: ch 5-8 | due: ch 95
+- [open] Forged signatures (Vane ch 6, stamp 8); grey dust | planted: ch 5-8 | due: ch 95
 - [open] Okoru saw the shield-hold before; "not by feel" | planted: ch 6, 11 | due: ch 60-66
 - [open] Rowan's light = Lirenne fresco | planted: ch 6 | due: ch 105-110
 - [open] Lilies revive near Clara | planted: ch 6 | due: ch 478-480
-- [open] Ashen card "Remember Thornmere" (bookmark) | planted: ch 7 | due: ch 24
+- [open] Ashen card "Remember Thornmere" | planted: ch 7 | due: ch 24
 - [open] Gray-coat Ember = Corwen, bag man | planted: ch 7 | due: ch 18
 - [open] Strent: no lamps, Liora's lullaby | planted: ch 8 | due: ch 50, 185
-- [open] Seal seeks hooded door-shield; Beatrix | planted: ch 9-10 | due: ch 13-24, 72
-- [open] Ysolde's gray-sealed envelope | planted: ch 9 | due: ch 153-156
+- [open] Seal seeks hooded door-shield; Beatrix | planted: ch 10 | due: ch 13-24, 72
+- [open] Ulrike's plain key; Veil in cellar | planted: ch 9 | due: ch 40
+- [open] Ysolde's gray-sealed envelope | planted: ch 9 | due: ch 153
 - [open] Seraphine "save me?" | planted: ch 10 | due: ch 35, 145
 - [open] Felix's middle name; two lunches | planted: ch 12 | due: ch 47; 106-108
 - [open] Witness plate (door, figure); Rochefort | planted: ch 13 | due: ch 138-142
@@ -36,3 +35,5 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [open] Feather in Thessa; Strent first | planted: ch 47-48 | due: ch 175; 99, 185
 - [open] Witness: light where Eden stood; "Liora's boy" | planted: ch 50 | due: ch 51-55, 140
 - [open] Okoru: "they never test the Teeth" | planted: ch 60 | due: ch 285
+- [open] Roof garden green | planted: ch 1 | due: ch 575
+- [open] Bell 4th tone | planted: ch 3 | due: ch 420

@@ -18,3 +18,4 @@ AUDIT DUTY: if your range ends at a chapter divisible by 10 or the orchestrator 
 Report in max 8 lines: what you fixed, recurring weaknesses for the next writer batch, weak chapters, and (if done) the audit result.
 
 FIRST-USE CHECK (owner order 2026-11-25): for each chapter, list every weapon, armor, relic or ability used for the first time; flag any that was NOT described (look, how the body uses it, what it does, its limit) or that is missing from story/bible/first-use.md. Also flag any reveal that arrives without the earlier hint, doubt and evidence steps listed in story/bible/reveal-ladder.md.
+ATTACK-LABEL CHECK: every signature attack used in the chapter carries its **[Name]** label once, with a first-use description the first time; flag labels on ordinary moves, more than 2 labelled attacks in one chapter, a label inside spoken dialogue by accident, or a signature attack missing its label.

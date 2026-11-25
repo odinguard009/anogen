@@ -1,6 +1,6 @@
 # Reveal ladder (owner order 2026-11-25: build-up for EVERY reveal)
 Rungs: H = HINT (reader may not notice), D = DOUBT (someone asks a question), E = EVIDENCE (a concrete clue, still deniable), C = CONFIRM (the reveal).
-Rules: small reveal = at least 3 chapters between rungs; big reveal = at least 8, and C never earlier than 15 chapters after the first H. Gaps count from the first chapter of each rung; a rung may have several beats. Chapters 1-25 count as done (after the patch list below). Writers: never confirm early; never skip a rung.
+Rules: small reveal = at least 3 chapters between rungs; big reveal = at least 8, and C never earlier than 15 chapters after the first H. Gaps count from the first chapter of each rung; a rung may have several beats. New start 2026-11-25: nothing is written yet, so every rung below is still to be written. Writers: never confirm early; never skip a rung.
 
 ## Ringkasan untuk Odin
 - Pembunuhan Corentin dipecah dua. (a) "Black Order yang mengeksekusi Corentin" baru pasti di bab 36. (b) "Corentin sebenarnya Veil, dan Eden yang membunuhnya" baru terungkap ke pembaca di bab 45. Lysette tetap tahu di bab 140.
@@ -73,10 +73,10 @@ Small twists (gap 3+; D and E to be placed at their arc's planning): Brandmeier 
 ## Table: arc-1 outline reveals (small unless marked)
 | Reveal | H | D | E | C | Status |
 |---|---|---|---|---|---|
-| Market ledger = Ball guest list | 3 | 4 | 18 | 24 | done |
-| "Thornmere boy, Wren" (Ashen card) | 7 | 11 | 18, 23 | 24 | done |
-| Embers want Rowan on the night of lights | 3 | 18 | 23 | 24 | done |
-| Merrow's "which hall" | 20 | 22 | 23 | 24 | done |
+| Market ledger = Ball guest list | 3 | 4 | 18 | 24 | planned |
+| "Thornmere boy, Wren" (Ashen card) | 7 | 11 | 18, 23 | 24 | planned |
+| Embers want Rowan on the night of lights | 3 | 18 | 23 | 24 | planned |
+| Merrow's "which hall" | 20 | 22 | 23 | 24 | planned |
 | Felix learns Eden hides power (big) | 11 | 28 | 37 | 47 | planned |
 | Groundskeeper is a Veil | 31 | 36 | 41, 43 | 45 | planned |
 | Groundskeeper "mastermind" (misdirection) | 45 | - | - | 185 (false) | ok |
@@ -97,7 +97,7 @@ Small twists (gap 3+; D and E to be placed at their arc's planning): Brandmeier 
 | Belozerov (Sorn) | 106 | 541 | 651 | 693 |
 | Eden (Evrin) | 49 (a grafted man tries a false awakening: no bells; Eden wonders if bells would ring for him) | 160 (he says his full name in public; no bell rings) | 446 (at Gatewing one bell rings, once) | 590 |
 
-## PATCH LIST for chapters 1-25 (17 items; prefer cutting; model lines only show intent)
+## PATCH LIST for chapters 1-25 (17 items) = WRITING CONSTRAINTS for the new draft of ch 1-25 (written for the first draft; apply them as rules while writing; prefer cutting; model lines only show intent)
 1. ch 3 | "I pulled out my lance and closed it into the shield, a door-shield the size of a small door with an iron ring-knocker in the middle." | First use of Ixa: name it, look (matte black, a little shorter than Eden, cold), and limit (only as strong as his arms). Model: "I drew Ixa out of my shadow, a short black lance as cold as a gate in winter, and knocked once." Same chapter, "Ea does not shine, though people expect it to." | add Ea's look before it (hand-and-a-half sword, pale blade like ice at dawn, plain grey grip) and "I reached into the Gate" gets 4-6 words of cost (holding it drains him a little, like a slow breath out).
 2. ch 4 | "Everyone in the school knows that name. Two years ago the Black Order killed Corentin Hollen for treason against the crown." (and the rest of that paragraph, to "the lost gloves.") | CUT the cause. Replace with honest avoidance: the yard knows the name and goes quiet; he died two years ago; Eden admits there was a notice and he never read the gate notices (true to him, no cause stated). Model: "Everyone knew the name. There had been a notice on the gate once. I never read the gate notices."
 3. ch 4 | "and the feeling that somewhere deep in a house a door was closing very quietly." | CUT (the door image points at Eden too early). Keep the stomach turning.
@@ -115,4 +115,4 @@ Small twists (gap 3+; D and E to be placed at their arc's planning): Brandmeier 
 15. ch 22 | "\"Blue Hour,\" said Dietrich's shadow, in Dietrich's voice, from forty feet away." | add **[Mott]** (Vesk's first labelled attack; limit: breaks if the real man speaks). At "That move is called the Draught": add **[Draught]**.
 16. ch 23 | "So I did the thing I had come to do. I knocked." | add **[Knock and Answer]** (team combo) where the first voice answers. Description already enough.
 17. ch 25 | "Ea, my short bright sword, drew across the glowing vein at her collar." -> "Ea, my pale sword, ..." and "the blade made a little white glow on her face." -> the lamp-light on the blade showed her face plain (Ea does not shine). At "This was the form I call the Lintel": add **[Lintel]**. At "Her axe came down on it with a flash": add **[Hrak]** (frost bursts from her veins on the blow).
-After patching: the arc-1 plant table rows 4 and 10 describe the old text; read them with this ladder.
+The arc-1 plant table rows 4 and 10 in outline/arc-1.md carry the patched wording; read them with this ladder.

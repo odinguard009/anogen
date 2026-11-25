@@ -53,3 +53,7 @@
 ### critic pass ch 1-10 - same-session cold read (not independent) - notes
 - Scope honest: prepass + check_chapter on 1-10; full cold read of 8, 9, 10 only (ch 1-7 were self-reviewed when written). ch 8: fixed a door contradiction (Gorrath held "the stairs" yet the man entered by them; now Gorrath holds the passage door), trimmed "I did not" tics. Scores for ch 8-10 corrected from a wrong 8-scale to 3,3,3,3,3,3 / 3,3,3,3,3,3 / 3,3,4,-,3,3.
 - Known weak points: first drafts of ch 8, 9, 10 each needed 2-4 patch rounds to reach 25% dialogue; Gorrath "holds the door" trick used in both ch 8 and ch 9; "Eaten today / Technically" gag now in ch 2 and ch 10 (acceptable as running gag, do not use it a third time before ch 20).
+
+### 2026-11-25 10:48 UTC (17:48 WIB) - audit - ok
+- notes: audit through chapter 10: 3 proposals in proposals-audit.md
+- quota_note: 

@@ -25,7 +25,7 @@
     "copy_critic": {
       "model": "opus",
       "mode": "delegate",
-      "when": "after each 5-chapter batch: strict scoring and targeted patches (independent from the writer)",
+      "when": "once per 10 chapters (owner order 2026-11-25): strict scoring and targeted patches (independent from the writer)",
       "tier": "strong"
     },
     "canon_keeper": {

@@ -1,4 +1,6 @@
-# Anogen Optimization Roadmap (proposal, awaiting owner review)
+# Anogen Optimization Roadmap
+
+**Status 2026-11-25:** Phase Two started on the owner's authorisation. Implemented: P0-1 to P0-6, P1-1, P1-2 (partial), P2-3 (partial), P2-4, P3-1 (see `docs/OPTIMIZATION_CHANGELOG.md`). Open: P1-3, P1-4, P1-5, P2-1 (the verify step exists, critic prompt not yet trimmed), P2-2, P3-2, P3-3, P3-4. Owner decisions received: 850-chapter plan stays; no critic re-run for chapters 1-20; critic once per 10 chapters.
 
 Nothing here is implemented. Every item needs the owner's go-ahead for Phase Two. Items marked **OWNER ORDER** touch a LOCKED SETTING (`AGENTS.md`, `ops/models.json`) and must not be changed without the owner saying so in plain words. Savings are ESTIMATES (chars/4) until instrumentation (P0-4) provides provider-reported usage. Finding IDs refer to `docs/AUDIT_REPORT.md`.
 

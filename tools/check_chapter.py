@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Mechanical quality check for a chapter (0 tokens). Always exits 0; read the SUMMARY line.
+"""Mechanical quality check for a chapter (0 tokens). Exits 0 unless --strict is given; read the SUMMARY line.
 
-Usage: check_chapter.py chapters/chapter-012.md
+Usage: check_chapter.py chapters/chapter-012.md [--strict]   (--strict: exit 1 when any ISSUE remains)
 """
 import difflib
 import re
@@ -50,9 +50,11 @@ def content_ngrams(text, n):
 
 
 def main():
-    if len(sys.argv) != 2:
+    strict = "--strict" in sys.argv[1:]
+    args = [x for x in sys.argv[1:] if x != "--strict"]
+    if len(args) != 1:
         sys.exit(__doc__)
-    path = Path(sys.argv[1])
+    path = Path(args[0])
     raw = read(path)
     if not raw.strip():
         print("SUMMARY: FAIL file empty or missing")
@@ -163,7 +165,6 @@ def main():
     triples = len(re.findall(r"\b\w+, \w+(?: \w+)?, and \w+", body))
     if triples > 6:
         issues.append(f"rule-of-three lists x{triples}: cut most of them")
-    ends = [para.strip().split("\n")[-1] for para in re.split(r"\n\s*\n", body) if para.strip()]
 
     print(f"Words: {wc} (target {lo}-{hi})")
     for n in notes:
@@ -171,6 +172,8 @@ def main():
     for i in issues:
         print("ISSUE:", i)
     print("SUMMARY:", "OK" if not issues else f"{len(issues)} issue(s) to fix")
+    if strict and issues:
+        sys.exit(1)
 
 
 if __name__ == "__main__":

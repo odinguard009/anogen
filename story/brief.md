@@ -5,7 +5,7 @@ title: The Thirteenth Knight Holds Every Sword
 author: Anogen
 chapter_words_min: 1800
 chapter_words_max: 2500
-context_pack_max_chars: 40000
+context_pack_max_chars: 48000
 repeat_window: 5
 arc_default_max: 50
 

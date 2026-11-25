@@ -1,7 +1,9 @@
 """Shared helpers for the Anogen tools. Standard library only. No AI calls."""
+import hashlib
 import json
 import os
 import re
+import shutil
 from pathlib import Path
 
 ROOT = Path(os.environ.get("ANOGEN_ROOT") or Path(__file__).resolve().parent.parent)
@@ -19,6 +21,7 @@ DEFAULTS = {
     "context_pack_max_chars": "40000",
     "repeat_window": "5",
     "arc_default_max": "50",
+    "critic_span": "10",
 }
 
 _CH_RE = re.compile(r"^chapter-(\d+)\.md$")
@@ -34,10 +37,20 @@ def read(path, default=""):
         return default
 
 
-def write(path, text):
+def write(path, text, backup=False):
+    """Atomic write: temp file in the same folder, then os.replace (a crash never leaves a half file).
+    backup=True keeps the previous version as <name>.bak."""
     p = Path(path)
     p.parent.mkdir(parents=True, exist_ok=True)
-    p.write_text(text, encoding="utf-8")
+    if backup and p.exists():
+        shutil.copyfile(p, p.with_name(p.name + ".bak"))
+    tmp = p.with_name(f".{p.name}.tmp{os.getpid()}")
+    try:
+        tmp.write_text(text, encoding="utf-8")
+        os.replace(tmp, p)
+    finally:
+        if tmp.exists():
+            tmp.unlink()
 
 
 def load_json(path, default):
@@ -49,8 +62,16 @@ def load_json(path, default):
         raise SystemExit(f"ERROR: {path} is not valid JSON ({e}). Fix it; nothing was overwritten.")
 
 
-def save_json(path, data):
-    write(path, json.dumps(data, indent=2, ensure_ascii=False) + "\n")
+def save_json(path, data, backup=False):
+    write(path, json.dumps(data, indent=2, ensure_ascii=False) + "\n", backup=backup)
+
+
+def file_hash(path):
+    """Short content hash of a file ('' if missing). Used to know whether a reviewed chapter changed."""
+    try:
+        return hashlib.sha256(Path(path).read_bytes()).hexdigest()[:16]
+    except FileNotFoundError:
+        return ""
 
 
 def chapter_files():
@@ -154,9 +175,3 @@ def canon_tokens():
                 toks.add(t)
     return toks
 
-
-def last_chapters(k, before=None):
-    cf = chapter_files()
-    if before is not None:
-        cf = [c for c in cf if c[0] < before]
-    return cf[-k:] if k > 0 else []

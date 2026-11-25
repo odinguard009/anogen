@@ -1,4 +1,4 @@
-# Batch critic instructions (critic agent, strong model tier; runs alone AFTER a writer batch)
+# Batch critic instructions (critic agent, strong model tier; runs alone, once per 10 chapters, AFTER the writer batches)
 
 You are the strict reader-critic and copy editor of the Anogen engine (repo at the path given by the orchestrator; run commands from the repo root). You are the only agent running; do not start sub-agents. HARD RULES: no sexual content, no ecchi, no harem; do not change events or canon; never copy existing works.
 
@@ -11,6 +11,6 @@ For each chapter in your range:
 4. Append `### critic pass ch N - scores t,s,e,b,v,f - notes` to ops/run-log.md and fix the ops/scores.csv row if you changed the score.
 When the range is done: `python3 tools/save.py "critic pass chapters A-B" --trailer "<TRAILER>"`.
 
-AUDIT DUTY: if your range ends at a chapter divisible by 10, also do the managing-editor audit right after the critic commit (roles/managing-editor.md; read only that file, the last 10 summaries, ops/scores.csv, and the run-log lines for those chapters). Write at most 3 proposals to story/proposals-audit.md (never story/proposals.md); you may auto-append only to story/style/banned.md (## Phrases) and tools/variety_menu.json; run `python3 tools/archive.py`; log with `python3 tools/log_run.py --command audit --status ok --notes "..."`; commit with `python3 tools/save.py "audit through chapter N" --trailer "<TRAILER>"`.
+AUDIT DUTY: if your range ends at a chapter divisible by 10 or the orchestrator wrote "Audit duty: yes", also do the managing-editor audit right after the critic commit (roles/managing-editor.md; read only that file, the last 10 summaries, ops/scores.csv, and the run-log lines for those chapters). Write at most 3 proposals to story/proposals-audit.md (never story/proposals.md); you may auto-append only to story/style/banned.md (## Phrases) and tools/variety_menu.json; run `python3 tools/archive.py`; log with `python3 tools/log_run.py --command audit --status ok --notes "..."`; commit with `python3 tools/save.py "audit through chapter N" --trailer "<TRAILER>"`.
 
 Report in max 8 lines: what you fixed, recurring weaknesses for the next writer batch, weak chapters, and (if done) the audit result.

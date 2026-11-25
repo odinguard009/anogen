@@ -2,7 +2,7 @@
 
 The construct reached Lysette before I reached the stairs.
 
-It was eight steps from her when I saw it move. It was a training warden, a man-shaped machine of grey stone with brass joints and a wooden practice blade in its right hand, and for the last hour it had walked slowly up and down the drill maze like a very bored guard. Now its two glass eyes had turned from green to red. It ran. Its stone feet hit the floor like falling bricks, and the sound bounced back and forth between the walls.
+It was eight steps from her when I saw it move. It was a training warden, a man-shaped machine of grey stone with brass joints and a wooden practice blade in its right hand, and for the last hour it had walked slowly up and down the drill maze, as bored as a night watchman. Now its two glass eyes had turned from green to red. It ran. Its stone feet hit the floor like falling bricks, and the sound bounced back and forth between the walls.
 
 Lysette did not see it. Her back was to the corridor, and her eyes were on a gap in the wall, where Rowan's team was working through the next maze. She had been watching Rowan for ten minutes. She had no idea anything was behind her.
 
@@ -14,7 +14,7 @@ She turned. The construct was already there.
 
 An hour before, the drill had looked ordinary.
 
-The Undercroft lay under the academy, a maze of old stone halls with iron grilles in the walls and lamps hung every ten steps. The teachers used it for drills. Okoru had split Year 5 into groups of three, and each group had to walk its own maze from the entrance to a wooden door at the far end. Some halls had false walls. Some had small stone constructs that walked and swung at the students, slowly, with wooden blades. Nobody ever got hurt.
+The Undercroft lay under the academy, a maze of old stone halls with iron grilles in the walls and mana-lamps in glass jars hung every ten steps. The teachers used it for drills. Okoru had split Year 5 into groups of three, and each group had to walk its own maze from the entrance to a wooden door at the far end. Some halls had false walls. Some had small stone constructs that walked and swung at the students, slowly, with wooden blades. No one ever got hurt.
 
 My group was Felix, me, and Lysette, who had written herself into it on her own. She said it was Committee duty.
 
@@ -32,7 +32,7 @@ I turned to him. "Whose side are you on?"
 
 Now we walked down the long hall with our lamp held high. The air was cold, and it smelled of old rain and stone. Every few steps Lysette stopped, wrote a line in her black book, and walked on. Every few steps she also looked through a gap in the wall to see what the next maze was doing.
 
-"Rowan's team is at the third door," she said, to nobody. "Clara is carrying the lamp. That is a bad idea. She will drop it."
+"Rowan's team is at the third door," she said, to the air. "Clara is carrying the lamp. That is a bad idea. She will drop it."
 
 "She won't drop it," said Felix.
 
@@ -54,7 +54,7 @@ The second baton held. For one half second, the blade stopped against it, and Ly
 
 The construct raised its arm again.
 
-I did not decide. My body did, and my hands were already going to the case on my back.
+I did not decide. My body did, and my hands were already at the case on my back.
 
 Exa came out into my hand, cold and black. I had no time to plan, so I did the only thing that I was sure could not look strange. I ran straight at the construct, and I thrust the lance at its chest, short and ugly, the thrust of a boy who has panicked.
 
@@ -66,7 +66,7 @@ I stopped thinking and knocked.
 
 * * *
 
-*One knock turns the lance into a door.* I knew it the way I knew my own name. It was the first thing I had learned about Exa, and the first rule I had broken, and I had not used it in front of other people in two years.
+*One knock turns the lance into a door.* It was the first thing I had learned about Exa and the first rule I had broken, and I had not used it in front of other people in two years.
 
 The shaft folded in my hands. Black metal went flat and wide with a small ringing sound, like a gate swinging, and a door-shield opened around my left arm. It was the size of a tray, matte black, with an iron ring set in the middle of it, the knocker. It was cold, and it was only as strong as my arm and my aura, but it was the one door I owned that could do what I needed.
 
@@ -100,7 +100,7 @@ Felix reached us at a run, with his bow in his hand and an arrow half-drawn. He 
 
 "It was running badly."
 
-Felix looked at me for a long, silent moment. Then he put the arrow back in his quiver, very slowly, and said nothing at all. That was the best thing a friend could do, and I knew it.
+Felix looked at me, and the silence went on. Then he put the arrow back in his quiver, slowly, and said nothing at all. I noted that this was the kindest thing a friend could do.
 
 Lysette had not moved.
 
@@ -126,9 +126,9 @@ She looked at me for a few more seconds. Her voice came out smaller than before.
 
 "Okay."
 
-"Okay," said Lysette. She took a long breath, in and out. Then, very quietly, she added, "Thank you."
+"Okay," said Lysette. She took a long breath, in and out. Then, quietly, she added, "Thank you."
 
-I did not know what to do with that. I looked at the broken baton on the floor instead. After a moment, I bent down, picked up both halves, and held them out to her.
+My stomach had gone cold again. That made twice in two days. I looked at the broken baton on the floor instead. After a moment, I bent down, picked up both halves, and held them out to her.
 
 She took them. For half a second, our hands touched. Hers were cold.
 
@@ -160,13 +160,13 @@ Rowan came around the corner at a run, with his wooden spear in one hand and Cla
 
 "It's a lot of paperwork."
 
-Clara laughed. Lysette did not. She looked at Rowan, and for a second her face was soft and open and young. Then she saw me watching, and it closed again like a door.
+Clara laughed. Lysette did not. She looked at Rowan, and for a second her face was soft and open and young. Then she saw me watching, and it closed.
 
 "Return to your maze," she told him. "All of you. This is a Committee matter."
 
 * * *
 
-Okoru came a few minutes later, walking in his slow way, with his hand behind his back. He did not shout. He looked at the construct for a long time. Then he knelt next to it, which looked odd for a man with one arm, and put his palm against the crack in its side.
+Okoru came a few minutes later, walking in his slow way, with his hand behind his back. He had already used the wall telephone at the maze door to send for a cart. He did not shout. He studied the construct without a word. Then he knelt next to it, which looked odd for a man with one arm, and put his palm against the crack in its side.
 
 "This should not run," he said, to the stone. "It should not run at all. These things have a leash in the core. They walk, they swing, they stop." He looked up at me. "Wren. How did you stop it?"
 
@@ -184,7 +184,7 @@ Okoru came a few minutes later, walking in his slow way, with his hand behind hi
 
 He worked a thin knife into the seam, and the crack widened with a small click. Inside the chest there was a hollow, and in the hollow lay a round glass core the size of a fist, split down the middle. It should have been full of soft green light. It was not. It was packed tight with something grey, fine and dry, like old ash.
 
-Okoru did not touch it. He looked at it for a very long time, and when he spoke, he spoke to nobody in particular.
+Okoru did not touch it. He studied it, and when he spoke, he spoke to the room.
 
 "Dust does not get into a sealed core by itself," he said. "Someone put it in. Someone who knew the core was there."
 
@@ -202,10 +202,10 @@ Okoru did not touch it. He looked at it for a very long time, and when he spoke,
 
 I looked too. I could not help it. The dust was grey, and it was fine, and it did not look like anything a drill-warden should have in its chest.
 
-I had seen dust like that two nights ago, on a cellar floor. Or I thought I had. It was only dust, I told myself. All dust looks the same in a bad light.
+I had seen dust like that two nights ago, on the floor of a switchboard room. It was only dust, I told myself. All dust looks the same in bad light.
 
 "Sir?" said Felix. "What is it?"
 
 "I do not know," said Okoru.
 
-Nobody spoke. The lamp swung a little on its hook. Inside the cracked glass, the grey dust slid, and settled, and lay still.
+No one spoke. The lamp swung a little on its hook. Inside the cracked glass, the grey dust slid, and settled, and lay still.

@@ -6,12 +6,36 @@ import re
 import shutil
 from pathlib import Path
 
-ROOT = Path(os.environ.get("ANOGEN_ROOT") or Path(__file__).resolve().parent.parent)
-STORY = ROOT / "story"
-CHAPTERS = ROOT / "chapters"
-OPS = ROOT / "ops"
-OUT = ROOT / "out"
 TOOLS = Path(__file__).resolve().parent
+SLUG_RE = re.compile(r"^[a-z0-9][a-z0-9-]{0,63}$")
+
+
+def _resolve():
+    """Return (REPO, ROOT, ENGINE, LOCK_DIR, error).
+
+    REPO     git work tree (holds tools/, engine/, templates/, novels/)
+    ROOT     the active novel folder (story/, chapters/, ops/, out/ live here)
+    ENGINE   engine-level shared files (prices.json)
+    LOCK_DIR where the single global lock lives (one agent at a time across ALL novels)
+    ANOGEN_ROOT (tests, scratch copies) wins and keeps the old flat layout: everything under that folder.
+    Otherwise: ANOGEN_NOVEL, then novels/ACTIVE; a repo with no novels/ folder keeps the old flat layout.
+    """
+    env = os.environ.get("ANOGEN_ROOT")
+    if env:
+        r = Path(env)
+        return r, r, r / "ops", r / "ops", ""
+    repo = TOOLS.parent
+    novels = repo / "novels"
+    engine = repo / "engine"
+    if not novels.is_dir():
+        return repo, repo, repo / "ops", repo / "ops", ""
+    slug = (os.environ.get("ANOGEN_NOVEL") or read(novels / "ACTIVE")).strip()
+    if not slug:
+        return repo, novels / "_none", engine, novels, "no active novel: run `python3 tools/novel.py use <slug>` (see `novel.py list`)"
+    if not SLUG_RE.match(slug) or not (novels / slug).is_dir():
+        return repo, novels / "_none", engine, novels, f"novel '{slug}' not found in novels/ (see `novel.py list`)"
+    return repo, novels / slug, engine, novels, ""
+
 
 DEFAULTS = {
     "title": "Untitled Serial",
@@ -35,6 +59,17 @@ def read(path, default=""):
         return Path(path).read_text(encoding="utf-8")
     except (FileNotFoundError, IsADirectoryError):
         return default
+
+
+
+
+REPO, ROOT, ENGINE, LOCK_DIR, NOVEL_ERROR = _resolve()
+if NOVEL_ERROR and not os.environ.get("ANOGEN_NO_NOVEL_OK"):
+    raise SystemExit("ERROR: " + NOVEL_ERROR)
+STORY = ROOT / "story"
+CHAPTERS = ROOT / "chapters"
+OPS = ROOT / "ops"
+OUT = ROOT / "out"
 
 
 def write(path, text, backup=False):

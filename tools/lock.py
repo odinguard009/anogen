@@ -6,7 +6,7 @@ Usage:
   lock.py release JOB
   lock.py status
 A lock older than its TTL (default 120 min) is treated as stale (crashed run) and may be taken over.
-The lock file is ops/lock.json (not committed).
+The lock file is novels/lock.json (not committed): ONE lock for all novels, so only one agent runs at a time.
 """
 import argparse
 import contextlib
@@ -18,16 +18,16 @@ try:
 except ImportError:  # non-POSIX host: falls back to no guard
     fcntl = None
 
-from common import OPS, load_json, save_json
+from common import LOCK_DIR, load_json, save_json
 
-PATH = OPS / "lock.json"
-GUARD = OPS / ".lock.guard"
+PATH = LOCK_DIR / "lock.json"
+GUARD = LOCK_DIR / ".lock.guard"
 
 
 @contextlib.contextmanager
 def guard():
     """Exclusive OS lock around read-modify-write of lock.json (two processes cannot both acquire)."""
-    OPS.mkdir(parents=True, exist_ok=True)
+    LOCK_DIR.mkdir(parents=True, exist_ok=True)
     with open(GUARD, "a") as fh:
         if fcntl:
             fcntl.flock(fh, fcntl.LOCK_EX)

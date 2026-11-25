@@ -403,6 +403,69 @@ def phase_b_tests():
         shutil.rmtree(root, ignore_errors=True)
 
 
+def novel_tests():
+    """novels/<slug>/ layout: creation, selection, isolation, one global lock."""
+    import hashlib
+    repo = Path(tempfile.mkdtemp(prefix="anogen-novels-"))
+    shutil.copytree(TOOLS, repo / "tools", ignore=shutil.ignore_patterns("__pycache__"))
+    shutil.copytree(TOOLS.parent / "templates", repo / "templates")
+
+    def nrun(script, *args, novel=None):
+        env = {k: v for k, v in os.environ.items() if k not in ("ANOGEN_ROOT", "ANOGEN_NOVEL")}
+        if novel:
+            env["ANOGEN_NOVEL"] = novel
+        r = subprocess.run([PY, str(repo / "tools" / script), *args], capture_output=True, text=True, env=env, cwd=repo)
+        return r.returncode, r.stdout + r.stderr
+
+    def snap(slug):
+        out = {}
+        for f in sorted((repo / "novels" / slug).rglob("*")):
+            if f.is_file():
+                out[str(f.relative_to(repo / "novels" / slug))] = hashlib.sha256(f.read_bytes()).hexdigest()
+        return out
+
+    (repo / "novels").mkdir()
+    rc, o = nrun("novel.py", "list")
+    check("novel: list with no novels is not an error", rc == 0, o)
+    rc, o = nrun("status.py")
+    check("novel: tools refuse to run with no active novel (clear message)", rc != 0 and "no active novel" in o, o)
+    rc, o = nrun("novel.py", "new", "alpha-saga", "--title", "Alpha Saga")
+    check("novel: new creates folder from template and activates it", rc == 0 and (repo / "novels/alpha-saga/story/brief.md").exists()
+          and (repo / "novels/ACTIVE").read_text().strip() == "alpha-saga", o)
+    check("novel: title written into brief", "title: Alpha Saga" in (repo / "novels/alpha-saga/story/brief.md").read_text())
+    rc, o = nrun("novel.py", "new", "alpha-saga", "--title", "again")
+    check("novel: new refuses an existing slug", rc != 0, o)
+    rc, o = nrun("novel.py", "new", "Bad Slug", "--title", "x")
+    check("novel: new refuses an invalid slug", rc != 0, o)
+    rc, o = nrun("novel.py", "new", "beta-tale", "--title", "Beta Tale")
+    check("novel: second novel created", rc == 0 and (repo / "novels/beta-tale/ops/scores.csv").exists(), o)
+    a_before = snap("alpha-saga")
+    rc, o = nrun("inbox.py", "add", "idea for beta")
+    check("novel: commands act on the active novel only", rc == 0 and "idea for beta" in (repo / "novels/beta-tale/story/inbox.md").read_text(), o)
+    check("novel: other novel is byte-identical after the command", snap("alpha-saga") == a_before)
+    rc, o = nrun("inbox.py", "add", "idea for alpha", novel="alpha-saga")
+    check("novel: ANOGEN_NOVEL overrides ACTIVE", rc == 0 and "idea for alpha" in (repo / "novels/alpha-saga/story/inbox.md").read_text()
+          and "idea for alpha" not in (repo / "novels/beta-tale/story/inbox.md").read_text(), o)
+    rc, o = nrun("novel.py", "use", "nope")
+    check("novel: use refuses an unknown novel", rc != 0, o)
+    rc, o = nrun("novel.py", "use", "alpha-saga")
+    check("novel: use switches the active novel", rc == 0 and (repo / "novels/ACTIVE").read_text().strip() == "alpha-saga", o)
+    rc, o = nrun("novel.py", "new", "gamma", "--title", "Gamma", "--style-from", "missing")
+    check("novel: --style-from an unknown novel is refused and creates nothing", rc != 0 and not (repo / "novels/gamma").exists(), o)
+    (repo / "novels/alpha-saga/story/style/profile.md").write_text("# custom style\n")
+    rc, o = nrun("novel.py", "new", "delta", "--title", "Delta", "--style-from", "alpha-saga")
+    check("novel: --style-from copies the profile", rc == 0 and (repo / "novels/delta/story/style/profile.md").read_text() == "# custom style\n", o)
+    rc, o = nrun("lock.py", "acquire", "write", "--owner", "w", novel="alpha-saga")
+    rc2, o2 = nrun("lock.py", "acquire", "write", "--owner", "w2", novel="beta-tale")
+    check("novel: ONE global lock (second novel cannot start while the first is locked)", rc == 0 and rc2 == 3, o + o2)
+    rc, o = nrun("lock.py", "release", "write", "--owner", "w", novel="alpha-saga")
+    check("novel: lock released", rc == 0, o)
+    (repo / "novels/ACTIVE").write_text("ghost\n")
+    rc, o = nrun("status.py")
+    check("novel: ACTIVE pointing at a missing novel fails clearly", rc != 0 and "not found" in o, o)
+    shutil.rmtree(repo, ignore_errors=True)
+
+
 def main():
     root = Path(tempfile.mkdtemp(prefix="anogen-test-"))
     try:
@@ -610,6 +673,7 @@ def main():
 
     phase_two_tests()
     phase_b_tests()
+    novel_tests()
     if FAILS:
         print("\nFAILED:", ", ".join(FAILS))
         sys.exit(1)

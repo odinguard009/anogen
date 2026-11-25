@@ -7,7 +7,7 @@ The repo never calls a model itself, so the orchestrator reports usage after eve
        --outcome ok|failed|retry --source reported|manual|estimate
 Use --source reported ONLY for numbers the host/provider gave you; owner-read usage page deltas are 'manual'.
   usage_log.py report            totals by role, per chapter, per 1,000 words, retries
-Optional ops/prices.json {"<model>": {"input": usd_per_million, "output": usd_per_million}} enables cost lines;
+Optional engine/prices.json {"<model>": {"input": usd_per_million, "output": usd_per_million}} enables cost lines;
 without it cost is reported as unknown (nothing is invented).
 """
 import argparse
@@ -16,7 +16,7 @@ import json
 import re
 import sys
 
-from common import OPS, chapter_path, load_json, read, word_count
+from common import ENGINE, OPS, chapter_path, load_json, read, word_count
 
 LOG = OPS / "usage.jsonl"
 
@@ -61,7 +61,7 @@ def cmd_report(_a):
     if not rs:
         print("No usage recorded yet (ops/usage.jsonl is empty). Token and cost figures are UNMEASURED.")
         return
-    prices = load_json(OPS / "prices.json", {})
+    prices = load_json(ENGINE / "prices.json", {})
     print("Usage is reported per data source and is never added across sources.")
     for src in SOURCES:
         sub = [r for r in rs if r.get("source", "manual") == src]
@@ -112,7 +112,7 @@ def cmd_report(_a):
         if drafted and tot:
             print(f"writer chapters in this source: {len(drafted)} ({words} words); all roles: {tot / len(drafted):.0f} tokens per chapter, "
                   f"{tot / max(words, 1) * 1000:.0f} tokens per 1,000 words (input+output, cache not included)")
-    print("\nPrices come only from ops/prices.json (supplied by the owner); none are built in.")
+    print("\nPrices come only from engine/prices.json (supplied by the owner); none are built in.")
 
 
 def main():

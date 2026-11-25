@@ -5,3 +5,5 @@ out/reading-page.html
 .lock.guard
 ops/*.bak
 ops/ctx-cache.json
+novels/lock.json
+novels/.lock.guard

@@ -1,255 +1,185 @@
-# Chapter 4: Eleven Blocks
+# Chapter 4: Half a Second Late
 
-The notice board in the front hall is as old as the school. In a hundred and three years nobody changed the cork, so it was black with old pinholes, and new notices hung by one tack and spun every time the doors opened.
+The telephone on the dining-hall wall had a card tied to it that said DO NOT ANSWER, and at noon it rang while I was eating soup.
 
-On the first morning of the week, a clean sheet went up in the middle, pinned at all four corners by someone who meant it.
+My spoon stopped halfway to my mouth. A drop of soup fell on the white table and spread. I looked at the drop, and I looked at my hand, and I noted that I had not decided to do either of those things.
 
-*BELL ASSESSMENT, YEAR FIVE. Order of candidates.*
+The telephone rang twice more. Then a cook with wet arms wiped her hands, took the receiver off its hook, said "Kitchen" in a bored voice, and hung it up again. It was only the butcher.
 
-I read it twice. The hall was cold and smelled of floor wax. I took the clerk's book from my inside pocket and held its last six pages next to the sheet, like a boy checking his own time.
+"You dropped soup," said Felix. He sat across from me, with ink on two fingers and a wooden bow-case leaning against his chair.
 
-"Looking for yourself?" said Felix, behind me. He had a roll in his hand.
+"It was a small drop."
 
-"I'm eighth. I know where I am."
+"It was your first drop in three years." He said it without any expression, and went back to his bread. Felix never asked the second question. That was why I trusted him with the first.
 
-"Then why are you comparing?"
+"Look who came to lunch!" said a bright voice behind me. "The sleeper himself."
 
-"Habit."
+A tray landed beside mine. Seraphine sat on the bench without asking, which she always did. She was Valerius's twin sister, but you would never guess it from looking. He was cold and straight as a ruler. She had copper-gold hair in a loose braid that was already coming apart, a ribbon tied crooked at one end, and a grin that said she had broken three rules before noon and planned a fourth.
 
-"Bad habit. You look like a thief."
+"Your Highness," I said.
 
-"I look like a boy who can read."
+"Oh, please. You used to call me Sera."
 
-The names matched, in the same order. It was not alphabet order, because the school office sorts by floor, then by height, and the reason died with whoever started it. The list in the book even had the same spelling mistake in Bastien Ardenne's last name.
+"I didn't."
 
-I had spent two nights on that list. It was written in a careful, round hand, and the order matched no list I knew, so I had decided it came from somewhere private, a locked desk, someone on the inside. But someone on the inside had pinned it to a public board. Anyone who could walk into the front hall could have copied it, and two thousand people walk into the front hall.
+"You *would* have, if you had thought of it." She stole a piece of my bread. "You look terrible. Is it the timetable? Everyone heard about the timetable. It has a clock drawn on it."
 
-"Two nights wasted," I said.
+"It's a small clock."
 
-"On what?" Felix asked.
+"I want one." She turned to the other side of the table, and her grin grew. "Hello, Lysette."
 
-"Nothing. A theory."
+Lysette stood at the end of the table with her black book against her chest. She had arrived from nowhere. She always did. The white braid lay across her head, neat as a ruled line, and her violet-blue eyes went straight to my tray.
 
-"Was it a good one?"
+"Your Highness," she said, in the voice of someone greeting a flood. "Wren has a lunch period of thirty minutes. This is minute eleven."
 
-"It was very proud of itself."
+"I know. I'm helping him eat."
 
-"Theories usually are. Come on, the rolls are getting cold."
+"You are eating his bread."
 
-The only thing the board did not have was the circle around Rowan Tallis. I put the book away.
+"That is a form of help."
 
-* * *
+Felix kept his eyes on his plate, but his shoulders shook.
 
-Lunch is at the noon bell, in the long dining hall, and it is the one hour when the whole school sits in one room and can see who you sit with. For five years I had a good system. I sat with Felix, and people saw Felix, and next to him a shape that might be his coat.
+Seraphine leaned toward me and lowered her voice, as if she were telling a secret to the whole room. "She follows you everywhere, you know. It's romantic. Like a hunting dog."
 
-The system ended when Lysette Hollen put her tray down across from me.
+"I am not a dog," said Lysette.
 
-"Committee," she said, before I could speak. "You're a flight risk at lunch. You were one all last week."
+"I didn't say you were a dog. I said *like* a dog."
 
-"Last week I was in the library."
+"That is worse."
 
-"You were on the roof."
+"Is it?" Seraphine turned to me, delighted. "Eden, is it worse?"
 
-"The library has a roof."
+"I'm trying to eat."
 
-Felix turned a page, like a man who planned to see nothing.
+"See? He agrees with me."
 
-"Eat," Lysette told me. "Then we talk about your timetable. Not before. I do not talk to people with empty plates."
-
-"We talked about it yesterday."
-
-"We talked about it badly." She turned her head. "Felix. Is he always like this?"
-
-"Like what?"
-
-"Slippery."
-
-"Only when he's awake," said Felix, and went back to his book.
-
-"That is not an answer."
-
-"It is the only one I have."
-
-Lysette ate the way she did everything, fast and neat. Twice I saw her look down the hall to the big center table, where Rowan Tallis sat with Clara Belmont on one side, a small girl with curly brown hair and a loud laugh. Three people were trying to squeeze in on his other side, and he was telling a story with both hands. Each time Lysette looked, her left hand went to her collar, where a thin gold chain ran down under her shirt. She touched it, and then her hand dropped.
-
-"He's very loud," I said.
-
-"He is *happy*," said Lysette. "It's different." She stabbed a potato.
-
-In my pocket was a page with his name circled twice in someone else's ink, and I was the only person in the room who knew. That is the job, and I have never minded it. It is only that the dining hall is loud at noon, and you can hear every word of every story and none of them tell you anything.
-
-So I filed the chain instead. A girl in love with a boy who laughs with someone else, and a chain she touches when it hurts. I thought I knew what hung on the end of it, a token or a dried flower or a button from his coat. People keep strange things.
-
-"Oh, *look*," said a voice above my head. "The sleeper came to lunch."
-
-Princess Seraphine sat down next to Lysette without asking. She had her brother's fair hair and none of his straight back, and she had a pastry in each hand. She put one on my plate.
-
-"I was at breakfast," I said.
-
-"Were you? What did you eat?"
-
-"Tea."
-
-"Tea is a drink."
-
-"You were *present* at breakfast. That's different. Hollen, he was present, wasn't he? You'd know. I hear you're his keeper now."
-
-"I'm his *supervisor*," Lysette said. "By Committee order."
-
-"You gave it to yourself."
-
-"Any officer," Lysette said, in the voice you use with a judge, "can start a Committee order."
-
-Seraphine smiled at her, a very pleasant smile, and Lysette's ears went pink. Seraphine talks to me as if we share an old joke. Most of the time she is kind. Lysette did not know that yet.
-
-"He is always tired," Seraphine told her, leaning in. "Did he say so?"
-
-"No."
-
-"He never does. He will go to sleep anywhere. A hedge. A ditch."
-
-"A bench," I said.
-
-"See? Modest." She pointed her pastry at Lysette.
-
-"I was tired."
-
-"You were asleep before I finished saying thank you."
-
-"That is what tired means."
-
-"He is always tired," Seraphine told Lysette. "Fix that, and you are a genius."
-
-Felix turned another page. Lysette cut a potato in half, then in half again, and then again, until it could not be cut anymore.
+I had agreed with no one. But I had learned that Seraphine talked to me as if we shared an old joke, and that nothing I said changed her mind.
 
 * * *
 
-Arms class is at the ninth bell, in the Long Yard, a strip of packed sand under the east wall that smells of hot dust and old leather in the afternoon. The teacher is Okoru. He has one arm, and he needs about a quarter of it to put any student in the sand.
+The training yard lay behind the main hall, a wide square of packed sand with a stone wall on three sides. In the afternoon it was hot, and the air smelled of leather and dust.
 
-He paired us by rank, and that gave me Bastien Ardenne, a tall boy with a thick neck and a quick laugh. He was rank eleven. For three years he had waited to be ranked above me, and today he saw no reason to wait longer.
+Tesfane Okoru taught Arms. He was a lean man of about forty, grey at the temples, with his right sleeve pinned up to the shoulder because the arm inside it had ended years ago on the Wall. He never shouted. He walked slowly with his hand behind his back and looked at things for a long time, and I hated that more than any shouting.
 
-"Batons," said Okoru. "Three touches. Out of the ring counts as a touch. Do not hit the face. Do not hit the knees. Do not cry."
+Today he paired us off. I got Rowan.
 
-I have one rule for class. I show my lance, and I only block with it. A rank eight boy blocks well, attacks without heart, and loses a third of his fights, and that is how he stays rank eight.
+Rowan was the one the whole academy liked, and it was easy to see why. He had messy gold hair, a wide, easy face, and a broad, strong body. He was always hungry and always cheerful. He gave his bread to anyone who looked thin and did not seem to know people noticed. He was also strong, and he had no idea how strong.
 
-"Ready, Wren?" Bastien called.
+"Hey, Eden!" he said. "I heard you answered Brandmeier in six words. I couldn't answer her in sixty."
 
-"No."
+"It was a short question."
 
-"Good! I've waited three years for this!"
+"That's what she said!" He laughed. A little way off, Clara laughed too. She was a slight girl with brown hair and a basket of bandages, because she was the class healer, and she waved at him with her free hand. He waved back as if she had given him a present.
 
-"I know. You told me twice."
+I looked away and opened the long leather case on my back.
 
-"Then I'll tell you again!"
+Inside lay the one weapon I used in public. Its name was Exa, a short lance a little longer than my arm. It was matte black, plain, with no gold and no mark, and it was cold to hold even in the sun. It was only as strong as my arms and my breath. The school thought it was a cheap family lance, old and dull. Only I knew that every morning I drew it out of my own shadow and put it in the case, so that people would see me carry it.
 
-The ring was ten steps across, drawn in chalk. Bastien stood three steps from me with his back to the sun, and I stood near the east wall, so I had no room to run. That was fine, because I did not plan to run.
+"Ready?" said Rowan, with a wooden spear. "Don't go easy on me!"
 
-Bastien came in hard, with a straight thrust, a high fake, and a cut to my ribs from the left. I caught all three on the shaft and gave up half a step each time.
+"I won't."
 
-"Come on, Wren!" he said, grinning. "Hit me back!"
+He came at me like a storm, all weight and no plan. His spear swung down in a wide arc. I took half a step to the side and tilted Exa, and the blow slid off the black shaft with a hard crack and went past my shoulder. He turned and came again. I blocked. Again, and again.
 
-"I'm thinking about it."
+My body knew every movement, so I did not have to think. Step and tilt, step and tilt, with my face as bored as I could make it. A good block does not look like anything. It looks like a boy who cannot be bothered.
 
-"Think faster!"
+"Hit back!" said Rowan, grinning, out of breath. "You never hit back!"
 
-"I can't. You're too loud."
+"I'm busy blocking."
 
-"Good! Louder is better!"
+"That's not a plan!"
 
-He was quick, and he knew it. Before every real attack he dropped his left shoulder, the way some people clear their throat before they lie. His weight sat on his front foot, and after each cut his guard came back a little late on the right. If I had been trying, it would have taken three exchanges. The third would have put him on his back, wondering where the sky went.
+"It's a decent plan."
 
-I blocked eleven times, and by the eleventh I knew where he would stand a minute later. He had not touched me once. That was a problem, because a rank eight boy does not do that, and people were starting to watch the ring.
+I could feel eyes on me, and I did not need to turn to know whose.
 
-So on the twelfth I let his fake pull my lance high. His baton came in low and hit my ribs, on the left side, under the arm.
+Okoru stood by the wall with his one hand behind his back. He had not moved in a full minute, and he was not watching Rowan. He was watching my feet. He watched the half step, and the tilt of the shaft, and the way my weight stayed still when Rowan's did not.
 
-It was a good hit, better than I had planned for, and the air left me with a noise I did not like. I stepped back to make room, and my heel crossed the chalk.
+A seventh blow came. I blocked it badly, on purpose, and let the spear tap my arm.
 
-"Touch," said Okoru. "And out. Two."
+Okoru did not smile and did not frown. He looked at me four seconds longer than a teacher should, and then he came across the sand.
 
-A moment later Bastien took the third on my forearm, because I let him. He grinned at me with real joy, the simple kind, and held out his hand. I shook it.
+"Wren."
 
-"Tell me that wasn't amazing," he said.
+"Sir?"
 
-"It was fine."
+"Your feet."
 
-"*Fine?* I beat the eighth rank!"
+"What about them?"
 
-"Congratulations. Tell everyone."
-
-"I will!"
-
-He would tell people for a week, which was good. I would rather be someone Bastien Ardenne beat than someone people talk about. My ribs disagreed, but nobody asked them.
-
-Okoru did not say "next." He stood at the edge of the ring with his one hand in his belt and looked at me longer than a teacher should. His face is lined and calm, and he has the eyes of a man who once had to count how many came back.
-
-"Wren," he said.
-
-"Sir."
-
-"You watched his left shoulder eleven times."
-
-I did not answer, because anything I said would have been worse.
-
-"I like his left shoulder," I said at last. "It's honest."
-
-"Honest shoulders are rare."
-
-"Is that a compliment, sir?"
-
-"It's something I noticed. And the ribs?"
-
-"Fine, sir."
-
-"Mm. Next pair."
-
-He turned away, and I went and sat on the bench with my ribs. For the rest of the hour I felt him not looking at me.
+"Nothing," said Okoru. "That is what bothers me." He raised his voice to the whole yard. "Switch partners."
 
 * * *
 
-Lysette was paired with a girl from the second floor, who was bigger by a head. They stood at the far end of the sand, near the shade of the wall. Lysette did not seem to mind. She used two short batons held close, all wrists and angles, and she watched her opponent in a way that made you feel questioned. She took the first two touches cleanly.
+I had just handed Exa to the rack when I saw it happen.
 
-On the third, the other girl's baton slid off Lysette's guard and flicked up across her collarbone. The thin gold chain snapped and fell into the sand, and whatever hung on it fell too and popped open.
+It happened on the far side of the yard, and I saw all of it in order, the way I see everything. A Year 4 boy had grabbed a practice spear too hard. His partner had swung. The spear came out of his hand, a heavy wooden thing as long as a man, and it began to turn end over end across the sand.
 
-Lysette stopped as if she had been hit for real. The other girl was already saying sorry, but Lysette did not hear. She dropped to one knee in the sand, and I was closest, so I picked it up.
+It was flying toward Lysette.
 
-It was a locket, plain gold and a little dented. Inside, on the left, was a tiny painted face the size of a thumbnail. It was not Rowan.
+She stood with her back to it, thirty paces away, her eyes on Rowan. She was watching him laugh. She had her book open in one hand.
 
-It was a young man, sixteen or seventeen when the picture was painted. He had her coloring and her stubborn chin, but his mouth was softer, and he had the face of someone who had been laughing a second before the painter told him to hold still.
+I counted. One point four seconds. The angle was clean. If I opened a door in the shadow of the rack, at her left, it would take the spear into the dark and she would never know. I could do it without moving my hands.
 
-Something in my stomach turned over, slowly, like a fish in cold water. I did not know why. I looked at that face and found nothing I could name, only that slow turn.
+Okoru was watching my feet.
 
-"Is it yours?" I asked, though I knew.
+I did the ordinary thing. I shouted, "Hollen!"
 
-She held out her hand, and I gave it to her.
+It was half a second late.
 
-"My brother," she said. She was not looking at me. She was looking at the picture. "Corentin."
+She turned. The spear clipped her left cheek, hard, with a sound like a hand slapping a table, and she went down on one knee in the sand with her hand over her face. Her book fell open beside her. A bright line of red ran between her fingers and onto the white braid.
 
-Behind us, someone in the yard whispered the name. I heard it pass from person to person, and then it stopped.
+I was across the yard before I had decided to run.
 
-Everyone in the school knew that name. Behind us, the yard had gone quiet. He had died two years ago. There had been a notice on the gate once, for a week, between the club lists and the lost gloves. I never read the gate notices.
+"Don't touch me," said Lysette, through her hand. "It is nothing."
 
-Lysette closed the locket, and her thumb stayed on the clasp. At lunch I had thought I knew what she kept reaching for every time she looked at Rowan. I had a whole theory, and it was wrong.
+"It's bleeding."
 
-"Is he—" I began.
+"It is a small amount. It will stop." She stood up too fast and swayed. Her eyes were wet, but her mouth was a straight line. "Pick up my book."
 
-"Don't," she said.
+I picked up her book.
 
-I looked away first. I did not choose to. I stared at the sand, at the mark where she had knelt, and my ribs hurt.
+Clara reached us first, her basket in her arms, and Rowan came right behind her, shouting. "Lysette! Is she okay? Who threw that? I'll kill him!" He turned on the Year 4 boy, who had gone the color of paper. Clara knelt in the sand, put two fingers on Lysette's cheek, and said "Hold still" in a voice so gentle that no one could argue with it. A faint warm light came from under her hand. The cut closed to a thin pink line.
 
-She had stood. The chain hung from her fist in two pieces. She was not talking to me, or to the girl who still said sorry, or to Okoru, who had walked to the edge of the ring and stopped.
+"There," said Clara. "It won't scar."
 
-"Lysette," the girl said, very small. "I'm so sorry. I didn't mean—"
+"Thank you," said Lysette.
 
-"It's fine. It's not your fault." Lysette did not look at her. "It's old. It was going to break."
+"Of course!" said Rowan. "You scared us."
 
-She stood straight.
+"I am perfectly well," said Lysette, and she did not look at him once.
 
-The girl stopped saying sorry. Nobody said a word.
+I stood in the sand holding her book. My stomach had gone cold, and the cold sat there like a stone. I assumed it was the sand and the heat, or lunch. I checked my hands. They were steady. That seemed correct.
 
-"Wren," Okoru said quietly, from the edge of the ring. "Sit."
+* * *
 
-"I was about to, sir."
+When the class ended, the yard emptied slowly. I stayed at the rack, putting Exa back into its case, for longer than the job needed.
 
-"Good."
+Lysette came to the end of the yard alone, with the book under her arm. A thin pink line ran across her cheek, and a few strands of white hair were stiff with dried blood. She stopped by the stone wall and stood straight with her back to me.
 
-I sat back down on the bench. After a while I saw that my right hand was pressed flat against my ribs, hard, as if something under there needed holding in.
+I walked over. I held out her book, which I had forgotten.
+
+"Thank you," she said, and took it. She did not look at me. "You called my name."
+
+"Yes."
+
+"Late."
+
+"Yes."
+
+"By half a second." She said it flat, like the reading of a clock. "Everyone else in that yard reacted a half-second late, because they are normal. You react a half-second late to everything that is not dangerous. You are late for lunch, and late for class, and late to wave back when Rowan waves."
+
+"That's on the timetable."
+
+"It is not on the timetable." She turned her head. Her violet eyes were steady and tired. "And you did not shout when you saw the spear. You counted. I saw your lips move."
+
+I said nothing. A girl who keeps a book of names has a good eye.
+
+"You are the calmest person I know," said Lysette, "and I think that is the sad part."
+
+She walked away across the sand, holding her book, with her head very straight.
+
+I stood by the wall for a while. Then I took the folded timetable out of my pocket and turned it over. In my worst handwriting, with the pencil I keep for forms, I wrote on the back: *Calmest person. Sad part.*
+
+I did not know what to do with it, so I put it back in my pocket with the rest of the facts.

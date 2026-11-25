@@ -1,11 +1,11 @@
 # Usulan revisi: selera penamaan dan lapisan teknologi era 1800-an (menunggu persetujuan Odin)
 
-Status: USULAN. Belum ada kanon, bab, atau nama yang diubah. Perintah Odin (2026-11-25): penamaan lebih keren (contoh: Ixa untuk Lance, Ea untuk pedang Eden; "The Mantle" jelek) dan dunia tidak 100% abad pertengahan (teknologi setara tahun 1800-an dengan sentuhan mana engineering).
-Catatan jujur: "Ixa" dan "Ea" TIDAK ada di kanon sekarang. Saya anggap itu contoh selera dan usulan nama, bukan fakta cerita. Ea = pedang Eden, Ixa = Lance Eden (lance yang berubah jadi perisai-pintu dengan satu ketukan, lihat armor.md "The summoning: the Knock"). Mohon koreksi kalau yang Odin maksud berbeda.
+Status: USULAN. Belum ada kanon, bab, atau nama yang diubah. Perintah Odin (2026-11-25): penamaan lebih keren (contoh: Exa untuk Lance, Inead untuk pedang Eden; "The Mantle" jelek) dan dunia tidak 100% abad pertengahan (teknologi setara tahun 1800-an dengan sentuhan mana engineering).
+Catatan jujur: "Exa" dan "Inead" TIDAK ada di kanon sekarang. Saya anggap itu contoh selera dan usulan nama, bukan fakta cerita. Inead = pedang Eden, Exa = Lance Eden (lance yang berubah jadi perisai-pintu dengan satu ketukan, lihat armor.md "The summoning: the Knock"). Mohon koreksi kalau yang Odin maksud berbeda.
 
 ## A. Selera penamaan (aturan baru untuk semua penulis)
 
-1. Nama benda bertuah (senjata, armor, tunggangan, relik): 1-3 suku kata, terdengar kuno, bukan frasa Inggris. Contoh bagus: Ixa, Ea.
+1. Nama benda bertuah (senjata, armor, tunggangan, relik): 1-3 suku kata, terdengar kuno, bukan frasa Inggris. Contoh bagus: Exa, Inead.
 2. Dilarang: gabungan deskriptif ("Thornward Mail", "Dawnglass Raiment", "Vowsilver", "Faceless Mantle"), "The + benda", dan nama yang menjelaskan fungsinya. Fungsi dijelaskan oleh cerita, bukan oleh nama.
 3. Satu nama = satu bunyi khas. Tidak ada dua nama yang mirip (cek `canon_names.txt` sebelum memakai; kasus Isolde/Ysolde adalah contoh yang harus dihindari).
 4. Nama orang tetap mengikuti kolam budaya di `story/names.md`, tetapi nama baru yang penting tidak boleh nama biasa (hindari "John-like" generik). Pemberian nama baru berikutnya memakai aturan ini.
@@ -15,8 +15,8 @@ Catatan jujur: "Ixa" dan "Ea" TIDAK ada di kanon sekarang. Saya anggap itu conto
 
 | Sekarang | Usulan | Catatan |
 |---|---|---|
-| Lance Eden (door-shield) | **Ixa** | contoh dari Odin; bukan "Lance Nine" (asrama) |
-| (pedang Eden) | **Ea** | contoh dari Odin; perlu ditentukan kapan pedang ini muncul |
+| Lance Eden (door-shield) | **Exa** | contoh dari Odin; bukan "Lance Nine" (asrama) |
+| (pedang Eden) | **Inead** | contoh dari Odin; perlu ditentukan kapan pedang ini muncul |
 | Faceless Mantle | **Umra** | plat tentara Kaisar; dipakai Gorrath, Vesk |
 | Dawnglass Raiment | **Ilune** | |
 | Vowsilver | **Sevar** | karya Liora |
@@ -36,7 +36,7 @@ Catatan jujur: "Ixa" dan "Ea" TIDAK ada di kanon sekarang. Saya anggap itu conto
 | Wardenshell | **Thessa** | dipinjamkan ke Felix (arc 1, bab 47-50 di outline) |
 | Morrowpin (jepit rambut, relik Keeping; muncul di bab 2) | **Ynde** | sudah ada di teks bab, jadi ikut dihitung di langkah E.1 |
 
-Tidak diusulkan sekarang (butuh keputusan Odin dulu, karena Odin sudah membaca bab-bab ini): nama orang, nama negara dan tempat, nama orde berwarna (Argent Order, Crimson Rampart, dst.), nama teknik Eden (Lintel and Lamp, Latch, Hinge, Doorstep; nadanya sengaja jenaka).
+Tidak diusulkan sekarang (butuh keputusan Odin dulu, karena Odin sudah membaca bab-bab ini): nama orang, nama negara dan tempat, nama orde berwarna (Crownguard, Rampart Host, dst.), nama teknik Eden (Lintel and Lamp, Latch, Hinge, Doorstep; nadanya sengaja jenaka).
 Armor tetap "Aster" (itu nama tengah Eden dan nama ibunya; bukan nama jelek).
 
 ## C. Lapisan teknologi: "Zaman Meridian" (setara 1800-an + mana engineering)

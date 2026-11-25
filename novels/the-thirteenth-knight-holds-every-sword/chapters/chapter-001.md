@@ -2,260 +2,182 @@
 
 > "Nobody looks up at a roof. That is why the wise sleep there." - Saying of the Hallowcrest groundskeepers
 
-Professor Brandmeier checked the names twice in every Spell Grammar class. She did it once at the first bell and again forty minutes before the end.
+Professor Brandmeier counted her class twice. She called the names at the first bell, and she called them again ten minutes later.
 
-She thought students ran away at the halfway point, like geese crossing a road. She was right about the geese. Her second check gave me a plan. If I left after the first one, I had eighty minutes before anyone knew I was gone.
+She believed students ran away early, the way geese leave a pond, and she was right about the geese. What she never noticed was that anyone who answered both times was free for the rest of the hour. So I said "Here" at the bell, and I said "Here" ten minutes later, and then I walked out through the back door with my bag.
 
-Eighty minutes, minus the stairs.
+Spell Grammar lasted fifty minutes, so forty were left, and I meant to use every one.
 
-The old tower stands on top of the school hill. It has five floors of stairs and a locked door at the end. I had the key. The door opened with a small, rusty cough, and the morning wind hit my face.
+The Old Observatory stood behind the stables, at the far end of the academy grounds. No one had used its telescope in thirty years. On the gravel road beyond the wall, a delivery car coughed and honked at a cart horse, and the horse did not care. The stairs inside the tower were narrow and smelled of cold stone. The last door stuck, so I pushed it with my shoulder, and I stepped out onto the roof.
 
-The roof was flat and wide, and nobody ever came there. Someone had made a garden on it long ago and then, I always guessed, got bored. There was a small apple tree in a cracked barrel and three herb beds, tall and messy. There was also a brass telescope on an iron stand. It had no eyepiece, and it pointed at a piece of sky that stopped being interesting eighty years ago.
+It was autumn. Every tree in Hallowcrest was brown or bare. Up here the grass was thick and green, as if it had not been told. A small apple tree grew in the middle, with real red apples on it, and herbs ran along the low wall. In the corner lay a brass telescope with no eyepiece. It pointed at a piece of sky that had stopped being interesting eighty years ago.
 
-And there was grass. Real grass, thick enough to hide my whole hand.
+I had slept here for two years, and the headmistress had signed a paper for it. The paper had two words on it, *See Headmistress*, and I had never asked what they meant. That suited us both.
 
-It was the last week of the ninth month. Down in the court, the maple leaves had gone dark red-brown, and two men with rakes were pushing them into wet piles. Up here the grass was green like summer, and the apple tree still had every leaf. I had seen this a month ago. I put it in the box in my head where I keep things that are none of my business.
-
-Seventy-six minutes.
-
-I lay down in the shade between the second herb bed and the wall, with my gloved hands on my stomach. I was asleep before I finished deciding to sleep.
-
-The dream always starts with the smell.
-
-Wet ash, the smell a town has after a fire and then rain. Then the field comes, and it goes on to every edge of the world. It is full of banners, black cloth on black poles with no sign on any of them, thousands and thousands. Under each one, men stand in rows and wait for an order. I stopped counting the years ago.
-
-Nobody breathes, and that is where it goes wrong. I look at the soldier next to me. His chest does not move and his eyes do not blink. Then I understand that mine do not move either.
-
-I try to breathe.
-
-The air comes in thick and stops behind my teeth. It is ash, fine like flour, and each breath pulls more of it down my throat. The banners snap in a wind I cannot feel. The whole field turns its head toward me at the same time, because they are waiting for me to say a word. I don't know what the word is. I can't say it anyway. My mouth is full, and my throat is full, and there is nothing in my chest but gray, and gray, and
-
-Something cried.
-
-It was thin and wet and angry. It went through the field like a needle through cloth, and every banner went still.
-
-Air.
-
-I woke up with air already in my lungs, and that was the first wrong thing. Most days I woke up grabbing at the grass, with the taste in my mouth for an hour. Nobody else could smell it, so I kept a peppermint in my left glove. This time I only felt cool grass on my cheek and smelled crushed thyme.
-
-The second wrong thing was sitting one big step away from me.
-
-A girl sat against the telescope stand with her knees up and her face in her arm. She wore a red band on her left sleeve, two fingers below the shoulder seam. The student rules say to wear it there, and nobody does. Her dark-gold hair was pinned so tight it looked like a punishment. A tin watering can stood by her shoe, still dripping on the stones.
-
-She cried like a person who had given herself five minutes and not one more, in hard, fast bursts. Between them she talked into her sleeve.
-
-"Stupid. Stupid, stupid, *stupid*."
-
-I knew her. Everyone in my year knew her, the way a village knows where the wasp nest is.
-
-Lysette Hollen was fourth on the Ladder, the list that ranks every student by skill. She was also vice-chair of the Committee, the students who check the rules. In her second year she wrote a report on a boy for whistling "on purpose."
-
-She had not seen me, which was normal. I keep my mana small and flat and still, and I have done it so long that I don't think about it. People pass me in the halls and say sorry to the wall afterward.
-
-So I counted my choices, because that is what I do.
-
-One, lie still. She would finish, water her plants and leave, and never know I had watched her cry. That was probably the kind choice.
-
-Two, sit up and cough. She would be so ashamed that she would make me pay, with something small and official that lasted all year.
-
-There was no three, unless I counted jumping off the roof into the bushes. I lay still. I am good at that.
-
-"Stupid," she said again, softer. "Stupid, stupid girl."
-
-Then she lifted her head and wiped her nose on her red band. She saw what she had done, and her mouth went crooked. She started to cry again, harder, looking at the band as if it had turned against her.
-
-My hand pulled the handkerchief out of my pocket before I decided anything, which is not how I do things. It was old linen, washed thin as paper, with a small silver feather sewn crooked in one corner. My mother made it while she argued with someone across the kitchen. I had never lent it to anyone and never used it. I only carried it.
-
-I held it out across the grass.
-
-For a second she did not see it. Then she did, and she went from sitting to a crouch in one move. A garden trowel appeared in her fist, point down along her arm. Her eyes were red and her face was blotchy, and she looked ready to kill me.
-
-"How long," she said, "have you been *there*?"
-
-"Since a bit after the first check."
-
-"That's an hour."
-
-"Fifty-two minutes. I slept for most of it."
-
-"Most."
-
-"I was awake for the last four."
-
-She stared at me, and I stayed on my back and held up the handkerchief like a tiny white flag.
-
-"Put that away."
-
-"You have some on your armband."
-
-Her eyes dropped to her sleeve and her jaw twitched. She took the handkerchief by one corner, with two fingers, as if it were proof of a crime. Then she turned her back to me and used it.
-
-I sat up slowly, so the trowel would stay where it was.
+I put my bag under the tree and lay down on it. The grass was warm, which made no sense in autumn. I noted it and did not ask, because a good bed is a good bed. The big bell in the main tower rang once, and I closed my eyes.
 
 * * *
 
-It took her a while. I looked at the apple tree so she could have some privacy, and I counted the leaves on the nearest branch. Eleven.
+The dream came fast. It always did.
 
-When she turned around, her face was mostly her own again. She had folded the handkerchief into a neat square. She held it in both hands, like a paper she had to give to a teacher.
+Grey ash lay up to my knees. Above me hung a thousand black banners, torn at the edges. They did not move, because there was no wind. There was no air. I tried to breathe and nothing came. My chest pulled, again and again, like a hand on a locked door. My mouth tasted of iron and burnt paper. My hands were grey to the wrist.
 
-"This roof is closed to students," she said.
+Far away, people shouted. A man gave an order, a second man answered, and a third. They sounded calm, and that was the worst part, because no one was afraid and a great many people were dying.
 
-"Then we are both in trouble."
+I knew this place, though I could not say how, and I knew that if I stayed I would stay forever.
 
-"I'm here for Committee work."
+My knees hit the ash. I could not even cough.
 
-I looked at the watering can.
+Then I heard a girl crying.
 
-"Don't look at that," she said.
+The sound was small and came from high above the banners, as if someone had opened a window in the wall of the world. She was crying and trying hard not to. I counted four short sobs at even gaps, and then a breath in.
 
-"I'm looking at the thyme."
+The ash slid away. The banners went thin. A real breath came, and it hurt in a good way.
 
-"The thyme is none of your business."
-
-"Is the thyme breaking a rule?"
-
-Her ears went red. I had not thought she had any red left. So she was the gardener. She had only the early morning and a few stolen hours for it, and she never had the heart to cut the messy plants back. There was dirt under her nails, and two nails were broken short.
-
-"Here is what happens," she said. "You saw nothing. I did not see you. You go down those stairs and never come back, and I don't report you for being in a closed building. That is kind of me. You should know it is kind."
-
-I did have a permit. It was in my desk, signed by the headmistress, and it said *medical reasons.*
-
-If I showed it to Lysette Hollen, she would ask what was medical about a roof. Then she would ask why the headmistress signed for a boy with a boring record. Because she was who she was, she would find out.
-
-"I can do the first two," I said.
-
-"And the third?"
-
-"I sleep here."
-
-"You can sleep in your room like a normal person."
-
-"I tried. It's loud."
-
-"It's a *stone tower*."
-
-"The stone is loud."
-
-She opened her mouth and shut it again. I think she could not tell if I was making fun of her. I was not. A boy on the floor above mine played the same wooden flute every night. It had eleven notes, and he played the ninth one wrong every time.
-
-"Fine," she said. "Do the first two. And if one word of this gets out, I will know it was you, because you are the only one who—" She stopped. "Before you start making up reasons."
-
-"I wasn't going to."
-
-"Everyone makes up reasons. It's what people *do*." She looked at the folded cloth instead of me, and her thumb found the feather and stayed there. "Rowan Tallis asked Clara Belmont to the Lantern Ball. At lunch, in the middle of the big hall, in front of the whole year. That's the whole reason. So you don't have to invent one."
-
-"Do you know him?" she asked. "Rowan?"
-
-"From far away, like most people."
-
-"Then you know he's happy before breakfast. It should be against the law."
-
-"He says hello to the groundskeepers by name."
-
-"He does it standing up. He eats standing up too." She almost smiled, and then she remembered not to.
-
-"He made her a lantern," Lysette said. "Out of paper, by himself. He's terrible at folding. He's terrible at anything with his hands unless it's a sword. It was all crooked, and everyone said *aww*, like it was a puppy."
-
-Her voice cracked, and she stopped and waited for it to pass.
-
-"Then he came to me after," she said. "And asked if I was going. With anyone. Because he's *nice*, he's nice to everybody, he has no idea. He never had any idea. And the stupid part is, I don't even—"
-
-She did not finish that one at all.
-
-I could have said that he was an idiot and there would be other balls. None of it would help her.
-
-"Did it light?" I said.
-
-She blinked. "What?"
-
-"The lantern. Did he make it light up?"
-
-She paused.
-
-"No," she said. "It caught fire. A little. On one side." Her mouth twitched. "Clara put it out with her tea."
-
-Then she laughed, just once, short and wet through her nose. She looked shocked at herself. She pressed the back of her wrist to her mouth, as if she could push the laugh back in.
-
-I did not laugh. I don't, really. But something in my chest that I had held flat for a long time moved a little.
-
-"Don't tell anyone that part," she said.
-
-"Which part?"
-
-"Any of it. The tea. Especially the tea."
-
-She looked down at the handkerchief again, maybe for the first time, and ran her fingers along the edge.
-
-"This is good linen."
-
-"It was my mother's."
-
-She went still, and I watched her think about it. *Was.*
-
-"Then why would you give it to some girl who was—" She waved her hand in a quick, angry circle at her own face.
-
-"You were using your armband."
-
-Her chin went up, and for a second I thought she would throw it at me. Instead she folded it smaller, with sharp corners, put it in her jacket pocket and buttoned the flap.
-
-"I'll wash it," she said. "And give it back."
-
-"It's fine. It's clean."
-
-"It is *not* clean. Not now." She picked up the watering can and found it empty, then put it down again, very proud. "I'll wash it."
-
-She walked to the door and turned halfway through it.
-
-"Not a word."
-
-"About the thyme?"
-
-She gave me the look she keeps for duelists who forget to bow. Then the door shut, and her steps went down the first stairs fast, slowed on the second set, and faded.
+I woke up.
 
 * * *
 
-Downstairs, Brandmeier would be reading my name into a quiet room about now.
+The sky was pale blue and the apple leaves moved above me. My shirt was wet and my hands were shaking, so I pressed them flat on the grass until they stopped.
 
-I lay down again in the shade. Far below, a groundskeeper was shouting at a wheelbarrow. I closed my eyes and waited for the field. It did not come, and I could not sleep either, which annoyed me. I put my hand on my breast pocket. It was empty, and a minute later I checked again anyway.
+The crying had not stopped. It was a metre away.
 
-So she watered the beds. That explained the thyme and the sage, and why the mint had not taken over the wall. It did not explain the grass, because nobody waters grass until it looks like summer in the ninth month. It did not explain the apple tree either. I looked up from underneath and saw one white flower on the highest twig, small, silly, and out of season.
+I turned my head very slowly.
 
-I was still staring at it when the stair door banged open.
+A girl sat on the low wall by the herb bed with her back to me. Her hair was white, a clean platinum white, and it hung loose down her back. One thin braid lay across the top of her head, from her left temple to the nape, like a crown that someone had made in a hurry. A strand had fallen over her forehead. She wore a dark academy coat with a white collar and, on the lapel, a small gold pin. It was the pin of the Discipline Committee. She held both hands over her mouth, and her shoulders shook.
 
-She was breathing hard, because she had gone down four floors and back up. She held a thin black book with the Committee's bell stamped on the cover in red, and she had a pencil.
+I knew her. Everyone in Year 5 did. Lysette Hollen, vice-chair of the Committee, wrote down late students and loud students. Once she had written down a boy for walking too slowly on the stairs.
 
-"I didn't get your name," she said.
+She did not know I was there, because a rosemary bush hid me, and she had come here to cry where no one could see.
 
-"No."
+The sensible thing was to stay quiet. I had a rule: never be noticed, least of all by someone who keeps a book of names. But she had pulled me out of that dream, and I did not know how. I do not understand people who cry. I do understand debts.
 
-"That wasn't a question."
+So I sat up. My bag slid off the grass with a soft noise.
 
-I thought about lying. She would find out by supper. I was starting to see she was a person who found things out by supper.
+She froze.
+
+"Here," I said, and held out my handkerchief.
+
+She turned so fast that the loose strand whipped across her face. Her eyes were red, and they were a deep blue that was almost violet. Under the left one, the skin was dark with lack of sleep. In her left ear hung a small gold hoop. She looked at the handkerchief, then at me, then at the handkerchief again.
+
+"Who are you?" she said. "How long have you been there?"
+
+"Thirty-one minutes. I think. I was asleep."
+
+"You were asleep." She said it slowly. "Here. On the Observatory roof."
+
+"It's a good roof."
+
+"This is a private garden." She stood and wiped her eyes with the back of her hand, which only made her angrier. "I water these herbs every morning before class. No one else comes up here. No one."
+
+"Who waters the apple tree?"
+
+"No one does. It grows by itself, and I don't know why." She frowned at the tree as if it were a student who had broken a rule. "I come here to be alone."
+
+"So do I. Apparently you do too."
+
+She stared at me. A muscle moved in her jaw. I could tell she wanted to shout and could not decide what to shout about first.
+
+The handkerchief was old and soft. In one corner, a tiny silver feather was sewn into the cloth. My mother had done that. For eight years it had lived in my pocket and never touched anyone else's face.
+
+I did not stop to ask why I was giving it away.
+
+She took it without thanks. She pressed it to her eyes, then to her nose, and then she held it in her fist as if she had won it in a fight.
+
+"Don't look at me," she said.
+
+"I'm looking at the apple tree."
+
+"That is still looking at me."
+
+"The tree is on your left."
+
+"Then look at it properly."
+
+I looked at the tree properly. Behind me she took a long, shaky breath and let it out.
+
+* * *
+
+"It's Rowan," she said, after a while.
+
+She had not asked me anything, so I did not answer.
+
+"You know him. Everyone knows him." She sat down on the wall again, stiff as a guest in a stranger's house. "Today he asked a girl to the Lantern Ball. In the dining hall, in front of everyone."
+
+"Did she say yes?"
+
+"Of course she said yes! It's Rowan! He asked so nicely that half the room clapped." Her voice broke on the last word. She breathed and made it flat. "Her name is Clara. She's from the second floor, and she's kind. That's the problem. She's honestly, truly kind."
+
+"That sounds hard."
+
+"It's not hard. It's nothing. I never planned to ask him." She wiped her face again, and I watched her choose to become someone else. "I have a duty to the Committee. I have no time for dances."
+
+"Then why are you crying?"
+
+"I am not crying."
+
+"You are holding my handkerchief against your face."
+
+"That is a different thing." She pulled it away and looked at it as if it had said something rude. Then she saw the feather. Her thumb moved over it once. "This is good cloth."
+
+"It's old."
+
+"I will wash it."
+
+"You don't have to."
+
+"I will wash it," she said, and her voice left no room. "You do not give back a borrowed thing dirty."
+
+"Fine."
+
+"Fine."
+
+We sat there while the wind moved the leaves. Far below a bell rang, a hundred students pushed back their chairs, and the whole academy began to hum, but I did not move, because the grass was warm and the dream was still close behind me.
+
+Then I noticed my hands. They were steady, and my chest felt loose. For two years that dream had left me tired until noon. Today I felt almost rested. I filed it with the warm grass, in the place where I keep things that are none of my business.
+
+Lysette folded the handkerchief into a small square, and then into a smaller one, because her fingers needed a job.
+
+* * *
+
+She stood up first. She smoothed her coat and straightened the gold pin, and she tucked the loose strand behind her ear. When she turned, the girl who cried was gone. The vice-chair had come back, and she looked at me as if I were a spelling mistake.
+
+"Your name," she said.
+
+I thought about lying. It took one second. She wore the pin, she had a good memory, and lies are hard work.
 
 "Eden Wren."
 
-The pencil stopped in the air. "Wren," she said. "*Eighth* on the Ladder Wren?"
+She took a small black book from her pocket. It had a ribbon marker and a pencil in the spine. She turned the pages with one finger and stopped.
 
-"Most terms."
+"Wren, Eden. Year 5." She read it flat, like a bill. "Sixty-one absences this term."
 
-"I have never seen you in my life."
+"The term started three weeks ago."
 
-"You sit two rows in front of me in strategy class."
+"I know. It is a record." She wrote something. "Sixty-one, and one more today."
 
-"I do not."
+"I could say I'm early for the next class."
 
-"Third seat from the window. You underline things with a ruler."
+"You are on a roof."
 
-Her face changed a few times. She opened the book and ran her finger down a list until it stopped, and she read one line twice.
+"It's a high classroom."
 
-When she looked up, the crying girl was gone, and the person in her place had a pencil.
+She did not smile, and she did not even blink.
 
-"Eden Wren," she said. "Sixty-one absences. Tomorrow, you come to class."
+"You have a medical paper," she said. "I have read it. It has two words on it: *See Headmistress*. That is not a reason. That is a signature."
 
-"I have a permit."
+"It's a good signature."
 
-"For a roof?"
+"Tomorrow," said Lysette Hollen, "you will attend every class. I will check each morning and each afternoon."
 
-"For rest."
+"That's a lot of checking."
 
-"Then rest in a chair, like the rest of us." She shut the book. "I will make sure of it myself."
+"I will do it personally."
+
+She put the book away and walked to the door. The handkerchief was in her left hand, folded small, and she carried it the way you carry a full cup. She did not turn around. She pushed the sticking door with her shoulder, exactly as I did, and went down the stairs.
+
+I lay back in the grass. The apple leaves moved above me in a wind I could not feel.
+
+The door opened again.
+
+"Sixty-two," said her voice, and the door shut.

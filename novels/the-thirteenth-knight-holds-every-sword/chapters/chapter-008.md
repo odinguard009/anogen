@@ -1,187 +1,211 @@
 # Chapter 8: What the Moon Allows
 
-The moon would leave the workshop window in thirty-four minutes.
+Twenty-six minutes. That was how long the moon would stay in the air shaft.
 
-I had timed it the night before. I lay on my back on a bench in the cloister with my watch on my chest, and I watched a bright square creep across the stones toward the wall. The light came down a shaft that was cut for air, passed through an iron grate, and fell into the west workshops under the hill. It would last thirty-four more minutes, and then it would be gone.
+It came down through a round iron grate high in the ceiling and made a silver circle on the floor of the west workshop, about as wide as a dinner table. Every minute the circle slid a little to the left. When it reached the wall, the room would be black, and I would have to leave. There were no lamps in this part of the Undercroft. Somebody had taken them all down years ago, and nobody had ever put them back.
 
-After that, the workshops would be black. I do not mean dark. I mean black, where you hold up your hand and have to believe it is there. In black there are no edges, and without edges I cannot open a door. I learned that once in a dye-seller's cellar, and I did not want to learn it twice.
+It was past midnight. The academy was asleep above me. I stood at the edge of the moonlight in my plain school coat, with one hand on a long workbench, and tried to remember how to breathe quietly.
 
-"Thirty-three," said Vesk. His voice came from the shadow under my elbow.
+"You could light a candle," said Vesk, from my shadow.
 
-"I know."
+"No."
 
-"I'm just saying it out loud. Some of us like to feel the moment."
+"One little candle."
 
-* * *
+"Whoever left the dust might come back, and a candle is a signpost."
 
-The west workshops were where the school kept its stone helpers between drills. We called them wardens. The room was long and low, with workbenches down the middle and racks along both walls. In the racks stood twenty-two wardens in neat rows, with bronze bands on their arms, stone bodies, and heads shaped like anvils. Each one bent its head down. In the moonlight they looked like monks that someone had told to wait, and they had waited a very long time.
+"Spoken like a man who has never been warm," said Vesk. He slid out of the dark by my knee, small and grey in his cloak, with his two yellow eyes shining like lamp flames. "I'm only saying. I have *seen* candles."
 
-Every rack had a slot, and every slot had a small brass plate above it. Someone had cut a name into each plate, not a number. *Margery. The Bishop. Old Biscuit. Hedwig. Uncle.* One slot was empty. It had held the warden that went after Lysette, and its plate said *Tortoise*.
+"Vesk."
 
-"He named them," said Gorrath.
+"Yes, yes. Searching. Quietly. Going."
 
-He came out of the long shadow under the benches, the only shadow big enough to hold him. He was nine feet tall and covered in black plate, and he walked with care so he would not knock anything over. He held his tower shield against his chest like a waiter holding a tray of glasses. He bent down to read the plates, one by one.
+He went. I could hear a light scratching along the wall, the sound of a cat that has decided to work.
 
-"Tortoise," he said again, and he sounded sad. "That's a good name for a slow one."
+"Anything?" I whispered.
 
-"Then someone made it fast," said Vesk. He was still mostly in my shadow, so all I could see were two eyes the color of lamps. "That's rude to the tortoise. Thirty-one."
+"Dust," said Vesk. "Grey dust, by the press. A little, not much. Somebody was careless."
 
-Mirelle did not come out. She never did until she had a reason, but I could feel her somewhere in the dark under the grate, like a held breath with a blade in it. She is tall, in a grey mask, and she strikes only through a door I open.
+"Or somebody was in a hurry."
 
-"She waits on you," Vesk whispered. "Rude, honestly."
+"Or somebody likes to be followed. I never trust a clean trail." He sniffed. "Smells like old chalk."
 
-"Tell the plan again," Vesk said.
+This was where the drill-wardens had been made. I could see that at once. Rows of grey stone arms and legs lay on shelves, each one marked with a number in white paint. A big iron press stood by the wall, the kind that squeezes glass into round cores. On the bench in front of me were tools in neat lines, a ruler, three small hammers, and a brass plate with a name cut into it.
 
-"The daybook," I said, and I kept my voice low. "The real one. The green book Okoru showed me was copied from it. I want the sixth month, with Daubert's name where he first wrote it and not where someone copied it. Then we leave before the moon does."
+*Master J. Vane.*
 
-"And if someone sees us?"
+I picked up the plate. It was cold and a little dusty, and under it was a drawer with a leather case in it, and in the case lay a stamp.
 
-"No one sees us."
+It was a small block of wood with a brass face. I pressed it against my thumb, and the brass left a mark in the ink that was already there, a neat, tiny signature, the same one that Lysette had shown me in the file.
 
-That was the one rule Ysolde Lisle had given me in five years, in plain words. *Never be seen by staff at night.* Students did not matter, because students see things at night all the time and no one believes them. Staff write things down.
+*Josselin Vane.*
 
-"Twenty-nine," said Vesk. "The daybook is on the foreman's desk at the far end, under a cup. Someone left tea in the cup. Someone took three sugars."
+I looked at the ink on my thumb. It was wet.
 
-I walked down the middle of the room between the benches. The square of moonlight lay halfway down the floor, and the bars of the grate cut it into small squares, like fifty bright boxes with black lines between them. I was three steps past the lines when Margery lifted her head.
+It was not very wet, only a little damp, as if it had been used within the day.
 
-* * *
-
-The sound came first. It was like sand running down a pipe, the same dry sound I had heard when Tortoise broke, but this time it ran the other way. It was filling, not emptying. The warden in the third slot on the left stood up straight, and bronze scraped on stone as it stepped off its rack.
-
-Then the one next to it moved. *Uncle.* That made two wardens, both between me and the grate.
-
-"Oh, that's *not* fair," said Vesk.
-
-They moved the way Tortoise had moved, fast and wrong, bent low. They carried no blades, only long stone arms, and they did not go for the door. They went to the middle of the room, into the moonlight, and stood on both sides of the bright squares. Their bodies covered half of the light at once.
-
-That was clever, or someone clever had made them that way. A door needs an edge, and an edge is the line where light meets dark. Every bright square they covered was an edge I did not have.
-
-"Gorrath, take the left one," I said. "Hold it. Don't break it. Mirelle, the crystal in the right one, when I open. Vesk."
-
-"Yes, yes. I know my job."
-
-He was already gone from my shadow. He slid into the shadow of a bench, then into the black behind Uncle's heels, and hit the bronze band on its ankle twice with the handle of a knife. It sounded sharp, like a man knocking to ask for money.
-
-Stone helpers are not smart. Uncle spun toward the sound and swung one arm hard enough to break a man's back. It hit only air, and the weight of the arm pulled Uncle halfway around.
-
-Gorrath had gone left. He did not run, because Gorrath never runs. He just arrives. Margery came at him with both arms, and he set the bottom of his shield on the stones and let her hit it. The crash rolled down the room and came back like a bell that fell down a well. The shield did not move an inch.
-
-"Please stop that," he told her politely.
-
-"She can't hear you," Vesk called from the dark.
-
-"It's only good manners."
-
-Uncle was still turning. It hunted the knocking, but the knocking had moved to its other heel. For one second it stood with its back to the grate and its chest to me, covering the left half of the moonlight. The right half lay open on the floor beside it. I could see the small bright squares, each as big as a hand, and the black bars between them. Each bar was an inch wide.
-
-I had never opened a door that small. Until now I had never had a reason.
-
-I knelt and put two fingers on the nearest black bar.
-
-"Too small," said Vesk. "You can't open a door that small."
-
-"Watch me," I said. I knocked.
-
-The door that opened was the size of a book, a little black panel in the floor with a hinge as small as a fingernail. From far below, and yet very close, **[Sile]** a long thin blade came up through it and went straight into Uncle's chest from underneath. It hit the crystal and made no sound. That was Mirelle. Most blades are noisy when they go through stone, but hers do not think they need to be.
-
-The blade slid back down and the little door shut. Uncle stood still for a moment. Then it bent at the knees, slowly, and knelt in the moonlight with its head down, back in the pose it had kept for years.
-
-Margery hit Gorrath's shield once more and stopped. She looked unsure, like someone who had been given the wrong address.
-
-"May I?" said Gorrath.
-
-"Hold her. Don't dent her."
-
-"I would never."
-
-He leaned the shield in and pushed her gently against her own rack while she ground against it. I slipped around behind her and opened a second tiny door in the moonlight by her heel. Mirelle did it again.
+"Eden," said Vesk. His voice had changed. It was soft now, and flat. "Someone is on the stairs."
 
 * * *
 
-"Twenty-two," said Vesk. "Well done. No one died. No one even yelled."
+I put the stamp in my pocket and stepped back into the dark, where the moon did not reach, and I did not move.
 
-"Mirelle?" I whispered.
+Three people can be quiet in a room. It is a skill. I had practised it for years, and so had they. A hand touched the shadow at my feet, and my three oldest knights stepped out of it one by one.
 
-Something tapped twice under the floor. She was fine. She was probably dusty.
+Vesk came first, as he always did, small and grey and silent, and he went straight to the wall and became part of it.
 
-I held a match in my glove and looked inside the two kneeling wardens. Each chest was hollow and full of gray dust, packed down tight and neat. Gorrath lifted Margery back into her slot, holding her by the hips like a piece of furniture, and straightened her head. He did the same for Uncle.
+Then came Gorrath. He was nine feet tall, and he had to bend his head under the roof beams. He wore black plate, matte and smooth, like mine, and he carried a tower shield as big as a barn door, with a dent in one corner from a battle I had never asked about. He did not make a sound. When he set the shield's edge against the floor, it touched the stone like a hand on a sleeping child.
 
-"There," he said. "Good as new. Nearly."
+"Boy," he said, in a voice as soft as a grandmother's. "Do you want the other door?"
 
-"Gorrath. They will know someone was here."
+"The passage door, behind us. Please. Hold it, but do not break anything."
 
-"I'll tell them it wasn't us."
+"I never break anything," said Gorrath, hurt. "Only things that get in the way."
 
-"You can't lie."
+"Oh, I will hold it." He seemed pleased. "I am good at holding."
 
-"I can," he said, hurt. "I'm just not good at it."
+He moved without sound toward the door at the end of the room, and stood in front of it, and became a wall.
 
-"No one will believe two broken wardens walked home alone anyway," I said.
+The last one did not speak. She came out of the shadow behind me, tall and thin, in plate that fitted her like a coat, with a long grey mask across her face, smooth and white and plain, with no eyes cut in it at all. At her hip hung a sword so narrow and long that it looked more like a knitting needle for a giant. This was Mirelle. I had never heard her say more than ten words in a day.
 
-"Then why worry?" said Vesk.
+I held up two fingers, and then one. *Two doors. One blade.*
 
-"I don't. Gorrath does."
+She nodded once.
 
-"I do," said Gorrath.
-
-The daybook was under the cup, where Vesk had said, a fat book in a canvas cover stained with rings from cups. I turned it in the moonlight to the sixth month, the eleventh day. *Core, one, charged, for refit, Tortoise.* And there was the name, in brown ink, upright, with the long tail under the date. *C. Daubert.*
-
-"Look at the tail," I said.
-
-"It looks fine to me," said Vesk.
-
-"That's the problem." I turned back a few pages. "Before the fourth month, Daubert was alive. His tail shook where the pen lifted, an old man's hook with a shake in it. The sixth-month name is clean all the way down."
-
-"So someone learned to copy him."
-
-"Someone practiced."
-
-I found the proof under the daybook. A sheet of old, dirty blotting paper lay on the desk, used for months. I tilted it toward the grate. A name was written on it again and again, backward, one on top of another, thirty or forty times, and each one was a little steadier than the one before. Someone had sat here in a dead man's place and taught their hand to stop shaking the way his hand had.
-
-"Fourteen minutes," said Vesk. Then he spoke in a different voice. "Someone is in the drawing room."
+On the stairs, a lamp began to glow.
 
 * * *
 
-The drawing room was at the end of the workshop, up three steps, where the foremen used to lay out their plans. It had its own air shaft and its own grate, and the moon was in that one too.
+A man came into the workshop. I could not see his face. He wore a long dark coat with the collar turned up and a hat pulled low, and he carried a small oil lamp in one hand and a cloth bag in the other. He stopped in the doorway. His head turned slowly. He had heard something, or felt it.
 
-I sent my three friends back into my shadow, and Gorrath went last and slowest.
+Then he came forward, quickly, to the iron press by the wall.
 
-"Eden," he whispered. "Is that a bad man?"
+He set down his lamp. He opened the bag. Out of it, with a careful hand, he took a round glass core, the kind that lives inside a drill-warden's chest, and a small tin. He pried the lid off the tin. Inside lay a pile of fine grey dust.
 
-"I don't know yet."
+I saw it clearly in the yellow light. I knew it at once. I noted that my mouth had gone dry.
 
-"He hums nicely."
+He was about to pack a second core.
 
-"That's what bothers me. Stay quiet."
+I did not think, but stepped back one pace, deep into the shadow, and raised my right hand and knocked once on the air beside his head.
 
-"I am always quiet," he whispered, which was not true.
+A small black rectangle opened in the dark, no bigger than a book. It hung in the air, level with his ear.
 
-I walked up the three steps like a boy who came down to the workshops at night for a stupid reason. That was the best story I had, and the only one that would still work if someone looked at it closely.
+"Now," I said, very quietly.
 
-A man sat at the drafting table with a pile of papers and a red pencil. He had no lamp. Moonlight came down the shaft and fell on the table in a square, and he had put the papers inside the square and sat just outside it, in the dark. His hands were lit, and his face was not.
+A long thin blade came out of it.
 
-He was humming.
+It came without sound, straight and fast, from a door that was only a hand's width wide and a whole room away. It passed through the dark and the lamplight and went through the sleeve of his long coat and into the wooden post behind him, a finger's width from his arm. I had asked for exactly that. A man who is dead cannot say who sent him.
 
-I knew the tune before I knew that I knew it. Four notes went up, and the fifth did not come. It hung there. Then the four notes came again, lower. That was all of it, with no words. My mother said it did not need words, because words would only get in the way of the part where you fall asleep. She made it up on the night I was born, she said, sitting in a window, and it was the only thing she ever made that was no use to anyone.
+**[Sile]**
 
-I stopped on the top step with my hand on the rail, and my hand stayed there.
+The blade hung quivering in the post. The man stood pinned by his own sleeve, with his back pressed against the wood, and his hat tilted and fell.
 
-I do not freeze. I had not frozen since I was ten years old. I had stood in front of men with knives and counted their breaths. I had stood on a roof with a crying girl and known what to do with my hands. Now I stood on the top step and could not make my hand leave the rail.
+Mirelle stood at the far end of the room, hand outstretched, as still as a statue. She had not stepped into the light. Her sword reached the whole length of the workshop through a door I had opened, and then it drew back as silently as it had come.
 
-The humming stopped. The man looked up and leaned into the square of moonlight. It was Strent, the vice-headmaster, with gray hair and half-moon glasses and a cardigan buttoned wrong. It was a face that everyone on the plateau liked at first sight. I had liked it too, until four seconds ago.
+That was her way. She could strike only through a door I made. When I opened one, she did not miss.
 
-"Oh dear," he said. "Oh, I'm so sorry. Did I scare you? I come down here to grade papers, you see. Lamps give me terrible headaches. Clement never minded. This was his room." He set the red pencil down next to the papers, very neatly. "It's an old habit. I suppose I should stop."
+"Don't move," I said, from the dark.
 
-"Sir," I said. It came out calm. I want that noted.
+The man did not move, and he did not breathe either, but his face stayed in shadow while the lamp lay on its side, smoking, and threw a wild yellow light up the wall.
 
-"It's late for you to be down here."
+"Who sent you?"
 
-"I couldn't sleep."
+He said nothing.
 
-"No," he said kindly. "No, I don't suppose you could." He looked at me over his glasses with his hands folded on someone's essay, and he took his time. "Wren, isn't it? Year Five. Thornmere name."
+"Who gave you the tin?"
 
-The moon was sliding off the edge of the table. I could see it go, a quarter of an inch at a time.
+Nothing.
 
-"Your mother must have sung that to you too," said Strent.
+"You signed a dead man's name on a requisition. Did you sign it twice?"
 
-I had never told anyone that she sang.
+Nothing.
+
+"This is the last time I ask politely."
+
+The man did something I did not expect. He laughed, a short, soft, tired laugh. Then he ripped his arm out of the sleeve, left it hanging on the blade, and threw the lamp.
+
+It hit the floor and burst. Oil ran across the stone in a bright line. The whole room went orange and red, and every shadow in it leapt, and Vesk hissed, and Gorrath took one step forward with the shield. The man ran for the other door, a small iron hatch in the wall behind the press, and I heard him go up a ladder, fast, in the dark.
+
+I stayed where I was, because a fire was running toward the shelves, and a shelf is made of wood.
+
+"Boy," said Gorrath. "Fire."
+
+"I see it."
+
+"Shall I do something?"
+
+"Yes. Please."
+
+"Stand on it."
+
+He stood on it. He put one great boot down onto the burning oil and set the edge of the tower shield across the flames, and the fire went out under it like a candle under a bucket. He lifted his foot, and black smoke hung in the air. The workshop smelled of burned stone, and my eyes stung.
+
+"Was that good?" said Gorrath.
+
+"That was very good."
+
+"Oh," he said. "I do like to be useful."
+
+"Mirelle," I said. "Your throw. Did you touch him?"
+
+She shook her head once. Then she held up one finger and tapped her own sleeve.
+
+"Only the cloth," I said. "Good. That was the plan."
+
+"Then he wanted to be pinned," said Vesk, from the wall. "Or he did not care. I do not like either."
+
+"Check the press. Quickly. The moon is nearly gone."
+
+* * *
+
+I climbed the ladder after him, alone, because the others could not leave the dark.
+
+It led up through a narrow shaft to a small classroom on the ground floor, an old one, with a high window and a long table. The moon had slid across the sky and now lay on the floor in a long silver bar, and the room was very quiet. No one was running. No one was there.
+
+Except one man.
+
+He sat at the far end of the long table, in the moonlight, with a pile of papers in front of him and a pen in his hand. He had a round, kind face, a short grey beard, and half-moon glasses sitting low on his nose. A brown cloak hung on the back of his chair. There was no lamp on the table. He was reading a student's essay by the pale light, with his nose very close to the page.
+
+I knew him. Everybody did. Halvard Strent, the vice-headmaster. The one the students loved, who gave out sweets at the end of term, and never raised his voice, and always remembered a name.
+
+"Oh!" he said. He looked up, and his glasses caught the light. "Mister Wren! What a surprise. You startled me."
+
+"I'm sorry, sir."
+
+"No, no, no. I'm sorry, I'm always apologising." He smiled, tired and warm. "You're up very late. Is something wrong?"
+
+"I heard a noise below. A crash, maybe."
+
+"Did you? How odd. I've been here an hour. I heard nothing at all." He looked down at the paper in front of him. "Was anyone with you?"
+
+"No, sir."
+
+"Then you were dreaming, I think. It happens to the best of us. Is the dust bothering you? You are sneezing."
+
+"A little, sir."
+
+"Old chalk, I expect. Go on, now." "You'll forgive the dark. I can't bear a lamp. They give me terrible headaches. So I wait for the moon, and when it goes, I give up and go to bed. It's a poor system."
+
+I stood in the doorway. My heart was beating hard, and I kept my eyes off the ladder behind me, or at the oil on my boots.
+
+"Yes, sir. I'll go. But sir, who else works late down here?"
+
+"Down here? Only the cleaners, and they hate me." He chuckled. "I had a quiet word with them last spring, about the lamps. They think I'm mad."
+
+"Yes, sir. Goodnight."
+
+"Good. Go to bed, my boy," said Strent kindly. "You look pale. Do you eat enough? Boys never eat enough at your age. Take a sweet from the drawer on your way out."
+
+"Thank you, sir."
+
+He turned back to his papers. He picked up the pen. And as he read, in the moonlight, with no one to hear but a boy in a doorway, he began to hum.
+
+It was a small tune, low and soft, in three notes that turned back on themselves, and it rose and fell and came back again like a cradle swinging.
+
+I knew it, and I knew every note. I had last heard it at the age of ten, in a bed I could no longer remember, in a voice I would have given anything to hear again. It was my mother's song. She had sung it at night, always the same song, always when she thought I was asleep.
+
+I did not move. I could not. My hand was on the door frame, and I could feel the wood, and I could not feel my own fingers.
+
+Strent stopped humming. He looked up at me with his round, kind eyes.
+
+"Wren," he said gently. "A Thornmere name, isn't it? Yes. Your mother must have sung that to you, too."

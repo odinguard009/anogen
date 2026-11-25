@@ -1,10 +1,10 @@
 # Hushborn by size, and the titan wars (reference)
 
 ## Size classes (Concord field terms)
-1. **Veil class** (human size): Veils, Stalkers. Fought by: detection (Ea, middle-name oaths), Black Order, Golden Seal.
+1. **Veil class** (human size): Veils, Stalkers. Fought by: detection (Inead, middle-name oaths), Thirteenth Vigil, Justiciar Seal.
 2. **Husk class** (dog to horse): Husks, small Choirs. Fought by: shield lines, crossbows, Ward-plate squads of five (Lances), fire.
-3. **Ravager class** (elephant to house): armoured brutes that smash walls; large Choirs. Fought by: Crimson Rampart force walls, Umber Anvil ballistae ("veinspears"), Grey Gale lance charges at the joints.
-4. **Wallbreaker class** (castle size, 30-60 m): siege beasts and living Mawgates. Fought by: mines and counter-tunnels (Umber Anvil), Violet Lantern siege spells, concentrated veinspear batteries, orders working together.
+3. **Ravager class** (elephant to house): armoured brutes that smash walls; large Choirs. Fought by: Rampart Host force walls, Sapper Forge ballistae ("veinspears"), Galewing lance charges at the joints.
+4. **Wallbreaker class** (castle size, 30-60 m): siege beasts and living Mawgates. Fought by: mines and counter-tunnels (Sapper Forge), Wellspire siege spells, concentrated veinspear batteries, orders working together.
 5. **Colossus class** (100-200 m): walking or swimming kaiju-scale bodies that change a battle by existing; they carry Husk swarms like fleas and silence for kilometres. Fought by: coalitions, terrain (straits, mountains, deep water), god-hosts, Eden.
 6. **Titan class** (300 m and more): mountain-walkers, named, each a piece of Kaurveth's body grown independent. Nine known. Fought by: whole fronts.
 7. **Sovereign scale**: Kaurveth's body itself (finale).

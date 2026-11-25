@@ -1,5 +1,5 @@
 # Tech layer: the Meridian Age (owner order 2026-11-25)
-The world is not pure medieval. Technology is like the 1800s, with a touch of mana engineering. Add, never erase: horses, lanterns, bells and swords stay. Power rules: power-system.md.
+The world is not pure medieval. Technology is the late 1890s (owner order 2026-11-25): motor-cars, telephones, trams and veinline trains, steam presses, mana-lamps in every town street, mana engineering in daily life. Knights, swords and bells still matter. Add, never erase: horses, lanterns, bells and swords stay. Power rules: power-system.md.
 
 ## Ringkasan untuk Odin
 Dunia setara tahun 1800-an: rel kereta, telegraf, lampu, mesin cetak, senapan, meriam, kapal besi. Tetapi senjata api tidak menghapus ksatria: medan mana merusak mesiu dan pemicu, aura menepis peluru, ward menahan meriam, dan Hush hanya bisa dilawan dengan aura, mantra, dan cahaya. Mesin mana besar menarik Hush, jadi kemajuan teknologi adalah dilema moral.
@@ -8,15 +8,20 @@ Dunia setara tahun 1800-an: rel kereta, telegraf, lampu, mesin cetak, senapan, m
 - Lamps: mana-lamps (a glowing stone in glass) in rich streets and the academy; oil lanterns everywhere else. Lantern Night stays.
 - Veinlines: railways on rails of vein-steel. Engines burn coal and draw a little mana from the rails. Solmarch to Hallowcrest takes half a day.
 - Bellwire: telegraph. Copper wire tuned to ring; clerks tap codes that arrive as bell tones. Cities and forts have it; villages do not.
-- Presses: steam printing presses. Daily papers in the capital; the Golden Seal reads them all.
+- Presses: steam printing presses. Daily papers in the capital; the Justiciar Seal reads them all.
 - Steam-and-mana engines: boilers with mana-stone cores. They pump wells, drive mills and lift ore.
 - Mana-lock guns: muskets and pistols that fire by a small mana-stone spark instead of flint. Single shot, slow to reload (about twenty breaths).
 - Cannon and mortars on walls and ships.
 - Ironclads: iron-hulled ships with vein-keels (keels of vein-stone) that draw mana for wards and engines.
 - Clocks, pocket watches, cameras that take a minute to make one grey picture.
 
+- Motor-cars ("cars"): steam-and-mana engines with a small mana-stone core; they rattle and honk, top speed about a galloping horse, rich towns have them, the poor still walk. Mana fields stall them near a raised aura (a knight can stop a car by standing in the road).
+- Telephones: copper lines tuned to ring like bells; exchanges with operators and switchboards in every city, a line in rich houses and offices. Calls can be tapped by anyone at an exchange.
+- Trams: mana-driven carriages on city rails.
+- Mana-lamps: now common in all city streets and the academy; oil lanterns remain in villages and for the Lantern festivals.
+
 ## What does not exist
-No electric light, no motor cars, no flying machines (griffons fly), no repeating rifles, no radio. Machines cannot copy a Tenet, a relic or a Raiment.
+No radio, no flying machines (griffons fly), no repeating rifles, no electric power grid (mana does that work). Machines cannot copy a Tenet, a relic or a Raiment.
 
 ## Why guns and cannon do not end knights (MUST USE)
 1. Mana fields foul powder: within about ten steps of a raised aura, black powder burns slow and weak, and a mana-lock's stone fires early or dies. Near a strong ward or a well, guns misfire often.
@@ -27,13 +32,13 @@ No electric light, no motor cars, no flying machines (griffons fly), no repeatin
 6. Guns are for conscripts, who have no aura; aura is for the front. A line of muskets protects a town from bandits, not from a Choir.
 
 ## Why Embers use crossbows
-Powder is licensed: every barrel carries a Crown stamp and the Golden Seal tracks sales. Hallowcrest and the capital's big halls are under ward-nets that foul powder. Crossbows are cheap, silent, and work under any ward. (This explains ch 23 and 25 without changing a line.)
+Powder is licensed: every barrel carries a Crown stamp and the Justiciar Seal tracks sales. Hallowcrest and the capital's big halls are under ward-nets that foul powder. Crossbows are cheap, silent, and work under any ward. (This explains ch 23 and 25 without changing a line.)
 
 ## The Hush and big machines (moral conflict)
 The Hush hunts mana. Big engines, wells pumped hard and veinline hubs shine to it like a lamp in a dark field. Towns that build more machines grow rich and draw the Hush faster. Every nation must choose between growth and safety, and the poor live closest to the engines.
 
 ## National differences
-- Verandel: veinlines and lamp works; old nobles distrust the factories; the Umber Anvil makes the guns.
+- Verandel: veinlines and lamp works; old nobles distrust the factories; the Sapper Forge makes the guns.
 - Volkhovar: the biggest boilers and gun foundries; conscript gun lines in front of the Ice Legions.
 - Qianlu: bellwire everywhere; a clerk state run on telegrams.
 - Lanternhouse Compact (Norhaven): mercenary engineers; Lantern rigs (armor frames with unstable mana-stone cores).

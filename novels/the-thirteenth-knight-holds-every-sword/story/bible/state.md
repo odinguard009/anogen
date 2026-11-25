@@ -1,29 +1,22 @@
-# State after chapter 25 (Ball night, after the siege) (autumn PR 112)
+# State after chapter 10 (autumn, PR 112; Year 5; ch 3 night 1, ch 4-7 four days, ch 8 night, ch 9 first evening of next month, ch 10 Lysette POV, a day between)
 
 ## Eden (narrator)
-- 18, Year 5, rank 8. Public: Eden Wren, Thornmere-born scholarship ward. True: Eden Aster Argentine. Dyed hair, gray eyes. Cracked rib (ch 17), still sore.
-- Now: Lance Nine (Felix, Lysette supervising, Rowan, Clara). Ashen card = bookmark. Gray-coat man (tannin thumb) = tannery Ember, watched Rowan. Strent hummed Liora's lullaby; Eden froze. Seal seeks the hooded door-shield youth. Orders: scout tannery Ember cell (not yet); "Watch the Tallis boy." Pays 4 silver/week at Brisa's Candlewick bakery. Ch 13: killed a Veil lamplighter; left palm burned (new glove). Ch 15: Dragon: "I promised someone."
-- Tells: literal deadpan; angry = polite, quiet, left glove off.
-- Public: blocking lance, 3 Bells, "shadow-shaping". Ea masked.
-- Real power: Melsche Door, Pillars Vesk, Gorrath, Mirelle; First Legion (40). Gate: Ea + 6 minor relics. Never lent one.
-- Knows: Veil tells; Dragon, Tutor in dreams; mother died when he was 10.
-- Black Order: 33 Veils. Ledger: Rowan circled, "Before the last dance." Owes 13-B. Killed the Veil wearing Corentin Hollen.
+- 18, public Eden Wren, roof sleeper ("the roof is a medical matter"). 61 absences. Nightly war dream; Tutor's siege game; crooked door with silver hairpin ("Not yet").
+- Thirteenth Vigil for Ysolde (tall, thin, grey coat). Ch 3: killed the Veil wearing telephone supervisor Alaric Aubin Dunmore in the Solmarch exchange; its book lists Year 5, Rowan circled; it said it was told a man in black would come. Eden wears Umra, draws gold-light Inead for the last stroke only.
+- Powers shown: Door (needs a shade edge), Umra, Gate + Inead, Exa (folds to door-shield), Latch, Sile (Mirelle). Bell: 3 tones; only he hears a 4th.
+- Flat: logs his feelings as facts (cold stomach twice by ch 5; dropped soup at a ringing telephone). Lysette: "calmest person I know, and that is the sad part."
+- Ch 7: Lysette's pink warrant on his coat; deal: morning classes for 25 min roof at lunch. Black card "Remember Thornmere. Remember." (bookmark). Grey-coated man with tea-brown thumb watched, took notes.
+- Ch 8: Undercroft workshop. Vesk, Gorrath (9 ft, tower shield), Mirelle (tall, grey mask, long thin blade, strikes only through his door). A coated man packing a second grey-dust core fled up a ladder. Eden took Vane's stamp (ink damp). Strent, grading by moonlight ("lamps give me headaches"), hummed his mother's lullaby: "Wren. A Thornmere name. Your mother must have sung that to you, too."
+- Ch 9: told Ysolde "nothing to report" on Strent. Saved locksmith Mistress Ulrike's shop on Wick Street (Gorrath held the door; a flat-shadow Veil clerk dropped through a door into a cellar). She gave him a plain old key. Ysolde keeps a grey-sealed envelope ("Orders you have not earned"). King Theodric: "Are you eating?" New orders: Ember cell in the river tanneries; "Watch the Tallis boy."
+
+## Lysette Hollen
+- Vice-chair; keeps his handkerchief unwashed (ch 10); no locket yet (first ch 21). Twin batons (one split). Ink gone. Eden's file is spotless, pencil rubbed out; she will ask who tidied it. Mother's letter: House "shame", unnamed. Has not thought of Rowan for an hour. Heard Seraphine ask Eden "You'd save me, right?" and wondered why. Holds the requisition file: core signed by Master Vane, dead last spring; Eden must share findings.
+
+## Others
+- Seraphine: teases Eden like an old friend; joke count on Felix (attempt 1, goose, failed). Calls Eden "our sleeper".
+- Rowan (gold hair, loud, kind; palms glow gold) is Eden's friend. Clara (healer; lilies revive near her, unnoticed).
+- Okoru (one arm): suspicious of Eden's feet; keeps the grey-dust core secret.
+- Valerius: "So you have finally stopped hiding."
 
 ## Who knows what
-- Argentine heir: King, Ysolde, Duke, household, Ostwald, twins.
-- Black Order: King, Ysolde, Duke only.
-- Liora Valkyrie; Emperor's gift: King, Duke, Ysolde.
-
-## Relationships
-- Felix: only close friend; middle name Perrin; spot behind the tack room.
-- Valerius: rival; ch 17 won by a finger; "I'll make you show them." Seraphine: crush.
-- Ch 21: Seraphine asked Eden to the Ball "as a joke, mostly"; he declined ("I'll be on the roof"); she leaves him a plate. Felix sighs near her.
-- Lysette: roof garden is hers; knows Eden knew; truce since ch 15; kept the handkerchief. Ch 21: wrote Seraphine up (Rule 14, collar), kept the page; heard Rowan asked Clara. On the roof told Eden of Corentin (taught her the waltz, "the beat"); no partner; "I'm going. Alone. To prove I don't care." Eden said nothing useful.
-- Rowan: loud, warm; ch 21 quietly learning the waltz, asked Clara (yes). Clara: still, quiet. Rowan's Spark = Lirenne fresco gold.
-- Ch 23: wrong-night plan; feather stamp inside Eden's left gauntlet.
-- Ch 18-20: ledger = Ball guest list (41); Merrow asked which hall. Lance Nine owes 412 crowns.
-
-- Ch 24-25: Ball. Embers seized the atrium; Lysette sent for the Golden Seal; Eden (Umra; left arm Frost-white to elbow) with Mirelle, Vesk, Gorrath freed 40 hostages unseen; walked the glass, Seraphine's hand stopped shaking; beat and spared Ilsabet Rorke (Crown of Kaldmark, pale armor; "a man with a kind voice" gave it); Merrow admired the Ostrevaal cloth; Valerius (arm cut) looked straight at him. Lysette heard "Wren" called; Eden owes her ONE true answer tomorrow.
-
-## World now
-- Ashen Crowns bombed a tax office; Golden Seal (Rochefort) blames the Black Order.
+- Lysette, Felix saw the door-shield. Ysolde, Vesk, Eden know the Veil and the list.

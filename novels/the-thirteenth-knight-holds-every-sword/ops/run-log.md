@@ -1,61 +1,63 @@
-# Run log (older entries in ops/archive/)
-### 2026-11-25 00:00 UTC (07:00 WIB) - tulis bab berikutnya - chapter 17 - ok
-- words: 1860
-- scores: tension 4, surprise 3, emotion 4, battle_clarity 4, voice 4, freshness 3
-- quota_note:
+# Run log
 
-### 2026-11-25 00:02 UTC (07:02 WIB) - tulis bab berikutnya - chapter 18 - ok
-- words: 1850
-- scores: tension 3, surprise 3, emotion 3, battle_clarity 4, voice 4, freshness 3
-- quota_note:
-
-### 2026-11-25 00:03 UTC (07:03 WIB) - tulis bab berikutnya - chapter 19 - ok
-- words: 1873
-- scores: tension 3, surprise 3, emotion 3, battle_clarity 3, voice 4, freshness 3
-- quota_note:
-
-### 2026-11-25 00:04 UTC (07:04 WIB) - tulis bab berikutnya - chapter 20 - ok
-- words: 1810
-- scores: tension 3, surprise 3, emotion 3, battle_clarity -, voice 4, freshness 3
-- quota_note: 
-
-### critic pass ch 16 - scores 4,3,3,4,4,3 - Ostwald moved to the judges' table (was in top row while judging); Okoru double speech split; wall hit made consistent with left ribs.
-### critic pass ch 17 - scores 4,3,4,4,4,3 - Ostwald's thermos on judges' table; wall height matched ch 16; added lane banter and waiting-room line (dialogue 23%->26%).
-### critic pass ch 18 - scores 3,3,3,3,3,3 - Eden's coat no longer "grey" like the tail's; cart voice no longer says "Corwen" before his name is known (now Vesk); Corwen fall dated to Iron King conquest; Odile pretzel beat; dialogue still ~23% (Vesk lines are italic).
-### critic pass ch 19 - scores 3,3,3,3,4,3 - Felix's "Eaten today?/Technically" repeat replaced; Clara's tangled line simplified; shadow-door staging clarified; "late bills" line made plain.
-### critic pass ch 20 - scores 3,4,3,-,3,3 - Hush front fixed to canon (world.md: front stalls at Verandel's coast, Wall at the Teeth still attacked): no "forty miles" claim, Sandneck gate -> Teeth gate, map scope fixed; Ostermark non-sequitur fixed; Ball countdown five -> six days; Seraphine's Lysette line follows ch 19.
-
-### 2026-11-25 00:10 UTC (07:10 WIB) - audit - ok
-- notes: audit ch 11-20: 3 proposals in story/proposals-audit.md (B1 floor-length chapters, freshness 3, dialogue target mismatch; B2 rest Eaten today?/food gag, Rowan quiet beat missing; B3 debts cap dropped Concord map plant, state.md Ball countdown, Isolde/Ysolde); +6 banned caps; +11 variety options; no debts past due; blocked.md/decisions.md trimmed
-- quota_note:
-
-### 2026-11-25 00:12 UTC (07:12 WIB) - tulis bab berikutnya - chapter 21 - ok
-- words: 2472
+### 2026-11-25 10:28 UTC (17:28 WIB) - tulis bab berikutnya - chapter 1 - ok
+- words: 1862
 - scores: tension 3, surprise 3, emotion 4, battle_clarity -, voice 4, freshness 3
 - quota_note:
 
-### 2026-11-25 00:13 UTC (07:13 WIB) - tulis bab berikutnya - chapter 22 - ok
-- words: 1987
-- scores: tension 3, surprise 3, emotion 3, battle_clarity 4, voice 3, freshness 3
-- quota_note: 
-
-### critic pass ch 21 - scores 3,3,4,-,4,3 - v3 rewrite check: split 14 long sentences, restored Lantern Ball / Dawn Boy / rule fourteen / royal court (Corentin), explained Bursar, swapped hard words (dignity, sued, flourish, recovered, sold me out, offer stands); sentence mean back to 8.5
-### critic pass ch 22 - scores 3,3,3,4,3,3 - restored "the Mantle" hood (armor term, needed for ch 23 Faceless Mantle); fixed "three armed men at the doors" vs Vesk's count; swapped alum, ceremony, instincts, exchange, buying time, see through; cut tidy line "I let it be true"; Duskwater name left out (name budget 16)
-
-### 2026-11-25 04:05 UTC (11:05 WIB) - tulis bab berikutnya - chapter 23 - ok
-- words: 2127
-- scores: tension 4, surprise 3, emotion 3, battle_clarity 4, voice 4, freshness 4
+### 2026-11-25 10:30 UTC (17:30 WIB) - tulis bab berikutnya - chapter 2 - ok
+- words: 1950
+- scores: tension 3, surprise 3, emotion 3, battle_clarity -, voice 4, freshness 3
 - quota_note:
 
-### 2026-11-25 04:07 UTC (11:07 WIB) - tulis bab berikutnya - chapter 24 - ok
-- words: 2068
-- scores: tension 4, surprise 4, emotion 4, battle_clarity 3, voice 4, freshness 3
+### 2026-11-25 10:33 UTC (17:33 WIB) - tulis bab berikutnya - chapter 3 - ok
+- words: 2278
+- scores: tension 4, surprise 3, emotion 3, battle_clarity 4, voice 4, freshness 3
 - quota_note:
 
-### 2026-11-25 04:09 UTC (11:09 WIB) - tulis bab berikutnya - chapter 25 - ok
-- words: 2236
-- scores: tension 4, surprise 3, emotion 3, battle_clarity 4, voice 3, freshness 3
+### 2026-11-25 10:35 UTC (17:35 WIB) - tulis bab berikutnya - chapter 4 - ok
+- words: 1846
+- scores: tension 3, surprise 3, emotion 4, battle_clarity -, voice 4, freshness 3
+- quota_note:
+
+### 2026-11-25 10:37 UTC (17:37 WIB) - tulis bab berikutnya - chapter 5 - ok
+- words: 2123
+- scores: tension 4, surprise 3, emotion 3, battle_clarity 4, voice 4, freshness 3
+- quota_note:
+
+### 2026-11-25 10:39 UTC (17:39 WIB) - tulis bab berikutnya - chapter 6 - ok
+- words: 1827
+- scores: tension 3, surprise 3, emotion 3, battle_clarity -, voice 4, freshness 3
+- quota_note:
+
+### 2026-11-25 10:40 UTC (17:40 WIB) - tulis bab berikutnya - chapter 7 - ok
+- words: 1806
+- scores: tension 3, surprise 3, emotion 3, battle_clarity -, voice 4, freshness 3
+- quota_note:
+
+### 2026-11-25 10:42 UTC (17:42 WIB) - tulis bab berikutnya - chapter 8 - ok
+- words: 2171
+- scores: (corrected in critic pass; first entry used a wrong scale)
+- quota_note:
+
+### 2026-11-25 10:44 UTC (17:44 WIB) - tulis bab berikutnya - chapter 9 - ok
+- words: 2251
+- scores: (corrected in critic pass; first entry used a wrong scale)
+- quota_note:
+
+### 2026-11-25 10:47 UTC (17:47 WIB) - tulis bab berikutnya - chapter 10 - ok
+- words: 2290
+- scores: (corrected in critic pass; first entry used a wrong scale)
 - quota_note: 
-### critic pass ch 23 - scores 3,4,3,4,4,4 - fixed day count ("Ball is in three days" vs paper's "night before = tomorrow"; now two days); split 2 long sentences; cut 3 stacked similes (flags, laundry, pan); "atrium" -> "glass hall" in Ysolde scene; feather plant OK
-### critic pass ch 24 - scores 4,4,4,3,4,3 - attackers 40 -> 20 (ch 25 has 12 bows + 6 grafted + Crown); fixed two Lysette lines in a row; cut "I knew the next one" (unknown speaker); split 3 long sentences; removed repeated "stairs"
-### critic pass ch 25 - scores 4,3,3,4,3,3 - canon fixes: Ilsabet now giant with ice-axe and Ashmail grown over skin (armor.md, ashen-crowns.md) instead of thin swordswoman; invented silence aura replaced by canon cold aura; graft veins no longer "fading" (Clara removes graft at 482); Lintel now lance->door-shield + Candor (combat-style.md); Mirelle no invented armor; "Forty guests ran ... and out" vs last hostages fixed; Merrow's "guard" -> Ember; name budget 17 -> 16. Mirelle (secret role, unseen) fits Stage I; Ilsabet spared = outline; promised "one true answer" logged in proposals-audit
+
+### critic pass ch 1-10 - same-session cold read (not independent) - notes
+- Scope honest: prepass + check_chapter on 1-10; full cold read of 8, 9, 10 only (ch 1-7 were self-reviewed when written). ch 8: fixed a door contradiction (Gorrath held "the stairs" yet the man entered by them; now Gorrath holds the passage door), trimmed "I did not" tics. Scores for ch 8-10 corrected from a wrong 8-scale to 3,3,3,3,3,3 / 3,3,3,3,3,3 / 3,3,4,-,3,3.
+- Known weak points: first drafts of ch 8, 9, 10 each needed 2-4 patch rounds to reach 25% dialogue; Gorrath "holds the door" trick used in both ch 8 and ch 9; "Eaten today / Technically" gag now in ch 2 and ch 10 (acceptable as running gag, do not use it a third time before ch 20).
+
+### 2026-11-25 10:48 UTC (17:48 WIB) - audit - ok
+- notes: audit through chapter 10: 3 proposals in proposals-audit.md
+- quota_note: 
+
+### critic re-review ch 1-10 after owner style merge (same session, not independent)
+- Checks done: check_chapter on all ten (OK), prepass, greps for leftovers (Ea, Ixa, locket, black hair, ribbon, market chase, crowd shout: none left), canon fixes (Clara's surname Belmont in ch 6, Veil description now matches ch 3 in ch 9, ch 8 Mirelle strike now pins the sleeve so the "no kill without proof" rule holds, ch 5 dust points to the exchange).
+- Not done: no fresh-eyes read of ch 1, 2, 5, 6, 7 beyond the patches. Style judgement is the owner's.

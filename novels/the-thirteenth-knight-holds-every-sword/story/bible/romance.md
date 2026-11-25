@@ -7,7 +7,7 @@ Principles: attraction shows in small behaviour before anyone names it. Misunder
 | Flavour | aching slow-burn, tragedy-adjacent | banter rivals; duty versus heart | oblivious-earnest comedy; quiet devotion |
 | Rhythm | long silences, rare peaks | bursts at meetings, letters between | many tiny steady scenes |
 | Motif | the handkerchief; the roof garden; the Lantern Ball echo | the lamp left on; his numbered memos vs her drawings | "Eaten today?"; sweet buns; her joke count |
-| Obstacle | secrets and guilt (Corentin, the Black Order, his forgetting) | political duty (arranged betrothal) and her hidden god | his sense of worth (rank, ruined arm) |
+| Obstacle | secrets and guilt (Corentin, the Thirteenth Vigil, his forgetting) | political duty (arranged betrothal) and her hidden god | his sense of worth (rank, ruined arm) |
 | Confession | almost wordless, on the roof, after years | formal written courtship with clauses, read aloud; she amends it in ink | plain words over food in a field kitchen |
 | Comedy | her tsundere scolding vs his literal deadpan | memo war; ducks in his dreams | she flirts, he answers literally; everyone sees but him |
 

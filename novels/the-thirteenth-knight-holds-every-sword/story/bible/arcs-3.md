@@ -7,7 +7,7 @@ Battles: market Veil hunt 3 flex; berserk construct 5 puzzle; Valerius duel 16-1
 Aura: 25 he walks through the Ball's broken glass and the grafted Embers step back without knowing why (reaction: Seraphine's hand stops shaking). 49 a single look at the dying Crown stops a hostage knife (reaction: Felix sees, says nothing, asks "Eaten today?" the next morning).
 
 ## Arc 2 (51-100)
-Battles: tourney rounds 60-66 flex (he "loses" on purpose in 67, puzzle); warehouse of volatile stones 78 puzzle; rooftop sniper duel with Hald 84 strained; parade carts 96-100 puzzle; Black Order vs Golden Seal raid 72 costly (public blame).
+Battles: tourney rounds 60-66 flex (he "loses" on purpose in 67, puzzle); warehouse of volatile stones 78 puzzle; rooftop sniper duel with Hald 84 strained; parade carts 96-100 puzzle; Thirteenth Vigil vs Justiciar Seal raid 72 costly (public blame).
 Aura: 67 he lowers his lance in the quarterfinal and the arena's seasoned scouts go quiet (reaction: Okoru stops chewing). 88 at Kell's dinner he says one quiet sentence and a hired duelist resigns on the spot.
 
 ## Arc 3 (101-150)
@@ -23,7 +23,7 @@ Battles: first Husk tide 203 flex; Choir silence 218 puzzle; Mawgate mines 231 p
 Aura: 222 a quiet "Hold." stops a routing company (reaction: veterans obey a nineteen-year-old and only ask why later). 248 ten thousand black knights rise under the storm (reaction: both armies go silent; Valerius laughs once, disbelieving).
 
 ## Arc 6 (251-300)
-Battles: desert lancers vs Husks 255 flex; convoy 260 costly (broken rule, Ea lost); grey city siege 274 puzzle; Armory 280 flex (an army armed at once); Crown Well of the Ashen Highlands 295-300 strained.
+Battles: desert lancers vs Husks 255 flex; convoy 260 costly (broken rule, Inead lost); grey city siege 274 puzzle; Armory 280 flex (an army armed at once); Crown Well of the Ashen Highlands 295-300 strained.
 Aura: 280 a thousand relics leave the air and choose hands (reaction: Mansakar's old soldiers sing). 290 three legions wake; the Shah's envoy goes pale and, very carefully, asks for a revised treaty.
 
 ## Arc 7 (301-350)
@@ -63,7 +63,7 @@ Romance per arc: romance.md (end).
 
 ## Armor scenes and new tricks per arc (armor.md, battle-craft.md)
 1: Umra mask 3, full 23 (Aster sealed; feather mark plant); Duke's helm hour 30; titan silhouette 34; Gryle 25; Ward-plate drills 31; tricks 1-10.
-2: Lantern rigs 72; Umra vs Golden Seal Ward-plate 72; Rhael lent to Felix 98 (first Raiment loan, armor-up on a parade roof); tricks 11-18.
+2: Lantern rigs 72; Umra vs Justiciar Seal Ward-plate 72; Rhael lent to Felix 98 (first Raiment loan, armor-up on a parade roof); tricks 11-18.
 3: Han's jade Throne-form 125; Umra in the summit 131; tricks 19-23.
 4: Aster's seal cracks 175-176 (Glasshouse Forge found); the Duke in Sevar 193-194 (flex showpiece, aura); Aster Argent Dawn 199 (first public armor); tricks 24-28.
 5: Wallbreaker 223; Thrennos the Drowned Bell 244-249 (Colossus) with Greyborn Carapace 245; Karum to Valerius 247; Mavra 248; armor rotations on the Wall every ~10 ch (210, 220, 233); tricks 29-34.

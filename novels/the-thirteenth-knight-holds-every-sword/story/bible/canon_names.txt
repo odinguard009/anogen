@@ -1,669 +1,679 @@
+# Academy
+# Nations
+# Orders
+# Owner orders 2026-11-25 (power system, tech, planet-mind, attacks, Unbind)
 # People
-Eden Aster Argentine
-Eden
-Aster
-Argentine
-House Argentine
-Lysette
-Maren
-Corentin
-Valdis
-Tesfane Okoru
-Okoru
-Duke Aldous Argentine
-Aldous
-Liora Argentine
-Liora
-King Theodric IV
-Theodric
-Ysolde Lisle
-Ysolde
-Lisle
-Halvard Strent
-Strent
-Aubrec Wendell
-Wendell
-Aldric Argentine
-Aldric
-Dame Hildegard Ostwald
-Hildegard
-Ostwald
-Ilse Brandmeier
-Brandmeier
-Gideon Valdis
-Gideon
-Rosalind Mereaux
-Rosalind
-Mereaux
-Fennick Ashgrove
-Fennick
-Ashgrove
-Beatrix Hollen
-Beatrix
-Hollen
-Cyprian Vey
-Cyprian
-Vey
-Agnete Rosk
-Agnete
-Rosk
-Matthias Kord
-Matthias
-Kord
-Helene Varga
-Helene
-Varga
-Lucan Merrow
-Lucan
-Merrow
-Brann Okafor-Dunst
-Brann
-Okafor-Dunst
-Empress Dragomira
-Dragomira
-Kaurveth
-Starving King
-Tailor
-Tutor
-Landlord
-Dragon Sepiroth
-Emperor of Void
-Nihl
-Oriane
-Ombrevar
-Kaedros
-Lysandre
-Sefa
-Hald
-Mirelle
-Gorrath
-Vesk
+# Places
 # Powers, relics, concepts
-Melsche Door
-Sepiroth Gate
-Sepiroth Vault
-Ea
-Thessa
-Ynde
-Throne of Nothing
-Throne Door
-Doorstep
-Threshold
-Frost
-Ten Pillars
-Pillar
-Pillars
-Sleeping Legions
-First Legion
+Abdication
+Admiral
+Aethra
+Agnete
+Agnete Rosk
+Aiwa
+Akizane
+Akizane Imperial Isles
+Alaric Dunmore
+Bell Lane
+Solmarch Central Telephone Exchange
+Aldous
+Aldric
+Aldric Argentine
+Ama
+Hearthwrights
+Ambrose
+Ambrose Kell
+Archduke
+Archmage
+Argent Dawn
+Crownguard
+Argentine
+Arkady
+Arkady Belozerov
 Armory of a Thousand Names
-Tenet
-Tenets
-Kindling
-Spark
-Shape
-Edge
-Crown
-Sovereign
+Ashen Choir
+Ashen Crowns
+Ashen Highlands
+Ashgrove
+Ashkar
+Assayer's Scale
+Aster
+Aubin
+Aubrec Wendell
+Aubrevelle
+Auda
+Aurelis
+Aurelis See
+Aurelune
+Aurenmark
+Awakened
+Tidewatch
+Back-Trail
+Bastien Ardenne
+Bastion
+Beatrix
+Beatrix Hollen
+Beginning
 Bell
+Bell Assessment
+Bell Warden
 Bells
-Resonance Bell
-Keeping
-Witness
-Stitch
+Belmont
+Belozerov
+Bertram
+Bertram Quell
+Binding of Thrones
+Black Lancer
+Thirteenth Vigil
+Black Thirteen
+Blue Hour
+Bodil
+Brandmeier
+Brann
+Brann Okafor-Dunst
+Breach
+Brennoch
+Brisa
+Bellwardens
+Brunn
+Bursar
+Candlewick
+Candlewick Lane
+Captain-General
+Caradonne
+Cartographer of Doors
+Castelreigh
+Choir
+Choirs
+Cinder
+Cinderback
+Cinders
+Citation
+Clara
+Clara Belmont
+Clement Daubert
+Code of the Ladder
+Colossi
+Colossus
+Commonwealth of Brennoch
+Concord
+Concord Speaker
+Concord of Solmarch
+Corentin
+Corentin Hollen
+Corporal
+Corwen
+Court in Session
+Rampart Host
+Crossing
+Crown
+Crown Prince
+Crown Quarter
+Crown Register
 Crown Well
 Crown Wells
-mana
+Crown of Gallowmarch
+Crown of Kaldmark
+Crown of Lirenne
+Crown of Morvanne
+Crown of Nothing
+Crown of Thornmere
+Crownspine
+Curtain Call
+Cyprian
+Cyprian Vey
+Dame Hildegard Ostwald
+Daubert
+Dawit
+Dawn Boy
+Dawn Hand
+Dawnbreak
+Desmond
+Desmond Harrow
+Devouring
+Dietrich
+Discipline Committee
+Doorstep
+Doorstop
+Dormant
+Dragomira
+Dragon
+Dragon Sepiroth
+Dragon of Heaven's Vault
+Draught
+Dreamer
+Drowned Bell
+Druk
+Duchess
+Duck Storm
+Duke
+Duke Aldous Argentine
+Dunmore
+Durn
+Duskwater Dyeworks
+Inead
+Eden
+Eden Aster Argentine
+Eden Wren
+Edge
+Eleven Crowns
+Elysmar
+Ember
+Ember stage
+Embers
+Emeric Fauconier
+Emperor
+Emperor of Void
+Empress Dragomira
+Endless Grass
+Ennu
+Enthroned
+Eschenbach
+Esk
+Evrin
+Eyra
+Ezharan
+Fate-Empress
+Felix
+Felix Ashgrove
+Felix Perrin Ashgrove
+Fennick
+Fennick Ashgrove
+Ferryman
+First Breach
+First Flame
+First Legion
+First Light
+Firstworks
+Florian
+Florian Eschenbach
+Forgefather
+Forgemaster
+Form 13-B
+Founders' Day
+Founding Lantern Night
+Frost
+Frost Hand
+Frostplate
+Frostreach
+Gallowmarch
+Garden Club
+Gardener
+Gardeners
+Gardeners' Gate
+Gatewing
+Gerulf
+Gerulf Aurenmark
+Gideon
+Gideon Valdis
+Gisela
+Gisela Morvaine
+Glaceren
+Glasshouse Forge
+Glassmonger's Lens
+Justiciar Seal
+Gorrath
+Grady
+Grady Owen Marsh
+Grask
+Grauvale
+Gravemother
+Great Gathering
+Green Line
+Greta
+Greta Vos
+Galewing
+Grey Graft
+Grey Grafts
+Grey Gulf
+Grey Shepherd
+Greyborn Carapace
+Grimwald
+Gryle
+Halberg
+Hald
+Halla
+Hallowcrest
+Halvard Strent
+Halveren
+Hammond
+Han
+Han Shuzhen
+Harrow
+Hartenfels
+Headmistress
+Heaven Gate
+Hedwig
+Helene
+Helene Varga
+Herald
+Hesk
+Hierarch
+Hierarchs
+High Jarl
+Highness
+Hildegard
+Hinge
+Hob
+Hollen
+Hollow Gate
+Honest Blade
+House Argentine
+House Aurenmark
+House Hollen
+House Wren
+Hrak
 Hush
 Hushborn
 Husk
+Husk class
 Husks
-Stalker
-Stalkers
-Choir
-Choirs
-Mawgate
-Mawgates
-Veil
-Veils
-Hierarch
-Hierarchs
-Pale
-Pale Reckoning
-PR
-First Breach
-Breach
-Wound
-Night the Relics Vanished
-Abdication
-Well Wars
-Lumen
-Form 13-B
-# Orders
-Argent Order
-Crimson Rampart
-Azure Tide
-Verdant Thorn
-Golden Seal
-Violet Lantern
-Ivory Order
-Grey Gale
-Amber Hearth
-Bronze Bell
-Indigo Veil
-Umber Anvil
-Black Order
-Black Thirteen
-Order Council
-# Academy
-Royal Academy of Hallowcrest
-Hallowcrest
-Undercroft
-Long Stair
-Lance
-Lances
-Ladder
-Silver Lists
-Crossing
-Founding Lantern Night
-Lantern Night
-Bell Assessment
-# Places
-Elysmar
-Halveren
-Kesharra
-Vastlund
-Okarune
-Selvara
-Ruhnmara
-Glaceren
-Grey Gulf
-Middle Sea
-Wide Water
-Teeth
-Southern Wall
-Sandneck
-Crownspine
-Whitewood
-Endless Grass
-Frostreach
-Narrow Ice
-Isthmus Line
-Ashen Highlands
-Skyspine
-Solmarch
-Kremhold
-Concord
-Concord of Solmarch
-# Nations
-Kingdom of Verandel
-Verandel
-Commonwealth of Brennoch
-Brennoch
-Moot
-Jarldom of Skarnheim
-Skarnheim
-High Jarl
-Aurelis See
-Aurelis
-Luminarch
-Sunward Guard
-Volkhovar Empire
-Volkhovar
-Ledger of Souls
 Ice Legions
-Orduhan Khaganate
-Orduhan
-Khagan
-Great Gathering
-Qianlu Dynasty
-Qianlu
-Jade Throne
-Akizane Imperial Isles
-Akizane
-Rajmandala of Saravant
-Saravant
-Shahdom of Ezharan
-Ezharan
-Jayavara Maritime League
-Jayavara
-Ratu
-Norhaven Confederation
-Norhaven
-Mansakar
-Mansa
-Tawanqar Highland Commonwealth
-Tawanqar
-Sapa
-Ruhnmaran Union
-Eden Wren
-Wren
-House Wren
-Lysette Maren Hollen
-House Hollen
-Corentin Hollen
-Rowan Tallis
-Rowan
-Tallis
-Dawn Boy
-Dawnbreak
-Clara Belmont
-Clara
-Belmont
-Felix Perrin Ashgrove
-Perrin
-Felix Ashgrove
-Felix
-Valerius Aurenmark
-Valerius
-Seraphine Aurenmark
-Seraphine
-Aurenmark
-House Aurenmark
-Gerulf Aurenmark
-Gerulf
-Iron King
-Valkyrie
-Valkyries
-Valkyrie of Heaven Gate
-Heaven Gate
-Refusal
-Bertram Quell
-Bertram
-Quell
-Greta Vos
-Greta
-Vos
-Pim
-Odessa
-Hammond
-Silverfell
-Crown Quarter
-Sentence
-Trail
-Verdict
-Mischief
-Crown of Nothing
-Void Host
-Ashen Crowns
-Regent
-Eleven Crowns
-Ember
-Embers
-Cinder
-Cinders
-Grey Graft
-Grey Grafts
-Crown of Kaldmark
-Crown of Morvanne
-Crown of Thornmere
-Crown of Lirenne
-Crown of Gallowmarch
-Ferryman
-Ilsabet Rorke
+Idris
 Ilsabet
-Rorke
-Desmond Harrow
-Desmond
-Harrow
-Thornmere
-Valmoria
-Ostrevaal
-Kaldmark
-Lirenne
-Morvanne
-Ysterholt
-Caradonne
-Sarnhold
-Aubrevelle
-Gallowmarch
-Grauvale
-Rite of the Far Door
-Frost Hand
-Twentieth Rule
-Lantern Ball
-Steward Council
-Discipline Committee
-Rooftop Garden
-Old Observatory
-Lance Nine
-Ten
-Year 5
-Year 6
-Winter Rotation
-Spell Grammar
-Lantern-Eyed
-Quiet Blade
-Bastion
-Last Archer
-Cartographer of Doors
-Mender
-Siegebreaker
-Herald
-Warden of the Deep Ranks
-Honest Blade
-Professor
-Headmistress
-Prince
-Princess
-Crown Prince
-Lady
-Lord
-Duchess
-Duke
-King
-Emperor
-Dragon
-Remember
-Lady Justiciar
-Mother Superior
-Archmage
-Forgemaster
-Admiral
-Warden
-Captain-General
-Sepiroth
-Ten Sovereigns
-Sovereigns
-Melchsee
-Myrrhen
-Wellmother
-Kaelthos
-Forgefather
-Vehra
-Weaver
-Ashkar
-First Flame
-Niveth
-Dreamer
-Thalos
-Tide
-Aurelune
-Gardener
-Devouring
-Firstworks
-Beginning
-Iron Faction
-Konrad Halberg
-Halberg
-Archduke
-Lanternhouse Compact
-Lanternhouse
-Ambrose Kell
-Ambrose
-Kell
-Arkady Belozerov
-Arkady
-Belozerov
-Luminarch Severus
-Severus
-Theodora
+Ilsabet Rorke
+Ilse Brandmeier
+Ilune
+Imbri
+Cipher Court
+Injunction
+Inquiry
 Inquisitor
-Grady Owen Marsh
-Grady
-Marsh
-Isthmus Company
-Kaveh
-Shen Ruolan
-Kirana
-Tsukishiro Kaede
-Tsukishiro
-Kaede
-Dawit
-Wayra
-Aethra
-Tidewright
-Ashen Choir
-Thousand Mouths
-Concord Speaker
-Founders' Day
-Void's Son
-Lanterns and Ledgers
-Ten Thrones
-Skyspine Campaign
-Throne
-Thrones
-Throne-bearer
-Throne-bearers
-Binding of Thrones
-Loom of Days
-Fate-Empress
-Living Mountain
-Jade General
-Han Shuzhen
-Han
-Shuzhen
-Tidecall
-Sleepwalk
+Inspector Rochefort
+Iron Faction
+Iron King
 Ishani
-Noonbringer
-Wellspring
-Seedtime
-Enthroned
-Awakened
-Stirring
-Dormant
-Rooftop Garden Club
-Garden Club
-Names Spoken Openly
-Saravant delegate
-Raiment
-Raiments
-Named Raiment
-Sovereign Raiment
-Ward-plate
-Knock
-Seven Tolls
-Toll
-Tolls
+Isolde
+Isra
+Isthmus Company
+Isthmus Line
+Ithe
+Mercyhold
+Exa
+Jade General
+Jade Throne
+Jarldom of Skarnheim
+Jayavara
+Jayavara Maritime League
+Josselin Vane
+Kaede
+Kaedros
+Kaelthos
+Kaldmark
+Karum
+Kaurveth
+Kaveh
+Keep
+Keepforging
+Keeping
+Keeps
+Kell
+Kennel
 Kept
 Kept Knight
 Kept Knights
-Umra
-Ilune
-Rhael
-Karum
-Selu
-Vael
-Eyra
-Ennu
-Orrel
-Gryle
-Lantern Rig
-Lantern rigs
-Frostplate
-Sunward Gilt
-Greyborn Carapace
-Nihra
-Pale Raiment
-Mavra
-Isra
-Mutebell
-Tallow Saint's Candle
-Glassmonger's Lens
-Wayfinder's Thread
-Assayer's Scale
-Sevar
-Tamu
-Oru
-Keepforging
-Keep
-Keeps
-Mending
-Glasshouse Forge
-Last Light
-Starsteel
-Thousandfold Knight
-Stonewarden
-Veil class
-Husk class
-Ravager
-Ravagers
-Ravager class
-Wallbreaker
-Wallbreakers
-Colossus
-Colossi
-Titan
-Titans
-Thrennos
-Drowned Bell
-Grey Shepherd
-Ossuary Reef
-Ubrak
-Silent Mountain
-Lament
-Hollow Gate
-Titan Accord
-veinspear
-veinspears
-Mourning
-Ember stage
-Argent Dawn
-Gatewing
-Melsche
-Tenfold Covenant
-Dragon of Heaven's Vault
-Lintel and Lamp
-Latch
-Hinge
-Draught
-Lintel
-Lampwick
-Doorstop
-Open House
+Kesharra
+Khagan
+Kindling
+King
+King Theodric IV
+Kingdom of Verandel
+Kirana
+Knock
 Knock and Answer
-Titanfall
-Void Road
-Gravemother
-Cinderback
-Weeping Crown
-Regency Writ
-Ledger of Wrongs
-Patient Path
-Court in Session
-Masquerade
-Sleepwalker
-Dawn Hand
-Bell Warden
-Recall Step
-Citation
-Testimony
-Back-Trail
-Snare Line
-Injunction
-Switcheroo
-Curtain Call
-Lullaby Line
-Paper Door
-Duck Storm
-First Light
-Long Shadow
-Green Line
-Ninth Bell
-Emeric Fauconier
-Quillwright Lane
-Lantern Ward
-Bastien Ardenne
-Grimwald
-Long Yard
-Clement Daubert
-Daubert
+Kolv
+Konrad Halberg
+Kord
+Kremhold
+Ladder
+Lady
+Lady Justiciar
+Lament
+Lampwick
+Lance
 Lance Fourteen
-lowchapel
-Strategy
-Corporal
-Margery
-Tortoise
-Uncle
-Old Biscuit
-The Bishop
-Hedwig
-Gardeners' Gate
-Gardeners
-Wick Street
-Wick
-Florian Eschenbach
-Florian
-Eschenbach
-Gisela Morvaine
-Gisela
-Morvaine
-Kennel
+Lance Nine
+Lances
+Landlord
+Lantern Ball
+Lantern Night
+Lantern Rig
+Lantern Ward
+Lantern rigs
+Lantern-Eyed
+Lanternhouse
+Lanternhouse Compact
+Lanterns and Ledgers
+Last Archer
+Last Light
+Latch
+Ledger of Souls
+Ledger of Wrongs
+Lindqvelle
+Lintel
+Lintel and Lamp
+Liora
+Liora Argentine
+Lirenne
+Lisle
+Living Mountain
+Long Court
+Long Shadow
+Long Stair
+Long Yard
+Loom of Days
+Lord
+Lothar
+Lothar Pell
+Lucan
+Lucan Merrow
+Lullaby Line
+Lumen
+Luminarch
+Luminarch Severus
+Lysandre
+Lysette
+Lysette Maren Hollen
+Mansa
+Mansakar
 Marchmont
 Marchmont Lance
-Hob
-Lindqvelle
+Maren
+Margery
+Marsh
+Masquerade
 Mathilde Lindqvelle
-Lothar Pell
-Lothar
-Pell
-Rochefort
-Inspector Rochefort
-Brisa
-Mistress Brisa
-Candlewick
-Candlewick Lane
-Bodil
-Halla
-Idris
-Long Court
-Code of the Ladder
-Inquiry
-Corwen
-Odile
-bell market
-Isolde
-Castelreigh
-Hartenfels
-Ostermark
-Renaud
-Bursar
-Dietrich
-Theobald
-Duskwater Dyeworks
-Blue Hour
-Tallow Row
-# Owner orders 2026-11-25 (power system, tech, planet-mind, attacks, Unbind)
-Ixa
-Aiwa
+Matthias
+Matthias Kord
+Mavra
+Mawgate
+Mawgates
+Melchsee
+Melsche
+Melsche Door
+Mender
+Mending
+Mereaux
 Meridian Age
-veinline
-bellwire
-mana-lock
-Crown Register
-Void Heir
-Black Lancer
-White Swordsman
-Unbind
-Ithe
-Osk
-Wyl
-Tavu
+Merrow
+Middle Sea
+Mirelle
+Mischief
+Mistress Brisa
+Moot
+Morvaine
+Morvanne
+Mother Superior
 Mott
-Brunn
-Sile
-Teth
-Vaun
-Ama
-Druk
+Mourning
+Mutebell
+Myrrhen
+Named Raiment
+Names Spoken Openly
+Narrow Ice
+Night the Relics Vanished
+Nihl
+Nihra
+Ninth Bell
+Niveth
+Noonbringer
+Norhaven
+Norhaven Confederation
+Odessa
+Odile
+Okafor-Dunst
+Okarune
+Okoru
+Old Biscuit
+Old Observatory
+Ombrevar
+Open House
+Order Council
+Orduhan
+Orduhan Khaganate
+Oriane
 Orm
-Vire
-Hesk
-Hrak
-Grask
+Orrel
+Oru
+Osk
+Ossuary Reef
+Ostermark
+Ostrevaal
+Ostwald
 Ourl
-Tisk
-Yrre
-Zhar
-Evrin
-Auda
-Esk
-Tirra
-Vant
-Rinn
+PR
+Pale
+Pale Raiment
+Pale Reckoning
+Paper Door
+Patient Path
+Pell
+Perrin
+Pillar
+Pillars
+Pim
+Prince
+Princess
+Professor
+Qianlu
+Qianlu Dynasty
+Quell
+Quiet Blade
+Quillwright Lane
+Raiment
+Raiments
+Rajmandala of Saravant
+Ratu
+Ravager
+Ravager class
+Ravagers
+Recall Step
+Refusal
+Regency Writ
+Regent
+Remember
+Renaud
+Resonance Bell
 Ressa
-Imbri
-Durn
+Rhael
+Rinn
+Rite of the Far Door
+Rochefort
+Rooftop Garden
+Rooftop Garden Club
+Rorke
+Rosalind
+Rosalind Mereaux
+Rosk
+Rowan
+Rowan Tallis
+Royal Academy of Hallowcrest
+Ruhnmara
+Ruhnmaran Union
 Ruun
-Kolv
+Sandneck
+Sapa
+Saravant
+Saravant delegate
+Sarnhold
+Seedtime
+Sefa
+Selu
+Selvara
+Sentence
+Sepiroth
+Sepiroth Gate
+Sepiroth Vault
+Seraphine
+Seraphine Aurenmark
+Sevar
+Seven Tolls
+Severus
+Shahdom of Ezharan
+Shape
+Shen Ruolan
+Shuzhen
+Siegebreaker
+Sile
+Silent Mountain
+Silver Lists
+Silverfell
+Skarnheim
+Skyspine
+Skyspine Campaign
+Sleeping Legions
+Sleepwalk
+Sleepwalker
+Snare Line
+Solmarch
 Sorn
+Southern Wall
+Sovereign
+Sovereign Raiment
+Sovereigns
+Spark
+Spell Grammar
+Stalker
+Stalkers
+Starsteel
+Starving King
+Steward Council
+Stirring
+Stitch
+Stonewarden
+Strategy
+Strent
+Sunward Gilt
+Sunward Guard
+Switcheroo
+Tailor
+Tallis
+Tallow Row
+Tallow Saint's Candle
+Tamu
+Tavu
+Tawanqar
+Tawanqar Highland Commonwealth
+Teeth
+Ten
+Ten Pillars
+Ten Sovereigns
+Ten Thrones
+Tenet
+Tenets
+Tenfold Covenant
+Tesfane Okoru
+Testimony
+Teth
+Thalos
+The Bishop
+Theobald
+Theodora
+Theodric
+Thessa
+Thornmere
+Thousand Mouths
+Thousandfold Knight
+Thrennos
+Threshold
+Throne
+Throne Door
+Throne of Nothing
+Throne-bearer
+Throne-bearers
+Thrones
+Tide
+Tidecall
+Tidewright
+Tirra
+Tisk
+Titan
+Titan Accord
+Titanfall
+Titans
+Toll
+Tolls
+Tortoise
+Trail
+Tsukishiro
+Tsukishiro Kaede
+Tutor
+Twentieth Rule
+Ubrak
+Sapper Forge
+Umra
+Unbind
+Uncle
+Undercroft
+Vael
+Valdis
+Valerius
+Valerius Aurenmark
+Valkyrie
+Valkyrie of Heaven Gate
+Valkyries
+Valmoria
+Vane
+Vant
+Varga
+Vastlund
+Vaun
+Vehra
+Veil
+Veil class
+Veils
+Verandel
+Thornwardens
+Verdict
+Vesk
+Vey
+Wellspire
+Vire
+Void Heir
+Void Host
+Void Road
+Void's Son
+Volkhovar
+Volkhovar Empire
+Vos
+Wallbreaker
+Wallbreakers
+Ward-plate
+Warden
+Warden of the Deep Ranks
+Wayfinder's Thread
+Wayra
+Weaver
+Weeping Crown
+Well Wars
+Wellmother
+Wellspring
+Wendell
+White Swordsman
+Whitewood
+Wick
+Wick Street
+Wide Water
+Winter Rotation
+Witness
+Wound
+Wren
+Wyl
+Year 5
+Year 6
+Ynde
+Yrre
+Ysolde
+Ysolde Lisle
+Ysterholt
+Zhar
+bell market
+bellwire
+lowchapel
+mana
+mana-lock
+veinline
+veinspear
+veinspears
+Ulrike
+Mistress Ulrike

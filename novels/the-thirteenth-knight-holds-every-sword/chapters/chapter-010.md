@@ -1,271 +1,241 @@
-# Chapter 10: Clean Paper
+# Chapter 10: A Clean Page
 
 > "Rules are for people who intend to keep their promises." - Lysette Hollen, Discipline Committee handbook, margin note
 
-The Committee owned one ink pad, and it had been dry for nine days.
+The Discipline Committee office had eleven chairs, and not one of them had legs of the same length.
 
-Lysette pressed the seal into it anyway, from habit. Then she pressed it onto a warrant and looked at the mark, which was the color of a sunburned knee. She put the seal down.
+Lysette Hollen knew this because she sat in each of them, in turn, every week, and wrote down which one rocked. It was the sort of thing a vice-chair noticed. No one else had noticed in three years, and the student president, who was supposed to be in charge of furniture, had said he would look into it in the spring.
 
-On the spike by the door, her request for a new pad was still stuck where she had left it. Under it was a request for lamp oil, and under that a request for two new training batons, to replace the two she had broken. Each one had the bursar's little stamp on it. *Deferred.*
+It was the middle of a grey morning, and she had three jobs before lunch. The telephone on her desk had rung eleven times since breakfast, always with a complaint, and she had pushed her white hair behind her ear for each one. The first was to find ink.
 
-Everything was deferred this month. Oil cost a third more since the trouble in the lower city, and the tunnels under the hill had spent their whole budget on a new warden that no one would explain. The Committee had seven officers, but this week it had one. Three were away on royal honor duty, and two had the coughing fever. The chair was the prince, who had other things to do.
+The ink bottle on the shelf was empty. The Committee was given one bottle each term, and this term it had already been used for forty warrants, six apology letters and a long complaint about a goat. The pad for her seal had gone dry the week before, so she had stamped her first warrant in pale pink, which was all the kitchen would lend her. She did not want to stamp another. A warrant in pink looked like a joke, and a joke did not make anybody turn up to class.
 
-So it was her, one baton, and a pink seal.
+She opened the bottom drawer, where the spare cap of the bottle lay. It held one dry black drop at the bottom, no larger than a seed.
 
-A letter lay on the desk with a gold seal that was not pink at all. She had not opened it since breakfast. She pushed it to the corner of the desk, in line with the edge, and opened a file instead.
+"Well," said Lysette, to the empty room. "That is what we have."
 
-* * *
+"Talking to yourself again?" said a voice from the door. It was the old gardener, with his rake and a bucket.
 
-She had asked the registry for the file at the start of the week, because the Committee could ask for any student with more than thirty absences. The registry took four days to find it, and when it came, it was the thinnest file she had ever held.
+"The ink is gone."
 
-*Wren, E. Born PR 94, Thornmere duchy. Parents: none listed. Guardian: the palace (royal scholarship, ward status). Entered school PR 108. Bell test: three. Disciplinary: none. Medical: see headmistress. Correspondence: none.*
+"Then borrow some."
 
-"Correspondence, none," she read out loud to the empty office.
+"From whom? I have asked everyone. The kitchen has pink, and the library will only lend ink to people who are quiet."
 
-Five years, and not one letter from home, and not one from anywhere.
+"You are quiet."
 
-"Everyone gets letters," she said. "Felix gets socks every second week. Rowan has no family, and sixty men at a fort write to him. They spell badly, but they write."
+"I am being efficient. It is different."
 
-Wren had nothing.
+He laughed, and went off down the corridor, and she was alone again with the seed.
 
-*Medical: see headmistress.* She had already seen the headmistress's writing, on a roof, about a foot from her face.
+She wet her finger with a little water from her cup, rubbed the seed into a smear, and wrote a single line on a card with the point of her pen. It would last one name. She had to choose whose.
 
-"There's nothing wrong with it," she muttered. "That's what's wrong with it."
-
-A file with a problem in it told a story, and this one was clean, like a floor someone had scrubbed too hard.
-
-"So what did you spill?" she asked the page.
-
-She wrote in her own book, *Wren: no family, no letters, no illness on record,* and looked at the line.
-
-"It's not your business," she told the page. "You know it isn't."
-
-She drew a neat line through the words, but she had written them.
+On the desk lay her list. At the top of it, underlined twice, was *Wren, E.*
 
 * * *
 
-Our group ate at the long table by the east windows, by order, and Lysette came at noon with her book under her arm. Four of them were there, and one was missing.
+His file was on her left, thin and grey. She had asked the records clerk for it two days ago.
 
-Rowan was not really missing. He sat at the next table with Clara and her friends from the healers' wing, and he was trying to open a pot of honey with the handle of a spoon.
+"Wren?" the clerk had said. "You want Wren?"
 
-"Give it here," Clara said, laughing. "You'll break the spoon."
+"Is that a problem?"
 
-"I won't! It's a strong spoon!"
+"No, vice-chair. Only, there isn't much to want." And he had handed it over with a look that said *Good luck.*
 
-She laughed at him, and he laughed because she did, at the same moment, as if someone had counted them in.
+She opened it again. It took only a minute to read, and that was the trouble.
 
-"Lysette!" Rowan waved a spoon with nothing on it yet. "Do you want honey? I'm about to have honey!"
+*Wren, Eden. Year 5. Roof sleeper (medical exemption). Absences: sixty-one.*
 
-"No, thank you, Rowan."
+That was all. Below it, nothing. No complaint from a teacher. No note from a healer. No fight, no late fee, no prize, no warning for sleeping in any class. Four years at the academy and there was not one stain on the page. Every file she had ever read had stains. A boy who lost his temper once had a note about it. A girl who won a prize had a letter. Even Rowan's file had a comment from a cook, about a lost cake.
 
-"You say that now!"
+Eden's was clean in the way a table is clean after somebody has scrubbed it hard.
 
-She sat at the far end of her own table, opened her book, and ticked Felix and ticked Wren. Wren had a cut over his left eye, a day old, with a crooked strip of plaster on it.
+"Somebody has been tidying you," she said, aloud, to the paper.
 
-"What happened to your face?" she asked.
+"Vice-chair?" The clerk's head came round the shelf. "Did you say something?"
 
-He looked up from his bread. "A door."
+"Who last handled the Year 5 files?"
 
-"You walked into a door."
+"Everyone, vice-chair. That is the trouble with files."
 
-"It was more that the door was there."
+"Thank you. That is no help at all."
 
-"A rude one, I suppose."
+"I try," said the clerk, and went away again.
 
-"Very."
+She turned the page over, as if there would be more on the back. There was a faint line of old pencil in one corner, rubbed out so thoroughly that the paper had gone shiny. She held it to the window. She could not read a word of it.
 
-"Did it say sorry?" she asked.
+It was a small thing, but Lysette was the sort of person who could not leave a small thing alone, and she knew it, and she had learned long ago that this was both her best habit and her worst. She wrote *Ask who tidied this* on a scrap, and put it in her sleeve.
 
-"It wasn't that kind of door."
+Then she took the dry seed of ink, and wrote the name she had chosen on the warrant, and went out to do her rounds.
 
-She did not believe him, and she could not say why.
+* * *
 
-"Is it going to happen again?" she asked.
+The duel was at eleven, in the north yard, and it was a small, quiet, official one.
 
-"The door? Probably not."
+A Year 4 boy had called out another over a borrowed book. The Committee did not allow fighting, but it did allow duels, if the proper form had been filed and a referee named. The referee was always Lysette. She had read the handbook so many times that she could recite the margin notes, and most of the margin notes were hers.
 
-"That is not an answer."
+She drew the ring herself, with the last inch of white chalk, on the flagstones by the well. It was three paces across. She drew it slowly, because she knew that the chalk would not last another one.
 
-"It's the one I have."
+"Feet inside the line," she told them. "If either foot crosses it, that is a yield. No weapons that are not on the form. No help from the crowd." She looked up at the crowd, which was five friends, a pigeon and the old gardener with his rake. "Is that understood?"
 
-It was not Committee business, so she ticked the box for *present* and moved on.
+"Yes, vice-chair," said both boys, together.
 
-Seraphine arrived the way she always did, without being asked, and she did not sit. She stood behind Felix with a hand on his chair, tilted her head at Wren, and stared.
+"Begin."
 
-"That cut is very dashing. Was it for a lady?"
+It lasted forty seconds. The taller boy threw a sheet of wind that was clean and quick and well made, and the smaller boy took it on his forearm and was knocked back a step, and his heel scraped across the chalk.
 
-"No."
+There was a pause. Everyone looked at the line.
 
-"Shame. I would have liked to hear about her." She smiled. "You'd save me, right? If I needed it."
+"Vice-chair?" said the old gardener. "Does he count?"
 
-"Why ask him that?" said Lysette. "Do you two have a history?"
+"I am deciding."
 
-"Only a joke," said Seraphine. "Ask him."
+It was smudged. A grey tail ran out from the ring, as if a snail had walked across it. Both boys looked at her.
 
-Lysette looked from one to the other and wondered why a princess would ask a sleeper that, and then she put the thought away for later.
+"He crossed," said the taller boy.
 
-Wren thought about it while he chewed, and he really did think.
+"He didn't," said the smaller. "It was the wind that moved the dust."
 
-"Probably," he said. "If I'm awake."
+"The line is gone!"
 
-"You're never awake."
+"The line is still there," said Lysette.
 
-"Then probably not."
+She knelt on the stones and put her finger on the faint place where the white had been. It was a trick of the light, and she knew it. She had drawn the circle, and she remembered where every inch of it lay, because she had walked it with her own feet.
 
-Seraphine laughed, a real laugh that surprised her. But under it, for a second, her face went still and careful. Then she put that away and turned to Felix.
+"The ring is the chalk," she said, "but the chalk is only a mark of where the ring was drawn. The rule is the place, not the powder. His heel is here." She tapped the stone. "The line was here. He is two fingers inside. He did not yield."
 
-"Right. Attempt one. Felix, why did the griffon leave the dance early?"
+"That is not fair," said the taller boy.
 
-Felix looked up at her.
+"No," said Lysette. "It is the rule. The rule is not always fair. It is only always the same."
 
-"Because it was *feathered out*," said Seraphine. "Tired. Feathered. It's a pun. You're allowed to make a noise."
+He opened his mouth and shut it again. He was clever enough to see that she was right, and young enough to hate it.
 
-Felix thought about it. "Griffons don't go to the dance."
+"Continue," said Lysette, and stood up, and dusted her knees. Her hands were steady. They always were, when the rules were clear.
 
-"That's not the point."
+The smaller boy won in ten seconds, by being stubborn. Both bowed and shook hands, and the old gardener clapped once with his rake under his arm.
 
-"They're not allowed in the big hall. There was a rule after the one that ate the cake."
+Nobody had noticed that she was watching, over their heads, the north gate, where a boy might have walked in and sat down on the wall in the sun.
 
-Seraphine stared at him, and then she took a pen from her sleeve and wrote a small, neat *1* on the back of her left hand.
+He had not. She felt, absurdly, that it was a breach of something.
 
-"That's one," she said. "Attempt two is tomorrow."
+* * *
 
-"Is there a prize?"
+At lunch, there was a table by the window with a full pot of tea on it, and four empty chairs, and she sat down at the end of it and opened her letter.
 
-"Yes. You laugh."
+It had come that morning in her mother's small neat writing, with the House seal pressed in black wax. She had been carrying it unopened in her sleeve for four hours.
 
-She went back to her own table, and Felix watched her go. He did not look like a man who had won.
+She read it twice. It was a short letter. It did not say anything new. It said that the House had endured a hard year, and that people spoke, and that a daughter of Hollen who sat on a committee must be a model of everything the name had lost. It said *our shame* three times. It did not say what the shame was. It never did. It said *remember who you are,* and then, at the end, in smaller writing, *I hope you are eating.*
 
-"You're staring," he said quietly, without looking up.
+She folded it, put it in her pocket, and found that her eyes had gone a little hot.
 
-"I'm supervising."
+She looked up. It was a mistake.
+
+At the next table, Rowan was laughing. He was telling a story with both hands, and Clara had her fist against her mouth, and was bent double over her plate, and her shoulders were shaking. They looked like a painting. They looked happy, and warm, and right, and it was the thing Lysette had been looking at, with a hurt in her chest, for a long time.
+
+She waited for it to hurt.
+
+It did, a little.
+
+"Lysette!"
+
+A tray landed on the table beside her. Seraphine sat down, bright and quick, her copper braid half undone, and behind her came Felix, quiet, with a bowl of soup, and behind him, like the end of a procession, came Eden Wren.
+
+"We are joining you," said Seraphine. "You looked sad. I decided it was my duty."
+
+"I am not sad. I am reading."
+
+"You are reading a letter you are not reading. Felix, say something."
+
+"Hello," said Felix.
+
+"Hello, Felix," said Lysette.
+
+"You see?" said Seraphine. "She at least tries."
+
+"Is that a letter from home?" said Seraphine, nodding at Lysette's pocket.
+
+"It is only news."
+
+"Bad news?"
+
+"The usual kind. It is nothing you can fix."
+
+"Then I am sorry," said Seraphine, and for once she did not make a joke of it.
+
+"That was a poor start." Seraphine turned, with great ceremony, to Felix. "I have a joke. Listen. A knight and a goose walk into a tavern."
+
+Felix looked at her.
+
+"The goose says, *I'll have what he's having.*"
+
+There was a long silence. Felix ate a spoon of soup.
+
+"Attempt one," said Seraphine, writing it on her napkin. "Failed. I will get you, Felix. I have a hundred."
+
+"Eaten today?" said Felix, to Eden, quietly.
+
+"Technically."
 
 "Mm."
 
-She noticed she had been watching all of it. Seraphine and Felix, Wren chewing, the plaster on his eyebrow. The next table had gotten louder at some point.
+Lysette looked down at her cup so that no one would see her mouth, which had done something it was not supposed to do.
 
-"I got it open!" Rowan shouted. "And on my sleeve!"
-
-Clara laughed, and Lysette did not turn around. She looked at the clock over the food windows, and it was twenty past one, though she had sat down at noon.
-
-She ticked a box that did not need ticking.
+It was not a laugh. It was only the beginning of one.
 
 * * *
 
-The duel was at the third bell, in the long yard, and it was hers because there was no one else.
+Later, in the window seat, when the others had gone to find a book, Seraphine leaned across and spoke to Eden. She said it lightly, over the rim of her cup, the way she said everything.
 
-Florian, a fourth-year boy, had said something in a hallway about the debts of Gisela's father. Gisela asked for a duel in the proper way, on the proper paper, and Lysette had to admit she liked that.
+"You'd save me, right? If I needed it."
 
-"Written, signed, and in the right color," she told the empty ring. "Good for you." The rules said one officer should judge and a second should confirm. There was no second.
+Lysette stopped with her spoon in the air.
 
-She had prepared, so she walked around the ring and checked the chalk line, which was whole, twelve paces across, and then she checked both blades and both students' sleeves.
+*Why would a princess ask a sleeper that?* thought Lysette. Seraphine had said it as if it were an old joke between them, but a joke needs two people who have told it before. Lysette kept her face still.
 
-"Anyone who steps down onto the sand gets written up," she told the thirty or so people on the yard wall. They could not see the color of her seal from up there, so they believed her.
+Eden did not look up from his soup. He thought about it. She saw him think about it, honestly, like a boy being asked a sum.
 
-"Rules, please," she told the duelists. "First clean touch wins. Blunt blades. Stay inside the chalk."
+"Probably," he said. "If I'm awake."
 
-"Understood," said Gisela.
+"*Probably?*"
 
-"Whatever," said Florian.
+"Depends on the distance."
 
-"Begin," said Lysette.
+"You are the worst friend in the school."
 
-It went fast, because Gisela was better and she knew it. Florian walked in circles, and then came in low, and she turned his blade and touched him on the collarbone. It was a clean touch, and the wall cheered. "Point!" someone shouted. "Point to Gisela!"
+"Felix is worse," said Eden.
 
-"Foul!" Florian said, before the cheer was over. He pointed at the chalk. "She was out. Look. Her heel is over."
+"Felix is not here to defend himself."
 
-Lysette looked, and Gisela's left heel was over the line, by the width of a finger, no more, but over. Gisela stared at her own foot as if it belonged to someone else.
+"You asked."
 
-"You see it," said Florian. "Everyone sees it."
+"I did." Seraphine laughed, and her braid came a little more undone. "You are a bad liar, Eden Wren. You'd run the whole way."
 
-"I see a heel," said Lysette.
+"Probably," said Eden again, and he almost smiled.
 
-"Well, then!"
+Lysette set her spoon down.
 
-"I wasn't out," said Gisela. "I *wasn't*. I know where I was!"
+It was ridiculous. She had read his file. She had sat in a rocking chair for an hour. She had a card in her sleeve with the words *Ask who tidied this* on it. She knew that something about this boy did not fit, and she meant to find out what, with a pen and a list and a great deal of patience, because that was what she did.
 
-"She was out!"
+But here, at the table, with a pot of cooling tea, there was a drowsy quiet, and the sun lay on the floor in a long yellow bar, and a boy was eating soup beside her with his eyes half shut. And it came to her, quite suddenly, that she had been sitting here for an hour.
 
-"I was not!"
+Rowan was still at the next table. Still laughing.
 
-The wall began to shout, half of them saying out and half of them saying in.
-
-"I need a minute," said Lysette.
-
-"For what?" Florian laughed at her. "It's right there!"
-
-With a second officer, they would have compared what each one saw. With ink, Lysette could have sealed a first ruling and sent it to the chair. She had neither. She had her own eyes, and they had watched the blades and not the feet.
-
-"One minute," she said again, quietly, to herself. "You have one other thing."
-
-She had not used it in eight days, because she had stood in the tunnels with her hands shaking and her gift right there, and she had not used it. She would not think about why on a dueling ground in front of thirty people.
-
-She knelt by the ring and put her palm flat on the sand.
-
-Witness was not cheap, because it took from behind her eyes. Half a minute gave her a headache, and five minutes gave her a nosebleed, and once she had gone back an hour and slept for a day after. This time she went back thirty seconds.
-
-The yard turned thin and gray around her, and in pale gold ghost-light the fight played again, with the circling, the low attack, the turn and the touch. Gisela's ghost-heel came down inside the line, a hand's width inside.
-
-And the line moved.
-
-Lysette watched a thread of chalk slide across the sand as if someone pulled it on a string. It moved an inch, then two, toward Gisela's foot, at the moment of the touch. On the far side of the ring, Florian's ghost-hand hung down at his hip with two fingers bent, and his ghost-lips were moving.
-
-His gift was small and could only nudge things, the way wind moves dust or turns a page. She had read it in his file once and forgotten it, but it was enough to move a line of chalk.
-
-She let the light go. The headache slammed in behind her eyes like a door slamming in another room.
-
-"Touch to Gisela," she said. "Florian, come to the Committee office at the fifth bell. Bring the chalk."
-
-He went white. "You can't prove it."
-
-"I can," said Lysette. "Fifth bell."
-
-"How? You didn't even look at my feet!"
-
-"I didn't need your feet. I looked at your hand."
-
-He opened his mouth and shut it. On the wall, the people who had been arguing went quiet, and then started to argue about something else.
-
-Gisela came over afterward to thank her. "How did you know? I thought I would lose on the heel."
-
-"I looked again," said Lysette. "Properly. It's my job."
-
-"You looked at his hands."
-
-"Yes."
-
-"Nobody ever looks at the hands."
-
-"I do," said Lysette. "Now go and sit down. You are shaking."
-
-That was almost true, about looking again. She did not say it was the first time in eight days she had felt sure of something she saw.
+She had not thought of him once.
 
 * * *
 
-She opened the letter in her room that night, with the shutters closed and no lamp, because she had no oil either.
+That evening she let herself into the Committee office and switched on a single mana-lamp, and sat in the chair that did not rock.
 
-Her mother wrote the way she sat in court, upright, with no decoration, every sentence exactly as long as a sentence should be. The Seal was a joke in the lower city. A clerk had vanished, and an old woman had been held and then let go, and the Seal had looked foolish and cruel in the same week, which took skill. The family name was still said in a certain voice at certain tables, and it would be for years. *We will act as if it were not.*
+She had her list. She had her card. She had her mother's letter, folded small. She put her hand into the pocket of her coat to find a pencil.
 
-Then, lower down, the writing changed a little. It did that when her mother wrote something she had not planned.
+Her fingers touched something soft.
 
-*One good thing. In the lower city, a crowd brought oil to our post. A young man came from nowhere. He stood between our door and a burning lamp, and he took a stone for it. He was gone before anyone could ask his name. Two of our juniors are alive because of him, and an old woman. I mean to find him and thank him. Our family pays its debts. Your brother would have liked him, I think.*
+She drew it out. It was a handkerchief, white and a little crushed, with a feather sewn into one corner in thin silver thread. She had said she would wash it. She had said so on the first day, on a roof, to a boy with grass in his hair, and she had meant it. She was a person who meant things.
 
-*Corentin would have been twenty on the fourteenth. Wear the locket, if it is mended.*
+She held it up to the lamp. It still smelled of grass, and apples, and a little of warm sun.
 
-Lysette sat on the edge of her bed with the letter in her lap.
+The tap was by the window. The soap was in the drawer. It would take five minutes.
 
-"Twenty," she said to the dark. No one answered. No one had answered for a long time.
+Lysette sat in the quiet office, with the handkerchief in her two hands, for a long, long time.
 
-The locket was not mended. It lay in a drawer in two pieces, with the chain coiled beside it, and she did not take it out. Instead she emptied her coat pockets onto the blanket, as she did every night. Her pencil. Her book. Half a broken baton, no use to anyone.
-
-And the handkerchief.
-
-It had silver thread along one edge and a small feather sewn in the corner, and it still had a fold where someone had made it small. One side had a faint mark where she had pressed it to her face on the roof, three weeks ago. It smelled of not much. Grass. Cold air. Him, a little, maybe. She was not going to think about that.
-
-"I'll wash it," she had told him. It had sounded like a promise. It had sounded like a rule.
-
-The basin stood on the stand by the window, with water in the jug and soap beside it. At least the bursar had not deferred soap.
-
-She sat with the handkerchief in both hands and the letter on the blanket beside her. *I mean to find him and thank him.* The broken baton. The dark.
-
-Then she folded it again, small, along the old fold, and put it back in her pocket.
+Then she folded it again, along the same creases, and put it back in her pocket, and did not wash it.

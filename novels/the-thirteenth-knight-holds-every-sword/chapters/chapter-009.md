@@ -1,175 +1,235 @@
-# Chapter 9: Not Technically a Veil
+# Chapter 9: Orders I Have Not Earned
 
-"Last car down, son. Are you riding it or writing it a poem?"
+"Left, not right," said Vesk. "Right goes past the bakery, and you will stop at the bakery."
 
-The funicular man had a pipe that he never lit and a lantern that he did. He held the lantern up to my face as if he expected to know me. He did not. No one ever does. That is what my face is for.
+"I will not stop."
 
-"Riding," I said.
+"You stopped yesterday. You stood there for four minutes and looked at a loaf."
 
-"Curfew is the tenth bell."
+"I was thinking."
 
-"I have a pass."
+"You were *hungry*, and you call it thinking because it sounds better." His voice came out of my shadow, thin and dry. "Go left."
 
-"Of course you do." He took it, looked at it upside down, and gave it back. "They all have passes. The ones without passes take the stairs and break their necks. Get in."
+I went left. The lower city was getting dark, and the shops on Wick Street were pulling down their shutters one by one with a long iron rattle. It was the first evening of the month, and on that evening I walked to the palace, to sit in a small room and tell a tired woman what I had done. I wore my plain school coat and carried nothing. A boy with a bad habit of sleeping on roofs is allowed to walk where he likes, and no guard has ever looked at me twice.
 
-The car was a wooden box on iron wheels, with benches on two sides and windows that rattled. It rode down the cliff on a cable as wide as a man's arm. If you sat on the left, you watched the city rise up to meet you, with the river, the palace on its hill across the water, and the lower city, a long smear of lights.
+I liked the walk. It was the one hour of the month when no one asked me for anything. The air smelled of coal smoke and hot oil, and a motor-car rattled past with its horn going, scaring a cart horse. From an upstairs window a woman was singing about a lost goat. The late sun lay red on the chimney pots. I noted that I was comfortable, which happens to me about twice a month.
 
-Tonight the smear had a dark spot in it. In one part of Lantern Ward, the red lanterns had gone out in a ring, as if someone had pressed a thumb on them. I sat on the left and watched that ring all the way down.
+Then I came to the corner, and I heard the first blow.
 
-* * *
+It was a deep wooden thud, like a drum under a floor. A pause. Then another, and a crack, and the thin sound of a child crying.
 
-Once a month I met Ysolde at the palace. She held no other meeting there, because the King liked to drop in, and he could not drop in at a bookbinder's shop. You went in by the Gardeners' Gate on the river side and climbed a stair that smelled of dirt and plants. No one stopped you. A clerk at the bottom had been told that a student came on the first of each month to pick up a book.
+"Eden," said Vesk, quietly. "Not our business."
 
-The fast way from the funicular to the gate went through Lantern Ward. I passed the market and the stall where an old woman sold candied pears. The stall was shut, with the shutters down and a padlock on them, and a yellow notice from the Golden Seal was pasted across the wood. *Closed pending inquiry.* The woman's cat sat on top of the shutters with its paws tucked under, staring at the notice as if it would read it if it waited long enough.
+"No."
 
-I stopped, which I do not usually do.
+"We are late already."
 
-A revenue clerk had bought one pear from her every night for three weeks. Twelve days ago he had disappeared in a dye-seller's cellar, and that was because of me. The Seal was good at missing clerks. They asked who saw him last, and who saw him every night.
+"I know."
 
-Two streets farther on, I found out where the lanterns had gone.
-
-* * *
-
-There was a chandlery on a corner of a narrow street, an old candle shop with a bow window and a sign shaped like a candle. The Seal had taken it over as a post, and someone had hung a yellow flag on the sign. Someone else had pulled it down and thrown it in the gutter.
-
-A crowd filled the street from wall to wall. They were Lantern Ward people, dyers and porters and the fried-dough girl from the market, and families who had come north in the bad years and stayed. It was not a mob yet. It was a crowd that had not decided. They had taken the lanterns off their own doors and held them unlit, and I did not know why until I smelled it. It was raw lamp oil, and every lantern was full.
-
-A man at the front kept shouting a name I did not know. Then he shouted the pear woman's name, and I knew that one.
-
-"She's seventy-one!" he yelled. "She's *seventy-one!*"
-
-I could see her through the bow window by the light of one candle. She sat on a stool in the middle of the shop, small and straight, with her hands in her lap. Behind her stood two Seal juniors in yellow armbands, barely older than me. One had his hand on his baton, and the other had a hand on the first one's arm.
-
-The door was shut. It was oak with iron studs, made to stop thieves who knew what lamp oil sold for.
-
-A broad man near the front wore a porter's strap across his chest. He lit his lantern. It caught all at once, because he had spilled oil down the outside of the glass, and the crowd made a noise. Some people pulled back and some leaned in. The man did not hold the lantern like a light. He held it out at arm's length and swung it a little, measuring the distance to the door.
-
-It was thirty feet. If it flew, the door would burn, then the frame, and then a shop full of wax and wicks and barrels would go up like a match. An old woman sat on a stool in the middle of it.
-
-I worked it out in the time it takes to say it. There was one old woman, two boys with batons, and one candle. I could open a door in the porter's shadow and drop him into whatever lay under the street, but twenty people would watch a man fall through the ground. By morning every Seal man in the city would stand on this street with a measuring tape. I could call my own white light through the lantern from the dark, but twenty people would see it, and Ysolde would see a report.
-
-What I was allowed to use was a short black lance. Every scholarship student was known to carry one. And I had my hood.
-
-I put the hood up and walked into the crowd. That was easier than it sounds, because people let you through if you walk like someone sent you. I came out at the front, three steps from the porter, with my back to the oak door and my hands empty. I turned around and looked at him.
-
-He was bigger up close, with sweat in his eyebrows. It was not a bad face. It was a face that had been shouting for an hour and was scared of what it would do next.
-
-"Move," he said.
-
-"She's in there."
-
-"*I know she's in there!* That's why!" His voice cracked. "They'll hang her for that clerk. They hang us for anything."
-
-"She sold him pears," I said.
-
-That was not the answer he wanted. It was not really an answer at all. He drew his arm back.
-
-I knocked.
-
-The lance came into my left hand out of nothing, which was normal, because half the students in my year could call a weapon. Then it folded. It opened out into a narrow black door-shield with an iron ring on the front, and it stood up before me. I planted my feet. The lantern hit it in the center and burst.
-
-Burning oil ran down the metal like rain down a window. The heat came through onto my hands, and fire spilled onto the stones at the foot of the shield and lay there in a puddle. It went nowhere else. The shield stood between the fire and the shop and did not care.
-
-Someone screamed. Someone always does.
-
-The next thing to come was a cobblestone. I did not see who threw it. I saw it over the top of the shield for a moment, turning in the air. I could have stepped aside, but then it would have hit the bow window, or the candle, or the old woman's face.
-
-I did not step.
-
-It hit me above the left eye with a white flash and a noise like a dropped plank. I was still standing. I had decided that before. Something warm ran into my eyebrow.
-
-The crowd went quiet, a special kind of quiet I had heard on other streets. It never lasted long. The porter stared at the burning puddle. He had let go of the handle, and his hands hung open.
-
-At the far end of the street, whistles started. It was a whole Seal squad by the sound, running up from the river. The crowd heard them too and began to fall apart at the edges, because people remembered they had somewhere else to be.
-
-I folded the shield back into a lance and the lance back into nothing. I kept my head down and left with them.
-
-Behind me, through the bow window, the old woman had turned on her stool to watch me go. Her cat sat on the sill outside, between the glass and the flames, washing one paw.
+I walked on three more steps, and then I stopped, because the crying did not.
 
 * * *
 
-"Is that blood?" said Ysolde.
+The shop was a narrow one, painted green, with a brass key hung over the door and a sign that said it cut keys and mended locks. Three men stood in front of it. They had a long iron post between them, the kind used to hold up a market stall, and they were using it as a ram. The door shook each time they hit it. A strip of the wood along the top had already split.
 
-"Some of it."
+A fourth man stood back in the road with his arms folded, watching, and he was the one I did not like.
 
-"Whose?"
+He wore a clerk's grey coat. His skin was the colour of paper, and he smiled a polite, fixed smile that never moved. The mana-lamp on the corner lit him as it lit everyone. But the shadow on the cobbles at his feet was flat and thin, and it lagged a beat behind him when he shifted his weight, like a hole cut in paper.
 
-"Mine. A man with a cobblestone."
+"Veil," whispered Vesk. "Same kind as the exchange."
 
-"I didn't ask what he was holding."
+"I see it."
 
-She looked at the cut, took a clean handkerchief from her desk drawer, folded it into a pad, and handed it to me without a word. That was the nearest she ever came to fussing. Her office was high in the east wing, narrow and tidy, with three locked cabinets and a fourth that was not locked, because it only held forms.
+"You are in a school coat. You are walking to a meeting. You are *late*."
 
-"Sit down. The chandlery?"
+"I know that too."
 
-"You heard."
+The door cracked again. From inside, an old woman's voice shouted, hoarse and angry, "Go home, you thieves! There is nothing here! There is nothing here but keys!"
 
-"I hear everything that happens to the Golden Seal. They make sure of it." She sat and took the cap off her pen. "The pear woman was let go a quarter of an hour ago. No evidence. Someone upstairs had words." The pen did not move. "And someone in a hood stood in front of a Golden Seal post with a door-shield and took a stone for it. The report says young, hooded, door-shield. There are maybe two hundred young men in this city who carry a blocking lance."
+"Open the door, Mistress Ulrike," said the clerk, mildly, over the noise. "We only want the one you didn't cut."
 
-"Then it's fine."
+"I never cut it!"
 
-"Is it." That was not a question. She took a form from the fourth cabinet. "Moving on. Form 13-B. Your drill-warden."
+"Then it will be easy to give us."
 
-"It wasn't a Veil."
+I stood still at the corner. Here is what I knew. I could not use my armor in the open street, because the Thirteenth Vigil was a rumour, and every rumour needs a long time to die. I could not blow a whistle for the city watch, because the watch would ask a boy in a school coat what he was doing on Wick Street, and a boy who sleeps on roofs does not have good answers. I could walk away. That was the easy thing, and it was the sensible thing, and I had done it before, many times, and I had never liked myself afterward.
 
-"It was an enemy construct with black dust packed in its core. The form covers any enemy with that dust, and section four asks if it was a Veil." She turned the form toward me. Section four had two boxes, *Yes* and *No*. "You will tick no. Then section four-a asks you to explain why you are filling in a Veil form for something that is not a Veil."
+"Gorrath," I whispered.
 
-"Because you asked me to."
+The shadow at my feet went dark and deep.
 
-"That is not one of the choices."
+"Boy," said a voice, as soft as a lullaby. "Is it time?"
 
-"Then the form is wrong."
+"The green shop. The door. Hold it."
 
-"The form," said Ysolde, "has been wrong since the time of a very old king. It is still the form."
+"Oh, I will hold it so well," said Gorrath, and he sounded happy.
 
-The door opened without a knock. Ysolde stood up, and I stood a second after her, still holding the handkerchief to my eyebrow.
+* * *
 
-King Theodric was tall, and he stooped a little in doorways even when he did not need to. He wore shirtsleeves with ink on one cuff, and reading glasses were pushed up into his gray hair. He looked like what he had been doing, which was reading something long and dull in a chair by a fire. The sword at his hip was plain gray and plainly old, and I had never seen him without it.
+I stepped into the alley beside the shop and knocked once on the wall, where the shade was deepest.
 
-"Sit, sit," he said. Then he saw my face. "What happened to you?"
+A black door opened in the brick, the height of a man, and through it, on the other side, I saw the inside of the shop, a small dim room full of hanging keys. A girl of about six sat under the counter with both hands over her ears. The old woman stood at the door with a poker in her fist, her whole body shaking with fear and with rage.
 
-"A cobblestone, sir."
+Gorrath came through.
 
-"I can see it was a cobblestone." He looked at Ysolde, and Ysolde looked at her form. He looked back at me, at the handkerchief and the cut, for so long that I wondered what he saw. His face changed in a way I had no name for. Then it was gone, and he asked, quite gently, "Are you eating?"
+He had to turn sideways to fit. He walked across the shop floor in his black plate, nine feet of him, and the keys rang on their hooks as he passed. The old woman made a sound like a hen. Then he planted the tower shield flat against the door, from the inside, just as the ram came down again.
+
+*Boom.*
+
+The whole shop shook. The shield did not. A cloud of dust fell from the ceiling onto the old woman's hair.
+
+"Ma'am," said Gorrath, kindly, over his shoulder. "You may sit down. I am only the door."
+
+"Am I dreaming?" said the old woman.
+
+"Probably," said Gorrath. "It is better if you say yes."
+
+*Boom.* Outside, a man swore. The ram bounced. I closed my black door behind Gorrath and the alley went quiet, and I stepped out into the road with my hands in my pockets and my head down, the way a boy walks who has no idea what is happening.
+
+The three men looked round at me with the ram halfway up. The clerk turned slowly.
+
+"Move along, young man," he said, in his polite voice. "This is a private matter."
+
+"Sorry," I said. "I'm only looking for the palace road. I think I'm lost."
+
+"It is that way."
+
+"Thank you. I'm bad with streets."
+
+I walked toward him, and I did not look at the shadow on the ground. I only looked at his face, and I smiled the foolish smile I use for teachers. He did not see my left hand, down by my coat, open a small black door in the shade of his own flat shadow.
+
+"What is your middle name, sir?" I said.
+
+He opened his mouth. Nothing came out.
+
+Then the flat shape on the ground twitched, and the clerk dropped through the door in the road like a coin in a slot.
+
+* * *
+
+The three men with the ram did not understand what they had just seen, but they understood that the man who paid them was gone, and that was enough. One dropped the post. It landed on another's foot. They ran in three different directions, and the one with the sore foot ran slowest and said a word I will not write here.
+
+I closed the black door. It shut with a soft click. Somewhere under the city, I knew, there was a cellar with a grey flat man in it, and Ysolde would want to know about him by morning, and that meant one more form.
+
+I was looking up at the green shop when the door opened. Gorrath had gone back through the shadows, and the old woman stood in the doorway alone, holding the poker, and looked at me for a long time.
+
+"Was it you?" she said.
+
+"I don't know what you mean, ma'am."
+
+"There was a tall man. A tall man, taller than the door." She shook her head. "Never mind. I'm old. I see things." She held out her hand. In the palm lay a key, small and plain, worn smooth with use. "Take it. It opens nothing. My husband made it when we were young, and it never fit anything."
+
+"I can't take that."
+
+"You can. A shop that gets saved should pay."
+
+"Ma'am, I did nothing. I was lost."
+
+"Of course you were," said Mistress Ulrike, and put it in my pocket anyway. "Go on. You'll be late."
+
+I was already late, so I ran.
+
+* * *
+
+Ysolde Lisle sat behind a desk the size of a small boat, in a room with no windows, and she did not look up when I came in.
+
+She was a tall, thin woman of thirty-eight, in a grey coat buttoned to the throat. She had a long pale face and ink on her fingers. In front of her lay a stack of forms, each one squared exactly with the edge of the table. She wrote in a small, sharp hand, and she kept writing until she had finished the line.
+
+"You are forty-one minutes late," she said.
+
+"Wick Street. A shop was being attacked."
+
+"By whom?"
+
+"Three hired men and a Veil in a clerk's coat."
+
+"Where is the Veil now?"
+
+"In a cellar. I did not have time to ask him anything."
+
+"Of course not." She turned a page. "Form 13-B, then. Three copies."
+
+"He is not dead."
+
+"Then 13-C, for a capture. I must invent it." She wrote something. "While I am inventing, tell me about the construct in the Undercroft. The one with a heart of dust."
+
+"It was a training warden. Not a Veil."
+
+"The Veil made it run wild, so it is Veil by association."
+
+"Technically it is stone."
+
+"Then it is a Veil by association with stone, and I need a form that says so." She did not smile. She never did. But the corner of her mouth moved a little. "There is such a thing as 13-B-two. I wrote it last night in anticipation of you."
+
+"You wrote a form for me before I had done it?"
+
+"I know you, Eden."
+
+She finally looked up at me. Her eyes were grey and steady, and I felt the old feeling, the one I had at ten years old when the headmaster asked who had broken the window.
+
+"Now," said Ysolde. "The vice-headmaster."
+
+I kept my face still.
+
+"Strent signs the Undercroft key log. He signed the order for the construct's repair last spring. He has been at Hallowcrest for twenty-two years, and he is the only man there who has never been seen under a lamp." She tapped the paper. "I would like you to tell me what you have noticed about him."
+
+My mouth had gone dry. I thought of a small, soft hum in a dark room. I thought of a round kind face, bent over a page in the moonlight.
+
+"Nothing," I said.
+
+"Nothing."
+
+"He is kind. He gives out sweets. He forgets nobody's name."
+
+"That is a great deal to say for a man you have noticed nothing about."
+
+"There is nothing to report."
+
+She watched me. I made myself meet her eyes. It was a silly kind of pride, I know that now. I did not want to say it aloud, not to her, not to anyone, because if I said it, it would be true, and I would have to do something about it. For one more week, I wanted it to be a thing I had only heard in the dark.
+
+"Very well," said Ysolde. She opened a drawer.
+
+It was a deep drawer, and inside it, on top of a pile of papers, lay an envelope, old and cream-coloured, sealed in grey wax. She looked at it. Then she looked at me, and slid it back under the papers with one finger and shut the drawer.
+
+"What was that?" I said.
+
+"Orders you have not earned," said Ysolde.
+
+* * *
+
+The king came in at the end.
+
+He did not knock. He rarely does. King Theodric was forty-nine years old, a big man gone soft in the shoulders, with a grey beard cut short and tired brown eyes. He wore a plain dark robe with ink on the cuff, and he stood in the doorway with one hand on the frame, as if he wanted to come in and was not sure he was allowed.
+
+"Eden," he said.
+
+"Your Majesty."
+
+"Sit, sit. Don't stand for me." He waved a big hand. He did not come closer. He never did. "Are you well?"
 
 "Yes, sir."
 
-"Properly?"
+"Are you eating?"
 
-"There's a boy in my Lance who keeps giving me his eggs."
+"Yes, sir. Through the mouth."
 
-"Good," said the King. He was serious. "Let him." He touched my shoulder as he walked past, once and quickly, as if he wanted to check that I was there. To Ysolde he said, "Don't keep him long. He's bleeding on your forms." Then he left.
+Ysolde made a very small sound.
 
-Ysolde sat down, and I sat down too.
+"I meant," said the king, patiently, "are you getting enough to eat."
 
-"Strent," she said.
+"Three times today, sir. One of them was a sweet."
 
-My hand stayed on the handkerchief. "What about him?"
+The king laughed, a short, warm, unhappy laugh. "Good. Good. You were so thin, when you were small." He stopped. He looked at me for a moment longer than he had to, as a man looks at something he would like to say sorry to. "Well. Good. Ysolde will see to you. I only wanted to see your face."
 
-"The vice-headmaster sent a note to the bursar this morning. *Student out of bed, west workshops, after midnight. No harm done. I took a gentle view.* Your name is on it." She put the note on the desk between us. The writing was small and neat, and a tiny owl was drawn in the margin, the way some teachers do to show they are not angry. "And this morning, two of the dead teacher's wardens were back in their racks with their chests cracked. I want a report on Strent."
+He went out again. He closed the door with great care.
 
-"There's nothing to report."
+Ysolde waited until his steps had gone. Then she pulled a fresh sheet toward her and wrote three words on it, and turned it round so I could read.
 
-"You were seen."
+*Ember. Lower city.*
 
-"By a man who grades essays in the dark because lamps hurt his head."
+"There is a cell," she said. "Six or seven. They hide in the old tanneries, near the river. They have grown bold this month, and they have been asking about a student at Hallowcrest."
 
-"Eden."
+"Which student?"
 
-"He was kind," I said. "He sent me to bed."
+She did not answer at once. She put down her pen.
 
-All of that was true. I could hear the humming while I said it, four notes up, and the fifth one did not come. I did not tell her about that. I did not tell her about the top step, or my hand on the rail. I did not know why. No, that was not true. I knew why. I was the Black Order, and I did not freeze on stairs.
-
-She looked at me for a long time. Then she opened the third cabinet, the locked one, took something out, and put it on the desk with her hand flat on top of it. It was an old envelope, the paper gone the color of weak tea, with a pale gray wax seal I did not know. She did not turn it over.
-
-"What is that?" I asked.
-
-"Orders you haven't earned." She put it back in the cabinet and locked it. "Not tonight."
-
-"Because I didn't write a report."
-
-"Because you lied to me about a teacher. You are not good at it, and you think you are." She took a new sheet of paper and wrote on it, fast and square, and folded it in three. "New work. An Ember cell in the lower city, in the tannery streets. Four of them, maybe five. I think the clerk's ledger was going to them."
-
-I took the paper.
-
-"And Eden." She did not let go of it right away. "Watch the Tallis boy."
+"Rowan Tallis," said Ysolde. "Watch the Tallis boy, Eden. Not as an assignment. As a promise. If anything comes for him, you will be there first, and I will write the form myself."

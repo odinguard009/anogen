@@ -6,7 +6,7 @@ Ch 1 | "Nobody looks up at a roof. That is why the wise sleep there." - Saying o
 Ch 51 | "Count the lanterns in a city and you will know who is afraid of the dark, and who sells the oil." - Lanternhouse ledger, flyleaf
 Ch 101 | "Thirteen chairs, one table, and every knife beneath it polished." - Old Concord jest
 Ch 151 | "A name kept hidden is still a name. It only waits." - Verandel naming rite
-Ch 201 | "The narrowest water holds the widest grief." - Crimson Rampart watch-song
+Ch 201 | "The narrowest water holds the widest grief." - Rampart Host watch-song
 Ch 251 | "What the grey takes, it does not keep. Go and ask for it back." - Mansakar griot verse
 Ch 301 | "A court can hang a man for being feared. It needs no rope for that." - Inquisitor Theodora, private notes
 Ch 351 | "The deep refuses what the shallows welcome." - Jayavara sailors' proverb
@@ -14,7 +14,7 @@ Ch 401 | "Everything made remembers the hand that made it." - Inscription over a
 Ch 451 | "Mountains do not die. They wait for someone to climb them again." - Tawanqar terrace song
 Ch 501 | "When the gods argue, the mortals are the floor they pace on." - Saravant astrologers' saying
 Ch 551 | "Walk south until the world stops answering. Then keep walking." - Coalition order of march
-Ch 601 | "The wound does not close quietly." - Ivory Order field manual
+Ch 601 | "The wound does not close quietly." - Mercyhold field manual
 Ch 651 | "Write a man's name in your book and you will think he belongs to you." - Kremhold street saying
 Ch 701 | "There is a road through nothing. Only the loyal remember it." - Fragment, the Pillars' oath
 Ch 751 | "Some things must end. Some must be kept. Some have not begun." - Unfinished lullaby, last verse

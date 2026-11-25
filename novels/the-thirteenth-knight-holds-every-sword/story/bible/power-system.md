@@ -9,7 +9,7 @@ This file wins over powers.md, mana.md, combat-style.md and battle-craft.md wher
 5. TENET = satu kekuatan unik per orang, lahir dari keyakinan terdalam (Witness Lysette, Verdict Valerius). Bukan level.
 6. CLASS/JOB = peran yang "dibaca" planet saat orang mendaftar sebagai calon ksatria. Class = jenis petarung; Job = peran yang sedang dijalani. Job memberi nama pada skill yang dilatih. Bukan level.
 7. Bacaan class/job hanya terlihat oleh pemiliknya (dan pembaca). Arsip kerajaan hanya mencatat job yang didaftarkan.
-8. Eden terdaftar sebagai Black Lancer dan White Swordsman (tombak Ixa, pedang Ea). Saat menjadi Ksatria Hitam, bacaannya berubah menjadi Void Heir.
+8. Eden terdaftar sebagai Black Lancer dan White Swordsman (tombak Exa, pedang Inead). Saat menjadi Ksatria Hitam, bacaannya berubah menjadi Void Heir.
 9. Mantra (ward, bolt, sigil) = pola mana yang dipelajari; masuk ke dalam skill sebuah job.
 10. Relik dan Raiment = perlengkapan pinjaman dengan kemauan sendiri dan harga sendiri (Tolls). Kekuatan dewa (Door, Gate, Throne) berada di luar tumpukan.
 11. Tidak ada tabel level. Pertarungan diputuskan oleh pasangan lawan, medan, persiapan, harga, dan kecerdikan.
@@ -62,7 +62,7 @@ At the Bell Assessment the year a person turns 14 (and again each year), they la
 - CLASS: what kind of fighter or person the planet reads you as. One class. It changes only at a life turn. Examples: Knight, Ranger, Mender, Duelist, Warden, Commander. Rare classes exist that registrars only hear of in stories.
 - JOB: the role you act in now. One to three. A job names your learned skills (forms, spells, drills) and gives each skill one clear limit. A new skill comes from training plus a real test, never from a number going up.
 - The live reading can change mid-scene when the role changes (Eden is the example).
-- VISIBILITY: only the owner sees their own reading. Other characters see only what the owner declares. The Crown Register, the kingdom's record office, writes down the declared jobs, checked against the Bell's tones by a Golden Seal clerk. The Register is sealed like Tenet records: only the order master or the king's office may open it. Boards post ranks, never jobs. The reader sees a reading only through the POV owner.
+- VISIBILITY: only the owner sees their own reading. Other characters see only what the owner declares. The Crown Register, the kingdom's record office, writes down the declared jobs, checked against the Bell's tones by a Justiciar Seal clerk. The Register is sealed like Tenet records: only the order master or the king's office may open it. Boards post ranks, never jobs. The reader sees a reading only through the POV owner.
 - NOT: levels, stats, a hit-point bar, or a ranking. Two people with the same job can fight in opposite ways.
 
 ### On the page (format)
@@ -85,7 +85,7 @@ A Choir's silence stops spoken words; hand-sign spells still work, slowly.
 - God powers: Melsche Door, Sepiroth Gate, Valkyrie arts, Throne powers. They sit where a Tenet would sit but are not Tenets. They have their own prices.
 
 ## 5b. One example: all layers in one moment
-A Crimson Rampart knight holds a gate on the Wall. Six steps away, an Ember fires a pistol. She breathes in and raises her aura (MANA spent like a full bucket): the ball slides off her shoulder plate, and her hand stings. A second man lifts a crossbow, and she knows aura will not stop a bolt. Her job is Warden; its skill is a door-sized ward, and she casts it in two breaths (SPELL, a sprint of mana). The bolt cracks against it. Then her TENET, Shield, makes the ward hold its place while she steps out from behind it. Her reading never shows; the man only sees a tired woman who will not move.
+A Rampart Host knight holds a gate on the Wall. Six steps away, an Ember fires a pistol. She breathes in and raises her aura (MANA spent like a full bucket): the ball slides off her shoulder plate, and her hand stings. A second man lifts a crossbow, and she knows aura will not stop a bolt. Her job is Warden; its skill is a door-sized ward, and she casts it in two breaths (SPELL, a sprint of mana). The bolt cracks against it. Then her TENET, Shield, makes the ward hold its place while she steps out from behind it. Her reading never shows; the man only sees a tired woman who will not move.
 
 ## 6. What trained people can do (no levels; for imagination)
 - Ordinary person: no aura. A bullet, bolt or sword kills them. Household spells at most (warm a cup, light a lamp-stone).
@@ -102,7 +102,7 @@ Who wins is never settled by this list. A small tank used well beats a big tank 
 4. Aura is the base; spells and Tenets go on top. Hitting a knight's body means first beating their aura: a heavy blow, an aura-pushed blade, a sigil, or a trick.
 5. Spells need breaths; in a close fight, a fast blade beats a slow spell. Prepared wards beat both.
 6. A Tenet bends the fight's rules once in a clever way, inside its law. Show the law.
-7. Matchup beats size: Ea beats illusions and Veils; Rowan's light beats Husks; deep water beats the Hush; a Choir's silence beats spoken spells.
+7. Matchup beats size: Inead beats illusions and Veils; Rowan's light beats Husks; deep water beats the Hush; a Choir's silence beats spoken spells.
 8. Fatigue is real: after about fifteen hard minutes a trained knight's aura thins; mistakes start. Cost lands after the fight (cold hands, Frost, nosebleed).
 9. Guns and cannon do not end knights: mana fields foul powder and mana-locks near strong aura or wards; aura turns aside balls; wards catch shells; knights move faster than cannon aim (tech.md).
 10. Terrain and preparation decide most fights: light and shadow, height, crowds, water, ropes laid days before.
@@ -112,11 +112,11 @@ Who wins is never settled by this list. A small tank used well beats a big tank 
 |---|---|---|---|
 | Melsche Door (Eden) | god power, Emperor's gift | the SHADOW LEGIONS: he commands shadow knights, up to millions (section 15); shadow doors are only their exits and his roads | needs a hard edge of light and dark; door size = shadow size; summons drain mana each minute; deep use brings the Frost |
 | The Frost | cost of the Door | feelings go flat for hours; fingers white and numb | warmth slowly undoes it |
-| Ixa (dark lance) | Door gear | the door's frame drawn out: matte black lance, about 1.5 m, cold to touch; one knock folds it into a tall door-shield with an iron ring | free to hold; only as strong as Eden's grip and aura |
-| Ea (sword) | relic via the Gate | hand-and-a-half sword, pale blade like ice at dawn, plain grey grip; does not shine, makes light honest: illusions fail, Veils show grey | needs some light; cheap to hold, but still a small drain |
+| Exa (dark lance) | Door gear | the door's frame drawn out: matte black lance, about 1.5 m, cold to touch; one knock folds it into a tall door-shield with an iron ring | free to hold; only as strong as Eden's grip and aura |
+| Inead (sword) | relic via the Gate | hand-and-a-half sword of gold light made solid (owner order 2026-11-25), plain grey grip; shines like a low sun and rings softly when drawn, the loud opposite of Eden's black armor; makes light honest: illusions fail, Veils show grey | needs some light; cheap to hold, but still a small drain |
 | Sepiroth Gate | god power, Valkyrie birthright | summons ANY weapon or relic stored in the Sepiroth Vault (section 15); lends them by middle name | drain per second per relic; fever, nosebleed when overdrawn |
 | Raiments and Tolls | gear | holy armor, each with one power | Tolls add weight; seventh Toll Keeps (Eden: the Emperor surfaces) |
-| Umra / Aster | Door gear (Aster: Liora's work) | black plate rising from his shadow, silent | Frost; reads as Black Order to anyone who sees |
+| Umra / Aster | Door gear (Aster: Liora's work) | black plate rising from his shadow, silent | Frost; reads as Thirteenth Vigil to anyone who sees |
 | Ten Pillars | Door summons | each has own aura, skills and voice | drain per minute; big shadow for big summons; never kill humans |
 | Witness (Lysette) | Tenet | replays a place's last minutes as ghost-light | still place, time; headache at half a minute, nosebleed at five |
 | Dawnbreak (Rowan) | Tenet | gold light that burns Hushborn and throws hard shadows | drains warmth; makes him easy to see |
@@ -128,9 +128,9 @@ Who wins is never settled by this list. A small tank used well beats a big tank 
 
 ## 9. The Hush and its creatures
 - The Hush: a silent grey dimension eating land from the south pole. It drinks mana. Land it eats turns Pale (grey, dead, cold).
-- Husks: grey beasts. Lead goes in and the grey flesh closes around it like wet clay, so guns only slow them. Aura-pushed blades, spells, Rowan's light, Ea and deep water stop them.
+- Husks: grey beasts. Lead goes in and the grey flesh closes around it like wet clay, so guns only slow them. Aura-pushed blades, spells, Rowan's light, Inead and deep water stop them.
 - Choirs: Hushborn that make silence: no voices, no spoken spells. Hand signs and aura still work.
-- Veils: Hushborn wearing a human's face and life. Tells: their shadow does not breathe; they cannot say the victim's middle name; Ea's light shows the grey shape. A blade with aura through the core ends them; they fall to grey dust.
+- Veils: Hushborn wearing a human's face and life. Tells: their shadow does not breathe; they cannot say the victim's middle name; Inead's light shows the grey shape. A blade with aura through the core ends them; they fall to grey dust.
 - Hushborn in general: their cold brings panic. Aura holds it off; civilians break first.
 - Grey Grafts: Hush flesh grafted into a person; borrowed strength and cold, slow turning Hushborn.
 
@@ -149,7 +149,7 @@ Who wins is never settled by this list. A small tank used well beats a big tank 
 ## 11. Class and job table (registered / true)
 | Person | Registered (Crown Register) | True reading (only they see) |
 |---|---|---|
-| Eden | Knight: Black Lancer, White Swordsman | as Eden Wren: Knight, Black Lancer; as the Black Order: Void Heir |
+| Eden | Knight: Black Lancer, White Swordsman | as Eden Wren: Knight, Black Lancer; as the Thirteenth Vigil: Void Heir |
 | Lysette | Knight: Inquisitor | same; a hidden line wakes at ch 580 |
 | Rowan | Knight: Vanguard | same; a hidden line wakes at ch 470 |
 | Felix | Ranger: Archer, Tracker | same |
@@ -190,8 +190,8 @@ The registry cannot read beings it did not birth. Eden sees the Pillars' roles o
 | Eden | [Latch] (technique) | lance folds into the door-shield mid-thrust | traps the blade on the iron ring | only against a blade | ch 5 |
 | Eden | [Hinge] (technique) | pivot on the front foot like a door | the charge passes; lance butt to a joint | needs the enemy to commit | ch 16 |
 | Eden | [Draught] (technique) | lance through a narrow gap in a guard | stops a point at the throat | one exact opening | ch 22 |
-| Eden | [Lintel] (signature 1) | shield flat overhead, Ea drawn under it in one motion | ends the fight in one cut | must take the blow on the shield first | ch 25 |
-| Eden | [Lampwick] (signature 2) | Ea follows the seam its light shows | splits grafts, joints, illusions | needs light and a seam | ch 49 |
+| Eden | [Lintel] (signature 1) | shield flat overhead, Inead drawn under it in one motion | ends the fight in one cut | must take the blow on the shield first | ch 25 |
+| Eden | [Lampwick] (signature 2) | Inead follows the seam its light shows | splits grafts, joints, illusions | needs light and a seam | ch 49 |
 | Eden | [Threshold] | a door closes on an attack | swallows it, can release it later | one attack at a time; Frost | ch 180 |
 | Lysette | [Citation] (legal joke) | baton strike at the spot a replay showed was hurt | drops a bigger fighter | needs a replay first: headache | ch 45 |
 | Rowan | [Ithe] | spear held high, a gold burst from the tip | burns Husks back, throws hard shadows | leaves him cold and easy to see | ch 46 |
@@ -258,7 +258,7 @@ Odin's original plan is the truth. The words Door and Gate stay in the book as n
 - Rules: (1) the knight rises from a shadow as large as the unit; (2) each knight costs a little mana per minute, a Pillar costs a lot, a whole legion needs a day and a huge shadow (a city at dusk, a storm, an eclipse); (3) the Emperor's law: they never kill humans (they disarm, drive back, wall off); against Hushborn they kill freely; (4) what hurts them is felt by Eden as cold; (5) deep use brings the Frost; (6) light kills the exit: no shadow edge, no army.
 - The shadow DOORS seen on the page (dropping a Veil into a cellar, book-sized doors for Mirelle's blade) are the same power seen small: a shadow door is the exit and the road of his army. They are not a separate power.
 **B. The Dragon's power = the Vault (name: Sepiroth Gate).**
-- Eden can summon ANY weapon, armor or relic stored in the Sepiroth Vault: every holy weapon ever made on Elysmar. He calls it into his hand (weapons) or onto his body (Raiments). Ea is one of them.
+- Eden can summon ANY weapon, armor or relic stored in the Sepiroth Vault: every holy weapon ever made on Elysmar. He calls it into his hand (weapons) or onto his body (Raiments). Inead is one of them.
 - Limits: he must have met the weapon's will in the dream Vault (that gives him its name), the weapon may refuse a bad cause, each held relic drains him per second, and overdraw brings fever and nosebleeds. He can lend a relic to a person whose middle name he knows.
 - How it feels in a fight: personal and chosen (the right tool for this enemy), where the Legions are scale and strategy.
 **C. How the two work together:** the army holds the field; the Vault gives him the one right weapon for the enemy in front of him. Neither is a level. Each has a cost, and fights are still decided by matchup and preparation.
@@ -278,5 +278,5 @@ Odin's original plan is the truth. The words Door and Gate stay in the book as n
 **Armor-up scene (the Garo-style set piece; use for every Raiment and for Eden's armor).**
 1. The call: three knocks and the middle name (armor.md). 2. The sign: a sound and a change in the light (the knocker rings like a far bell; the shadow at his feet deepens). 3. The closing, in a fixed order: boots, legs, chest, shoulders, gauntlets, and the helm LAST, closing with a bell-note. 4. One unique detail per armor. 5. The clock: the Tolls are the time limit (calm: one toll in ten minutes; hard fight: one a minute; the seventh Keeps the wearer). 6. The cost lands afterwards.
 - Armor-up is a bold label moment: **[Armor name]** at the moment the helm closes (1-2 per chapter at most, with the other labelled attacks).
-- Eden's own armor: Umra (soldier plate drawn from his shadow, silent, costs the Frost) and Aster (his mother's work) are his anti-invader plate; Ea and Ixa are his weapons; the army fights beside him.
+- Eden's own armor: Umra (soldier plate drawn from his shadow, silent, costs the Frost) and Aster (his mother's work) are his anti-invader plate; Inead and Exa are his weapons; the army fights beside him.
 - Ward-plate is the common tier (every knight): its seals wear out; each fight against invaders spends seal-charge; an armorer re-seals it. Plot use: an unsealed glove, a cracked seam, a stolen helm filter are the small disasters that make invaders frightening.

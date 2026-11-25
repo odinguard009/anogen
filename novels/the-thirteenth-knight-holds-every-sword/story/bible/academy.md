@@ -2,7 +2,7 @@
 
 ## Basics
 - Terraced plateau above Solmarch, reached by the Long Stair and a vein-stone funicular. Founded PR 9 "to forge the hands that push the grey back". The most famous academy on Elysmar; foreign exchange places are a diplomatic weapon.
-- Run by the Bronze Bell Order. Headmistress Dame Hildegard Ostwald (half-blind, dry, Liora's old friend; knows Eden's name and power, not the Black Order). Vice-headmaster Halvard Strent runs daily life (beloved; the Tailor).
+- Run by the Bellwardens Order. Headmistress Dame Hildegard Ostwald (half-blind, dry, Liora's old friend; knows Eden's name and power, not the Thirteenth Vigil). Vice-headmaster Halvard Strent runs daily life (beloved; the Tailor).
 - About 2,400 students, 400 per year.
 
 ## Six years; the Twentieth Rule

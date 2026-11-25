@@ -12,7 +12,7 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [open] Rowan's light = Lirenne fresco | planted: ch 6 | due: ch 105-110
 - [open] Lilies revive near Clara | planted: ch 6 | due: ch 478-480
 - [open] Ashen card "Remember Thornmere" (bookmark) | planted: ch 7 | due: ch 24
-- [paid ch 18] Gray-coat Ember = Corwen, bag man; sent to Ysolde
+- [open] Gray-coat Ember = Corwen, bag man; sent to Ysolde | planted: ch 7 | due: ch 18 (source: outline/pacing.md)
 - [open] Strent: no lamps, Liora's lullaby, "your mother sang" | planted: ch 8 | due: ch 50, 185
 - [open] Seal seeks hooded door-shield; Beatrix: thank him | planted: ch 9-10 | due: ch 13-24, 72
 - [open] Ysolde's gray-sealed envelope | planted: ch 9 | due: ch 153-156

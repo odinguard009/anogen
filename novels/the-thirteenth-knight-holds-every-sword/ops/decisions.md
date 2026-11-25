@@ -28,3 +28,4 @@
 
 ## 2026-11-25 New start (owner order)
 Owner: "jangan hiraukan chapter 1-25 lama; kita mulai baru menggunakan anogen versi terbaru" (same novel, restart from chapter 1). Chapters 1-25, their summaries, state.md, EPUBs, run-log, scores, rewrite-queue and engine.json were moved to archive/restart-2026-11-25/ (git history keeps everything). They are NOT canon for the new draft. Kept untouched: story/ bible canon, outline (arc 1, ch 1-50), style, proposals. Arc 1 re-registered (1-50). NOT yet reset (need owner decision, see report): threads/debts/secrets/twists/timeline ledgers still carry progress marks from the first draft.
+Ledger reset (owner "reset ledger", 2026-11-25): only draft-progress marks were removed: debts.md `[paid ch 18]` Corwen line back to `[open]` (planted ch 7 / due ch 18, from outline/pacing.md); threads.md word "written" removed from rows 2, 4, 5, 6. All other ledger entries are plans (chapter numbers = planned) and were left as they are.

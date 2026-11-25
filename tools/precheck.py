@@ -42,16 +42,41 @@ def recent_edges(k):
     return edges
 
 
-def build(chapter=None, peek=False):
+ALWAYS_POOLS = re.compile(r"verandel|place names", re.I)
+
+
+def relevant_names(names, n):
+    """(shown, hidden culture names). A pool is shown when its first word appears in the outline lines for chapters n..n+2, or when
+    it is the home pool (Verandel) or the spare place names. No outline lines = show everything."""
+    import context_pack
+    outline = " ".join(context_pack.outline_lines(n, 3)).lower()
+    if not outline.strip():
+        return names, []
+    shown, hidden = {}, []
+    for c, v in names.items():
+        key = re.split(r"[\s(]+", c.strip())[0].lower()
+        if ALWAYS_POOLS.search(c) or (key and key in outline):
+            shown[c] = v
+        else:
+            hidden.append(c)
+    return shown, hidden
+
+
+def build(chapter=None, peek=False, names_scope="relevant"):
     n = chapter or next_chapter_number()
     lines = [f"## Precheck: chapter {n}"]
     lines.append("Variety constraints for this chapter (obey them):")
     lines.append(variety.format_picks(variety.draw(n, log_it=not peek)))
     names = unused_names()
-    if names:
+    hidden = []
+    if names and names_scope == "relevant":
+        names, hidden = relevant_names(names, n)
+    if names or hidden:
         lines.append("Unused names (use these for new characters/places; never reuse canon names):")
         for c, v in names.items():
             lines.append(f"- {c}: {', '.join(v)}")
+        if hidden:
+            lines.append(f"- Other name pools not shown (their nation is not in the outline lines for this chapter): {'; '.join(hidden)}. Need one? run `python3 tools/precheck.py --names all`.")
     else:
         lines.append("Unused names: none available (story/names.md empty or fully used); invent distinctive ones and register them in canon_names.txt.")
     edges = recent_edges(setting_int("repeat_window"))
@@ -75,8 +100,9 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--chapter", type=int, default=None)
     ap.add_argument("--peek", action="store_true")
+    ap.add_argument("--names", choices=["relevant", "all"], default="relevant")
     a = ap.parse_args()
-    print(build(a.chapter, a.peek))
+    print(build(a.chapter, a.peek, a.names))
 
 
 if __name__ == "__main__":

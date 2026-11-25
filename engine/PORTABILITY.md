@@ -4,7 +4,7 @@ The repo is self-contained: instructions (AGENTS.md), settings (engine/models.js
 
 ## What the AI must be able to do
 1. Read and write files in the repo, run `python3`, and `git commit` + `git push` (the repo is public on purpose).
-2. Run separate, fresh AI sessions for the roles (writer, critic, audit), one at a time. (Owner order 2026-11-25: sub-agents are NEVER used in this repo; perform each role inline instead.) If the host has sub-agents, do NOT use them. If not, open a separate fresh session/chat per role and paste the role prompt (engine/batch-writer-prompt.md, engine/batch-critic-prompt.md); never let one session write and then critique its own chapters.
+2. Perform every role yourself, inline, one stage at a time, in the one main session (owner order 2026-11-25, locked setting 13). Never start sub-agents, extra sessions or parallel runs; if the host offers them, do NOT use them. The same session writes and critiques, so the critic stage is a cold read of the text (engine/batch-critic-prompt.md) backed by tools/prepass.py, tools/verify_batch.py and the written checklists; it is not an independent reviewer.
 3. Send files (EPUB) and publish a page (reading page) to the owner, or tell the owner where the files are in the repo (out/).
 4. Talk to the owner in Indonesian.
 
@@ -14,7 +14,7 @@ The repo is self-contained: instructions (AGENTS.md), settings (engine/models.js
 ## Mapping
 - Model tiers: engine/models.json "tiers". strong = development editor, critic, auditor; standard = writer, canon keeper, orchestrator. Pick the vendor's equivalents; the quota weight is unverified, so measure.
 - Commit trailer: use "Co-Authored-By: <model name> <noreply@...>" with your own model name; any session link line is optional.
-- Cheaper model for mechanical sessions: since agents are never spawned (locked setting 13), the owner may open a separate session on a cheaper model for mechanical work only (renames, formatting, bookkeeping, archive). Never use a cheaper model to write or critique chapters.
+- Mechanical work (renames, formatting, bookkeeping, archive) is done by the scripts in tools/, never by a separate AI session or a second model.
 - Locks: always `tools/lock.py acquire/release` around every agent.
 - Tools that are Claude-specific in AGENTS.md are described by function only (run a role stage, publish a page, send a file).
 

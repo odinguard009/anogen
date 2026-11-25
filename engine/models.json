@@ -1,5 +1,5 @@
 {
-  "_note": "Model TIER per role. Map tiers to real models in 'tiers'. Quota weight per model is unverified: measure at the host's usage page and adjust. LOCKED by the owner (2026-11-25).",
+  "_note": "Tier labels (standard/strong) and per-role 'model' names are INFORMATIONAL. The single main session uses its own model for every role (AGENTS.md locked setting 13); no per-role model selection exists. Values are unchanged. LOCKED by the owner (2026-11-25).",
   "concurrency": {
     "max_agents_per_job": 1,
     "rule": "Never run more than one role stage per job. Acquire tools/lock.py before starting a stage; release after. No sub-agents, no delegation (locked setting 13)."
@@ -25,7 +25,7 @@
     "copy_critic": {
       "model": "opus",
       "mode": "inline-stage",
-      "when": "once per 10 chapters (owner order 2026-11-25): strict scoring and targeted patches (independent from the writer)",
+      "when": "once per 10 chapters (owner order 2026-11-25): strict scoring and targeted patches; a sequential stage in the same session, NOT an independent reviewer",
       "tier": "strong"
     },
     "canon_keeper": {

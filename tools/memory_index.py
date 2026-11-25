@@ -220,7 +220,12 @@ def query(text="", chars="", chapter=None, near=0, arc=None, typ=None, status=No
         where.append("m.status=?"); args.append(status)
     if where:
         sql += " WHERE " + " AND ".join(where)
-    sql += " ORDER BY (m.importance='major') DESC, m.chapter LIMIT ?"
+    if text.strip():
+        # relevance first (FTS5 bm25); importance and chapter only break ties. tools/bench_memory.py: chapter-order ranking
+        # found the labeled chapter at rank 1 for 9% of queries, bm25 for 100% (golden5 fixture, 23 queries).
+        sql += " ORDER BY bm25(mem_fts), (m.importance='major') DESC, m.chapter LIMIT ?"
+    else:
+        sql += " ORDER BY (m.importance='major') DESC, m.chapter LIMIT ?"
     args.append(limit)
     rows = con.execute(sql, args).fetchall()
     con.close()

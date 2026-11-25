@@ -1,34 +1,40 @@
 # The Hanging Loaf
 
-"You've passed that fishmonger twice," said Lysette.
+"You walked past that fish seller twice," said Lysette.
 
-She said it from about four feet behind my left shoulder, in the voice she uses to read a rule aloud. I kept walking. A man was selling eels out of a barrel, and I kept walking past the eels and did the sums. She'd been behind me since the funicular, and I hadn't seen her. Four years of learning not to be followed, and the Discipline Committee had undone it in nine minutes flat.
+She stood about four feet behind my left shoulder. She used the voice she uses to read a rule out loud. I kept walking. A man sold eels from a barrel. I walked past the eels and thought hard.
 
-"It's a good fishmonger," I said.
+She had followed me since the cable car. I had not seen her once. I had spent four years learning not to be followed. The Discipline Committee had ruined that in nine minutes.
 
-"Off-campus pass for Wren, E. Destination, a bookbinder's. The bookbinder's is the other way, behind the clock." She drew level with me, her clipboard against her chest. She'd changed her coat and put on a gray felt hat with a chin strap. It made her look like somebody's very efficient aunt. "I counted two false turns, a stop at a window you didn't look into, and a stop at a lamp-post where you did something with your boot. I'd like to know what. And I'd like to know why you were trying not to be followed."
+"It's a good fish seller," I said.
+
+"Your pass says you are going to a bookbinder. The bookbinder is the other way, behind the clock." She walked up beside me. She held her clipboard against her chest. She wore a gray felt hat with a strap under the chin. She looked like a busy aunt. "You made two false turns. You stopped at a window and didn't look in it. Then you stopped at a lamp post and did something to your boot. What did you do?"
+
+"Nothing."
+
+"And why were you trying not to be followed?"
 
 "I wasn't."
 
-"You were. It's fine. You're quite good." She frowned at the cobbles. "It's the shoulders. You keep them too loose. People who aren't being followed hold them like—" She thought. "Like they're carrying a tray."
+"You were. It's fine. You're quite good." She frowned at the street. "It's your shoulders. They're too loose. People who aren't being followed hold them like—" She stopped to think. "Like they carry a tray."
 
-I hadn't known I carried a tray. I filed it away.
+I did not know I carried a tray. I put that away for later.
 
-Here is where I stood. East of us, four streets away past the dye vats and the old salt exchange, were the tannery streets. Somewhere in them was a cell of Ashen Crowns, four or five people, including a man with an oak-bark thumb who'd watched Rowan across a gallery. That was the job. Ysolde had given it to me on a slip of paper, with the dryness of a woman who expects you to fail.
+Here was my problem. Four streets east of us were the tannery streets, where they make leather. A small group of Ashen Crowns hid there. There were four or five of them. One man had a thumb stained brown from oak bark. He had watched Rowan across a gallery. That was my job today. Ysolde had written it on a slip of paper. She expected me to fail.
 
-And a Hollen of the Golden Seal was standing at my elbow with a clipboard, a Committee excuse, a free afternoon, and a firm belief that I had a secret.
+Now a Hollen of the Golden Seal stood at my elbow. She had a clipboard, a good excuse, a free afternoon, and a firm belief that I had a secret.
 
-I did. That was the awful part. She was right about everything except what it was.
+I did. That was the awful part. She was right about everything except what the secret was.
 
-If I shook her off, she'd keep looking, and think more of it. If I led her to the tanneries, a Witness would be standing in the middle of a cell that wanted one of her classmates. At the first sign of trouble, she'd throw herself between them and anything. That's what she does. I went through it twice. Neither road went anywhere I could walk.
+If I sent her away, she would look harder. If I took her to the tanneries, she would stand in the middle of a group that wanted her classmate. At the first sign of trouble, she would jump between them and anything. That is who she is. I thought it through twice. Neither road was safe.
 
-"I'll show you where I was going," I said.
+"I'll show you where I'm going," I said.
 
 She blinked.
 
-"It's not the bookbinder's. You're right. It's a place down Candlewick Lane. I go once a week. You can see everything, write it down, and stop following me." I looked straight ahead. "I'd rather you did it with the lights on."
+"It's not the bookbinder. You're right. It's a place on Candlewick Lane. I go once a week. You can see it, write it down, and stop following me." I looked straight ahead. "I would like you to do it with the lights on."
 
-"That," said Lysette, after a moment, "is a remarkably cooperative answer. I find it suspicious."
+"That is a helpful answer," said Lysette. "I find it suspicious."
 
 "It's a short walk."
 
@@ -36,136 +42,142 @@ She wrote something down. We went.
 
 * * *
 
-I took her the long way. The long way was the safe way, and I hadn't decided yet.
+I took her the long way. The long way was the safe way. I still had not decided anything.
 
-We went down the Ropewalk, where they lay hawsers out in the sun and the whole street smells of tar and warm hemp. We went along the back of the dye market, where the ground is stained in stripes of indigo and madder and a yellow that gets into your teeth just from looking. We passed the pear woman's stall, which was open again. The shutters were up and the Seal's yellow notice was scraped half off. The old woman sat on a stool behind her pears with a very small, very stern cat in her lap.
+We walked down the Ropewalk. Workers lay thick ropes in the sun there, and the whole street smells of tar. We passed the back of the dye market. The ground there has stripes of blue and red and a yellow that makes your teeth feel strange. Then we passed the pear woman's stall.
 
-She saw us. She didn't know me. Her eyes passed over my hood and stopped on Lysette's hat. She nodded to the hat, gravely, like one power acknowledging another.
+It was open again. The shutters were up. The Seal's yellow notice was half scraped off. The old woman sat on a stool behind her pears. A small, stern cat sat in her lap.
 
-"She's the one the Seal took," said Lysette. "On Wick Street."
+She saw us. She did not know me. Her eyes passed over my hood and stopped on Lysette's hat. She nodded at the hat, very seriously.
 
-"Is she?"
+"That's the woman the Seal took," said Lysette. "On Wick Street."
 
-"There was a boy. Hooded." She said it without looking at me. "My mother's written to half the city. She wants to find him."
+"Is it?"
 
-"Does she know what she'd say to him?"
+"A boy helped her. He wore a hood." She did not look at me. "My mother wrote to half the city. She wants to find him."
 
-"I don't think that's the point." She walked on a few steps. "You'd think people want to say *thank you.* They don't. They want him to know it was seen."
+"What would she say to him?"
 
-I kept my face the way it was. It's a good face for that.
+"I don't think that's the point." She walked on a few steps. "You'd think people want to say thank you. They don't. They want him to know someone saw."
 
-Candlewick Lane runs downhill between two rows of old houses with their upper floors leaning together overhead. About halfway down, where the lane bends, there's a door with a baker's peel nailed over it. Under the peel, on a hook, hangs a loaf of bread with a ribbon tied around it.
+I kept my face the same. It's a good face for that.
 
-"Is that a *display*?" said Lysette.
+Candlewick Lane goes downhill between old houses. The top floors lean toward each other over the street. Halfway down, the lane bends. There is a door there with a baker's long shovel nailed above it. Under the shovel hangs a loaf of bread. A ribbon is tied around it.
+
+"Is that a decoration?" said Lysette.
 
 "No."
 
-"It's got a ribbon."
+"It has a ribbon."
 
-"That's the hanging loaf."
+"It's the hanging loaf."
 
-I opened the door. The bell over it was a cracked cowbell, and it went off like a small violent argument. The whole front of the room turned around.
+I opened the door. A cracked cowbell hung over it. It rang like a small angry fight. Everyone in the front of the room turned around.
 
 * * *
 
-The bakery was long and narrow and hot, with a counter at the front. A huge old oven sat in the back wall, giving off a heat you could lean on. The people were mostly southern refugees, families who came north from the duchies and never went back, and who take whatever lanes the city isn't using. Women stood at the counter in headscarves the color of old wine. A man had one leg propped on a barrel. Two grandmothers in a corner picked through lentils. And at the back, on benches in front of the oven, sat nine or ten children with slates.
+The bakery was long, narrow and hot. A big old oven stood in the back wall. Its heat was so strong you could lean on it.
 
-"*Wren!*"
+Most of the people were from the south. Their families came north long ago and never went home. Women stood at the counter in dark red headscarves. A man rested one leg on a barrel. Two grandmothers picked stones out of lentils in the corner. At the back, in front of the oven, ten children sat on benches with slates.
 
-I'd expected one of them. I hadn't expected all of them. The slates hit the benches like dropped plates. A small girl with a missing front tooth crossed the floor with her arms out and hit me at about the knee. A boy of seven had decided he was too old for that. He stood very straight by the table.
+"Wren!"
 
-"Good afternoon, Mister Wren," he said, in his best grown-up voice.
+I had expected one of them. Not all of them. The slates hit the benches like dropped plates. A small girl with a missing front tooth ran across the floor and hit me at the knee. A boy of seven stood straight by the table. He had decided he was too old for hugs.
+
+"Good afternoon, Mister Wren," he said in his best grown-up voice.
 
 "Bodil," I said. "Halla. Idris. Not now."
 
-"You're *late,*" said the girl at my knee. "You said Tuesday."
+"You're late," said the girl at my knee. "You said Tuesday."
 
-"It's Tuesday."
+"It is Tuesday."
 
-"It's *nearly* Wednesday." She studied the girl in the hat. Her eyes traveled to the clipboard. "Who's that?"
+"It's almost Wednesday." She looked at Lysette. Then she looked at the clipboard. "Who is that?"
 
 "This is Lysette."
 
 "The one you said was a thistle?"
 
-Some silences stand up by themselves. I'd like to say I'd said it fondly, in a larger conversation about shrubs. I'd like to have been standing anywhere else when she asked.
+Nobody spoke. I wish I could say I had said it kindly. I wish I could say we were talking about plants. I wish I had been anywhere else.
 
 "A thistle," said Lysette.
 
-"It's a very good plant," I said. "It's good for the finches."
+"It's a very good plant," I said. "Finches love it."
 
-"Oh, it's *lovely* for the finches," said Halla, very kindly. "And it hurts."
+"Oh, finches love it," said Halla, very kindly. "And it hurts."
 
-Lysette said nothing at all. She stood in the middle of the bakery in her hat, her pencil in the air, while ten children looked her over, openly and without malice. It was the way you'd look at a new kind of bird that had walked into the kitchen. She went pink from the collar up. A grandmother at the back was shaking silently.
+Lysette said nothing. She stood in the middle of the bakery in her hat with her pencil in the air. Ten children looked at her. They were not unkind. They looked at her like a new bird that had walked into the kitchen. Her face went red from the collar up. At the back, a grandmother shook with silent laughter.
 
-Then a short, wide woman in a floury apron came around the end of the counter, wiping her hands, a ledger under one arm. She looked at me over her spectacles.
+A short, wide woman came around the counter. Flour covered her apron. She wiped her hands and held a book under one arm. She looked at me over her glasses.
 
-"Two weeks," she said. "I had you down for last Tuesday."
+"Two weeks," she said. "I wrote you down for last Tuesday."
 
 "Mistress Brisa. I had exams."
 
-"You had a *nap.*" She turned the ledger around on the counter and ran a finger down a column. "Fourteen loaves. Six for the morning bench, eight for the hook. Four silver." She looked at Lysette. "Is this the supervisor?"
+"You had a nap." She turned the book around on the counter. She ran a finger down a row of numbers. "Fourteen loaves. Six for the morning bench. Eight for the hook. Four silver." She looked at Lysette. "Is this the supervisor?"
 
 "The—" Lysette stopped. "Who told you about a supervisor?"
 
 "Hush, girl," said Mistress Brisa. "He talks about nothing else."
 
-That one went in. I watched it land. The pencil stopped. Lysette did something I'd seen her do once before, in the lowchapel. She studied the oven door very hard, like it had asked her a question. Her mouth was tight, but not from annoyance.
+That hit her. I watched it land. Her pencil stopped. She stared at the oven door very hard, as if it had asked her a question. I had seen her do this once before, in the low chapel. Her mouth was tight, but she was not angry.
 
-I paid. Four silver is nearly half my scholarship stipend, and I've never once missed it. Six loaves go to the benches in the mornings, so none of the children come in hungry and none of the parents have to pretend not to notice. The other eight go on the hook outside, with the ribbon. That's the hook's whole rule. You take a loaf if you have none. You pay one forward if you can. Nobody asks which. The ribbon is so you can tell, from the end of the lane, whether it's worth the walk.
+I paid. Four silver is almost half of my school money for a month. I have never missed it. Six loaves go to the benches each morning. That way no child comes in hungry, and no parent has to pretend not to see. The other eight go on the hook outside, with the ribbon. That is the whole rule of the hook. If you have no bread, take a loaf. If you can, pay for one later. Nobody asks which. The ribbon is there so people can see it from the end of the lane. It tells them the walk is worth it.
 
 "You don't eat any of it," said Lysette quietly.
 
-She'd come up beside me at the counter. I hadn't heard her.
+She had come up next to me at the counter. I had not heard her.
 
 "I eat what I'm given."
 
 "That's not what I said."
 
-"No." I looked at the loaves. "It's not for me. That's the arrangement."
+"No." I looked at the loaves. "It's not for me. That's the deal."
 
-She opened her mouth. She shut it. Then, in front of the whole bakery, in the heat and the flour and the rattle of slates being picked up again, she opened her clipboard to a clean page. At the top, in the square tidy hand that signs warrants, she wrote: *Candlewick Lane. Bakery. Unlicensed charity. Recurring.* She looked at it. Then, quite small, underneath, she wrote: *No further action.*
+She opened her mouth. She closed it. Then, in front of the whole bakery, in the heat and the flour and the noise of slates, she opened her clipboard to a clean page. At the top she wrote in her neat hand, the hand that signs warrants. *Candlewick Lane. Bakery. Charity without a license. Every week.*
+
+She looked at it. Then, in small letters underneath, she wrote: *No further action.*
 
 "For the record," she said.
 
 "For the record."
 
-"I'm not following you anymore today."
+"I'm not following you any more today."
 
 "I noticed."
 
-"It's the shoulders. You don't have the tray." She tucked the clipboard under her arm. With great dignity she accepted a cup of hot barley water from Halla, which nobody had asked her about. "I'm going to stay a while. To finish the form."
+"It's your shoulders. You don't have the tray." She put the clipboard under her arm. A child gave her a cup of hot barley water. Nobody had asked her. She took it with great dignity. "I'll stay a while. To finish the form."
 
 "There's no form."
 
 "There will be."
 
-I took the long road back up the hill alone, at last, to give her the hour. It wasn't the Ashen Crowns' day. It would be another. I'd have to find them in the dark, the way I find most things.
+I walked back up the hill alone. It gave her an hour to herself. Today was not the day for the Ashen Crowns. Another day would come. I would have to find them in the dark, like I find most things.
 
 * * *
 
-The Dragon is not a good listener. I don't mean that unkindly. He's very old, and he thinks of himself as a mountain, and mountains don't take notes.
+The Dragon is not a good listener. I don't say that to be unkind. He is very old, and he thinks he is a mountain. Mountains don't take notes.
 
-He started the moment I lay down on the roof that night, the way he always does, like we'd been arguing for two days and I'd just stepped out for a drink of water.
+He started the moment I lay down on the roof that night. He always does. It was like we had argued for two days and I had only left for a drink of water.
 
-*You paid four silver for bread you won't eat. Four silver! In my day four silver would buy you a small city and the right to be rude to its mayor. You could have had the pears. Do you know how many people have tried to bribe me with pears—*
+*You paid four silver for bread you won't eat. Four silver! In my day, four silver bought a small city. You could be rude to the mayor too. You could have bought pears. Do you know how many people tried to pay me with pears—*
 
-*I don't want to hear about the pears.*
+*I don't want to hear about pears.*
 
-*—and not once have I received any that were actually ripe. The whole trouble with modern fruit is that the people picking it have no notion of—*
+*—and not one was ripe. The trouble with new fruit is that the people who pick it know nothing about—*
 
 He stopped.
 
-That's not like him. He doesn't pause. In eight years I've known him to break off mid-sentence exactly twice, both times because something had gone through the roof of the world and rung it like a bell.
+That is not like him. He never stops. In eight years he has stopped in the middle of a sentence only two times. Both times, something had hit the roof of the world and rung it like a bell.
 
-The war dream lay over the roof. I could feel the weight of a thousand black helmets, and the field, and the river the wrong color.
+The war dream lay over the roof. I could feel the weight of a thousand black helmets. I could feel the field, and the river with the wrong color.
 
 *Landlord?*
 
 *I promised someone,* said Sepiroth.
 
-It was very quiet. It wasn't his voice. I mean it was lower than his voice, with a different grain, like it had come up from a part of him he doesn't take out to show people. I lay under the apple tree with my hand open on the grass and thought about my mother humming at a window.
+It was quiet. It was not his normal voice. It was lower, and rougher. It sounded like it came from a part of him he never shows. I lay under the apple tree with my hand open on the grass. I thought about my mother, humming at a window.
 
 *Who?*
 
-The dream was silent. After some time it went on being silent, and I understood that he wasn't going to say.
+The dream stayed silent. After a while, I understood that he would not say.

@@ -20,3 +20,5 @@ jobs:
         run: python3 tools/test_tools.py
       - name: Context A/B on the frozen fixture
         run: python3 tools/ctx_compare.py
+      - name: Single-agent policy
+        run: python3 tools/policy_check.py

@@ -1,4 +1,4 @@
-# Batch writer instructions (writer agent, standard model tier; runs alone, never in parallel)
+# Batch writer instructions (writer stage, standard model tier; runs alone, never in parallel)
 
 PATHS: the orchestrator gives you the active novel folder (novels/<slug>/). `story/`, `chapters/`, `ops/` and `out/` in this prompt are INSIDE that folder; `tools/`, `roles/`, `engine/` are at the repo root. Run commands from the repo root. Read and write nothing in any other novel.
 

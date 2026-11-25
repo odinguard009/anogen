@@ -509,6 +509,29 @@ def novel_tests():
     shutil.rmtree(repo, ignore_errors=True)
 
 
+def policy_tests():
+    """Single-agent policy (tools/policy_check.py)."""
+    import json as _j
+    import policy_check as pc
+    repo = Path(__file__).resolve().parent.parent
+    check("policy: repo passes the single-agent check", pc.run(repo) == [], "; ".join(pc.run(repo)))
+    check("policy: spawn instruction is flagged", len(pc.scan_text("x.md", "Then spawn ONE agent for the writer.")) == 1)
+    check("policy: sub-agent instruction is flagged", len(pc.scan_text("x.md", "Use a sub-agent per chapter.")) == 1)
+    check("policy: delegation is flagged", len(pc.scan_text("x.md", "Delegate the critic to a second model.")) == 1)
+    check("policy: a forbidding line passes", pc.scan_text("x.md", "NEVER spawn sub-agents.") == [])
+    check("policy: Indonesian forbidding line passes", pc.scan_text("x.md", "Tidak pernah memakai subagent.") == [])
+    d = Path(tempfile.mkdtemp())
+    try:
+        (d / "engine").mkdir()
+        (d / "engine" / "models.json").write_text(_j.dumps({"roles": {"w": {"mode": "delegate"}}}), encoding="utf-8")
+        r = pc.run(d)
+        check("policy: delegate mode in models.json is an ERROR", any("delegate" in x for x in r), str(r))
+        (d / "engine" / "models.json").write_text("{bad", encoding="utf-8")
+        check("policy: unreadable models.json is an ERROR", any("unreadable" in x for x in pc.run(d)))
+    finally:
+        shutil.rmtree(d, ignore_errors=True)
+
+
 def main():
     root = Path(tempfile.mkdtemp(prefix="anogen-test-"))
     try:
@@ -717,6 +740,7 @@ def main():
     phase_two_tests()
     phase_b_tests()
     novel_tests()
+    policy_tests()
     if FAILS:
         print("\nFAILED:", ", ".join(FAILS))
         sys.exit(1)

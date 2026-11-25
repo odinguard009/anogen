@@ -69,3 +69,12 @@ Reading the numbers:
 - Retrieval adds about 3.4-3.6k chars per chapter (column C minus B). That is a deliberate quality cost: it is more context, not less. Net of the two, a later chapter is still about 2.5k chars smaller than the current pack in this fixture, but treat retrieval as spending for better recall, not as a saving.
 - Only three real transitions exist in the visible history, and in them Debts and Secrets never changed; a batch where the writer edits all three files heavily will save less (the 60% rule then sends full text).
 - Not measured: provider token counts, writer quality with diffs versus full text, and whether the writer correctly applies diffs. Quality trade-off: the writer must hold its first pack in mind; the prompt tells it to re-run the full pack when unsure. Recommended before relying on it: one approved real batch compared against `ops/usage.jsonl`, and a critic check for state errors.
+
+## Single-agent optimization, Stage 1 (2026-11-25)
+- Backup sebelum mulai: branch `backup/pre-single-agent-opt-20261125` (commit 7815569).
+- Audit Fase 0: `docs/SINGLE_AGENT_OPTIMIZATION_AUDIT.md`.
+- `engine/models.json`: `mode` dari `delegate` menjadi `inline-stage` pada tiga peran; teks `concurrency.rule` dan `orchestrator.where` tidak lagi menyebut spawning. Nilai model, tier, dan `max_agents_per_job` tidak diubah.
+- `AGENTS.md`, `docs/ARCHITECTURE.md`, `engine/PORTABILITY.md`, prompt writer dan critic: kata "spawn an agent" diganti "run the ... stage yourself".
+- Baru: `tools/policy_check.py` (+8 tes di `test_tools.py`, +langkah CI). Diuji terhadap commit 7815569: mendeteksi 6 masalah (Verified); pada state sekarang 0.
+- Belum diukur: penghematan token (tidak ada data provider).
+

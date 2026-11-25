@@ -1,0 +1,20 @@
+Full ladder with plants and misdirection: twists-1.md, twists-2.md. Near-term secrets:
+- Corentin Hollen was a Veil; Eden killed it | known by: Eden (face only), Ysolde | reveal planned: ch 38 (reader), ch 140 (Lysette)
+- The Tailor knows Eden is the vessel, waits for the seal to crack | known by: nobody | reveal planned: ch 50 (hint)
+- Grey Grafts are Hush flesh from the Tailor | known by: Merrow | reveal planned: ch 95
+- Volkhovar finances the Lanternhouse Compact | known by: Kell, Belozerov | reveal planned: ch 98
+- Rowan is Lirenne's lost heir | known by: Merrow | reveal planned: ch 110
+- Eden is the Black Order | known by: Eden, king, Ysolde, Duke (household guesses) | reveal planned: ch 140 (Lysette)
+- Merrow is the Regent | known by: nobody | reveal planned: ch 150
+- Ysolde holds Liora's letter | known by: Ysolde, Duke | reveal planned: ch 155
+- Eden is the Argentine heir | known by: king, Ysolde, Duke, household, Ostwald, twins | reveal planned: ch 160
+- Iron King summoned the Emperor; the 3-vs-1 | known by: king, Duke | reveal planned: ch 170
+- Liora was a Valkyrie; Eden opened the Gate; she sealed him | known by: Duke, king, Ysolde | reveal planned: ch 175
+- Eden's black armor is Aster, Liora's sealed work; Liora was the Dragon's host and a master smith | known by: Duke, Dragon | reveal planned: ch 170-176
+- The Duke weeps inside Vowsilver after battles | known by: Bertram | reveal planned: ch 251
+- Strent is the Tailor | known by: nobody | reveal planned: ch 185
+- Liora's feather in Lysette | known by: nobody | reveal planned: ch 205
+- King's kill-order | known by: king, Ysolde | reveal planned: ch 214
+- The Void Host sleeps in Eden | known by: king, Duke (suspect) | reveal planned: ch 290
+- Eden is not the Emperor; the Emperor gave himself | known by: the Tutor | reveal planned: ch 340
+- Gods and hosts (gods-hosts.md): Sepiroth 425, Binding of Thrones 430, Kaurveth 440, Rite 455, Rowan 470, Clara 480, Ishani 505, Dragomira 530, Valerius 545, Kell 560, Lysette 580 | known by: Dragon, Tutor, each host partly | reveal planned: ch 425-580

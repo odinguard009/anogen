@@ -1,19 +1,22 @@
 # Anogen Optimization Roadmap
 
-**Status 2026-11-25:** Phase Two started on the owner's authorisation. Implemented: P0-1 to P0-6, P1-1, P1-2 (partial), P2-3 (partial), P2-4, P3-1 (see `docs/OPTIMIZATION_CHANGELOG.md`). Open: P1-3, P1-4, P1-5, P2-1 (the verify step exists, critic prompt not yet trimmed), P2-2, P3-2, P3-3, P3-4. Owner decisions received: 850-chapter plan stays; no critic re-run for chapters 1-20; critic once per 10 chapters.
+Savings are ESTIMATES (chars/4) until `ops/usage.jsonl` holds provider-reported usage. Finding IDs refer to `docs/AUDIT_REPORT.md`; what was actually changed is in `docs/OPTIMIZATION_CHANGELOG.md` (this file is the plan, the changelog is the record).
 
-Nothing here is implemented. Every item needs the owner's go-ahead for Phase Two. Items marked **OWNER ORDER** touch a LOCKED SETTING (`AGENTS.md`, `ops/models.json`) and must not be changed without the owner saying so in plain words. Savings are ESTIMATES (chars/4) until instrumentation (P0-4) provides provider-reported usage. Finding IDs refer to `docs/AUDIT_REPORT.md`.
+## Status (updated in the second pass)
 
-Order logic: first stop silent quality loss and unsafe state, then make cost measurable, then optimise what the measurements show.
+| State | Items |
+|---|---|
+| Done (first pass) | P0-1 to P0-6, P1-1, P1-2 (obsolete prompts archived), P2-3 (`next --no-apply`), P2-4, P3-1 |
+| Done (second pass) | A1/A2 explicit per-chapter `rereview` and a blocking re-review task, A3 hardened `verify_batch.py`, A4 per-source usage report, P1-3 incremental delta pack (opt-in, with fallbacks), P1-4 smallest deterministic retrieval (opt-in `--retrieve`), P3-3 CI workflow, `docs/ARCHITECTURE.md`, golden fixture and `ctx_compare.py` |
+| Open | P1-5 per-entry memory caps and overflow (the flat 3,000-char files remain), P2-1 (trim the critic prompt using the verify result), P2-2 deterministic continuity pre-check, P3-2 single source of numeric style targets, P3-4 quality baseline protocol, character state still one flat file, arc rolling summaries are still produced by hand-curated archive plus retrieval only |
+| Owner order required (not proposed) | batch size, model tiers, one-agent rule, schedule, critic frequency (already set to once per 10 by the owner), conditional critic tier (P2-5) |
 
-## Decisions needed from the owner before Phase Two
+## Owner decisions received (resolved)
 
-1. **Target length** (F-06): 300-500k words (136-227 chapters) or the series plan of ~850 chapters (~1.9M words)? Decides how much memory redesign (P1-3/P1-4) is worth building.
-2. **Critic pass over chapters 1-20** (F-02): the current v3 text was never reviewed. This costs strong-tier tokens (≈ 4 critic batches, ESTIMATE ~19k tokens floor each plus output), so it is the owner's spend decision. Alternative: accept the risk and only add the guard.
-3. **Authorise a GitHub Action** for tests (F-18) and any change to push behaviour (F-04).
-4. **Any change to batch size, tiers, one-agent rule, schedule**: not proposed. The mission's 10/20/30-chapter runs are served by the existing sequential 5-chapter batches.
-
----
+1. Target length: the 850-chapter plan in `story/outline/series.md` stays (about 1.9M words), so memory work (P1-4/P1-5) matters more than for 300-500k words.
+2. Critic for chapters 1-20: not re-run; their current text is recorded as owner-accepted (`engine_state.py baseline-reviewed`). The owner can order a critic run at any time with `engine_state.py rereview ...` after it.
+3. Critic frequency: once per 10 chapters (replaces once per 5).
+4. Push and merge are authorised (permanent project access, `ops/sop.md` section 0). GitHub Actions workflow added in the second pass.
 
 ## P0: reliability and data safety (small, low risk, do first)
 
@@ -30,10 +33,10 @@ Order logic: first stop silent quality loss and unsafe state, then make cost mea
 
 | ID | Item | Findings | Est. benefit (ESTIMATE) | Complexity | Risk | Validation |
 |---|---|---|---|---|---|---|
-| P1-1 | **Usage instrumentation**: orchestrator appends `ops/usage.jsonl` per agent run (role, tier, range, provider-reported tokens if the host exposes them, wall time, outcome); `tools/usage_report.py` for cost per chapter / 1,000 words / arc, token share by role, retry count | F-08 | enables every claim; no direct saving | low | none | fixture run; first real batch with owner approval |
+| P1-1 (done) | **Usage instrumentation**: orchestrator appends `ops/usage.jsonl` per agent run (role, tier, range, provider-reported tokens if the host exposes them, wall time, outcome); `tools/usage_report.py` for cost per chapter / 1,000 words / arc, token share by role, retry count | F-08 | enables every claim; no direct saving | low | none | fixture run; first real batch with owner approval |
 | P1-2 | Single parameterised rewrite prompt + style-change protocol (canary chapter, deterministic check, owner read, then bulk); retire two obsolete prompts; remove hard-coded paths and session URLs | F-07, F-15 | avoids a repeat of ~66 rewrites for 25 drafts; only measurable at the next style change | low | low | next style change: count of rewrite passes |
-| P1-3 | Per-chapter pack as a delta: full bundle for the first chapter of a batch; later chapters get changes since the previous chapter and hashes for unchanged files | F-20 | ~10-13k tokens per 5-chapter batch (35-45% of repo-injected floor) | medium | medium (drift if the agent forgets unchanged state) | A/B on fixed chapters; critic-found canon errors per batch must not rise |
-| P1-4 | Deterministic context selection from the outline line: names in the line pull matching `threads.md`, `timeline.md`, `twists-*.md`, `armor.md`, character entries; arc rolling summary replaces the unread archive; chapter provenance tags (`[ch 12]`) added to existing memory lines | F-05, F-22 | bounded context at 136-850 chapters; quality, not tokens, is the point | medium-high | medium | golden fixtures: expected facts retrieved for chapters 26-30; feature flag; blind comparison of two drafts of the same outline line (human read) |
+| P1-3 (done, opt-in) | Per-chapter pack as a delta: full bundle for the first chapter of a batch; later chapters get changes since the previous chapter and hashes for unchanged files | F-20 | ~10-13k tokens per 5-chapter batch (35-45% of repo-injected floor) | medium | medium (drift if the agent forgets unchanged state) | A/B on fixed chapters; critic-found canon errors per batch must not rise |
+| P1-4 (smallest version done, opt-in) | Deterministic context selection from the outline line: names in the line pull matching `threads.md`, `timeline.md`, `twists-*.md`, `armor.md`, character entries; arc rolling summary replaces the unread archive; chapter provenance tags (`[ch 12]`) added to existing memory lines | F-05, F-22 | bounded context at 136-850 chapters; quality, not tokens, is the point | medium-high | medium | golden fixtures: expected facts retrieved for chapters 26-30; feature flag; blind comparison of two drafts of the same outline line (human read) |
 | P1-5 | Replace flat 3,000-char caps with per-entry line caps and an overflow file the retriever can reach | F-05 | removes forced silent loss | medium | medium | fixtures at 2x cap |
 
 ## P2: workflow optimisation

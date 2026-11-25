@@ -1,0 +1,28 @@
+# State after chapter 23 (Ball in 3 days) (autumn PR 112)
+
+## Eden (narrator)
+- 18, Year 5, rank 8. Public: Eden Wren, Thornmere-born scholarship ward. True: Eden Aster Argentine. Dyed hair, gray eyes. Cracked rib (ch 17), still sore.
+- Now: Lance Nine (Felix, Lysette supervising, Rowan, Clara). Ashen card = bookmark. Gray-coat man (tannin thumb) = tannery Ember, watched Rowan. Strent hummed Liora's lullaby; Eden froze. Seal seeks the hooded door-shield youth. Orders: scout tannery Ember cell (not yet); "Watch the Tallis boy." Pays 4 silver/week at Brisa's Candlewick bakery. Ch 13: killed a Veil lamplighter; left palm burned (new glove). Ch 15: Dragon: "I promised someone."
+- Tells: literal deadpan; angry = polite, quiet, left glove off.
+- Public: blocking lance, 3 Bells, "shadow-shaping". Candor masked.
+- Real power: Melsche Door, Pillars Vesk, Gorrath, Mirelle; First Legion (40). Gate: Candor + 6 minor relics. Never lent one.
+- Knows: Veil tells; Dragon, Tutor in dreams; mother died when he was 10.
+- Black Order: 33 Veils. Ledger: Rowan circled, "Before the last dance." Owes 13-B. Killed the Veil wearing Corentin Hollen.
+
+## Who knows what
+- Argentine heir: King, Ysolde, Duke, household, Ostwald, twins.
+- Black Order: King, Ysolde, Duke only.
+- Liora Valkyrie; Emperor's gift: King, Duke, Ysolde.
+
+## Relationships
+- Felix: only close friend; middle name Perrin; spot behind the tack room.
+- Valerius: rival; ch 17 won by a finger; "I'll make you show them." Seraphine: crush.
+- Ch 21: Seraphine asked Eden to the Ball "as a joke, mostly"; he declined ("I'll be on the roof"); she leaves him a plate. Felix sighs near her.
+- Lysette: roof garden is hers; knows Eden knew; truce since ch 15; kept the handkerchief. Ch 21: wrote Seraphine up (Rule 14, collar), kept the page; heard Rowan asked Clara. On the roof told Eden of Corentin (taught her the waltz, "the beat"); no partner; "I'm going. Alone. To prove I don't care." Eden said nothing useful.
+- Rowan: loud, warm; ch 21 quietly learning the waltz, asked Clara (yes). Clara: still, quiet. Rowan's Spark = Lirenne fresco gold.
+- Ch 23: tannery on Tallow Row: full Mantle, 10 Embers (brown-thumb man led) yielded to Gorrath/Vesk voices (13 "agents"). Plan: collect Rowan and Seraphine "night before the Ball, ninth bell" (wrong night?). Ysolde doubles Golden Seal; ordered Eden to stay away; he said "Understood" too fast. Feather stamp inside his left gauntlet (Gorrath's has none). Frost numbs his left hand.
+- Ch 22: broke the Duskwater Dyeworks Ember cell (no kills; 11 kids to a church school via Ysolde's wagon). Theobald (graft, Veil dust, "kind voice") says the Crown already has the hall. Trick 4 done (Vesk wears Dietrich's shadow).
+- Ch 18-20: Embers want Rowan alive on the night of lights; ledger = Ball guest list (41). Merrow asked which hall (glass atrium). Lance Nine owes 412 crowns.
+
+## World now
+- Ashen Crowns bombed a tax office; Golden Seal (Rochefort) blames the Black Order.

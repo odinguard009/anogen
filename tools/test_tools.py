@@ -303,6 +303,106 @@ def phase_two_tests():
         shutil.rmtree(root, ignore_errors=True)
 
 
+def phase_b_tests():
+    fx = TOOLS.parent / "tests/fixtures/golden5"
+
+    def pack(root, *args):
+        return run(root, "context_pack.py", "--part", "delta", *args)
+
+    def fresh():
+        root = Path(tempfile.mkdtemp(prefix="anogen-fx-"))
+        shutil.rmtree(root)
+        shutil.copytree(fx / "root", root)
+        for name in ("state", "debts", "secrets"):
+            shutil.copy(fx / "memory/pack23" / f"{name}.md", root / "story/bible" / f"{name}.md")
+        return root
+
+    def install(root, k):
+        for name in ("state", "debts", "secrets"):
+            shutil.copy(fx / "memory" / f"pack{k}" / f"{name}.md", root / "story/bible" / f"{name}.md")
+
+    # diff round trip (property test over random edits)
+    code = ("import random, context_pack as c\nrng = random.Random(5); ok = True\n"
+            "for _ in range(300):\n"
+            "    old = [f'line {i} ' + 'x' * rng.randint(0, 20) for i in range(rng.randint(0, 30))]\n"
+            "    new = list(old)\n"
+            "    for _ in range(rng.randint(0, 6)):\n"
+            "        op = rng.choice('dia'); k = rng.randint(0, max(len(new) - 1, 0))\n"
+            "        if op == 'd' and new: new.pop(k)\n"
+            "        elif op == 'i': new.insert(k, 'new ' + str(rng.random()))\n"
+            "        elif new: new[k] = 'changed ' + str(rng.random())\n"
+            "    a, b = '\\n'.join(old).strip(), '\\n'.join(new).strip()\n"
+            "    ok &= c.apply_diff(a, c.make_diff(a, b)).strip() == b\n"
+            "print(ok)\n")
+    r = subprocess.run([PY, "-c", code], capture_output=True, text=True, cwd=TOOLS,
+                       env=dict(os.environ, ANOGEN_ROOT=str(fx / "root")))
+    check("make_diff/apply_diff rebuild text exactly (300 random edits)", r.stdout.strip() == "True", r.stdout + r.stderr[-300:])
+
+    root = fresh()
+    try:
+        c, o = pack(root, "--chapter", "24", "--no-tail", "--incremental")
+        check("incremental without a cache falls back to FULL and says why", c == 0 and "context mode: FULL: no cache" in o and "[CHANGED" not in o and "## State\n#" in o, o[:300])
+        c, o = pack(root, "--chapter", "23", "--incremental", "--batch-start")
+        check("batch start gives full text and writes the cache", c == 0 and "FULL: batch start" in o and (root / "ops/ctx-cache.json").exists(), o[:200])
+        full23 = o
+        c, o = pack(root, "--chapter", "23", "--no-tail")
+        check("default pack is unchanged (no mode line, full State)", c == 0 and "context mode" not in o and "## State\n#" in o)
+        install(root, 24)
+        c, o = pack(root, "--chapter", "24", "--no-tail", "--incremental", "--peek")
+        check("next chapter sends a diff for State and stubs for Debts/Secrets",
+              c == 0 and "DIFF vs the chapter 23 pack" in o and "## State [CHANGED since the chapter 23 pack" in o and "[unchanged since the chapter 23 pack" in o, o[:400])
+        cache_before = (root / "ops/ctx-cache.json").read_text()
+        check("--peek never writes the cache", '"base_chapter": 23' in cache_before)
+        c, o = pack(root, "--chapter", "25", "--no-tail", "--incremental", "--peek")
+        check("a skipped chapter (cache is for 23, asking for 25) falls back to FULL", "FULL: cache is for chapter 23" in o and "## State\n#" in o, o[:300])
+        c, o = pack(root, "--chapter", "24", "--no-tail", "--incremental")
+        check("chapter 24 incremental ok and cache moves to 24", c == 0 and '"base_chapter": 24' in (root / "ops/ctx-cache.json").read_text())
+        # invalidation: static source change
+        (root / "story/style/banned.md").write_text((root / "story/style/banned.md").read_text() + "\n- extra\n")
+        c, o = pack(root, "--chapter", "25", "--no-tail", "--incremental", "--peek")
+        check("changed static source invalidates the cache", "FULL: static sources" in o, o[:300])
+        (root / "story/style/banned.md").write_text((root / "story/style/banned.md").read_text().replace("\n- extra\n", ""))
+        # invalidation: old cache
+        d = json.loads((root / "ops/ctx-cache.json").read_text()); d["ts"] -= 4 * 3600
+        (root / "ops/ctx-cache.json").write_text(json.dumps(d))
+        c, o = pack(root, "--chapter", "25", "--no-tail", "--incremental", "--peek")
+        check("cache older than 3 hours is ignored", "FULL: cache older than 3 hours" in o, o[:300])
+        # large change: diff bigger than 60% falls back to full text
+        d["ts"] += 4 * 3600
+        (root / "ops/ctx-cache.json").write_text(json.dumps(d))
+        (root / "story/bible/state.md").write_text("# Totally new state\n" + "\n".join(f"- brand new line {i} about something else entirely" for i in range(40)))
+        c, o = pack(root, "--chapter", "25", "--no-tail", "--incremental", "--peek")
+        check("a change larger than 60% sends the full text, not a diff", "## State\n# Totally new state" in o and "[CHANGED" not in o.split("## Debts")[0], o[:300])
+    finally:
+        shutil.rmtree(root, ignore_errors=True)
+
+    # golden A/B: lossless, smaller from the second chapter, retrieval finds the planted facts
+    r = subprocess.run([PY, str(TOOLS / "ctx_compare.py"), "--json"], capture_output=True, text=True)
+    try:
+        res = json.loads(r.stdout)
+    except ValueError:
+        res = {"problems": ["unparsable output"], "rows": []}
+    check("golden fixture: State/Debts/Secrets rebuilt exactly from incremental packs", r.returncode == 0 and not res["problems"], r.stdout[-400:] + r.stderr[-300:])
+    later = [x for x in res["rows"] if x["chapter"] != 23]
+    check("golden fixture: incremental pack is smaller for every later chapter", bool(later) and all(x["incremental_chars"] < x["full_chars"] for x in later), str(res.get("rows")))
+    check("golden fixture: first chapter pays only the small mode note", res["rows"] and res["rows"][0]["incremental_chars"] - res["rows"][0]["full_chars"] < 300, str(res.get("rows")))
+    check("golden fixture: retrieval finds the expected thread/twist lines", all(not v["missing"] for v in res.get("retrieval", {"x": {"missing": ["?"]}}).values()), str(res.get("retrieval")))
+
+    # retrieval behaviour
+    root = fresh()
+    try:
+        c, o = run(root, "memory_retrieve.py", "--chapter", "26")
+        check("retrieval shows provenance for every item", c == 0 and "story/bible/twists-1.md:16" in o and "ignored as too common" in o, o[:400])
+        c, o = run(root, "memory_retrieve.py", "--chapter", "26", "--budget", "500")
+        check("retrieval over budget names what it left out", "not shown, over the 500-char budget" in o, o[-300:])
+        c, o = run(root, "context_pack.py", "--part", "delta", "--chapter", "26", "--no-tail", "--retrieve", "--peek")
+        check("--retrieve adds the Retrieved memory section", c == 0 and "## Retrieved memory" in o)
+        c, o = run(root, "context_pack.py", "--part", "delta", "--chapter", "26", "--no-tail", "--peek")
+        check("without --retrieve there is no retrieval section", "Retrieved memory" not in o)
+    finally:
+        shutil.rmtree(root, ignore_errors=True)
+
+
 def main():
     root = Path(tempfile.mkdtemp(prefix="anogen-test-"))
     try:
@@ -509,6 +609,7 @@ def main():
         shutil.rmtree(root, ignore_errors=True)
 
     phase_two_tests()
+    phase_b_tests()
     if FAILS:
         print("\nFAILED:", ", ".join(FAILS))
         sys.exit(1)

@@ -1,0 +1,22 @@
+name: tests
+# Runs the tool tests on every pull request and on pushes to main. No secrets, read-only token,
+# no network calls, no model calls, and nothing here touches the writing schedule.
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  tools:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Tool tests (standard library only)
+        run: python3 tools/test_tools.py
+      - name: Context A/B on the frozen fixture
+        run: python3 tools/ctx_compare.py

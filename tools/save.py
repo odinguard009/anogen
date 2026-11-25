@@ -8,7 +8,7 @@ import time
 from common import ROOT
 
 # Stage only the project's own folders and files (never `git add -A`: a stray file would be pushed to a public repo).
-TRACKED = ["chapters", "story", "ops", "out", "docs", "tools", "roles", "archive",
+TRACKED = ["chapters", "story", "ops", "out", "docs", "tools", "tests", "roles", "archive",
            "AGENTS.md", "CLAUDE.md", "README.md", ".gitignore"]
 
 

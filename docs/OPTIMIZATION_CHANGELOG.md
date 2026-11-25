@@ -26,3 +26,46 @@ Prompt/doc changes under the owner's critic-per-10 order (`save.py` also retries
 - P1-3 (delta pack), P1-4/P1-5 (relevance-based memory, provenance, arc summary): quality-sensitive redesign; needs `usage.jsonl` data and a fixed A/B fixture first. Deliberately deferred; with 850 chapters planned this is the most important next step.
 - P2-2 (deterministic continuity pre-check), P2-5 (conditional critic tier: owner order), CI workflow (F-18, not created: touches repo automation), F-12 `variety_log` write-on-read (unchanged; use `--peek`), F-14 single source of numeric targets.
 - F-04 remaining: no cross-container lock (`ops/lock.json` stays local); the single-writer rule still applies if the schedule is turned on.
+
+---
+
+# Second pass (post-merge)
+
+Test status after this pass: `python3 tools/test_tools.py` = 110 PASS, 0 FAIL (was 77); `python3 tools/ctx_compare.py` exits 0. Retrieval labels items planned for a later chapter as "background only, never plant or pay it early" and the writer prompt repeats it. `ops/rewrite-queue.md` now states that future rewrites require a critic re-review (cost impact).
+
+Authorised by the owner ("full auto": push and merge). Locked settings untouched (tiers, critic frequency of once per 10, batch of 5, concurrency, schedule OFF). No live generation was run; no chapter was rewritten.
+
+| ID | Change | Files | Evidence |
+|---|---|---|---|
+| A1 | `mark critic --rereview` removed. New `engine_state.py rereview C [C ...]` updates hashes only for the listed chapters; refuses missing files and chapters never reviewed; `mark` can no longer bless edited chapters | `engine_state.py`, `AGENTS.md` | test: review 1-10, edit 3 and 7, `rereview 3`, 3 cleared and 7 pending |
+| A2 | Edited reviewed chapters are an explicit task: `rereview_pending`, and `writer_range` is `null` until they are re-reviewed; no forced 10-chapter pass; state is derived from hashes so it survives interruption | `engine_state.py`, `AGENTS.md` | tests incl. interruption/resume |
+| A3 | `verify_batch.py` checks every subprocess: crashed checker, missing git, git errors, untracked chapter, and unexpected exceptions each fail with a stated cause; checker runs with `--strict` | `verify_batch.py` | 5 tests (no repo, untracked, git missing from PATH, checker stub exits 2, undecodable file) |
+| A4 | `usage_log.py report` prints PROVIDER-REPORTED, MANUALLY OBSERVED and ESTIMATED separately and never adds them; cost line labelled per source; cache read/write columns; cache cost only if the owner put cache prices in `ops/prices.json`; no built-in prices | `usage_log.py` | 3 tests |
+| B | Incremental delta pack: `context_pack.py --part delta --incremental [--batch-start]`. State, Debts and Secrets are sent as exact line diffs or an "unchanged" stub against the previous pack of the same batch. Falls back to the full text when: no cache, wrong chapter, `--batch-start`, static sources changed, cache older than 3 h, diff larger than 60%. Default (no flag) is unchanged. Cache `ops/ctx-cache.json` is local; `--peek` never writes it. Writer prompt updated | `context_pack.py`, `ops/batch-writer-prompt.md`, `.gitignore` | 9 tests; property test caught and fixed a real bug (a changed last line was glued to the next diff line) |
+| C | `tools/memory_retrieve.py` and `context_pack.py --retrieve`: threads, twists, timeline lines and older/archived summaries matched by canon names found in the outline lines (rare names only; names in more than 20% of memory lines are ignored) and by planned feed/plant chapters (n-1..n+2). Each item shows `file:line`; items over the 3,000-char budget are listed by source, never dropped silently. No embeddings, no dependencies | `memory_retrieve.py`, `context_pack.py` | fixture: finds 2/2 expected sources for chapter 26 and 3/3 for chapter 28 |
+| B/C | Frozen fixture `tests/fixtures/golden5` and `tools/ctx_compare.py` (A/B of current vs incremental vs incremental + retrieval, lossless rebuild, retrieval check) | `tests/fixtures/`, `ctx_compare.py` | below |
+| D | README updated (usage logging, unverified schedule push, re-review rule); roadmap status and contradictions fixed; `docs/ARCHITECTURE.md` created; `.github/workflows/tests.yml` runs the tool tests and the fixture comparison on PRs (read-only token, no secrets) | docs, README, workflow | |
+| fix | `save.py` now stages `tests/` too | `save.py` | |
+
+## Context comparison on the golden fixture (MEASURED characters; tokens are ESTIMATES = chars/4)
+
+Fixture: chapters 23-27. Memory for chapters 23-26 is REAL (taken from the repo's own chapter 23-25 commits); chapter 27 is SYNTHETIC (one state line, one debt flipped). Per chapter, `--part delta`, first chapter with tail, later ones with `--no-tail`, as the writer prompt does.
+
+     ch  A current  B incremental  C B+retrieval   saved B  sections (state/debts/secrets)
+     23      16653          16732          20118       -79  full/full/full
+     24      15198           8949          18560      6249  diff/unchanged/unchanged
+     25      15018           9434          18352      5584  diff/unchanged/unchanged
+     26      14760           8964          18121      5796  diff/unchanged/unchanged
+     27      14672           8101          18236      6571  diff/diff/unchanged
+    total chars A=76301 B=52180 (MEASURED); saved over chapters 24-27: 24200 chars = about 6050 tokens (ESTIMATE, chars/4; no provider measurement)
+    retrieval ch 26: found 2/2
+    retrieval ch 28: found 3/3
+    lossless rebuild of State/Debts/Secrets: OK
+    
+
+Reading the numbers:
+- The incremental pack is smaller from the second chapter of a batch on (about 5.6-6.6k chars each in this fixture). Over the four later chapters of a batch that is 24,200 chars, about 6,050 tokens (ESTIMATE). The first chapter pays only a small mode note (+79 chars).
+- State, Debts and Secrets were rebuilt exactly from the incremental packs (previous text + diff or stub) in every chapter: no information is lost relative to the current pack.
+- Retrieval adds about 3.4-3.6k chars per chapter (column C minus B). That is a deliberate quality cost: it is more context, not less. Net of the two, a later chapter is still about 2.5k chars smaller than the current pack in this fixture, but treat retrieval as spending for better recall, not as a saving.
+- Only three real transitions exist in the visible history, and in them Debts and Secrets never changed; a batch where the writer edits all three files heavily will save less (the 60% rule then sends full text).
+- Not measured: provider token counts, writer quality with diffs versus full text, and whether the writer correctly applies diffs. Quality trade-off: the writer must hold its first pack in mind; the prompt tells it to re-run the full pack when unsure. Recommended before relying on it: one approved real batch compared against `ops/usage.jsonl`, and a critic check for state errors.

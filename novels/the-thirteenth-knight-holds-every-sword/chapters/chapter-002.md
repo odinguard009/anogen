@@ -1,10 +1,15 @@
 # Chapter 2: The Timetable
 
-TIMETABLE, YEAR 5. Student: WREN, EDEN. Issued by the Discipline Committee. First bell: Spell Grammar. Second bell: history. Midday: lunch (attendance checked). Afternoon: arms practice in the training yard. Last bell: reading hour. Signed, L. Hollen.
+*EDEN WREN. Corrected schedule, effective at once.*
+*First bell: Spell Grammar. Front half of the room.*
+*Midday: lunch. Attendance will be checked.*
+*Afternoon: arms practice, training yard.*
+*Any absence will be treated as a flight risk and pursued.*
+*L. Hollen, Discipline Committee.*
 
-She had written every line in a different colour of ink, and she had underlined the word "attendance" twice. It was the scariest paper anyone had ever handed me.
+She had written each line in a different colour of ink, and the handwriting was so straight that it looked angry. She pushed the paper into my hand at six in the morning, at my own door, before I was awake enough to say no.
 
-She pushed it into my hand at six in the morning, at my own door, before I was awake enough to say no. But the night came first, and the night began with a board.
+But the night came first, and the night began with a board.
 
 * * *
 
@@ -24,7 +29,7 @@ Across the board sat the Tutor, and I never saw his face, because he sat with hi
 
 "I see everything on this board." The black knight stopped, and a tiny wall fell over. "You may try again."
 
-I moved a tower, and he moved a knight, and my castle lost two more walls. A small crack ran across the board with a sound like ice on a pond. I leaned back, because the game had ended the way it always did, and the Tutor did not seem to mind.
+I moved a tower, and he moved a knight, and my castle lost two more walls. A small crack ran across the board with a sound of ice breaking. I leaned back, because the game had ended the way it always did, and the Tutor did not seem to mind.
 
 From the dark behind me came a long, loud sigh.
 
@@ -58,7 +63,7 @@ It was a hard, quick knock, the kind that comes from a person who has already de
 
 "Wren!" Lysette's voice came through the wood. "I know you are in there. Your shoes are outside."
 
-I got up and opened the door. She stood in the corridor in full uniform, with her pin straight and her ribbon tight. She looked as if she had slept eight hours and eaten a very sensible breakfast, and she held a sheet of paper in front of her like a shield.
+I got up and opened the door. She stood in the corridor in full uniform, with her pin straight and her white hair brushed smooth under its thin crown braid. She looked as if she had slept eight hours and eaten a sensible breakfast, and she held a sheet of paper in front of her as a shield.
 
 "It is six," I said.
 
@@ -76,7 +81,7 @@ I got up and opened the door. She stood in the corridor in full uniform, with he
 
 "So that you cannot say you did not know."
 
-I looked at the timetable. Underlined twice. She had even drawn a very small clock beside reading hour.
+I looked at the timetable. Underlined twice. She had even drawn a small clock beside reading hour.
 
 "You wrote this in four colours," I said.
 
@@ -90,7 +95,7 @@ I read it. Beside the words *arms practice*, in black ink, she had written: *Do 
 
 "That's not fair," I said. "Everyone sleeps in the yard sometimes."
 
-"Nobody sleeps in the yard sixty-one times," said Lysette, and walked away down the corridor with her head very high.
+"Nobody sleeps in the yard sixty-one times," said Lysette, and walked away down the corridor with her head high.
 
 I stood there in my socks, holding the timetable. From the far end of the hall, somebody laughed.
 
@@ -110,7 +115,7 @@ He looked at me, then at the timetable on my desk, then at me again.
 
 "It means I looked at some bread."
 
-Felix nodded as if that were reasonable. He did not ask more, and that was why I liked him. He took out a pen and said nothing for a full minute.
+Felix nodded. He seemed to find that reasonable. He did not ask more, and that was why I liked him. He took out a pen and said nothing for a full minute.
 
 "Lysette Hollen walked you here," he said at last.
 
@@ -118,7 +123,7 @@ Felix nodded as if that were reasonable. He did not ask more, and that was why I
 
 "For ten minutes."
 
-"She walked *very* close behind me."
+"She walked close behind me."
 
 "Everyone saw." He cleaned his pen on his sleeve. "Rowan waved at you."
 
@@ -128,7 +133,7 @@ Felix nodded as if that were reasonable. He did not ask more, and that was why I
 
 "I was busy being walked."
 
-Felix almost smiled. Then Brandmeier's voice cut across the room like a ruler on a desk.
+Felix almost smiled. Then Brandmeier's voice hit the room, flat and hard, like a ruler on a desk.
 
 "Wren."
 
@@ -144,7 +149,7 @@ She was being kind in the way a cat is kind to a mouse. I looked at her. I looke
 
 I could have said nothing. I could have said, *I don't know*. That was my usual answer. It was a good one. Nobody remembered it afterward.
 
-But my handkerchief was in Lysette's pocket, and I did not feel like being a mouse today.
+But my handkerchief was in Lysette's pocket, and my chest felt oddly tight. I assumed it was the cold room. I did not feel like being a mouse today.
 
 "A command gives," I said. "A request asks."
 
@@ -156,7 +161,7 @@ The room went quiet. Brandmeier stopped tapping her glove. For a moment I though
 
 I was already sitting. Somebody behind me hissed. Somebody else muttered, "Show-off." A boy in the second row turned all the way around to look at me as if I had insulted his mother. Whatever the room had felt about me before, which was nothing at all, it now felt something much hotter.
 
-"Eden," Felix said, very softly.
+"Eden," Felix said, softly.
 
 "Yes?"
 
@@ -190,7 +195,7 @@ Beside him, a step behind, stood Lysette. She had arrived from nowhere, as she a
 
 "It was a short question."
 
-"It was not." He smiled slightly. It was not an unfriendly smile. That made it worse. "In three years, you have never once shown me anything. And in one morning, with Lysette beside you, you suddenly answer like a scholar."
+"It was not." He smiled slightly. It was not an unfriendly smile, which made it worse. "In three years, you have never once shown me anything. And in one morning, with Lysette beside you, you suddenly answer like a scholar."
 
 "I read a book."
 

@@ -6,7 +6,7 @@ The Discipline Committee office had eleven chairs, and not one of them had legs 
 
 Lysette Hollen knew this because she sat in each of them, in turn, every week, and wrote down which one rocked. It was the sort of thing a vice-chair noticed. No one else had noticed in three years, and the student president, who was supposed to be in charge of furniture, had said he would look into it in the spring.
 
-It was the middle of a grey morning, and she had three jobs before lunch. The first was to find ink.
+It was the middle of a grey morning, and she had three jobs before lunch. The telephone on her desk had rung eleven times since breakfast, always with a complaint, and she had pushed her white hair behind her ear for each one. The first was to find ink.
 
 The ink bottle on the shelf was empty. The Committee was given one bottle each term, and this term it had already been used for forty warrants, six apology letters and a long complaint about a goat. The pad for her seal had gone dry the week before, so she had stamped her first warrant in pale pink, which was all the kitchen would lend her. She did not want to stamp another. A warrant in pink looked like a joke, and a joke did not make anybody turn up to class.
 
@@ -138,7 +138,7 @@ It did, a little.
 
 "Lysette!"
 
-A tray landed on the table beside her. Seraphine sat down, bright and quick, her hair pinned up with three pins that did not match, and behind her came Felix, quiet, with a bowl of soup, and behind him, like the end of a procession, came Eden Wren.
+A tray landed on the table beside her. Seraphine sat down, bright and quick, her copper braid half undone, and behind her came Felix, quiet, with a bowl of soup, and behind him, like the end of a procession, came Eden Wren.
 
 "We are joining you," said Seraphine. "You looked sad. I decided it was my duty."
 
@@ -208,7 +208,7 @@ Eden did not look up from his soup. He thought about it. She saw him think about
 
 "You asked."
 
-"I did." Seraphine laughed, and the three pins in her hair shook loose. "You are a bad liar, Eden Wren. You'd run the whole way."
+"I did." Seraphine laughed, and her braid came a little more undone. "You are a bad liar, Eden Wren. You'd run the whole way."
 
 "Probably," said Eden again, and he almost smiled.
 
@@ -224,7 +224,7 @@ She had not thought of him once.
 
 * * *
 
-That evening she let herself into the Committee office and lit a single lamp, and sat in the chair that did not rock.
+That evening she let herself into the Committee office and switched on a single mana-lamp, and sat in the chair that did not rock.
 
 She had her list. She had her card. She had her mother's letter, folded small. She put her hand into the pocket of her coat to find a pencil.
 

@@ -10,9 +10,9 @@ The lowchapel was old and cold, with a low curved roof like the inside of a barr
 
 Okoru stood in front of the altar with a list in his hand. He read the names one by one, in his flat voice, and each time he read a number, a small group of students went to stand together by a pillar. The first lance went to the pillar on the left, and the second went next. Valerius, in the first, did not even look at the others. He only stood, and the others came to him.
 
-"Lance Nine," said Okoru. "Ashgrove. Hollen. Tallis. Voss. Wren."
+"Lance Nine," said Okoru. "Ashgrove. Hollen. Tallis. Belmont. Wren."
 
-My stomach dropped, because Nine was not Fourteen and was not even close.
+I checked the list twice. Nine was not Fourteen, and it was not close.
 
 "Yes!" said Rowan, who was standing behind me, and punched the air. "Lance Nine! Eden, we're together!"
 
@@ -34,7 +34,7 @@ Lysette arrived last. She walked up to the pillar slowly, with her book against 
 
 "That is a coincidence."
 
-Okoru had put us together on purpose. I was sure of it. He watched us from the altar with a calm face and did not blink once, so I crossed the stone floor and stood in front of him.
+Okoru had put us together on purpose. I was sure of it. He watched us from the altar with a calm face, so I crossed the stone floor and stood in front of him.
 
 "Sir, I would like to request Lance Fourteen."
 
@@ -66,11 +66,11 @@ Then she sat down in the gap, between them, with her back straight and her knees
 
 "I really don't mind."
 
-"I said it will not be necessary." Lysette smiled at her. It was a polite smile, careful and bright, and it did not reach her eyes. "Thank you for asking."
+"I said it will not be necessary." Lysette smiled at her. It was bright and careful, the smile a person wears to a funeral. "Thank you for asking."
 
 Rowan, who had not understood any of this, beamed at both of them. "See? Friends already!"
 
-I sat at the other end with Felix and looked at the floor. I had an old rule about such things. When someone is hurting in a way that is nobody's fault, you do not look at it. You give them room to hurt in. I looked at the carved names on the bench until my eyes blurred.
+I sat at the other end with Felix and looked at the floor. I have a rule about this. When someone is hurting and it is no one's fault, you do not look. You give them room. I read the carved names on the bench until I had read them all.
 
 "Felix," I said quietly.
 
@@ -146,7 +146,7 @@ Lysette caught me at the end of the corridor, behind a pillar, where the others 
 
 "I'm only curious," I said. "Someone put it there. It could have killed you."
 
-"I know." Her voice was very quiet. "I thought about that last night. For quite a long time."
+"I know." Her voice was quiet. "I thought about that last night. Until the lamp ran out."
 
 I did not answer, because she was telling the truth and I had no good lie ready.
 
@@ -156,13 +156,13 @@ I did not answer, because she was telling the truth and I had no good lie ready.
 
 "It is supervision."
 
-I thought about it. The honest answer was no. I could find it myself in two nights without her. But she had said *thank you* in a cold cellar, and I was tired of lying to her before breakfast.
+I thought about it. I could find it myself in two nights without her. But I did the sum: two nights of work against one promise to a girl who had said *thank you* in a cold corridor. The promise was cheaper.
 
 "Fine," I said.
 
 She took me to a small stone room under the east stairs, with shelves full of grey folders and one lamp. It took her four minutes to find it. She laid the page on the table, under the light.
 
-It was an ordinary form in a neat clerk's hand. *Drill-warden, replacement core, one.* It had a date from the start of autumn and a line for the signature of approval.
+It was an ordinary typed form with a carbon copy pinned behind it. *Drill-warden, replacement core, one.* It had a date from the start of autumn and a line for the signature of approval.
 
 The signature was in black ink, small and tidy. I read the name.
 

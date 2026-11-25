@@ -1,4 +1,4 @@
-# State after chapter 17 (autumn PR 112, ~3 weeks before the Lantern Ball)
+# State after chapter 18 (autumn PR 112, ~3 weeks before the Lantern Ball)
 
 ## Eden (narrator)
 - 18, Year 5, rank 8. Public: Eden Wren, Thornmere-born scholarship ward. True: Eden Aster Argentine. Dyed hair, gray eyes.
@@ -17,10 +17,11 @@
 
 ## Relationships
 - Felix: only close friend. Ch 12: Eden said "I can't give you mine"; Felix gave middle name Perrin. Seraphine's joke count: 19. Spot: behind the tack room.
-- Valerius: rival; wants Eden to stop hiding. Ch 16-17: duel; Eden lost by a finger on purpose (cracked rib, right knuckles). Valerius: "My father knows who you are. So do I. Next time I'll make you show them." (due ~60-68) Seraphine: crush ("You'd save me again?" "Probably.").
+- Valerius: rival; wants Eden to stop hiding. Ch 17: Eden lost duel by a finger (cracked rib). Valerius: "My father knows who you are... I'll make you show them." Seraphine: crush ("You'd save me again?" "Probably.").
 - Ysolde: knows he lied on Strent. King: warm. Duke: loud love.
 - Dragon "Landlord": bickering. Tutor: respect.
 - Lysette: met ch 1 on the roof (cried over Rowan); tends the garden; escorts Eden. Locket broken in a drawer; vowed to prove the Black Order monsters. Ch 10: found Eden's file too clean; cut was "a door". An hour without thinking of Rowan. Mother wants to thank the Wick Street youth. Kept the handkerchief. Ch 12: two lunches, rota. Ch 13: Witness replay of a figure and ringed door; vows to find "who opens the doors"; saw his new glove. Ch 14: knows he knew the roof is hers (coat over him; buried a torn warrant). Ch 15: tailed him to the bakery; "No further action" (truce).
+- Ch 18 (Ball in 9 days): took Ember Corwen; Embers want Rowan alive on the night of lights; blue-stall ledger = Ball guest list (41).
 - Rowan: loud, warm. Clara: still, quiet. Eden saw: Rowan's Spark = Lirenne fresco gold; lilies rose by Clara.
 
 ## World now

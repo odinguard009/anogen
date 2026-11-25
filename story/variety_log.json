@@ -219,5 +219,18 @@
       "pacing_shape": "slow build to a sharp spike",
       "hook_type": "a promise or threat"
     }
+  },
+  {
+    "chapter": 18,
+    "picks": {
+      "opening_type": "an odd small observation",
+      "scene_shape": "two-person dialogue duel",
+      "tension_type": "moral dilemma",
+      "emotional_tone": "restrained grief",
+      "comic_device": "banter between allies",
+      "conflict_type": "team fight with roles",
+      "pacing_shape": "two spikes with a breather",
+      "hook_type": "quiet line that changes the stakes"
+    }
   }
 ]

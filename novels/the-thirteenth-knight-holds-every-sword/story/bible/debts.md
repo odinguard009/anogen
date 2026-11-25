@@ -8,7 +8,7 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [open] Ledger = Ball guest list (41 lanterns, Rowan no.1); Embers want Rowan alive that night | planted: ch 3, 18 | due: ch 24-26
 - [open] Bell: faint fourth tone | planted: ch 3 | due: ch 420-425
 - [open] Locket (Corentin) | planted: ch 4, 21 | due: ch 36, 45
-- [open] Forged Daubert signature | planted: ch 5-8 | due: ch 95
+- [open] Forged dead-master signatures (Vane ch 6, Daubert ch 8); grey dust in core ch 5 | planted: ch 5-8 | due: ch 95
 - [open] Okoru saw the shield-hold before; "not by feel" | planted: ch 6, 11 | due: ch 60-66
 - [open] Rowan's light = Lirenne fresco | planted: ch 6 | due: ch 105-110
 - [open] Lilies revive near Clara | planted: ch 6 | due: ch 478-480

@@ -23,4 +23,9 @@
 ### 2026-11-25 10:37 UTC (17:37 WIB) - tulis bab berikutnya - chapter 5 - ok
 - words: 2123
 - scores: tension 4, surprise 3, emotion 3, battle_clarity 4, voice 4, freshness 3
+- quota_note:
+
+### 2026-11-25 10:39 UTC (17:39 WIB) - tulis bab berikutnya - chapter 6 - ok
+- words: 1827
+- scores: tension 3, surprise 3, emotion 3, battle_clarity -, voice 4, freshness 3
 - quota_note: 

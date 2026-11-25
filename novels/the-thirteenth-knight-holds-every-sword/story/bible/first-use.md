@@ -19,6 +19,9 @@ Add one line per first use as each chapter is written: `name | owner | first on 
 - Drill-warden construct | Undercroft | ch 5 | yes (man-shaped grey stone, brass joints, wooden practice blade, glass core, red eyes) | n/a
 - Felix's bow | Felix | ch 5 | partly (carried, string checked; not yet shot) | no
 
+- Rowan's light (gold glow in his palms; warms hands; comes with feeling) | Rowan | ch 6 | yes (lantern-bright soft gold, no bigger than an apple/lantern) | no
+- Clara's effect on flowers (lilies revive near her; she does not notice) | Clara | ch 6 | partly (seen by Eden only) | no
+
 ## Planned first uses (outline chapters)
 - Class/job reading (Eden: Knight, Black Lancer) | ch 27 (finals board posts ranks; his own reading in his head)
 - Aura as a word and a knight's aura stopping a bullet | ch 31 (Wall drill: a sergeant shows recruits a pistol ball sliding off)

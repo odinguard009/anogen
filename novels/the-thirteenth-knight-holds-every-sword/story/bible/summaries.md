@@ -16,3 +16,6 @@ At lunch Seraphine sits down uninvited, teases Eden as an old friend and Lysette
 
 ## Ch 5 - Latch
 In the Undercroft drill a training warden of grey stone goes berserk and charges Lysette while she watches Rowan's team; one baton splits on its first stroke. Eden draws Ixa, knocks it into the door-shield and catches the blade in the iron ring (**[Latch]**), then cracks the machine at the joint. Lysette's hands shake: "I didn't need that." "I know." then "Thank you." Rowan and Clara arrive and Rowan calls Eden a hero. Okoru opens the dead construct and finds its core packed with grey dust, pressed down like tea in a tin, and tells the group to say nothing.
+
+## Ch 6 - Lance Nine
+Okoru forms the Year 5 lances in the lowchapel and puts Eden, Felix, Lysette (as his "supervisor"), Rowan and Clara in Lance Nine; Eden's request for Lance Fourteen is refused ("someone who can stand still"). Lysette sits politely between Rowan and Clara. Eden alone sees the dying lilies lift near Clara. In the corridor Rowan's palms glow gold to warm Clara's hands, and Eden notices the painted man in the LIRENNE fresco holds the same light, and says nothing. Lysette trades a look at the requisition file for a promise to share what he finds. The warden's core was ordered this autumn on a form signed by Master Josselin Vane, who died last spring.

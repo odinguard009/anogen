@@ -124,8 +124,8 @@ def main():
         issues.append(f"dialogue share {share:.0%} very high (talking heads)")
     if share < 0.1 and wc > 500:
         notes.append("very little dialogue")
-    if share < 0.20 and wc > 500:
-        issues.append(f"dialogue share {share:.0%} below 20% (target 25-40%, see CLARITY AND PICTURE)")
+    if share < 0.25 and wc > 500:
+        issues.append(f"dialogue share {share:.0%} below 25% (target 25-40%, see CLARITY AND PICTURE)")
     names = set(re.findall(r"(?<=[a-z,;:] )[A-Z][a-z]+(?: [A-Z][a-z]+)*", body))
     if len(names) > 16:
         issues.append(f"{len(names)} distinct capitalized names/terms (max 16, target 12): cut background names, see CLARITY AND PICTURE")
@@ -140,6 +140,10 @@ def main():
         mean = sum(sl) / len(sl)
         sd = (sum((x - mean) ** 2 for x in sl) / len(sl)) ** 0.5
         notes.append(f"sentence length mean {mean:.1f}, variation {sd / mean:.2f} (human prose usually > 0.45)")
+        if mean < 8.5:
+            issues.append(f"sentence length mean {mean:.1f} below 8.5 (target 9-12): join short sentences with and/but/because/when")
+        if mean > 13.5:
+            issues.append(f"sentence length mean {mean:.1f} above 13.5 (target 9-12): split long sentences")
         short = sum(1 for x in sl if x <= 5) / len(sl)
         if sd / mean < 0.3 and short < 0.05:
             notes.append("rhythm is too even: add fragments and very short sentences")

@@ -13,3 +13,6 @@ At the Solmarch lantern market Vesk and Eden spot a tax clerk with a flat, unbre
 
 ## Ch 4 - Eleven Seconds of Silence
 At lunch Seraphine sits down uninvited, teases Eden as an old friend and Lysette as a hunting dog, and steals his bread. In Arms Rowan attacks like a storm while Eden only blocks with Ixa, his public lance; Okoru watches his feet too long and says "Nothing. That is what bothers me." Afterwards Eden finds Lysette alone in the yard and she opens her locket: it holds a portrait of her brother Corentin, dead two years. Eden looks away first, his stomach turning for no reason he knows. Hook: she says he looked away because it hurt, not because it was rude.
+
+## Ch 5 - Latch
+In the Undercroft drill a training warden of grey stone goes berserk and charges Lysette while she watches Rowan's team; one baton splits on its first stroke. Eden draws Ixa, knocks it into the door-shield and catches the blade in the iron ring (**[Latch]**), then cracks the machine at the joint. Lysette's hands shake: "I didn't need that." "I know." then "Thank you." Rowan and Clara arrive and Rowan calls Eden a hero. Okoru opens the dead construct and finds its core packed with grey dust, pressed down like tea in a tin, and tells the group to say nothing.

@@ -1,24 +1,21 @@
-# State after chapter 4 (day after ch 3; autumn, PR 112; Year 5)
+# State after chapter 5 (autumn, PR 112; Year 5; ch 3 was night 1, ch 4-5 the next two days)
 
 ## Eden (narrator)
-- 18, Year 5, public Eden Wren; sleeps on the Old Observatory roof; 61 absences. Nightly dream: grey ash, black banners, no air; also the dark room with the Tutor (siege game), the Landlord (voice), a crooked door with a silver hairpin in the keyhole ("Not yet").
-- Black Order work for Ysolde (king's secretary, thin, tall, grey coat, pen behind ear). Rule: confirm a Veil (flat shadow, cannot say victim's middle name) before ending it. Tonight: ended a Veil wearing tax clerk Alaric Aubin Dunmore in a cellar under a Solmarch wine shop.
-- Carries Ixa (short black lance) in a leather case in public; draws it from his shadow each morning. Powers on the page: Door (knock on the air opens a black door in shade; needs an edge between light and dark), Umra (steps back into his shadow, comes out in matte black plate with a white-thread helm slit; seen = Black Order), Gate (cold line in the mind; summons Ea), Ea (pale two-hand sword, hums, makes light honest, small ache behind the eyes). Many people in the market saw Umra and shouted "The Black Order!"
-- Resonance Bell: he rang three tones (3 Bells); only he hears a faint fourth tone. Nobody told.
-- Thinks someone told the Veil where he would stand. Owes Ysolde Form 13-B, three copies, by morning. Class at seven.
+- 18, public Eden Wren; roof sleeper, 61 absences. Nightly dream: grey ash, black banners; dark room with the Tutor (siege game), the Landlord (voice), crooked door with silver hairpin in the keyhole ("Not yet").
+- Black Order for Ysolde (tall, thin, grey coat). Confirms a Veil (flat shadow; cannot say victim's middle name) before ending it. Ch 3: ended Veil-clerk Alaric Aubin Dunmore; its book lists Hallowcrest Year 5 names, Rowan circled hard; Ysolde has the book. He thinks someone told the Veil where he would stand.
+- Powers shown: Door (knock on air opens a black door in shade; needs an edge of light/dark), Umra (black plate, seen = Black Order; the market shouted "The Black Order!"), Gate and Ea (pale sword, hums, small ache), Ixa (short black lance in a case; one knock folds it into a tray-sized door-shield with an iron ring), Latch (ring catches a blade; used ch 5 in front of Lysette).
+- Resonance Bell: 3 tones; only he hears a faint fourth.
+- Looked away at Corentin's portrait; stomach turned; does not know why.
 
-## Vesk
-- Eden's scout: lives in his shadow, lamp-yellow eyes, dry gossip, wears Umra under a cloak; cannot follow into total dark.
+## Lysette Hollen
+- Vice-chair; colour timetable; keeps his handkerchief. Locket = portrait of brother Corentin (dead two years; cause not said; Eden never read the gate notice). Twin batons: one split in ch 5. After the construct attack: "I didn't need that." "I know." then "Thank you." Hands shook. Watches Rowan.
 
-## Found
-- Dunmore's leather book (brass clasp): a list of Hallowcrest Year 5 students, Rowan circled hard in red ink, many times. Eden's own name is on it, not circled; Felix too. Ysolde took the book.
-
-## Lysette, Seraphine, Rowan, Okoru, Felix
-- Lysette: checks Eden each morning (colour timetable). In the yard (ch 4) she showed him her silver locket: a small painted portrait of her brother Corentin, about twenty, black hair, kind eyes, a lift at one mouth corner; he died two years ago (cause not stated on the page; a notice once hung on the gate and Eden never read it). Eden looked away first, stomach turning; she said "You looked away because it hurt, not because it was rude." She does not say sorry.
-- Seraphine (Valerius's twin; copper-gold braid, crooked ribbon): treats Eden like an old friend ("You used to call me Sera"), teases Lysette as a hunting dog; says he is "hiding with your eyes shut" when he sleeps.
-- Rowan: gold messy hair, strong, always hungry, kind; fights like a storm; sparred Eden in Arms, who only blocked. Clara (slight, brown hair, class healer with a bandage basket) laughs with him.
-- Okoru (Arms; about forty, one arm, right sleeve pinned): watched Eden's feet and said "Your feet... Nothing. That is what bothers me."
-- Felix: quiet, shoulders shake at teasing.
+## Others
+- Seraphine (copper-gold braid): teases Eden like an old friend, Lysette as a hunting dog.
+- Rowan (gold hair, strong, hungry, kind) and Clara (class healer, bandage basket): friendly; Rowan calls Eden a lazy hero.
+- Okoru (one arm): "Your feet... that is what bothers me." Found grey dust packed in the cracked core of a drill-warden; ordered silence; will watch who is surprised.
+- Felix: saw only the aftermath; asked nothing. Valerius: "So you have finally stopped hiding."
+- Brandmeier: cold room, black gloves.
 
 ## Who knows what
-- Ysolde, Vesk and Eden know the Veil and the list. Market crowd: saw a black-armoured figure. Nobody else knows Eden is the Black Order.
+- Lysette and Felix saw Eden stop the construct (door-shield). Okoru suspects Eden's feet. Ysolde, Vesk, Eden know the Veil and the list.

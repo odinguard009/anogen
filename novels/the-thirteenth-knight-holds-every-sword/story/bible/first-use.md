@@ -13,6 +13,12 @@ Add one line per first use as each chapter is written: `name | owner | first on 
 
 - Ixa (dark lance; in public carried in a leather case on his back) | Eden | ch 4 | yes (short, a little longer than his arm, matte black, cold in the sun; drawn from his shadow each morning) | yes (only as strong as his arms and breath; the fold into a door-shield not yet shown)
 
+- Ixa folded: door-shield (one knock on the iron ring-knocker) | Eden | ch 5 | yes (tray-sized, matte black, iron ring; folds with a ringing sound) | yes (only as strong as his arm and aura)
+- Latch ([Latch]) | Eden | ch 5 | yes (ring catches the blade, he steers it; shield edge into the joint cracks the core) | yes (public move; needs the ring to catch)
+- Lysette's twin batons | Lysette | ch 5 | yes (short black sticks held close, left tilted higher) | yes (one splits on the first stroke)
+- Drill-warden construct | Undercroft | ch 5 | yes (man-shaped grey stone, brass joints, wooden practice blade, glass core, red eyes) | n/a
+- Felix's bow | Felix | ch 5 | partly (carried, string checked; not yet shot) | no
+
 ## Planned first uses (outline chapters)
 - Class/job reading (Eden: Knight, Black Lancer) | ch 27 (finals board posts ranks; his own reading in his head)
 - Aura as a word and a knight's aura stopping a bullet | ch 31 (Wall drill: a sergeant shows recruits a pistol ball sliding off)

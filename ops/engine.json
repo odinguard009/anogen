@@ -17,6 +17,6 @@
     "status": "running",
     "stop_reason": ""
   },
-  "critic_through": 20,
+  "critic_through": 22,
   "audit_through": 20
 }

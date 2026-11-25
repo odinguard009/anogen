@@ -12,6 +12,19 @@ The owner is not a native English reader. Write as if for readers who recently l
 - Fights: say who does what, in order, with simple verbs (hit, jump, block, run, fall). No long poetic action sentences.
 - Keep the story exactly: events, names, facts, hooks. Only the language changes.
 
+## CLARITY AND PICTURE (owner's order 2026-11-25; applies to chapters written from now on; wins over Voice, Human feel and Protagonist voice when they conflict)
+Why: chapters 3-4 were still hard to follow although sentences averaged only 7 words. The cause was not sentence length. It was: 20-25 invented names and terms per chapter, idioms and jokes that need cultural knowledge, rare nouns (assessor, ledger, refectory, registrar), little description of places and faces, and choppy 6-7 word sentences with no linking words. The reader must be able to "see" every scene without guessing.
+1. NAME BUDGET: at most 12 distinct capitalized names and terms per chapter (the checker fails above 16). Background people get no name ("the clerk", "the old woman"). At most 2 new named people per chapter. Each new person gets one plain tag the first time (job or look).
+2. WORLD TERMS: at most 2 new ones per chapter. Say the plain thing first, then the name: "the black armor, the Mantle". One thing, one name; never swap synonyms. Explain every new term in the same or the next sentence.
+3. PLAIN NOUNS: if a school-level English reader would not know the word, swap it or explain it in 3-4 words (ledger = book; assessor = tax checker; refectory = dining hall; atrium = big front hall; registrar = office clerk).
+4. NO IDIOMS OR CULTURE JOKES: nothing like "flight risk", "give a finger", "like a sack of flour". A joke must work from plain words and be easy to catch on first read.
+5. LINKED SENTENCES: aim for an average of 9-12 words, range 5-18. Use simple linking words (and, but, because, so, then, when, after) so ideas connect. Do not write more than 3 sentences in a row under 6 words, except in a fast fight.
+6. DIALOGUE: 25-40% of the words in every chapter. Speaker is clear. One idea per line. A hint or riddle is allowed once per scene, and the plain meaning follows within two lines.
+7. PICTURE RULE (description): every scene opens with 2-3 short sentences: where, what time, what the light looks like, one sound or smell, who is there. Every named person gets 2 visible traits on first appearance (face, hair, clothes, size) and one way of moving or talking. In long scenes, say again where people stand. Monsters get size, color and shape compared to a thing everyone knows ("as tall as a door", "like a big dog"), never "too many elbows" alone.
+8. FIGHT PICTURE: before the action starts, say where each person stands, how far apart (in steps), and what is around (wall, stairs, barrels). Then one clear move per sentence. If it is too dark to see, say how the hero knows what happens (sound, touch, light from a match).
+9. SAY THE PLAN: when the hero does something clever, one plain sentence says what he wants and why, before or right after ("I needed light. Light makes edges. Edges make doors.").
+10. Keep chapter length 1800-2500 words; description replaces side details, not story events.
+
 ## READABILITY (owner's order 2026-11-25; highest priority, overrides any rule below that conflicts)
 - Audience: teenagers and young adults reading web novels / light novels on a phone. Reference feel: Holy Emperor's Grandson is a Necromancer, Semi-Coercive Imperialist, The Academy's Weapon Replicator, Highschool DxD, Mahouka, Infinite Dendrogram, Bleach, Dandadan (ideas of pace and clarity only; never copy).
 - Plain, everyday words. Pick the simple word every time: "use" not "employ", "hard" not "arduous", "hide" not "conceal". If a word would make a teen reach for a dictionary, replace it. Invented world terms are fine but explain them by action in one short line, max 1-2 new ones per chapter.

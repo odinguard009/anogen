@@ -132,7 +132,8 @@ def main():
         check("context_pack summaries before chapter", "Summary three" in o)
 
         # check_chapter
-        write(root / "chapters/chapter-004.md", "# Four\n\n" + filler(rng, 2100, names) + "\n")
+        talk = "\n\n".join('"' + filler(rng, 110, names).replace("\n", " ") + '"' for _ in range(7))
+        write(root / "chapters/chapter-004.md", "# Four\n\n" + filler(rng, 1450, names) + "\n\n" + talk + "\n")
         c, o = run(root, "check_chapter.py", "chapters/chapter-004.md")
         check("check_chapter clean", "SUMMARY: OK" in o, o)
         bad = "# Five\n\nA testament to patience. " + "word " * 100 + "\n"

@@ -124,6 +124,11 @@ def main():
         issues.append(f"dialogue share {share:.0%} very high (talking heads)")
     if share < 0.1 and wc > 500:
         notes.append("very little dialogue")
+    if share < 0.20 and wc > 500:
+        issues.append(f"dialogue share {share:.0%} below 20% (target 25-40%, see CLARITY AND PICTURE)")
+    names = set(re.findall(r"(?<=[a-z,;:] )[A-Z][a-z]+(?: [A-Z][a-z]+)*", body))
+    if len(names) > 16:
+        issues.append(f"{len(names)} distinct capitalized names/terms (max 16, target 12): cut background names, see CLARITY AND PICTURE")
     dash = (raw.count("—") + raw.count("--")) * 1000 / max(wc, 1)
     notes.append(f"em-dashes per 1000 words: {dash:.1f}")
     if dash > 12:

@@ -9,12 +9,12 @@
     }
   },
   "batch": {
-    "mode": "none",
-    "target": 0,
+    "mode": "n",
+    "target": 10,
     "arc": null,
     "max": null,
-    "start_chapter": null,
-    "status": "idle",
+    "start_chapter": 1,
+    "status": "running",
     "stop_reason": ""
   },
   "critic_through": 0,

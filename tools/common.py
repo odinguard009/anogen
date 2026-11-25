@@ -131,6 +131,20 @@ def next_chapter_number():
     return n
 
 
+HEADING_RE = re.compile(r"^#\s+Chapter\s+(\d+):\s+\S.*$")
+
+
+def heading_issue(text, n=None):
+    """'' if the first non-empty line is `# Chapter N: Title` (N = n when given), else the reason (owner order 2026-11-25)."""
+    first = next((ln.strip() for ln in text.splitlines() if ln.strip()), "")
+    m = HEADING_RE.match(first)
+    if not m:
+        return "first line must be '# Chapter N: Title' (example: # Chapter 1: Forty Minutes of Grass)"
+    if n is not None and int(m.group(1)) != n:
+        return f"heading says Chapter {m.group(1)} but the file is chapter {n}"
+    return ""
+
+
 def chapter_title(text, fallback=""):
     for line in text.splitlines():
         s = line.strip()

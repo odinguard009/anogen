@@ -8,7 +8,7 @@ import re
 import sys
 from pathlib import Path
 
-from common import (STORY, TOOLS, body_text, canon_tokens, chapter_files, clean_body,
+from common import (STORY, TOOLS, body_text, canon_tokens, chapter_files, clean_body, heading_issue,
                     read, sentences, setting_int, words)
 
 STOP = set("""a an the and or but if then so of to in on at by for with from as is are was were be been being
@@ -66,8 +66,10 @@ def main():
 
     if wc < lo or wc > hi:
         issues.append(f"word count {wc} outside {lo}-{hi}")
-    if not raw.lstrip().startswith("#"):
-        issues.append("missing '# Title' first line")
+    mm = re.match(r"chapter-(\d+)\.md$", path.name)
+    hi_ = heading_issue(raw, int(mm.group(1)) if mm else None)
+    if hi_:
+        issues.append(hi_)
 
     low = body.lower()
     for phrase, mx in load_banned():

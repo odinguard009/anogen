@@ -1,9 +1,8 @@
 __pycache__/
 *.pyc
-ops/lock.json
-out/reading-page.html
+novels/*/out/reading-page.html
 .lock.guard
-ops/*.bak
-ops/ctx-cache.json
+novels/*/ops/*.bak
+novels/*/ops/ctx-cache.json
 novels/lock.json
 novels/.lock.guard

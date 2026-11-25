@@ -14,6 +14,15 @@ import zipfile
 from pathlib import Path
 
 TOOLS = Path(__file__).resolve().parent
+
+
+def _src():
+    """Folder holding the real story files the tests copy (the active novel, or the repo itself in the flat layout)."""
+    act = TOOLS.parent / "novels" / "ACTIVE"
+    return TOOLS.parent / "novels" / act.read_text().strip() if act.exists() else TOOLS.parent
+
+
+SRC = _src()
 PY = sys.executable
 FAILS = []
 
@@ -73,16 +82,16 @@ def mkroot(chapters=(), engine=None):
     root = Path(tempfile.mkdtemp(prefix="anogen-test2-"))
     for d in ("story/bible", "story/outline", "story/style", "chapters", "ops", "out"):
         (root / d).mkdir(parents=True)
-    shutil.copy(TOOLS.parent / "story/brief.md", root / "story/brief.md")
-    shutil.copy(TOOLS.parent / "story/style/banned.md", root / "story/style/banned.md")
-    shutil.copy(TOOLS.parent / "story/style/profile.md", root / "story/style/profile.md")
+    shutil.copy(SRC / "story/brief.md", root / "story/brief.md")
+    shutil.copy(SRC / "story/style/banned.md", root / "story/style/banned.md")
+    shutil.copy(SRC / "story/style/profile.md", root / "story/style/profile.md")
     write(root / "story/inbox.md", "# Idea inbox\n\n## Unprocessed\n\n## Processed\n")
     write(root / "story/bible/canon_names.txt", "Alvar\nBrenna\n")
     write(root / "story/bible/summaries.md", "# S\n")
     write(root / "ops/engine.json", json.dumps(engine or {"arcs": {}}))
     rng = random.Random(3)
     for n in chapters:
-        write(root / f"chapters/chapter-{n:03d}.md", f"# Chapter {n}\n\n" + filler(rng, 2000, ["Alvar", "Brenna"]) + "\n")
+        write(root / f"chapters/chapter-{n:03d}.md", f"# Chapter {n}: Test Title\n\n" + filler(rng, 2000, ["Alvar", "Brenna"]) + "\n")
     return root
 
 
@@ -118,7 +127,7 @@ def phase_two_tests():
         d = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
         check("critic waits until 10 chapters are ready", d["critic_pending"] is None and d["critic_waiting"] == [1, 5], str(d))
         for n in range(6, 11):
-            write(root / f"chapters/chapter-{n:03d}.md", f"# Chapter {n}\n\n" + filler(random.Random(n), 2000, ["Alvar"]) + "\n")
+            write(root / f"chapters/chapter-{n:03d}.md", f"# Chapter {n}: Test Title\n\n" + filler(random.Random(n), 2000, ["Alvar"]) + "\n")
         d = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
         check("critic due at 10 with audit", d["critic_pending"] == [1, 10] and d["audit_with_critic"] is True, str(d))
         c, o = run(root, "engine_state.py", "mark", "critic", "11")
@@ -463,6 +472,18 @@ def novel_tests():
     (repo / "novels/ACTIVE").write_text("ghost\n")
     rc, o = nrun("status.py")
     check("novel: ACTIVE pointing at a missing novel fails clearly", rc != 0 and "not found" in o, o)
+    # chapter heading format (owner order 2026-11-25): "# Chapter N: Title"
+    hroot = mkroot(chapters=(1, 2))
+    rc, o = run(hroot, "check_chapter.py", "chapters/chapter-001.md", "--strict")
+    check("heading: '# Chapter 1: Title' is accepted", "must be '# Chapter N: Title'" not in o and "heading says" not in o, o)
+    body = (hroot / "chapters/chapter-001.md").read_text().split("\n", 1)[1]
+    for label, head in (("old '# Title'", "# Forty Minutes of Grass"), ("no colon", "# Chapter 1 Forty"), ("wrong number", "# Chapter 7: Forty")):
+        (hroot / "chapters/chapter-001.md").write_text(head + "\n" + body)
+        rc, o = run(hroot, "check_chapter.py", "chapters/chapter-001.md", "--strict")
+        check(f"heading: {label} is an ISSUE (strict exit 1)", rc == 1 and ("ISSUE" in o), o)
+    rc, o = run(hroot, "verify_batch.py", "1-1")
+    check("heading: verify_batch reports a bad heading", "ch 1:" in o and ("Chapter" in o), o)
+    shutil.rmtree(hroot, ignore_errors=True)
     shutil.rmtree(repo, ignore_errors=True)
 
 
@@ -471,10 +492,10 @@ def main():
     try:
         for d in ("story/bible", "story/outline", "story/style", "chapters", "ops", "out"):
             (root / d).mkdir(parents=True)
-        shutil.copy(TOOLS.parent / "story/brief.md", root / "story/brief.md")
-        shutil.copy(TOOLS.parent / "story/inbox.md", root / "story/inbox.md")
-        shutil.copy(TOOLS.parent / "story/style/banned.md", root / "story/style/banned.md")
-        shutil.copy(TOOLS.parent / "story/style/profile.md", root / "story/style/profile.md")
+        shutil.copy(SRC / "story/brief.md", root / "story/brief.md")
+        shutil.copy(SRC / "story/inbox.md", root / "story/inbox.md")
+        shutil.copy(SRC / "story/style/banned.md", root / "story/style/banned.md")
+        shutil.copy(SRC / "story/style/profile.md", root / "story/style/profile.md")
         write(root / "story/names.md", "# Names\nIntro prose that must be ignored.\n## Culture A\nAlvar, Brenna, Corwin\n## Culture B\nDasha, Emrys\n")
         write(root / "story/bible/canon_names.txt", "Alvar\nBrenna\n")
         write(root / "story/bible/premise.md", "A test world.")
@@ -489,14 +510,14 @@ def main():
         write(root / "ops/engine.json", json.dumps({"arcs": {}, "batch": {
             "mode": "none", "target": 0, "arc": None, "max": None, "start_chapter": None,
             "status": "idle", "stop_reason": ""}}))
-        (root / "ops/schedule.json").write_text((TOOLS.parent / "ops/schedule.json").read_text())
+        (root / "ops/schedule.json").write_text((SRC / "ops/schedule.json").read_text())
 
         rng = random.Random(7)
         names = ["Alvar", "Brenna"]
         for n in range(1, 4):
             epi = "> \"A fine quote.\" - Somebody\n\n" if n == 1 else ""
             write(root / f"chapters/chapter-{n:03d}.md",
-                  f"# Chapter {n} Title\n\n" + epi + filler(rng, 2000, names) + "\n")
+                  f"# Chapter {n}: Test Title\n\n" + epi + filler(rng, 2000, names) + "\n")
 
         # variety
         c, o1 = run(root, "variety.py", "draw", "--chapter", "4")
@@ -534,10 +555,10 @@ def main():
 
         # check_chapter
         talk = "\n\n".join('"' + filler(rng, 110, names).replace("\n", " ") + '"' for _ in range(7))
-        write(root / "chapters/chapter-004.md", "# Four\n\n" + filler(rng, 1450, names) + "\n\n" + talk + "\n")
+        write(root / "chapters/chapter-004.md", "# Chapter 4: Four\n\n" + filler(rng, 1450, names) + "\n\n" + talk + "\n")
         c, o = run(root, "check_chapter.py", "chapters/chapter-004.md")
         check("check_chapter clean", "SUMMARY: OK" in o, o)
-        bad = "# Five\n\nA testament to patience. " + "word " * 100 + "\n"
+        bad = "# Chapter 5: Five\n\nA testament to patience. " + "word " * 100 + "\n"
         write(root / "chapters/chapter-005.md", bad)
         c, o = run(root, "check_chapter.py", "chapters/chapter-005.md")
         check("check_chapter flags banned and length", "banned phrase 'a testament to'" in o and "word count" in o, o)
@@ -547,7 +568,7 @@ def main():
         write(root / "chapters/chapter-004.md", dup)
         c, o = run(root, "check_chapter.py", "chapters/chapter-004.md")
         check("check_chapter flags overlap with previous", "shared with chapter" in o and "too similar" in o, o)
-        write(root / "chapters/chapter-004.md", "# Four\n\n" + filler(rng, 2100, names) + "\n")
+        write(root / "chapters/chapter-004.md", "# Chapter 4: Four\n\n" + filler(rng, 2100, names) + "\n")
 
         # engine_state
         c, o = run(root, "engine_state.py", "arc-plan", "1", "--start", "1", "--end", "6", "--name", "First", "--max", "10")
@@ -565,7 +586,7 @@ def main():
         d = json.loads(o)
         check("batch continues mid arc", d["continue"] is True and d["next_chapter"] == 5, o)
         for n in (5, 6):
-            write(root / f"chapters/chapter-{n:03d}.md", f"# Chapter {n}\n\n" + filler(rng, 1900, names) + "\n")
+            write(root / f"chapters/chapter-{n:03d}.md", f"# Chapter {n}: Test Title\n\n" + filler(rng, 1900, names) + "\n")
         c, o = run(root, "engine_state.py", "next")
         d = json.loads(o)
         check("batch ends when arc written", d["continue"] is False and d["batch"]["status"] == "done", o)

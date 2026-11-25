@@ -1,3 +1,4 @@
+NOTE 2026-11-25: each invader's side effect on the victor and the armor feature that blocks it are in power-system.md section 16.
 # Invaders: the Hushborn (reference)
 
 ## The Hush

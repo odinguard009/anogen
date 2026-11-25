@@ -19,6 +19,8 @@ This file wins over powers.md, mana.md, combat-style.md and battle-craft.md wher
 15. Setiap kekuatan yang muncul pertama kali wajib dijelaskan (rupa, cara pakai, efek, batas).
 16. Serangan khas tiap tokoh ditulis sebagai label tebal **[Nama]** saat serangan terjadi (bagian 13). Maksimal 1-2 per bab.
 17. Kebangkitan puncak bernama UNBIND (bagian 14): langka, mahal, bukan peringkat. Dipicu keyakinan yang dipilih lagi dengan harga nyata, lalu menyebut nama tengahnya sendiri dengan keras. Contoh: Eden = Evrin (bab 590), Lysette = Auda (bab 141), Valerius = Esk (bab 194).
+18. "Door" dan "Gate" hanya nama. Kekuatan Eden yang sebenarnya: (a) memerintah jutaan ksatria bayangan (Legiun Tidur, kekuatan Kaisar Void, mirip pasukan bayangan Solo Leveling), (b) memanggil senjata apa pun di Vault (kekuatan sang Naga). Lihat bagian 15.
+19. Armor dibuat untuk melawan Invader (Hush) supaya pemakainya tidak terkena efek sampingnya: darah beracun, bisu, kabut ingatan, dingin. Memakai armor adegan besar seperti Garo: panggil, plat menutup, helm terakhir, ada batas waktu (Tolls). Lihat bagian 16.
 
 ## The stack (one line each)
 MANA (fuel) -> AURA (body field) -> TENET (one unique power) -> CLASS/JOB (registered role that names learned skills).
@@ -108,11 +110,11 @@ Who wins is never settled by this list. A small tank used well beats a big tank 
 ## 8. Mapping every existing power
 | Power | Layer | What it does | Limit and cost |
 |---|---|---|---|
-| Melsche Door (Eden) | god power, Emperor's gift | cuts doors in shadow; summons step out | needs a hard edge of light and dark; door size = shadow size; summons drain mana each minute; deep use brings the Frost |
+| Melsche Door (Eden) | god power, Emperor's gift | the SHADOW LEGIONS: he commands shadow knights, up to millions (section 15); shadow doors are only their exits and his roads | needs a hard edge of light and dark; door size = shadow size; summons drain mana each minute; deep use brings the Frost |
 | The Frost | cost of the Door | feelings go flat for hours; fingers white and numb | warmth slowly undoes it |
 | Ixa (dark lance) | Door gear | the door's frame drawn out: matte black lance, about 1.5 m, cold to touch; one knock folds it into a tall door-shield with an iron ring | free to hold; only as strong as Eden's grip and aura |
 | Ea (sword) | relic via the Gate | hand-and-a-half sword, pale blade like ice at dawn, plain grey grip; does not shine, makes light honest: illusions fail, Veils show grey | needs some light; cheap to hold, but still a small drain |
-| Sepiroth Gate | god power, Valkyrie birthright | calls relics he has met in the dream Vault; lends them by middle name | drain per second per relic; fever, nosebleed when overdrawn |
+| Sepiroth Gate | god power, Valkyrie birthright | summons ANY weapon or relic stored in the Sepiroth Vault (section 15); lends them by middle name | drain per second per relic; fever, nosebleed when overdrawn |
 | Raiments and Tolls | gear | holy armor, each with one power | Tolls add weight; seventh Toll Keeps (Eden: the Emperor surfaces) |
 | Umra / Aster | Door gear (Aster: Liora's work) | black plate rising from his shadow, silent | Frost; reads as Black Order to anyone who sees |
 | Ten Pillars | Door summons | each has own aura, skills and voice | drain per minute; big shadow for big summons; never kill humans |
@@ -246,3 +248,35 @@ What it is: for a few minutes, a person's Tenet may break the ONE limit it norma
 | Archduke Halberg | Kolv | his banner becomes a wall his soldiers cannot break from | Verandel must be great again | his men cannot retreat even when they should | ch 194 |
 | Count Belozerov | Sorn | his puppets fight with his own skill | the world killed the Empress; he will own it | cuts his own years | ch 693 |
 No Unbind: the Tailor, Nihl, the Pillars, Kell, Dragomira (her god power is a Throne, not an Unbind).
+
+## 15. Eden's two real powers (owner order 2026-11-25: "Door" and "Gate" are only NAMES)
+Odin's original plan is the truth. The words Door and Gate stay in the book as names, but this is what the powers ARE.
+**A. The Emperor of Void's power = the Shadow Legions (name: Melsche Door).**
+- Eden commands shadow knights: black soldiers in plain dark plate with a white thread where a face should be. In the full plan there are nine legions of about a million each (the Sleeping Legions). Think of an army that lives in the dark and answers one man.
+- He calls them out of any shadow big enough to hold them, and they go back into shadow when released. They hear his orders as a shared mind: a thought, a short word or a hand sign is enough. He fights as a general first and a duellist second (the brief: "narrates fights like a tactician").
+- Scale on the page: at the start he can call one to forty (the First Legion is unlocked; he has never woken more than forty). A mass waking of 10,000 comes at ch 248; more legions later (see powers.md and the ladder). The Ten Pillars are the named commanders (Vesk, Gorrath, Mirelle now).
+- Rules: (1) the knight rises from a shadow as large as the unit; (2) each knight costs a little mana per minute, a Pillar costs a lot, a whole legion needs a day and a huge shadow (a city at dusk, a storm, an eclipse); (3) the Emperor's law: they never kill humans (they disarm, drive back, wall off); against Hushborn they kill freely; (4) what hurts them is felt by Eden as cold; (5) deep use brings the Frost; (6) light kills the exit: no shadow edge, no army.
+- The shadow DOORS seen on the page (dropping a Veil into a cellar, book-sized doors for Mirelle's blade) are the same power seen small: a shadow door is the exit and the road of his army. They are not a separate power.
+**B. The Dragon's power = the Vault (name: Sepiroth Gate).**
+- Eden can summon ANY weapon, armor or relic stored in the Sepiroth Vault: every holy weapon ever made on Elysmar. He calls it into his hand (weapons) or onto his body (Raiments). Ea is one of them.
+- Limits: he must have met the weapon's will in the dream Vault (that gives him its name), the weapon may refuse a bad cause, each held relic drains him per second, and overdraw brings fever and nosebleeds. He can lend a relic to a person whose middle name he knows.
+- How it feels in a fight: personal and chosen (the right tool for this enemy), where the Legions are scale and strategy.
+**C. How the two work together:** the army holds the field; the Vault gives him the one right weapon for the enemy in front of him. Neither is a level. Each has a cost, and fights are still decided by matchup and preparation.
+
+## 16. Armor: made to fight the Invaders (owner order 2026-11-25; Garo-style armor scenes)
+**Why armor exists.** Invaders (the Hush) hurt even the winner. The kill is not the danger; the aftermath is. Armor is built so a knight can fight them and walk away.
+| Invader | Side effect on the victor | What the armor does |
+|---|---|---|
+| Husk blood | grey rot: skin and flesh go numb, cold, then dead | sealed plate, double-sealed cuffs and gloves, ward-glazed seams |
+| Stalker claws | silence venom: voice and mana vanish for hours | closed gorget with a small tuned bell ring that keeps the voice alive |
+| Choir silence | no chants, no spoken orders | bellwire sigils in the plate carry orders by resonance |
+| Veil dust | breathing it fogs memory and name | filter helm with salt-silk; the visor seals before you step in |
+| The Pale ground | slow mana drain from standing there | mana-stone cores in the greaves; walking on ward-soles |
+| Hierarch themes | each has one (burn, rust, fear...) | handled by the matching Raiment or ward-charge |
+- A knight in plain clothes who wins a fight with a Husk can still die in three days. This is why every knight owns ward-plate, why armor shortages are politics (tech.md: ward-plate is mana engineering, and the Hush follows big mana machines), and why Raiments matter.
+- Against HUMANS knights wear light guard kit. Full armor is for invaders and for show (aura moments). That keeps armor-ups special.
+**Armor-up scene (the Garo-style set piece; use for every Raiment and for Eden's armor).**
+1. The call: three knocks and the middle name (armor.md). 2. The sign: a sound and a change in the light (the knocker rings like a far bell; the shadow at his feet deepens). 3. The closing, in a fixed order: boots, legs, chest, shoulders, gauntlets, and the helm LAST, closing with a bell-note. 4. One unique detail per armor. 5. The clock: the Tolls are the time limit (calm: one toll in ten minutes; hard fight: one a minute; the seventh Keeps the wearer). 6. The cost lands afterwards.
+- Armor-up is a bold label moment: **[Armor name]** at the moment the helm closes (1-2 per chapter at most, with the other labelled attacks).
+- Eden's own armor: Umra (soldier plate drawn from his shadow, silent, costs the Frost) and Aster (his mother's work) are his anti-invader plate; Ea and Ixa are his weapons; the army fights beside him.
+- Ward-plate is the common tier (every knight): its seals wear out; each fight against invaders spends seal-charge; an armorer re-seals it. Plot use: an unsealed glove, a cracked seam, a stolen helm filter are the small disasters that make invaders frightening.

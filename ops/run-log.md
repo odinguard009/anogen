@@ -59,3 +59,6 @@
 - words: 1987
 - scores: tension 3, surprise 3, emotion 3, battle_clarity 4, voice 3, freshness 3
 - quota_note: 
+
+### critic pass ch 21 - scores 3,3,4,-,4,3 - v3 rewrite check: split 14 long sentences, restored Lantern Ball / Dawn Boy / rule fourteen / royal court (Corentin), explained Bursar, swapped hard words (dignity, sued, flourish, recovered, sold me out, offer stands); sentence mean back to 8.5
+### critic pass ch 22 - scores 3,3,3,4,3,3 - restored "the Mantle" hood (armor term, needed for ch 23 Faceless Mantle); fixed "three armed men at the doors" vs Vesk's count; swapped alum, ceremony, instincts, exchange, buying time, see through; cut tidy line "I let it be true"; Duskwater name left out (name budget 16)

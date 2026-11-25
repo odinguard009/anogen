@@ -2,7 +2,7 @@
 
 "How many vats?"
 
-The foreman asked it the same way every evening. I knew because I had lain on a rafter above him since the second bell, and I had already heard him ask it twice, to two different shifts. He was a heavy man with blue arms up to the elbow, and he held a tally stick in one hand. He did not smile.
+The foreman asked it the same way every evening. I knew because I had lain on a rafter above him since the second bell. I had already heard him ask it twice, to two different shifts. He was a heavy man with blue arms up to the elbow, and he held a tally stick in one hand. He did not smile.
 
 "Fourteen," said the line of workers below.
 
@@ -16,9 +16,9 @@ The foreman asked it the same way every evening. I knew because I had lain on a 
 
 "Good," said the foreman. "Back to work."
 
-That was the whole ceremony. There were fourteen answers, one stick and a bell for tea. No one looked up. A woman near the door yawned, and a boy of about twelve scratched his nose with a wrist the color of a bruise.
+That was the whole thing. There were fourteen answers, one stick and a bell for tea. No one looked up. A woman near the door yawned, and a boy of about twelve scratched his nose with a wrist the color of a bruise.
 
-It looked like a dye-works, and it smelled like one, of wet wool and alum and a sour sweetness from the vats. The light was the last of the evening, gray-blue through high dirty windows. I had watched the place for an hour, and that was what bothered me. Everything was too ordinary. No one in the room was nervous, and that is not normal when three armed men stand at the doors.
+It looked like a dye-works, and it smelled like one, of wet wool and salt and a sour sweetness from the vats. The light was the last of the evening, gray-blue through high dirty windows. I had watched the place for an hour, and that was what bothered me. Everything was too ordinary. No one in the room was nervous, and that is not normal when armed men stand at the doors.
 
 "Your face is doing the thing," said Vesk, from the dark of my shadow.
 
@@ -26,7 +26,7 @@ It looked like a dye-works, and it smelled like one, of wet wool and alum and a 
 
 "Your mask is doing the thing. It looks like a closed door that is thinking."
 
-I let that go. Tonight I wore only the black hood and mask, because full plate would ring on every beam. It was the face of the Black Order, a black cloth with nothing on it. I had put it on four days before the Ball, under the roof of the dye-works in the lower city. Ysolde's note had been short.
+I let that go. Tonight I wore only the hood and mask of the Mantle, my black armor, because full plate would ring on every beam. It was the face of the Black Order, a black cloth with nothing on it. I had put it on four days before the Ball, under the roof of the dye-works in the lower city. Ysolde's note had been short.
 
 *Tannery group moved. Lower city, dye-works, east of the bell market. Break it before the Ball. No kills.*
 
@@ -78,7 +78,7 @@ Theobald was already looking at the wall, and his tally stick stopped halfway to
 
 "What is the signal?" said Theobald slowly.
 
-I felt Vesk freeze for one beat in the dark beside me. Then the shadow raised a hand and rubbed its chin, and I understood that he was buying time.
+I felt Vesk freeze for one beat in the dark beside me. Then the shadow raised a hand and rubbed its chin, and I understood that he needed a moment to think.
 
 "The signal," said Dietrich's shadow. "How many vats?"
 
@@ -90,7 +90,7 @@ Theobald's eyes went narrow. "Fourteen," he said.
 
 "Wrong," said the shadow gently. "It is ten. You are losing your count, Theobald. There is an Ember in the street, and he will want to hear how."
 
-The room held its breath. For a moment I thought Theobald would see through it, because he had a face that misses nothing. But he had spent three years in a room where everyone said the right numbers, and he had built his whole day on that. Now his own man said he was wrong, and he looked at his stick.
+The room held its breath. For a moment I thought Theobald would know the trick, because he had a face that misses nothing. But he had spent three years in a room where everyone said the right numbers, and he had built his whole day on that. Now his own man said he was wrong, and he looked at his stick.
 
 Then he looked at the red vat, the one they all walked around, and I saw his shoulders drop.
 
@@ -100,13 +100,13 @@ It was the wrong thing to say, and the right one. The Cinders moved fast, and th
 
 I dropped from the rafter into the dark behind the red vat.
 
-My boots made no sound, and the hood was cool against my forehead. Somewhere out in the yard I could hear Mirelle's silence. It is a sound, if you have lived with it long enough. She would be on the cart, counting every head, and then she would pass them to Ysolde's wagon at the corner. The eleven kids would go to a church school in the upper town, where a woman would take them and ask them nothing.
+My boots made no sound, and the Mantle's hood was cool against my forehead. Somewhere out in the yard I could hear Mirelle's silence. It is a sound, if you have lived with it long enough. She would be on the cart, counting every head, and then she would pass them to Ysolde's wagon at the corner. The eleven kids would go to a church school in the upper town, where a woman would take them and ask them nothing.
 
 That left four men.
 
 * * *
 
-The guard at the nearest door turned first. He had good instincts. He heard something in the dark behind him, and he spun with his short blade low and fast, like a man gutting a fish.
+The guard at the nearest door turned first. He had a good nose for danger. He heard something in the dark behind him, and he spun with his short blade low and fast, like a man gutting a fish.
 
 I stepped inside the cut.
 
@@ -124,7 +124,7 @@ He had. I could hear him on the steps, a heavy man in a hurry with a pie still i
 
 He threw the pie. It was not a bad idea, and I leaned away, and the pie hit the wall with a wet crack. He pulled his blade and charged while I was still watching the pie slide down.
 
-I gave him the first exchange for free, as I always do. I held the lance at my hip, and his blade slammed into it, shoulder first. He was a big man with a wild guard. He swung left the second time and right the third, and that left a gap in the middle as wide as a hand. I put the lance through it.
+I gave him the first attack for free, as I always do. I held the lance at my hip, and his blade slammed into it, shoulder first. He was a big man with a wild guard. He swung left the second time and right the third, and that left a gap in the middle as wide as a hand. I put the lance through it.
 
 That move is called the Draught, because it goes through the narrow place like wind under a door. The point stopped a finger from his throat, and his sword hung up in the air. He looked at the lance. Then he stopped.
 
@@ -162,9 +162,9 @@ Candor, at my hip, did not hum. It went cold. Behind the sour sweetness of the v
 
 "No one says. It's in the walls." He held himself up on the vat now, and his breath came short. "I'll tell you the rule, since you never asked. Nobody walks over the spot behind the red vat. We made the rule on the first day. It's where my brother is buried."
 
-I looked at the floor. It was just floor. He had made a grave in the one spot nobody would cross, and twenty-two people walked around it every day, so he never had to say it out loud.
+I looked at the floor. It was just floor. He had made a grave in the one spot nobody would cross. Twenty-two people walked around it every day, so he never had to say it out loud.
 
-I didn't know what to do with that, so I did nothing. I let it be true.
+I didn't know what to do with that, so I did nothing.
 
 "Sit," I said.
 

@@ -2,7 +2,7 @@
 Prompt: ops/rewrite-prompt.md. One agent at a time, standard tier (Sonnet). Ranges of 5 chapters = one batch. At most two batches per chat session; then tell the owner to say "lanjutkan" in a fresh chat. "lanjutkan" runs the first range not marked DONE here BEFORE any new chapter is written. Nothing new is written (chapter 23+) until every range below is DONE.
 
 - 1-5: DONE (2026-11-25)
-- 6-10: PENDING
+- 6-10: DONE (2026-11-25)
 - 11-15: PENDING
 - 16-20: PENDING
 - 21-22: PENDING

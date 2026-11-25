@@ -6,7 +6,7 @@ By ten in the morning I had a pink paper pinned to my coat, a boy's arm around m
 
 It began on the roof, at dawn, with a pink paper.
 
-Lysette climbed the Observatory stairs at six with her black book under one arm, and she pushed the sticking door open with her shoulder as if she had done it all her life. I was lying under the apple tree with my coat over my face. Pretending to be asleep was the only defence I had.
+Lysette climbed the Observatory stairs at six with her black book under one arm. She pushed the sticking door open with her shoulder as if she had done it all her life, and the morning wind pulled at her white crown braid. Far below, the first tram of the day rang its bell. I was lying under the apple tree with my coat over my face. Pretending to be asleep was the only defence I had.
 
 "Wren," she said. "Get up."
 
@@ -16,7 +16,7 @@ Lysette climbed the Observatory stairs at six with her black book under one arm,
 
 "I'm talking in my sleep."
 
-"Then you are a very intelligent sleeper." She stood over me, and a shadow fell across my coat. "Sit up. I have something for you."
+"Then you are an intelligent sleeper." She stood over me, and a shadow fell across my coat. "Sit up. I have something for you."
 
 Up I sat. She held out a sheet of paper, thick and cream-coloured, with small neat writing. At the bottom was a round red stamp, the seal of the Discipline Committee, and the seal was pale pink.
 
@@ -28,7 +28,7 @@ We both looked at it, and for a second neither of us said anything.
 
 "It is a seal."
 
-"It's a very nice pink."
+"It's a nice pink."
 
 "It is an *official warrant*," she said, with great dignity, "for repeated absence. It is the first of its kind. I have waited two years to issue one." She pressed it into my hand. "You will carry it at all times. If you are late again, I will issue a second."
 
@@ -62,13 +62,13 @@ Not smiling took work, and I was bad at it.
 
 "She said it while eating toast." Lysette shut the book. "So your loophole is a roof, Wren. A single roof. If your feet touch anything else, you owe the Committee an explanation."
 
-"That's very exact."
+"That's exact."
 
-"I am a very exact person."
+"I am an exact person."
 
 "I'm starting to notice."
 
-She gave me a look that was almost, but not quite, a smile, and walked on. I followed her, and I realised, with a small shock, that for the first time in two years I had lost an argument and did not mind.
+She gave me a look that was almost, but not quite, a smile, and walked on. I followed her, and I realised that for the first time in two years I had lost an argument, and I checked myself for annoyance and found none.
 
 "One more thing," I said. "If I go to every morning class, may I use the roof at lunch?"
 
@@ -112,13 +112,13 @@ Rowan was coming at me from the far gate at a full run, with both arms in the ai
 
 "It's a *great* morning!" He turned to the courtyard and shouted, "THIS IS EDEN! HE'S MY FRIEND!" and forty heads turned again.
 
-A little way off, Lysette closed her eyes and breathed in slowly. When she opened them, she was looking at the sky, as if it might help.
+A little way off, Lysette closed her eyes and breathed in slowly. When she opened them, she was looking at the sky, hoping for help.
 
 Because I needed something to do with my face, I took the bread from his hand and broke off a piece.
 
 "This is good," I said.
 
-"I know! Clara's mum sends it from home!" Rowan watched me eat with pure happiness, as if I had done a clever thing. "Eat the whole loaf if you want. I've got another one."
+"I know! Clara's mum sends it from home!" Rowan watched me eat with open happiness, as if I had done something clever. "Eat the whole loaf if you want. I've got another one."
 
 "You have two loaves of bread?"
 
@@ -128,7 +128,7 @@ Because I needed something to do with my face, I took the bread from his hand an
 
 Spell Grammar was the first test of my new life. I sat at the back and propped my head on my hand behind an open book, which is the oldest trick in the world. For ten minutes it worked.
 
-Then my elbow slid. My forehead followed, and it hit the desk with a bang that rang around the cold room like a dropped pan.
+Then my elbow slid, and my forehead followed, and it hit the desk with a bang that rang around the cold room.
 
 Everyone turned. Brandmeier stopped in the middle of a sentence about verbs.
 
@@ -154,7 +154,7 @@ Everyone turned. Brandmeier stopped in the middle of a sentence about verbs.
 
 * * *
 
-At lunch, the dining hall was a crush. Sunlight came through the tall windows in dusty bars, the air smelled of onions and wet wool, and a hundred spoons clattered at once. Every table was full, every bench was packed, and a long, noisy line wound toward the soup pot. I stood in it with a tray and the pink warrant on my coat, and for once I did not mind, because a line is the only place where nobody expects you to talk.
+At lunch, the dining hall was a crush. Sunlight came through the tall windows in dusty bars, the air smelled of onions and wet wool, and a hundred spoons clattered at once. Every table was full, every bench was packed, and a long, noisy line wound toward the soup pot. I stood in it with a tray and the pink warrant on my coat, and for once I did not mind, because a line is the only place where no one expects you to talk.
 
 Felix stood in front of me. Behind him, a princess had taken his sleeve.
 
@@ -176,17 +176,17 @@ Felix did not turn his head. "No."
 
 "I know. That's why I want to carry it for you."
 
-Felix stood still. Slowly, his ears turned red, and he stared at the soup pot as if it had insulted him.
+Felix stood still. Slowly, his ears turned red, and he stared at the soup pot.
 
 Around them I stepped with my tray, because it was not my business, and I had learned long ago that the safest place in a room is directly behind someone else's problem.
 
 That was when someone bumped into me.
 
-It was a hard, quick bump, from the side, and a small hand brushed my coat. I turned. A boy of about fifteen, with a thin face and a grey scarf, stared at me for exactly one second, and then he was gone, pushed back by the crowd, and all I saw was his scarf as it vanished into the line. He did not look like a student. His shoes were too old, and his hands were too red.
+It was a hard, quick bump from the side, and a small hand brushed my coat. I turned. A boy of about fifteen, with a thin face and a grey scarf, stared at me for exactly one second, and then he was gone, pushed back by the crowd, and I saw only his scarf vanish into the line. He did not look like a student. His shoes were too old, and his hands were too red.
 
 Something stiff lay in my pocket.
 
-Not yet. I carried my tray to the table, sat next to Felix and ate three spoonfuls of soup. Only when everyone's attention was on Seraphine's story about a goat did I let my fingers go into the pocket.
+I carried my tray to the table, sat next to Felix and ate three spoonfuls of soup. Only when everyone's attention was on Seraphine's story about a goat did I let my fingers go into the pocket.
 
 It was a card, thick and black, about the size of my palm. In the middle, pressed flat and dry, was a single rose, the colour of ash. Under it, in small white letters, were three words.
 

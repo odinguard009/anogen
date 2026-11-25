@@ -24,7 +24,7 @@
 - PR 100-104: dreams: a locked door, a faceless man at a board game, endless war.
 - PR 104 (10), Liora's birthday: Eden secretly opens the Sepiroth Gate and draws out a silver hairpin, Ynde, as a gift. The flare of Heaven-light wrapped in Void is what the Tailor (wearing family physician Aubrec Wendell) had waited ten years to confirm. That night it comes to take the essence. Liora unseals her wings for the first time in 21 years and fights it in the glasshouse; with Keeping she locks Eden's Gate, Door and memory and pins the Tailor; the Refusal takes her as she finishes. She becomes light and feathers. The Tailor tears free hours later.
 - Official cause: sudden mana-wither. Eden remembers the glasshouse, her hand over his eyes, cold, and believes he froze while she died. His feelings go flat. The Duke keeps the truth because Liora asked him to.
-- PR 106 (12): Volkhovar's Frost Hand kidnaps Princess Seraphine at the Argentine hunting lodge. Eden goes alone, uses Door and Ea, and brings her back. The twins see everything.
+- PR 106 (12): Volkhovar's Frost Hand kidnaps Princess Seraphine at the Argentine hunting lodge. Eden goes alone, uses Door and Inead, and brings her back. The twins see everything.
 - PR 107 (13): Theodric and Aldous create the Black Order for him. Eden asks that his existence be hidden until he chooses. Public: the heir is raised by tutors in the north.
 - PR 108 (14): enters Hallowcrest as Eden Wren, scholarship ward. Headmistress Ostwald is told his name and power.
 - PR 110: the Black Order executes "traitor" Corentin Hollen (a Veil).

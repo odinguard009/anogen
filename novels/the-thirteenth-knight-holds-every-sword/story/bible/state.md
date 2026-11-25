@@ -3,7 +3,7 @@
 ## Eden (narrator)
 - 18, public Eden Wren, roof sleeper ("the roof is a medical matter"). 61 absences. Nightly war dream; Tutor's siege game; crooked door with silver hairpin ("Not yet").
 - Black Order for Ysolde (tall, thin, grey coat). Ch 3: ended Veil-clerk Alaric Aubin Dunmore; its book lists Year 5, Rowan circled. Thinks someone told the Veil where he stood.
-- Powers shown: Door (needs a shade edge), Umra, Gate + Ea, Ixa (folds to door-shield), Latch, Sile (Mirelle). Bell: 3 tones; only he hears a 4th.
+- Powers shown: Door (needs a shade edge), Umra, Gate + Inead, Exa (folds to door-shield), Latch, Sile (Mirelle). Bell: 3 tones; only he hears a 4th.
 - Looked away at Corentin's portrait; stomach turned; does not know why.
 - Ch 7: Lysette's pink warrant on his coat; deal: morning classes for 25 min roof at lunch. Black card "Remember Thornmere. Remember." (bookmark). Grey-coated man with tea-brown thumb watched, took notes.
 - Ch 8: Undercroft workshop. Vesk, Gorrath (9 ft, tower shield), Mirelle (tall, grey mask, long thin blade, strikes only through his door). A coated man packing a second grey-dust core fled up a ladder. Eden took Vane's stamp (ink damp). Strent, grading by moonlight ("lamps give me headaches"), hummed his mother's lullaby: "Wren. A Thornmere name. Your mother must have sung that to you, too."

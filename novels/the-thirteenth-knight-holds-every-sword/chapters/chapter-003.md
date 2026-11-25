@@ -134,9 +134,9 @@ That was the proof.
 
 I put out my left hand, and the Gate opened in my mind, a cold thin line like a thread pulled tight, and I said the name in my head, and the weapon came into my hand.
 
-Ea.
+Inead.
 
-It was a sword, long enough for two hands but light enough for one, with a plain grey grip and a pale blade, like ice at dawn. It did not shine. That was the strange thing. In a dark cellar, a bright sword would have been easy to see, and Ea was not bright. But it hummed, one low note, as if it had been waiting a long time to be asked. And around the blade, the dark grew thin. Light, even bad light, became honest.
+It was a sword, long enough for two hands but light enough for one, with a plain grey grip and a pale blade, like ice at dawn. It did not shine. That was the strange thing. In a dark cellar, a bright sword would have been easy to see, and Inead was not bright. But it hummed, one low note, as if it had been waiting a long time to be asked. And around the blade, the dark grew thin. Light, even bad light, became honest.
 
 It cost me a little each moment I held it, a small ache behind the eyes, but I did not mind.
 
@@ -146,13 +146,13 @@ The clerk's shadow lay on the cellar floor. In the honest light, it changed. The
 
 "I'm sorry," I said, and I meant it.
 
-I stepped in. I pushed my aura through the blade, a deep breath, a straight line, a hand-deep field of pressure going down my arm. Ea went through the middle of his chest. There was no sound. His mouth opened, and the grey came up in his eyes like fog in a window.
+I stepped in. I pushed my aura through the blade, a deep breath, a straight line, a hand-deep field of pressure going down my arm. Inead went through the middle of his chest. There was no sound. His mouth opened, and the grey came up in his eyes like fog in a window.
 
 "You smell like..." His voice slid. It was not the clerk's voice now. It was thin and old and very far away. "You smell like the bottom of the world."
 
 Then he fell apart. His coat dropped, and his boots dropped, and all that was left of him was a small pile of grey dust, drifting slowly on the cellar floor.
 
-For a moment I did not move, and Ea hummed once, softly, in the dark, and went quiet.
+For a moment I did not move, and Inead hummed once, softly, in the dark, and went quiet.
 
 I let the sword go, and it slid back into the Gate, and the line in my mind went slack, though the ache behind my eyes stayed a while.
 

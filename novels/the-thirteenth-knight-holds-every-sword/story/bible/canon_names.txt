@@ -149,7 +149,7 @@ Duke Aldous Argentine
 Dunmore
 Durn
 Duskwater Dyeworks
-Ea
+Inead
 Eden
 Eden Aster Argentine
 Eden Wren
@@ -287,7 +287,7 @@ Isthmus Company
 Isthmus Line
 Ithe
 Ivory Order
-Ixa
+Exa
 Jade General
 Jade Throne
 Jarldom of Skarnheim
@@ -675,5 +675,3 @@ veinspear
 veinspears
 Ulrike
 Mistress Ulrike
-Theodric
-Wick Street

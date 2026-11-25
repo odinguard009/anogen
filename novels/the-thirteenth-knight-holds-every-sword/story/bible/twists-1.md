@@ -1,6 +1,6 @@
 # Twist ladder, part 1 (ch 1-300 reveals). Extra feeds and dangle checks: threads.md. Format: twist | plants | misdirection | revealed
 
-1. Corentin Hollen was a Veil, and Eden killed it | plants: 4 (locket, Eden looks away), 13, 21 (he forgot the dance), 27, 37 (file) | reader assumes the Black Order kills innocents | Black Order link 36; reader 45; Lysette 140
+1. Corentin Hollen was a Veil, and Eden killed it | plants: 10 (letter), 13 (empty frame), 21 (locket first worn; dance), 27 (locket opened; Eden looks away), 37 (file) | reader assumes the Black Order kills innocents | Black Order link 36; reader 45; Lysette 140
 2. The Tailor knows Eden is "Liora's boy" | plants: 3 ("bottom of the world"), 8 (lullaby), 30 | Ashen Crowns seem purely political | ch 50
 3. Grey Grafts are Hush flesh supplied by the Tailor | plants: 22 (grey veins), 61, 80 (graft scar on a Lanternhouse guard) | grafts look like Norhaven arms tech | ch 95
 4. Volkhovar finances the Lanternhouse Compact | plants: 55 (Kell's frost-blue ink), 70, 88 | Norhaven greed | ch 98
@@ -20,7 +20,7 @@
 18. The front stalls before Verandel on purpose: Kaurveth wants the essence intact | plants: 20 (map), 215, 240 | the Wall is just that strong | ch 285
 19. The Void Host the world fears sleeps inside Eden | plants: 20, 145 (Second legion's breath), 260 | Verandel hides a secret army somewhere | ch 290
 20. Eden's black armor is not the Door's Umra but Aster, his mother's sealed masterwork | plants: 23 (feather inside the left gauntlet), 47 (Felix sees the same feather in Thessa), 120 (the armor is warm when Lysette touches it) | misdirection: all Black Order armor is Door-made | ch 175
-21. Ea chose him because Liora re-forged it and asked it to | plants: 3, 66 (Ea hums the lullaby's first note), 150 | it chose him for his honesty alone | ch 176
+21. Inead chose him because Liora re-forged it and asked it to | plants: 3, 66 (Inead hums the lullaby's first note), 150 | it chose him for his honesty alone | ch 176
 22. Liora was the greatest smith alive; her arms let Theodric and Aldous match the Emperor | plants: 86 (Duke's armor never scratched), 130, 162 | they were simply great knights | ch 170
 23. The comic Duke is overwhelming | plants: 28, 85 (in disguise he catches a thrown knife without looking), 133 | a loving buffoon | ch 193
 24. The Duke weeps inside Sevar after every battle | plants: 30, 164 (damp padding), 200 | he is simply cheerful | ch 251

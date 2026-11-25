@@ -23,7 +23,7 @@ Battles: first Husk tide 203 flex; Choir silence 218 puzzle; Mawgate mines 231 p
 Aura: 222 a quiet "Hold." stops a routing company (reaction: veterans obey a nineteen-year-old and only ask why later). 248 ten thousand black knights rise under the storm (reaction: both armies go silent; Valerius laughs once, disbelieving).
 
 ## Arc 6 (251-300)
-Battles: desert lancers vs Husks 255 flex; convoy 260 costly (broken rule, Ea lost); grey city siege 274 puzzle; Armory 280 flex (an army armed at once); Crown Well of the Ashen Highlands 295-300 strained.
+Battles: desert lancers vs Husks 255 flex; convoy 260 costly (broken rule, Inead lost); grey city siege 274 puzzle; Armory 280 flex (an army armed at once); Crown Well of the Ashen Highlands 295-300 strained.
 Aura: 280 a thousand relics leave the air and choose hands (reaction: Mansakar's old soldiers sing). 290 three legions wake; the Shah's envoy goes pale and, very carefully, asks for a revised treaty.
 
 ## Arc 7 (301-350)

@@ -72,7 +72,7 @@ Rowan was the one the whole academy liked, and it was not hard to see why. He ha
 
 I looked away from them and opened the long leather case on my back.
 
-Inside lay the one weapon I used in public. Its name was Ixa, a short lance a little longer than my arm, matte black and plain, with no gold and no mark. It was cold to hold, even in the sun, and it was only as strong as my arms and my breath. The school thought it was a cheap family lance, old and dull. Only I knew that every morning I drew it out of my own shadow and put it in the case, so that people would see me carry it.
+Inside lay the one weapon I used in public. Its name was Exa, a short lance a little longer than my arm, matte black and plain, with no gold and no mark. It was cold to hold, even in the sun, and it was only as strong as my arms and my breath. The school thought it was a cheap family lance, old and dull. Only I knew that every morning I drew it out of my own shadow and put it in the case, so that people would see me carry it.
 
 "Ready?" said Rowan, with a wooden spear. His eyes were bright. "Don't go easy on me!"
 
@@ -80,7 +80,7 @@ Inside lay the one weapon I used in public. Its name was Ixa, a short lance a li
 
 He came at me.
 
-Rowan fought like a storm, all weight and no plan. His spear came down in a wide arc. Half a step to the side, a tilt of Ixa, and the blow slid off the black shaft with a hard crack and went past my shoulder. He turned and came again. I blocked it. Again, and again.
+Rowan fought like a storm, all weight and no plan. His spear came down in a wide arc. Half a step to the side, a tilt of Exa, and the blow slid off the black shaft with a hard crack and went past my shoulder. He turned and came again. I blocked it. Again, and again.
 
 My body knew every movement, so I did not have to think. Step and tilt, step and tilt, over and over, with my face as bored as I could make it. A good block does not look like anything. It looks like a boy who cannot be bothered to do anything else.
 

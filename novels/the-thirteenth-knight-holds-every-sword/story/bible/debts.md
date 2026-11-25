@@ -2,10 +2,10 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [open] War dream quiets when Lysette cries | planted: ch 1, 26 | due: ch 200-205
 - [open] Handkerchief "to wash" | planted: ch 1 | due: ch 140, 175, 600
 - [open] Hairpin in locked door (Ynde) | planted: ch 2 | due: ch 172-176, 197
-- [open] Veil: "bottom of the world"; Ea hums | planted: ch 3 | due: ch 48-50, 176
+- [open] Veil: "bottom of the world"; Inead hums | planted: ch 3 | due: ch 48-50, 176
 - [open] Who told the Veil where Eden would stand? | planted: ch 3 | due: ch 18
 - [open] Ledger = Ball guest list (Rowan no.1); Embers want Rowan alive | planted: ch 3, 18 | due: ch 24-26
-- [open] Locket (Corentin) | planted: ch 4, 21 | due: ch 36, 45
+- [open] Locket (Corentin); empty frame ch 13 | planted: ch 13, 21, 27 | due: ch 36, 45
 - [open] Forged signatures (Vane ch 6, stamp 8); grey dust | planted: ch 5-8 | due: ch 95
 - [open] Okoru saw the shield-hold before; "not by feel" | planted: ch 6, 11 | due: ch 60-66
 - [open] Rowan's light = Lirenne fresco | planted: ch 6 | due: ch 105-110

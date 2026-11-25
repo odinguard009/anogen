@@ -117,3 +117,16 @@ HUMAN FEEL (at simple level; reinforces "Human feel" below):
 - Characters, most of them, control their emotions and talk and act like normal people: calm reactions, ordinary reasons, no melodrama, no random outbursts, no speeches. Anger, fear and grief show in small, believable ways.
 - Only a small minority are eccentric, and each eccentric is eccentric on purpose, consistently (the reason is in the bible). Do not make a whole cast quirky or hot-headed.
 - Avoid what readers hate: characters acting stupid to keep the plot going, sudden power-ups without cost, info dumps, contrived coincidences, repeated misunderstandings, a reveal everyone saw coming but the hero.
+
+
+## STYLE MERGE (owner order 2026-11-25; permanent; keeps every rule above, adds to them)
+The owner prefers the first drafts' openings, humor, voice and endings, and the second drafts' clear fights. Write BOTH:
+- OPENINGS: start on one odd, specific, concrete detail that only this story has (a cat that leaves the room, a teacher who counts names twice), never on weather or a tour of the setting. The setting arrives by action.
+- VOICE: Eden is flat and dry (see EDEN FLAT below). Humor comes from character and from his literal reading of the world, not from stock lines. One fresh comparison per page at most, taken from this world (lamps, ink, locks, bells, motor-cars), never a stock simile ("like a hen", "like a barn door").
+- ENDINGS: stop on an action, an object or a line of dialogue. No tidy summary sentence, no explained feeling, no aphorism.
+- FIGHTS (keep the clarity): setup (where, who, the plan in one line), then 3-5 clear beats in order, each with who moves, what the move does and what it costs, then the result. Silent, secret, precise (see BLACK ORDER MANNER). Geography must be easy to draw.
+- EDEN FLAT: he feels little and late. He states facts, counts things, reads other people's feelings like readings on a dial, and misreads his own body ("my stomach was cold; I assumed lunch"). Other characters feel more than he does; he is never the most emotional person in the scene. Cracks are rare and physical (the lullaby in ch 8).
+- BLACK ORDER MANNER: Eden works silent, secret, precise. No chases through crowds, no shouting, no witnesses. The Black Order is a half-believed legend; ordinary people have never seen the black armor. A mission is one quiet room, one kill, a trace wiped.
+- ARMOR-UP (Garo manner, see armor.md "Armor-up scene"): every time Eden wears Umra, show the full sequence: trigger, each plate with look, sound and temperature, the helm last, the first breath inside, the first step. 150-300 words, slower than the fight around it.
+- SETTING: late 1890s (see tech.md): motor-cars, telephones, trams, mana-lamps, steam presses, mana engineering in daily life, with knights, swords and bells still in use.
+- LYSETTE'S LOOK is fixed in bible/characters.md; show it once with specifics early, then by small details.

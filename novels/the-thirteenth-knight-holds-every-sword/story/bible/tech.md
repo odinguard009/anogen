@@ -1,5 +1,5 @@
 # Tech layer: the Meridian Age (owner order 2026-11-25)
-The world is not pure medieval. Technology is like the 1800s, with a touch of mana engineering. Add, never erase: horses, lanterns, bells and swords stay. Power rules: power-system.md.
+The world is not pure medieval. Technology is the late 1890s (owner order 2026-11-25): motor-cars, telephones, trams and veinline trains, steam presses, mana-lamps in every town street, mana engineering in daily life. Knights, swords and bells still matter. Add, never erase: horses, lanterns, bells and swords stay. Power rules: power-system.md.
 
 ## Ringkasan untuk Odin
 Dunia setara tahun 1800-an: rel kereta, telegraf, lampu, mesin cetak, senapan, meriam, kapal besi. Tetapi senjata api tidak menghapus ksatria: medan mana merusak mesiu dan pemicu, aura menepis peluru, ward menahan meriam, dan Hush hanya bisa dilawan dengan aura, mantra, dan cahaya. Mesin mana besar menarik Hush, jadi kemajuan teknologi adalah dilema moral.
@@ -15,8 +15,13 @@ Dunia setara tahun 1800-an: rel kereta, telegraf, lampu, mesin cetak, senapan, m
 - Ironclads: iron-hulled ships with vein-keels (keels of vein-stone) that draw mana for wards and engines.
 - Clocks, pocket watches, cameras that take a minute to make one grey picture.
 
+- Motor-cars ("cars"): steam-and-mana engines with a small mana-stone core; they rattle and honk, top speed about a galloping horse, rich towns have them, the poor still walk. Mana fields stall them near a raised aura (a knight can stop a car by standing in the road).
+- Telephones: copper lines tuned to ring like bells; exchanges with operators and switchboards in every city, a line in rich houses and offices. Calls can be tapped by anyone at an exchange.
+- Trams: mana-driven carriages on city rails.
+- Mana-lamps: now common in all city streets and the academy; oil lanterns remain in villages and for the Lantern festivals.
+
 ## What does not exist
-No electric light, no motor cars, no flying machines (griffons fly), no repeating rifles, no radio. Machines cannot copy a Tenet, a relic or a Raiment.
+No radio, no flying machines (griffons fly), no repeating rifles, no electric power grid (mana does that work). Machines cannot copy a Tenet, a relic or a Raiment.
 
 ## Why guns and cannon do not end knights (MUST USE)
 1. Mana fields foul powder: within about ten steps of a raised aura, black powder burns slow and weak, and a mana-lock's stone fires early or dies. Near a strong ward or a well, guns misfire often.

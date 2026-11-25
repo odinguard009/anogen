@@ -1,7 +1,7 @@
 # Hushborn by size, and the titan wars (reference)
 
 ## Size classes (Concord field terms)
-1. **Veil class** (human size): Veils, Stalkers. Fought by: detection (Ea, middle-name oaths), Black Order, Golden Seal.
+1. **Veil class** (human size): Veils, Stalkers. Fought by: detection (Inead, middle-name oaths), Black Order, Golden Seal.
 2. **Husk class** (dog to horse): Husks, small Choirs. Fought by: shield lines, crossbows, Ward-plate squads of five (Lances), fire.
 3. **Ravager class** (elephant to house): armoured brutes that smash walls; large Choirs. Fought by: Crimson Rampart force walls, Umber Anvil ballistae ("veinspears"), Grey Gale lance charges at the joints.
 4. **Wallbreaker class** (castle size, 30-60 m): siege beasts and living Mawgates. Fought by: mines and counter-tunnels (Umber Anvil), Violet Lantern siege spells, concentrated veinspear batteries, orders working together.

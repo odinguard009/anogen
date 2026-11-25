@@ -88,7 +88,7 @@ STATUS: DISETUJUI SEMUA oleh Odin (2026-11-24). Jangan dibuka lagi tanpa perinta
     - Sevar: armor sang Duke
     - Tamu dan Oru: pedang dan zirah raja
     - Eyra: armor Valkyrie miliknya sendiri
-    - Ea: ditempa ulang olehnya
+    - Inead: ditempa ulang olehnya
     - Glasshouse Forge: tempa rahasia, berisi pedang "Last Light" yang belum selesai dan dua cincin berlabel "Not yet"
 17. **Armor Eden, "Aster":** armor hitam Black Order ternyata karya ibunya yang tersegel (terungkap ch 175).
     - 5 tahap evolusi: ch 175, 199, 400, 446, dan 590. Tiap tahap terkait pemulihan emosi Eden serta terbukanya Emperor dan Naga.
@@ -113,11 +113,11 @@ STATUS: DISETUJUI SEMUA oleh Odin (2026-11-24). Jangan dibuka lagi tanpa perinta
     - Hubungan Melsche dan Melchsee: "Melsche" adalah ejaan manusia yang keliru atas "Melchsee" (tercatat saat ritual Iron King), jadi Melsche Door = Pintu Melchsee. Tutor kesal setiap mendengar ejaan itu (beat komedi). Nama asli terungkap di ch 340.
     - Rekomendasi: setuju.
 23. **Gaya bertarung "Lintel and Lamp"** (bible/combat-style.md):
-    - Tenang, minimalis, tanpa terburu-buru. Tombak-perisai di kiri, Ea di kanan dengan ujung mengarah ke bawah.
+    - Tenang, minimalis, tanpa terburu-buru. Tombak-perisai di kiri, Inead di kanan dengan ujung mengarah ke bawah.
     - Ritmenya "Close, Open, Light": perisai untuk membaca lawan, tombak untuk membuka pertahanan, pedang untuk mengakhiri.
     - Pembuka khasnya: menurunkan kedua senjata dan menunggu.
     - 9 jurus bernama (Latch sampai Last Light). Tanda khas sebelum serius: kedipan pelan dan satu ketukan pada cincin.
-    - 6 tahap perkembangan, dari solo (arc 1-2) sampai komandan legion yang tetap bertarung di garis depan (arc 8-9). Bertarung tanpa Ea di arc 6-7. Pertarungan terakhir kembali minimalis.
+    - 6 tahap perkembangan, dari solo (arc 1-2) sampai komandan legion yang tetap bertarung di garis depan (arc 8-9). Bertarung tanpa Inead di arc 6-7. Pertarungan terakhir kembali minimalis.
     - Sepuluh retainer, masing-masing dengan gaya bertarung, kepribadian, dan bab terbukanya. Ada 10 kombo tim, misalnya "Long Door": panah Hald masuk lewat bayangan di samping Eden dan keluar di belakang musuh.
     - Set piece saat Eden memimpin sambil bertarung: ch 290, 398, 560, dan 596.
 

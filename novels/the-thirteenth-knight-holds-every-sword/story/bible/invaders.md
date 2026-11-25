@@ -27,7 +27,11 @@ Through mana veins in rock, like frost through cracks. Fast on land, very slow o
 ## Veils
 - Drink a person's shadow (mana silhouette) over one night. The victim falls into the Hush, conscious; the body turns to grey dust by dawn.
 - The Veil gains face, voice, recent memories, skills, mana signature. Old feelings come through flat (facts of love, not the feeling).
-- Tells: shadow does not move with breath (Melsche Door senses it at a glance); true grey form in Ea's light; cannot speak the victim's middle name; animals that loved the victim avoid it.
+- Tells: shadow does not move with breath (Melsche Door senses it at a glance); true grey form in Inead's light; cannot speak the victim's middle name; animals that loved the victim avoid it.
 - Victims stay tethered while their Veil lives. Killing the Veil with an ordinary blade severs them forever. Killing it with a relic while speaking the victim's middle name, from inside the Hush, could pull them back. Eden learns this at ch 105 and realizes he severed Corentin Hollen in PR 110 because he never knew his middle name. Clara Belmont, replaced ch 228 (revealed 262), is kept tethered by imprisoning her Veil alive and pulled back at ch 480. Corentin cannot be saved.
 - Grey Grafts (ashen-crowns.md) are slivers of Veil flesh; grafted humans slowly become Hushborn.
 - The Tailor: Kaurveth's spymaster, oldest Veil in Halveren, recorded since PR 40. Wore the Argentine physician Aubrec Wendell to kill Liora (PR 104); now wears vice-headmaster Halvard Strent. Sponsors the Ashen Crowns.
+
+
+## Veil look and manner (owner order 2026-11-25; use from ch 3)
+A Veil looks right at first and wrong the longer you watch. Skin like paper; one fixed smile; the mouth and voice slip out of step by a beat, like a bad telephone line. Its shadow is its true body: flat on the floor when the Veil is calm, but it lags behind the person's movements, and when the Veil feeds or is angry the shadow lifts off the ground in ribbons. Veils take voices as well as shadows: a feeding Veil can speak in a layered chord of the voices it has drunk (the dead say its sentences). Telephone exchanges and lines are its hunting ground: it copies voices from calls and lures the next victim ("Your mother rang. Come to the exchange"). In Inead's gold light the person's skin turns to glass and the true body shows, grey, many-jointed, eyeless. Its death: the voices stop one by one, then grey dust.

@@ -33,7 +33,7 @@ Tiers: Ward-plate < Pale Raiment < Named Raiment < Sovereign Raiment; Throne-for
 ## Catalog (look | source | abilities | cost | wearer | debut)
 1. **Umra** | matte black plate, smooth helm with a white thread slit | Door | silent, shadow-blended; Pillars wear it as "agents" | Frost | Gorrath, Vesk (Black Order) | 23
 1b. **Aster** | sealed: identical black, with a feather stamped inside the left gauntlet (plant 23) | Liora's masterwork | grows with Eden; see stages below | spends her Keeps | Eden | 23 (sealed), 175 (revealed)
-2. **Ilune** | plate like pale ice at dawn | Vault, Ea's sister | light around the wearer turns honest within ten paces | Seven Tolls; Vow "never lie in it" | Lysette (loan, dream war) | 507
+2. **Ilune** | plate like pale ice at dawn | Vault, Inead's sister | light around the wearer turns honest within ten paces | Seven Tolls; Vow "never lie in it" | Lysette (loan, dream war) | 507
 3. **Sevar** | silver plate, lake-blue enamel, feather veins | Liora's work | amplifies Sentence; named targets cannot flee | stored light, her Keeps | Duke Aldous | 193
 3b. **Tamu and Oru** | plain grey sword, mail that never rusts | Liora's work | the sword grows heavier for anyone attacking its bearer | stored light | King Theodric | 345
 4. **Rhael** | grey-green scale, root-like greaves | Vault | roots anchor the wearer; cannot be knocked down | Tolls | Felix (loan) | 98
@@ -73,3 +73,7 @@ At least one notable armor scene about every 10 chapters in action arcs; showpie
 - Weight and texture: plates on stone, the helm's smell, the changed stride.
 - Count Tolls in the prose sparingly (a bell, a stiffening knee). The reader should feel the clock without a number.
 - Aftermath: the cost lands (stiff joints, the Frost, a spent Keep, the fallout of being seen).
+
+
+## Armor-up scene (owner order 2026-11-25; Garo manner; mandatory each time Eden wears Umra)
+Trigger: he stands where his shadow is long and says nothing. Beat 1, the lights: nearby lamps dim as if holding their breath. Beat 2, the circle: his shadow spreads under him in a clean round pool, edge sharp as drawn. Beat 3, the fall: he steps backward into it and the pool takes him to the chest, cold climbing. Beat 4, the plates, from the feet up, each with sound and temperature: sabatons (a soft click), greaves, knee wings, thigh plates, the faulds, then the breastplate, closing with a deep seal like a vault door; pauldrons one after the other, plain and rounded; vambraces; gauntlets last on the hands, the fingers closing one by one. Beat 5, the helm: smooth, no face, a single narrow slit with a white thread of light; it closes over his head and every sound drops away except his own breath. Beat 6, the coat: a plain long black coat unrolls from the shoulders and settles without a sound. Beat 7, first breath and first step: the armor has no weight, makes no noise; the world turns grey-blue and edges grow sharp. Look: matte black plate, no insignia, no shine; only the white thread slit. Inead is NOT part of this: it is drawn later, gold, for the last stroke only.

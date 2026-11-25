@@ -56,7 +56,7 @@ The construct raised its arm again.
 
 I did not decide. My body did, and my hands were already going to the case on my back.
 
-Ixa came out into my hand, cold and black. I had no time to plan, so I did the only thing that I was sure could not look strange. I ran straight at the construct, and I thrust the lance at its chest, short and ugly, the thrust of a boy who has panicked.
+Exa came out into my hand, cold and black. I had no time to plan, so I did the only thing that I was sure could not look strange. I ran straight at the construct, and I thrust the lance at its chest, short and ugly, the thrust of a boy who has panicked.
 
 The point hit the stone and did nothing. The construct turned its head. Red eyes found me.
 
@@ -66,7 +66,7 @@ I stopped thinking and knocked.
 
 * * *
 
-*One knock turns the lance into a door.* I knew it the way I knew my own name. It was the first thing I had learned about Ixa, and the first rule I had broken, and I had not used it in front of other people in two years.
+*One knock turns the lance into a door.* I knew it the way I knew my own name. It was the first thing I had learned about Exa, and the first rule I had broken, and I had not used it in front of other people in two years.
 
 The shaft folded in my hands. Black metal went flat and wide with a small ringing sound, like a gate swinging, and a door-shield opened around my left arm. It was the size of a tray, matte black, with an iron ring set in the middle of it, the knocker. It was cold, and it was only as strong as my arm and my aura, but it was the one door I owned that could do what I needed.
 

@@ -2,23 +2,23 @@
 
 > "A prince learns to win. A king learns what winning costs." - Aurenmark nursery maxim
 
-The worst part of the wrist wasn't the pain. It was that Valerius could still feel exactly where the lance had touched, a spot the size of a coin on the inside of his arm, humming faintly, like a bell someone had struck and then held still.
+The worst part of the wrist was not the pain. Valerius could still feel the exact place where the lance had touched him. It was a spot the size of a coin on the inside of his arm. It hummed faintly, like a bell that someone had struck and then held still.
 
-Wren had hit him there on purpose. Valerius had gone over it forty times. The angle, the step, the pivot. No one learns that on a school yard. And then the idiot had let himself lose by a finger's width and gone home to bleed in private, as if nothing had happened.
+Wren had hit him there on purpose. Valerius had thought about it forty times. The angle, the step, the turn. No one learns that in a school yard. And then the fool had let himself lose by a finger's width. He had gone home to bleed in private, as if nothing had happened.
 
-*My father knows who you are.* He'd said that to Wren in the corridor, and it wasn't entirely true. His father knew *something.* Valerius had watched him go very still at the name, once, at dinner, and say, "Eat your soup, Val."
+*My father knows who you are.* He had said that to Wren in the corridor. It was not completely true. His father knew something. Once, at dinner, Valerius had said Wren's name. His father had gone very still. Then he said, "Eat your soup, Val."
 
-He had decided to ask today. Then he saw the war room, and his father's face, and he didn't.
+Valerius had planned to ask his father today. Then he saw the war room and his father's face. He did not ask.
 
 * * *
 
-Seraphine caught him on the tower stairs. She'd come straight from somewhere, because she smelled faintly of burnt sugar.
+Seraphine caught him on the tower stairs. She had come from somewhere in a hurry. She smelled of burnt sugar.
 
 "You're doing the thing," she said.
 
 "What thing?"
 
-"The one where you rub your wrist and glare at a wall. You did it all through the duel. Does it hurt?"
+"The thing where you rub your wrist and glare at a wall. You did it through the whole duel. Does it hurt?"
 
 "No."
 
@@ -26,87 +26,87 @@ Seraphine caught him on the tower stairs. She'd come straight from somewhere, be
 
 "He did something." Valerius looked at his hand. "I don't know what. That's the problem."
 
-"So you keep saying. Every time you come home from fighting Wren you're upset that you didn't win, and then you're upset that you're upset." She pulled a face. "I told you. He's just a sleepy boy with a lance."
+"You always say that. Every time you fight Wren, you're upset that you didn't win. Then you're upset that you're upset." She made a face. "I told you. He's just a sleepy boy with a lance."
 
-"Nobody who's that sleepy is that precise."
+"No one who's that sleepy is that exact."
 
-"Then he's a very precise sleepy boy." She patted his sleeve, flaking a little flour onto it. "Go and be a prince at your father. I'm going to find out who Lysette is taking to the Ball. She says she hasn't decided. *Nobody* hasn't decided."
+"Then he's an exact, sleepy boy." She patted his sleeve. A little flour fell off her hand onto it. "Go and be a prince at your father. I'm going to find out who Lysette is taking to the Ball. She says she hasn't decided. Nobody hasn't decided."
 
-"Why?"
+"Why do you care?"
 
-"Because it's *interesting.*"
+"Because it's interesting!"
 
-She went off down the stairs, humming, and Valerius brushed the flour from his sleeve and went up.
+She went off down the stairs, humming. Valerius brushed the flour from his sleeve and went up.
 
 * * *
 
-The war room was in the palace's oldest tower, a round stone chamber with no windows. In the middle stood a table the size of a wagon, and across the table lay the Concord map. It showed Halveren and the grey lands across the Middle Sea, painted by hand, with red pins along the Hush front and blue pins along the coasts and a small gold pin in Solmarch, where they stood.
+The war room was in the oldest tower of the palace. It was a round stone room with no windows. A table as big as a wagon stood in the middle. The Concord map lay across it. It showed Halveren and the gray lands across the Middle Sea, painted by hand. Red pins marked the Hush front. Blue pins marked the coasts. One small gold pin stood in Solmarch. That was where they were.
 
-The ministers had gathered like crows round a field. There were nine of them. Valerius was the tenth, the youngest, and the only one who'd had to be told where to stand.
+The ministers had gathered like crows in a field. There were nine of them. Valerius was the tenth. He was the youngest. He was also the only one who had needed to be told where to stand.
 
-King Theodric sat at the table's head. He looked tired. Not in the way kings are supposed to look tired, with grand gestures. He looked like a man who'd stayed up with a sick animal. His eyes had gone a little pink at the edges, and his hand lay on the map like it was holding down a page in the wind.
+King Theodric sat at the head of the table. He looked tired. It was not the way kings are supposed to look tired, with big gestures. He looked like a man who had stayed up all night with a sick animal. His eyes were a little pink at the edges. His hand lay on the map as if it held down a page in the wind.
 
 "Sit, Val," he said.
 
-Valerius sat. A servant put a cup of something warm in front of him and went away before he could say he didn't want it.
+Valerius sat. A servant put a warm cup in front of him. He left before Valerius could say he did not want it.
 
-"Minister Castelreigh. The southern report."
+"Minister Castelreigh. The report from the south."
 
-A thin man with a gray moustache cleared his throat. "The Wall holds, Majesty. Three nights ago a Choir tried the east gate at the Teeth and was driven off. We lost eleven. The Hush lost, we think, around forty."
+A thin man with a gray mustache cleared his throat. "The Wall holds, Majesty. Three nights ago a Choir tried the east gate at the Teeth. We drove it off. We lost eleven. The Hush lost, we think, about forty."
 
-"Think?"
+"You think?"
 
 "They leave very little to count."
 
 "And the front?" said the king.
 
-"Unchanged."
+"It has not changed."
 
-It was a perfectly ordinary answer. Valerius watched it settle over the room like dust. Pens scratched. Somebody coughed. Somebody else turned a page that didn't need turning. And then, because he hadn't slept, and because the gold pin was right in front of him, he looked at the map properly for the first time.
+It was a perfectly ordinary answer. Valerius watched it settle over the room like dust. Pens scratched. Someone coughed. Someone turned a page that did not need turning. Then, because he had not slept, and because the gold pin was right in front of him, he looked at the map properly for the first time.
 
-It took him a long moment to understand what he was seeing.
+It took him a long moment to understand what he saw.
 
-The front is a line. It runs along the edge of the dead lands, from the Wall at the Teeth, along the far shore of the Middle Sea, and out around the shoulder of the next continent. Red pin after red pin. It should be a ragged, wobbling thing, like a coastline. It was.
+The front is a line. It runs along the edge of the dead lands. It starts at the Wall at the Teeth. It runs along the far shore of the Middle Sea. Then it goes around the shoulder of the next continent. There is a red pin, then another red pin, then another. The line should be rough and uneven, like a coast. It was.
 
 Except here.
 
-Round the southern coast of Verandel, over a stretch about as wide as his hand, the red pins curved. They bent inward, away from the coast, and then out again on the far side, as if the front had been walking along and met something in the road and gone round it.
+Around the southern coast of Verandel, the red pins curved. The curve was about as wide as his hand. The pins bent inward, away from the coast. Then they bent out again on the far side. It looked as if the front had been walking along, met something in the road and gone around it.
 
 "Why does it bend?" said Valerius.
 
-Nobody answered. It was the kind of quiet that happens when nine men all decide, at once, that they'd rather be reading something.
+No one answered. It was the kind of quiet that happens when nine men decide at the same time that they would rather read something.
 
-"The line," said Valerius. "Round Verandel. It goes in."
+"The line," said Valerius. "Around Verandel. It goes in."
 
-"It's a drafting error, Highness," said Minister Hartenfels, a round, cheerful man with ink on his cuffs. "The mapmakers sometimes smooth the pins."
+"That is a drawing mistake, Highness," said Minister Hartenfels. He was a round, cheerful man with ink on his cuffs. "The mapmakers sometimes smooth the pins."
 
 "Is that true?"
 
-"As true as the reports, Highness."
+"It is as true as the reports, Highness."
 
-"That's not what I asked."
+"That is not what I asked."
 
-"It's what I can answer."
+"It is what I can answer."
 
-Valerius looked at him. Hartenfels beamed. It's hard to be angry at a man who is both honest and useless. He turned instead to the cartographer, a small woman in the corner holding a rolled chart like a shield.
+Valerius looked at him. Hartenfels smiled. It is hard to be angry at a man who is both honest and useless. Valerius turned to the mapmaker instead. She was a small woman in the corner. She held a rolled chart like a shield.
 
 "Is the bend a mistake?"
 
-"No, Highness," she said, and then looked as if she wished she hadn't.
+"No, Highness," she said. Then she looked as if she wished she had not.
 
-The room moved. Not much. A shoulder here, a boot there. Valerius knew the sound of a room deciding not to say something, because he'd grown up inside one.
+The room moved. It was only a little. A shoulder here, a boot there. Valerius knew the sound of a room that decides not to speak. He had grown up inside one.
 
-"It's in the field reports," said the cartographer. Her voice was very small. "From fourteen different watch-posts. We checked them twice. The Hush throws itself at the Wall. Everywhere else it creeps forward a little every year. But it has never crossed the sea to our southern coast. Not once in nineteen years. Nobody's been able to say why."
+"It's in the field reports," said the mapmaker. Her voice was very small. "It comes from fourteen watch posts. We checked twice. The Hush throws itself at the Wall. Everywhere else it creeps forward a little each year. But it has never crossed the sea to our southern coast. Not once in nineteen years. No one can say why."
 
-Valerius put his finger on the first red pin where the line began to curve, and followed it slowly to the last. He had come in thinking the bend was a mistake. He had spent every morning of his life expecting mistakes to be small and stupid, and for the first time he saw that this one was neither. It was the neatest part of the whole map.
+Valerius put his finger on the first red pin where the line began to curve. He followed it slowly to the last. He had come in thinking the bend was a mistake. All his life he had expected mistakes to be small and stupid. Now he saw that this one was neither. It was the neatest part of the whole map.
 
-"Whatever pushes them off," he said, "it's been doing it longer than I've been alive."
+"Whatever pushes them away," he said, "it has done it longer than I have been alive."
 
-"By a year, Highness," said Hartenfels helpfully. "You're eighteen."
+"By one year, Highness," said Hartenfels helpfully. "You are eighteen."
 
 "Thank you, Minister."
 
-"Some of us," said Minister Ostermark, quietly, to his hands, "remember what marched nineteen years ago."
+"Some of us," said Minister Ostermark quietly, to his hands, "remember what marched nineteen years ago."
 
 "Lord Ostermark," said the king, in a very pleasant voice.
 
@@ -114,62 +114,62 @@ Valerius put his finger on the first red pin where the line began to curve, and 
 
 "I know what you meant."
 
-And there it was, finally, the thing the room had been holding. Valerius heard it come up from the ministers' chairs, one syllable at a time, in the half-whispered way a rumor travels.
+And there it was. It was the thing the room had been holding back. Valerius heard it rise from the ministers' chairs, one word at a time, in the half whisper of a rumor.
 
 *The Void Host.*
 
-Everyone knows the story. Nine legions of one million knights, black armor, white thread for a face. They marched once, nineteen years ago, and then were gone, and the world has never stopped asking where. Half the Concord believes Verandel hides them. The other half believes Verandel has lost them. A third group, which is smaller and much more frightening, believes Verandel doesn't know what they are.
+Everyone knows the story. Nine legions. One million knights in black armor, with white thread for faces. They marched once, nineteen years ago. Then they were gone. The world has never stopped asking where. Half the Concord believes Verandel hides them. The other half believes Verandel lost them. A third group is smaller and much more frightening. They believe Verandel does not know what they are.
 
-Valerius felt the whole table turn, very gently, to look at him. He could feel the weight of nine pairs of eyes on his collar. The heir. The one who ought to know.
+Valerius felt the whole table turn toward him, very slowly. He could feel nine pairs of eyes on his collar. He was the heir. He was the one who should know.
 
-He didn't know. That was the trouble.
+He did not know. That was the trouble.
 
-His heart was going hard enough to hear. He sat quite still, with his hands flat on his knees, and put on the face he'd practiced in a mirror when he was nine: calm, polite, a little bored. A prince doesn't flinch in a room full of men waiting for him to flinch.
+His heart beat hard enough to hear. He sat very still with his hands flat on his knees. He put on the face he had practiced in a mirror at nine years old. It was calm, polite and a little bored. A prince does not flinch in a room full of men who wait for him to flinch.
 
-"There's no Void Host in this room," said Valerius. "I'd have noticed."
+"There is no Void Host in this room," said Valerius. "I would have noticed."
 
-A nervous laugh went round. Hartenfels beamed again.
+A nervous laugh went around. Hartenfels smiled again.
 
-The king said nothing. His eyes had gone very far away, to some place behind the map. Valerius looked at him and thought: *he knows. He knows why it bends.* And then, with a cold, small feeling, like a coin dropped down a well: *and he's afraid of it.*
+The king said nothing. His eyes had gone far away, to some place behind the map. Valerius looked at him and thought: *He knows. He knows why it bends.* Then he had a cold, small feeling, like a coin dropped down a well. *And he is afraid of it.*
 
 * * *
 
 "A word, my boy."
 
-It was Count Merrow, and he said it with the warmth of a man holding a door.
+It was Count Merrow. He said it as warmly as a man who holds a door open.
 
-They stood in the cold corridor after the others had gone. Lucan Merrow was sixty, silver-haired, with a limp from some old war and a way of looking at you as if you were the only person in the room who mattered. He'd taught Valerius to ride a horse. He'd taught him to read a treaty. He had sat with him through the worst night of his childhood and not said a single useless thing.
+They stood in the cold hall after the others had gone. Lucan Merrow was sixty years old. His hair was silver. He limped from some old war. He had a way of looking at you as if you were the only person in the room. He had taught Valerius to ride a horse. He had taught him to read a treaty. He had sat with him through the worst night of his childhood. He had not said one useless word.
 
 "You've had a hard week," said the count. "I heard about the duel."
 
 "It was a loss. For Wren."
 
-"For Wren." Merrow smiled, a little. "A boy who loses by that margin is a boy who knows precisely how far he is from winning. I'd keep an eye on him."
+"For Wren." Merrow smiled a little. "A boy who loses by that much knows exactly how far he is from winning. I would watch him."
 
 "I mean to."
 
-"Of course. But, Valerius." The old man put one hand on his shoulder. "I watched you in there. You saw the bend. Good. Most of that room has been looking at it for years and calling it ink. But you must be careful what you do with the things you see. A king doesn't chase every shadow. He decides which ones to follow."
+"Of course. But, Valerius." The old man put a hand on his shoulder. "I watched you in there. You saw the bend. Good. Most of that room has looked at it for years and called it ink. But be careful what you do with the things you see. A king does not chase every shadow. He chooses which ones to follow."
 
-"It isn't a shadow. It's three hundred miles of coast."
+"It is not a shadow. It is three hundred miles of coast."
 
-"It's a map." Merrow's voice stayed gentle. "And your father's tired, and the Concord is looking for a reason to quarrel, and you've got six days to a ball with five hundred young people in a glass hall and half the foreign delegation watching. Which of those do you think will get worse if you start asking about the Void Host?"
+"It is a map." Merrow's voice stayed soft. "Your father is tired. The Concord is looking for a reason to fight. In six days you have a ball. Five hundred young people will be in a glass hall. Half the foreign delegation will watch. Which of those will get worse if you start asking about the Void Host?"
 
 Valerius opened his mouth. He closed it.
 
 It was a fair question. That was what bothered him. It was always fair.
 
-"Worry about the Ball instead," said Merrow, and patted his arm. "Security. Who's invited, who's carrying what. It's a small thing, but small things are what a prince can actually do. The big ones will wait."
+"Worry about the Ball instead," said Merrow. He patted his arm. "Guards. Who is invited. Who carries what. It is a small thing. But small things are what a prince can really do. The big ones can wait."
 
 "I suppose."
 
-"Good lad." The count started down the corridor, and stopped, and turned halfway, as if a thought had just struck him. "Oh. One thing. It's only for my own interest. Which hall are the lanterns hanging in, this year?"
+"Good lad." The count started down the hall. Then he stopped and turned halfway, as if a thought had just come to him. "Oh. One thing. It is only my own interest. Which hall will the lanterns hang in this year?"
 
-"The glass atrium. Same as always."
+"The glass atrium. The same as always."
 
-"Ah," said Merrow mildly. "Of course. The atrium."
+"Ah," said Merrow gently. "Of course. The atrium."
 
-He went away down the corridor, limping slightly, in no hurry at all.
+He walked away down the hall. He limped a little. He was in no hurry at all.
 
-Valerius stood alone for a time with his wrist humming. Somewhere below, a door shut. It was only after the sound had died that he realized he'd told the count nothing he couldn't have read in the Ball's own notice.
+Valerius stood alone for a while. His wrist still hummed. Somewhere below, a door shut. When the sound died, he understood something. He had told the count nothing that was not in the Ball's own notice.
 
-And he couldn't think why that should have made him cold.
+He could not think why that made him cold.

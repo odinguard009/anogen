@@ -2,29 +2,29 @@
 
 *Code of the Ladder, Rule Nine. A bout in which a blade is lost without a touch is void. Either duelist may ask the court to resume. Two judges must agree.*
 
-That was the whole rule. Four lines in a clerk's neat hand, on a slip of paper, which Valerius held up between two fingers like a man showing a coin.
+That was the whole rule. It was four lines in a clerk's neat hand, on a slip of paper. Valerius held it up between two fingers, as if he showed a coin.
 
 "I ask the court to resume," he said.
 
-He didn't say it loudly. He didn't need to. The Long Court had gone so quiet I could hear the sand shifting under the benches.
+He did not say it loudly. He did not need to. The Long Court was so quiet that I could hear the sand move under the benches.
 
-"Seconded," said Brandmeier at once. She loves a rule the way other people love dogs. "It's in the Code. It's very clearly in the Code."
+"Seconded," said Brandmeier at once. She loves a rule the way other people love dogs. "It's in the Code. It's clearly in the Code."
 
-Okoru said nothing. He'd put the licorice root back in his cheek and was chewing again, slow and thoughtful, which was worse.
+Okoru said nothing. He had put the licorice root back in his cheek. He chewed it slowly and thought. That was worse.
 
-That left Dame Ostwald. She had her thermos clamped between her knees and was trying to unscrew the lid with one hand, because the other held her cane. The lid had been winning for a while. She gave it a last twist, scowled at it, and set the whole thing down on the judges' table.
+That left Dame Ostwald. She held her flask between her knees. She tried to open the lid with one hand, because the other hand held her cane. The lid had been winning for a while. She gave it a last twist and frowned at it. Then she put it down on the table.
 
 "Resume," she said. "I want to see how it ends."
 
-She didn't look at me. That was kind of her. It was also a decision, and I noticed it.
+She did not look at me. That was kind of her. It was also a decision, and I noticed.
 
-Refusing was out. Refusing meant the Inquiry, and the Inquiry meant a clerk with a long list of questions about where Eden Wren was born, and the answers to those were in a locked drawer in the palace. So I stood in my corner, with my left side on fire every time I breathed, and I thought about the one thing I had left to decide.
+I could not refuse. Refusing meant the Inquiry. The Inquiry meant a clerk with a long list of questions. Where was Eden Wren born? The answers were in a locked drawer in the palace. So I stood in my corner. My left side burned every time I breathed. I thought about the one thing I still had to decide.
 
 How to lose.
 
-Everyone thinks losing is easy. It isn't. Lose too soon, and you're a coward. Lose too well, and you're an actor. Lose by a long way, and people ask what a rank-eight does all day. The only loss nobody questions is the close one, where the better man won by a hair and everybody feels the hair. It needs a finger's width. No more.
+Everyone thinks losing is easy. It isn't. If you lose too soon, you are a coward. If you lose too well, you are an actor. If you lose by a lot, people ask what a rank-eight does all day. Only one loss is never questioned. It is the close one, where the better man wins by a hair and everyone feels the hair. That needs a finger's width. No more.
 
-I had one chance to find it. After that Valerius would stop being polite.
+I had one chance to find it. After that, Valerius would stop being polite.
 
 "Wren," said the Prince.
 
@@ -34,25 +34,25 @@ I had one chance to find it. After that Valerius would stop being polite.
 
 "Still Wren."
 
-He almost smiled. Then he lowered his blade, and his face went flat and cold and honest. I'd seen that face on the stairs once, years ago, when someone had insulted his sister. He was done holding back.
+He almost smiled. Then he lowered his blade. His face went flat and cold and honest. I had seen that face on the stairs once, years ago. Someone had said something bad about his sister. Now he was done holding back.
 
 * * *
 
-The second bout lasted ninety seconds. I remember each of them.
+The second bout lasted ninety seconds. I remember every one of them.
 
-"This court is closed," said Valerius, and brought his sword down across the sand.
+"This court is closed," said Valerius. He brought his sword down across the sand.
 
-A wall went up, right across the middle of the Long Court, ten paces long. Then he stepped left and drew another. Then right. In three breaths the oval wasn't an oval anymore. It was a set of lanes with frosted sides, and I was in one of them, and he was at the end of it.
+A wall rose across the middle of the Long Court. It was ten paces long. He stepped left and drew another. Then he stepped right. In three breaths, the oval was gone. It was a set of lanes with cloudy walls. I was in one lane, and he was at the end of it.
 
-"I'm not going to stand and be hit," I said.
+"I won't stand here and be hit," I said.
 
-"No. I know you're not."
+"No. I know you won't."
 
-He came down the lane at a run.
+He ran down the lane.
 
-So I ran too, the other way, because a dead end with a prince in it is not a place to be. I hit the end of my lane and found a gap and went through sideways. Another lane. A turn. The walls were head-high panes of cloudy force, and I could hear his boots through them, one lane over and level with me, like a man pacing a horse down a fence.
+So I ran too, the other way. A dead end with a prince in it is a bad place to be. I reached the end of my lane. I found a gap and went through sideways. I found another lane, and a turn. The walls were head-high panes of cloudy force. I could hear his boots through them. He ran one lane over, level with me, the way a man walks a horse along a fence.
 
-"You're slower on the left," he called through the glass.
+"You're slower on the left," he called through the wall.
 
 "I'm saving it."
 
@@ -64,45 +64,45 @@ So I ran too, the other way, because a dead end with a prince in it is not a pla
 
 "You've never once listened."
 
-He ruled again. A wall dropped in front of my face, so close that my nose nearly touched it. I spun and went back. My cracked rib made a noise inside me like a spoon in a jar.
+He drew another line. A wall rose in front of my face. My nose almost touched it. I spun and went back. My cracked rib made a noise inside me. It sounded like a spoon in a jar.
 
-Four lanes, five. He was herding me. Every time I thought I'd found a way out, a line was already there, drawn a half-second before I arrived. He wasn't chasing. He was *reading*. He'd studied how Wren runs.
+I went through four lanes, then five. He was herding me. Each time I found a way out, a line was already there. He had drawn it half a second before I arrived. He was not chasing me. He was reading me. He had studied how Wren runs.
 
-Which meant he'd watched me for years.
+That meant he had watched me for years.
 
-I took a corner too fast and my right glove scraped along a wall's edge, and the stone-cold force took the skin off my knuckles through the leather. I didn't stop. A runner who stops is a dead runner, and a dead runner is exactly what I'd decided not to be.
+I took a corner too fast. My right glove scraped along the edge of a wall. The cold force took the skin off my knuckles through the leather. I did not stop. A runner who stops is a dead runner. I had decided not to be dead.
 
 Then I saw the end.
 
-There was a pocket at the north side of the court, below the judges' table. Three walls and a gap. In the gap, six feet off, stood the bell stand, with the rope hanging from the tongue, and Okoru's hand resting near it.
+On the north side of the court, below the judges' table, there was a pocket. It had three walls and a gap. In the gap, six feet away, stood the bell stand. The rope hung from the bell's tongue. Okoru's hand rested near it.
 
-I'd been counting rope lengths since the first lane.
+I had been counting rope lengths since the first lane.
 
-The bell rings when a judge sees a clean touch. Okoru pulls the rope when he's sure. He has a habit: his hand lifts one finger's width before he pulls, and a good student of Okoru learns to watch it like a clock.
+The bell rings when a judge sees a clean touch. Okoru pulls the rope when he is sure. He has a habit. His hand lifts one finger's width before he pulls. A good student of Okoru learns to watch that hand like a clock.
 
-I ran into the pocket and turned and put my back to the wall.
+I ran into the pocket. I turned and put my back to the wall.
 
-Valerius came around the last corner. He'd read me perfectly. He knew I'd run out of road.
+Valerius came around the last corner. He had read me perfectly. He knew I had no road left.
 
 "Done," he said, and he lunged.
 
-The lance came up in my left hand. It was a good, true line, and it would have reached his throat before his blade reached my chest. I knew it the way you know a step is there in the dark. A Hinge, a Latch, one more small step: any of them would have ended it in my favor. I could see the finish. It was beautiful. It was right there, a finger's width from the end of my lance.
+The lance came up in my left hand. It was a good, true line. It would reach his throat before his blade reached my chest. I knew it the way you know a step is there in the dark. I could use the Hinge, or the Latch, or one more small step. Any of them would end it in my favor. I could see the finish. It was beautiful. It was right there, a finger's width from the tip of my lance.
 
 I held it.
 
 Okoru's hand lifted.
 
-I let the Prince's blade come in, and I let it touch the front of my coat, just over the breastbone, soft as a knock on a door. And the bell rang.
+I let the Prince's blade come in. It touched the front of my coat, just over my chest. It was as soft as a knock on a door. And the bell rang.
 
-It rang while his blade was still on me and my lance was still in the air, a finger's width from his throat, and the whole court could see how close it was. The year gasped. Someone started to cheer and stopped, as if he'd been caught.
+It rang while his blade was still on me. My lance was still in the air, a finger's width from his throat. The whole court could see how close it was. The year gasped. Someone began to cheer and stopped, as if he had been caught.
 
-Valerius didn't move. His blade still touched my coat. He was looking down my lance, along its whole length, to where its tip hung in the air.
+Valerius did not move. His blade still touched my coat. He looked down my lance, along its whole length, to where the tip hung in the air.
 
-"Rank One wins," said Brandmeier. She sounded disappointed. I think she'd wanted a longer bout.
+"Rank One wins," said Brandmeier. She sounded sad. I think she wanted a longer bout.
 
-On the way out of the court Rowan caught my sleeve with both hands.
+Outside the court, Rowan caught my sleeve with both hands.
 
-"You were *so close!* Did you see his face? I thought you had him!"
+"You were so close! Did you see his face? I thought you had him!"
 
 "Ribs," I said.
 
@@ -110,41 +110,41 @@ On the way out of the court Rowan caught my sleeve with both hands.
 
 "You're pulling on the side with the ribs."
 
-"Oh! Sorry. But you *did* have him!"
+"Oh! Sorry. But you did have him!"
 
 "I didn't."
 
 "The lance was right there! I saw it!"
 
-"Rowan," said Clara, quietly. "Let go of his arm."
+"Rowan," said Clara quietly. "Let go of his arm."
 
-He let go. Felix stood a little behind them with his hands in his pockets and said nothing at all. He looked at my right glove, which was red at the knuckles, and then at my face. Then he looked away, which is the other kind thing he does.
+He let go. Felix stood a little behind them with his hands in his pockets. He said nothing at all. He looked at my right glove, which was red at the knuckles. Then he looked at my face. Then he looked away. That is the other kind thing he does.
 
 * * *
 
-"You *held* it," said Valerius.
+"You held it," said Valerius.
 
-He'd followed me into the waiting room. Nobody else was in there, and the door was shut. He stood with his back against it, breathing hard, with the sword still bare in his hand.
+He had followed me into the waiting room. Nobody else was there. The door was shut. He stood with his back against it. He was breathing hard. His sword was still bare in his hand.
 
 "I lost."
 
-"You lost by one finger. I counted. You could have had me. You had me, Wren, and you gave it away." His voice shook. It was the first time I'd ever heard it shake. "That wasn't a loss. That was a *favor.*"
+"You lost by one finger. I counted. You could have had me. You had me, Wren, and you gave it away." His voice shook. It was the first time I had ever heard it shake. "That was not a loss. That was a favor."
 
 "It was a bell."
 
-"Don't." He pointed the sword at the floor. "Don't be funny at me. I've been your rival for five years and I've never once beaten you. Do you understand? Not once. Only the part you let me see."
+"Don't." He pointed the sword at the floor. "Don't be funny at me. I have been your rival for five years. I have never beaten you. Do you understand? Not once. I only beat the part you let me see."
 
 "What do you want me to say?" I said. "Sorry?"
 
-"I want you to say *why.*"
+"I want you to say why."
 
-I didn't have an answer to that. I sat down on the bench because my ribs asked me to.
+I had no answer. I sat down on the bench, because my ribs asked me to.
 
-Then the door shoved open behind him, and he stepped aside like a man stepping out of a river. Lysette stood there with a roll of gauze and a tin of salve and the duel book still under one arm.
+Then the door pushed open behind him. He stepped aside like a man stepping out of a river. Lysette stood there. She held a roll of gauze and a tin of salve. The duel book was still under her arm.
 
 "Out," she said to the Prince.
 
-He went. Valerius Aurenmark, Crown Prince, rank one. She didn't even look at him.
+He went. Valerius Aurenmark, Crown Prince, rank one. She did not even look at him.
 
 She shut the door and put the book on the bench. "Give me your hand."
 
@@ -152,23 +152,23 @@ She shut the door and put the book on the bench. "Give me your hand."
 
 "You're bleeding on the Committee's floor. Hand."
 
-I gave her the right one. She peeled the glove off and looked at the skin of my knuckles, and her mouth did something small and tight. Then she opened the tin, took a lump of salve on two fingers, and went to work like she was angry at the hand.
+I gave her the right one. She took off the glove and looked at the skin of my knuckles. Her mouth went small and tight. She opened the tin and took some salve on two fingers. Then she started to work, as if she was angry at the hand.
 
 "Ow."
 
-"It's supposed to."
+"It's supposed to hurt."
 
 "That's not true."
 
-"It's *a little* true." She wound the gauze around my knuckles, three turns, four, and pulled each one tight enough to make a point. "You could have yielded. I told you to yield."
+"It's a little true." She wound the gauze around my knuckles. She went around three times, then four. She pulled each turn tight, to make a point. "You could have yielded. I told you to yield."
 
-"You said say it out loud."
+"You said to say it out loud."
 
 "And you didn't!"
 
 "I didn't need to."
 
-Her hands stopped. She tied the knot. It came undone. She tied it again, and that came undone too, and she said something under her breath that the Committee handbook definitely doesn't allow.
+Her hands stopped. She tied the knot. It came undone. She tied it again. That one came undone too. She said something under her breath that the Committee handbook does not allow.
 
 "It's the gauze," she said. "It's cheap gauze. The bursar buys it."
 
@@ -176,26 +176,26 @@ Her hands stopped. She tied the knot. It came undone. She tied it again, and tha
 
 "Don't say you know."
 
-The third knot held. She pressed her thumb on it, hard, and left it there a second longer than the knot needed.
+The third knot held. She pressed her thumb on it, hard. She left it there a second longer than the knot needed.
 
-"I watched the whole thing," said Lysette. "I watched you in the lanes. I've been keeping notes on you for weeks, Wren, and today you ran like you'd drawn that map yourself." She wasn't looking at me. "And then you let him win."
+"I watched the whole thing," said Lysette. "I watched you in the lanes. I have kept notes on you for weeks, Wren. Today you ran as if you had drawn that map yourself." She did not look at me. "And then you let him win."
 
 I said nothing.
 
-"I don't know what that is yet," she said. "But I'm going to."
+"I don't know what that is yet," she said. "But I will."
 
-She picked up her book and left. She did not slam the door. I sat there with my hand wrapped up like a parcel and a crack in my ribs, and I did the thing she hadn't asked me to do, which was nothing.
+She picked up her book and left. She did not slam the door. I sat there with my hand wrapped up like a parcel and a crack in my ribs. I did the thing she had not asked me to do. I did nothing.
 
-It hurt, losing. I don't mind admitting that. It hurt in a small stupid place. I'd had the finish in my hand and I'd put it down. My whole life is a kind of putting things down, and I'm good at it, and today for the first time it felt like a skill I hadn't asked for.
+Losing hurt. I will admit that. It hurt in a small, stupid place. I had held the finish in my hand and I put it down. My whole life is putting things down. I am good at it. Today, for the first time, it felt like a skill I never asked for.
 
 * * *
 
-The corridor behind the Armory was empty by the time I came out. Evening light lay along the flagstones in orange bars.
+The corridor behind the Armory was empty when I came out. Evening light lay on the stones in orange bars.
 
-Valerius was waiting at the far end, alone, with his cloak on again and the sword back in its sheath. He didn't come closer. He didn't have to. The corridor was narrow, and his voice carried.
+Valerius waited at the far end, alone. He had his cloak on again, and his sword was back in its sheath. He did not come closer. He did not need to. The corridor was narrow, and his voice carried.
 
 "My father knows who you are," he said.
 
-My stomach did not move. I'm good at that too.
+My stomach did not move. I am good at that too.
 
-"So do I," said Valerius. "Not the name. I don't need the name. I know what you are, and I know what you held back, and I've known since the stairs." He turned to go. Over his shoulder, quietly, he said, "Next time I won't ask politely. I'll make you show them."
+"So do I," said Valerius. "Not the name. I don't need the name. I know what you are. I know what you held back. I have known since the stairs." He turned to go. Over his shoulder he said quietly, "Next time I won't ask politely. I will make you show them."

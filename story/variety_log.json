@@ -297,5 +297,18 @@
       "pacing_shape": "fast start, slows into consequence",
       "hook_type": "decision with a price"
     }
+  },
+  {
+    "chapter": 24,
+    "picks": {
+      "opening_type": "a countdown or deadline",
+      "scene_shape": "preparation then execution",
+      "tension_type": "a secret one slip from being said aloud",
+      "emotional_tone": "loneliness",
+      "comic_device": "the straight man loses his composure once",
+      "conflict_type": "hunt against a creature",
+      "pacing_shape": "flat surface, tension underneath",
+      "hook_type": "danger arrives"
+    }
   }
 ]

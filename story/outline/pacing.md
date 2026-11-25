@@ -23,7 +23,7 @@ Ch 20: calm (Valerius POV; map bend; Void Host rumour; Merrow asks which hall)
 Ch 21: emotional
 Ch 22: tense
 Ch 23: tense (tannery ambush; Gorrath's thirteen voices; plan with wrong night; feather; Ysolde orders him away)
-Ch 24: emotional
+Ch 24: emotional (roof; Lysette gown; shout; chandelier door; Embers seize atrium; "Wren" called)
 Ch 25: tense
 Ch 26: emotional
 Ch 27: calm

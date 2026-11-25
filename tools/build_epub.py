@@ -16,7 +16,7 @@ import zipfile
 from xml.etree import ElementTree as ET
 from xml.sax.saxutils import escape
 
-from common import OUT, chapter_path, chapter_title, load_json, OPS, read, settings
+from common import OUT, chapter_path, load_json, OPS, read, settings
 
 CSS = """body{font-family:serif;line-height:1.5;margin:0 4%}
 h1{text-align:center;margin:1.5em 0 1em;font-size:1.4em}

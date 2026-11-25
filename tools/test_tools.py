@@ -65,6 +65,167 @@ def write(p, t):
     p.write_text(t, encoding="utf-8")
 
 
+def git(root, *args):
+    return subprocess.run(["git", *args], cwd=root, capture_output=True, text=True)
+
+
+def mkroot(chapters=(), engine=None):
+    root = Path(tempfile.mkdtemp(prefix="anogen-test2-"))
+    for d in ("story/bible", "story/outline", "story/style", "chapters", "ops", "out"):
+        (root / d).mkdir(parents=True)
+    shutil.copy(TOOLS.parent / "story/brief.md", root / "story/brief.md")
+    shutil.copy(TOOLS.parent / "story/style/banned.md", root / "story/style/banned.md")
+    shutil.copy(TOOLS.parent / "story/style/profile.md", root / "story/style/profile.md")
+    write(root / "story/inbox.md", "# Idea inbox\n\n## Unprocessed\n\n## Processed\n")
+    write(root / "story/bible/canon_names.txt", "Alvar\nBrenna\n")
+    write(root / "story/bible/summaries.md", "# S\n")
+    write(root / "ops/engine.json", json.dumps(engine or {"arcs": {}}))
+    rng = random.Random(3)
+    for n in chapters:
+        write(root / f"chapters/chapter-{n:03d}.md", f"# Chapter {n}\n\n" + filler(rng, 2000, ["Alvar", "Brenna"]) + "\n")
+    return root
+
+
+ARC_RUNNING = {"arcs": {"1": {"start": 1, "end": 50, "name": "A", "max": 50, "status": "writing"}},
+               "batch": {"mode": "arc", "target": 0, "arc": 1, "max": 50, "start_chapter": 1,
+                         "status": "running", "stop_reason": ""}}
+
+
+def phase_two_tests():
+    # P0-1: context pack never cuts silently; the full style profile reaches the writer
+    root = mkroot()
+    try:
+        c, o = run(root, "context_pack.py", "--part", "static", "--peek")
+        check("pack keeps Human feel and Protagonist voice", c == 0 and "Human feel" in o and "Protagonist voice" in o and "TRUNCATED" not in o, o[-300:])
+        write(root / "story/style/profile.md", "# P\n\n## A\n" + "word " * 5000)
+        c, o = run(root, "context_pack.py", "--part", "static", "--peek")
+        check("pack truncation exits 4 and names the section", c == 4 and "PACK WARNING" in o and "Style profile" in o, o[-300:])
+    finally:
+        shutil.rmtree(root, ignore_errors=True)
+
+    # P0-2: gap fill never plans over existing chapters
+    root = mkroot([1, 2, 3, 4, 6, 7, 8, 9], ARC_RUNNING)
+    try:
+        c, o = run(root, "engine_state.py", "next", "--no-apply")
+        d = json.loads(o)
+        check("gap: writer_range clamped before existing chapter", d["next_chapter"] == 5 and d["writer_range"] == [5, 5] and "gap" in d["gap_note"], o)
+    finally:
+        shutil.rmtree(root, ignore_errors=True)
+
+    # P0-3: critic once per 10, reviewed hashes, validated marks, audit alignment
+    root = mkroot(range(1, 6), ARC_RUNNING)
+    try:
+        d = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
+        check("critic waits until 10 chapters are ready", d["critic_pending"] is None and d["critic_waiting"] == [1, 5], str(d))
+        for n in range(6, 11):
+            write(root / f"chapters/chapter-{n:03d}.md", f"# Chapter {n}\n\n" + filler(random.Random(n), 2000, ["Alvar"]) + "\n")
+        d = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
+        check("critic due at 10 with audit", d["critic_pending"] == [1, 10] and d["audit_with_critic"] is True, str(d))
+        c, o = run(root, "engine_state.py", "mark", "critic", "11")
+        check("mark refuses beyond highest chapter", c != 0 and "highest chapter" in o, o)
+        c, o = run(root, "engine_state.py", "mark", "critic", "10")
+        check("mark critic 10", c == 0, o)
+        c, o = run(root, "engine_state.py", "mark", "critic", "4")
+        check("mark never goes backwards", c != 0, o)
+        c, o = run(root, "engine_state.py", "mark", "audit", "10")
+        check("mark audit 10", c == 0, o)
+        pf = root / "chapters/chapter-003.md"
+        pf.write_text(pf.read_text() + "\nA late edit after review.\n")
+        d = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
+        check("edited chapter returns after review", d["critic_changed_after_review"] == [3], str(d))
+        c, o = run(root, "engine_state.py", "mark", "critic", "10", "--rereview")
+        d = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
+        check("rereview clears the change", c == 0 and d["critic_changed_after_review"] == [], str(d))
+        check("engine.json backup kept", (root / "ops/engine.json.bak").exists())
+    finally:
+        shutil.rmtree(root, ignore_errors=True)
+
+    # interrupted batch (chapters stop at 28): critic still ends on 30, so the audit rides along
+    root = mkroot(range(1, 39), dict(ARC_RUNNING, critic_through=28, audit_through=20))
+    try:
+        d = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
+        check("after interruption critic range ends on a multiple of 10 and audit rides along",
+              d["critic_pending"] == [29, 30] and d["audit_with_critic"] is True, str(d))
+    finally:
+        shutil.rmtree(root, ignore_errors=True)
+
+    # P0-4: atomic write and lock owner check
+    root = mkroot()
+    try:
+        code = ("import common; common.write(common.OPS/'x.txt','one'); common.write(common.OPS/'x.txt','two',backup=True);"
+                "import os; print(sorted(os.listdir(common.OPS)))")
+        r = subprocess.run([PY, "-c", code], capture_output=True, text=True, cwd=TOOLS, env=dict(os.environ, ANOGEN_ROOT=str(root)))
+        check("atomic write leaves no temp file and keeps .bak", "x.txt.bak" in r.stdout and ".tmp" not in r.stdout and (root / "ops/x.txt").read_text() == "two", r.stdout + r.stderr)
+        run(root, "lock.py", "acquire", "w", "--owner", "a")
+        c, o = run(root, "lock.py", "release", "w", "--owner", "b")
+        check("lock release by non-owner refused", c == 3 and "REFUSED" in o, o)
+        c, o = run(root, "lock.py", "release", "w", "--owner", "a")
+        check("lock release by owner", c == 0, o)
+    finally:
+        shutil.rmtree(root, ignore_errors=True)
+
+    # P0-5: save merges on a rejected push and never stages stray files
+    base = Path(tempfile.mkdtemp(prefix="anogen-remote-"))
+    try:
+        subprocess.run(["git", "init", "-q", "--bare", "-b", "main", str(base / "remote.git")])
+        a, b = base / "a", base / "b"
+        for d in (a, b):
+            d.mkdir()
+            git(d, "init", "-q", "-b", "main")
+            git(d, "config", "user.email", "t@t")
+            git(d, "config", "user.name", "t")
+            git(d, "remote", "add", "origin", str(base / "remote.git"))
+            (d / "story").mkdir()
+        (a / "story/a.md").write_text("a")
+        c, o = run(a, "save.py", "first")
+        check("save pushes to remote", c == 0 and "Pushed" in o, o)
+        git(b, "pull", "-q", "origin", "main")
+        (b / "story/b.md").write_text("b")
+        c, o = run(b, "save.py", "from b")
+        (a / "story/a2.md").write_text("a2")
+        (a / "stray.txt").write_text("must not be committed")
+        c, o = run(a, "save.py", "second from a (remote is ahead)")
+        check("save merges a rejected push", c == 0 and "Pushed" in o, o)
+        git(a, "remote", "set-url", "origin", str(base / "missing.git"))
+        (a / "story/a3.md").write_text("a3")
+        c, o = run(a, "save.py", "push will fail")
+        check("failed push reported, work committed locally", c == 3 and "PUSH FAILED" in o, o)
+        git(a, "remote", "set-url", "origin", str(base / "remote.git"))
+        c, o = run(a, "save.py", "no new changes")
+        check("save retries an earlier failed push", c == 0 and "Pushed" in o and "not pushed yet" in o, o)
+        tracked = git(a, "ls-files").stdout
+        check("save does not stage stray files", "stray.txt" not in tracked and "story/b.md" in tracked, tracked + o)
+    finally:
+        shutil.rmtree(base, ignore_errors=True)
+
+    # P0-6: verify_batch go/no-go, check_chapter --strict
+    root = mkroot([1])
+    try:
+        write(root / "story/outline/arc-1.md", "Ch 1 | goal: a | conflict: b | payoff: c | hook: d | pov: first | type: quiet\n")
+        c, o = run(root, "verify_batch.py", "1-2")
+        check("verify_batch flags missing chapter, summary, scores", c == 1 and "ch 2: file missing" in o and "no summary" in o and "scores.csv" in o, o)
+        c, o = run(root, "check_chapter.py", "chapters/chapter-001.md", "--strict")
+        check("check_chapter --strict exits 1 on issues", c == 1 and "ISSUE" in o, o)
+    finally:
+        shutil.rmtree(root, ignore_errors=True)
+
+    # P1-1 usage log and idempotent log_run
+    root = mkroot([1, 2])
+    try:
+        c, o = run(root, "usage_log.py", "report")
+        check("usage report with no data says UNMEASURED", "UNMEASURED" in o, o)
+        run(root, "usage_log.py", "add", "--role", "writer", "--model", "m", "--range", "1-2", "--input", "1000", "--output", "500", "--seconds", "60", "--source", "reported")
+        run(root, "usage_log.py", "add", "--role", "critic", "--model", "m", "--range", "1-2", "--input", "800", "--output", "100", "--outcome", "retry")
+        c, o = run(root, "usage_log.py", "report")
+        check("usage report totals and honest cost", c == 0 and "writer" in o and "critic" in o and "unknown" in o and "    1" in o, o)
+        run(root, "log_run.py", "--chapter", "7", "--scores", "3,3,3,-,3,3")
+        run(root, "log_run.py", "--chapter", "7", "--scores", "4,4,4,-,4,4")
+        rows = [r for r in (root / "ops/scores.csv").read_text().splitlines() if r.startswith("7,")]
+        check("log_run keeps one scores row per chapter", rows == ["7,4,4,4,-,4,4"], str(rows))
+    finally:
+        shutil.rmtree(root, ignore_errors=True)
+
+
 def main():
     root = Path(tempfile.mkdtemp(prefix="anogen-test-"))
     try:
@@ -270,6 +431,7 @@ def main():
     finally:
         shutil.rmtree(root, ignore_errors=True)
 
+    phase_two_tests()
     if FAILS:
         print("\nFAILED:", ", ".join(FAILS))
         sys.exit(1)

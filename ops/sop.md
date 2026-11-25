@@ -13,7 +13,7 @@ The owner always grants permission for any access and any action needed for the 
 
 ## 2. Standard loop (every command)
 1. `engine_state.py batch-resume` (or batch-start for a new batch), `lock.py status`, `precheck.py`, `engine_state.py next`.
-2. Run the Production flow in CLAUDE.md: dev editor if needed -> writer(5) -> critic -> audit if due -> save -> next batch. Repeat while `continue` is true.
+2. Run the Production flow in CLAUDE.md: dev editor if needed -> writer(5) -> writer(5) -> verify_batch -> critic over those 10 (+ audit) -> save -> next batch. Repeat while `continue` is true.
 3. After each agent: release its lock, verify with `git status -sb`, `git log`, `check_chapter.py` on its chapters. Fix mechanical failures by giving the same agent range a retry once; if it still fails, log it in ops/blocked.md and move on.
 4. After each batch: publish/update the reading page (section 5). Commit and push everything (`tools/save.py`).
 5. Stop only when `continue` is false, a quota/limit is hit, or a STOP-list case happens. Then report.
@@ -24,7 +24,7 @@ The owner always grants permission for any access and any action needed for the 
 - Owner style feedback in chat (language too hard, too slow, too much X): update story/style/profile.md (and brief.md if the audience changes). The new style applies to chapters written from now on. Do NOT rewrite already written chapters unless the owner explicitly orders a rewrite (a rewrite costs about as much as four writer batches).
 - Owner idea ("ide: ..."): `inbox.py add`, one-line confirmation, it is developed at the next planning.
 - Agent report says "short chapter", "quiet ending", "debt dropped from cap": log in ops/decisions.md; the next critic/audit handles it. No question to the owner.
-- Critic must run on every batch (locked flow). If quota is short, run the critic first and the writer later, never skip it silently.
+- The critic runs once per 10 chapters (owner order 2026-11-25); never skip it silently. If quota is short, run the critic first and the writer later.
 - Readability targets (checker values): average sentence 8-13 words, dialogue 25-35% in normal chapters, words 1800-2500.
 - Quota hit or agent died: `batch-stop --reason`, commit what exists, report; resume later with "lanjutkan".
 

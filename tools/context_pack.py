@@ -10,8 +10,9 @@ the setting context_pack_max_chars.
 """
 import argparse
 import re
+import sys
 
-from common import STORY, CHAPTERS, body_text, chapter_files, chapter_path, read, setting_int
+from common import STORY, body_text, chapter_path, read, setting_int
 import engine_state
 import precheck
 
@@ -19,9 +20,15 @@ OUTLINE_RE = re.compile(r"^\s*(?:[-*]\s*)?(?:\*\*)?Ch\.?\s*(\d+)\b")
 PACING_RE = re.compile(r"^\s*(?:[-*]\s*)?Ch\.?\s*(\d+)\s*:")
 
 
-def cap(text, n):
+TRUNCATED = []  # (section title, chars lost): any entry makes the tool exit 4 (never cut silently)
+
+
+def cap(text, n, title="?"):
     text = text.strip()
-    return text if len(text) <= n else text[:n].rstrip() + "\n[...truncated]"
+    if len(text) <= n:
+        return text
+    TRUNCATED.append((title, len(text) - n))
+    return text[:n].rstrip() + f"\n[...TRUNCATED: {len(text) - n} chars of '{title}' lost; raise the cap or shorten the source file]"
 
 
 def outline_lines(n, count=3):
@@ -84,7 +91,7 @@ def build(chapter=None, extra=(), peek=False, part="full", no_tail=False):
 
     def add(title, body, limit):
         if body and body.strip():
-            sections.append(f"## {title}\n{cap(body, limit)}")
+            sections.append(f"## {title}\n{cap(body, limit, title)}")
 
     want_s = part in ("full", "static")
     want_d = part in ("full", "delta")
@@ -93,7 +100,7 @@ def build(chapter=None, extra=(), peek=False, part="full", no_tail=False):
         sections.append(precheck.build(n, peek=peek))
         add("Idea inbox", "\n".join(f"- {i}" for i in __import__('inbox').unprocessed_ideas()), 3000)
     if want_s:
-        add("Style profile", read(STORY / "style" / "profile.md"), 9000)
+        add("Style profile", read(STORY / "style" / "profile.md"), 20000)
         add("Banned phrases", read(STORY / "style" / "banned.md"), 2500)
     if want_d:
         ep = epigraph_for(n)
@@ -131,7 +138,10 @@ def build(chapter=None, extra=(), peek=False, part="full", no_tail=False):
         # never cut silently: cut only the tail and name what was lost
         cut = out[limit:]
         lost = [ln[3:].strip() for ln in cut.splitlines() if ln.startswith("## ")]
+        TRUNCATED.append(("whole pack (" + (", ".join(lost) or "tail of the last section") + ")", len(cut)))
         out = out[:limit].rstrip() + "\n[...PACK TRUNCATED at context_pack_max_chars; lost sections: " + (", ".join(lost) or "tail of the last section") + "]"
+    if TRUNCATED:
+        out += "\n[PACK WARNING: truncated sections: " + ", ".join(f"{s} (-{k} chars)" for s, k in TRUNCATED) + "]"
     return out
 
 
@@ -145,6 +155,9 @@ def main():
     a = ap.parse_args()
     extra = [e.strip() for e in a.extra.split(",") if e.strip()]
     print(build(a.chapter, extra, a.peek, a.part, a.no_tail))
+    if TRUNCATED:
+        print("ERROR: context pack was truncated (see PACK WARNING); fix the caps before writing.", file=sys.stderr)
+        sys.exit(4)
 
 
 if __name__ == "__main__":

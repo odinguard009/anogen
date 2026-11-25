@@ -7,23 +7,27 @@ Usage:
   engine_state.py arc-complete K          # release gate: all chapters of the arc must exist
   engine_state.py batch-start --mode n --target N
   engine_state.py batch-start --mode arc --arc K [--max M]
-  engine_state.py mark critic|audit N     # record independent critic / audit done through chapter N
+  engine_state.py mark critic|audit N [--rereview]   # critic/audit done through chapter N (validated; records chapter hashes)
+  engine_state.py baseline-reviewed       # owner-accepted: record current hashes for chapters 1..critic_through
   engine_state.py batch-resume            # continue a stopped batch (keeps start/target)
   engine_state.py batch-stop --reason TEXT [--status stopped|done]
-  engine_state.py next                    # what to do next (updates state when a batch ends)
+  engine_state.py next [--no-apply]       # what to do next (updates batch status when a batch ends unless --no-apply)
 """
 import argparse
 import copy
 import json
 import sys
 
-from common import OPS, chapter_path, load_json, next_chapter_number, save_json, setting_int
+from common import OPS, chapter_files, chapter_path, file_hash, load_json, next_chapter_number, save_json, setting_int
 
 PATH = OPS / "engine.json"
 DEFAULT = {
     "arcs": {},
     "batch": {"mode": "none", "target": 0, "arc": None, "max": None,
               "start_chapter": None, "status": "idle", "stop_reason": ""},
+    "critic_through": 0,
+    "audit_through": 0,
+    "reviewed": {},
 }
 
 
@@ -33,11 +37,14 @@ def load():
         d = copy.deepcopy(DEFAULT)
     d.setdefault("arcs", {})
     d.setdefault("batch", copy.deepcopy(DEFAULT["batch"]))
+    d.setdefault("critic_through", 0)
+    d.setdefault("audit_through", 0)
+    d.setdefault("reviewed", {})
     return d
 
 
 def save(d):
-    save_json(PATH, d)
+    save_json(PATH, d, backup=True)  # atomic write; previous state kept as engine.json.bak
 
 
 def missing_chapters(arc):
@@ -79,10 +86,9 @@ def compute_next(apply=False):
                 reason = f"arc {b['arc']}: chapter {n} of {arc['start']}-{arc['end']}"
     if apply:
         save(d)
-    hi = n - 1 if n > 1 else 0
-    from common import chapter_files
     cf = chapter_files()
     hi = cf[-1][0] if cf else 0
+    existing = {k for k, _ in cf}
     limit = None
     if b["status"] in ("running",) and b["mode"] == "n":
         limit = b["start_chapter"] + b["target"] - 1
@@ -90,23 +96,46 @@ def compute_next(apply=False):
         limit = arc["end"]
         if b.get("max"):
             limit = min(limit, b["start_chapter"] + b["max"] - 1)
-    writer_range = [n, min(n + 4, limit)] if (cont and limit and n <= limit) else None
-    if writer_range is None and not cont and b["status"] not in ("running",) and reason.startswith("no running batch"):
+    # never plan over chapters that already exist (gap fill): stop before the next existing chapter
+    later = [k for k in existing if k > n]
+    stop_at = (min(later) - 1) if later else None
+    writer_range, gap_note = None, ""
+    if cont and limit and n <= limit:
+        end_ = min(n + 4, limit)
+        if stop_at is not None and stop_at < end_:
+            end_ = stop_at
+            gap_note = f"gap: chapter {n} is missing but chapter {min(later)} exists; range clamped to {n}-{end_} (never overwrite)"
+        writer_range = [n, end_]
+    elif not cont and b["status"] not in ("running",) and reason.startswith("no running batch"):
         writer_range = [n, n]  # single-chapter mode
     ct = d.get("critic_through", 0)
-    critic_pending = [ct + 1, hi] if hi > ct else None
+    span = setting_int("critic_span")
+    boundary = (ct // span + 1) * span
+    end_c = min(hi, boundary)
+    running = b["status"] == "running" and cont
+    arc_done = bool(arc) and hi >= arc["end"]
+    critic_due = hi > ct and (hi >= boundary or not running or arc_done)
+    critic_pending = [ct + 1, end_c] if critic_due else None
+    critic_waiting = [ct + 1, hi] if (hi > ct and not critic_due) else None
+    reviewed = d.get("reviewed", {})
+    changed = [k for k in sorted(existing) if k <= ct and str(k) in reviewed and reviewed[str(k)] != file_hash(chapter_path(k))]
     at = d.get("audit_through", 0)
-    audit_due = (hi // 10) * 10 > at
+    audit_missed = (ct // 10) * 10 if (ct // 10) * 10 > at else None
+    audit_with_critic = bool(critic_pending) and critic_pending[1] % 10 == 0 and critic_pending[1] > at
     return {"next_chapter": n, "continue": cont, "reason": reason, "batch": b, "arc": arc,
-            "writer_range": writer_range, "critic_pending": critic_pending,
-            "audit_due_at": (hi // 10) * 10 if audit_due else None}
+            "writer_range": writer_range, "gap_note": gap_note,
+            "critic_pending": critic_pending, "critic_waiting": critic_waiting,
+            "critic_changed_after_review": changed,
+            "audit_with_critic": audit_with_critic, "audit_due_at": audit_missed}
 
 
 def main():
     ap = argparse.ArgumentParser()
     sub = ap.add_subparsers(dest="cmd", required=True)
     sub.add_parser("show")
-    sub.add_parser("next")
+    p = sub.add_parser("next")
+    p.add_argument("--no-apply", action="store_true", help="pure read: do not update batch status")
+    sub.add_parser("baseline-reviewed")
     p = sub.add_parser("arc-plan")
     p.add_argument("arc", type=int)
     p.add_argument("--start", type=int, required=True)
@@ -124,6 +153,7 @@ def main():
     p = sub.add_parser("mark")
     p.add_argument("what", choices=["critic", "audit"])
     p.add_argument("chapter", type=int)
+    p.add_argument("--rereview", action="store_true", help="critic only: also bless chapters changed after their review")
     p = sub.add_parser("batch-stop")
     p.add_argument("--reason", required=True)
     p.add_argument("--status", choices=["stopped", "done"], default="stopped")
@@ -138,7 +168,7 @@ def main():
         print("Batch:", json.dumps(d["batch"], ensure_ascii=False))
         print("Next chapter:", next_chapter_number())
     elif a.cmd == "next":
-        print(json.dumps(compute_next(apply=True), indent=2, ensure_ascii=False))
+        print(json.dumps(compute_next(apply=not a.no_apply), indent=2, ensure_ascii=False))
     elif a.cmd == "arc-plan":
         if a.start < 1 or a.end < a.start:
             sys.exit("invalid range")
@@ -169,6 +199,11 @@ def main():
         if d.get("critic_through", 0) < arc["end"]:
             print(f"Arc {a.arc} NOT released: critic pass done only through chapter {d.get('critic_through', 0)} (need {arc['end']}).")
             sys.exit(2)
+        stale = [k for k in range(arc["start"], arc["end"] + 1)
+                 if str(k) in d.get("reviewed", {}) and d["reviewed"][str(k)] != file_hash(chapter_path(k))]
+        if stale:
+            print(f"Arc {a.arc} NOT released: chapters changed after their critic review: {stale[:20]}")
+            sys.exit(2)
         arc["status"] = "complete"
         save(d)
         print(f"Arc {a.arc} marked complete (release gate open).")
@@ -192,9 +227,35 @@ def main():
         save(d)
         print("Batch started at chapter", n)
     elif a.cmd == "mark":
-        d[a.what + "_through"] = a.chapter
+        key = a.what + "_through"
+        cur = d.get(key, 0)
+        hi = (chapter_files() or [(0, None)])[-1][0]
+        if a.chapter > hi:
+            sys.exit(f"cannot mark {a.what} through {a.chapter}: highest chapter is {hi}")
+        if a.chapter < cur and not a.rereview:
+            sys.exit(f"{key} is already {cur}; marks never go backwards")
+        if a.what == "audit" and a.chapter > d.get("critic_through", 0):
+            sys.exit(f"audit cannot pass the critic: critic_through is {d.get('critic_through', 0)}")
+        if a.what == "critic":
+            miss = [k for k in range(cur + 1, a.chapter + 1) if not chapter_path(k).exists()]
+            if miss:
+                sys.exit(f"cannot mark critic: missing chapters {miss[:10]}")
+            rev = d.setdefault("reviewed", {})
+            todo = list(range(cur + 1, a.chapter + 1))
+            if a.rereview:
+                todo += [k for k in range(1, cur + 1) if str(k) in rev]
+            for k in todo:
+                rev[str(k)] = file_hash(chapter_path(k))
+        d[key] = max(cur, a.chapter)
         save(d)
-        print(f"{a.what} done through chapter {a.chapter}")
+        print(f"{a.what} done through chapter {d[key]}")
+    elif a.cmd == "baseline-reviewed":
+        rev = d.setdefault("reviewed", {})
+        for k in range(1, d.get("critic_through", 0) + 1):
+            if chapter_path(k).exists():
+                rev[str(k)] = file_hash(chapter_path(k))
+        save(d)
+        print(f"recorded current text of chapters 1-{d.get('critic_through', 0)} as reviewed (owner-accepted baseline)")
     elif a.cmd == "batch-resume":
         b = d["batch"]
         if b["mode"] == "none" or b["status"] not in ("stopped", "running"):

@@ -7,7 +7,7 @@ Usage: precheck.py [--chapter N] [--peek]
 import argparse
 import re
 
-from common import (STORY, body_text, canon_tokens, chapter_files, chapter_title,
+from common import (STORY, body_text, canon_tokens, chapter_files,
                     next_chapter_number, read, sentences, setting_int)
 import inbox
 import variety

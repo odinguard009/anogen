@@ -47,7 +47,12 @@ def main():
         csvp = OPS / "scores.csv"
         cur = read(csvp) or "chapter," + ",".join(NAMES) + "\n"
         row = [str(a.chapter)] + (scores + ["-"] * 6)[:6]
-        write(csvp, cur.rstrip("\n") + "\n" + ",".join(row) + "\n")
+        lines = cur.rstrip("\n").split("\n")
+        # idempotent: one row per chapter (a retry or a critic fix replaces the row, never duplicates it)
+        lines = [ln for i, ln in enumerate(lines) if i == 0 or ln.split(",")[0] != str(a.chapter)]
+        lines.append(",".join(row))
+        head_, body_ = lines[0], sorted(lines[1:], key=lambda s: int(s.split(",")[0]) if s.split(",")[0].isdigit() else 10 ** 9)
+        write(csvp, "\n".join([head_] + body_) + "\n")
     print("Logged:", head)
 
 

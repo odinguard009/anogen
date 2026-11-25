@@ -1,38 +1,44 @@
 {
-  "_note": "Recommended model per bot (role). Quota weight per model is UNVERIFIED: measure at claude.ai/settings/usage and adjust.",
+  "_note": "Model TIER per role. Map tiers to real models in 'tiers'. Quota weight per model is unverified: measure at the host's usage page and adjust. LOCKED by the owner (2026-11-25).",
   "concurrency": {
     "max_agents_per_job": 1,
     "rule": "Never run more than one bot per job. Acquire tools/lock.py before spawning an agent; release after."
   },
   "orchestrator": {
     "model": "sonnet",
-    "where": "main chat session; runs scripts, commits, sends files, spawns ONE agent at a time"
+    "where": "main chat session; runs scripts, commits, sends files, spawns ONE agent at a time",
+    "tier": "standard"
   },
   "roles": {
     "development_editor": {
       "model": "opus",
       "mode": "delegate",
-      "when": "arc planning, big idea intake, story bible changes"
+      "when": "arc planning, big idea intake, story bible changes",
+      "tier": "strong"
     },
     "lead_writer": {
       "model": "sonnet",
       "mode": "delegate",
-      "when": "writes chapters in batches of 5 (also does canon bookkeeping per chapter)"
+      "when": "writes chapters in batches of 5 (also does canon bookkeeping per chapter)",
+      "tier": "standard"
     },
     "copy_critic": {
       "model": "opus",
       "mode": "delegate",
-      "when": "after each 5-chapter batch: strict scoring and targeted patches (independent from the writer)"
+      "when": "after each 5-chapter batch: strict scoring and targeted patches (independent from the writer)",
+      "tier": "strong"
     },
     "canon_keeper": {
       "model": "sonnet",
       "mode": "inside lead_writer batch",
-      "when": "after every chapter (mechanical bookkeeping)"
+      "when": "after every chapter (mechanical bookkeeping)",
+      "tier": "standard"
     },
     "managing_editor": {
       "model": "opus",
-      "mode": "delegate",
-      "when": "every 10 chapters: audit, max 3 proposals"
+      "mode": "runs inside the critic run that ends at chapter 10, 20, 30... (merged, owner's order 2026-11-25)",
+      "when": "every 10 chapters: audit, max 3 proposals",
+      "tier": "strong"
     }
   },
   "scripts_no_model": [
@@ -42,5 +48,15 @@
     "lock, status, log_run, engine_state"
   ],
   "locked": true,
-  "_lock_note": "LOCKED by the owner (2026-11-25). Do not change models, concurrency or this file unless the owner explicitly orders it in plain words."
+  "_lock_note": "LOCKED by the owner (2026-11-25). Do not change models, concurrency or this file unless the owner explicitly orders it in plain words.",
+  "tiers": {
+    "strong": {
+      "claude": "opus",
+      "other_ai": "your vendor's strongest reasoning model (e.g. GPT top-tier, Gemini Pro)"
+    },
+    "standard": {
+      "claude": "sonnet",
+      "other_ai": "your vendor's mid-tier fast model"
+    }
+  }
 }

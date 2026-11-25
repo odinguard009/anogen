@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 """Assemble the whole context for ONE chapter in a single call (0 tokens to build).
 
-Usage: context_pack.py [--chapter N] [--extra characters,world] [--peek]
+Usage: context_pack.py [--chapter N] [--extra world,armor] [--peek] [--part full|static|delta] [--no-tail]
+--part static: style, banned, series, premise, characters, extras (read ONCE per batch).
+--part delta : state, precheck, inbox, outline, pacing, debts, secrets, summaries, previous tail (per chapter).
+Default full = both. "characters" is always in the pack; do not pass it in --extra.
 Prints a compact pack; each section is capped and the total is capped by
 the setting context_pack_max_chars.
 """
@@ -74,7 +77,7 @@ def prev_tail(n, nwords=300):
     return " ".join(w[-nwords:])
 
 
-def build(chapter=None, extra=(), peek=False):
+def build(chapter=None, extra=(), peek=False, part="full", no_tail=False):
     n = chapter or engine_state.compute_next()["next_chapter"]
     nxt = engine_state.compute_next()
     sections = []
@@ -83,35 +86,52 @@ def build(chapter=None, extra=(), peek=False):
         if body and body.strip():
             sections.append(f"## {title}\n{cap(body, limit)}")
 
-    add("Engine state", f"next_chapter: {nxt['next_chapter']}\nbatch: {nxt['batch']}\ncontinue: {nxt['continue']} ({nxt['reason']})", 800)
-    sections.append(precheck.build(n, peek=peek))
-    add("Idea inbox", "\n".join(f"- {i}" for i in __import__('inbox').unprocessed_ideas()), 3000)
-    add("Style profile", read(STORY / "style" / "profile.md"), 6500)
-    add("Banned phrases", read(STORY / "style" / "banned.md"), 1500)
-    ep = epigraph_for(n)
-    if ep:
-        add("Epigraph for this chapter (put it right under the title as a '> ' blockquote, one or two lines)", ep, 500)
-    add("Series arc", read(STORY / "outline" / "series.md"), 3000)
-    ol = outline_lines(n)
-    add("Outline for this and next chapters", "\n".join(ol) if ol else "NO OUTLINE for this chapter: Development Editor must plan the arc first.", 2500)
-    add("Pacing (recent and upcoming)", "\n".join(pacing_lines(n)), 800)
-    add("State", read(STORY / "bible" / "state.md"), 3500)
-    debts = [ln for ln in read(STORY / "bible" / "debts.md").splitlines() if "[open]" in ln]
-    add("Debts (open promises)", "\n".join(debts), 3000)
-    sec = read(STORY / "bible" / "secrets.md").strip()
-    add("Secrets", sec if len(sec) <= 2500 else "[older entries omitted]\n" + sec[-2500:], 2600)
-    add("Characters", read(STORY / "bible" / "characters.md"), 3000)
-    add("Last summaries", last_summaries(n), 3500)
-    tail = prev_tail(n)
-    add("End of previous chapter (continue from here, do not repeat it)", tail, 2200)
-    add("Premise", read(STORY / "bible" / "premise.md"), 2500)
-    for e in extra:
-        add(f"Extra: {e}", read(STORY / "bible" / f"{e}.md"), 9500)
+    want_s = part in ("full", "static")
+    want_d = part in ("full", "delta")
+    if want_d:
+        add("Engine state", f"next_chapter: {nxt['next_chapter']}\nbatch: {nxt['batch']}\ncontinue: {nxt['continue']} ({nxt['reason']})", 800)
+        sections.append(precheck.build(n, peek=peek))
+        add("Idea inbox", "\n".join(f"- {i}" for i in __import__('inbox').unprocessed_ideas()), 3000)
+    if want_s:
+        add("Style profile", read(STORY / "style" / "profile.md"), 9000)
+        add("Banned phrases", read(STORY / "style" / "banned.md"), 2500)
+    if want_d:
+        ep = epigraph_for(n)
+        if ep:
+            add("Epigraph for this chapter (put it right under the title as a '> ' blockquote, one or two lines)", ep, 500)
+    if want_s:
+        add("Series arc", read(STORY / "outline" / "series.md"), 3000)
+    if want_d:
+        ol = outline_lines(n)
+        add("Outline for this and next chapters", "\n".join(ol) if ol else "NO OUTLINE for this chapter: Development Editor must plan the arc first.", 2500)
+        add("Pacing (recent and upcoming)", "\n".join(pacing_lines(n)), 800)
+        add("State", read(STORY / "bible" / "state.md"), 3500)
+        debts = [ln for ln in read(STORY / "bible" / "debts.md").splitlines() if "[open]" in ln]
+        add("Debts (open promises)", "\n".join(debts), 3000)
+        sec = read(STORY / "bible" / "secrets.md").strip()
+        add("Secrets", sec if len(sec) <= 2500 else "[older entries omitted]\n" + sec[-2500:], 2600)
+    if want_s:
+        add("Characters", read(STORY / "bible" / "characters.md"), 3000)
+    if want_d:
+        add("Last summaries", last_summaries(n), 3500)
+        if not no_tail:
+            add("End of previous chapter (continue from here, do not repeat it)", prev_tail(n), 2200)
+    if want_s:
+        add("Premise", read(STORY / "bible" / "premise.md"), 2500)
+        seen = {"characters", "premise"}
+        for e in extra:
+            if e in seen:
+                continue
+            seen.add(e)
+            add(f"Extra: {e}", read(STORY / "bible" / f"{e}.md"), 9500)
 
     out = "\n\n".join(sections)
     limit = setting_int("context_pack_max_chars")
     if len(out) > limit:
-        out = out[:limit].rstrip() + "\n[...pack truncated at context_pack_max_chars]"
+        # never cut silently: cut only the tail and name what was lost
+        cut = out[limit:]
+        lost = [ln[3:].strip() for ln in cut.splitlines() if ln.startswith("## ")]
+        out = out[:limit].rstrip() + "\n[...PACK TRUNCATED at context_pack_max_chars; lost sections: " + (", ".join(lost) or "tail of the last section") + "]"
     return out
 
 
@@ -120,9 +140,11 @@ def main():
     ap.add_argument("--chapter", type=int, default=None)
     ap.add_argument("--extra", default="")
     ap.add_argument("--peek", action="store_true")
+    ap.add_argument("--part", choices=["full", "static", "delta"], default="full")
+    ap.add_argument("--no-tail", action="store_true")
     a = ap.parse_args()
     extra = [e.strip() for e in a.extra.split(",") if e.strip()]
-    print(build(a.chapter, extra, a.peek))
+    print(build(a.chapter, extra, a.peek, a.part, a.no_tail))
 
 
 if __name__ == "__main__":

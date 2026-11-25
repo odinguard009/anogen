@@ -21,7 +21,7 @@ The owner always grants permission for any access and any action needed for the 
 ## 3. Defaults for common doubts (decide, log, continue)
 - Chapter slightly outside word range: fix with the checker's advice; do not ask.
 - Conflict between a chapter idea and canon: canon wins; write the conflict to story/proposals-audit.md (never into approved proposals).
-- Owner style feedback in chat (language too hard, too slow, too much X): update story/style/profile.md (and brief.md if audience changes), then rewrite the already written chapters of the current arc in place (events, names, facts, hooks unchanged), one agent at a time, 5 chapters per run. Later batches use the new style. Do not ask whether to rewrite.
+- Owner style feedback in chat (language too hard, too slow, too much X): update story/style/profile.md (and brief.md if the audience changes). The new style applies to chapters written from now on. Do NOT rewrite already written chapters unless the owner explicitly orders a rewrite (a rewrite costs about as much as four writer batches).
 - Owner idea ("ide: ..."): `inbox.py add`, one-line confirmation, it is developed at the next planning.
 - Agent report says "short chapter", "quiet ending", "debt dropped from cap": log in ops/decisions.md; the next critic/audit handles it. No question to the owner.
 - Critic must run on every batch (locked flow). If quota is short, run the critic first and the writer later, never skip it silently.
@@ -37,12 +37,13 @@ The owner always grants permission for any access and any action needed for the 
 1. Do not retry in a loop and do not look for a workaround that bypasses the denial. Try at most one safer variant of the same action (for example read access instead of push).
 2. Write the blocked item to ops/blocked.md (date, action, reason, what is needed), commit it, and continue every step that does not depend on it. Example: if the reading page cannot be published, the chapters stay in the repo and the batch continues.
 3. Report the blocked items once, at the end, with the single thing the owner needs to do (for example, allow the action in the permission prompt). When the owner says "lanjutkan" again, retry blocked items first.
-4. Reading page: Docs type if usable, else a self-contained HTML page built from chapters/*.md by script (no chapter text passed through the chat); record the URL in ops/reading-page.txt.
+4. Reading page: run `python3 tools/build_reading_page.py` (builds out/reading-page.html from chapters/*.md; chapter text never passes through the model) and publish that file with whatever page-hosting tool the AI has; record the URL in ops/reading-page.txt. If publishing is blocked, treat it as a blocked action.
 
 ## 6. Reporting format (Indonesian, phone-friendly)
 - 3-6 lines: what was finished (chapters, state), what is blocked or unverified, the one action needed from the owner (or "tidak ada"). No flattery, no step-by-step recap, no questions unless STOP list.
 - Never state results of an agent before its report is read and verified with git/scripts.
 
 ## 7. Session hygiene
+- One chat session handles at most TWO batches (writer -> critic [+ audit]). Then commit, push, report, and tell the owner to say "lanjutkan" in a fresh chat. A long chat resends its whole history every turn and is the biggest hidden cost (owner approved this rule 2026-11-25).
 - Token discipline in CLAUDE.md applies. If the conversation grows long, finish the current chapter, commit, push, and tell the owner to say "lanjutkan" in a fresh chat (state lives in ops/engine.json).
 - Keep ops/decisions.md and ops/blocked.md short; the managing editor trims them at each audit.

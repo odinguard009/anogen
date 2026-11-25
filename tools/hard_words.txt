@@ -1,0 +1,73 @@
+# Words and idioms that are too hard for learner-level English (one per line; regex allowed after "re:"). Add more any time.
+nevertheless
+consequently
+ostensibly
+meticulous
+meticulously
+ephemeral
+palpable
+ubiquitous
+insidious
+reverberate
+tremulous
+juxtaposition
+ameliorate
+surreptitious
+surreptitiously
+incandescent
+sardonic
+laconic
+languid
+lugubrious
+obsequious
+perfunctory
+pernicious
+quixotic
+recalcitrant
+sanguine
+taciturn
+vestige
+vicissitude
+inexorable
+inexorably
+cacophony
+sepulchral
+imperious
+insouciant
+magnanimous
+ostentatious
+unctuous
+equanimity
+fastidious
+supercilious
+disquiet
+trepidation
+apprehension
+mellifluous
+peremptory
+punctilious
+erudite
+acquiesce
+countenance
+visage
+mien
+bespoke
+henceforth
+whereupon
+notwithstanding
+re:\bflights? of (?:stairs|steps)\b
+re:\bbreak the ice\b
+re:\bunder the weather\b
+re:\bpiece of cake\b
+re:\bspill the beans\b
+re:\bhit the (?:sack|hay)\b
+re:\bcost an arm\b
+re:\bbite the bullet\b
+re:\bcall it a day\b
+re:\bon the fence\b
+re:\bout of the blue\b
+re:\bonce in a blue moon\b
+re:\bthe elephant in the room\b
+re:\bbeat around the bush\b
+re:\bkeep an eye on\b
+re:\bat the end of the day\b

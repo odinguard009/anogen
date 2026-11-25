@@ -16,7 +16,7 @@ Ch 13: tense (Veil lamplighter kill; Witness replay of the door; Rochefort; plat
 Ch 14: comic (single scene; roof stakeout; warrant buried in the herb bed)
 Ch 15: calm (tail; Candlewick bakery; truce; Dragon "I promised someone")
 Ch 16: tense (Ladder duel; Verdict walls; Hinge; "Again. And this time try.")
-Ch 17: tense
+Ch 17: tense (Rule Nine; lanes; lose by a finger; Lysette bandage; Valerius threat)
 Ch 18: calm
 Ch 19: comic
 Ch 20: calm

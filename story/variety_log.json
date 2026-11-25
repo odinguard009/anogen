@@ -206,5 +206,18 @@
       "pacing_shape": "flat surface, tension underneath",
       "hook_type": "question left open"
     }
+  },
+  {
+    "chapter": 17,
+    "picks": {
+      "opening_type": "a document, notice or letter",
+      "scene_shape": "escape or pursuit",
+      "tension_type": "outmatched opponent",
+      "emotional_tone": "pride that costs something",
+      "comic_device": "a character failing at a small task",
+      "conflict_type": "political maneuver",
+      "pacing_shape": "slow build to a sharp spike",
+      "hook_type": "a promise or threat"
+    }
   }
 ]

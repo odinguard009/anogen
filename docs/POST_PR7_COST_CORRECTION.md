@@ -48,7 +48,7 @@ Defect: a text query returned matches sorted by chapter, not relevance. Fix: wit
 - CI: see section 8.
 
 ## 8. CI
-GitHub Actions workflow `tests` (job `tools`: test_tools.py, ctx_compare.py, policy_check.py) on draft PR https://github.com/odinguard009/anogen/pull/8 for commit dee8d1f: conclusion **success** (run https://github.com/odinguard009/anogen/actions/runs/45587023776). The PR is a draft opened only to trigger CI; it is not merged.
+GitHub Actions workflow `tests` (job `tools`: test_tools.py, ctx_compare.py, policy_check.py) on draft PR https://github.com/odinguard009/anogen/pull/8 for commit dee8d1f: conclusion **success** (run https://github.com/odinguard009/anogen/actions/runs/45587023776). A later run (after marking the PR ready) failed once on `ctx budget: low-priority section dropped whole`: the test used a 50-char margin but precheck name picks make pack size vary by ~150 chars between runs (measured 19,956-20,035). Margin raised to 500 (12/12 local repeats pass); the final CI result is in the merge note.
 
 ## 9. Remaining risks
 - No provider-reported usage exists, so real token or cost saving is unknown; all token figures are chars/4.

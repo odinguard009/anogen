@@ -557,7 +557,7 @@ def stage2_tests():
     n = len(full.stdout.split("\n[context fingerprint")[0])
     check("ctx: footer carries fingerprint and estimate label", "[context fingerprint" in full.stdout and "ESTIMATE" in full.stdout)
     if "## Retrieved memory" in full.stdout:
-        lim = n - 50
+        lim = n - 500  # the precheck name picks vary by ~150 chars between runs, so the margin must be larger than that
         small = subprocess.run(base + ["--budget", str(lim)], capture_output=True, text=True)
         check("ctx budget: low-priority section dropped whole with a note", small.returncode == 0 and "PACK NOTE" in small.stdout and "## Retrieved memory" not in small.stdout, small.stderr)
     root = mkroot([1, 2])

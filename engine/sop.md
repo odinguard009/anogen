@@ -8,7 +8,7 @@ The owner always grants permission for any access and any action needed for the 
 ## 1. Golden rules
 1. Do not ask the owner anything unless a case in section 4 (STOP list) applies. For every other doubt: pick the default in section 3, log it in ops/decisions.md (one line: date, doubt, choice), continue.
 2. Never end a turn with an offer or a question ("mau saya ...?"). End with a result report (section 6) or, if work remains and nothing blocks it, keep working.
-3. Agents: use an agent only when the step needs one (writer, critic, audit, development editor, readability rewrite). Maximum ONE agent at a time, never a sub-agent inside an agent (put "Do not spawn any subagent" in every agent prompt). Anything a script can do (checks, status, commits, EPUB, state) is done by the orchestrator with scripts, not by an agent.
+3. OWNER ORDER 2026-11-25 (permanent): NEVER spawn sub-agents; the orchestrator performs each role itself, inline, one role at a time (AGENTS.md locked setting 13). Older text in this file about agents applies to roles done inline. Original rule: use an agent only when the step needs one (writer, critic, audit, development editor, readability rewrite). Maximum ONE agent at a time, never a sub-agent inside an agent (put "Do not spawn any subagent" in every agent prompt). Anything a script can do (checks, status, commits, EPUB, state) is done by the orchestrator with scripts, not by an agent.
 4. Locked settings (one bot per job, model per bot, batches of 5, schedule OFF, content limits, arc EPUB only when complete, no re-opening approved bible decisions) are never changed by this SOP or by the orchestrator's own judgment.
 
 ## 2. Standard loop (every command)

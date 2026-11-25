@@ -35,7 +35,7 @@ Why: chapters 3-4 were still hard to follow although sentences averaged only 7 w
 - Aura, mana, Tenet, class/job and spell words follow story/bible/power-system.md exactly (one word, one meaning; no levels or ranks; a class/job reading is one rare italic line only its owner sees).
 - Tech details (guns, veinlines, bellwire, presses, engines) follow story/bible/tech.md; at most 2 new tech terms per chapter; a gun never decides a knight's fight on its own.
 - Every reveal follows story/bible/reveal-ladder.md: hint, doubt, evidence, confirm, in that order and with its gaps; never confirm early.
-- Awakening (Ondra) vocabulary follows power-system.md section 14. Its first appearance on the page needs the full first-use description and heavy earlier build-up; it never appears in a chapter without earlier hints on the ladder.
+- Awakening (Unbind) vocabulary follows power-system.md section 14. Its first appearance on the page needs the full first-use description and heavy earlier build-up; it never appears in a chapter without earlier hints on the ladder.
 
 ## SPECIAL ATTACK LABEL (owner's order 2026-11-25; permanent)
 - When a named signature attack (or a named form on its first or deciding use) lands, the narration shows its name as a bold label in square brackets: **[Latch]**. Put it at the moment the move lands, on its own short line or inside the action sentence.

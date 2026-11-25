@@ -51,7 +51,7 @@ Not yet on page: Stitch (Okoru), Mischief (Seraphine), the word "aura", spells c
 - Lampwick | ch 49
 - Resonance Bell assessment on page | arc 2 (yearly assessment)
 
-## Signature attacks and Ondra (labels: power-system.md section 13-14)
+## Signature attacks and Unbind (labels: power-system.md section 13-14)
 On the page in ch 1-25 (labels added by the patch list; description status):
 - [Latch] | Eden | ch 5 | described: yes | limit shown: yes (label to add)
 - [Sile] | Mirelle | ch 8 | described: partly (no look) | limit shown: no (label + look to add)
@@ -63,4 +63,4 @@ On the page in ch 1-25 (labels added by the patch list; description status):
 - [Hrak] | Ilsabet Rorke | ch 25 | described: partly (axe flash) | limit shown: no (label to add)
 - [Brunn] | Gorrath | ch 8 (unlabelled) | described: yes | limit shown: no (label from arc 2)
 Planned: [Tavu] ch 32, [Switcheroo] ch 35, [Osk] ch 44, [Citation] ch 45, [Ithe] ch 46, [Wyl] ch 46, [Grask] ch 48, [Lampwick] ch 49; later ones in power-system.md.
-Ondra (none on page; first: Lysette's Auda ch 141, Duke's Durn ch 193, Valerius's Esk ch 194, Clara's Ressa ch 226, Rowan's Tirra ch 230, Felix's Vant ch 238, Eden's Evrin ch 590).
+Unbind (none on page; first: Lysette's Auda ch 141, Duke's Durn ch 193, Valerius's Esk ch 194, Clara's Ressa ch 226, Rowan's Tirra ch 230, Felix's Vant ch 238, Eden's Evrin ch 590).

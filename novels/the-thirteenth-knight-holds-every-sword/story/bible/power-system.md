@@ -217,25 +217,25 @@ The registry cannot read beings it did not birth. Eden sees the Pillars' roles o
 | Belozerov | [Zhar] | cane-sword and a thread | a puppet's hand strikes for him | cuts his own years | ch 693 |
 
 ## 14. ONDRA: the awakening (rare peak state; not a rank)
-Name proposals: Ondra, Kaith, Uvar. Chosen: **Ondra** (say "ON-dra").
+Name history: first proposed "Ondra" (with Kaith, Uvar); the owner rejected it as too occult and asked for a plain, strong keyword in the style of TCG keywords (Manifest, Advent). Chosen 2026-11-25: **Unbind** (the act: "Unbind"; the state: "Unbound"; label **[Unbind: Form name]**, for example **[Unbind: Evrin]**). Form names (Evrin, Auda, Esk...) are still the old proposals and can be changed on request.
 What it is: for a few minutes, a person's Tenet may break the ONE limit it normally has, while its Law still holds. It is not more power. It is the same power without its usual limit, so a good matchup or terrain can still beat it.
 - TRIGGER: the owner's conviction is tested at a real cost, and they choose it again; then they speak their own middle name aloud. In Verandel middle names are secret, so the price begins at once: everyone in earshot now knows it. No anger power-ups, no last-second luck.
-- THE SIGN: every bell within earshot rings once by itself (the planet answers; mother.md). Dust and rain stop in the air around the person for one breath. Their aura becomes visible for the first time, as clear shimmer. Bystanders feel their own name in their mouth; animals lie down. The reading changes: one italic line with the Ondra's name.
+- THE SIGN: every bell within earshot rings once by itself (the planet answers; mother.md). Dust and rain stop in the air around the person for one breath. Their aura becomes visible for the first time, as clear shimmer. Bystanders feel their own name in their mouth; animals lie down. The reading changes: one italic line with the Unbind's name.
 - WHAT IT DOES: one clear idea per person (table below): one change in the body, the space or the weapon.
-- LIMITS: one to five minutes. Afterwards the Tenet is "hollow" (does not work) for one to three days. Each Ondra takes one small thing forever, tied to the conviction (a memory, a taste, the ability to say a certain lie). It cannot heal death, cannot undo the past, and does not stop slow and heavy blows the owner does not see.
-- WITH RAIMENTS: Tolls ring twice as fast. With signature attacks: a new attack may appear during an Ondra (labelled).
-- COUNTERS: a Choir's silence (the name cannot be spoken), waiting it out, terrain that its idea does not fit, another Ondra, and above all breaking the conviction: if the owner doubts it mid-way, it collapses.
-- LOAN vs ONDRA: answering a relic's knock with your middle name is spoken low, to the relic alone, and wakes nothing. An Ondra needs the name declared aloud as a vow to the world, after a real test. Only the second rings the bells.
+- LIMITS: one to five minutes. Afterwards the Tenet is "hollow" (does not work) for one to three days. Each Unbind takes one small thing forever, tied to the conviction (a memory, a taste, the ability to say a certain lie). It cannot heal death, cannot undo the past, and does not stop slow and heavy blows the owner does not see.
+- WITH RAIMENTS: Tolls ring twice as fast. With signature attacks: a new attack may appear during an Unbind (labelled).
+- COUNTERS: a Choir's silence (the name cannot be spoken), waiting it out, terrain that its idea does not fit, another Unbind, and above all breaking the conviction: if the owner doubts it mid-way, it collapses.
+- LOAN vs ONDRA: answering a relic's knock with your middle name is spoken low, to the relic alone, and wakes nothing. An Unbind needs the name declared aloud as a vow to the world, after a real test. Only the second rings the bells.
 - WHO CANNOT: Hushborn and Veils (the planet no longer reads them), Void-born beings (Pillars, Nihl), Valkyries. Grafted people can force a false one: no bells ring (hint ch 49).
 - RARITY: a handful per nation, a few hundred in the world. Most knights never awaken: the test must be real, and few will say their middle name before enemies.
-- SOCIAL: a public Ondra is news on the bellwire within the hour. The person's middle name is now public (relics can be lent to them; enemies can use the name). Nations count Ondra-holders like fortresses.
-- On the page: bold label **[Ondra name]** when it begins; first use gets the full first-use description and heavy earlier hints.
+- SOCIAL: a public Unbind is news on the bellwire within the hour. The person's middle name is now public (relics can be lent to them; enemies can use the name). Nations count Unbind-holders like fortresses.
+- On the page: bold label **[Unbind: Form name]** when it begins; first use gets the full first-use description and heavy earlier hints.
 
-| Person | Ondra | Idea (one sentence) | Conviction | Cost | First shown |
+| Person | Unbind | Idea (one sentence) | Conviction | Cost | First shown |
 |---|---|---|---|---|---|
 | Eden | Evrin | the Void wrap opens and the planet reads him whole: his doors no longer need an edge, and any door can lead to the Vault | "I am Eden, not a weapon; I choose to be seen" | the Refusal touches him while it lasts: a white streak of hair and a fever; it brings the Emperor's ending closer | ch 590 |
 | Lysette | Auda | a replay becomes solid: the past moment stands again where it happened and everyone can see and touch it | the truth must be seen, even when it hurts her | she loses that moment from her own memory | ch 141 |
-| Valerius | Esk | his rulings bind people, not only space ("You will not lift that sword") | law protects the weak, even against the crown | every ruling binds him too; each Ondra adds one lie he can never say | ch 194 |
+| Valerius | Esk | his rulings bind people, not only space ("You will not lift that sword") | law protects the weak, even against the crown | every ruling binds him too; each Unbind adds one lie he can never say | ch 194 |
 | Rowan | Tirra | a street becomes daylight at night: no Hushborn can stand in it | nobody gets left behind | he forgets one night of his life | ch 230 |
 | Felix | Vant | his allies hear the paths too; arrows follow a path around corners | "I stay, by choice" | deaf for a day; forgets one road home | ch 238 |
 | Seraphine | Rinn | anyone she has touched once can be swapped with anyone else in the hall | she laughs so others can breathe | she cannot lie while it lasts, and must answer any question asked | ch 330 |
@@ -245,4 +245,4 @@ What it is: for a few minutes, a person's Tenet may break the ONE limit it norma
 | Ilsabet Rorke | Ruun | the ground freezes into a field where nothing slides or falls | she fights fair, even for a wrong cause | her graft deepens | ch 285 |
 | Archduke Halberg | Kolv | his banner becomes a wall his soldiers cannot break from | Verandel must be great again | his men cannot retreat even when they should | ch 194 |
 | Count Belozerov | Sorn | his puppets fight with his own skill | the world killed the Empress; he will own it | cuts his own years | ch 693 |
-No Ondra: the Tailor, Nihl, the Pillars, Kell, Dragomira (her god power is a Throne, not an Ondra).
+No Unbind: the Tailor, Nihl, the Pillars, Kell, Dragomira (her god power is a Throne, not an Unbind).

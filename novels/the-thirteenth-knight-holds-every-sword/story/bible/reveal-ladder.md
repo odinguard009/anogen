@@ -81,8 +81,8 @@ Small twists (gap 3+; D and E to be placed at their arc's planning): Brandmeier 
 | Groundskeeper is a Veil | 31 | 36 | 41, 43 | 45 | planned |
 | Groundskeeper "mastermind" (misdirection) | 45 | - | - | 185 (false) | ok |
 
-## Ondra awakenings (power-system.md section 14; all big)
-| Person (Ondra) | H | D | E | C |
+## Unbind awakenings (power-system.md section 14; all big)
+| Person (Unbind) | H | D | E | C |
 |---|---|---|---|---|
 | Lysette (Auda) | 49 (her replay's dust hangs still for a breath) | 72 | 133 | 141 |
 | Duke Aldous (Durn) | 28 (a bell rings once as he laughs) | 85 | 133 | 193 |

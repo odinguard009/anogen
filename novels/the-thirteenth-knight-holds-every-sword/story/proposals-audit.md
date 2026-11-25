@@ -53,7 +53,7 @@ Auto-applied: banned.md (+caps: "eaten today" 1, "very" 8, "like a" 6, "nobody" 
 - 2026-11-25 owner order: gods.md "the Ten made worlds before worlds" -> deeper layer: the planet-mind Aiwa dreamed the Ten first; Myrrhen is her eldest; the Refusal is Aiwa's immune reaction (mother.md). No event changes.
 - 2026-11-25 owner order: Trail "sees the path" (mana.md, cast-combat-1.md) -> he hears and feels the path, as in ch 11 (canon follows the chapter; no patch).
 - 2026-11-25 owner order: forms named only (combat-style.md) -> technique vs signature attacks with **[Label]** (power-system.md 13); Eden's signatures: Lintel (25), Lampwick (49), Threshold (180).
-- 2026-11-25 owner order: no peak state -> Ondra awakenings (power-system.md 14).
+- 2026-11-25 owner order: no peak state -> Unbind awakenings (power-system.md 14).
 - 2026-11-25 owner order: Corentin reader reveal ch 38 (twists-1, arc-1) -> Black Order link ch 36, reader reveal ch 45; ch 4 and 10 patched (reveal-ladder.md).
 - 2026-11-25 owner order: Seraphine rescue told as a joke in ch 4/7/10 -> told plainly in ch 35; ch 4/7/10 softened.
 - 2026-11-25 owner order: Ea "short bright sword" that glows (ch 25) -> canon look (pale hand-and-a-half blade, does not shine); patch item 17.

@@ -2,7 +2,7 @@
 
 Two hours and forty minutes until the lanterns went out. I knew because the program said so.
 
-I had read it three times on the stairs, over the shoulder of a boy on the stairs, and he never saw me. *Eleventh bell: the lanterns are put out, one by one, for the last dance.* It was an old school custom, and it was pretty. The Ember's book had said something else: *Rowan, before the last dance.* A man who plans a kidnapping does not choose a night with lights. He chooses the one minute with none.
+I had read it three times on the stairs, over a boy's shoulder, and he never saw me. *Eleventh bell: the lanterns are put out, one by one, for the last dance.* It was an old school custom, and it was pretty. The Ember's book had said something else: *Rowan, before the last dance.* A man who plans a kidnapping does not choose a night with lights. He chooses the one minute with none.
 
 So I was on the roof. I had promised Ysolde I would stay away from the Ball, and the roof was not the Ball. It was fifteen feet above it.
 
@@ -18,11 +18,11 @@ I had walked the lattice twice already. Every beam had a shadow, and every shado
 
 It hung over the middle of the dance floor. It was a black iron ring as wide as a cart wheel, and it held thirty candles. Its chain went up through a hole in the roof right beside my boots.
 
-That was the preparation. It was not much. I wore my school uniform with the black armor waiting inside my own shadow, and I sat in the cold with my knees up, listening to a band of nine people play a waltz through a floor of glass.
+That was the preparation. It was not much. I wore my school uniform, and the black armor waited inside my own shadow. I sat in the cold with my knees up and listened to a band of nine people play a waltz through a floor of glass.
 
 I was alone, and it was fine, because I had spent a lot of nights alone on this roof.
 
-The band played one slow song, and then another. I saw Seraphine below, in pale green, laughing with her chin up, with Felix trying to look like a man who had not been dancing with her for twenty minutes. I saw Valerius at the edge of the room, straight as a post, with a glass in his hand that he did not drink. I saw Rowan, bright in a blue coat, counting under his breath. He was holding Clara's hand as if it were a very full cup.
+The band played one slow song, and then another. I saw Seraphine below in pale green, laughing with her chin up. Felix was beside her, trying to look like a man who had not been dancing with her for twenty minutes. I saw Valerius at the edge of the room, straight as a post, with a glass in his hand that he did not drink. I saw Rowan, bright in a blue coat, counting under his breath. He was holding Clara's hand as if it were a very full cup.
 
 Just after the eighth bell a head came up the iron ladder at the end of the roof.
 
@@ -116,9 +116,7 @@ We stood there, breathing. Below us no one looked up, because the band was loud 
 
 "I am calm now."
 
-"You were not calm a moment ago."
-
-"You shouted," said Lysette slowly.
+"You were not calm a moment ago." She said the next part slowly. "You shouted."
 
 "Yes."
 
@@ -172,13 +170,13 @@ My left hand was white with Frost to the wrist.
 
 "I think it is on the floor." I stood in front of the pane, so she could not see the hole in the room. "I think the dark made it hard to see."
 
-Then the screams started, thin at first and then wild. The doors of the atrium slammed from the outside, one, two, three, six. A heavy bar dropped across the main entrance. Gray lamps flared along the walls, and in their light I saw forty men and women in ash coats come out of the side halls with crossbows and short swords. The Golden Seal guards at the doors were already down, tied and gagged. Someone had known where to put them.
+Then the screams started, thin at first and then wild. The doors of the atrium slammed from the outside, one, two, three, six. A heavy bar dropped across the main entrance. Gray lamps flared along the walls. In their light I saw twenty men and women in ash coats come out of the side halls with crossbows and short swords. The Golden Seal guards at the doors were already down, tied and gagged. Someone had known where to put them.
 
 Seraphine stood in the middle of the floor, with her hand shaking and nothing falling on her. Felix had his arm around her. A voice rose over the noise, a big, clear voice, a man's.
 
 "Everyone sit! Everyone down, and no one bleeds!"
 
-I did not know that voice, but I knew the next one.
+I did not know that voice.
 
 A tall Ember, with a gray hand on his sword, stepped into the middle of the room and turned his head slowly, looking at every face. He shouted up into the iron.
 

@@ -77,3 +77,6 @@
 - words: 2236
 - scores: tension 4, surprise 3, emotion 3, battle_clarity 4, voice 3, freshness 3
 - quota_note: 
+### critic pass ch 23 - scores 3,4,3,4,4,4 - fixed day count ("Ball is in three days" vs paper's "night before = tomorrow"; now two days); split 2 long sentences; cut 3 stacked similes (flags, laundry, pan); "atrium" -> "glass hall" in Ysolde scene; feather plant OK
+### critic pass ch 24 - scores 4,4,4,3,4,3 - attackers 40 -> 20 (ch 25 has 12 bows + 6 grafted + Crown); fixed two Lysette lines in a row; cut "I knew the next one" (unknown speaker); split 3 long sentences; removed repeated "stairs"
+### critic pass ch 25 - scores 4,3,3,4,3,3 - canon fixes: Ilsabet now giant with ice-axe and Ashmail grown over skin (armor.md, ashen-crowns.md) instead of thin swordswoman; invented silence aura replaced by canon cold aura; graft veins no longer "fading" (Clara removes graft at 482); Lintel now lance->door-shield + Candor (combat-style.md); Mirelle no invented armor; "Forty guests ran ... and out" vs last hostages fixed; Merrow's "guard" -> Ember; name budget 17 -> 16. Mirelle (secret role, unseen) fits Stage I; Ilsabet spared = outline; promised "one true answer" logged in proposals-audit

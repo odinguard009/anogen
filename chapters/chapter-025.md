@@ -12,7 +12,7 @@ Lysette had my wrist in both hands. Her nails were in it.
 
 "A list."
 
-"The Crowns have lists of everything. I am sure I am on one."
+"Men like these have lists of everything. I am sure I am on one."
 
 "That is not an answer."
 
@@ -64,7 +64,7 @@ Gorrath answered from a dark corner, in his own deep voice. "I will say somethin
 
 "Do not practice," I said. "Just open them."
 
-Mirelle came down out of the dark beside me in her own black plate, thin and long-armed, with one narrow blade. She did not say a word. She never does. She pointed twice, once at the bows and once at the lattice above them, and then she was gone along the iron like a drop of oil.
+Mirelle came down out of the dark beside me, all in black, thin and long-armed, with one narrow blade. She did not say a word. She never does. She pointed twice, once at the bows and once at the lattice above them, and then she was gone along the iron like a drop of oil.
 
 I looked down through the pane again. The moon had made a grid of bars across the floor, dark lines from the iron frame of the roof. Every Ember with a crossbow stood on one. They had not planned it. Men just stand where there is room.
 
@@ -86,13 +86,13 @@ Mirelle's work. No one saw her. Twelve Embers looked down at their dead bows and
 
 Then the door by the north wall rattled, and Vesk had the bar off in a blink, with Gorrath outside shouting in a very large, very bad voice, "Run! Everyone! Go! Please do not step on me!"
 
-The crowd broke. Forty guests ran for the open doors and out, with Gorrath's huge arms scooping them past like a hedge. A man in a brown coat fell and was pulled up by a woman in a blue dress, and the two of them ran together with their hands clasped, screaming.
+The crowd broke. The guests ran for the open doors, and most of them got out, with Gorrath's huge arms scooping them past like a hedge. A man in a brown coat fell, and a woman in a blue dress pulled him up. The two of them ran together, holding hands and screaming.
 
 That left the middle of the floor, and the man in the center of it.
 
 I broke the pane at my feet with the heel of my boot.
 
-I dropped through the roof into the light. Glass rained down around me, as bright as snow in the gray lamps, and I came down in a crouch on the dance floor on top of a hundred pieces of it. I did not make a sound. This armor never does. I stood up, and the glass under my boots made no noise either, though it must have been crunching a hundred ways. It was like walking in a dream.
+I dropped through the roof into the light. Glass rained down around me, as bright as snow in the gray lamps. I came down in a crouch on the dance floor, on top of a hundred pieces of it. I did not make a sound. This armor never does. I stood up, and the glass under my boots made no noise either, though it must have been crunching a hundred ways. It was like walking in a dream.
 
 I started across.
 
@@ -122,7 +122,7 @@ Near the far wall, hung with a long old wall cloth, a gray-haired man stood a li
 
 "Ostrevaal," he said, quietly, to no one. "They never got the dragon's eye right. Such a pity."
 
-"Sir, kneel," said a frightened guard beside him.
+"Sir, kneel," said a frightened Ember beside him.
 
 "In a moment, young man," said Merrow. "I am looking."
 
@@ -132,15 +132,15 @@ I did not stop. I put it somewhere in my head and marked it, and it sat there li
 
 The woman waited for me in the middle of the floor.
 
-She was tall and thin, with a pointed chin and gray-brown hair cropped to her jaw. She wore a long coat of pale metal plates, the color of a window in winter. Veins of frost ran through the plates like cracks, and they glowed faintly along the joints. Where she stood, the room had no sound at all. It was as if a hand had closed around her.
+She was a giant, a full head taller than me and nearly as wide as a door, with a pointed chin and gray-brown hair cropped to her jaw. Pale gray plates covered her arms and chest, the color of a window in winter. They did not sit on her like armor. They grew out of her skin. Veins of frost ran through them and glowed faintly along the joints. The air around her was so cold that my breath turned white inside the helm.
 
-"I am Ilsabet Rorke, Crown of Kaldmark," she said. I saw her mouth move, and I did not hear a word, but I could read it. "You are not the one I called for."
+"I am Ilsabet Rorke, Crown of Kaldmark," she said. Her voice was low and calm, and her breath came out as white smoke. "You are not the one I called for."
 
 "I was busy."
 
-I could not hear myself either, and I lost a half second to it. I had not known that I could be silent inside her silence.
+Her cold came in through my plates, and my right hand began to go numb too. That was new, and I did not like it.
 
-She smiled, a thin, bitter smile. She raised a long, plain sword in both hands, and frost raced up the blade.
+She smiled, a thin, bitter smile. She lifted a heavy ice-axe in both hands, and frost raced up the blade.
 
 "Where are the rest of you?" she asked. "The Black Order sends a hundred."
 
@@ -148,31 +148,31 @@ She smiled, a thin, bitter smile. She raised a long, plain sword in both hands, 
 
 She came in fast.
 
-I did what I always do. I turned side-on, left foot back, with the lance low at my hip, and I let her come. Her first cut hit the knocker ring on my shield and slid. Her second cut went high, and I took it again. She was good, quick on her feet and angry, and she hit like someone who had practiced alone in an empty room for years. Each blow chilled my arm a little more. The Frost that had started in my hand climbed.
+I did what I always do. I turned side-on, left foot back, with the lance low at my hip, and I let her come. The lance closed into the door-shield in one beat, and her first cut hit the knocker ring and slid. Her second cut went high, and I took it again. She was good, quick on her feet and angry, and she hit like someone who had practiced alone in an empty room for years. Each blow chilled my arm a little more. The Frost that had started in my hand climbed.
 
-"You do not strike back," she said. I read it off her lips. "Are you afraid?"
+"You do not strike back," she said. "Are you afraid?"
 
-"No," I said, and she read that off mine. "I am watching."
+"No," I said. "I am watching."
 
 "For what?"
 
 "Your shoulder."
 
-I did not need to. I had already seen how she moved. Her pale armor pulled her swing high every time, because the veins at her shoulder tightened when she rose. Wherever the glow was strongest, the plate was weakest, and her swing always went through that place.
+I had already seen what I needed. Her pale plates pulled her swing high every time, because the veins at her shoulder tightened when she rose. Wherever the glow was strongest, the plate was weakest, and her swing always went through that place.
 
 She went for my head.
 
-I stopped waiting. I lifted the shield over my head, flat, like a door over a doorway, and her blade came down on it with a flash and a hard, ringing bite that I felt in my teeth. Under the shield, my right hand was already moving. my short bright sword drew across the glowing vein at her collar.
+I stopped waiting. I lifted the shield over my head, flat, like a door over a doorway. Her axe came down on it with a flash and a hard, ringing bite that I felt in my teeth. Under the shield, my right hand was already moving. Candor, my short bright sword, drew across the glowing vein at her collar.
 
 It was a clean cut. No wasted turn of the wrist. This was the form I call the Lintel, and it ends a fight in one motion.
 
-The frost went out of her plates. They cracked with a sound like a pond giving way, and the sound came all at once, loud as a slammed gate, because the silence broke with them. I heard the whole hall. I heard the Embers drop their weapons. I heard my own breath in the helm.
+The frost went out of her plates. They cracked like ice on a pond, loud as a slammed gate, and the cold in the air went with them. I heard the Embers drop their weapons. I heard my own breath in the helm.
 
-Ilsabet went to her knees. Without the plates she was a small, pale woman of twenty-two or so, in a torn gray shirt. Her arms were covered in gray veins. They were fading, and she did not know it.
+Ilsabet went to her knees. With her plates cracked and dull, she looked younger, a big pale woman of twenty-two or so in a torn gray shirt. The gray veins on her arms had gone dark and quiet, but they were still there.
 
 "Do it," she said. It was her real voice now, rough and low. "Do it. Someone will, and they will not have your manners."
 
-I held my sword at her throat, and the blade made a little white glow on her face.
+I held Candor at her throat, and the blade made a little white glow on her face.
 
 "No," I said.
 
@@ -190,7 +190,7 @@ The great doors burst open. The Golden Seal came in with lamps and swords, forty
 
 "We are down!" shouted a guest.
 
-"Not you! The others!" In the noise, the surviving Embers dropped their coats and let themselves be tied.
+"Not you! The others!" In the noise, the last Embers held out their hands and let themselves be tied.
 
 Ilsabet looked up at me, and for a moment she was just frightened.
 

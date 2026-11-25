@@ -12,7 +12,7 @@ Tallow Row was a street of low sheds in the lower city, and it stank. It smelled
 
 "And you are going in anyway."
 
-"The paper is inside, and the Ball is in three days." I looked at the lanterns. "They expect one man, so they will watch for one man."
+"The paper is inside, and the Ball is in two days." I looked at the lanterns. "They expect one man, so they will watch for one man."
 
 Gorrath's voice came out of the wall behind us, low and slow, like a cart on a wooden bridge. "You always say it like it is a plan."
 
@@ -28,9 +28,9 @@ My arms felt heavier, and my steps felt lighter. The rain hit the plates and ran
 
 I walked out of the alley and down the middle of the street.
 
-No one shouted. A cart horse in a yard lifted its head and went back to its hay, and I opened the side gate of the tannery and went in as if I owned it.
+No one shouted. A cart horse in a yard lifted its head and went back to its hay. I opened the side gate of the tannery and walked in as if I owned it.
 
-The main shed was long and dark, with a stone floor wet from the pits. Hides hung from poles over my head, hundreds of them, like gray flags. Between the pits stood a table with one lamp. The lamp went out when I took my third step.
+The main shed was long and dark, with a stone floor wet from the pits. Hides hung from poles over my head, hundreds of them, gray and stiff. Between the pits stood a table with one lamp. The lamp went out when I took my third step.
 
 The door shut behind me. Bolts slid. Shutters banged along both walls, and then came the click of crossbows being raised.
 
@@ -46,11 +46,11 @@ I stood still and counted by sound. Four men were above me on the rafters, three
 
 "I counted."
 
-That was not the right answer, and I knew it as I said it. A bolt hit the stone beside my foot and rang. Another struck my shoulder plate and bounced away with a flat clack, like a hammer on a pan, and the hit pushed me half a step. It did not hurt, but the sound made my ears ring.
+That was not the right answer, and I knew it as I said it. A bolt hit the stone beside my foot and rang. Another struck my shoulder plate and bounced away with a flat clack, and the hit pushed me half a step. It did not hurt, but the sound made my ears ring.
 
 I ran.
 
-The floor was slick with tallow, so I did not run well. I went left between two pits, and a short black lance came out of my shadow into my hand because I needed it. A bolt hit the hides above me, and a whole row of them fell like wet laundry. One landed on the man behind the pits, and he yelled and sat down in a bucket.
+The floor was slick with tallow, so I did not run well. I went left between two pits, and a short black lance came out of my shadow into my hand because I needed it. A bolt hit the hides above me, and a whole row of them fell down. One landed on the man behind the pits, and he yelled and sat down in a bucket.
 
 That was not part of the plan, but I was glad of it anyway.
 
@@ -138,7 +138,7 @@ I did not have an answer, and that bothered me more than ten crossbows had. I fo
 
 Then I took off the left gauntlet to warm my hand.
 
-It was hard work, because my fingers would not close. The plate came away from the wrist, and I turned it to the lamp. Inside the cuff, where the plate meets the palm, there was a mark. It was a tiny feather stamped into the metal, no bigger than a grain of rice, and the lines were so fine that I had to tilt it twice to see.
+It was hard work, because my fingers would not close. The plate came away from the wrist, and I turned it to the lamp. Inside the cuff, where the plate meets the palm, there was a mark. It was a tiny feather stamped into the metal, no bigger than a grain of rice. The lines were so fine that I had to tilt it twice to see them.
 
 I had worn this armor every week for years, and I had never seen that mark.
 
@@ -168,7 +168,7 @@ I handed her the paper. She read it in the time it took me to climb up.
 
 "That is what Vesk said. I do not think they are careless."
 
-"They are ten men in a tannery who surrendered to a mask." She folded the paper and set it on her knee. "I will double the Golden Seal at the glass atrium. Tomorrow night, and the night of the Ball. I will put two more on the Tallis boy and the princess. You will do nothing."
+"They are ten men in a tannery who surrendered to a mask." She folded the paper and set it on her knee. "I will double the Golden Seal at the glass hall. Tomorrow night, and the night of the Ball. I will put two more on the Tallis boy and the princess. You will do nothing."
 
 "Nothing?"
 
@@ -178,7 +178,7 @@ It did not shake. I held it still on my knee.
 
 "The Black Order has been seen at two places this week," she said. "The Crown is learning your shape. If you are at the Ball, they will learn it again, in front of five hundred people. I want you in your bed."
 
-I thought about the paper, and the wrong night, and Rowan humming the waltz off-key. I thought about the roof above the atrium, and the green glass of it, and a girl who had decided to go alone.
+I thought about the paper, and the wrong night, and Rowan humming the waltz off-key. I thought about the roof above the glass hall, and the green panes of it, and a girl who had decided to go alone.
 
 "Understood," I said.
 

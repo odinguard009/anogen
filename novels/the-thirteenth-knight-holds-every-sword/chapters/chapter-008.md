@@ -82,7 +82,7 @@ Then he came forward, quickly, to the iron press by the wall.
 
 He set down his lamp. He opened the bag. Out of it, with a careful hand, he took a round glass core, the kind that lives inside a drill-warden's chest, and a small tin. He pried the lid off the tin. Inside lay a pile of fine grey dust.
 
-I saw it clearly in the yellow light. I knew it at once, and my mouth went dry.
+I saw it clearly in the yellow light. I knew it at once. I noted that my mouth had gone dry.
 
 He was about to pack a second core.
 
@@ -94,11 +94,11 @@ A small black rectangle opened in the dark, no bigger than a book. It hung in th
 
 A long thin blade came out of it.
 
-It came without sound, straight and fast, from a door that was only a hand's width wide and a whole room away. It passed through the dark and the lamplight and went into the wooden post behind the man's shoulder, exactly where his throat had been one second before. He had flinched, and I could not say why. Some animal part of him had felt it coming.
+It came without sound, straight and fast, from a door that was only a hand's width wide and a whole room away. It passed through the dark and the lamplight and went through the sleeve of his long coat and into the wooden post behind him, a finger's width from his arm. I had asked for exactly that. A man who is dead cannot say who sent him.
 
 **[Sile]**
 
-The blade hung quivering in the post. The man stood frozen, with his back pressed against the wood, and a lock of his hair floated down, cut clean.
+The blade hung quivering in the post. The man stood pinned by his own sleeve, with his back pressed against the wood, and his hat tilted and fell.
 
 Mirelle stood at the far end of the room, hand outstretched, as still as a statue. She had not stepped into the light. Her sword reached the whole length of the workshop through a door I had opened, and then it drew back as silently as it had come.
 
@@ -122,7 +122,7 @@ Nothing.
 
 "This is the last time I ask politely."
 
-The man did something I did not expect. He laughed, a short, soft, tired laugh, and he threw the lamp.
+The man did something I did not expect. He laughed, a short, soft, tired laugh. Then he ripped his arm out of the sleeve, left it hanging on the blade, and threw the lamp.
 
 It hit the floor and burst. Oil ran across the stone in a bright line. The whole room went orange and red, and every shadow in it leapt, and Vesk hissed, and Gorrath took one step forward with the shield. The man ran for the other door, a small iron hatch in the wall behind the press, and I heard him go up a ladder, fast, in the dark.
 
@@ -148,11 +148,11 @@ He stood on it. He put one great boot down onto the burning oil and set the edge
 
 "Mirelle," I said. "Your throw. Did you touch him?"
 
-She shook her head once. Then she held up two fingers, and tapped her own throat.
+She shook her head once. Then she held up one finger and tapped her own sleeve.
 
-"He knew it was coming," I said. "Yes. I saw that too."
+"Only the cloth," I said. "Good. That was the plan."
 
-"Then he has met a blade before," said Vesk, from the wall. "Or he has met you."
+"Then he wanted to be pinned," said Vesk, from the wall. "Or he did not care. I do not like either."
 
 "Check the press. Quickly. The moon is nearly gone."
 

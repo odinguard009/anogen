@@ -2,7 +2,7 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [open] War dream quiets when Lysette cries | planted: ch 1, 26 | due: ch 200-205
 - [open] Handkerchief "to wash" | planted: ch 1 | due: ch 140, 175, 600
 - [open] Roof garden green out of season | planted: ch 1 | due: ch 575-580
-- [open] Hairpin in locked door (Morrowpin) | planted: ch 2 | due: ch 172-176, 197
+- [open] Hairpin in locked door (Ynde) | planted: ch 2 | due: ch 172-176, 197
 - [open] Veil: "bottom of the world"; Candor hums | planted: ch 3 | due: ch 48-50, 176
 - [open] Ledger = Ball guest list (41 lanterns, Rowan no.1); Embers want Rowan alive on the night of lights | planted: ch 3, 18 | due: ch 24-26
 - [open] Bell: faint fourth tone | planted: ch 3 | due: ch 420-425
@@ -32,6 +32,6 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [open] Seraphine takes post beside Eden | planted: ch 35 | due: ch 145
 - [open] Rowan: why hate me | planted: ch 39 | due: ch 128-132
 - [open] Groundskeeper Veil decoy | planted: ch 45 | due: ch 185
-- [open] Feather in Wardenshell; Strent first | planted: ch 47-48 | due: ch 175; 99, 185
+- [open] Feather in Thessa; Strent first | planted: ch 47-48 | due: ch 175; 99, 185
 - [open] Witness: light where Eden stood; "Liora's boy" | planted: ch 50 | due: ch 51-55, 140
 - [open] Okoru: "they never test the Teeth" | planted: ch 60 | due: ch 285

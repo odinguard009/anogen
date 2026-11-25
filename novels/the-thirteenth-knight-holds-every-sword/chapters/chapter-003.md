@@ -60,9 +60,9 @@ My power is doors, and a door needs an edge, a hard line where light stops and d
 
 I had spent three nights finding the few I could use. The best one was under the dye-seller's canvas roof, one strip of honest black right over an iron hatch. The hatch was rusted shut, and nine feet under it was a cellar full of dye barrels.
 
-At the ninth bell I was on the roof tiles above the chestnut stall. Smoke from the roasting pans stung my nose. I let the Mantle come.
+At the ninth bell I was on the roof tiles above the chestnut stall. Smoke from the roasting pans stung my nose. I let Umra come.
 
-The Mantle is black armor, and it rises out of my shadow like water filling a footprint. First come the boots, cold on my feet, then the legs and the chest, plate by plate, closing from the ground up. Each piece is cold for one heartbeat and then warm like my own skin. The last piece is the helm, smooth and without a face, with only a thin eye slit sewn shut by one white thread. The armor is light as felt and almost silent, but the cold stays deep behind my ribs.
+Umra is black armor, and it rises out of my shadow like water filling a footprint. First come the boots, cold on my feet, then the legs and the chest, plate by plate, closing from the ground up. Each piece is cold for one heartbeat and then warm like my own skin. The last piece is the helm, smooth and without a face, with only a thin eye slit sewn shut by one white thread. The armor is light as felt and almost silent, but the cold stays deep behind my ribs.
 
 "Cold again?" said a small voice from the dark under the chimney. "Your teeth say so."
 
@@ -120,7 +120,7 @@ Shadows breathe, though you do not notice because you do not look. They grow a h
 
 "I see."
 
-He turned his head and looked straight at my roof, though he should not have been able to see me, because the Mantle sits in the dark like a stone in a pond. But he looked, and his friendly face did not change at all. He dropped one pear and ran.
+He turned his head and looked straight at my roof, though he should not have been able to see me, because Umra sits in the dark like a stone in a pond. But he looked, and his friendly face did not change at all. He dropped one pear and ran.
 
 * * *
 
@@ -250,7 +250,7 @@ Ysolde was waiting in the lane with her coat on. She looked at the soot on my gl
 
 "Good. Nervous men make mistakes."
 
-The Mantle had already sunk back into my shadow, though I could still feel its cold behind my ribs. She held out her hand for the coat. Before I gave it over, I took the clerk's book out of the inside pocket, because she would have done the same.
+Umra had already sunk back into my shadow, though I could still feel its cold behind my ribs. She held out her hand for the coat. Before I gave it over, I took the clerk's book out of the inside pocket, because she would have done the same.
 
 "Anything else?" Ysolde asked.
 

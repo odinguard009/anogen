@@ -26,7 +26,7 @@ It looked like a dye-works, and it smelled like one, of wet wool and salt and a 
 
 "Your mask is doing the thing. It looks like a closed door that is thinking."
 
-I let that go. Tonight I wore only the hood and mask of the Mantle, my black armor, because full plate would ring on every beam. It was the face of the Black Order, a black cloth with nothing on it. I had put it on four days before the Ball, under the roof of the dye-works in the lower city. Ysolde's note had been short.
+I let that go. Tonight I wore only the hood and mask of Umra, my black armor, because full plate would ring on every beam. It was the face of the Black Order, a black cloth with nothing on it. I had put it on four days before the Ball, under the roof of the dye-works in the lower city. Ysolde's note had been short.
 
 *Tannery group moved. Lower city, dye-works, east of the bell market. Break it before the Ball. No kills.*
 
@@ -100,7 +100,7 @@ It was the wrong thing to say, and the right one. The Cinders moved fast, and th
 
 I dropped from the rafter into the dark behind the red vat.
 
-My boots made no sound, and the Mantle's hood was cool against my forehead. Somewhere out in the yard I could hear Mirelle's silence. It is a sound, if you have lived with it long enough. She would be on the cart, counting every head, and then she would pass them to Ysolde's wagon at the corner. The eleven kids would go to a church school in the upper town, where a woman would take them and ask them nothing.
+My boots made no sound, and Umra's hood was cool against my forehead. Somewhere out in the yard I could hear Mirelle's silence. It is a sound, if you have lived with it long enough. She would be on the cart, counting every head, and then she would pass them to Ysolde's wagon at the corner. The eleven kids would go to a church school in the upper town, where a woman would take them and ask them nothing.
 
 That left four men.
 

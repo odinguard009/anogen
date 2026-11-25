@@ -23,7 +23,7 @@
 - Ch 23: wrong-night plan; feather stamp inside Eden's left gauntlet.
 - Ch 18-20: ledger = Ball guest list (41); Merrow asked which hall. Lance Nine owes 412 crowns.
 
-- Ch 24-25: Ball. Embers seized the atrium; Lysette sent for the Golden Seal; Eden (Mantle; left arm Frost-white to elbow) with Mirelle, Vesk, Gorrath freed 40 hostages unseen; walked the glass, Seraphine's hand stopped shaking; beat and spared Ilsabet Rorke (Crown of Kaldmark, pale armor; "a man with a kind voice" gave it); Merrow admired the Ostrevaal cloth; Valerius (arm cut) looked straight at him. Lysette heard "Wren" called; Eden owes her ONE true answer tomorrow.
+- Ch 24-25: Ball. Embers seized the atrium; Lysette sent for the Golden Seal; Eden (Umra; left arm Frost-white to elbow) with Mirelle, Vesk, Gorrath freed 40 hostages unseen; walked the glass, Seraphine's hand stopped shaking; beat and spared Ilsabet Rorke (Crown of Kaldmark, pale armor; "a man with a kind voice" gave it); Merrow admired the Ostrevaal cloth; Valerius (arm cut) looked straight at him. Lysette heard "Wren" called; Eden owes her ONE true answer tomorrow.
 
 ## World now
 - Ashen Crowns bombed a tax office; Golden Seal (Rochefort) blames the Black Order.

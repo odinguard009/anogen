@@ -37,7 +37,7 @@
 26. Vehra and Valerius | 16 (Verdict) | 120, 160, 200, 250, 330, 380, 420, 460, 500, 530 | 545; mastered 600; bound 793 | ok
 27. Nihl's test | 390 | 398, 430, 480 | 515 | ok
 28. Candor's refusal | 260 | 280, 300, 315 | 330 | ok
-29. Felix lost at sea | 382 | 385, 390 (Wardenshell keeps returning to the shore) | 397 | ok
+29. Felix lost at sea | 382 | 385, 390 (Thessa keeps returning to the shore) | 397 | ok
 30. Lament's fall and the titans | 598 | 601 | 650 | ok
 31. Belozerov and the Ledger | 106 | 310, 530, 541, 600, 640 | 655-700 | ok
 32. Gorrath asleep on the Void road | 744 | 760 snoring heard through the road, 775 | 790 | ok

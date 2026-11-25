@@ -19,8 +19,8 @@
 17. Clara was replaced by a Veil on patrol | plants: 228 (she forgets Rowan's nickname), 240 (cat avoids her), 255 | war trauma | ch 262
 18. The front stalls before Verandel on purpose: Kaurveth wants the essence intact | plants: 20 (map), 215, 240 | the Wall is just that strong | ch 285
 19. The Void Host the world fears sleeps inside Eden | plants: 20, 145 (Second legion's breath), 260 | Verandel hides a secret army somewhere | ch 290
-20. Eden's black armor is not the Door's Faceless Mantle but Aster, his mother's sealed masterwork | plants: 23 (feather inside the left gauntlet), 47 (Felix sees the same feather in Wardenshell), 120 (the armor is warm when Lysette touches it) | misdirection: all Black Order armor is Door-made | ch 175
+20. Eden's black armor is not the Door's Umra but Aster, his mother's sealed masterwork | plants: 23 (feather inside the left gauntlet), 47 (Felix sees the same feather in Thessa), 120 (the armor is warm when Lysette touches it) | misdirection: all Black Order armor is Door-made | ch 175
 21. Candor chose him because Liora re-forged it and asked it to | plants: 3, 66 (Candor hums the lullaby's first note), 150 | it chose him for his honesty alone | ch 176
 22. Liora was the greatest smith alive; her arms let Theodric and Aldous match the Emperor | plants: 86 (Duke's armor never scratched), 130, 164 | they were simply great knights | ch 170
 23. The comic Duke is overwhelming | plants: 28, 85 (in disguise he catches a thrown knife without looking), 133 | a loving buffoon | ch 193
-24. The Duke weeps inside Vowsilver after every battle | plants: 30, 164 (damp padding), 200 | he is simply cheerful | ch 251
+24. The Duke weeps inside Sevar after every battle | plants: 30, 164 (damp padding), 200 | he is simply cheerful | ch 251

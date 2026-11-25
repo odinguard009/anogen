@@ -13,17 +13,17 @@
 - Her works do not Toll and never Keep their wearers: she made them to keep people alive, not to keep them. Their cost is the stored light (and the Keeps that go with it).
 
 ## Named works (appearance)
-1. **Aster** (Eden's armor; see armor.md). Forged before he was born to grow with him; sealed black by her Keeping at her death, so it looks like the Faceless Mantle. Evolves in stages (175, 199, 400, 446, 590, 795). Keeps hold messages to Eden.
-2. **Vowsilver** (Duke Aldous's armor). Silver plate, lake-blue enamel, feather veins. Amplifies his Tenet Sentence. Holds Keeps of her voice for him alone. Showpiece ch 193-194.
-3. **Patience** and **Kingsrest** (King Theodric's sword and mail). A plain grey sword that grows heavier for whoever attacks its bearer; mail that never rusts. Seen ch 345 when the king refuses to hand Eden over.
-4. **Wingwake**: her own Valkyrie plate, forged in Heaven Gate. Found ch 425; worn by Lysette ch 446.
+1. **Aster** (Eden's armor; see armor.md). Forged before he was born to grow with him; sealed black by her Keeping at her death, so it looks like Umra. Evolves in stages (175, 199, 400, 446, 590, 795). Keeps hold messages to Eden.
+2. **Sevar** (Duke Aldous's armor). Silver plate, lake-blue enamel, feather veins. Amplifies his Tenet Sentence. Holds Keeps of her voice for him alone. Showpiece ch 193-194.
+3. **Tamu** and **Oru** (King Theodric's sword and mail). A plain grey sword that grows heavier for whoever attacks its bearer; mail that never rusts. Seen ch 345 when the king refuses to hand Eden over.
+4. **Eyra**: her own Valkyrie plate, forged in Heaven Gate. Found ch 425; worn by Lysette ch 446.
 5. **Candor**: she re-forged its broken blade before Eden was born and asked it to choose her son (reveal ch 176).
-6. **Wardenshell** and **Morrowpin**: Vault relics she mended; her feather mark inside (Felix notices it ch 47; nobody thinks about it).
+6. **Thessa** and **Ynde**: Vault relics she mended; her feather mark inside (Felix notices it ch 47; nobody thinks about it).
 7. **The Glasshouse Forge**: her hidden forge beneath the Silverfell glasshouse where she died. Found ch 176. Inside: tools still warm with Keeping, an unfinished sword ("Last Light", finished by Kaelthos and Han, ch 575), and two plain rings in a box labelled "Not yet. For whoever he loves." Payoff: proposal ch 600.
-8. **Letters**: the letter Ysolde keeps (155); the Keeps inside Aster and Vowsilver.
+8. **Letters**: the letter Ysolde keeps (155); the Keeps inside Aster and Sevar.
 
 ## Her death, reconciled
-She sealed her wings for 21 years to slow the Refusal; hosting Sepiroth and making the Mending's last repairs cost her more. At Eden's 10th birthday-gift night she unsealed her wings to fight the Tailor, sealed Eden (Gate, Door, memory, and Aster), and the Refusal took her. Sepiroth passed to Eden. Vowsilver was hanging in the glasshouse; the Duke's left gauntlet still holds the last Keep she made that night.
+She sealed her wings for 21 years to slow the Refusal; hosting Sepiroth and making the Mending's last repairs cost her more. At Eden's 10th birthday-gift night she unsealed her wings to fight the Tailor, sealed Eden (Gate, Door, memory, and Aster), and the Refusal took her. Sepiroth passed to Eden. Sevar was hanging in the glasshouse; the Duke's left gauntlet still holds the last Keep she made that night.
 
 ## Aster's messages (Keeps)
 - 176 her humming, the first time the helm opens.
@@ -31,4 +31,4 @@ She sealed her wings for 21 years to slow the Refusal; hosting Sepiroth and maki
 - 400 to the Emperor: "Thank you for my son. Don't you dare take him back."
 - 446 to the Dragon, through Eden: "Be kind to him, old lizard. He's kinder than both of us."
 - 600 when he kneels to propose: "Finally. Took you long enough."
-- 795 the last Keep, heard by Eden and Aldous at once through Aster and Vowsilver (see argentine.md).
+- 795 the last Keep, heard by Eden and Aldous at once through Aster and Sevar (see argentine.md).

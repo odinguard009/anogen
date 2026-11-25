@@ -83,8 +83,8 @@ Melsche Door
 Sepiroth Gate
 Sepiroth Vault
 Candor
-Wardenshell
-Morrowpin
+Thessa
+Ynde
 Throne of Nothing
 Throne Door
 Doorstep
@@ -365,7 +365,6 @@ Sepiroth
 Ten Sovereigns
 Sovereigns
 Melchsee
-Sepiroth
 Myrrhen
 Wellmother
 Kaelthos
@@ -459,34 +458,33 @@ Tolls
 Kept
 Kept Knight
 Kept Knights
-Faceless Mantle
-Dawnglass Raiment
-Thornward Mail
-Redwall Raiment
-Daybreak Hauberk
-Mirrorlace
-Wingwake
-Nullcrown Plate
-Sepiroth's Scale
-Ashmail of Kaldmark
-Ashmail
+Umra
+Ilune
+Rhael
+Karum
+Selu
+Vael
+Eyra
+Ennu
+Orrel
+Gryle
 Lantern Rig
 Lantern rigs
 Frostplate
 Sunward Gilt
 Greyborn Carapace
-Firstplate
+Nihra
 Pale Raiment
-Hollowmane
-Selenwing
+Mavra
+Isra
 Mutebell
 Tallow Saint's Candle
 Glassmonger's Lens
 Wayfinder's Thread
 Assayer's Scale
-Vowsilver
-Patience
-Kingsrest
+Sevar
+Tamu
+Oru
 Keepforging
 Keep
 Keeps
@@ -535,7 +533,6 @@ Doorstop
 Open House
 Knock and Answer
 Titanfall
-Ledger of Souls
 Void Road
 Gravemother
 Cinderback
@@ -571,12 +568,10 @@ Grimwald
 Long Yard
 Clement Daubert
 Daubert
-Lance Nine
 Lance Fourteen
 lowchapel
 Strategy
 Corporal
-Old Observatory
 Margery
 Tortoise
 Uncle
@@ -623,12 +618,8 @@ Hartenfels
 Ostermark
 Renaud
 Bursar
-Long Stair
 Dietrich
 Theobald
 Duskwater Dyeworks
 Blue Hour
 Tallow Row
-Ilsabet Rorke
-Kaldmark
-Ostrevaal

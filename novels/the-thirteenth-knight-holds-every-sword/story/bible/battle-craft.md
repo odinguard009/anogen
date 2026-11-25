@@ -26,7 +26,7 @@
 7. Hand-sign ambush inside a Choir's silence (32)
 8. Candor's light bounced off a mirror to expose a Veil behind him (36)
 9. Oil lines laid days early to make edges at night (45)
-10. First loan: Wardenshell to Felix to hold a corridor (47)
+10. First loan: Thessa to Felix to hold a corridor (47)
 11. Mutebell, a minor relic that silences his own steps (62)
 12. Losing on purpose by making the opponent fall to his own momentum (66)
 13. Doorstep chain through moving carriages (70)
@@ -43,12 +43,12 @@
 24. Hanging pots' shadows in the Argentine kitchen ambush (163)
 25. Fighting by touch in a lampless palace, Candor's faint glow making tiny edges (192)
 26. Hall of mirrors: only Candor's reflection tells the truth (196)
-27. Morrowpin locks an attacker exactly as he is (197)
+27. Ynde locks an attacker exactly as he is (197)
 28. Threshold swallows a fireball and releases it elsewhere later (180)
 29. Lending honest light to Lysette's Witness: the replay itself exposes a Veil (210)
 30. One-handed fight while carrying a child out (229)
 31. Door-bridges across a drained strait (240)
-32. Redwall lent to Valerius: Verdict rulings become walls (247)
+32. Karum lent to Valerius: Verdict rulings become walls (247)
 33. A storm-front's shadow wakes a legion (248)
 34. Releasing a Hierarch's stolen sea back through Threshold (249)
 35. Burning grass to make shadows at noon (255)
@@ -102,7 +102,7 @@
 - Arc 9: floating weapon racks, Vault halls of Kept Knights, sky.
 - Arc 10: terraces, thin air, condor drops, a well's depths (underwater).
 - Arc 11: dreams, sunlit cathedral, ritual circle of hosts.
-- Arc 12: seven fronts, polar night, ice cliffs, aerial on Hollowmane.
+- Arc 12: seven fronts, polar night, ice cliffs, aerial on Mavra.
 - Arcs 13-15: see arcs-4.md.
 - Arc 16: the Throne of Nothing, the Wound, inside a god.
 - Arc 17: festival grounds.

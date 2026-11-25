@@ -63,7 +63,7 @@ Slow blink before he finishes. One tap on the knocker ring when he decides. "Fin
 - Deep Rank: Ombrevar wheels a legion while Eden is its spearhead (381).
 - Herald's Count: Oriane counts one order to every retainer at once (412).
 - Mirror: Nihl and Eden back to back, the same style facing outward (548).
-- With allies: Wardenshell + Felix (47), Redwall + Valerius (247), Daybreak + Rowan (270), Mirrorlace + Seraphine (330), Dawnglass + Lysette (507).
+- With allies: Thessa + Felix (47), Karum + Valerius (247), Selu + Rowan (270), Vael + Seraphine (330), Ilune + Lysette (507).
 
 ## Commander set pieces (he commands and fights at once)
 - 290: three legions wake, raw and costly; he learns how hard command is.

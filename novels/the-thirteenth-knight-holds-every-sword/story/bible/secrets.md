@@ -11,7 +11,7 @@ Full ladder with plants and misdirection: twists-1.md, twists-2.md. Near-term se
 - Iron King summoned the Emperor; the 3-vs-1 | known by: king, Duke | reveal planned: ch 170
 - Liora was a Valkyrie; Eden opened the Gate; she sealed him | known by: Duke, king, Ysolde | reveal planned: ch 175
 - Eden's black armor is Aster, Liora's sealed work; Liora was the Dragon's host and a master smith | known by: Duke, Dragon | reveal planned: ch 170-176
-- The Duke weeps inside Vowsilver after battles | known by: Bertram | reveal planned: ch 251
+- The Duke weeps inside Sevar after battles | known by: Bertram | reveal planned: ch 251
 - Strent is the Tailor | known by: nobody | reveal planned: ch 185
 - Liora's feather in Lysette | known by: nobody | reveal planned: ch 205
 - King's kill-order | known by: king, Ysolde | reveal planned: ch 214

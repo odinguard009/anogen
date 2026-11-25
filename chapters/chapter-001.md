@@ -70,6 +70,8 @@ There was no three. Unless I counted jumping off the roof into the bushes.
 
 I lay still. I am good at that.
 
+"Stupid," she said again, softer. "Stupid, stupid girl."
+
 Then she lifted her head and wiped her nose on her red band.
 
 The Committee band. She saw what she had done. Her mouth went crooked. She started to cry again, harder, at the band this time. She looked at it as if it had turned against her.

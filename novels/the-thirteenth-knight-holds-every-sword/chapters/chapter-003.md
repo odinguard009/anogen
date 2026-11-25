@@ -1,205 +1,253 @@
 # Chapter 3: The Bottom of the World
 
-The tax clerk smiled at every lantern seller in the market, and the smile never changed. It was a good smile, wide and warm, and exactly the same every time, as if somebody had painted it on and forgotten to add the rest of the face.
+At twenty to two every night, the telephone in the baker's shop on Bell Lane rang once, and his dead father said good night.
 
-I watched him from a rooftop above the Solmarch lantern market. It was night and the whole street glowed, because paper lanterns hung on strings between the roofs, red and gold and soft green. Hundreds of people walked under them, eating roasted nuts and arguing about prices, and the air smelled of hot sugar and lamp oil. For a market, it was beautiful. For a hunt, it was a bad place, because every face looked friendly and every shadow moved.
+The baker had stopped answering after the second night. His wife answered on the third, and it was her mother. There were four shops on Bell Lane with the same story, and nine more in the streets behind it. Every call lasted one sentence, and every voice was exactly right.
 
-Behind me, something moved in my own shadow and whispered.
-
-"He's bought four lanterns and carried none of them," said Vesk. "Four. I counted."
-
-Vesk lived in the dark, so I never saw all of him at once. Mostly I saw his eyes, two small yellow lights like lamp flames in a dirty window. When he came out of the shadow, he was a small, quick man in grey, about as tall as my chest, with a mouth that never stopped. He wore black plate like mine, under a cloak, but only when he had to. He could not follow me into total dark, and he hated to say so.
-
-"He paid for them," I said.
-
-"With real coin. Look at his hands." Vesk shifted. His voice was dry as paper. "A man who buys four lanterns wants to carry them. This one just wants to stand near people. Also, he doesn't breathe in the dark."
-
-"You're sure?"
-
-"I checked his shadow twice. It doesn't move when he breathes. Everyone's shadow moves a little. His is a drawing."
-
-I looked down. The clerk was passing under a big red lantern, and his shadow lay behind him on the stones, flat and still, like paint. The shadow of the woman next to him rose and fell, rose and fell, in time with her chest.
-
-A Veil, then. One of the invaders, a thing from the black fog in the south that eats the land. A Veil did not look like a monster. It took a person's face and life and lived inside them, and the real person was gone. This one was a tax clerk from the king's office. His wife thought he had a cold.
-
-I did not like this part, and Vesk knew it. The order from Ysolde said only: *Confirm, then end. Form 13-B to follow.* I always had the same rule: I did not kill without proof, even when the proof was a flat shadow.
-
-"The shadow is proof," said Vesk.
-
-"The shadow is a reason to ask. Then he answers, and then I know."
-
-"You're the only knight I've met who needs a second opinion from a corpse."
-
-"He isn't a corpse yet."
-
-"Give it five minutes."
-
-"There's one more test," I said.
-
-"You want to ask him his middle name."
-
-"Nobody tells a stranger his middle name."
-
-"No," said Vesk. "But a Veil can't say it either. They can't say the real one. It's like trying to cough a stone." He gave a small sniff. "I'll tell you something free. You're going to hate this plan."
-
-"I haven't told you the plan."
-
-"It's the same plan as always. Stand somewhere dark. Wait. Do something clever at the last second. Complain about the paperwork afterward."
-
-I thought that was fair, so I did not argue.
-
-While we waited, I thought about the Bell. Last spring I had laid my palm on the big bell in the academy hall, as every student does once a year. It rang three clear tones, so I counted as a student with three Bells, which is an ordinary tank. Only I heard a fourth tone under them, very faint, like someone far away clearing a throat. Nobody else turned their head. I made sure I looked bored.
-
-I had not told anyone about the fourth tone. I did not know who I would tell.
-
-* * *
-
-I went down the back of the building, into an alley between a baker's wall and a wine shop. It was very dark. A single lantern hung at the far end, and it was too far to matter. I stood in my own shadow and took a deep breath.
-
-Then I stepped backward.
-
-My shadow opened like a door. The cold came first, on the back of my neck and down my spine. Then plates rose around me, matte black, soft as cloth and as quiet as snow. They closed over my legs, then my chest and my shoulders, and last came the helm. It was smooth and plain, with one thin slit across the eyes, and the slit was lined with white thread. The helm closed with a small, low note, like a far bell.
-
-That was Umra. It weighed almost nothing. It made no noise at all. And it had one great cost: anyone who saw it knew what it was.
-
-The Black Order, people said. The silent knights who came at night and took away traitors, and nobody saw them again.
-
-I did not like that story. But it was useful.
-
-I walked out of the alley.
-
-* * *
-
-The clerk saw me from forty steps away.
-
-I know because his smile stopped. It did not fade. It simply stopped, and for a second there was nothing on his face at all. Then he turned and ran.
-
-I had not moved. I had not raised my hand or said a word. I was standing at the end of an alley in the middle of a crowd, and not one person in that crowd had noticed me yet.
-
-But the Veil had.
-
-He had looked straight at the one dark corner of the street where nobody else looked. Either he was lucky, or someone had told him where I would stand.
-
-It was a cold thought, and I put it away for later, because the clerk was fast. He went through the crowd fast, his coat flying, and the crowd opened for him without knowing why. Behind him, a lantern string snapped, and red paper fell onto a woman's hat.
-
-I ran.
-
-Umra made me quiet, but it did not make me invisible. People turned. A child pointed. A man dropped his tray of nuts and shouted something, and somebody else shouted, "The Black Order! The Black Order!" and the whole market started to scatter.
-
-"That's going well," said Vesk, from my shadow.
-
-"Be quiet."
-
-"I'm only saying, the crowd is excellent cover for *him*."
-
-"Where does he go?"
-
-"Left, then the lamp-glass stalls. After that there's an awning. He'll like the awning." Vesk's yellow eyes flicked past my shoulder. "There's always an awning."
-
-The clerk reached a row of stalls and jumped over a table of lamp-glass. I followed, and the table did not break, which pleased me. He turned left under a long cloth awning, the kind sellers hang over their goods. The awning was striped red and white, stretched tight between two poles, and under it lay a dark patch of shade, six steps wide.
-
-I saw it at once. Shade is the first thing I look for.
-
-The clerk ran straight into it.
-
-I stopped at the edge, raised my right hand and knocked once on the air.
-
-The sound was small and flat, like a knuckle on a wooden door. A rectangle of black opened in the shade under his feet, as wide as a cellar hatch and as deep as a well. The clerk had no time to scream. His foot found nothing. He dropped straight down with his coat flapping, and the dark closed over him. A door like that needs an edge between light and dark to open in, and a cellar roof under an awning gave me one.
-
-I did not wait, and I stepped into the shade and dropped after him.
-
-* * *
-
-The cellar was under a wine shop. It smelled of vinegar and wet stone. The only light was one dirty lantern on a hook, far away, and it made everything yellow and small.
-
-The clerk had landed hard. He lay on his side among broken barrels, and he got up slowly, as if his body were learning how to do it again. His face was white. He looked at me.
-
-I stood in the dark at the foot of the stairs. Umra did not shine. The lantern's light barely touched me.
-
-"You," he said. His voice cracked. It was a clerk's voice, soft and tired. "You are the one they send."
-
-"Say your name," I said. "All of it."
-
-"Alaric Dunmore," he said at once. "clerk at the tax office, third desk. I have a wife. I have a cold."
-
-"Your name has three parts. Ysolde's file says so. Say the middle one."
-
-His eyes went wide. For a moment I saw a real man's fear on that face, and I hated it, because I did not know if it was the Veil's or the clerk's.
-
-"Alaric... Alaric Au..." The word stuck. His throat moved. He tried again, and nothing came out but a thin, wet sound, the sound of someone coughing up a stone.
-
-"Aubin," I said quietly. "It's Aubin. His mother gave it to him. You can't say it, because it isn't yours."
-
-That was the proof.
-
-I put out my left hand, and the Gate opened in my mind, a cold thin line like a thread pulled tight, and I said the name in my head, and the weapon came into my hand.
-
-Inead.
-
-It was a sword, long enough for two hands but light enough for one, with a plain grey grip and a pale blade, like ice at dawn. It did not shine. That was the strange thing. In a dark cellar, a bright sword would have been easy to see, and Inead was not bright. But it hummed, one low note, as if it had been waiting a long time to be asked. And around the blade, the dark grew thin. Light, even bad light, became honest.
-
-It cost me a little each moment I held it, a small ache behind the eyes, but I did not mind.
-
-The clerk's shadow lay on the cellar floor. In the honest light, it changed. The paint came off. Under it, there was a long grey shape with too many fingers, bending, waiting.
-
-"Please," said the clerk, in the clerk's voice.
-
-"I'm sorry," I said, and I meant it.
-
-I stepped in. I pushed my aura through the blade, a deep breath, a straight line, a hand-deep field of pressure going down my arm. Inead went through the middle of his chest. There was no sound. His mouth opened, and the grey came up in his eyes like fog in a window.
-
-"You smell like..." His voice slid. It was not the clerk's voice now. It was thin and old and very far away. "You smell like the bottom of the world."
-
-Then he fell apart. His coat dropped, and his boots dropped, and all that was left of him was a small pile of grey dust, drifting slowly on the cellar floor.
-
-For a moment I did not move, and Inead hummed once, softly, in the dark, and went quiet.
-
-I let the sword go, and it slid back into the Gate, and the line in my mind went slack, though the ache behind my eyes stayed a while.
-
-"Nice," said Vesk, from the shadow by the stairs. "Very clean. The dust didn't even get on your boots."
+"Four voices, thirteen houses, one line," said Vesk. "I counted. You didn't ask, but I counted."
 
 "Thank you."
 
-"You're still apologizing, though."
+We were lying flat on a rooftop above Solmarch, on wet slate, in the dark between two chimneys. Vesk lived in my shadow, so I never saw all of him at once. Mostly I saw his eyes, two small yellow lights like lamps in a dirty window. Across the street, behind a row of tall arched windows, stood the Solmarch Central Telephone Exchange. It was one o'clock in the morning. A tram bell rang somewhere far off and stopped.
 
-"I always apologize."
+"Ysolde's file says the night supervisor is Alaric Dunmore," Vesk said. "Thirty-four. Cheerful. Never late. Last month he stopped eating lunch."
 
-"I know. It's boring."
+"Everyone's allowed to skip lunch."
+
+"You've been skipping it for a year, and I'm not worried about you."
+
+"You should be."
+
+"I am. I just have more important worries." The yellow eyes drifted toward the windows. "He sent all eleven operators home at midnight. Told them the main line had a fault. They were glad. Then he locked the doors from inside."
+
+In the third window from the left, under a pale blue mana-lamp, a man sat at the long switchboard with a headset on. He did not move. Small brass shutters dropped open on the board in front of him, one after another, the way rain starts.
+
+"He is listening to every call in Solmarch," I said.
+
+"And learning every voice. Tonight he learns forty more."
+
+"Then he is hungry."
+
+"He is always hungry. That is what they are."
+
+I did not like it, and I noted that, the way you note the weather. Ysolde's order said only: *Confirm, then end. Form 13-B to follow.* I never kill without proof. It is my own rule.
+
+"Plan?" said Vesk.
+
+"Prove it. Pin it. End it."
+
+"How do you prove it?"
+
+"I ask his middle name. A Veil cannot say the middle name of the man it ate."
+
+"And if he can?"
+
+"Then I apologize and go home."
+
+"You never go home," said Vesk. "You go to a roof."
+
+"That's three words and no plan."
+
+"It's a short plan."
+
+"You are a short planner," said Vesk, and slid back into my shadow, and I went down the wall.
 
 * * *
 
-Something small lay in the dust. A book, dark leather, with a brass clasp. It had fallen from the clerk's coat and landed on the stone, not burned, not gray.
+I went in through the coal cellar and up the back stairs. On the second landing one lamp burned on the wall, and my shadow lay long on the stone.
 
-I picked it up. Under the lantern, I opened it.
+I stood in it, and I put the whole thing in order in my head. No one in this city had seen what I was about to put on. The ones who had were not available to describe it.
 
-It was a list. Names, in a neat clerk's hand, in two columns. I knew the first few without reading them. They were students. They were students of the academy on the hill above this very market, all of them Year 5.
+The lamp on the wall dimmed. It did not go out. It simply held its breath, and its blue light shrank toward the glass.
 
-I turned the page. My own name was there, in the fourth line, not circled. Felix was there. So were half the people in my class.
+The shadow at my feet spread. It slid out across the floor in a clean round pool, as wide as a cartwheel, with an edge so sharp that it looked drawn with a compass. The cold rose out of it. I stepped backward, and the pool took me to the knees, then to the waist, and the cold climbed my chest.
 
-And one name near the top, drawn round with a ring of red ink, again and again, as if someone had pressed the pen until it tore the paper.
+The plates came up from my feet.
 
-Rowan.
+First the sabatons, with a soft click, one, two, the plates sliding up over my boots and sealing. Then the greaves, long and smooth from ankle to knee, and the knee wings fanning out on each side. The thigh plates rose and locked. The faulds fell into place around my hips, one overlapping band at a time, each as cold as a coin for one heartbeat, and then as warm as my own skin.
 
-At the top of the cellar stairs, a woman coughed, politely, once.
+The breastplate came last of the body, and it closed with a long, deep seal, like the door of a vault. I felt it in my ribs. The pauldrons followed, one and then the other, plain and rounded. The vambraces slid over my forearms. The gauntlets closed over my hands, and I watched my fingers go black, one by one, as the plates met at the knuckles.
 
-She was thin and tall, in a grey coat buttoned to the chin, with a pen behind one ear and a face that gave nothing away. Ysolde, the king's secretary and my handler. I had never once seen her run.
+Then the helm.
 
-"Is it done?" she said.
+It came down from above, a smooth black shell with no face, no horn and no crest, only one thin slit across the eyes, lined with white thread. It closed over my head. The stair went quiet, as if someone had shut a window on the whole world. All I heard was my own breath, slow and steady inside the steel.
+
+A long black coat unrolled from my shoulders and settled without a sound.
+
+That was Umra. It weighed nothing. It made no noise. It turned the stairwell grey-blue and made every edge as clear as cut paper. I flexed my hand and the lamp came back up, and my shadow lay under me, thin and ordinary.
+
+"That," whispered Vesk, from the stone, "is still good to watch."
+
+"Thank you."
+
+"You didn't even smile."
+
+"I don't remember how to start."
+
+I went up the last flight, and I opened the door to the switchboard room without making a sound.
+
+* * *
+
+It was a long room, lit blue. A hundred brass jacks glittered on the board, and a hundred cords hung down in loops. Little shutters dropped open and snapped shut. The whole room hummed with one low bell tone, the sound of a thousand wires listening. Last spring the academy's Resonance Bell had rung three tones for me, as it does for any student, but I alone had heard a fourth under them, very faint, like someone far away clearing a throat. I heard it again now, in the wires. I told no one. There was no one to tell.
+
+At the far end, a man sat with his back to me in a wooden chair. He wore a grey vest and a headset. He was talking quietly into a mouthpiece, in a woman's voice, kind and tired. "Yes, dear. Yes. I know you're frightened. Go to sleep."
+
+He did not turn his head.
+
+"Good evening," he said, in the same voice. Then the voice slid, and it was a man's, deep and slow, then a boy's. "We were told a man in black would come tonight."
+
+I stood still in the doorway. He had not looked behind him, and my armor had made no sound.
+
+*Told*, I noted. I put the word aside for later.
+
+"Mr Dunmore," I said. "Stand up and turn around."
+
+"Is that an order?" said the woman's voice, from his mouth.
+
+"It is a request."
+
+He did, slowly. He was a round-faced man with soft brown hair, a clerk's smile, and a pencil behind his ear. The smile did not change. It sat on his face as if someone had painted it on and forgotten the rest. His lips moved a beat after the words came out, like a bad line.
+
+"Alaric Dunmore," he said, in his own voice. It was thin. "Night supervisor. I have a wife. I have a cold."
+
+"Your name has three parts. Say the middle one."
+
+His smile stayed. His eyes went wide.
+
+"Alaric," he said. "Alaric Au..."
+
+Something caught in his throat. He tried again. Nothing came out except a thin, wet sound, the sound of someone coughing up a stone.
+
+"Aubin," I said. "His mother gave it to him. You cannot say it, because it was never yours."
+
+That was the proof.
+
+"Pin it," I murmured, and the Veil came for me.
+
+* * *
+
+It did not run. It dropped its hands to its sides, and its shadow stood up off the floor.
+
+This one rose in long grey ribbons, and every ribbon had a hand at the end. They slid up the wall and across the ceiling, over the cable trays. The mana-lamps went out one by one as they passed, and the blue light died a jar at a time.
+
+"We are so hungry," it said, and now it spoke in eleven voices at once, a chord of people I would never meet. A girl said *please*. A man said *help me*. A child said *mama*. They were not screaming. They were calm, and that made the hair rise on my neck.
+
+I felt nothing. That is the truth. My hands knew what to do, and my body had gone cold and clear, and some distant part of me observed that a normal person would have been afraid.
+
+Three ribbons struck at once, from the left, the right and above.
+
+"Behind you," said Vesk.
+
+"I know."
+
+I did not dodge. I knocked once on the air, beside a switchboard cabinet, where the last lamp threw a thin edge of shade. A black door opened in the cabinet's shadow, tall and narrow. The nearest ribbon struck into it and went through. I shut the door.
+
+The ribbon came off at the edge, clean, and lay on the floor and went grey and still. Somewhere in the Veil's chord, a man's voice screamed once and stopped.
+
+The second ribbon wrapped around my leg. It did not hurt. It was only cold. I let it close on the armor, and then I put my gauntlet flat against the floor, in the long shade of a desk, and knocked. The ribbon fell into the door. I shut that too.
+
+The third came down from the ceiling, and I stepped under it, and it missed my head by a hand.
+
+"Six left," said Vesk, from my shadow. "Seven. He's being generous."
+
+"Stop counting."
+
+"It helps me."
+
+"It does not help me."
+
+"Where is your sword, knight?" said the chord, almost kindly.
+
+"Coming."
+
+The Veil lunged.
+
+It crossed the room in two strides, with its mouth opening too wide and the chord of voices rising to one long, high howl. The whole board rang. The cords swung and the shutters snapped, and the sound hit me hard.
+
+I opened one door more. I put it in the shade between two cabinets, at the Veil's knee height, and the Veil's lunge went straight through it and came out on the far side of the room, in the corner behind the boiler. It struck the wall. For one second the room was silent.
+
+I drew Inead.
+
+It came out of my shadow into my hand as if it had always been there, and the whole exchange went gold.
+
+Gold light, the kind a low sun makes, but solid. The blade was long and straight, plain grey at the grip and bright from the guard to the point, and it rang softly as it came free, one clear note. The light threw my shadow thirty feet up the wall. Every shadow in the room ran from it and was gone.
+
+The Veil's skin turned to glass.
+
+I could see through it. Under the clerk's face and vest lay another body, grey, long and many-jointed, with no eyes and too many fingers, folded into the shape of a man.
+
+"Please," said the clerk's voice, from the thing, in its own thin tone.
+
+"I am sorry," I said.
+
+I crossed the floor. Inead cut once, from under the collar to the base of the ribs, along the seam where the human shape joined the grey.
+
+The voices stopped. They stopped one at a time, like lamps going out. The girl. The man. The boy. The one who had said *mama*. The last was a gentle old voice that I did not know, and it said, in a shaky whisper, "Good night."
+
+Then one more voice spoke, thin and old and far away, and it was not any of the eleven.
+
+"You smell like the bottom of the world," it said.
+
+The clerk fell apart. His vest dropped and his shoes dropped, and where he had stood there was a small heap of grey dust, drifting.
+
+I pushed Inead back into my shadow. The gold went out, and the blue lamps began to glow again, one by one, as if nothing had happened.
+
+"Very clean," said Vesk. "The dust didn't even touch your coat."
+
+"Thank you."
+
+"You didn't flinch once, you know."
+
+"Should I have?"
+
+"Normally. A bit." He sounded unhappy. "I keep waiting."
+
+"For what?"
+
+"I'll tell you when it happens."
+
+* * *
+
+A small book lay in the dust. It was a clerk's notebook, black leather, with a brass clasp, and it had not burned.
+
+I took off my helm. The plates folded back into my shadow with one soft sound, and I stood in my school coat, in the dim room, with a book in my hand.
+
+It was a list. Names, in a neat clerk's hand, in two columns. They were students of the academy on the hill, all Year 5. I read them without hurry. Felix was in the middle. My own name sat in the fourth line, not circled.
+
+One name was circled at the top. It had been circled in red ink again and again, until the paper tore.
+
+*Rowan.*
+
+My stomach had gone cold. I decided it was the night air.
+
+Someone coughed politely, once, from the doorway.
+
+She was a thin woman in a grey coat buttoned to the chin, with a pen behind one ear and a face that gave nothing away. Ysolde, the king's secretary, and my handler. I had never seen her run.
+
+"It is done?" she said.
 
 "It's done."
 
-"Good. Form 13-B. Three copies, by morning." She held out her hand for the book, and I gave it to her. She read the first page, and then the red ring, and her mouth became a very thin line. "Did he say anything?"
+"Good. Form 13-B. Three copies, by morning. Were there witnesses?"
 
-"He said I smelled like the bottom of the world."
+"Eleven voices. None of them alive."
 
-"Rude," said Ysolde. She did not sound surprised. "Three copies. Please write them before you sleep."
+"Then no." She held out her hand, and I gave her the book. She read the first page and then the red ring, and her mouth became a very thin line. "Did he say anything?"
+
+"He said somebody told him I would come."
+
+Ysolde said nothing for a moment.
+
+"Who knew?" I said.
+
+"You. I. Your shadow." She closed the book. "Three copies, Eden. Write them before you sleep."
 
 "I can't. I have class at seven."
 
 "Class?"
 
-"There's a timetable." I took it out of my pocket and showed her. It was folded small, and it had four colours of ink. "A girl with a black notebook wrote it. She checks."
+I took the timetable out of my pocket and gave it to her. It was folded small, and it had four colours of ink. "A girl with a black notebook wrote it. She checks."
 
-Ysolde read the timetable twice. Then she looked at me.
+Ysolde read it twice. Then she looked at me.
 
-"Write the forms on the way," she said, and went up the stairs.
+"Write the forms on the way," she said, and went down the stairs.

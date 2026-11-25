@@ -16,7 +16,7 @@ import json
 import re
 import sys
 
-from common import ENGINE, OPS, chapter_path, load_json, read, word_count
+from common import ENGINE, OPS, ROOT, chapter_path, load_json, read, word_count
 
 LOG = OPS / "usage.jsonl"
 
@@ -44,7 +44,11 @@ def cmd_add(a):
     row = {"ts": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
            "role": a.role, "tier": a.tier, "model": a.model, "range": a.range,
            "input": a.input, "output": a.output, "cache_read": a.cache_read, "cache_write": a.cache_write,
-           "seconds": a.seconds, "outcome": a.outcome, "source": a.source, "note": a.note}
+           "seconds": a.seconds, "outcome": a.outcome, "source": a.source, "note": a.note,
+           "novel": ROOT.name, "provider": a.provider, "operation": a.operation or a.role,
+           "total_tokens": (a.input + a.output) if a.input is not None and a.output is not None else None,
+           "actual_cost": a.actual_cost, "context_characters": a.context_chars, "context_fingerprint": a.context_fingerprint,
+           "revision_count": a.revision_count}
     OPS.mkdir(parents=True, exist_ok=True)
     with open(LOG, "a", encoding="utf-8") as fh:
         fh.write(json.dumps(row, ensure_ascii=False) + "\n")
@@ -112,6 +116,32 @@ def cmd_report(_a):
         if drafted and tot:
             print(f"writer chapters in this source: {len(drafted)} ({words} words); all roles: {tot / len(drafted):.0f} tokens per chapter, "
                   f"{tot / max(words, 1) * 1000:.0f} tokens per 1,000 words (input+output, cache not included)")
+        n_ch = len(drafted)
+        costed = sum(b["cost"] for b in by.values())
+        act = sum(r.get("actual_cost") or 0 for r in sub)
+        total = act if act else costed
+        if n_ch and total:
+            per = total / n_ch
+            print(f"cost per chapter ({'provider actual_cost' if act else 'computed from prices.json'}): {per:.4f} USD; per 100 chapters: {per * 100:.2f} USD")
+            print(f"PROJECTION (linear, NOT a measurement; assumes this source's average holds for 850 chapters): {per * 850:.0f} USD")
+        else:
+            print("cost per chapter, per 100 chapters and the 850-chapter projection: not available (no priced or provider-reported cost for this source)")
+        runs = len(sub)
+        revs = sum((r.get("revision_count") or 0) + (r["outcome"] == "retry") for r in sub)
+        if n_ch:
+            print(f"role stages per chapter: {runs / n_ch:.2f}; revisions/retries per chapter: {revs / n_ch:.2f}")
+    cl = OPS / "context-log.jsonl"
+    if cl.exists():
+        cr = []
+        for ln in read(cl).splitlines():
+            try:
+                cr.append(json.loads(ln))
+            except ValueError:
+                pass
+        if cr:
+            ch = [c["chars"] for c in cr]
+            print(f"\n== CONTEXT SIZE LOG ({len(cr)} pack(s), characters, NOT tokens): avg {sum(ch) // len(ch)}, max {max(ch)}; "
+                  f"packs with dropped sections: {sum(1 for c in cr if c.get('omitted'))}; distinct fingerprints: {len({c['fingerprint'] for c in cr})}")
     print("\nPrices come only from engine/prices.json (supplied by the owner); none are built in.")
 
 
@@ -131,6 +161,12 @@ def main():
     p.add_argument("--outcome", choices=["ok", "failed", "retry"], default="ok")
     p.add_argument("--source", choices=["reported", "manual", "estimate"], default="manual")
     p.add_argument("--note", default="")
+    p.add_argument("--provider", default="")
+    p.add_argument("--operation", default="")
+    p.add_argument("--actual-cost", dest="actual_cost", type=float, default=None, help="USD, ONLY if the provider reported it")
+    p.add_argument("--context-chars", dest="context_chars", type=int, default=None)
+    p.add_argument("--context-fingerprint", dest="context_fingerprint", default="")
+    p.add_argument("--revision-count", dest="revision_count", type=int, default=None)
     sub.add_parser("report")
     a = ap.parse_args()
     {"add": cmd_add, "report": cmd_report}[a.cmd](a)

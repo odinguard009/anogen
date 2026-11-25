@@ -16,7 +16,7 @@ The repo is self-contained: instructions (AGENTS.md), settings (engine/models.js
 - Commit trailer: use "Co-Authored-By: <model name> <noreply@...>" with your own model name; any session link line is optional.
 - Cheaper model for mechanical sessions: since agents are never spawned (locked setting 13), the owner may open a separate session on a cheaper model for mechanical work only (renames, formatting, bookkeeping, archive). Never use a cheaper model to write or critique chapters.
 - Locks: always `tools/lock.py acquire/release` around every agent.
-- Tools that are Claude-specific in AGENTS.md are described by function only (spawn an agent, publish a page, send a file).
+- Tools that are Claude-specific in AGENTS.md are described by function only (run a role stage, publish a page, send a file).
 
 ## Switching checklist
 1. `git pull`; `python3 tools/status.py`; `python3 tools/engine_state.py next`.

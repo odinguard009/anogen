@@ -1,12 +1,12 @@
 # Anogen Architecture (current main, after the second pass)
 
-Anogen contains no model client. A host AI (the orchestrator) spawns one agent at a time from prompt files and runs the deterministic tools in `tools/` (Python standard library only). Each novel lives in its own folder `novels/<slug>/`; the active one is named in `novels/ACTIVE` (`common.py` resolves it, `ANOGEN_NOVEL` overrides, `ANOGEN_ROOT` keeps the flat layout for tests). Inside a novel the Markdown files in `story/` are the memory; `chapters/` is the authoritative manuscript; `ops/engine.json` is the state machine. Shared engine files are in `engine/` and `templates/novel/`; one global lock (`novels/lock.json`, not committed) keeps a single agent running across all novels.
+Anogen contains no model client. A single host AI (the orchestrator) performs each role itself as a sequential stage, one at a time, from prompt files, and runs the deterministic tools in `tools/` (Python standard library only). Each novel lives in its own folder `novels/<slug>/`; the active one is named in `novels/ACTIVE` (`common.py` resolves it, `ANOGEN_NOVEL` overrides, `ANOGEN_ROOT` keeps the flat layout for tests). Inside a novel the Markdown files in `story/` are the memory; `chapters/` is the authoritative manuscript; `ops/engine.json` is the state machine. Shared engine files are in `engine/` and `templates/novel/`; one global lock (`novels/lock.json`, not committed) keeps a single agent running across all novels.
 
 ```mermaid
 flowchart TB
   Owner([Owner, Indonesian chat]) --> Orch[Orchestrator: host AI, standard tier]
   Orch --> Tools[tools/*.py: 0 tokens]
-  Orch -->|ONE agent at a time, under lock| DE[Development Editor, strong]
+  Orch -->|ONE role stage at a time, under lock| DE[Development Editor, strong]
   Orch --> LW[Lead Writer + Canon Keeper, standard, 5 chapters per run]
   Orch --> CR[Copy Critic, strong, once per 10 chapters, audit inside at 10/20/30]
   Story[(story/: style, bible, outline)] --> Pack[context_pack.py]

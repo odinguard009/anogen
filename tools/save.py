@@ -53,6 +53,12 @@ def main():
     if git("rev-parse", "--is-inside-work-tree").returncode != 0:
         print("ERROR: not a git repository; nothing saved.")
         sys.exit(1)
+    if ROOT != REPO:  # novels layout: keep the derived story-memory index fresh (hash-based, best effort, never blocks a save)
+        try:
+            import memory_index
+            memory_index.update()
+        except Exception as e:
+            print(f"note: memory index not updated ({type(e).__name__})")
     paths = [p for p in TRACKED if (REPO / p).exists()]
     r = git("add", "-A", "--", *paths)
     if r.returncode != 0:

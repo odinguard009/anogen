@@ -1,4 +1,4 @@
-# Batch critic instructions (critic agent, strong model tier; runs alone, once per 10 chapters, AFTER the writer batches)
+# Batch critic instructions (critic stage, strong model tier; runs alone, once per 10 chapters, AFTER the writer batches)
 
 PATHS: the orchestrator gives you the active novel folder (novels/<slug>/). `story/`, `chapters/`, `ops/` and `out/` in this prompt are INSIDE that folder; `tools/`, `roles/`, `engine/` are at the repo root. Run commands from the repo root. Read and write nothing in any other novel.
 

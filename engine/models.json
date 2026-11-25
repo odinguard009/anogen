@@ -2,29 +2,29 @@
   "_note": "Model TIER per role. Map tiers to real models in 'tiers'. Quota weight per model is unverified: measure at the host's usage page and adjust. LOCKED by the owner (2026-11-25).",
   "concurrency": {
     "max_agents_per_job": 1,
-    "rule": "Never run more than one bot per job. Acquire tools/lock.py before spawning an agent; release after."
+    "rule": "Never run more than one role stage per job. Acquire tools/lock.py before starting a stage; release after. No sub-agents, no delegation (locked setting 13)."
   },
   "orchestrator": {
     "model": "sonnet",
-    "where": "main chat session; runs scripts, commits, sends files, spawns ONE agent at a time",
+    "where": "main chat session; runs scripts, commits, sends files, and performs every role inline, one stage at a time",
     "tier": "standard"
   },
   "roles": {
     "development_editor": {
       "model": "opus",
-      "mode": "delegate",
+      "mode": "inline-stage",
       "when": "arc planning, big idea intake, story bible changes",
       "tier": "strong"
     },
     "lead_writer": {
       "model": "sonnet",
-      "mode": "delegate",
+      "mode": "inline-stage",
       "when": "writes chapters in batches of 5 (also does canon bookkeeping per chapter)",
       "tier": "standard"
     },
     "copy_critic": {
       "model": "opus",
-      "mode": "delegate",
+      "mode": "inline-stage",
       "when": "once per 10 chapters (owner order 2026-11-25): strict scoring and targeted patches (independent from the writer)",
       "tier": "strong"
     },

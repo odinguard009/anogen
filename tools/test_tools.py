@@ -509,6 +509,194 @@ def novel_tests():
     shutil.rmtree(repo, ignore_errors=True)
 
 
+def policy_tests():
+    """Single-agent policy (tools/policy_check.py)."""
+    import json as _j
+    import policy_check as pc
+    repo = Path(__file__).resolve().parent.parent
+    check("policy: repo passes the single-agent check", pc.run(repo) == [], "; ".join(pc.run(repo)))
+    check("policy: spawn instruction is flagged", len(pc.scan_text("x.md", "Then spawn ONE agent for the writer.")) == 1)
+    check("policy: sub-agent instruction is flagged", len(pc.scan_text("x.md", "Use a sub-agent per chapter.")) == 1)
+    check("policy: delegation is flagged", len(pc.scan_text("x.md", "Delegate the critic to a second model.")) == 1)
+    check("policy: a forbidding line passes", pc.scan_text("x.md", "NEVER spawn sub-agents.") == [])
+    check("policy: Indonesian forbidding line passes", pc.scan_text("x.md", "Tidak pernah memakai subagent.") == [])
+    d = Path(tempfile.mkdtemp())
+    try:
+        (d / "engine").mkdir()
+        (d / "engine" / "models.json").write_text(_j.dumps({"roles": {"w": {"mode": "delegate"}}}), encoding="utf-8")
+        r = pc.run(d)
+        check("policy: delegate mode in models.json is an ERROR", any("delegate" in x for x in r), str(r))
+        (d / "engine" / "models.json").write_text("{bad", encoding="utf-8")
+        check("policy: unreadable models.json is an ERROR", any("unreadable" in x for x in pc.run(d)))
+    finally:
+        shutil.rmtree(d, ignore_errors=True)
+
+
+def stage2_tests():
+    """Context engine: style split, dedup, budget, fingerprint (tools/context_pack.py)."""
+    import context_pack as cp
+    prof = ("## LEVEL\nalways\n\n## SPECIAL ATTACK LABEL (x)\nlabel rules\n\n## SCENE FEEL AND ARMOR (x)\nSCENE FEEL (mood):\n- mood\n"
+            "ARMOR (follow armor.md):\n- armor rule\nHUMAN FEEL (at simple level):\n- human\n\n## Battles and aura\n- battle rule\n\n## Voice\nvoice\n")
+    quiet, loud = "Ch 5: they cook soup and talk.", "Ch 5: a duel in the yard."
+    s, om = cp.style_for(prof, quiet)
+    check("ctx style: quiet outline stubs the three situational blocks", len(om) == 3 and "label rules" not in s and "armor rule" not in s and "battle rule" not in s, str(om))
+    check("ctx style: always-on rules stay", all(k in s for k in ("always", "- mood", "- human", "voice")))
+    check("ctx style: stub names what was omitted", "STYLE NOTE" in s and "--style full" in s)
+    check("ctx style: fight outline keeps everything", cp.style_for(prof, loud) == (prof, []))
+    check("ctx style: no outline keeps everything", cp.style_for(prof, "") == (prof, []))
+    check("ctx style: --style full keeps everything", cp.style_for(prof, quiet, "full") == (prof, []))
+    long = "x" * 90
+    secs, rem = cp.dedup_sections(["## A\n" + long, "## B\n" + long + "\nshort", "## C\nshort"])
+    check("ctx dedup: identical long line kept once", sum(long in s for s in secs) == 1 and rem == 91, str(rem))
+    check("ctx dedup: short lines never removed", secs[1].endswith("short") and secs[2].endswith("short"))
+    d = "## S [CHANGED since the chapter 4 pack: x]\n" + long
+    check("ctx dedup: diff sections untouched", cp.dedup_sections(["## A\n" + long, d])[0][1] == d)
+    check("ctx: fingerprint is stable and content-sensitive", cp.sha("a") == cp.sha("a") and cp.sha("a") != cp.sha("b"))
+    base = [sys.executable, str(TOOLS / "context_pack.py"), "--part", "delta", "--retrieve", "--peek"]
+    full = subprocess.run(base + ["--budget", "10000000"], capture_output=True, text=True)
+    n = len(full.stdout.split("\n[context fingerprint")[0])
+    check("ctx: footer carries fingerprint and estimate label", "[context fingerprint" in full.stdout and "ESTIMATE" in full.stdout)
+    if "## Retrieved memory" in full.stdout:
+        lim = n - 50
+        small = subprocess.run(base + ["--budget", str(lim)], capture_output=True, text=True)
+        check("ctx budget: low-priority section dropped whole with a note", small.returncode == 0 and "PACK NOTE" in small.stdout and "## Retrieved memory" not in small.stdout, small.stderr)
+    tiny = subprocess.run(base + ["--budget", "3000"], capture_output=True, text=True)
+    check("ctx budget: protected sections over budget exit 4, never silent", tiny.returncode == 4 and "TRUNCATED" in tiny.stdout, str(tiny.returncode))
+
+
+def stage3_tests():
+    """Python-first validation report (tools/validate.py)."""
+    root = mkroot([1, 2, 4], ARC_RUNNING)
+    try:
+        write(root / "chapters/chapter-002.md", "# Chapter 2: Test Title\n\nAlvar walked to the gate and")
+        write(root / "story/bible/summaries.md", "# S\n## Ch 1 - A\nx\n## Ch 1 - A again\ny\n")
+        write(root / "story/bible/debts.md", "# D\n- [open] old promise | planted: ch 1 | due: ch 2\n- [open] no due here | planted: ch 1\n- [paid] done | planted: ch 1 | due: ch 3\n")
+        write(root / "ops/schedule.json", "{bad")
+        c, o = run(root, "validate.py", "1-4")
+        check("validate: exit 1 and ERROR lines when something is wrong", c == 1 and "ERROR" in o, o[-300:])
+        check("validate: numbering gap is an ERROR", "gap in numbering: missing [3]" in o, o)
+        check("validate: truncated ending is an ERROR", "ch 2: possibly truncated" in o, o)
+        check("validate: missing chapter file is an ERROR", "ch 3: file missing" in o, o)
+        check("validate: invalid JSON is an ERROR", "ops/schedule.json: invalid JSON" in o, o)
+        check("validate: duplicate summary is an ERROR", "chapter 1 has 2 summaries" in o, o)
+        check("validate: overdue open debt is a WARNING", "WARNING: debts.md:2: open debt is overdue" in o, o)
+        check("validate: debt without due is a WARNING", "WARNING: debts.md:3: open debt has no" in o, o)
+        check("validate: paid debt is not flagged", "debts.md:4" not in o, o)
+        check("validate: summary line present", "VALIDATION 1-4:" in o and "error(s)" in o and "warning(s)" in o, o)
+        c, o = run(root, "validate.py", "1-1", "--json")
+        j = json.loads(o)
+        check("validate: --json is parseable with counts", "summary" in j and j["summary"]["chapters_checked"] == 1 and isinstance(j["items"], list), o[:200])
+        c, o = run(root, "validate.py", "bad")
+        check("validate: bad range prints usage", c != 0, o[:100])
+    finally:
+        shutil.rmtree(root, ignore_errors=True)
+
+
+def stage4_tests():
+    """Risk-based self-review (tools/risk.py, tools/review_pack.py, engine/self-review-checklist.md)."""
+    eng = {"arcs": {"1": {"start": 1, "end": 9, "name": "A", "max": 9, "status": "writing"}}}
+    root = mkroot([1, 2, 3, 4, 5, 6, 7, 8, 9], eng)
+    try:
+        write(root / "story/outline/arc-1.md", "# A\n- Ch 1: Alvar cooks soup.\n- Ch 2: Alvar talks to Brenna about hats.\n- Ch 3: Brenna kisses Alvar.\n"
+              "- Ch 4: The captain dies in the yard.\n- Ch 5: Walk to town.\n- Ch 6: Walk home.\n- Ch 7: Sleep.\n- Ch 8: Wake.\n- Ch 9: Finale of the arc.\n")
+        write(root / "story/bible/reveal-ladder.md", "# L\n- R1 plot (big): H 2 | D 5 | C 6\n")
+        write(root / "story/bible/debts.md", "# D\n- [open] hat debt | planted: ch 1 | due: ch 7\n")
+        write(root / "story/bible/first-use.md", "# F\n")
+        def lvl(n):
+            c, o = run(root, "risk.py", str(n), "--json")
+            return json.loads(o)["risk"], o
+        check("risk: plain chapter is LOW", lvl(1)[0] == "LOW", lvl(1)[1])
+        check("risk: ladder hint is MEDIUM", lvl(2)[0] == "MEDIUM", lvl(2)[1])
+        check("risk: relationship keyword is MEDIUM", lvl(3)[0] == "MEDIUM", lvl(3)[1])
+        check("risk: death keyword is HIGH", lvl(4)[0] == "HIGH", lvl(4)[1])
+        check("risk: reveal CONFIRM is HIGH", lvl(6)[0] == "HIGH", lvl(6)[1])
+        check("risk: open debt due is MEDIUM", lvl(7)[0] == "MEDIUM", lvl(7)[1])
+        check("risk: arc end is HIGH", lvl(9)[0] == "HIGH", lvl(9)[1])
+        c, o = run(root, "review_pack.py", "4")
+        check("review pack: has chapter, outline, canon, checklist and risk", c == 0 and "## Chapter text" in o and "## Outline line" in o and "## Relevant canon" in o and "## Checklist" in o and "Risk: HIGH" in o, o[:200])
+        check("review pack: leaves out the writer's style profile, premise and characters", "## Style profile" not in o and "## Premise" not in o and "## Characters" not in o)
+        c, o = run(root, "review_pack.py", "40")
+        check("review pack: missing chapter is an ERROR line", "ERROR" in o, o[:100])
+    finally:
+        shutil.rmtree(root, ignore_errors=True)
+
+
+def stage5_tests():
+    """Story memory index (tools/memory_index.py): SQLite + FTS5 derived from markdown."""
+    eng = {"arcs": {"1": {"start": 1, "end": 3, "name": "A", "max": 3, "status": "writing"}, "2": {"start": 4, "end": 6, "name": "B", "max": 3, "status": "planned"}}}
+    root = mkroot([], eng)
+    try:
+        write(root / "story/bible/canon_names.txt", "Alvar\nBrenna\nCorentin\n")
+        write(root / "story/bible/summaries.md", "# S\n## Ch 1 - A\nAlvar finds a silver locket. He hides it.\n## Ch 2 - B\nBrenna sees the locket and says nothing.\n## Ch 4 - C\nCorentin returns.\n")
+        write(root / "story/bible/threads.md", "# T\n1. Whose locket is it | 1 | 2 feeds | 5 | ok\n")
+        write(root / "story/bible/debts.md", "# D\n- [open] Locket (Corentin) | planted: ch 1 | due: ch 5\n- [paid] Soup debt | planted: ch 2 | due: ch 3\n- [open] Locket (Corentin) | planted: ch 1 | due: ch 5\n")
+        write(root / "story/bible/secrets.md", "# S\n- Corentin was a Veil (big) | known by: Alvar | reveal planned: ch 5\n")
+        write(root / "story/bible/timeline.md", "# T\n- Ch 1 the locket is found in the well\n- Old text SUPERSEDED by the new timeline\n")
+        write(root / "story/bible/characters.md", "# C\n- **Alvar Stone**, 18, finds things\n")
+        write(root / "story/outline/arc-1.md", "# A\n- Ch 1: Alvar finds the locket.\n- Ch 2: Brenna asks about it.\n")
+        c, o = run(root, "memory_index.py", "update")
+        check("memory: first update indexes all sources", c == 0 and "rows in index" in o and "summaries:3" in o, o)
+        check("memory: identical lines are deduplicated", "duplicates skipped: 1" in o, o)
+        c, o = run(root, "memory_index.py", "update")
+        check("memory: unchanged files are not re-indexed", "nothing changed" in o, o)
+        c, o = run(root, "memory_index.py", "query", "--text", "silver locket")
+        check("memory: FTS finds the summary with provenance", "story/bible/summaries.md:" in o and "silver locket" in o, o)
+        c, o = run(root, "memory_index.py", "query", "--chars", "Corentin", "--type", "debt", "--status", "open")
+        check("memory: filter by character, type and status", c == 0 and "debts.md:2" in o and "paid" not in o, o)
+        c, o = run(root, "memory_index.py", "query", "--chapter", "1", "--near", "1", "--type", "chapter")
+        check("memory: filter by chapter window", "ch 1" in o and "ch 2" in o and "ch 4" not in o, o)
+        c, o = run(root, "memory_index.py", "query", "--arc", "2", "--type", "chapter")
+        check("memory: filter by arc", "ch 4" in o and "ch 1 " not in o, o)
+        c, o = run(root, "memory_index.py", "query", "--type", "thread")
+        check("memory: thread ledger row gets its raised chapter", "thread ch 1" in o, o)
+        c, o = run(root, "memory_index.py", "query", "--type", "secret")
+        check("memory: major importance is read from the line itself", "MAJOR" in o, o)
+        c, o = run(root, "memory_index.py", "query", "--type", "event", "--status", "superseded")
+        check("memory: SUPERSEDED line gets that status", "SUPERSEDED" in o, o)
+        write(root / "story/bible/debts.md", "# D\n- [open] New debt about a hat | planted: ch 2 | due: ch 6\n")
+        c, o = run(root, "memory_index.py", "update")
+        check("memory: only the changed file is re-indexed", "bible/debts.md:1" in o and "threads" not in o, o)
+        c, o = run(root, "memory_index.py", "arc-digest", "1")
+        check("memory: arc digest uses first sentences and provenance", "Ch 1: Alvar finds a silver locket." in o and "He hides it" not in o and "Ch 4" not in o, o)
+        db = root / "ops" / "memory.sqlite"
+        db.write_bytes(b"this is not a database at all, just damaged bytes" * 50)
+        c, o = run(root, "memory_index.py", "update")
+        check("memory: damaged index is set aside and rebuilt", c == 0 and "rows in index" in o and (root / "ops" / "memory.sqlite.corrupt").exists(), o)
+        check("memory: markdown sources untouched by indexing", "SUPERSEDED" in read_text(root / "story/bible/timeline.md"))
+    finally:
+        shutil.rmtree(root, ignore_errors=True)
+
+
+def read_text(p):
+    return Path(p).read_text(encoding="utf-8")
+
+
+def stage6_tests():
+    """Usage and cost measurement (tools/usage_log.py): actual vs estimate, per chapter, projection, context log."""
+    root = mkroot([1, 2], ARC_RUNNING)
+    try:
+        c, o = run(root, "usage_log.py", "report")
+        check("cost: no data says UNMEASURED, no projection", "UNMEASURED" in o and "850" not in o, o)
+        run(root, "usage_log.py", "add", "--role", "writer", "--model", "m", "--provider", "p", "--range", "1-2", "--input", "1000", "--output", "500",
+            "--source", "reported", "--actual-cost", "0.30", "--context-chars", "30000", "--context-fingerprint", "abc123", "--revision-count", "1")
+        row = json.loads((root / "ops/usage.jsonl").read_text().splitlines()[0])
+        check("usage row carries novel, provider, operation, total tokens, context size, fingerprint, revisions, actual cost",
+              row["provider"] == "p" and row["operation"] == "writer" and row["total_tokens"] == 1500 and row["context_characters"] == 30000
+              and row["context_fingerprint"] == "abc123" and row["revision_count"] == 1 and row["actual_cost"] == 0.30 and row["novel"], str(row))
+        run(root, "usage_log.py", "add", "--role", "writer", "--range", "1-2", "--source", "estimate", "--input", "9999999", "--output", "9999999")
+        c, o = run(root, "usage_log.py", "report")
+        reported = o.split("== ESTIMATED")[0]
+        check("cost: per-chapter and per-100 from provider actual_cost", "0.1500 USD" in reported and "15.00 USD" in reported, o)
+        check("cost: 850-chapter figure is labelled a projection, not a measurement", "PROJECTION" in reported and "NOT a measurement" in reported and "128 USD" in reported, o)
+        check("cost: estimate source never feeds the actual figures", "not available" in o.split("== ESTIMATED")[1].split("Prices come")[0], o)
+        check("cost: stages and revisions per chapter shown", "role stages per chapter: 0.50" in reported and "revisions/retries per chapter: 0.50" in reported, o)
+        write(root / "ops/context-log.jsonl", json.dumps({"chars": 100, "fingerprint": "a", "omitted": []}) + "\n" + json.dumps({"chars": 300, "fingerprint": "b", "omitted": [["x", 1]]}) + "\n")
+        c, o = run(root, "usage_log.py", "report")
+        check("context log summary is in characters, not tokens", "CONTEXT SIZE LOG (2 pack(s), characters, NOT tokens): avg 200, max 300" in o and "dropped sections: 1" in o, o)
+    finally:
+        shutil.rmtree(root, ignore_errors=True)
+
+
 def main():
     root = Path(tempfile.mkdtemp(prefix="anogen-test-"))
     try:
@@ -717,6 +905,12 @@ def main():
     phase_two_tests()
     phase_b_tests()
     novel_tests()
+    policy_tests()
+    stage2_tests()
+    stage3_tests()
+    stage4_tests()
+    stage5_tests()
+    stage6_tests()
     if FAILS:
         print("\nFAILED:", ", ".join(FAILS))
         sys.exit(1)

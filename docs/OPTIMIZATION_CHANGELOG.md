@@ -69,3 +69,19 @@ Reading the numbers:
 - Retrieval adds about 3.4-3.6k chars per chapter (column C minus B). That is a deliberate quality cost: it is more context, not less. Net of the two, a later chapter is still about 2.5k chars smaller than the current pack in this fixture, but treat retrieval as spending for better recall, not as a saving.
 - Only three real transitions exist in the visible history, and in them Debts and Secrets never changed; a batch where the writer edits all three files heavily will save less (the 60% rule then sends full text).
 - Not measured: provider token counts, writer quality with diffs versus full text, and whether the writer correctly applies diffs. Quality trade-off: the writer must hold its first pack in mind; the prompt tells it to re-run the full pack when unsure. Recommended before relying on it: one approved real batch compared against `ops/usage.jsonl`, and a critic check for state errors.
+
+## Single-agent optimization, Stage 1 (2026-11-25)
+- Backup sebelum mulai: branch `backup/pre-single-agent-opt-20261125` (commit 7815569).
+- Audit Fase 0: `docs/SINGLE_AGENT_OPTIMIZATION_AUDIT.md`.
+- `engine/models.json`: `mode` dari `delegate` menjadi `inline-stage` pada tiga peran; teks `concurrency.rule` dan `orchestrator.where` tidak lagi menyebut spawning. Nilai model, tier, dan `max_agents_per_job` tidak diubah.
+- `AGENTS.md`, `docs/ARCHITECTURE.md`, `engine/PORTABILITY.md`, prompt writer dan critic: kata "spawn an agent" diganti "run the ... stage yourself".
+- Baru: `tools/policy_check.py` (+8 tes di `test_tools.py`, +langkah CI). Diuji terhadap commit 7815569: mendeteksi 6 masalah (Verified); pada state sekarang 0.
+- Belum diukur: penghematan token (tidak ada data provider).
+- Stage 2: `context_pack.py` baru: fingerprint footer, `--log`, `--budget` (drop utuh bagian prioritas rendah), dedup baris identik, `--style auto|full`. Diukur: tidak ada pengurangan pada pack sekarang (lihat COST_BENCHMARK.md).
+- Stage 3: `tools/validate.py` (ERROR/WARNING/INFO, `--json`, `--write`); `AGENTS.md` memakainya setelah `verify_batch.py`.
+- Stage 4: `tools/risk.py`, `tools/review_pack.py`, `engine/self-review-checklist.md`; prompt writer mendapat langkah 3b (self-review sesi yang sama). Frekuensi critic (per 10 bab) tidak diubah.
+- Stage 5: `tools/memory_index.py` (SQLite+FTS5 turunan markdown, provenance, dedup, pemulihan indeks rusak, arc digest); `save.py` memperbarui indeks best-effort. Dokumen: `docs/STORY_MEMORY_ENGINE.md`.
+- Stage 6-7: `usage_log.py` diperluas (provider, novel, operation, context, fingerprint, revisi, actual_cost, per 100 bab, proyeksi berlabel, ringkasan context-log); `tools/bench_context.py`; `docs/COST_BENCHMARK.md`.
+- Persetujuan owner (2026-11-25): perubahan `mode` di `engine/models.json` dan pemecahan style profile (tanpa menghapus aturan).
+- Tes: semua lulus lokal; CI diverifikasi di PR.
+

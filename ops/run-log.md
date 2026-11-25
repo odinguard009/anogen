@@ -126,4 +126,9 @@ One entry per run. The owner fills in quota_note after checking claude.ai/settin
 
 ### 2026-11-25 00:10 UTC (07:10 WIB) - audit - ok
 - notes: audit ch 11-20: 3 proposals in story/proposals-audit.md (B1 floor-length chapters, freshness 3, dialogue target mismatch; B2 rest Eaten today?/food gag, Rowan quiet beat missing; B3 debts cap dropped Concord map plant, state.md Ball countdown, Isolde/Ysolde); +6 banned caps; +11 variety options; no debts past due; blocked.md/decisions.md trimmed
+- quota_note:
+
+### 2026-11-25 00:12 UTC (07:12 WIB) - tulis bab berikutnya - chapter 21 - ok
+- words: 2472
+- scores: tension 3, surprise 3, emotion 4, battle_clarity -, voice 4, freshness 3
 - quota_note: 

@@ -622,3 +622,5 @@ Castelreigh
 Hartenfels
 Ostermark
 Renaud
+Bursar
+Long Stair

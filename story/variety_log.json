@@ -258,5 +258,18 @@
       "pacing_shape": "uneven: a racing run-on, then one-line fragments",
       "hook_type": "reveal that reframes the chapter"
     }
+  },
+  {
+    "chapter": 21,
+    "picks": {
+      "opening_type": "line of dialogue",
+      "scene_shape": "ensemble scene with conflicting goals",
+      "tension_type": "betrayal suspected",
+      "emotional_tone": "a loud character caught quiet and off-key",
+      "comic_device": "a side character steals the scene",
+      "conflict_type": "losing fight with a costly exit",
+      "pacing_shape": "single long scene",
+      "hook_type": "an action shown with no explanation"
+    }
   }
 ]

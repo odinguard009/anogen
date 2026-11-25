@@ -12,7 +12,7 @@
 
 I went left. The lower city was getting dark, and the shops on Wick Street were pulling down their shutters one by one with a long iron rattle. It was the first evening of the month, and on that evening I walked to the palace, to sit in a small room and tell a tired woman what I had done. I wore my plain school coat and carried nothing. A boy with a bad habit of sleeping on roofs is allowed to walk where he likes, and no guard has ever looked at me twice.
 
-I liked the walk. It was the one hour of the month when nobody asked me for anything. The air smelled of coal smoke and wet stone, and from an upstairs window a woman was singing about a lost goat. I had a little time, and the late sun lay red on the chimney pots, and for the length of the street I was almost happy.
+I liked the walk. It was the one hour of the month when no one asked me for anything. The air smelled of coal smoke and hot oil, and a motor-car rattled past with its horn going, scaring a cart horse. From an upstairs window a woman was singing about a lost goat. The late sun lay red on the chimney pots. I noted that I was comfortable, which happens to me about twice a month.
 
 Then I came to the corner, and I heard the first blow.
 
@@ -30,13 +30,13 @@ I walked on three more steps, and then I stopped, because the crying did not.
 
 * * *
 
-The shop was a narrow one, painted green, with a brass key hung over the door and a sign that said it cut keys and mended locks Three men stood in front of it. They had a long iron post between them, the kind used to hold up a market stall, and they were using it as a ram. The door shook each time they hit it. A strip of the wood along the top had already split.
+The shop was a narrow one, painted green, with a brass key hung over the door and a sign that said it cut keys and mended locks. Three men stood in front of it. They had a long iron post between them, the kind used to hold up a market stall, and they were using it as a ram. The door shook each time they hit it. A strip of the wood along the top had already split.
 
 A fourth man stood back in the road with his arms folded, watching, and he was the one I did not like.
 
-He wore a clerk's grey coat, and he had a polite, empty face, and the light from the street lamp fell across him in a perfectly ordinary way. But on the cobbles at his feet there was no proper shadow. There was only a flat dark shape, thin and wrong, like a hole cut in paper.
+He wore a clerk's grey coat. His skin was the colour of paper, and he smiled a polite, fixed smile that never moved. The mana-lamp on the corner lit him as it lit everyone. But the shadow on the cobbles at his feet was flat and thin, and it lagged a beat behind him when he shifted his weight, like a hole cut in paper.
 
-"Veil," whispered Vesk. "Same kind as the market."
+"Veil," whispered Vesk. "Same kind as the exchange."
 
 "I see it."
 

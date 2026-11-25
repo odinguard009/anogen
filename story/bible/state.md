@@ -1,4 +1,4 @@
-# State after chapter 20 (Ball in ~5 days) (autumn PR 112, ~3 weeks before the Lantern Ball)
+# State after chapter 20 (Ball in ~6 days) (autumn PR 112)
 
 ## Eden (narrator)
 - 18, Year 5, rank 8. Public: Eden Wren, Thornmere-born scholarship ward. True: Eden Aster Argentine. Dyed hair, gray eyes.

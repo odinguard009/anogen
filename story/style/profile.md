@@ -5,7 +5,7 @@
 - Plain, everyday words. Pick the simple word every time: "use" not "employ", "hard" not "arduous", "hide" not "conceal". If a word would make a teen reach for a dictionary, replace it. Invented world terms are fine but explain them by action in one short line, max 1-2 new ones per chapter.
 - Short sentences, mostly 8-18 words. Max one long sentence per paragraph; no sentence over 30 words. Few commas and clauses stacked together; no semicolons.
 - Short paragraphs: 1-4 lines on a phone, usually 1-3 sentences. Break big blocks.
-- More dialogue: aim for 30-45% of the words in quiet scenes, still plenty in fights. Quick back-and-forth, one idea per line. Each speaker sounds different and talks like a real teen or young adult (contractions, slang-lite, teasing), not like a legal document.
+- More dialogue: aim for 25-40% of the words in quiet scenes, still plenty in fights. Quick back-and-forth, one idea per line. Each speaker sounds different and talks like a real teen or young adult (contractions, slang-lite, teasing), not like a legal document.
 - Fights: clear and fast. Say what happens in order, who is where, what the move is. Short punchy lines; no abstract or poetic descriptions of combat.
 - Feelings and humor must be easy to catch on first read: keep subtext, but make the joke or the emotion land without needing a second read. Wit stays dry but simple.
 - Keep metaphors rare, concrete and easy (one per page at most). No academic, legal, military-jargon or archaic wording unless a character is deliberately a stiff noble, and even then keep it short.

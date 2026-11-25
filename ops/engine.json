@@ -18,5 +18,5 @@
     "stop_reason": ""
   },
   "critic_through": 20,
-  "audit_through": 10
+  "audit_through": 20
 }

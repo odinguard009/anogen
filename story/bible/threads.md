@@ -45,3 +45,4 @@
 34. Eden's fear of becoming Melchsee | 298 (sixth Toll) | 340, 400, 446, 590, 726 | 795 | ok
 
 Arc 1 plan: Tutor feed 30->29 (ch 30 is the Duke's POV); Rowan's question 40->39 (ch 40 is Ysolde's POV); Felix's middle name is Perrin. New feeds added in this audit: 35, 60, 66, 70, 75, 85, 100, 104, 110, 120, 130, 150, 160 and the recurring dream, Hierarch, Kell and Clara-visit beats. Writers treat these as small beats (a line, a scene), not chapters.
+35. Merrow asks "which hall" the Ball lanterns hang in (planted ch 20) | 280 | 285-290 pay off | 295 | open

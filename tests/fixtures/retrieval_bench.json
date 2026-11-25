@@ -1,0 +1,144 @@
+{
+ "_about": "Labeled retrieval benchmark for tools/memory_index.py on the frozen golden5 fixture (tests/fixtures/golden5/root). Labels were written by the orchestrator (an AI) by reading the fixture summaries; they are NOT owner-verified. Each query is a paraphrase of what a writer/outline line would ask; 'relevant' lists the chapter-summary rows (type=chapter) that answer it. 'type' optionally restricts the query like the CLI --type flag.",
+ "queries": [
+  {
+   "q": "Eden ambushed by ten crossbows at the tannery in the Mantle",
+   "relevant": [
+    23
+   ]
+  },
+  {
+   "q": "twenty-two Cinders children dyeworks rafter Vesk false alarm",
+   "relevant": [
+    22
+   ]
+  },
+  {
+   "q": "lamplighter snuffing lamps burning oil soaks Eden's glove",
+   "relevant": [
+    13
+   ]
+  },
+  {
+   "q": "Valerius Ladder challenge Rule Nine court lanes",
+   "relevant": [
+    16,
+    17
+   ]
+  },
+  {
+   "q": "Lysette tailing Eden tour Candlewick Lane loaf",
+   "relevant": [
+    15
+   ]
+  },
+  {
+   "q": "Rowan dances with Clara Ball night roof atrium",
+   "relevant": [
+    24
+   ]
+  },
+  {
+   "q": "bell market Gorrath pretzel stand Mirelle roof Rowan",
+   "relevant": [
+    18
+   ]
+  },
+  {
+   "q": "Seraphine joke east kitchen bake eleven ovens",
+   "relevant": [
+    19
+   ]
+  },
+  {
+   "q": "Okoru forms Year 5 Lances lowchapel pews Lance Nine",
+   "relevant": [
+    6
+   ]
+  },
+  {
+   "q": "Ysolde bookbinder file Emeric Fauconier revenue clerk replaced Veil",
+   "relevant": [
+    3
+   ]
+  },
+  {
+   "q": "Lantern Ward crowd besieging Seal post pear woman stall sealed",
+   "relevant": [
+    9
+   ]
+  },
+  {
+   "q": "Kennel dust-hounds Undercroft maze nine minutes false walls",
+   "relevant": [
+    11
+   ]
+  },
+  {
+   "q": "Felix asks why Eden lets nobody Trail left guess Perrin",
+   "relevant": [
+    12
+   ]
+  },
+  {
+   "q": "Clement Daubert twenty-two wardens Tortoise west workshops moon grate",
+   "relevant": [
+    8
+   ]
+  },
+  {
+   "q": "Lysette first attendance warrant pink seal dry ink pad roof",
+   "relevant": [
+    7
+   ]
+  },
+  {
+   "q": "Valerius wrist hums Concord map Hush front Seraphine stairs",
+   "relevant": [
+    20
+   ]
+  },
+  {
+   "q": "Thornmere scholarship wards Crowns list Golden Seal ten-minute order",
+   "relevant": [
+    25
+   ]
+  },
+  {
+   "q": "who guards the children at the dye works",
+   "relevant": [
+    22
+   ]
+  },
+  {
+   "q": "the day Lysette cried about her gold dress",
+   "relevant": [
+    24
+   ]
+  },
+  {
+   "q": "first time Eden slept on the observatory roof dream chokes him",
+   "relevant": [
+    1
+   ]
+  },
+  {
+   "q": "fight with burning lantern crowd on Wick Street",
+   "relevant": [
+    9
+   ]
+  },
+  {
+   "q": "Eden's left hand numb Frost",
+   "relevant": [
+    23
+   ]
+  },
+  {
+   "q": "Year 5 list public atrium board leak theory collapses",
+   "relevant": [
+    4
+   ]
+  }
+ ]
+}

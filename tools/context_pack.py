@@ -14,6 +14,10 @@ Usage: context_pack.py [--chapter N] [--extra world,armor] [--peek] [--part full
 --style auto|full (default auto): in auto mode the situational style blocks (SPECIAL ATTACK LABEL, the ARMOR part of SCENE FEEL,
   Battles and aura) are replaced by a one-line stub ONLY when none of the outline lines for chapters N..N+4 mentions fighting,
   armor or powers; no outline lines found = full style. --style full always loads everything.
+--extra name?: an extra whose name ends in '?' is loaded only when the same outline test says fighting, armor or powers are in play
+  (so the combat-style extra is not injected unconditionally); `--style full` loads it anyway.
+--static-seen FP: pass the fingerprint printed by an earlier static pack of THIS conversation; if the new static pack is
+  identical, only a one-line notice is printed (it saves a full reload when several batches run in one session).
 --budget N: character budget for the pack (default: setting context_pack_max_chars). Over budget, whole low-priority sections
   (Extra:, Retrieved memory, Pacing) are dropped in that order and named in a PACK NOTE; never mid-section. If the protected
   sections alone are over budget the old tail cut and exit 4 remain.
@@ -271,10 +275,18 @@ def build(chapter=None, extra=(), peek=False, part="full", no_tail=False, increm
     if want_s:
         add("Premise", read(STORY / "bible" / "premise.md"), 2500)
         seen = {"characters", "premise"}
+        LAST["extra_omitted"] = []
+        outline5 = "\n".join(outline_lines(n, 5))
         for e in extra:
+            cond = e.endswith("?")
+            e = e.rstrip("?")
             if e in seen:
                 continue
             seen.add(e)
+            if cond and style == "auto" and outline5.strip() and not SITUATIONAL_RE.search(outline5):
+                LAST["extra_omitted"].append(e)
+                sections.append(f"## Extra: {e}\n[omitted: the outline lines for chapters {n}-{n + 4} show no fight, armor or power use. Run context_pack.py --style full (or name it without the '?') to load it.]")
+                continue
             add(f"Extra: {e}", read(STORY / "bible" / f"{e}.md"), 9500)
 
     sections, dup_removed = dedup_sections(sections)
@@ -319,10 +331,14 @@ def main():
     ap.add_argument("--style", choices=["auto", "full"], default="auto")
     ap.add_argument("--budget", type=int, default=None)
     ap.add_argument("--log", action="store_true")
+    ap.add_argument("--static-seen", default="", help="fingerprint of a static pack already in THIS conversation; an identical pack is replaced by one line")
     a = ap.parse_args()
     extra = [e.strip() for e in a.extra.split(",") if e.strip()]
     out = build(a.chapter, extra, a.peek, a.part, a.no_tail, a.incremental, a.batch_start, a.retrieve, a.style, a.budget)
     fp = sha(out)
+    if a.static_seen and a.part == "static" and a.static_seen == fp:
+        print(f"[static context unchanged: fingerprint {fp} is the pack already in this conversation ({len(out)} chars not repeated). If you no longer have it (context was compacted or this is a new chat), run again without --static-seen.]")
+        return
     print(out)
     print(f"[context fingerprint {fp}; {len(out)} chars (about {len(out) // 4} tokens, ESTIMATE chars/4); duplicate chars removed: {LAST.get('dup_removed', 0)}]")
     if a.log:

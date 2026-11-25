@@ -19,6 +19,7 @@ Status: Stage 1 selesai (2026-11-25). Aturan sumber: AGENTS.md locked setting 13
 Penulis dan critic adalah sesi yang sama. Tidak ada pemeriksa independen; kualitas pemeriksaan bergantung pada `prepass.py`, `verify_batch.py` dan checklist tertulis. Ini konsekuensi aturan owner, bukan bug.
 
 ## Penegakan
-- `engine/models.json`: field `mode` memakai `inline-stage` (bukan `delegate`); model, tier, dan `max_agents_per_job` tidak diubah.
+- `engine/models.json`: field `mode` memakai `inline-stage` (nilai lama untuk delegasi sudah dihapus); model, tier, dan `max_agents_per_job` tidak diubah.
 - `tools/policy_check.py` gagal (exit 1) bila konfigurasi menyuruh delegasi atau dokumen instruksi menyuruh memulai agent. Dijalankan di CI dan di `tools/test_tools.py`.
-- Keterbatasan: pemeriksa berbasis baris. Baris yang memuat kata larangan (never/not/tidak/jangan) dibiarkan lolos, jadi kalimat campuran seperti "do not forget to spawn" bisa lolos. Dokumen historis (AUDIT_REPORT, PERFORMANCE_BASELINE, OPTIMIZATION_*, decisions.md) tidak dipindai.
+- Pemeriksa bekerja per klausa (dipecah di titik, titik koma, tanda hubung dan kata kontras seperti but/tetapi/namun). Klausa yang memuat istilah terlarang hanya lolos bila itu larangan murni: kata larangan (never/not/jangan/tidak pernah, dan lain-lain) tepat di depannya atau "is never/not" tepat di belakangnya. Kata pengecualian atau kewajiban (except, unless, kecuali, forget to, lupa, must, wajib) menggagalkan klausa. Diuji dengan kalimat adversarial (Inggris, Indonesia, campuran).
+- Keterbatasan: pemeriksa memakai kata kunci, bukan pemahaman bahasa. Kalimat yang menyuruh delegasi dengan kata lain yang tidak ada di daftar tidak terdeteksi. Dokumen historis (AUDIT_REPORT, PERFORMANCE_BASELINE, OPTIMIZATION_*, decisions.md) tidak dipindai.

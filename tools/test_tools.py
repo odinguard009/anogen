@@ -560,6 +560,25 @@ def stage2_tests():
         lim = n - 50
         small = subprocess.run(base + ["--budget", str(lim)], capture_output=True, text=True)
         check("ctx budget: low-priority section dropped whole with a note", small.returncode == 0 and "PACK NOTE" in small.stdout and "## Retrieved memory" not in small.stdout, small.stderr)
+    root = mkroot([1, 2])
+    try:
+        write(root / "story/bible/combat-style.md", "# Combat\n## Stance\nlow and calm\n")
+        write(root / "story/bible/series.md", "x")
+        write(root / "story/outline/arc-1.md", "# A\n- Ch 3: they cook soup and talk.\n- Ch 4: a walk in the rain.\n- Ch 5: tea.\n")
+        c, q = run(root, "context_pack.py", "--part", "static", "--chapter", "3", "--peek", "--extra", "combat-style?")
+        check("ctx extra?: conditional extra is replaced by a stub when the outline has no fight", c == 0 and "## Extra: combat-style\n[omitted" in q and "low and calm" not in q, q[-400:])
+        write(root / "story/outline/arc-1.md", "# A\n- Ch 3: they cook soup.\n- Ch 4: a duel in the yard.\n- Ch 5: tea.\n")
+        c, q2 = run(root, "context_pack.py", "--part", "static", "--chapter", "3", "--peek", "--extra", "combat-style?")
+        check("ctx extra?: loaded when the outline shows a fight", "low and calm" in q2 and "[omitted" not in q2.split("Extra: combat-style")[1][:40], q2[-300:])
+        c, q3 = run(root, "context_pack.py", "--part", "static", "--chapter", "3", "--peek", "--extra", "combat-style")
+        check("ctx extra: a name without '?' is always loaded", "low and calm" in q3)
+        fp = q2.strip().splitlines()[-1].split("fingerprint ")[1].split(";")[0]
+        c, q4 = run(root, "context_pack.py", "--part", "static", "--chapter", "3", "--peek", "--extra", "combat-style?", "--static-seen", fp)
+        check("ctx static-seen: an identical static pack becomes one line", "static context unchanged" in q4 and len(q4) < 500 and "Style profile" not in q4, q4[:300])
+        c, q5 = run(root, "context_pack.py", "--part", "static", "--chapter", "3", "--peek", "--extra", "combat-style?", "--static-seen", "000000000000")
+        check("ctx static-seen: a different fingerprint still gives the full pack", "Style profile" in q5 and "unchanged" not in q5.split("## Style")[0][-200:])
+    finally:
+        shutil.rmtree(root, ignore_errors=True)
     tiny = subprocess.run(base + ["--budget", "3000"], capture_output=True, text=True)
     check("ctx budget: protected sections over budget exit 4, never silent", tiny.returncode == 4 and "TRUNCATED" in tiny.stdout, str(tiny.returncode))
 
@@ -615,6 +634,19 @@ def stage4_tests():
         c, o = run(root, "review_pack.py", "4")
         check("review pack: has chapter, outline, canon, checklist and risk", c == 0 and "## Chapter text" in o and "## Outline line" in o and "## Relevant canon" in o and "## Checklist" in o and "Risk: HIGH" in o, o[:200])
         check("review pack: leaves out the writer's style profile, premise and characters", "## Style profile" not in o and "## Premise" not in o and "## Characters" not in o)
+        c, lo = run(root, "review_pack.py", "1")
+        c, me = run(root, "review_pack.py", "2")
+        c, hi = run(root, "review_pack.py", "4")
+        check("review pack: LOW risk does not reload the chapter text", "Chapter text in this pack: none" in lo and "## Chapter text" not in lo and "## Opening" not in lo and "## Ending (last 40 words)" in lo, lo[:300])
+        check("review pack: MEDIUM risk carries opening and ending excerpts only", "Chapter text in this pack: excerpts" in me and "## Opening" in me and "## Chapter text" not in me, me[:300])
+        check("review pack: HIGH risk reloads the whole chapter", "Chapter text in this pack: full" in hi and "## Chapter text" in hi, hi[:300])
+        check("review pack: compact modes are smaller than full", len(lo) < len(me) < len(hi), f"{len(lo)} {len(me)} {len(hi)}")
+        c, fo = run(root, "review_pack.py", "1", "--text", "full")
+        check("review pack: --text full overrides the risk choice", "## Chapter text" in fo and c == 0)
+        check("review pack: LOW checklist keeps only items 1, 5, 7, 9", all(f"\n{i}. " in lo for i in (1, 5, 7, 9)) and "\n2. " not in lo and "\n3. " not in lo, lo[-700:])
+        check("review pack: cold-read rule is in the checklist", "COLD READ" in lo and "do not defend" in lo)
+        c, o = run(root, "review_pack.py", "1", "--text", "bogus")
+        check("review pack: bad --text value prints usage", c != 0)
         c, o = run(root, "review_pack.py", "40")
         check("review pack: missing chapter is an ERROR line", "ERROR" in o, o[:100])
     finally:
@@ -665,6 +697,13 @@ def stage5_tests():
         check("memory: markdown sources untouched by indexing", "SUPERSEDED" in read_text(root / "story/bible/timeline.md"))
     finally:
         shutil.rmtree(root, ignore_errors=True)
+    # labeled retrieval benchmark (tools/bench_memory.py; labels by the orchestrator, not owner-verified)
+    b = subprocess.run([sys.executable, str(TOOLS / "bench_memory.py")], capture_output=True, text=True)
+    prod = [l for l in b.stdout.splitlines() if l.startswith("- production")]
+    old = [l for l in b.stdout.splitlines() if l.startswith("- chapter-order")]
+    check("memory benchmark: production ranking finds the labeled chapter at rank 1 for >= 90% of queries and beats chapter order",
+          b.returncode == 0 and bool(prod) and bool(old) and float(prod[0].split("hit@1")[1].split()[0]) >= 0.9
+          and float(old[0].split("hit@1")[1].split()[0]) < 0.5, b.stdout + b.stderr)
 
 
 def read_text(p):
@@ -695,6 +734,48 @@ def stage6_tests():
         check("context log summary is in characters, not tokens", "CONTEXT SIZE LOG (2 pack(s), characters, NOT tokens): avg 200, max 300" in o and "dropped sections: 1" in o, o)
     finally:
         shutil.rmtree(root, ignore_errors=True)
+
+
+def policy_adversarial_tests():
+    """Contradictory active instructions must be rejected; pure prohibitions must pass."""
+    import json as _j
+    import policy_check as pc
+    must_flag = ["Do not forget to spawn an agent.", "Never use sub-agents, except for the critic.", "No delegation is required; delegate the writer.",
+                 "Jangan lupa spawn agent untuk critic.", "Tidak pernah memakai subagent, kecuali untuk critic.", "Jangan spawn agent, tetapi gunakan sub-agent untuk critic.",
+                 "The critic is an independent reviewer of the writer.", "Open a separate fresh session for the writer and critic roles.",
+                 "Do not spawn agents. Spawn one agent for the critic.", "You must spawn the writer.", "Please delegate the audit.",
+                 "Run sub-agent for the critic, never for the writer.", "Never use sub-agents unless the critic needs one.",
+                 "Tidak boleh spawn agent, namun critic wajib memakai sub-agent.", "Never spawn agents - delegate the critic instead.",
+                 "Spawn an agent, not a sub-agent.", "Tidak ada delegasi; delegate the writer.", "Gunakan sub-agent hanya untuk critic.",
+                 "Do not spawn; instead delegate to a second model."]
+    must_pass = ["Never spawn sub-agents.", "NEVER use sub-agents, delegation or parallel agents.", "Tidak pernah memakai subagent.", "Jangan pernah mendelegasikan.",
+                 "Agents are never spawned; the orchestrator performs each role.", "Sub-agents are NEVER used in this repo; perform each role inline instead.",
+                 "It is not allowed to delegate.", "No sub-agents.", "The critic is NOT an independent reviewer.", "Never start sub-agents (do not use the Agent tool)."]
+    missed = [s for s in must_flag if not pc.scan_text("x.md", s)]
+    wrong = [s for s in must_pass if pc.scan_text("x.md", s)]
+    check(f"policy adversarial: all {len(must_flag)} contradictory lines rejected", not missed, "; ".join(missed))
+    check(f"policy adversarial: all {len(must_pass)} pure prohibitions accepted", not wrong, "; ".join(wrong))
+    d = Path(tempfile.mkdtemp())
+    try:
+        (d / "engine").mkdir()
+        base = {"concurrency": {"max_agents_per_job": 1}, "roles": {"w": {"mode": "inline-stage"}}}
+        def models(x):
+            (d / "engine" / "models.json").write_text(_j.dumps(x), encoding="utf-8")
+            return pc.run(d)
+        check("policy models: clean config passes", models(base) == [])
+        bad = _j.loads(_j.dumps(base)); bad["roles"]["w"]["when"] = "strict scoring (independent from the writer)"
+        check("policy models: 'independent from the writer' is rejected", any("independent" in x for x in models(bad)), str(models(bad)))
+        bad = _j.loads(_j.dumps(base)); bad["roles"]["w"]["mode"] = "parallel"
+        check("policy models: a non-inline mode is rejected", len(models(bad)) >= 1)
+        bad = _j.loads(_j.dumps(base)); bad["concurrency"]["max_agents_per_job"] = 2
+        check("policy models: more than one agent per job is rejected", any("max_agents_per_job" in x for x in models(bad)))
+        bad = _j.loads(_j.dumps(base)); bad["orchestrator"] = {"where": "spawns ONE agent at a time"}
+        check("policy models: spawn text in any field is rejected", any("spawn" in x.lower() for x in models(bad)), str(models(bad)))
+        (d / "AGENTS.md").write_text("Never spawn sub-agents.\nUse a second model for the critic.\n", encoding="utf-8")
+        (d / "engine" / "models.json").write_text(_j.dumps(base), encoding="utf-8")
+        check("policy files: a contradictory active line in AGENTS.md is rejected", any("AGENTS.md:2" in x for x in pc.run(d)), str(pc.run(d)))
+    finally:
+        shutil.rmtree(d, ignore_errors=True)
 
 
 def main():
@@ -750,7 +831,9 @@ def main():
 
         # precheck
         c, o = run(root, "precheck.py", "--peek")
-        check("precheck lists unused names", "Corwin" in o and "Dasha" in o and "Alvar" not in o.split("Unused names")[1].split("Recent")[0], o)
+        c, oa = run(root, "precheck.py", "--peek", "--names", "all")
+        check("precheck lists unused names", "Corwin" in oa and "Dasha" in oa and "Alvar" not in oa.split("Unused names")[1].split("Recent")[0], oa)
+        check("precheck hides name pools of nations absent from the outline, and says how to get them", ("Other name pools not shown" in o and "--names all" in o) or ("Corwin" in o and "Dasha" in o), o)
         check("precheck shows inbox", "1 unprocessed" in o, o)
 
         # context pack
@@ -906,6 +989,7 @@ def main():
     phase_b_tests()
     novel_tests()
     policy_tests()
+    policy_adversarial_tests()
     stage2_tests()
     stage3_tests()
     stage4_tests()

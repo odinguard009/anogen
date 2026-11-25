@@ -1,4 +1,5 @@
 # Self-review checklist (one chapter; run right after writing it; same session, no extra agent)
+COLD READ first: judge the manuscript text itself as a first-time reader; use only the outline line and canon rows in the pack; do not assume your writing reasoning was right and do not defend it; report concrete problems only (quote the line); no line to point at = not a finding.
 Answer each line for the chapter in `review_pack.py`. Judge the TEXT, not your intentions. Do not re-analyse at length.
 1. Does it follow the outline line (goal, conflict, payoff, hook)?
 2. Do characters act in character and like normal people (emotions controlled unless the bible says eccentric)?

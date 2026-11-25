@@ -16,7 +16,7 @@ Savings are ESTIMATES (chars/4) until `ops/usage.jsonl` holds provider-reported 
 1. Target length: the 850-chapter plan in `story/outline/series.md` stays (about 1.9M words), so memory work (P1-4/P1-5) matters more than for 300-500k words.
 2. Critic for chapters 1-20: not re-run; their current text is recorded as owner-accepted (`engine_state.py baseline-reviewed`). The owner can order a critic run at any time with `engine_state.py rereview ...` after it.
 3. Critic frequency: once per 10 chapters (replaces once per 5).
-4. Push and merge are authorised (permanent project access, `ops/sop.md` section 0). GitHub Actions workflow added in the second pass.
+4. Push and merge are authorised (permanent project access, `engine/sop.md` section 0). GitHub Actions workflow added in the second pass.
 
 ## P0: reliability and data safety (small, low risk, do first)
 

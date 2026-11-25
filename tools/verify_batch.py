@@ -3,7 +3,7 @@
 
 Usage: verify_batch.py A-B [--strict-exit]
 Every subprocess result is checked: a crashed checker, a missing git, or a git error is a PROBLEM with its cause.
-Per chapter: file exists, '# Title' first line, word count in range, summary present, an outline line exists,
+Per chapter: file exists, '# Chapter N: Title' first line, word count in range, summary present, an outline line exists,
 scores row present, check_chapter has no ISSUE, and the chapter file is committed (clean in git).
 Prints one line per problem and 'VERIFY: OK' or 'VERIFY: n problem(s)'. Exit code 1 on problems.
 """
@@ -12,7 +12,7 @@ import re
 import subprocess
 import sys
 
-from common import OPS, ROOT, STORY, TOOLS, chapter_path, read, setting_int, word_count
+from common import OPS, ROOT, STORY, TOOLS, chapter_path, heading_issue, read, setting_int, word_count
 import context_pack
 
 
@@ -46,8 +46,9 @@ def problems_for(n, git_ok=None):
 def _problems_for(n, p, git_ok):
     out = []
     raw = read(p)
-    if not raw.lstrip().startswith("#"):
-        out.append(f"ch {n}: no '# Title' first line")
+    hi = heading_issue(raw, n)
+    if hi:
+        out.append(f"ch {n}: {hi}")
     wc = word_count(raw)
     lo, hi = setting_int("chapter_words_min"), setting_int("chapter_words_max")
     if not lo <= wc <= hi:

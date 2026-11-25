@@ -1,0 +1,49 @@
+{
+  "arcs": {
+    "1": {
+      "start": 1,
+      "end": 50,
+      "name": "The Rooftop",
+      "max": 50,
+      "status": "writing"
+    }
+  },
+  "batch": {
+    "mode": "arc",
+    "target": 0,
+    "arc": 1,
+    "max": 50,
+    "start_chapter": 1,
+    "status": "running",
+    "stop_reason": ""
+  },
+  "critic_through": 25,
+  "audit_through": 20,
+  "reviewed": {
+    "1": "7530e3355138e5f1",
+    "2": "16da1aefbd14b00c",
+    "3": "1db5ed4e7a8eed3b",
+    "4": "866462418a5bc11b",
+    "5": "b6c85f5dd4da4201",
+    "6": "e6da54858a9f1ac3",
+    "7": "d3d0261d4e35a0be",
+    "8": "380c4c5dcf5ecdbd",
+    "9": "79a445092a420ef2",
+    "10": "b528a569c6c0b8d9",
+    "11": "ddc0d82c58ae4c75",
+    "12": "ecb43ae5f4329def",
+    "13": "26bcfecb628a5ba9",
+    "14": "657e6fb10798df0a",
+    "15": "805d64702dae6be7",
+    "16": "30967e9f88eda041",
+    "17": "af52ffbcb87663ba",
+    "18": "05218bd2643c2c32",
+    "19": "901099a8d400d412",
+    "20": "9e01a5bc6458a4a6",
+    "21": "d96da46ed3c85995",
+    "22": "a6cf80ba61bdd058",
+    "23": "8bc1363026bef32b",
+    "24": "1a7e61ddabb56546",
+    "25": "8036d0c1931ca7f0"
+  }
+}

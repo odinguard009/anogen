@@ -14,6 +14,15 @@ import zipfile
 from pathlib import Path
 
 TOOLS = Path(__file__).resolve().parent
+
+
+def _src():
+    """Folder holding the real story files the tests copy (the active novel, or the repo itself in the flat layout)."""
+    act = TOOLS.parent / "novels" / "ACTIVE"
+    return TOOLS.parent / "novels" / act.read_text().strip() if act.exists() else TOOLS.parent
+
+
+SRC = _src()
 PY = sys.executable
 FAILS = []
 
@@ -73,16 +82,16 @@ def mkroot(chapters=(), engine=None):
     root = Path(tempfile.mkdtemp(prefix="anogen-test2-"))
     for d in ("story/bible", "story/outline", "story/style", "chapters", "ops", "out"):
         (root / d).mkdir(parents=True)
-    shutil.copy(TOOLS.parent / "story/brief.md", root / "story/brief.md")
-    shutil.copy(TOOLS.parent / "story/style/banned.md", root / "story/style/banned.md")
-    shutil.copy(TOOLS.parent / "story/style/profile.md", root / "story/style/profile.md")
+    shutil.copy(SRC / "story/brief.md", root / "story/brief.md")
+    shutil.copy(SRC / "story/style/banned.md", root / "story/style/banned.md")
+    shutil.copy(SRC / "story/style/profile.md", root / "story/style/profile.md")
     write(root / "story/inbox.md", "# Idea inbox\n\n## Unprocessed\n\n## Processed\n")
     write(root / "story/bible/canon_names.txt", "Alvar\nBrenna\n")
     write(root / "story/bible/summaries.md", "# S\n")
     write(root / "ops/engine.json", json.dumps(engine or {"arcs": {}}))
     rng = random.Random(3)
     for n in chapters:
-        write(root / f"chapters/chapter-{n:03d}.md", f"# Chapter {n}\n\n" + filler(rng, 2000, ["Alvar", "Brenna"]) + "\n")
+        write(root / f"chapters/chapter-{n:03d}.md", f"# Chapter {n}: Test Title\n\n" + filler(rng, 2000, ["Alvar", "Brenna"]) + "\n")
     return root
 
 
@@ -118,7 +127,7 @@ def phase_two_tests():
         d = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
         check("critic waits until 10 chapters are ready", d["critic_pending"] is None and d["critic_waiting"] == [1, 5], str(d))
         for n in range(6, 11):
-            write(root / f"chapters/chapter-{n:03d}.md", f"# Chapter {n}\n\n" + filler(random.Random(n), 2000, ["Alvar"]) + "\n")
+            write(root / f"chapters/chapter-{n:03d}.md", f"# Chapter {n}: Test Title\n\n" + filler(random.Random(n), 2000, ["Alvar"]) + "\n")
         d = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
         check("critic due at 10 with audit", d["critic_pending"] == [1, 10] and d["audit_with_critic"] is True, str(d))
         c, o = run(root, "engine_state.py", "mark", "critic", "11")
@@ -403,15 +412,90 @@ def phase_b_tests():
         shutil.rmtree(root, ignore_errors=True)
 
 
+def novel_tests():
+    """novels/<slug>/ layout: creation, selection, isolation, one global lock."""
+    import hashlib
+    repo = Path(tempfile.mkdtemp(prefix="anogen-novels-"))
+    shutil.copytree(TOOLS, repo / "tools", ignore=shutil.ignore_patterns("__pycache__"))
+    shutil.copytree(TOOLS.parent / "templates", repo / "templates")
+
+    def nrun(script, *args, novel=None):
+        env = {k: v for k, v in os.environ.items() if k not in ("ANOGEN_ROOT", "ANOGEN_NOVEL")}
+        if novel:
+            env["ANOGEN_NOVEL"] = novel
+        r = subprocess.run([PY, str(repo / "tools" / script), *args], capture_output=True, text=True, env=env, cwd=repo)
+        return r.returncode, r.stdout + r.stderr
+
+    def snap(slug):
+        out = {}
+        for f in sorted((repo / "novels" / slug).rglob("*")):
+            if f.is_file():
+                out[str(f.relative_to(repo / "novels" / slug))] = hashlib.sha256(f.read_bytes()).hexdigest()
+        return out
+
+    (repo / "novels").mkdir()
+    rc, o = nrun("novel.py", "list")
+    check("novel: list with no novels is not an error", rc == 0, o)
+    rc, o = nrun("status.py")
+    check("novel: tools refuse to run with no active novel (clear message)", rc != 0 and "no active novel" in o, o)
+    rc, o = nrun("novel.py", "new", "alpha-saga", "--title", "Alpha Saga")
+    check("novel: new creates folder from template and activates it", rc == 0 and (repo / "novels/alpha-saga/story/brief.md").exists()
+          and (repo / "novels/ACTIVE").read_text().strip() == "alpha-saga", o)
+    check("novel: title written into brief", "title: Alpha Saga" in (repo / "novels/alpha-saga/story/brief.md").read_text())
+    rc, o = nrun("novel.py", "new", "alpha-saga", "--title", "again")
+    check("novel: new refuses an existing slug", rc != 0, o)
+    rc, o = nrun("novel.py", "new", "Bad Slug", "--title", "x")
+    check("novel: new refuses an invalid slug", rc != 0, o)
+    rc, o = nrun("novel.py", "new", "beta-tale", "--title", "Beta Tale")
+    check("novel: second novel created", rc == 0 and (repo / "novels/beta-tale/ops/scores.csv").exists(), o)
+    a_before = snap("alpha-saga")
+    rc, o = nrun("inbox.py", "add", "idea for beta")
+    check("novel: commands act on the active novel only", rc == 0 and "idea for beta" in (repo / "novels/beta-tale/story/inbox.md").read_text(), o)
+    check("novel: other novel is byte-identical after the command", snap("alpha-saga") == a_before)
+    rc, o = nrun("inbox.py", "add", "idea for alpha", novel="alpha-saga")
+    check("novel: ANOGEN_NOVEL overrides ACTIVE", rc == 0 and "idea for alpha" in (repo / "novels/alpha-saga/story/inbox.md").read_text()
+          and "idea for alpha" not in (repo / "novels/beta-tale/story/inbox.md").read_text(), o)
+    rc, o = nrun("novel.py", "use", "nope")
+    check("novel: use refuses an unknown novel", rc != 0, o)
+    rc, o = nrun("novel.py", "use", "alpha-saga")
+    check("novel: use switches the active novel", rc == 0 and (repo / "novels/ACTIVE").read_text().strip() == "alpha-saga", o)
+    rc, o = nrun("novel.py", "new", "gamma", "--title", "Gamma", "--style-from", "missing")
+    check("novel: --style-from an unknown novel is refused and creates nothing", rc != 0 and not (repo / "novels/gamma").exists(), o)
+    (repo / "novels/alpha-saga/story/style/profile.md").write_text("# custom style\n")
+    rc, o = nrun("novel.py", "new", "delta", "--title", "Delta", "--style-from", "alpha-saga")
+    check("novel: --style-from copies the profile", rc == 0 and (repo / "novels/delta/story/style/profile.md").read_text() == "# custom style\n", o)
+    rc, o = nrun("lock.py", "acquire", "write", "--owner", "w", novel="alpha-saga")
+    rc2, o2 = nrun("lock.py", "acquire", "write", "--owner", "w2", novel="beta-tale")
+    check("novel: ONE global lock (second novel cannot start while the first is locked)", rc == 0 and rc2 == 3, o + o2)
+    rc, o = nrun("lock.py", "release", "write", "--owner", "w", novel="alpha-saga")
+    check("novel: lock released", rc == 0, o)
+    (repo / "novels/ACTIVE").write_text("ghost\n")
+    rc, o = nrun("status.py")
+    check("novel: ACTIVE pointing at a missing novel fails clearly", rc != 0 and "not found" in o, o)
+    # chapter heading format (owner order 2026-11-25): "# Chapter N: Title"
+    hroot = mkroot(chapters=(1, 2))
+    rc, o = run(hroot, "check_chapter.py", "chapters/chapter-001.md", "--strict")
+    check("heading: '# Chapter 1: Title' is accepted", "must be '# Chapter N: Title'" not in o and "heading says" not in o, o)
+    body = (hroot / "chapters/chapter-001.md").read_text().split("\n", 1)[1]
+    for label, head in (("old '# Title'", "# Forty Minutes of Grass"), ("no colon", "# Chapter 1 Forty"), ("wrong number", "# Chapter 7: Forty")):
+        (hroot / "chapters/chapter-001.md").write_text(head + "\n" + body)
+        rc, o = run(hroot, "check_chapter.py", "chapters/chapter-001.md", "--strict")
+        check(f"heading: {label} is an ISSUE (strict exit 1)", rc == 1 and ("ISSUE" in o), o)
+    rc, o = run(hroot, "verify_batch.py", "1-1")
+    check("heading: verify_batch reports a bad heading", "ch 1:" in o and ("Chapter" in o), o)
+    shutil.rmtree(hroot, ignore_errors=True)
+    shutil.rmtree(repo, ignore_errors=True)
+
+
 def main():
     root = Path(tempfile.mkdtemp(prefix="anogen-test-"))
     try:
         for d in ("story/bible", "story/outline", "story/style", "chapters", "ops", "out"):
             (root / d).mkdir(parents=True)
-        shutil.copy(TOOLS.parent / "story/brief.md", root / "story/brief.md")
-        shutil.copy(TOOLS.parent / "story/inbox.md", root / "story/inbox.md")
-        shutil.copy(TOOLS.parent / "story/style/banned.md", root / "story/style/banned.md")
-        shutil.copy(TOOLS.parent / "story/style/profile.md", root / "story/style/profile.md")
+        shutil.copy(SRC / "story/brief.md", root / "story/brief.md")
+        shutil.copy(SRC / "story/inbox.md", root / "story/inbox.md")
+        shutil.copy(SRC / "story/style/banned.md", root / "story/style/banned.md")
+        shutil.copy(SRC / "story/style/profile.md", root / "story/style/profile.md")
         write(root / "story/names.md", "# Names\nIntro prose that must be ignored.\n## Culture A\nAlvar, Brenna, Corwin\n## Culture B\nDasha, Emrys\n")
         write(root / "story/bible/canon_names.txt", "Alvar\nBrenna\n")
         write(root / "story/bible/premise.md", "A test world.")
@@ -426,14 +510,14 @@ def main():
         write(root / "ops/engine.json", json.dumps({"arcs": {}, "batch": {
             "mode": "none", "target": 0, "arc": None, "max": None, "start_chapter": None,
             "status": "idle", "stop_reason": ""}}))
-        (root / "ops/schedule.json").write_text((TOOLS.parent / "ops/schedule.json").read_text())
+        (root / "ops/schedule.json").write_text((SRC / "ops/schedule.json").read_text())
 
         rng = random.Random(7)
         names = ["Alvar", "Brenna"]
         for n in range(1, 4):
             epi = "> \"A fine quote.\" - Somebody\n\n" if n == 1 else ""
             write(root / f"chapters/chapter-{n:03d}.md",
-                  f"# Chapter {n} Title\n\n" + epi + filler(rng, 2000, names) + "\n")
+                  f"# Chapter {n}: Test Title\n\n" + epi + filler(rng, 2000, names) + "\n")
 
         # variety
         c, o1 = run(root, "variety.py", "draw", "--chapter", "4")
@@ -471,10 +555,10 @@ def main():
 
         # check_chapter
         talk = "\n\n".join('"' + filler(rng, 110, names).replace("\n", " ") + '"' for _ in range(7))
-        write(root / "chapters/chapter-004.md", "# Four\n\n" + filler(rng, 1450, names) + "\n\n" + talk + "\n")
+        write(root / "chapters/chapter-004.md", "# Chapter 4: Four\n\n" + filler(rng, 1450, names) + "\n\n" + talk + "\n")
         c, o = run(root, "check_chapter.py", "chapters/chapter-004.md")
         check("check_chapter clean", "SUMMARY: OK" in o, o)
-        bad = "# Five\n\nA testament to patience. " + "word " * 100 + "\n"
+        bad = "# Chapter 5: Five\n\nA testament to patience. " + "word " * 100 + "\n"
         write(root / "chapters/chapter-005.md", bad)
         c, o = run(root, "check_chapter.py", "chapters/chapter-005.md")
         check("check_chapter flags banned and length", "banned phrase 'a testament to'" in o and "word count" in o, o)
@@ -484,7 +568,7 @@ def main():
         write(root / "chapters/chapter-004.md", dup)
         c, o = run(root, "check_chapter.py", "chapters/chapter-004.md")
         check("check_chapter flags overlap with previous", "shared with chapter" in o and "too similar" in o, o)
-        write(root / "chapters/chapter-004.md", "# Four\n\n" + filler(rng, 2100, names) + "\n")
+        write(root / "chapters/chapter-004.md", "# Chapter 4: Four\n\n" + filler(rng, 2100, names) + "\n")
 
         # engine_state
         c, o = run(root, "engine_state.py", "arc-plan", "1", "--start", "1", "--end", "6", "--name", "First", "--max", "10")
@@ -502,7 +586,7 @@ def main():
         d = json.loads(o)
         check("batch continues mid arc", d["continue"] is True and d["next_chapter"] == 5, o)
         for n in (5, 6):
-            write(root / f"chapters/chapter-{n:03d}.md", f"# Chapter {n}\n\n" + filler(rng, 1900, names) + "\n")
+            write(root / f"chapters/chapter-{n:03d}.md", f"# Chapter {n}: Test Title\n\n" + filler(rng, 1900, names) + "\n")
         c, o = run(root, "engine_state.py", "next")
         d = json.loads(o)
         check("batch ends when arc written", d["continue"] is False and d["batch"]["status"] == "done", o)
@@ -610,6 +694,7 @@ def main():
 
     phase_two_tests()
     phase_b_tests()
+    novel_tests()
     if FAILS:
         print("\nFAILED:", ", ".join(FAILS))
         sys.exit(1)

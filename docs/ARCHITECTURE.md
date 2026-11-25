@@ -1,6 +1,6 @@
 # Anogen Architecture (current main, after the second pass)
 
-Anogen contains no model client. A host AI (the orchestrator) spawns one agent at a time from prompt files and runs the deterministic tools in `tools/` (Python standard library only). The Markdown files in `story/` are the memory; `chapters/` is the authoritative manuscript; `ops/engine.json` is the state machine.
+Anogen contains no model client. A host AI (the orchestrator) spawns one agent at a time from prompt files and runs the deterministic tools in `tools/` (Python standard library only). Each novel lives in its own folder `novels/<slug>/`; the active one is named in `novels/ACTIVE` (`common.py` resolves it, `ANOGEN_NOVEL` overrides, `ANOGEN_ROOT` keeps the flat layout for tests). Inside a novel the Markdown files in `story/` are the memory; `chapters/` is the authoritative manuscript; `ops/engine.json` is the state machine. Shared engine files are in `engine/` and `templates/novel/`; one global lock (`novels/lock.json`, not committed) keeps a single agent running across all novels.
 
 ```mermaid
 flowchart TB
@@ -45,6 +45,6 @@ Known limits: `state.md`, `debts.md`, `secrets.md` and `characters.md` are still
 ## State and safety rules
 
 - Writes are atomic (temp file then `os.replace`); `engine.json` keeps a `.bak`; the lock is guarded by an OS file lock and checks the owner on release (local to one machine; there is no cross-container lock).
-- `ops/ctx-cache.json` and `ops/lock.json` are local, never committed.
+- `novels/<slug>/ops/ctx-cache.json` and `novels/lock.json` are local, never committed.
 - `save.py` stages only project folders (`chapters story ops out docs tools tests roles archive` and the root Markdown files), merges (never force-pushes) on a rejected push, and retries an earlier failed push.
 - CI: `.github/workflows/tests.yml` runs `tools/test_tools.py` and `tools/ctx_compare.py` on pull requests; it has no secrets and does not touch the schedule (OFF).

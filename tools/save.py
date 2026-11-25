@@ -5,15 +5,18 @@ import subprocess
 import sys
 import time
 
-from common import ROOT
+from common import REPO, ROOT
 
 # Stage only the project's own folders and files (never `git add -A`: a stray file would be pushed to a public repo).
-TRACKED = ["chapters", "story", "ops", "out", "docs", "tools", "tests", "roles", "archive",
-           "AGENTS.md", "CLAUDE.md", "README.md", ".gitignore"]
+_COMMON = ["docs", "tools", "tests", "roles", "AGENTS.md", "CLAUDE.md", "README.md", ".gitignore"]
+if ROOT == REPO:  # flat layout (tests, scratch copies)
+    TRACKED = ["chapters", "story", "ops", "out", "archive"] + _COMMON
+else:  # novels/<slug>/ layout: engine files, templates, and ONLY the active novel
+    TRACKED = ["engine", "templates", "novels/ACTIVE", str(ROOT.relative_to(REPO))] + _COMMON
 
 
 def git(*args):
-    return subprocess.run(["git", *args], cwd=ROOT, capture_output=True, text=True)
+    return subprocess.run(["git", *args], cwd=REPO, capture_output=True, text=True)
 
 
 def push_loop():
@@ -50,7 +53,7 @@ def main():
     if git("rev-parse", "--is-inside-work-tree").returncode != 0:
         print("ERROR: not a git repository; nothing saved.")
         sys.exit(1)
-    paths = [p for p in TRACKED if (ROOT / p).exists()]
+    paths = [p for p in TRACKED if (REPO / p).exists()]
     r = git("add", "-A", "--", *paths)
     if r.returncode != 0:
         print("ERROR: git add failed:", (r.stdout + r.stderr).strip())

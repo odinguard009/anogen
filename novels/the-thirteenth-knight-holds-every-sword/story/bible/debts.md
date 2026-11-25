@@ -16,7 +16,7 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [open] Seal seeks hooded door-shield; Beatrix | planted: ch 10 | due: ch 13-24, 72
 - [open] Ulrike's plain key; Veil in cellar | planted: ch 9 | due: ch 40
 - [open] Ysolde's gray-sealed envelope | planted: ch 9 | due: ch 153
-- [open] Seraphine "save me?" | planted: ch 10 | due: ch 35, 145
+- [open] Seraphine "save me?"; Eden's file tidied, pencil rubbed out | planted: ch 10 | due: ch 35, 145; 30
 - [open] Felix's middle name; two lunches | planted: ch 12 | due: ch 47; 106-108
 - [open] Witness plate (door, figure); Rochefort | planted: ch 13 | due: ch 138-142
 - [open] Dragon: "I promised" | planted: ch 15 | due: ch 420-425

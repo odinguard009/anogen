@@ -4,7 +4,7 @@ Prompt: ops/rewrite-prompt.md. One agent at a time, standard tier (Sonnet). Rang
 - 1-5: DONE (2026-11-25)
 - 6-10: DONE (2026-11-25)
 - 11-15: DONE (2026-11-25)
-- 16-20: PENDING
+- 16-20: DONE (2026-11-25)
 - 21-22: PENDING
 
 Opus critic is not run on rewrites (same as the earlier rewrites; canon and events do not change). The next normal critic pass covers the new text.

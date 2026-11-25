@@ -18,7 +18,7 @@
     "stop_reason": "batch complete (10/10)"
   },
   "critic_through": 10,
-  "audit_through": 0,
+  "audit_through": 10,
   "reviewed": {
     "1": "5b4f112c07c38697",
     "2": "4c3a3bae62b6476a",

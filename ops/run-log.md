@@ -123,3 +123,7 @@ One entry per run. The owner fills in quota_note after checking claude.ai/settin
 ### critic pass ch 18 - scores 3,3,3,3,3,3 - Eden's coat no longer "grey" like the tail's; cart voice no longer says "Corwen" before his name is known (now Vesk); Corwen fall dated to Iron King conquest; Odile pretzel beat; dialogue still ~23% (Vesk lines are italic).
 ### critic pass ch 19 - scores 3,3,3,3,4,3 - Felix's "Eaten today?/Technically" repeat replaced; Clara's tangled line simplified; shadow-door staging clarified; "late bills" line made plain.
 ### critic pass ch 20 - scores 3,4,3,-,3,3 - Hush front fixed to canon (world.md: front stalls at Verandel's coast, Wall at the Teeth still attacked): no "forty miles" claim, Sandneck gate -> Teeth gate, map scope fixed; Ostermark non-sequitur fixed; Ball countdown five -> six days; Seraphine's Lysette line follows ch 19.
+
+### 2026-11-25 00:10 UTC (07:10 WIB) - audit - ok
+- notes: audit ch 11-20: 3 proposals in story/proposals-audit.md (B1 floor-length chapters, freshness 3, dialogue target mismatch; B2 rest Eaten today?/food gag, Rowan quiet beat missing; B3 debts cap dropped Concord map plant, state.md Ball countdown, Isolde/Ysolde); +6 banned caps; +11 variety options; no debts past due; blocked.md/decisions.md trimmed
+- quota_note: 

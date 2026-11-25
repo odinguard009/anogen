@@ -19,3 +19,22 @@ Auto-applied: banned.md (+"for a long moment", "something went/crossed across hi
 - What: ch 8, 9, 10 all end on a quiet line or held object (Strent's line, "Watch the Tallis boy", folded handkerchief); fights so far are flex/puzzle (battle_clarity 3 in ch 4, 9, 10); no strained or costly fight yet against the profile's 25%/10% mix.
 - Why: tension sits at 3; three quiet hooks in a row flatten the run into ch 11.
 - Fix: keep the ch 11 "threat" hook sharp (shown, not reported); in ch 13 the Long Stair kill should cost Eden something visible (an injury, a lost tool, or a near-miss Lysette later reads). Battle clarity: one sentence of terrain/geometry before each exchange.
+
+## Audit through chapter 20 (2026-11-25)
+Scores ch 11-20: tension 4 only in 13, 16, 17 (3 elsewhere; ch 18-20 flat at 3); freshness 3 in 8/10 (ch 1-10: 4 in 9/10); voice 3 in ch 18 and 20. Readability: sentence mean 7.6-8.7 (ok), no semicolons, no hard words found; but dialogue under 30% in 7/10 chapters (ch 18: 23%), and 2-5 sentences over 30 words in ch 14, 17, 19, 20. Days to the Ball are consistent in the text (ch 18 Sunday = 9 days; ch 19-20 Wednesday = 6 days). Lysette's red ears/stare are now under control (1 use in ch 11, critic cut the rest). No debt past due; due soon: Ashen card (24), Ledger/Ball (24-26), Seal and the hooded youth (by 24).
+Auto-applied: banned.md (+caps: "eaten today" 1, "very" 8, "like a" 6, "nobody" 5, "ears went red" 1, "went pink" 1; ch 18-19 exceed these, ch 20 passes); variety_menu.json (+11 options: off-key loud character, no-food/no-forms comedy, countdown hook, etc.).
+
+### B1. Chapters sit at the floor; freshness is slipping
+- What: ch 16-20 were drafted at 1810-1873 words and only reached 1851-1937 after critic padding; 7/10 chapters under 1950. Freshness fell from 4 to 3. "very" 18-21 times in ch 18-19, "like a" 10 times in ch 19. Profile (30-45% dialogue) and ops/sop.md (25-35%) give different dialogue targets.
+- Why: thin chapters plus filler intensifiers are the fastest way to read as AI-written and flat to a teen reader.
+- Fix: in ops/batch-writer-prompt.md set the draft target to 2000-2300 words and require one world-only surprising detail plus one narrator opinion per scene. Align ops/sop.md's dialogue target to the profile (30-45% quiet, 25%+ fights). Writer self-check: no sentence over 30 words (ch 17, 20 broke it). Ch 21 (emotional) must still end on a sharp hook to lift tension before the 22-25 run.
+
+### B2. Rest "Eaten today?" and the food beat for real
+- What: audit A1 limited food beats in ch 11-20 to ch 12, 14, 15. Actual: 12 (catchphrase x2), 14, 15, 16 ("Eaten today?" + bun), 18 (pretzel), 19 (whole bake). Rowan's quiet/off-key beat (A1, due by ch 17) did not happen.
+- Why: romance.md saves "Eaten today?" for the ch 349 payoff ("I'm not fine"); spending it every few chapters kills that moment. Rowan still reads one-note before the Ball, where the reader must fear for him.
+- Fix: "Eaten today?" at most once per arc from now until ch 349 (next: ch 47 middle-name payoff); no incidental food jokes in ch 21-30 (ch 28 comic excepted). Give Rowan one quiet beat in ch 21 or 24 (e.g. alone before the Ball, knowing he is watched), inside existing scenes.
+
+### B3. Bookkeeping holes: the debts cap, state.md, Isolde/Ysolde
+- What: (a) the ch 11 writer dropped "Concord map: front bends | ch 20 | due 280-285" from debts.md to stay under the 2900-char cap; ch 20 then planted it and did not re-add it (only threads.md #11 keeps it). Also dropped: "core dust" detail (ch 5-8), Merrow's "which hall" plant (ch 20) was never logged. debts.md is at 2865/2900, so every new plant now pushes an old one out. (b) state.md header says both "Ball in ~5 days" and "~3 weeks before the Lantern Ball"; text says 6 days (Ball on Tuesday). (c) Isolde (ch 19 cooking-club president, minor) vs Ysolde (spymaster, major): one letter apart on a phone screen.
+- Why: dropped plants become broken promises at ch 285; a wrong countdown in state.md will mislead the ch 21-24 writer.
+- Fix: split debts.md into near (due within the next 60 chapters, keeps the cap) and a capless story/bible/debts-far.md for long-range plants; re-add the Concord map bend (ch 20 -> 285/290) and Merrow's hall question (ch 20 -> 25). Correct the state.md header to "Ball in 6 days (Tuesday)". Rename the minor Isolde (e.g. "Hedda Brune", check canon_names first) in ch 19 and canon_names.txt, and remove Isolde from the names.md pool. Owner decides; nothing renamed by the audit.

@@ -10,7 +10,9 @@
     "a direct question or order",
     "a countdown or deadline",
     "a sound heard before anything is seen",
-    "mid-argument, no context given"
+    "mid-argument, no context given",
+    "a rule or form quoted, then broken in the next line",
+    "the middle of a bet or wager"
   ],
   "scene_shape": [
     "cold open in action",
@@ -34,7 +36,9 @@
     "betrayal suspected",
     "outmatched opponent",
     "promise at risk",
-    "unknown rules of a situation"
+    "unknown rules of a situation",
+    "an ally about to make an honest mistake",
+    "a secret one slip from being said aloud"
   ],
   "emotional_tone": [
     "quiet warmth",
@@ -48,7 +52,9 @@
     "fear held in check",
     "bittersweet gratitude",
     "irritation that hides worry",
-    "dread under ordinary routine"
+    "dread under ordinary routine",
+    "a loud character caught quiet and off-key",
+    "embarrassment that turns into courage"
   ],
   "comic_device": [
     "deadpan understatement",
@@ -62,7 +68,9 @@
     "none this chapter",
     "a joke that lands on someone other than Rowan or Felix",
     "the straight man loses his composure once",
-    "none this chapter: humor only in narration"
+    "none this chapter: humor only in narration",
+    "physical comedy with no food and no forms",
+    "a side character steals the scene"
   ],
   "conflict_type": [
     "duel with a technical twist",
@@ -86,7 +94,8 @@
     "mosaic of short scenes",
     "single long scene",
     "uneven: a racing run-on, then one-line fragments",
-    "interrupted scene: cut away at the peak, return later"
+    "interrupted scene: cut away at the peak, return later",
+    "fast dialogue sprint, then one slow paragraph"
   ],
   "hook_type": [
     "question left open",
@@ -99,6 +108,8 @@
     "unexpected arrival",
     "quiet line that changes the stakes",
     "an action shown with no explanation",
-    "a physical cost that arrives late"
+    "a physical cost that arrives late",
+    "a countdown number changes",
+    "a small lie gets caught by the wrong person"
   ]
 }

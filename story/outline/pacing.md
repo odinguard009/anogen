@@ -18,7 +18,7 @@ Ch 15: calm (tail; Candlewick bakery; truce; Dragon "I promised someone")
 Ch 16: tense (Ladder duel; Verdict walls; Hinge; "Again. And this time try.")
 Ch 17: tense (Rule Nine; lanes; lose by a finger; Lysette bandage; Valerius threat)
 Ch 18: calm (bell market tail; lost-child ruse; Corwen; guest-list ledger; nine days)
-Ch 19: comic
+Ch 19: comic (east kitchen flour blast; luck; Seraphine asks Lysette about the Ball)
 Ch 20: calm
 Ch 21: emotional
 Ch 22: tense

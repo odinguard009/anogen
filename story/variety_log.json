@@ -232,5 +232,18 @@
       "pacing_shape": "two spikes with a breather",
       "hook_type": "quiet line that changes the stakes"
     }
+  },
+  {
+    "chapter": 19,
+    "picks": {
+      "opening_type": "concrete setting detail",
+      "scene_shape": "journey with one hard interruption",
+      "tension_type": "resource shortage",
+      "emotional_tone": "bitter irony",
+      "comic_device": "comic timing in the middle of a plan",
+      "conflict_type": "escape under pressure",
+      "pacing_shape": "mosaic of short scenes",
+      "hook_type": "a physical cost that arrives late"
+    }
   }
 ]

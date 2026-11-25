@@ -20,7 +20,7 @@ Setiap novel punya folder sendiri dan tidak berbagi kanon, nama, gaya, atau stat
 - `novels/ACTIVE`: novel yang sedang aktif.
 - `engine/`: aturan, prompt, dan pengaturan model yang dipakai semua novel. `templates/novel/`: kerangka novel baru.
 - Aturan "satu agen pada satu waktu" berlaku global untuk semua novel.
-- `tools/`: skrip pembantu (termasuk `novel.py` untuk membuat/memilih novel) (tidak memakai kuota).
+- `tools/`: skrip pembantu (termasuk `novel.py` untuk membuat/memilih novel dan `rename.py` untuk mengganti nama di seluruh novel, dry-run dulu) (tidak memakai kuota).
 - `docs/`: laporan audit, peta jalan, baseline performa, arsitektur, catatan perubahan.
 - `tests/fixtures/`: data beku untuk membandingkan paket konteks.
 - `roles/`: instruksi peran (editor pengembangan, penulis, editor naskah, penjaga kanon, manajer redaksi).
@@ -31,3 +31,7 @@ Setiap novel punya folder sendiri dan tidak berbagi kanon, nama, gaya, atau stat
 - Belum diverifikasi: apakah tugas terjadwal bisa push ke GitHub dan berapa kuota yang dipakainya. Jadwal tetap MATI sampai Anda bilang "hidupkan jadwal".
 - Critic berjalan setiap 10 bab. Bab yang diedit setelah direview (misalnya lewat rewrite) memblokir penulisan baru sampai critic memeriksa ulang bab itu (`engine_state.py rereview N`).
 - Tes: `python3 tools/test_tools.py` (juga dijalankan GitHub Actions pada setiap PR).
+
+## Aturan cerita permanen (perintah Odin 2026-11-25)
+- Tidak ada level yang menentukan rank karakter; ada Class/Job dari registri planet, label serangan khusus **[Nama]**, deskripsi saat pertama kali senjata/kemampuan dipakai, dan setiap reveal punya tangga petunjuk (`story/bible/reveal-ladder.md`).
+- Tidak pernah memakai subagent; semua peran dikerjakan satu per satu oleh orkestrator.

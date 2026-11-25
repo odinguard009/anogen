@@ -23,7 +23,7 @@ Battles: first Husk tide 203 flex; Choir silence 218 puzzle; Mawgate mines 231 p
 Aura: 222 a quiet "Hold." stops a routing company (reaction: veterans obey a nineteen-year-old and only ask why later). 248 ten thousand black knights rise under the storm (reaction: both armies go silent; Valerius laughs once, disbelieving).
 
 ## Arc 6 (251-300)
-Battles: desert lancers vs Husks 255 flex; convoy 260 costly (broken rule, Candor lost); grey city siege 274 puzzle; Armory 280 flex (an army armed at once); Crown Well of the Ashen Highlands 295-300 strained.
+Battles: desert lancers vs Husks 255 flex; convoy 260 costly (broken rule, Ea lost); grey city siege 274 puzzle; Armory 280 flex (an army armed at once); Crown Well of the Ashen Highlands 295-300 strained.
 Aura: 280 a thousand relics leave the air and choose hands (reaction: Mansakar's old soldiers sing). 290 three legions wake; the Shah's envoy goes pale and, very carefully, asks for a revised treaty.
 
 ## Arc 7 (301-350)
@@ -62,17 +62,17 @@ Aura: 805 first lecture: three hundred students go silent before he says a word,
 Romance per arc: romance.md (end).
 
 ## Armor scenes and new tricks per arc (armor.md, battle-craft.md)
-1: Faceless Mantle mask 3, full 23 (Aster sealed; feather mark plant); Duke's helm hour 30; titan silhouette 34; Ashmail of Kaldmark 25; Ward-plate drills 31; tricks 1-10.
-2: Lantern rigs 72; Mantle vs Golden Seal Ward-plate 72; Thornward Mail lent to Felix 98 (first Raiment loan, armor-up on a parade roof); tricks 11-18.
-3: Han's jade Throne-form 125; Mantle in the summit 131; tricks 19-23.
-4: Aster's seal cracks 175-176 (Glasshouse Forge found); the Duke in Vowsilver 193-194 (flex showpiece, aura); Aster Argent Dawn 199 (first public armor); tricks 24-28.
-5: Wallbreaker 223; Thrennos the Drowned Bell 244-249 (Colossus) with Greyborn Carapace 245; Redwall to Valerius 247; Hollowmane 248; armor rotations on the Wall every ~10 ch (210, 220, 233); tricks 29-34.
-6: Duke weeps in Vowsilver, Eden finds him 251; Titan Accord 268; Daybreak Hauberk to Rowan 270; Grey Shepherd titan 284-287; mass Ward-plate plus relic loans 280; Eden hears his sixth Toll for the first time 298; tricks 35-37.
-7: Sunward Gilt 312; the king draws Patience 345; Mirrorlace to Seraphine 330; no armor in court 340 (by design); trick 38.
-8: Kirana's tide-cloak 356; Ossuary Reef titan 384-388; Frostplate 370; Firstplate 390; Aster Threshold stage with Nullcrown 400 (showpiece, aura); tricks 39-41.
-9: Kept Knights 428; Wingwake seen 425, worn by Lysette 446 on Selenwing; Aster Gatewing 446; tricks 42-43.
-10: Raiments in thin air (Tolls come faster) 462; Ubrak the Silent Mountain 489-494, Thousandfold Knight debut; Rowan's Hauberk at noon 499; tricks 44-45.
-11: Throne-forms clash 510-530; Dawnglass in the dream war 507; tricks 46-47.
-12: Sepiroth's Scale 560 (showpiece, aura); Stonewarden 575; Last Light finished 575; Aster Garden 590; Lament titan 594-598; armored cavalry on Hollowmane 590; trick 48.
-16: Hollow Gate titan 782-786; Kaurveth's body 786-790; last Keep through Aster and Vowsilver 795-796; Aster hung on the roof trellis; trick 49.
+1: Umra mask 3, full 23 (Aster sealed; feather mark plant); Duke's helm hour 30; titan silhouette 34; Gryle 25; Ward-plate drills 31; tricks 1-10.
+2: Lantern rigs 72; Umra vs Golden Seal Ward-plate 72; Rhael lent to Felix 98 (first Raiment loan, armor-up on a parade roof); tricks 11-18.
+3: Han's jade Throne-form 125; Umra in the summit 131; tricks 19-23.
+4: Aster's seal cracks 175-176 (Glasshouse Forge found); the Duke in Sevar 193-194 (flex showpiece, aura); Aster Argent Dawn 199 (first public armor); tricks 24-28.
+5: Wallbreaker 223; Thrennos the Drowned Bell 244-249 (Colossus) with Greyborn Carapace 245; Karum to Valerius 247; Mavra 248; armor rotations on the Wall every ~10 ch (210, 220, 233); tricks 29-34.
+6: Duke weeps in Sevar, Eden finds him 251; Titan Accord 268; Selu to Rowan 270; Grey Shepherd titan 284-287; mass Ward-plate plus relic loans 280; Eden hears his sixth Toll for the first time 298; tricks 35-37.
+7: Sunward Gilt 312; the king draws Tamu 345; Vael to Seraphine 330; no armor in court 340 (by design); trick 38.
+8: Kirana's tide-cloak 356; Ossuary Reef titan 384-388; Frostplate 370; Nihra 390; Aster Threshold stage with Ennu 400 (showpiece, aura); tricks 39-41.
+9: Kept Knights 428; Eyra seen 425, worn by Lysette 446 on Isra; Aster Gatewing 446; tricks 42-43.
+10: Raiments in thin air (Tolls come faster) 462; Ubrak the Silent Mountain 489-494, Thousandfold Knight debut; Rowan's Selu at noon 499; tricks 44-45.
+11: Throne-forms clash 510-530; Ilune in the dream war 507; tricks 46-47.
+12: Orrel 560 (showpiece, aura); Stonewarden 575; Last Light finished 575; Aster Garden 590; Lament titan 594-598; armored cavalry on Mavra 590; trick 48.
+16: Hollow Gate titan 782-786; Kaurveth's body 786-790; last Keep through Aster and Sevar 795-796; Aster hung on the roof trellis; trick 49.
 17: ceremonial Raiments at the weddings 835-845 (worn for one quiet minute, for joy); trick 50.

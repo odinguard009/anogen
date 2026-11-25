@@ -1,10 +1,11 @@
+SUPERSEDED where it conflicts by story/bible/power-system.md (owner order 2026-11-25; includes the removal of ranking levels: Bells = tank size only, Tenet tiers = stages of use, not ranks)
 # Eden's combat style: "Lintel and Lamp" (reference)
 
 Feel: calm, minimal, unhurried, precise; reading the opponent; one-sided exchanges; composure that frightens. Original details only.
 
 ## Weapons in hand
 - Left: the dark lance, short (1.5 m), held at the hip, point forward. Closes into the door-shield (knocker ring outward) in one beat.
-- Right: Candor, held low and slightly back, point toward the ground, as if he forgot he had it.
+- Right: Ea, held low and slightly back, point toward the ground, as if he forgot he had it.
 - He never fights with both at full extension. One frames (the lintel), the other lights (the lamp).
 
 ## Stance and footwork
@@ -25,8 +26,8 @@ Slow blink before he finishes. One tap on the knocker ring when he decides. "Fin
 1. Latch: the shield catches a blade and locks it against the knocker ring (5).
 2. Hinge: pivot past a charge; lance butt to a joint (16).
 3. Draught: lance through the narrow gap in a guard, like wind through a door (22).
-4. Lintel: shield overhead, Candor under it, one motion (25).
-5. Lampwick: Candor follows the seam its light reveals (armor joints, grafts, illusions) (49).
+4. Lintel: shield overhead, Ea under it, one motion (25).
+5. Lampwick: Ea follows the seam its light reveals (armor joints, grafts, illusions) (49).
 6. Doorstop: lance planted; the line holds against a charge (66).
 7. Threshold: a door closes on an attack and keeps it (180).
 8. Open House: every retainer, every loan, one coordinated moment (596).
@@ -35,7 +36,7 @@ Slow blink before he finishes. One tap on the knocker ring when he decides. "Fin
 ## Style progression (each stage adds variety; battle-craft.md rules still apply)
 - Stage I, Lintel and Lamp (1-100): solo, forms 1-6. Retainers only in secret roles: Vesk scouts, Gorrath decoys, Mirelle stands in. First loan to Felix (47).
 - Stage II, Door and Retinue (101-250): Doorstep (70) and Hald (80) bring range; first open team combos; Threshold (180); Aster's stages; legion squads; Sefa (240) brings long distance.
-- Stage III, Armory (251-350): relic swapping and lending; the Armory of a Thousand Names (280). Without Candor (260-330) he fights with the lance and borrowed relics, which forces new forms. Lysandre (300), Kaedros (350).
+- Stage III, Armory (251-350): relic swapping and lending; the Armory of a Thousand Names (280). Without Ea (260-330) he fights with the lance and borrowed relics, which forces new forms. Lysandre (300), Kaedros (350).
 - Stage IV, Commander (351-450): Ombrevar (380) moves legions; Oriane (410) relays orders; Eden fights at the front and commands at once. Throne Door (400). Nihl mirrors his style as a foe.
 - Stage V, Two Sovereigns (451-750; arcs 13-15 add retainer-led fronts and the Void road): Sepiroth fully his (Gatewing), combos with god-hosts; Nihl joins (515); all ten retainers.
 - Stage VI, Garden (751-800): with Lysette's Seedtime; the last fight returns to the beginning: one lance, one light, nothing wasted.
@@ -54,7 +55,7 @@ Slow blink before he finishes. One tap on the knocker ring when he decides. "Fin
 
 ## Signature team combos
 - Knock and Answer: Eden knocks, Gorrath's shield answers from another shadow (decoy wall) (23).
-- Lantern and Lamp: Vesk marks a Veil, Candor reveals it (36).
+- Lantern and Lamp: Vesk marks a Veil, Ea reveals it (36).
 - Two Silences: Eden and Mirelle strike together inside a Choir's silence (32).
 - Long Door: Hald's arrow enters a shadow beside Eden and leaves behind the enemy (84).
 - Map and Step: Sefa links a city's shadows; Eden Doorsteps across it (242).
@@ -63,7 +64,7 @@ Slow blink before he finishes. One tap on the knocker ring when he decides. "Fin
 - Deep Rank: Ombrevar wheels a legion while Eden is its spearhead (381).
 - Herald's Count: Oriane counts one order to every retainer at once (412).
 - Mirror: Nihl and Eden back to back, the same style facing outward (548).
-- With allies: Wardenshell + Felix (47), Redwall + Valerius (247), Daybreak + Rowan (270), Mirrorlace + Seraphine (330), Dawnglass + Lysette (507).
+- With allies: Thessa + Felix (47), Karum + Valerius (247), Selu + Rowan (270), Vael + Seraphine (330), Ilune + Lysette (507).
 
 ## Commander set pieces (he commands and fights at once)
 - 290: three legions wake, raw and costly; he learns how hard command is.

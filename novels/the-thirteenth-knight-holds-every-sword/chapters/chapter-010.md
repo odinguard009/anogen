@@ -96,15 +96,13 @@ Seraphine arrived the way she always did, without being asked, and she did not s
 
 "No."
 
-"Shame. I would have liked to hear about her." She smiled. "You'd save me again, right? If I needed it. Like last time."
+"Shame. I would have liked to hear about her." She smiled. "You'd save me, right? If I needed it."
 
-Lysette knew about last time only as a rumor, with a different number of wolves each time. The princess was twelve and lost in a hunting forest, and a boy no one had heard of came and saved her. That the boy was Wren had always sounded to Lysette like a story people tell because it is funny.
+"Why ask him that?" said Lysette. "Do you two have a history?"
 
-"How many wolves was it?" she asked.
+"Only a joke," said Seraphine. "Ask him."
 
-"Two," said Wren. "Small ones."
-
-"Seven," said Seraphine. "Huge."
+Lysette looked from one to the other and wondered why a princess would ask a sleeper that, and then she put the thought away for later.
 
 Wren thought about it while he chewed, and he really did think.
 
@@ -246,7 +244,7 @@ That was almost true, about looking again. She did not say it was the first time
 
 She opened the letter in her room that night, with the shutters closed and no lamp, because she had no oil either.
 
-Her mother wrote the way she sat in court, upright, with no decoration, every sentence exactly as long as a sentence should be. The Seal was a joke in the lower city. A clerk had vanished, and an old woman had been held and then let go, and the Seal had looked foolish and cruel in the same week, which took skill. The family name was still said in a certain voice at certain tables, and it would be until the Black Order was dragged into the light. *Until then, we are the family of a traitor, and we will act as if we were not.*
+Her mother wrote the way she sat in court, upright, with no decoration, every sentence exactly as long as a sentence should be. The Seal was a joke in the lower city. A clerk had vanished, and an old woman had been held and then let go, and the Seal had looked foolish and cruel in the same week, which took skill. The family name was still said in a certain voice at certain tables, and it would be for years. *We will act as if it were not.*
 
 Then, lower down, the writing changed a little. It did that when her mother wrote something she had not planned.
 

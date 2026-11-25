@@ -22,7 +22,7 @@ Gorrath's voice came out of the wall behind us, low and slow, like a cart on a w
 
 I stepped back into my own shadow.
 
-The cold came first, up from the ankles, like stepping into a river. Then the plates closed. Matte black, one over the other, from my boots to my hips, then ribs, then shoulders. The gauntlets came last and locked with a small click. The helm slid down over my face, smooth, with one thin white thread where my eyes were. I did not hear it. The Faceless Mantle makes no noise, and that is why the Black Order likes it.
+The cold came first, up from the ankles, like stepping into a river. Then the plates closed. Matte black, one over the other, from my boots to my hips, then ribs, then shoulders. The gauntlets came last and locked with a small click. The helm slid down over my face, smooth, with one thin white thread where my eyes were. I did not hear it. Umra makes no noise, and that is why the Black Order likes it.
 
 My arms felt heavier, and my steps felt lighter. The rain hit the plates and ran off without a sound. My fingertips went white and numb inside the glove. That was the Frost, and it was always the price.
 
@@ -72,7 +72,7 @@ Not on a door, but on the black plate of my own shield arm, three times, slowly.
 
 "Gorrath," I said. "Thirteen."
 
-"Thirteen," said the wall.
+**[Knock and Answer]** "Thirteen," said the wall.
 
 The floor under the nearest shadow opened a crack the size of a hand. No one saw it, because no one looks at shadows. It worked like the mouth of a speaking-pipe, and a voice came out of it.
 
@@ -148,7 +148,7 @@ I had worn this armor every week for years, and I had never seen that mark.
 
 "The Door does not have smiths."
 
-"No." I put my thumb on it. It was warm, unlike the rest of the plate, which was cold. "It probably came with the Mantle."
+"No." I put my thumb on it. It was warm, unlike the rest of the plate, which was cold. "It probably came with Umra."
 
 "Gorrath's does not have one."
 

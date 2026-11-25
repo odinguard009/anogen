@@ -1,5 +1,5 @@
 Full ladder with plants and misdirection: twists-1.md, twists-2.md. Near-term secrets:
-- Corentin Hollen was a Veil; Eden killed it | known by: Eden (face only), Ysolde | reveal planned: ch 38 (reader), ch 140 (Lysette)
+- Corentin Hollen was a Veil; Eden killed it | known by: Eden (face only), Ysolde | reveal planned: ch 36 (Black Order link), 45 (reader), 140 (Lysette)
 - The Tailor knows Eden is the vessel, waits for the seal to crack | known by: nobody | reveal planned: ch 50 (hint)
 - Grey Grafts are Hush flesh from the Tailor | known by: Merrow | reveal planned: ch 95
 - Volkhovar finances the Lanternhouse Compact | known by: Kell, Belozerov | reveal planned: ch 98
@@ -11,10 +11,11 @@ Full ladder with plants and misdirection: twists-1.md, twists-2.md. Near-term se
 - Iron King summoned the Emperor; the 3-vs-1 | known by: king, Duke | reveal planned: ch 170
 - Liora was a Valkyrie; Eden opened the Gate; she sealed him | known by: Duke, king, Ysolde | reveal planned: ch 175
 - Eden's black armor is Aster, Liora's sealed work; Liora was the Dragon's host and a master smith | known by: Duke, Dragon | reveal planned: ch 170-176
-- The Duke weeps inside Vowsilver after battles | known by: Bertram | reveal planned: ch 251
+- The Duke weeps inside Sevar after battles | known by: Bertram | reveal planned: ch 251
 - Strent is the Tailor | known by: nobody | reveal planned: ch 185
 - Liora's feather in Lysette | known by: nobody | reveal planned: ch 205
 - King's kill-order | known by: king, Ysolde | reveal planned: ch 214
 - The Void Host sleeps in Eden | known by: king, Duke (suspect) | reveal planned: ch 290
 - Eden is not the Emperor; the Emperor gave himself | known by: the Tutor | reveal planned: ch 340
 - Gods and hosts (gods-hosts.md): Sepiroth 425, Binding of Thrones 430, Kaurveth 440, Rite 455, Rowan 470, Clara 480, Ishani 505, Dragomira 530, Valerius 545, Kell 560, Lysette 580 | known by: Dragon, Tutor, each host partly | reveal planned: ch 425-580
+- The planet is alive: Aiwe, mother of all (and the registry) | known by: nobody (Dragon, Tutor suspect) | reveal planned: ch 770 (mother.md)

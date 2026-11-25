@@ -118,7 +118,7 @@ He did it now, and I was ready.
 
 "This line is not crossed," he said.
 
-He dragged the tip of his sword through the sand behind my boots and made one long scratch. The scratch did not stay a scratch. A pane of pale, cloudy force rose out of it, as high as my shoulder. I was already moving, but it hit me hard across the left side of my back.
+He dragged the tip of his sword through the sand behind my boots and made one long scratch. **[Injunction]** The scratch did not stay a scratch. A pane of pale, cloudy force rose out of it, as high as my shoulder. I was already moving, but it hit me hard across the left side of my back.
 
 A door hit me, not a spell.
 
@@ -132,7 +132,7 @@ My ribs went hot, then dull. I stayed on my feet, and that mattered more than th
 
 "Then everyone is lucky."
 
-"Court is in session," said Valerius. He drew a second line on my right, and a second wall rose. A third came up close on my left. Now I stood in a gray corridor as wide as a wardrobe, and Valerius waited at the open end.
+"Court is in session," said Valerius. He took a short breath before the next line, the way a man does on a stair, and drew it on my right, and a second wall rose. A third came up close on my left. Now I stood in a gray corridor as wide as a wardrobe, and Valerius waited at the open end.
 
 Behind the cloudy walls, the benches were smears of faces. They could see shapes and nothing more. That was the first thing I noticed. The second was how neat it all was. He was not trying to hit me. He was making my room smaller, so that I would have one thing left to do, and he wanted to see it.
 
@@ -166,7 +166,7 @@ He charged.
 
 He took the corner at full speed, with his blade low and level. It was a good charge and would have gone through a man. I waited at the side of the wall with my back against it. When his front foot landed, I turned on it like a door on a hinge. His blade passed the place where my chest had been.
 
-I call it the Hinge. It is only one step. But now he was past me with his sword arm out and his wrist an inch from my hand.
+**[Hinge]** I call it the Hinge. It is only one step. But now he was past me with his sword arm out and his wrist an inch from my hand.
 
 I turned the lance in my fingers and tapped the butt end into the inside of his wrist. It was not hard, but it was exactly in the right place, on the nerve near the bone.
 

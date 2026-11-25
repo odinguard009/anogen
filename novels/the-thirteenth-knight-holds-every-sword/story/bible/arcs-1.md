@@ -4,7 +4,7 @@ Victory rule: Eden is overpowered and the reader trusts he will win. Tension com
 ## Arc 1 The Rooftop (1-50) school + terror. Year 5 autumn.
 Q: can Eden stay unseen once someone insists on seeing him? Enemy: Ashen Crowns cell, a Veil inside it. See outline/arc1-concept.md.
 Tactics: lantern-shadow chase; berserk construct; Ball siege via roof-glass shadows; silent Wall; oil fires for door edges.
-Win (47-50): Eden scouted the Mawgate route with Vesk for three nights; he lights the oil lines he laid, loans Wardenshell to Felix (middle name given ch 12) to hold the students, and ends the grafted Crown. The difficulty is doing it without being seen. Cost: Lysette's Witness sees light where he stood; Clara badly wounded; the enemy now knows his mother's name.
+Win (47-50): Eden scouted the Mawgate route with Vesk for three nights; he lights the oil lines he laid, loans Thessa to Felix (middle name given ch 12) to hold the students, and ends the grafted Crown. The difficulty is doing it without being seen. Cost: Lysette's Witness sees light where he stood; Clara badly wounded; the enemy now knows his mother's name.
 Growth: Eden smiles at Lysette once (26). Felix: first relic. Lysette starts doubting her picture of Rowan.
 Resolution: the nest is destroyed, two of three students saved, the Ashen cell broken; Eden and Lysette become real friends (roof dance); Felix holds a relic and keeps the secret without asking.
 Hook: the dying Crown: "The Tailor sends regards to Liora's boy." Someone knows his mother's name.
@@ -30,8 +30,8 @@ Hook: Lysette now knows Eden is the Black Order; Merrow escapes to Halberg; a pr
 ## Arc 4 Argentine (151-200) internal coup. Year 6 spring, graduation.
 Q: who is Eden when he stops hiding? Enemy: Iron Faction + Ashen Crowns + the Tailor.
 Beats: Eden turns 19; Ysolde gives Liora's letter (155); Eden declares himself heir at the Order Council to shield Rowan and Lysette from a show trial (160); the Argentine household's comedy is revealed as a veteran guard who always knew his nights (163); Iron King truth (170); Eden learns he opened the Gate and his mother was a Valkyrie (175); seal breaks, 100 relics (176); Lysandre comes later; Threshold (180); Strent is the Tailor (185); graduation coup (190-199); middle names with Lysette (198); Merrow killed by the Tailor's trap (199); the Tailor destroyed (200).
-Tactics: palace coup at night with the lamps cut (no edges: Eden must fight without doors); a hall of mirrors where Candor sees true; the household's kitchen ambush.
-Win (195-200): the Tailor holds the king and Lysette and demands the Emperor's essence. Eden walks in already holding Morrowpin (the hairpin from ch 2, a Keeping relic) and locks the Tailor exactly as his mother did; the hard part is facing what it was. Cost: Eden's existence is public; he loses the anonymity he chose; Duke injured (loses two fingers of his sword hand).
+Tactics: palace coup at night with the lamps cut (no edges: Eden must fight without doors); a hall of mirrors where Ea sees true; the household's kitchen ambush.
+Win (195-200): the Tailor holds the king and Lysette and demands the Emperor's essence. Eden walks in already holding Ynde (the hairpin from ch 2, a Keeping relic) and locks the Tailor exactly as his mother did; the hard part is facing what it was. Cost: Eden's existence is public; he loses the anonymity he chose; Duke injured (loses two fingers of his sword hand).
 Growth: Lysette chooses to stand beside him again, not as lover yet. Eden cries for the first time since age 10 (175).
 Resolution: Eden declares himself, the coup is crushed, the Tailor ended, his mother's truth learned, father and son closer, graduation done, Lysette back at his side.
 Hook: postings to the Teeth; the king asks Ysolde for the second envelope again, this time in Eden's presence.

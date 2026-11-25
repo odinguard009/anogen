@@ -112,7 +112,7 @@ Felix was drawing his bow anyway.
 
 Lysette had her batons out, good ones, and she could block once, maybe twice. The third swing would go through her guard like wind through a window.
 
-I could call Gorrath, nine feet of shield-knight who comes out of my shadow. But I would have to do it in front of Felix and Lysette and, through the bars, in front of Rowan's whole team. That would end my quiet life, and much more. I could put Candor, my sword, through the crystal, and that would end my quiet life just as fast. What I was allowed to use in front of people was a short dark lance, for blocking.
+I could call Gorrath, nine feet of shield-knight who comes out of my shadow. But I would have to do it in front of Felix and Lysette and, through the bars, in front of Rowan's whole team. That would end my quiet life, and much more. I could put Ea, my sword, through the crystal, and that would end my quiet life just as fast. What I was allowed to use in front of people was Ixa, my short dark lance, for blocking.
 
 "Felix," I said. "Shoot the crystal. Keep it looking at you."
 
@@ -144,7 +144,7 @@ I knocked.
 
 One beat, like a rap on a door as you walk by. The lance folded in my hands, in the middle of the thrust, and opened into a door, tall and narrow and black, a panel of dark wood with an iron ring in the middle. It stood between the warden and Lysette, and the training blade came down on it.
 
-The door slammed. That is the only word for the sound, a house slamming its front door in anger. The panel snapped shut on the steel the way a door shuts on a careless hand, and I twisted my wrists so the flat of the blade slid along the wood, up against the iron ring, and stuck. It was wedged tight between the ring and the panel.
+**[Latch]** The door slammed. That is the only word for the sound, a house slamming its front door in anger. The panel snapped shut on the steel the way a door shuts on a careless hand, and I twisted my wrists so the flat of the blade slid along the wood, up against the iron ring, and stuck. It was wedged tight between the ring and the panel.
 
 I call it Latch. My mother called it that when the kitchen door caught its own lock and she had to push it with her shoulder. I don't know why that came to mind.
 

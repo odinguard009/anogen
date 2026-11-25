@@ -1,10 +1,11 @@
+SUPERSEDED where it conflicts by story/bible/power-system.md (owner order 2026-11-25; includes the removal of ranking levels: Bells = tank size only, Tenet tiers = stages of use, not ranks)
 # Mana and Tenets (reference)
 
 ## Mana
 - The living current of Elysmar. It rises from the planet's deep core, runs through rock in veins (thick as rivers under mountains, thin as hair under farmland) and pools in wells.
 - Crown Wells: the 21 great wells of the world. 8 lie under the Pale now. 13 remain, one per surviving nation. A nation without a Crown Well cannot train knights at scale; this is the root of all politics.
 - Deep ocean breaks veins. Shallow seas and land bridges carry them. Ships use vein-keels (keels of vein-stone) to draw mana for sails and wards.
-- Daily use: lanterns, water pumps, wards on doors, healing salves, field rations that store warmth. No guns; crossbows, ballistae and mana-engines on walls.
+- Daily use: lanterns, water pumps, wards on doors, healing salves, field rations that store warmth. Guns and cannon exist (Meridian Age, tech.md), but mana fields foul powder and aura turns aside bullets, so crossbows, wards and knights still rule the front.
 
 ## The core
 - A knot of mana behind the sternum. Everyone has one; only some are deep enough to fight.

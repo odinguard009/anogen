@@ -1,9 +1,9 @@
 # Cast combat styles, part 2: elders, household, allies, rivals, antagonists (reference)
 
-## Duke Aldous Argentine: "the Lake Freezes" (Sentence, Vowsilver)
+## Duke Aldous Argentine: "the Lake Freezes" (Sentence, Sevar)
 Greatsword used one-handed. Loose, sloppy-looking stance until he names a target and a deadline; then very still, very fast, every cut at the hilt or the joint. Rhythm: a long pause and then one sentence. Signatures: Sentence (target and deadline; his blade will not miss before it), Ninth Bell (many targets, one deadline, 193). Weakness: a deadline he cannot meet costs him for days; after 200 he lacks two fingers and must adapt grips. Growth: comic dad (1-190); showpiece (193); fights left-handed-heavy (200+); with Eden back to back (601-650). Spotlight: 193-194; 251 (the tent); 640 holds a pass while Eden fights a titan.
 
-## King Theodric IV: "the Last to Draw" (Patience, Kingsrest)
+## King Theodric IV: "the Last to Draw" (Tamu, Oru)
 A plain grey sword that grows heavy for whoever attacks him. Stands still and lets enemies tire. Rhythm: one step for every ten of theirs. Weakness: old injuries, a king's duty not to fight. Spotlight: 345 draws for the first time in nineteen years to refuse handing Eden over; 694 stands in Kremhold's gate while Eden goes in.
 
 ## Dame Hildegard Ostwald: "the Bell Warden"
@@ -42,7 +42,7 @@ Spymaster; a cane-sword and the Ledger's threads (651-700). Fights only cornered
 No style; people simply give him what he wants, including openings. Weakness: he can never be satisfied. Spotlight: 685 his betrayal and turn; 790 he gives a god an ending.
 
 ## Ilsabet Rorke, Crown of Kaldmark
-Ice-axe and Ashmail; a giant who fights fair. Spotlight: 25 vs Eden (spared); 270-296 holds Eden's flank; Clara removes her graft at 482.
+Ice-axe and Gryle; a giant who fights fair. Spotlight: 25 vs Eden (spared); 270-296 holds Eden's flank; Clara removes her graft at 482.
 
 ## Valkyrie Marshal Aethra
 Spear-wing and Heaven Gate drills; flawless and joyless. Credible motive: duty to a law older than worlds. Spotlight: 428 her champions; 444 she yields and becomes Lysette's flight teacher.

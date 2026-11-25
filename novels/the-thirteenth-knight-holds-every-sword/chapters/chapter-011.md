@@ -104,13 +104,13 @@ The three split around the pile. Two ran at Felix and one ran at Rowan.
 
 "Don't!" said Lysette. "You're in the open! You don't have a line! You're—"
 
-He lit his hand. It was Spark, a small gold flare the size of a lantern. It flew up into the cane faces, and whatever the hounds saw with, it was not made for gold. Two froze and swung their heads from side to side, as if the passage had changed shape. The third ran into the wall, chasing its own shadow.
+He lit his hand. It was his light, a small gold flare the size of a lantern. It flew up into the cane faces, and whatever the hounds saw with, it was not made for gold. Two froze and swung their heads from side to side, as if the passage had changed shape. The third ran into the wall, chasing its own shadow. Rowan shook his fingers afterward, as if the light had left them cold.
 
 Rowan was grinning. "Did you see that?" he said. "Did you see my hands?" Then he saw Felix's arm.
 
 "Huh," said Felix.
 
-A broken cane rib had cut him, not deep, but the blood ran out in a thin line like ink from a pen. He looked at it with polite interest. Clara was already beside him. She had not run. She had been standing there, and then she was next to him, holding his wrist in both of her small hands. Her lips moved on words I could not hear. You do not watch that part, so I watched his sleeve instead, and the edges of the cut came together and turned pink and closed.
+A broken cane rib had cut him, not deep, but the blood ran out in a thin line like ink from a pen. He looked at it with polite interest. Clara was already beside him. She had not run. She had been standing there, and then she was next to him, holding his wrist in both of her small hands. Her lips moved on words I could not hear. You do not watch that part, so I watched his sleeve instead, and the edges of the cut came together and turned pink and closed. Clara rubbed her own arm, in the same place, as if the cut had been hers.
 
 "Oh," said Felix. "That's strange." He sounded as if she had pulled a coin from his ear.
 

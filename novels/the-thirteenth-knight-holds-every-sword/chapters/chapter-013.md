@@ -20,7 +20,7 @@ I do not remember deciding to open the door at his feet. I remember the glove st
 
 "Young master," it said.
 
-My Candor does not need much light. One coal from the broken cup was still burning on the step, and that was enough.
+My Ea does not need much light. One coal from the broken cup was still burning on the step, and that was enough.
 
 It was over in the time it takes to put out a candle. What was left was a coat, a pair of boots, a cap, a pole and gray dust across four steps, like spilled flour. I peeled off my glove. The black leather came away in one piece, and it left skin on the inside. I looked at my palm for a while. Then I put the glove in my pocket.
 

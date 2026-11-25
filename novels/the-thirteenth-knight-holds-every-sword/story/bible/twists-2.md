@@ -22,5 +22,5 @@ Smaller twists (plant >= 10 ch ahead): the Ferryman was Ostwald's favourite stud
 Liora's rings in the Glasshouse Forge, labelled "Not yet" (plant 176), are the proposal rings (600).
 37. Belozerov, not Vehra, takes Volkhovar after Dragomira: he steers the Ledger's threads himself | plants: 106, 310, 530, 541 | Vehra's next host will rule Volkhovar | ch 655
 38. Kell betrays the coalition for a want he cannot name, then chooses to turn back; it is the first time Kaurveth's host refuses Want | plants: 55, 560, 640 | Kell is just a traitor | ch 685
-39. Lament's fall at the pole was the Wound's alarm: it calls the titans north | plants: 34, 287, 598 | killing Lament ends the war | ch 601
+39. Lament's fall at the pole was the Wound's alarm: it calls the titans north | plants: 34, 287, 593 | killing Lament ends the war | ch 601
 Romance-linked small twists: Ishani's naps were always fake, she cannot sleep (plant 115, 124; reveal 505); the tidy dream-garden she built in Valerius's head as a prank (115) is the fortress she defends against Vehra (550); the sweet bun Felix gave Seraphine (60) came from the Argentine kitchen, Greta's matchmaking (reveal 812).

@@ -67,14 +67,14 @@ STATUS: DISETUJUI SEMUA oleh Odin (2026-11-24). Jangan dibuka lagi tanpa perinta
     - Ward-plate: armor massal tiap ordo.
     - Named Raiment: armor suci dari Vault; hanya Eden yang bisa memanggil atau meminjamkannya.
     - Sovereign Raiment: buatan para dewa.
-    - Faceless Mantle: armor hitam Black Order, dari bayangan.
+    - Umra: armor hitam Black Order, dari bayangan.
     - Throne-form: wujud domain para host dewa.
     - Armor rusak: Pale Raiment, Lantern rig, dan Kept Knight.
 14. **Cara memanggil armor ("the Knock"):** tiga ketukan pada cincin pengetuk perisai-pintu Eden, lalu nama armornya. Peminjam menjawab dengan nama tengahnya sendiri.
 15. **Batasnya: Seven Tolls.** Selama dipakai, armor berdentang seperti lonceng. Dentangnya makin cepat saat bertarung, terluka, atau melanggar sumpah armor. Pada dentang ketujuh, pemakainya "Kept": membatu selamanya di Vault. Eden tidak bisa di-Kept karena Void; yang terjadi justru esensi Emperor yang muncul ke permukaan. Ini sengaja berbeda dari timer di Garo.
-    - Katalog berisi 17 armor dan 2 tunggangan: Hollowmane dan Selenwing (kuda Valkyrie milik Liora, dipakai Lysette).
+    - Katalog berisi 17 armor dan 2 tunggangan: Mavra dan Isra (kuda Valkyrie milik Liora, dipakai Lysette).
     - Jadwal adegan armor: minimal satu tiap sekitar 10 bab di arc aksi.
-    - Showpiece armor bertepatan dengan momen aura: ch 199 Dawnglass dan Argent Raiment sang Duke, ch 400 Nullcrown, ch 446 Lysette dalam Wingwake, ch 560 Sepiroth's Scale.
+    - Showpiece armor bertepatan dengan momen aura: ch 199 Ilune dan Argent Raiment sang Duke, ch 400 Ennu, ch 446 Lysette dalam Eyra, ch 560 Orrel.
     - Rekomendasi: setuju.
 
 ## C3. Liora, sang Duke, dan titan (baru)
@@ -85,17 +85,17 @@ STATUS: DISETUJUI SEMUA oleh Odin (2026-11-24). Jangan dibuka lagi tanpa perinta
     
     Karya-karyanya:
     - Aster: armor Eden
-    - Vowsilver: armor sang Duke
-    - Patience dan Kingsrest: pedang dan zirah raja
-    - Wingwake: armor Valkyrie miliknya sendiri
-    - Candor: ditempa ulang olehnya
+    - Sevar: armor sang Duke
+    - Tamu dan Oru: pedang dan zirah raja
+    - Eyra: armor Valkyrie miliknya sendiri
+    - Ea: ditempa ulang olehnya
     - Glasshouse Forge: tempa rahasia, berisi pedang "Last Light" yang belum selesai dan dua cincin berlabel "Not yet"
 17. **Armor Eden, "Aster":** armor hitam Black Order ternyata karya ibunya yang tersegel (terungkap ch 175).
     - 5 tahap evolusi: ch 175, 199, 400, 446, dan 590. Tiap tahap terkait pemulihan emosi Eden serta terbukanya Emperor dan Naga.
     - Armor ini tidak berdentang (tanpa Seven Tolls). Harganya: setiap pemakaian besar menghabiskan satu Keep, satu pesan ibunya, untuk selamanya.
-    - Pesan terakhir diputar di ch 795, lewat Aster dan Vowsilver bersamaan.
+    - Pesan terakhir diputar di ch 795, lewat Aster dan Sevar bersamaan.
 18. **Showpiece sang Duke:** ch 193-194, saat kudeta. Ia datang memakai sandal sambil makan roti, lalu berkata "Sentence. All of you. Before the ninth bell." Enam puluh ksatria dan tiga Crown tumbang tanpa satu pun yang mati.
-19. **Kebiasaan rahasia sang Duke:** sehabis bertempur, ia menangis sendirian di dalam Vowsilver sambil mendengarkan Keep istrinya. Ia menghematnya, hanya diputar di malam-malam terberat.
+19. **Kebiasaan rahasia sang Duke:** sehabis bertempur, ia menangis sendirian di dalam Sevar sambil mendengarkan Keep istrinya. Ia menghematnya, hanya diputar di malam-malam terberat.
     - Beat: ch 30, ch 164 (Bertram: "Condensation."), ch 200.
     - Pelepasan besar di ch 251: Duke memakaikan helmnya ke kepala Eden, lalu terdengar suara Liora: "Aldous, you fool. Come home and eat something." Eden tertawa sekaligus menangis.
     - Payoff di ch 795-796.
@@ -104,7 +104,7 @@ STATUS: DISETUJUI SEMUA oleh Odin (2026-11-24). Jangan dibuka lagi tanpa perinta
     - Prinsipnya: makin besar bayangan, makin besar pintu.
     - Konstruksi raksasa: Thousandfold Knight (seribu prajurit legion yang menyatu jadi satu ksatria raksasa) dan Stonewarden milik Han.
     - Politik titan: perebutan komando lewat Titan Accord, dan perdagangan bangkai titan.
-21. **Argent Raiment dihapus**, diganti Vowsilver (karya Liora). Dawnglass sekarang dipinjamkan ke Lysette di ch 507.
+21. **Argent Raiment dihapus**, diganti Sevar (karya Liora). Ilune sekarang dipinjamkan ke Lysette di ch 507.
 
 ## C4. Nama dewa dan gaya bertarung (baru)
 22. **Nama dewa:**
@@ -113,11 +113,11 @@ STATUS: DISETUJUI SEMUA oleh Odin (2026-11-24). Jangan dibuka lagi tanpa perinta
     - Hubungan Melsche dan Melchsee: "Melsche" adalah ejaan manusia yang keliru atas "Melchsee" (tercatat saat ritual Iron King), jadi Melsche Door = Pintu Melchsee. Tutor kesal setiap mendengar ejaan itu (beat komedi). Nama asli terungkap di ch 340.
     - Rekomendasi: setuju.
 23. **Gaya bertarung "Lintel and Lamp"** (bible/combat-style.md):
-    - Tenang, minimalis, tanpa terburu-buru. Tombak-perisai di kiri, Candor di kanan dengan ujung mengarah ke bawah.
+    - Tenang, minimalis, tanpa terburu-buru. Tombak-perisai di kiri, Ea di kanan dengan ujung mengarah ke bawah.
     - Ritmenya "Close, Open, Light": perisai untuk membaca lawan, tombak untuk membuka pertahanan, pedang untuk mengakhiri.
     - Pembuka khasnya: menurunkan kedua senjata dan menunggu.
     - 9 jurus bernama (Latch sampai Last Light). Tanda khas sebelum serius: kedipan pelan dan satu ketukan pada cincin.
-    - 6 tahap perkembangan, dari solo (arc 1-2) sampai komandan legion yang tetap bertarung di garis depan (arc 8-9). Bertarung tanpa Candor di arc 6-7. Pertarungan terakhir kembali minimalis.
+    - 6 tahap perkembangan, dari solo (arc 1-2) sampai komandan legion yang tetap bertarung di garis depan (arc 8-9). Bertarung tanpa Ea di arc 6-7. Pertarungan terakhir kembali minimalis.
     - Sepuluh retainer, masing-masing dengan gaya bertarung, kepribadian, dan bab terbukanya. Ada 10 kombo tim, misalnya "Long Door": panah Hald masuk lewat bayangan di samping Eden dan keluar di belakang musuh.
     - Set piece saat Eden memimpin sambil bertarung: ch 290, 398, 560, dan 596.
 

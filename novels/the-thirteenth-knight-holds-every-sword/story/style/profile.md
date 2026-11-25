@@ -15,7 +15,7 @@ The owner is not a native English reader. Write as if for readers who recently l
 ## CLARITY AND PICTURE (owner's order 2026-11-25; applies to chapters written from now on; wins over Voice, Human feel and Protagonist voice when they conflict)
 Why: chapters 3-4 were still hard to follow although sentences averaged only 7 words. The cause was not sentence length. It was: 20-25 invented names and terms per chapter, idioms and jokes that need cultural knowledge, rare nouns (assessor, ledger, refectory, registrar), little description of places and faces, and choppy 6-7 word sentences with no linking words. The reader must be able to "see" every scene without guessing.
 1. NAME BUDGET: at most 12 distinct capitalized names and terms per chapter (the checker fails above 16). Background people get no name ("the clerk", "the old woman"). At most 2 new named people per chapter. Each new person gets one plain tag the first time (job or look).
-2. WORLD TERMS: at most 2 new ones per chapter. Say the plain thing first, then the name: "the black armor, the Mantle". One thing, one name; never swap synonyms. Explain every new term in the same or the next sentence.
+2. WORLD TERMS: at most 2 new ones per chapter. Say the plain thing first, then the name: "the black armor, Umra". One thing, one name; never swap synonyms. Explain every new term in the same or the next sentence.
 3. PLAIN NOUNS: if a school-level English reader would not know the word, swap it or explain it in 3-4 words (ledger = book; assessor = tax checker; refectory = dining hall; atrium = big front hall; registrar = office clerk).
 4. IDIOMS AND JOKES: at most one easy idiom per chapter (spice only; see LEVEL). Nothing like "flight risk", "give a finger", "like a sack of flour". A joke must work from plain words and be easy to catch on first read.
 5. LINKED SENTENCES: aim for an average of 9-12 words, range 5-18. Use simple linking words (and, but, because, so, then, when, after) so ideas connect. Do not write more than 3 sentences in a row under 6 words, except in a fast fight.
@@ -24,6 +24,24 @@ Why: chapters 3-4 were still hard to follow although sentences averaged only 7 w
 8. FIGHT PICTURE: before the action starts, say where each person stands, how far apart (in steps), and what is around (wall, stairs, barrels). Then one clear move per sentence. If it is too dark to see, say how the hero knows what happens (sound, touch, light from a match).
 9. SAY THE PLAN: when the hero does something clever, one plain sentence says what he wants and why, before or right after ("I needed light. Light makes edges. Edges make doors.").
 10. Keep chapter length 1800-2500 words; description replaces side details, not story events.
+
+## FIRST USE OF A WEAPON, ARMOR OR ABILITY (owner's order 2026-11-25; permanent; same priority as CLARITY AND PICTURE)
+- The first time a named character uses a weapon, armor, relic or ability on the page, describe it in 2-4 plain sentences INSIDE the action (never a pause for exposition): (1) what it looks like, (2) how the body uses it (grip, stance, gesture, sound), (3) what it does to the target or the space, (4) its limit or cost, if the character knows it.
+- Use the same pattern for every new character with a fighting power when they first act, so the reader can picture what this person can do before the scene asks them to win.
+- Later uses stay short and only add what is new (a new form, a new limit, a new trick). Never repeat the full description.
+- Track it: story/bible/first-use.md lists each weapon and ability and the chapter where its first-use description was given. Before writing a use, check that file; after writing a first use, add the line.
+
+## POWER, TECH AND REVEAL CANON (owner's order 2026-11-25; permanent)
+- Aura, mana, Tenet, class/job and spell words follow story/bible/power-system.md exactly (one word, one meaning; no levels or ranks; a class/job reading is one rare italic line only its owner sees).
+- Tech details (guns, veinlines, bellwire, presses, engines) follow story/bible/tech.md; at most 2 new tech terms per chapter; a gun never decides a knight's fight on its own.
+- Every reveal follows story/bible/reveal-ladder.md: hint, doubt, evidence, confirm, in that order and with its gaps; never confirm early.
+- Awakening (Ondra) vocabulary follows power-system.md section 14. Its first appearance on the page needs the full first-use description and heavy earlier build-up; it never appears in a chapter without earlier hints on the ladder.
+
+## SPECIAL ATTACK LABEL (owner's order 2026-11-25; permanent)
+- When a named signature attack (or a named form on its first or deciding use) lands, the narration shows its name as a bold label in square brackets: **[Latch]**. Put it at the moment the move lands, on its own short line or inside the action sentence.
+- It is a narration marker, not speech: never inside dialogue quotes unless the character really says the name.
+- First use: the attack's first-use description (look, body, effect, limit) in the SAME scene. Later uses: the label plus one fresh detail. The label never replaces description.
+- At most 1-2 labels per chapter. Names and owners: power-system.md section 13. Bold brackets = attack; italics = class/job reading; never mix them.
 
 ## SCENE FEEL AND ARMOR (owner's order 2026-11-25; permanent; same priority as CLARITY AND PICTURE)
 SCENE FEEL (mood):

@@ -2,7 +2,7 @@
 
 ## Arc 8 The Grey Sea (351-400) naval monster war + Volkhovar sabotage.
 Q: can the sea hold when the land cannot? Enemy: Hush raft-fleets from Ruhnmara; Volkhovar and the Isthmus Company trying to buy or seize Admiral Kirana (Thalos's host); Nihl.
-Beats: Kirana and Akizane's duelist Tsukishiro Kaede; a Frost Hand plot to kill Kirana near a groomed successor (succession hunt, foiled 370); Ombrevar (380); Felix lost overboard (382), feared dead; Nihl declares Eden a usurper (390); Felix found alive on a Jayavara reef (397, Wardenshell's return law and Kirana's tide); Throne Door (400).
+Beats: Kirana and Akizane's duelist Tsukishiro Kaede; a Frost Hand plot to kill Kirana near a groomed successor (succession hunt, foiled 370); Ombrevar (380); Felix lost overboard (382), feared dead; Nihl declares Eden a usurper (390); Felix found alive on a Jayavara reef (397, Thessa's return law and Kirana's tide); Throne Door (400).
 Tactics: doors on wave troughs; ships as moving shadows; boarding grey rafts; typhoon battle with Kirana steering it.
 Win (395-400): Nihl takes half the First Legion. Eden could crush him; instead he keeps the Emperor's law (never kill humans) that Nihl breaks, and the soldiers return to the one who keeps it. Cost: his hold on the Door is shaken; Felix's bow arm is ruined.
 Growth: Felix becomes scout-commander; Seraphine refuses to grieve him (382) and runs to him (397).

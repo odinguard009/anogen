@@ -228,7 +228,7 @@ I closed my mouth. She kept pouring until the can was empty, and she held it tip
 
 She pulled up her knees and rested her chin on them, which I had never seen her do. Far below, one window in the east wing was lit. A violin tuned up in there, and then someone practiced the waltz.
 
-"Corentin took me to the Ball," she said. "Every year, until he went to serve at the royal court. He hated dancing. He counted under his breath the whole time, and I stepped on his foot on purpose. He'd say, 'Lysette, the beat.'" She was quiet for a while before she went on. "I haven't been since."
+"Corentin took me to the Ball," she said. "Every year, until he went to serve at the royal court. He hated dancing. He counted under his breath the whole time, and I stepped on his foot on purpose. He'd say, 'Lysette, the beat.' The last winter he was home, he did not count at all. He danced as if he had never learned, and when I asked, he said court made him tired." I said nothing. The word "tired" stayed with me, and I did not know why. She was quiet for a while before she went on. "I haven't been since."
 
 My left hand lay in my lap. I looked at the glove, and then at nothing.
 

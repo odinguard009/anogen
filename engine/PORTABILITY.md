@@ -4,7 +4,7 @@ The repo is self-contained: instructions (AGENTS.md), settings (engine/models.js
 
 ## What the AI must be able to do
 1. Read and write files in the repo, run `python3`, and `git commit` + `git push` (the repo is public on purpose).
-2. Run separate, fresh AI sessions for the roles (writer, critic, audit), one at a time. If the host has sub-agents, use them. If not, open a separate fresh session/chat per role and paste the role prompt (engine/batch-writer-prompt.md, engine/batch-critic-prompt.md); never let one session write and then critique its own chapters.
+2. Run separate, fresh AI sessions for the roles (writer, critic, audit), one at a time. (Owner order 2026-11-25: sub-agents are NEVER used in this repo; perform each role inline instead.) If the host has sub-agents, do NOT use them. If not, open a separate fresh session/chat per role and paste the role prompt (engine/batch-writer-prompt.md, engine/batch-critic-prompt.md); never let one session write and then critique its own chapters.
 3. Send files (EPUB) and publish a page (reading page) to the owner, or tell the owner where the files are in the repo (out/).
 4. Talk to the owner in Indonesian.
 

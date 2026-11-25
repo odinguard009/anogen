@@ -8,8 +8,8 @@
 - **Princess Seraphine Aurenmark**, 18, his twin, rank 6. Playful; crush on Eden since he saved her at 12, refused kindly (145); falls for Felix; Concord Speaker.
 - **Dame Hildegard Ostwald**, headmistress. Half-blind, dry; knows Eden's name and power, not the Black Order.
 - **Tesfane Okoru**, one-armed instructor; sees through acts.
-- **Duke Aldous Argentine**, 50, father, Argent master. Loud, goofy; overwhelming in Vowsilver; weeps inside it alone.
-- **King Theodric IV**, 49. Warm, guilty son of the Iron King; wields Liora's sword Patience. Holds a kill-order on Eden if the Void wakes.
+- **Duke Aldous Argentine**, 50, father, Argent master. Loud, goofy; overwhelming in Sevar; weeps inside it alone.
+- **King Theodric IV**, 49. Warm, guilty son of the Iron King; wields Liora's sword Tamu. Holds a kill-order on Eden if the Void wakes.
 - **Ysolde Lisle**, 38, king's secretary, Eden's handler. Deadpan; keeps Liora's letter.
 - **Liora** (dead), mother: Valkyrie, the Dragon's host before Eden, greatest smith ever (liora.md). Died sealing Eden.
 - **Halvard Strent**, beloved vice-headmaster, avoids lamps. The Tailor, Liora's killer.

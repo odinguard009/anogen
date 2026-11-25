@@ -11,7 +11,7 @@
 ## Ledger (raised | feeds / partial answers | payoff | check)
 1. Who killed Liora, and how | 1 | 28 wings slip, 50 "Liora's boy", 85 Duke locks the glasshouse when Eden visits, 120 armor warm under Lysette's hand, 155 letter | 175 (Tailor 185) | ok, max gap 35
 2. The Tailor's identity | 50 (seeds 8 written, 30 Strent's letter, 45 groundskeeper decoy, 48) | 75 a captured Veil names "the Tailor" at the academy, 99 Strent first at every crisis, 130 a lamp test Strent dodges, 157 | 185 | ok
-3. Corentin was a Veil (Lysette) | 4 | 38 reader, 72, 101, 133 | 140 | ok
+3. Corentin was a Veil (Lysette) | 4 | 36 BO link, 45 reader, 72, 101, 133 | 140 | ok
 4. Ashen Crowns and the Regent | 7 (card written) | 25, 50, 77, 95 grafts, 112 | 150 | ok
 5. Rowan's heritage | 6 (fresco plant written) | 44, 70 an Ashen card for Rowan: "Remember Lirenne", 90 | 110 | ok (was a 46-ch gap; 70 added)
 6. Seraphine's crush | 10 (written) | 35 she takes the Wall post beside Eden's, 60, 88, 118 | 145 | ok (35 added)
@@ -36,13 +36,14 @@
 25. Dragomira's god | 106 | 120, 160, 200, 260, 310, 350, 380, 420, 450, 490 | 530 | ok
 26. Vehra and Valerius | 16 (Verdict) | 120, 160, 200, 250, 330, 380, 420, 460, 500, 530 | 545; mastered 600; bound 793 | ok
 27. Nihl's test | 390 | 398, 430, 480 | 515 | ok
-28. Candor's refusal | 260 | 280, 300, 315 | 330 | ok
-29. Felix lost at sea | 382 | 385, 390 (Wardenshell keeps returning to the shore) | 397 | ok
+28. Ea's refusal | 260 | 280, 300, 315 | 330 | ok
+29. Felix lost at sea | 382 | 385, 390 (Thessa keeps returning to the shore) | 397 | ok
 30. Lament's fall and the titans | 598 | 601 | 650 | ok
 31. Belozerov and the Ledger | 106 | 310, 530, 541, 600, 640 | 655-700 | ok
 32. Gorrath asleep on the Void road | 744 | 760 snoring heard through the road, 775 | 790 | ok
 33. Liora's rings "Not yet" | 176 | 205, 300, 450, 500 | 600 | ok
 34. Eden's fear of becoming Melchsee | 298 (sixth Toll) | 340, 400, 446, 590, 726 | 795 | ok
 
-Arc 1 plan: Tutor feed 30->29 (ch 30 is the Duke's POV); Rowan's question 40->39 (ch 40 is Ysolde's POV); Felix's middle name is Perrin. New feeds added in this audit: 35, 60, 66, 70, 75, 85, 100, 104, 110, 120, 130, 150, 160 and the recurring dream, Hierarch, Kell and Clara-visit beats. Writers treat these as small beats (a line, a scene), not chapters.
+Arc 1: Tutor feed at 29, Rowan's question at 39; Felix's middle name is Perrin. Audit feeds: 35, 60, 66, 70, 75, 85, 100, 104, 110, 120, 130, 150, 160 + recurring dream, Hierarch, Kell, Clara-visit beats. Small beats, not chapters. Rungs: reveal-ladder.md.
+36. Aiwe the planet-mind (mother.md) | 1 | 27,31,41,47,50,230,495,601 | 770 | ok
 35. Merrow asks "which hall" the Ball lanterns hang in (planted ch 20) | 280 | 285-290 pay off | 295 | open

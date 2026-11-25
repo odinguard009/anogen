@@ -2,7 +2,14 @@
 Format: `name | owner | first on page ch N | described: yes/partly/no | limit shown: yes/no`. New draft: starts empty.
 
 ## On the page (new draft)
-Nothing written yet. Add one line per first use as each chapter is written: `name | owner | first on page ch N | described: yes/partly/no | limit shown: yes/no`. Check this file before writing a use. (The first-draft ledger is archived in archive/restart-2026-11-25/bible/first-use-draft1.md; its GAP notes were about old text.)
+Add one line per first use as each chapter is written: `name | owner | first on page ch N | described: yes/partly/no | limit shown: yes/no`. Check this file before writing a use. (The first-draft ledger is archived in archive/restart-2026-11-25/bible/first-use-draft1.md; its GAP notes were about old text.)
+
+- Door (shadow door under an awning's shade) | Eden | ch 3 | yes (knock on the air, black rectangle, drops a target) | yes (needs an edge between light and dark)
+- Umra | Eden (Vesk also wears it) | ch 3 | yes (steps back into own shadow; matte black plate, white-thread slit helm, silent) | yes (anyone who sees it knows the Black Order)
+- Gate (summons Ea by name) | Eden | ch 3 | partly (cold thin line in the mind, name said in head) | yes (small ache behind the eyes while Ea is held)
+- Ea | Eden | ch 3 | yes (two-hand-length sword, pale blade like ice at dawn, plain grey grip, does not shine, hums, makes light honest) | yes (needs some light; small drain)
+- Veil tells (flat unbreathing shadow; cannot say the victim's middle name; grey shape in Ea's light; falls to grey dust) | Veils | ch 3 | yes | n/a
+- Vesk | Eden's Pillar | ch 3 | yes (small man in grey, lamp-yellow eyes, speaks from Eden's shadow, wears black plate) | yes (cannot follow into total dark)
 
 ## Planned first uses (outline chapters)
 - Class/job reading (Eden: Knight, Black Lancer) | ch 27 (finals board posts ranks; his own reading in his head)

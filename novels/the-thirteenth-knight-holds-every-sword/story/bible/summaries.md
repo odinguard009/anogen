@@ -7,3 +7,6 @@ Eden skips Spell Grammar to sleep on the Old Observatory roof garden, where the 
 
 ## Ch 2 - The Timetable
 In the nightly dream Eden loses a siege game to the Tutor, and the Landlord scolds him for giving his mother's handkerchief away. A crooked door with a silver hairpin in its keyhole appears, and the Tutor says "Not yet." At six Lysette wakes him with a colour-coded timetable and walks him to class. Eden answers Brandmeier's trap question in six correct words ("A command gives. A request asks."), and the room turns on him, though Felix is impressed ("Eaten today?" "Technically."). At midday Crown Prince Valerius says in front of Lysette and the hall: "So you have finally stopped hiding." Eden stays silent.
+
+## Ch 3 - The Bottom of the World
+At the Solmarch lantern market Vesk and Eden spot a tax clerk with a flat, unbreathing shadow. Eden steps into his shadow and out in Umra, the black plate. The Veil bolts at once, as if warned, and the crowd shouts "The Black Order!" Eden knocks a door open in an awning's shade and drops it into a cellar. When it cannot say its own middle name (Aubin), he kills it with Ea; it dies saying "You smell like the bottom of the world." Its book lists Hallowcrest Year 5 students, with Rowan circled hard in red. Ysolde appears at the stairs and demands Form 13-B, three copies, by morning.

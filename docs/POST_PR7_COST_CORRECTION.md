@@ -48,7 +48,7 @@ Defect: a text query returned matches sorted by chapter, not relevance. Fix: wit
 - CI: see section 8.
 
 ## 8. CI
-(filled after the PR run)
+GitHub Actions workflow `tests` (job `tools`: test_tools.py, ctx_compare.py, policy_check.py) on draft PR https://github.com/odinguard009/anogen/pull/8 for commit dee8d1f: conclusion **success** (run https://github.com/odinguard009/anogen/actions/runs/45587023776). The PR is a draft opened only to trigger CI; it is not merged.
 
 ## 9. Remaining risks
 - No provider-reported usage exists, so real token or cost saving is unknown; all token figures are chars/4.

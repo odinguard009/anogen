@@ -24,7 +24,7 @@ Ch 21: emotional
 Ch 22: tense
 Ch 23: tense (tannery ambush; Gorrath's thirteen voices; plan with wrong night; feather; Ysolde orders him away)
 Ch 24: emotional (roof; Lysette gown; shout; chandelier door; Embers seize atrium; "Wren" called)
-Ch 25: tense
+Ch 25: tense (hostage roles; glass walk aura; Ilsabet spared; Valerius sees)
 Ch 26: emotional
 Ch 27: calm
 Ch 28: comic

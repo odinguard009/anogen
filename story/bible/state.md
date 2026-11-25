@@ -1,4 +1,4 @@
-# State after chapter 24 (Ball night, 11th bell) (autumn PR 112)
+# State after chapter 25 (Ball night, after the siege) (autumn PR 112)
 
 ## Eden (narrator)
 - 18, Year 5, rank 8. Public: Eden Wren, Thornmere-born scholarship ward. True: Eden Aster Argentine. Dyed hair, gray eyes. Cracked rib (ch 17), still sore.
@@ -20,10 +20,10 @@
 - Ch 21: Seraphine asked Eden to the Ball "as a joke, mostly"; he declined ("I'll be on the roof"); she leaves him a plate. Felix sighs near her.
 - Lysette: roof garden is hers; knows Eden knew; truce since ch 15; kept the handkerchief. Ch 21: wrote Seraphine up (Rule 14, collar), kept the page; heard Rowan asked Clara. On the roof told Eden of Corentin (taught her the waltz, "the beat"); no partner; "I'm going. Alone. To prove I don't care." Eden said nothing useful.
 - Rowan: loud, warm; ch 21 quietly learning the waltz, asked Clara (yes). Clara: still, quiet. Rowan's Spark = Lirenne fresco gold.
-- Ch 23: tannery Embers yielded to Gorrath/Vesk voices; plan said "night before the Ball" (wrong night). Ysolde doubled the Golden Seal; Eden agreed too fast. Feather stamp inside his left gauntlet (Gorrath's has none).
+- Ch 23: wrong-night plan; feather stamp inside Eden's left gauntlet.
 - Ch 18-20: ledger = Ball guest list (41); Merrow asked which hall. Lance Nine owes 412 crowns.
 
-- Ch 24: Ball. Eden on the atrium roof, Lysette came up in a gold gown, torn hem, one shoe; he shouted "Not there!" once. At the 11th bell lanterns went out; Embers cut the chandelier chain; his door in its shadow caught it over Seraphine unseen (left hand Frost-white). About 40 Embers barred the doors; Golden Seal guards tied. An Ember called for "the Thornmere boy, Wren"; Lysette heard and asked why they know his name.
+- Ch 24-25: Ball. Embers seized the atrium; Lysette sent for the Golden Seal; Eden (Mantle; left arm Frost-white to elbow) with Mirelle, Vesk, Gorrath freed 40 hostages unseen; walked the glass, Seraphine's hand stopped shaking; beat and spared Ilsabet Rorke (Crown of Kaldmark, pale armor; "a man with a kind voice" gave it); Merrow admired the Ostrevaal cloth; Valerius (arm cut) looked straight at him. Lysette heard "Wren" called; Eden owes her ONE true answer tomorrow.
 
 ## World now
 - Ashen Crowns bombed a tax office; Golden Seal (Rochefort) blames the Black Order.

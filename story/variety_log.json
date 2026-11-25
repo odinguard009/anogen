@@ -310,5 +310,18 @@
       "pacing_shape": "flat surface, tension underneath",
       "hook_type": "danger arrives"
     }
+  },
+  {
+    "chapter": 25,
+    "picks": {
+      "opening_type": "aftermath of an event, then back-fill",
+      "scene_shape": "quiet scene that turns sharply",
+      "tension_type": "hidden information",
+      "emotional_tone": "irritation that hides worry",
+      "comic_device": "mismatched expectations",
+      "conflict_type": "team fight with roles",
+      "pacing_shape": "fast dialogue sprint, then one slow paragraph",
+      "hook_type": "a small lie gets caught by the wrong person"
+    }
   }
 ]

@@ -271,5 +271,18 @@
       "pacing_shape": "single long scene",
       "hook_type": "an action shown with no explanation"
     }
+  },
+  {
+    "chapter": 22,
+    "picks": {
+      "opening_type": "a direct question or order",
+      "scene_shape": "slow reveal in a single location",
+      "tension_type": "unknown rules of a situation",
+      "emotional_tone": "dread under ordinary routine",
+      "comic_device": "deadpan understatement",
+      "conflict_type": "battle of wits",
+      "pacing_shape": "steady climb ending on a drop",
+      "hook_type": "unexpected arrival"
+    }
   }
 ]

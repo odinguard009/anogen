@@ -1,52 +1,52 @@
-# Pacing map, arc 1 (ch 1-50)
+# Pacing map, arc 1 (ch 1-50). Rewritten 2026-11-26 to match outline/arc-1.md.
 
-Ch 1: emotional
-Ch 2: calm
-Ch 3: tense
-Ch 4: emotional
-Ch 5: tense
-Ch 6: calm (mystery; Lance Nine formed, dead master's signature)
-Ch 7: comic (warrant vs roof permit; Ashen card; gray-coat watcher)
-Ch 8: tense (workshop fight in moon lattice; forged signature; Strent and the lullaby)
-Ch 9: calm build, sharp spike (Wick Street siege), quiet debrief
-Ch 10: emotional (Lysette POV; clean file, chalk duel, letter, handkerchief)
-Ch 11: tense (graded maze run, dust-hounds, tannin-thumb Ember watches Rowan)
-Ch 12: emotional (Felix asks why; Perrin; Lysette's two lunches)
-Ch 13: tense (Veil lamplighter kill; Witness replay of the door; Rochefort; plate)
-Ch 14: comic (single scene; roof stakeout; warrant buried in the herb bed)
-Ch 15: calm (tail; Candlewick bakery; truce; Dragon "I promised someone")
-Ch 16: tense (Ladder duel; Verdict walls; Hinge; "Again. And this time try.")
-Ch 17: tense (Rule Nine; lanes; lose by a finger; Lysette bandage; Valerius threat)
-Ch 18: calm (bell market tail; lost-child ruse; Corwen; guest-list ledger; nine days)
-Ch 19: comic (east kitchen flour blast; luck; Seraphine asks Lysette about the Ball)
-Ch 20: calm (Valerius POV; map bend; Void Host rumour; Merrow asks which hall)
-Ch 21: emotional
-Ch 22: tense
-Ch 23: tense (tannery ambush; Gorrath's thirteen voices; plan with wrong night; feather; Ysolde orders him away)
-Ch 24: emotional (roof; Lysette gown; shout; chandelier door; Embers seize atrium; "Wren" called)
-Ch 25: tense (hostage roles; glass walk aura; Ilsabet spared; Valerius sees)
-Ch 26: emotional
-Ch 27: calm
-Ch 28: comic
-Ch 29: emotional
-Ch 30: emotional
-Ch 31: calm
-Ch 32: tense
-Ch 33: emotional
-Ch 34: tense
-Ch 35: comic
-Ch 36: tense
-Ch 37: calm
-Ch 38: emotional
-Ch 39: calm
-Ch 40: emotional
-Ch 41: tense
-Ch 42: comic
-Ch 43: emotional
-Ch 44: calm
-Ch 45: tense
-Ch 46: tense
-Ch 47: emotional
-Ch 48: tense
-Ch 49: tense
-Ch 50: emotional
+Ch 1: emotional (roof; handkerchief; the odd kind question)
+Ch 2: calm (timetable; Brandmeier; Valerius at the stairs)
+Ch 3: tense (exchange Veil; Umra armor-up; Inead for the last stroke)
+Ch 4: calm (arms class at true standing; cold stomach)
+Ch 5: tense (rigged construct; Lysette holds three minutes; Latch)
+Ch 6: calm (Lance Nine formed; dead master's signature)
+Ch 7: comic (warrant vs roof permit; Ashen card)
+Ch 8: tense (workshop dark; Mirelle's Sile; Strent's lullaby)
+Ch 9: calm (debrief; Form 13-B; the envelope)
+Ch 10: emotional (Lysette POV)
+Ch 11: tense (graded maze; a strong Lance that has never worked as one)
+Ch 12: emotional (Perrin; two lunches)
+Ch 13: tense (lamp-house; Witness replay)
+Ch 14: comic (roof stakeout; herb bed)
+Ch 15: calm (tail; bakery; truce; Dragon)
+Ch 16: tense (Ladder duel; Injunction; Hinge)
+Ch 17: tense (lose by a finger; bandage; threat)
+Ch 18: calm (quiet tail; sleeping Ember; call list = guest list; nine days)
+Ch 19: comic (kitchen blast)
+Ch 20: calm (Valerius POV; map bend; Merrow)
+Ch 21: emotional (locket; roof; invitation week)
+Ch 22: tense (dye-works; silent; Mott)
+Ch 23: tense (second safehouse; Knock and Answer)
+Ch 24: emotional then tense (Ball; roof; lights out)
+Ch 25: tense (atrium; glass walk; Lintel)
+Ch 26: emotional (roof dance)
+Ch 27: calm (paper; finals; first readings)
+Ch 28: comic (Silverfell; bandits)
+Ch 29: emotional (lake; Tutor)
+Ch 30: calm (Duke POV; helm)
+Ch 31: calm (the Wall; the new kit; birds go silent)
+Ch 32: tense (Choir silence; hand signs)
+Ch 33: emotional (inspection; scarf)
+Ch 34: tense (cistern)
+Ch 35: comic then quiet (rations; the lodge story)
+Ch 36: tense (signal mirror; Hollen boy)
+Ch 37: calm (the file)
+Ch 38: emotional (the fire; Corentin)
+Ch 39: calm (Rowan's question; Okoru's story)
+Ch 40: calm (Ysolde POV)
+Ch 41: tense (three nights under the Wall)
+Ch 42: comic (roll call)
+Ch 43: emotional (watch; Clara)
+Ch 44: tense (dark tunnels; Osk)
+Ch 45: tense (groundskeeper; memory; the Mawgate opens)
+Ch 46: tense (the camp burns)
+Ch 47: emotional (the loan; Thessa)
+Ch 48: tense (Harrow)
+Ch 49: tense (the look; Lampwick)
+Ch 50: emotional (the morning; the hook)

@@ -3,10 +3,12 @@
 The repo is self-contained: instructions (AGENTS.md), settings (engine/models.json, AGENTS.md LOCKED SETTINGS), state (ops/engine.json, story/), scripts (tools/, Python 3 standard library only). Any AI that can do the following can run it exactly as Claude does.
 
 ## What the AI must be able to do
-1. Read and write files in the repo, run `python3`, and `git commit` + `git push` (the repo is public on purpose).
+1. Read and write files in the repo, run `python3`, and `git commit` + `git push`.
 2. Perform every role yourself, inline, one stage at a time, in the one main session (owner order 2026-11-25, locked setting 13). Never start sub-agents, extra sessions or parallel runs; if the host offers them, do NOT use them. The same session writes and critiques, so the critic stage is a cold read of the text (engine/batch-critic-prompt.md) backed by tools/prepass.py, tools/verify_batch.py and the written checklists; it is not an independent reviewer.
 3. Send files (EPUB) and publish a page (reading page) to the owner, or tell the owner where the files are in the repo (out/).
 4. Talk to the owner in Indonesian.
+5. Respect the HOLD flag (ops/engine.json, `engine_state.py next` says `hold: true`): write nothing until the owner clears it.
+6. If the host offers an advisor or reviewer consult, use it often as advice only (AGENTS.md section Advisor consult; owner order 2026-11-26). It is not permission to start sub-agents.
 
 ## First message to give a new AI
 "Read AGENTS.md, engine/sop.md and engine/PORTABILITY.md in the repo odinguard009/anogen and follow them. Then: lanjutkan."
@@ -19,6 +21,7 @@ The repo is self-contained: instructions (AGENTS.md), settings (engine/models.js
 - Tools that are Claude-specific in AGENTS.md are described by function only (run a role stage, publish a page, send a file).
 
 ## Switching checklist
+0. Read the HOLD state first (`python3 tools/engine_state.py next`).
 1. `git pull`; `python3 tools/status.py`; `python3 tools/engine_state.py next`.
 2. Read ops/blocked.md and ops/decisions.md.
 3. Run one batch; compare chapter quality with the previous chapters (style: story/style/profile.md LEVEL).

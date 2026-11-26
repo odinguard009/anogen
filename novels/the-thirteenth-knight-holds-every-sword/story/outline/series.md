@@ -19,6 +19,7 @@
 17. 801-850 Names Spoken Openly (slice-of-life): three weddings.
 
 ## Rules
+- Time and graduation (owner order 2026-11-26): all dates are in bible/calendar.md (it wins). Eden and his circle graduate at ch 200 (26 June PR 114), 23% of the story; arcs 5-17 are post-academy. POV is close third person (profile.md). Labels are **[Name]**.
 - Enemy type changes each arc. Eden is overpowered; tension is path and price. Battles ~30% flex, 35% puzzle, 25% strained, 10% costly; 2-4 earned aura moments per arc. Main circle lives.
 - Every fight debuts a new trick; calm style grows into team command; armor ~every 10 ch; titans in war arcs.
 - Ten gods in mortal hosts; Eden carries Melchsee and Sepiroth. 39 twists, planted 10+ ch ahead.

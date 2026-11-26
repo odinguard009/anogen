@@ -88,9 +88,8 @@ def style_for(profile, outline, mode="auto"):
         end = m.end() + e.start() if e else len(text)
         omitted.append(name)
         return text[:m.start()] + text[end:]
-    text = cut(profile, r"^## SPECIAL ATTACK LABEL", r"^## ", "SPECIAL ATTACK LABEL")
-    text = cut(text, r"^ARMOR \(follow", r"^HUMAN FEEL \(", "ARMOR (in SCENE FEEL AND ARMOR)")
-    text = cut(text, r"^## Battles and aura", r"^## ", "Battles and aura")
+    text = cut(profile, r"^- ARMOR \(story/bible/armor.md", r"^## ", "ARMOR (in SCENE FEEL AND ARMOR)")
+    text = cut(text, r"^## 10\. BATTLES AND AURA", r"^## ", "BATTLES AND AURA")
     if omitted:
         text = text.rstrip() + "\n\n[STYLE NOTE: omitted for this batch because the outline lines show no fight, armor or power use: " + "; ".join(omitted) + ". Run context_pack.py --style full to load them.]"
     return text, omitted
@@ -253,7 +252,7 @@ def build(chapter=None, extra=(), peek=False, part="full", no_tail=False, increm
         if ep:
             add("Epigraph for this chapter (put it right under the title as a '> ' blockquote, one or two lines)", ep, 500)
     if want_s:
-        add("Series arc", read(STORY / "outline" / "series.md"), 3000)
+        add("Series arc", read(STORY / "outline" / "series.md"), 3800)
     if want_d:
         ol = outline_lines(n)
         add("Outline for this and next chapters", "\n".join(ol) if ol else "NO OUTLINE for this chapter: Development Editor must plan the arc first.", 2500)
@@ -267,7 +266,7 @@ def build(chapter=None, extra=(), peek=False, part="full", no_tail=False, increm
         sec = read(STORY / "bible" / "secrets.md").strip()
         add("Secrets", sec if len(sec) <= 2500 else "[older entries omitted]\n" + sec[-2500:], 2600, diffable=True)
     if want_s:
-        add("Characters", read(STORY / "bible" / "characters.md"), 3000)
+        add("Characters", read(STORY / "bible" / "characters.md"), 4600)
     if want_d:
         add("Last summaries", last_summaries(n), 3500)
         if not no_tail:

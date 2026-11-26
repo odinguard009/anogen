@@ -32,7 +32,7 @@ No radio, no flying machines (griffons fly), no repeating rifles, no electric po
 6. Guns are for conscripts, who have no aura; aura is for the front. A line of muskets protects a town from bandits, not from a Choir.
 
 ## Why Embers use crossbows
-Powder is licensed: every barrel carries a Crown stamp and the Justiciar Seal tracks sales. Hallowcrest and the capital's big halls are under ward-nets that foul powder. Crossbows are cheap, silent, and work under any ward. (This explains ch 23 and 25 without changing a line.)
+Powder is licensed: every barrel carries a Crown stamp and the Justiciar Seal tracks sales. Hallowcrest and the capital's big halls are under ward-nets that foul powder. Crossbows are cheap, silent, and work under any ward. (This is why the Ball's Embers use crossbows and grafts, not pistols, in ch 24-25.)
 
 ## The Hush and big machines (moral conflict)
 The Hush hunts mana. Big engines, wells pumped hard and veinline hubs shine to it like a lamp in a dark field. Towns that build more machines grow rich and draw the Hush faster. Every nation must choose between growth and safety, and the poor live closest to the engines.

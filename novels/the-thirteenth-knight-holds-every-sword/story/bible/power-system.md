@@ -66,7 +66,7 @@ At the Bell Assessment the year a person turns 14 (and again each year), they la
 - NOT: levels, stats, a hit-point bar, or a ranking. Two people with the same job can fight in opposite ways.
 
 ### On the page (format)
-One italic line, alone, in the owner's head. No numbers, no lists, no brackets. Only when the reading appears for the first time in the story, or changes. At most once per chapter; most chapters have none.
+One bold-bracket line (for example **[Knight]**), alone, in the owner's head. No numbers, no lists. Only when the reading appears for the first time in the story, or changes. At most once per chapter; most chapters have none.
 Example: *The reading came, quiet as a thought: Void Heir.*
 First use rule applies: the first time a class, job or skill appears, describe in 2-4 plain sentences what it looks like, how the body uses it, what it does, and its limit.
 
@@ -143,7 +143,7 @@ Who wins is never settled by this list. A small tank used well beats a big tank 
 | edge | the line between light and dark (doors) | lower case; never the Tenet stage |
 | Crown | a Crown Well or an Ashen Crown leader | never the Tenet stage |
 | aura | the body field | "raise", "drop", "aura moment" for a full raise |
-| reading | the registry's line in a person's head | italic, rare |
+| reading | the registry's line in a person's head | bold brackets, rare |
 | Register | the Crown Register, the kingdom's record office | |
 
 ## 11. Class and job table (registered / true)
@@ -180,10 +180,11 @@ The registry cannot read beings it did not birth. Eden sees the Pillars' roles o
 ## 13. Signature attacks and the label
 - A signature attack is a person's rare, decisive move. One per person at first; more unlock later for a story reason (a test, a loan, a new stage).
 - Ordinary technique (named forms such as Latch, Hinge, Draught, Doorstop, Doorstep) can carry the label on its first use and when it decides a fight.
-- LABEL FORMAT: **[Name]** in bold square brackets, at the moment the move lands or is done, on its own short line or inside the action sentence. It is narration, not speech: never in dialogue quotes unless the person really says it.
-- The first use gets the first-use description in the SAME scene (look, body, effect, limit). Later uses: the label plus one fresh detail.
-- At most 1-2 labels per chapter. The label never replaces description.
-- Italic = the class/job reading. Bold brackets = an attack. Never mix them.
+- LABEL FORMAT (owner order 2026-11-26, replaces the old "once, max 2" rule): every NAMED weapon, ability, technique, signature or ultimate move, job and class is written **[Name]** in bold with square brackets, EVERY time it is named in narration or in an on-page reading, not only the first time. Examples: **[Inead]**, **[Exa]**, **[Lintel]**, **[Witness]**, **[Black Lancer]**, **[Knight]**, **[Unbind: Evrin]**. Nameless things stay plain ("a sword", "a spell").
+- IN SPOKEN DIALOGUE the name is plain, with no brackets or bold (people do not speak punctuation): "Draw Inead," not "Draw **[Inead]**". If a character shouts a move as a call, still plain. Proposal to the owner: confirm this reading or ask for brackets in dialogue too.
+- The class/job reading that appears in Eden's head is the bold bracket too: **[Knight]**, **[Black Lancer]**. The old italic reading is retired.
+- The first use gets the first-use description in the SAME scene (look, body, effect, limit). Later uses: the label plus one fresh detail. The label never replaces description.
+- Budget: a chapter uses at most 6 different labelled names; the same name may repeat. A new name each chapter, at most 2 (first-use rule in first-use.md).
 
 | Person | Attack | Look and body | Effect | Limit or cost | First shown |
 |---|---|---|---|---|---|
@@ -202,7 +203,7 @@ The registry cannot read beings it did not birth. Eden sees the Pillars' roles o
 | Okoru | [Tavu] | one hand flicks; threads of force | binds a limb, a rope, a wound | needs touch or a rope | ch 32 |
 | Duke Aldous | [Ninth Bell] | names targets and a deadline, then goes still | his blade will not miss before the deadline | a missed deadline costs him for days | ch 193 |
 | Vesk | [Mott] | steps into an enemy's shadow and wears it | gives false orders in their voice | breaks if the real one speaks | ch 22 |
-| Gorrath | [Brunn] | tower shield set on stone, body behind it | nothing passes for one push | does not move while holding | arc 2 label (ch 8 shown, unlabelled) |
+| Gorrath | [Brunn] | tower shield set on stone, body behind it | nothing passes for one push | does not move while holding | ch 8 |
 | Mirelle | [Sile] | a long thin blade up through a small door | one silent killing stroke | only through a door Eden opens | ch 8 |
 | Hald | [Teth] | arrow into one shadow, out of another | hits from the wrong side | counts every arrow; needs two shadows | ch 84 |
 | Sefa | [Vaun] | folding chain-compass snaps open | links two far shadows | long setup | ch 242 |
@@ -280,3 +281,36 @@ Odin's original plan is the truth. The words Door and Gate stay in the book as n
 - Armor-up is a bold label moment: **[Armor name]** at the moment the helm closes (1-2 per chapter at most, with the other labelled attacks).
 - Eden's own armor: Umra (soldier plate drawn from his shadow, silent, costs the Frost) and Aster (his mother's work) are his anti-invader plate; Inead and Exa are his weapons; the army fights beside him.
 - Ward-plate is the common tier (every knight): its seals wear out; each fight against invaders spends seal-charge; an armorer re-seals it. Plot use: an unsealed glove, a cracked seam, a stolen helm filter are the small disasters that make invaders frightening.
+
+
+## 17. Standing: how strong a Year 5 student really is (owner order 2026-11-26)
+Problem fixed: the circle must not read as first-years. They are fifth-years who already fought. Bells measure the tank only; STANDING below measures what a person can do and has done.
+
+Standing ladder (informational, never named as a rank on the page):
+- Recruit (Years 1-2, soldiers): aura in bursts of a few heartbeats; one or two slow spells.
+- Squire standard (end of Year 4; the Year 4 exam passes this): holds aura ten minutes; three spells; has escorted a convoy and stood a Wall watch.
+- LINE KNIGHT (what a posted knight is: section 6 "Trained knight"): holds aura 10-15 hard minutes; three to five battle spells; one door-sized ward; has killed Hushborn.
+- Senior knight (veteran edge): half an hour to an hour of aura; a signature move that decides fights.
+- Order master and legends: section 6.
+
+Year 5 top ten (the Ten) = line-knight standard already; the top five are at the senior-knight edge in one respect each:
+| Person | Bells | Standing | Real combat history before ch 1 |
+|---|---|---|---|
+| Valerius (1) | 5 | senior edge: Verdict holds a wall that stops a charge; aura 35 min | three Summer Postings; led a squad in the last one; killed 20+ Husks from rear lines and sorties; has never held a front battlement inside a Choir's silence |
+| Rowan (2) | 5 | senior edge in output: Dawnbreak burns Husks in a ring; aura 25 min, reckless | frontier-fort boy: lived a garrison childhood, stood a gate at 15 beside soldiers; three Summer Postings |
+| Clara (3) | 4 | line knight as healer: keeps six wounded alive in a fight | three Postings on a Wall hospital line; has lost patients |
+| Lysette (4) | 4 | line knight plus: aura 20 min; Witness gives her reads no line knight has; batons end a Husk | three Postings, all rear or escort duty (the third, summer PR 112, on a hospital-convoy line behind the Choir sector, at her own request after the Hollen shame); a convoy escort fight at 17 (Year 4) where she held a wagon with two soldiers down; has killed. Her weakness is not skill: she needs still time and a clean read |
+| Seraphine (6) | 3 | line knight in misdirection; small tank | three Postings; the lodge kidnapping at 12 (story) |
+| Felix (19 on the Ladder) | 3 | line knight with a bow: out-ranged anything he could see | his father is a scout-captain; three Postings as scout |
+| Eden (8) | 3 rung (faint 4th hidden) | public: line knight, "average of the Ten". True: far past every row above, hidden on purpose (Bells 3 shown) | since age 12: Vigil kills |
+So the cast is competent on the page: they read a fight, take cover, work as a team, win ordinary fights alone. The Ladder is the Ten out of 400, not a joke.
+
+Summers are rear and escort duty behind rows of veterans; nobody in Year 5 has yet held a front battlement in Choir season. That is what the Winter Rotation adds (arc 1, ch 31-50).
+
+What outclasses them (so Eden's hidden help still matters and no one is stupid):
+- Veils: aura and speed above a senior knight when they drop the face; they are built to kill knights (invaders.md). A line knight facing a Veil in the open dies.
+- Grafts: Hush flesh welded on a human (Ashen Crowns): strength, regrowth and mana-rot beyond spec.
+- Sabotage: training constructs with limiters removed, poisoned wards, a lit hall: not a fair fight at the students' standard.
+- Numbers and surprise at the Ball: forty hostages stop skilled people.
+Rule for writers: a student character may lose only to something out of spec, or to a trap, or by choice; never to a plain drill. When a drill-warden or instructor beats a Year 5 student, the student fights back well and loses by experience, not by helplessness.
+Eden's cover: he acts "good, tired, unambitious". He wins the way a Year 5 rank 8 could (reading, positioning), and the circle sees the gap only in slivers.

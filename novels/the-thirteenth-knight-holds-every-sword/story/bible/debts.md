@@ -3,22 +3,20 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [open] Handkerchief "to wash" | planted: ch 1 | due: ch 140, 175, 600
 - [open] Hairpin in locked door (Ynde) | planted: ch 2 | due: ch 172-176, 197
 - [open] Veil: "bottom of the world"; Inead hums | planted: ch 3 | due: ch 48-50, 176
-- [open] Who told the Veil where Eden would stand? | planted: ch 3 | due: ch 18
-- [open] Ledger = Ball guest list (Rowan no.1); Embers want Rowan alive | planted: ch 3, 18 | due: ch 24-26
+- [open] Exchange call list = Ball guest list (Rowan no.1); Embers want Rowan alive | planted: ch 3, 18 | due: ch 24-26
 - [open] Locket (Corentin); empty frame ch 13 | planted: ch 13, 21, 27 | due: ch 36, 45
-- [open] Forged signatures (Vane ch 6, stamp 8); grey dust | planted: ch 5-8 | due: ch 95
-- [open] Okoru saw the shield-hold before; "not by feel" | planted: ch 6, 11 | due: ch 60-66
+- [open] Construct requisition signed by a dead master; grey dust in the core | planted: ch 5-6, 8 | due: ch 22-23, 95
+- [open] Okoru saw the shield-hold before; "not by feel" | planted: ch 4, 11 | due: ch 60-66
 - [open] Rowan's light = Lirenne fresco | planted: ch 6 | due: ch 105-110
 - [open] Lilies revive near Clara | planted: ch 6 | due: ch 478-480
 - [open] Ashen card "Remember Thornmere" | planted: ch 7 | due: ch 24
 - [open] Gray-coat Ember = Corwen, bag man | planted: ch 7 | due: ch 18
 - [open] Strent: no lamps, Liora's lullaby | planted: ch 8 | due: ch 50, 185
-- [open] Seal seeks hooded door-shield; Beatrix | planted: ch 10 | due: ch 13-24, 72
-- [open] Ulrike's plain key; Veil in cellar | planted: ch 9 | due: ch 40
+- [open] Justiciar Seal seeks the hooded door-shield man | planted: ch 13, 27 | due: ch 72
 - [open] Ysolde's gray-sealed envelope | planted: ch 9 | due: ch 153
-- [open] Seraphine "save me?"; Eden's file tidied, pencil rubbed out | planted: ch 10 | due: ch 35, 145; 30
+- [open] Seraphine "You'd save me, right?"; Eden's file too clean | planted: ch 10 | due: ch 35, 145; 30
 - [open] Felix's middle name; two lunches | planted: ch 12 | due: ch 47; 106-108
-- [open] Witness plate (door, figure); Rochefort | planted: ch 13 | due: ch 138-142
+- [open] Witness replay (door-shaped shadow, figure in black) | planted: ch 13 | due: ch 138-142
 - [open] Dragon: "I promised" | planted: ch 15 | due: ch 420-425
 - [open] Verdict makes ruling physical | planted: ch 16 | due: ch 540-545
 - [open] Ember's gray veins | planted: ch 22 | due: ch 90-95

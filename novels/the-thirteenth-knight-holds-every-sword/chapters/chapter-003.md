@@ -78,7 +78,7 @@ Another click. A child: "Your mother rang."
 
 The room smelled of hot copper and cold sweat. Eden put one gloved finger against the door and pushed.
 
-The switchroom was long and narrow, and Eden stood in the corridor door at its east end. Along the north wall stood the board, twelve steps wide. It was dark wood full of holes and brass pins and little shutters. Copper cables ran up and across the ceiling like roots. It stood a handbreadth clear of the wall. One lamp hung on a cord over the aisle, close to the board's east end. Its light threw the board's shadow past that end onto the bare wall, a black square taller than a man. The woman sat at the middle of the board with her back to him, a headset over her ears, her grey coat on the chair.
+The switchroom was long and narrow, and Eden stood in the corridor door at its east end. Along the north wall stood the board, twelve steps wide. It was dark wood full of holes and brass pins and little shutters. Copper cables ran up and across the ceiling like roots. It stood a handbreadth clear of the wall. One lamp hung on a cord over the aisle, a few steps in from the board's east end. Its light threw the board's shadow past that end onto the bare wall, a black square taller than a man. The woman sat at the middle of the board with her back to him, a headset over her ears, her grey coat on the chair.
 
 "Your mother rang," she said into the headset. "Come to the exchange. Bring a coat. It is cold."
 
@@ -126,7 +126,7 @@ Then she looked up at the lamp.
 
 She dropped the bar and reached for the cord. If the lamp went out, the board's shadow went with it, and the Door would close. Eden saw that at the same moment she did.
 
-He did not go for her hand. He went for the cord first. He took it out of the air above her fingers and pulled it hard.
+He did not go for her hand. He went for the cord first. He caught the cord above her fingers and swung the lamp away.
 
 The lamp swung, and every shadow in the room moved. The cables' shadows slid across the ceiling and fell into the open Door, like rope paid out over a rail. The cables above the board went slack.
 

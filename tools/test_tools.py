@@ -1086,6 +1086,18 @@ def main():
     _w, _e = _cc.battle_check(0, _long)
     assert (_w, _e) == ([], []), "chapter 0 is never checked"
     print("  ok battle_check basics")
+    import tempfile as _tf
+    _d = Path(_tf.mkdtemp()); (_d / "outline").mkdir()
+    (_d / "outline" / "arc-1.md").write_text("Ch 50 | goal: x | pov: eden | type: battle\nCh 51 | goal: x | pov: eden | type: battle\n", encoding="utf-8")
+    _old = _cc.STORY; _cc.STORY = _d
+    try:
+        _w, _e = _cc.battle_check(50, "Quiet text.")
+        assert _w and not _e, "ch 50 missing card = warning only"
+        _w, _e = _cc.battle_check(51, "Quiet text.")
+        assert _e and not _w, "ch 51 missing card = error"
+    finally:
+        _cc.STORY = _old
+    print("  ok battle_check phases")
 
     print("\nALL TESTS PASSED")
 

@@ -160,7 +160,9 @@ The shield unfolded back into **[Exa]** with a ring and a cold ache behind Eden'
 
 Lysette stood against the wall with one whole baton and one empty hand.
 
-Clara came to Eden first, not to her. She took his left wrist and turned the hand over, the way a woman checks a loaf. The fingers were still white to the second knuckle.
+The false wall slid open. Rowan came through first with his spear low, and Clara behind him. Okoru walked in from the south gate with his wooden stick.
+
+Clara came to Eden first, not to Lysette. She took his left wrist and turned the hand over, the way a woman checks a loaf. The fingers were still white to the second knuckle.
 
 "Numb?" she asked.
 
@@ -176,7 +178,7 @@ Clara came to Eden first, not to her. She took his left wrist and turned the han
 
 "It is a strange bruise." But she let go, because Lysette was watching, and Clara knew when a question had to wait for a better room.
 
-"Two seconds," she said. "Again."
+"Two seconds," Lysette said. "Again."
 
 Eden said nothing.
 
@@ -185,8 +187,6 @@ She looked at his arm, then at the thing on the floor. "I didn't need that."
 "I know."
 
 Her hands shook once. She put them behind her back before anyone else could see.
-
-The false wall slid open. Rowan came through first with his spear low, and Clara behind him, and Okoru last of all with his wooden stick.
 
 "You were supposed to take the wall apart," Rowan said to Okoru.
 
@@ -202,7 +202,7 @@ Clara went to her and took the arm without asking. Lysette let her, which surpri
 
 "It is the same scratch," Clara said. "It has had a busy day."
 
-Felix came up behind them with the bow still unstrung across his chest. "I never shot."
+Felix came up behind them with the bow still across his chest. "I never shot."
 
 "No," Eden said.
 

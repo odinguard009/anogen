@@ -106,7 +106,7 @@ Clara put a hand on Rowan's sleeve. "You took a knock."
 
 "It was a knock." She let go, and when Rowan had moved on she sat down for two steps before she stood again. "Keep going."
 
-Eden saw her do it. He saw Lysette see it too, and saw Lysette decide, with a small tightening of her jaw, to say nothing in front of Rowan. It was the second time in a week that the two of them had hidden the same thing from the same boy. Neither of them looked at the other.
+Eden saw her do it. He saw Lysette see it too, and saw Lysette decide, with a small tightening of her jaw, to say nothing in front of Rowan. Lysette and Eden were both hiding it from Rowan, who worried too easily about Clara. Neither of them looked at the other.
 
 "You are pale," Lysette said.
 
@@ -136,9 +136,9 @@ Rowan crouched and made a step of his hands, and Lysette climbed up without losi
 
 Eden rang the bell, and the stopwatch outside clicked.
 
-"Eleven minutes," Okoru said from the gallery above them. "Order: Felix, Lysette, Wren, Clara, Rowan. Third."
+"Eleven minutes," Okoru said from the gallery above them. "Third place."
 
-Okoru wrote something in his own book and turned the board around so every Lance could see. The first Lance, the fourth, ours. In that order. The other five names sat in a column underneath with no marks beside them. Lysette copied the order into her book without being asked.
+Okoru wrote something in his own book and turned the board around so every Lance could see. Lance One was first. Lance Four was second. Lance Nine was third. Lysette copied the order into her book without being asked.
 
 Eden's hand had been on the bell rope since they came through the door. His fingers were stiff when he opened them.
 
@@ -148,7 +148,7 @@ Eden's hand had been on the bell rope since they came through the door. His fing
 
 "I will take it."
 
-Rowan stared at the board. "Third? Lance One did nine." He read the column twice with his lips moving, and his face did the thing it did when he was trying to be a good loser and was not yet sure how. "I was loud," he said. "Was I loud?"
+Rowan stared at the board. "Third? Lance One did it in nine minutes." He read the column twice with his lips moving, and his face did the thing it did when he was trying to be a good loser and was not yet sure how. "I was loud," he said. "Was I loud?"
 
 "You were loud," Lysette said.
 
@@ -158,7 +158,7 @@ Rowan stared at the board. "Third? Lance One did nine." He read the column twice
 
 Rowan took that as a prize and held it for the rest of the afternoon.
 
-"Lance One did nine," Okoru said. "You did eleven and you brought everyone through. That is third and it is not nothing."
+"Lance One did it in nine," Okoru said. "You took eleven, and you brought everyone through. Third place is not nothing."
 
 Felix sat down on the step and put his book on his knees. "I found a line."
 
@@ -178,6 +178,6 @@ Felix kept looking at the board while Rowan told Clara that the construct had tr
 
 "It turned."
 
-"It turned toward my spear."
+"It turned toward my spear," Clara said.
 
-"That is the same as behind." Felix took one finger away from the count. "I am counting that as a door as well."
+"That is the same as behind," Rowan said, and everyone laughed, even Lysette. Eden did not laugh. He was looking at the empty place under the gallery lamp.

@@ -36,7 +36,7 @@ Ysolde took the form and read the next line. "You have written 'no witness, no t
 
 "That is a sentence."
 
-"Then write it smaller." She drew a box around nothing. "The clerk will put it in the wrong pile whatever you write. This is the only box with a mark on it today." She put the form in the middle stack. "That is your whole report for the exchange."
+"Then write: construct, cut wire. That is all." She put the form in the middle stack. "The clerk will put it in the wrong pile anyway. That is your whole report for the exchange."
 
 Eden took out the folded paper from the workshops and laid it on the desk. Ysolde unfolded it, read the names, and folded it into three.
 
@@ -44,23 +44,23 @@ Eden took out the folded paper from the workshops and laid it on the desk. Ysold
 
 "I know."
 
-"The order was dated last autumn."
+"The order was dated this month."
 
 "I know." She put the paper under a weight on the desk. "That is the reason you are here and not in the offices downstairs."
 
 "A girl at school asked the stores office for the same order," Eden said. "The day before me. She wrote the date down."
 
-"Hollen." Ysolde did not look surprised. She looked tired, which was a different thing. "Her mother wrote to me last spring. House Hollen has had enough of public matters, she said. Then her daughter joined the Discipline Committee." She turned the weight on the paper a quarter turn. "Keep her out of this, Wren. A girl who writes everything down is a witness waiting for a date."
+"Lysette Hollen." Ysolde did not look surprised. She looked tired, which was a different thing. "Her mother wrote to me last spring. House Hollen has had enough of public matters, she said. Then her daughter joined the Discipline Committee." She turned the weight on the paper a quarter turn. "Keep her out of this, Wren. A girl who writes everything down can be called as a witness one day."
 
 "I cannot keep her out of a stores office."
 
-"No. But you can stop leaving your pencil marks on counters." She said it dryly, and Eden realised she knew about the counter. He wondered how many other things she knew, and how many she let him think she did not.
+"No. But you can stop asking clerks the same questions she asks." She said it dryly, and Eden realised she knew about the stores office. He wondered how many other things she knew, and how many she let him think she did not.
 
 The passage to the king's room had three tall windows and no guards, and the floor boards creaked under Eden's boots. He stopped at the last window to look at the court below. A groundskeeper was sweeping leaves into a pile and stopping too often to lean on his broom. Eden counted four stops before he went on.
 
 * * *
 
-The king received him in a small room with a table and two chairs, which was smaller than the room Eden had expected and colder. A brazier stood unlit by the wall, and there was no fire though the day was cold. Theodric sat with a stack of papers beside him and a sword leaning against his chair, a plain sword with a worn grip and a gold line down the blade. He had a broad face with tired eyes, and he rubbed his thumb over the edge of the table while he looked at Eden.
+The king received him in a small room with a table and two chairs, which was smaller than the room Eden had expected and colder. A brazier stood unlit by the wall, and there was no fire though the day was cold. The king sat with a stack of papers beside him and a sword leaning against his chair, a plain sword with a worn grip and a gold line down the blade. He had a broad face with tired eyes, and he rubbed his thumb over the edge of the table while he looked at Eden.
 
 "Eden Wren," he said. "Sit. No, not there. That chair has a bad leg."
 
@@ -72,23 +72,23 @@ Eden moved to the other chair. The king waited until he was sitting before he sp
 
 "And that you are not eating."
 
-"Felix says that." Eden kept his hands on his knees. "I ate two rolls on Wednesday."
+"Felix says that." Eden kept his hands on his knees. "I ate two rolls last week."
 
-"Wednesday was eight days ago."
+"That was eight days ago."
 
-"I have breakfast on Thursday."
+"I will have breakfast tomorrow."
 
-"You have a form that says you do not."
+"Ysolde has a form that says you do not."
 
 "The form is wrong."
 
-"Everything is wrong today," the king said. "Brandmeier wrote to me about a ward with no subject. Is that true?"
+"Then I am glad of it," the king said. "Brandmeier wrote to me. She said a ward in her class was smoking."
 
-"It was smoking."
+"It was."
 
 "She said you fixed it in six words."
 
-"I did not fix it. I said what was wrong."
+"I did not fix it. I only said what was wrong."
 
 "Yes, sir."
 
@@ -110,31 +110,27 @@ The king looked at the papers and did not read them. "When I was your age I coul
 
 "She said the boy was a ghost and I had to feed him." The king's mouth moved. "She used other words as well."
 
-Eden did not ask which ones. He thought of her saying it, in a corridor, with her pen still in her hand, and he found that the picture was easy to see. It did not feel like something done for a ghost. It felt like something done by a person who had decided not to let one stand in a doorway. The king put the paper aside and took up a different one, and for a moment the room had only the sound of the clock in the next office. Eden watched the sword instead of the king. It looked like a sword that had been used and cleaned and used again, not a sword kept for show. The king saw him looking and put a hand on the grip.
-
-"It is heavy," he said. "I have never got used to it."
-
-He did not say where it came from, and Eden did not ask.
+Eden did not ask which ones. He thought of her saying it, in a corridor, with her pen still in her hand, and he found that the picture was easy to see. It did not feel like something done for a ghost. It felt like something done by a person who had decided not to let one stand in a doorway. The king put the paper aside and took up a different one, and for a moment the room had only the sound of the clock in the next office. Eden watched the sword instead of the king. It looked like a sword that had been used and cleaned and used again, not a sword kept for show.
 
 "Your mother had a hand like yours," the king said, and then he looked down at the paper in his hand. "Steady. I remember that. Eat your breakfast, Wren. That is all."
 
 "Yes, sir."
 
-The king lifted two fingers toward him and stopped before he reached the shoulder, and the two fingers went back to the papers. Eden stood and went to the door.
+The king lifted a hand as if to touch Eden's shoulder, and then he did not, and the hand went back to the papers. Eden stood and went to the door.
 
 * * *
 
 A page in a blue coat was polishing the handle of the king's door when Eden came out, and he stopped polishing to stare at the worn grip of the sword through the opening. Then he went back to his work. Ysolde was still at her desk when he came back. She had moved the exchange list to the top of the middle stack, and one name on it had a circle drawn twice, hard enough to tear the paper. She did not cover the circle, but she did not point at it either. The columns held dates and addresses. Half the names had a small mark beside them, the kind a clerk makes when a bill is paid. Rowan's had a circle, and inside it someone had drawn a second, lighter circle with a different pencil.
 
-"Rowan Tallis," she said. "Your Lance."
+"Rowan Tallis," she said. "He is in your Lance."
 
 "Yes."
 
-"The exchange called his family first. Then the school." She took a pen and made a mark on a blank sheet. "You will watch him without watching him. Report if anyone follows him, asks about his birth, or offers him a place in a cell. Nothing else."
+"The telephone exchange called his family first. Then it called the school." She took a pen and made a mark on a blank sheet. "You will watch him without watching him. Report if anyone follows him, asks about his birth, or offers him a place in a cell. Nothing else."
 
 "Why him?"
 
-"You know why." Ysolde put the pen down. "The call list is the Ball guest list. Someone is making a list of people to collect on the night of lights."
+"You know why." Ysolde put the pen down. "The names on the call list match the guest list for the Lantern Ball. Someone is making a list of people to collect that night."
 
 "Thirty days."
 
@@ -142,11 +138,11 @@ A page in a blue coat was polishing the handle of the king's door when Eden came
 
 "Is that about me?" he asked.
 
-"No." Ysolde shut the drawer. "It is about someone you have not earned the right to ask about yet."
+"No." Ysolde shut the drawer. "It is an old order about someone else. You are not yet allowed to read it."
 
-"Orders you haven't earned?"
+"Orders I have not earned?"
 
-"Orders you haven't earned." She said it flat, without any heat, and turned back to her stacks. "Do not repeat it to the king. He would want to know what is in it, and then he would have to be told."
+"Yes. Orders you have not earned." She said it flat, without any heat, and turned back to her stacks. "Do not repeat it to the king. He would want to know what is in it, and then he would have to be told."
 
 Eden waited. She did not look up.
 
@@ -166,10 +162,10 @@ Eden waited. She did not look up.
 
 Eden took the form. "Yes."
 
-Ysolde picked up her pen and drew a line under a word on a different paper. "One last thing. Watch the boy with the light as well as Tallis. If the Ashen Crowns want one guest for the Ball, they will want the one who shines."
+Ysolde picked up her pen and drew a line under a word on a different paper. "One last thing. If the Ashen Crowns want one guest for the Ball, they will want the one who shines. That is Rowan, the boy with the light. Keep him in sight."
 
 Eden folded the form into three, the way she did, and put it in his coat. The clock jumped twice more while he stood there, and each jump made the second hand look as if it had changed its mind. The circle on the exchange list still showed through the paper when he looked down at the desk.
 
-On the way out he passed the cup of cold tea again. The ring under it had a second ring beside it, and a third, older and fainter. She had been setting down the same cup in the same place for a long time, and drinking none of it. Eden did not know why that made him think of the king's unfinished gesture. He stopped at the door anyway and said, "Eat something, Ysolde."
+On the way out he passed the cup of cold tea again. The ring under it had a second ring beside it, and a third, older and fainter. She had been setting down the same cup in the same place for a long time, and drinking none of it. Eden thought she worked too hard and ate too little, like the king had said of him. He stopped at the door and said, "Eat something, Ysolde."
 
 "Go," she said, without looking up. But the pen paused above the page for one second before it moved again.

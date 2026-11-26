@@ -2,11 +2,11 @@
 
 The workshop doors under the Undercroft had no lamps above them, only numbers cut into the stone, and the numbers had been rubbed smooth by hands. Vesk stopped at the top of the stair and set his back to the wall.
 
-"I can go as far as the turn," he said. "After that it is dark in a way I do not like."
+"I can go as far as the turn," he said. "After that it is too dark for me."
 
-"Stay there," Eden said. "Whistle if anyone comes down."
+"Stay there," Eden said. "Whistle once if anyone comes down."
 
-"Whistle. Like a bird." Vesk's mouth went thin. "You forgot the last time."
+"I will whistle," Vesk said.
 
 Two people waited below him. Gorrath was a giant in a grey coat with a tower shield as tall as a door strapped to his left arm, and he held it careful of the walls, the way a man carries a cup full to the brim. Mirelle stood beside him in a plain black mask with no mouth in it, and a long thin blade low at her hip. She wore her coat buttoned to the throat and said nothing at all.
 
@@ -22,7 +22,7 @@ Two people waited below him. Gorrath was a giant in a grey coat with a tower shi
 
 "It does not feel like one." He looked at the walls. "It feels like a cellar that is listening."
 
-Eden did not tell him that he was right. "I am not afraid of the dark."
+Eden did not tell him that he was right. "Hold the door," he said.
 
 The shield knocked once against the wall. Mirelle looked at it, then at Eden. "Ready," she said. One word, and she had used it up.
 
@@ -32,15 +32,15 @@ The shield knocked once against the wall. Mirelle looked at it, then at Eden. "R
 
 "But he has the dust."
 
-"I want to know who sent him more." Eden looked at Mirelle. "Can you pin a sleeve without cutting it?"
+"I want to know who sent him more." Eden looked at Mirelle. "Can you pin a sleeve to a wall without cutting it?"
 
 "Yes."
 
-"Then we do not need to stop a man. We need a pocket."
+"Then we do not need to stop the man. We need the paper in his coat."
 
 He set it out for them once, plainly, so nobody had to guess: one man, one door, no kill. Gorrath would hold the passage. Mirelle would take the paper. Eden would open the way and be gone before anyone looked for a third person. Gorrath nodded at each part and moved his lips as he said it back, the way a child learns a prayer. Eden let him. A plan that a man can say twice is a plan that works.
 
-Gorrath thought about that. "A pocket does not run."
+Gorrath thought about that. "A paper does not run."
 
 "No," Eden said. "It does not."
 
@@ -108,13 +108,13 @@ Gorrath shifted the shield and looked at the floor. "I am a terrible liar."
 
 "I will try again tomorrow."
 
-Mirelle, who had not said a word since "Names," wiped her blade on a cloth, looked at the two of them, and gave Gorrath a short nod. It was the longest speech Eden had ever seen her make. Gorrath saw it too, and his ears went red under his hair.
+Mirelle, who had not said a word since "Ready," wiped her blade on a cloth, looked at the two of them, and gave Gorrath a short nod. For Mirelle, that was a long speech. Gorrath saw it too, and his ears went red under his hair.
 
 Eden showed him the sheet from the clipboard. "A dead man's order."
 
 Gorrath read the name and gave it back. "That is not good."
 
-Mirelle looked at the line under the signature. "Names," she said.
+Mirelle looked at the signature. "Dead," she said.
 
 "I know," Eden said. "That is why I came down here."
 
@@ -144,7 +144,7 @@ Strent looked up and smiled, and the smile arrived before the apology. "Mr. Wren
 
 He went back to his papers. As he read the next line, he hummed.
 
-It was four notes. They went up, then down, then the same four again, quiet enough to be a breath. Eden's other foot stayed on the floor. He had one hand flat on the stair rail, and the rail was cold under his glove. He counted the notes. Four, four. The cold went up his wrist. He did not take the next step. He did not let go of the rail.
+It was four notes. They went up, then down, then the same four again, quiet enough to be a breath. Eden knew the tune. It was the song his mother used to sing to him, and he had never told anyone that she sang. His other foot stayed on the floor. He held the stair rail, and it was cold under his glove. He counted the notes. Four, four. The cold went up his wrist. He did not take the next step, and he did not let go of the rail.
 
 Strent hummed the four notes a third time and stopped in the middle of them, as if he had forgotten the rest. He looked at the paper again. "Ah. That is the trouble with songs. You remember the first part all your life and lose the end."
 
@@ -174,4 +174,4 @@ Strent wrote it on the corner of a paper. "Then I shall tell him in the morning.
 
 Eden said no again, and Strent went back to his papers. The hum did not come again. At the door Eden stopped, and Strent's pencil stopped too, and the moonlight lay across both their boots.
 
-"Wren," Strent said. "A Thornmere name. Your mother must have sung that to you too."
+"Wren," Strent said. "A Thornmere name. Your mother must have sung that song to you too."

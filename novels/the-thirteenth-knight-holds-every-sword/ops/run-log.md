@@ -132,3 +132,14 @@
 - REVIEW ch 16: PASS. check_chapter OK (1800 words, mean 10.8, dialogue 22% warning only). First uses of **[Injunction]** and **[Hinge]** described in scene and ledger, with costs.
 - No confirm or power beyond canon: Verdict's rulings cost breath; Eden's pivot needs commitment. The whole round is restraint; nobody is hurt and the duel is not decided.
 - Continuity: rank 1 against rank 8, sanctioned duel, judges' bell, Okoru's stopped chewing as the reaction shot. Ends on Valerius's exact line.
+
+### 2026-11-26 06:05 UTC (13:05 WIB) - tulis bab berikutnya - chapter 17 - ok
+- words: 1811
+- scores: tension 4, surprise 4, emotion 4, battle_clarity 4, voice 4, freshness 4
+- notes: Narrow timed loss; Lysette bandages; Valerius's father line.
+- quota_note: 
+
+### self-review ch 17 - LOW risk, same session, not independent
+- REVIEW ch 17: PASS. check_chapter OK (1811 words, mean 10.7, dialogue 24% warning only). No new named powers; [Injunction] and [Hinge] are repeats with fresh cost detail.
+- Continuity: duel resumed the next day per the outline dates; knuckles from ch 16 are now bound; Valerius's ch 2 line ("finally stopped hiding") returns as a remembered beat, not a repeat scene.
+- Ending is Valerius's exact hook and no feeling is explained after it.

@@ -123,3 +123,10 @@
 - Round one: Valerius used **[Injunction]** four or five times, each "This line is not crossed." raising a cold pale wall and costing a breath. Eden used **[Hinge]** to pivot past a committed charge and put the lance butt behind the knee, and pushed a hurried wall aside. He struck only with the butt, and kept his touches to within one finger's width of Valerius's blade.
 - Body data: shield ring vibration into the shoulder, fingers cold from a wall, front foot numb after the pivot. He counted Valerius's breaths and the prince noticed: "You counted my breaths as well. I saw your eyes move."
 - Okoru stopped chewing; Seraphine's card turned over; a prefect forgot to write. Hook: Valerius dropped his sword on the chalk: "Again. And this time try."
+
+## Wed 25 Nov (ch 17)
+- Duel resumed in the same yard; judge warned that a touch ends the exchange and the bell ends the round. Valerius stopped making walls at first and put his breath into the blade; Eden repeated **[Hinge]** and it stopped being a surprise.
+- Eden timed the loss: he moved his shield hand a finger's width on the count of three and let Valerius's blade arrive with the bell's first sound, so the judges could not write a delay. "Touch. Wren loses." Valerius realised Eden had waited for the bell: "You are waiting for something... For the bell." "Ah."
+- Lysette pulled off his glove and bound the split knuckles too hard, scolding, and he let her. "Twelve times. I counted."
+- Valerius controlled his anger in the square stance; Seraphine touched his arm and he did not look at her; Okoru went back to chewing.
+- Hook, low: "My father knows who you are. So do I. Next time I'll make you show them."

@@ -48,3 +48,6 @@ Lysette follows Eden into the lower city on a Committee pretext while he scouts 
 
 ## Ch 16 - This Line Is Not Crossed
 Valerius demands a sanctioned Ladder duel. In the sand yard he makes pale walls with ****[Injunction]****, each ruling costing a breath, while Eden stays behind them and refuses to use the lance point. Eden's ****[Hinge]**** turns a charge past him and lands the butt behind the knee; he keeps every miss within a finger's width. Valerius notices the restraint and the count of his breaths. The bell ends the round and Valerius drops his sword: "Again. And this time try."
+
+## Ch 17 - A Finger's Width
+The duel resumes. Valerius presses honestly and Eden repeats **[Hinge]** until it is no longer a surprise. He waits for the bell, moves his shield hand a finger's width, and lets the prince's blade touch him as the bell's sound begins, so the judges record a narrow loss. Lysette binds his split knuckles too hard and scolds while he lets her. Valerius, angry but controlled, says his father knows who Eden is, and so does he, and next time he will make him show them.

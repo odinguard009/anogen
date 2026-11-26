@@ -112,7 +112,7 @@ Who wins is never settled by this list. A small tank used well beats a big tank 
 |---|---|---|---|
 | Melsche Door (Eden) | god power, Emperor's gift | the SHADOW LEGIONS: he commands shadow knights, up to millions (section 15); shadow doors are only their exits and his roads | needs a hard edge of light and dark; door size = shadow size; summons drain mana each minute; deep use brings the Frost |
 | The Frost | cost of the Door | feelings go flat for hours; fingers white and numb | warmth slowly undoes it |
-| Exa (dark lance) | Door gear | the door's frame drawn out: matte black lance, about 1.5 m, cold to touch; one knock folds it into a tall door-shield with an iron ring | free to hold; only as strong as Eden's grip and aura |
+| Exa (dark lance) | Door gear | the door's frame drawn out: matte black lance, about 1.5 m, cold to touch; one knock folds it into a tray-sized door-shield (page canon, first-use.md and ch 3) with an iron ring | free to hold; only as strong as Eden's grip and aura |
 | Inead (sword) | relic via the Gate | hand-and-a-half sword of gold light made solid (owner order 2026-11-25), plain grey grip; shines like a low sun and rings softly when drawn, the loud opposite of Eden's black armor; makes light honest: illusions fail, Veils show grey | needs some light; cheap to hold, but still a small drain |
 | Sepiroth Gate | god power, Valkyrie birthright | summons ANY weapon or relic stored in the Sepiroth Vault (section 15); lends them by middle name | drain per second per relic; fever, nosebleed when overdrawn |
 | Raiments and Tolls | gear | holy armor, each with one power | Tolls add weight; seventh Toll Keeps (Eden: the Emperor surfaces) |

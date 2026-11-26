@@ -54,7 +54,7 @@ Clara touched his sleeve. "You hit her arm yesterday."
 
 Okoru pointed with his stick, and the hall's small noise died. Rowan went west with Clara, and their boots faded into the passage. Rowan's spear scraped once on a corner. Clara's posting ribbon showed pale for a moment and then was gone.
 
-Eden stayed at the gate a breath longer than the others. He looked at the south wall, where the false walls waited in their slots. Three of the four had a dry grey line of old grease along the track. The fourth, the one above Lysette's passage, had a bright wet line, fresh enough to catch the floor light. Someone had oiled that one today. Nobody oils a wall they only mean to leave alone.
+Eden stayed at the gate a breath longer than the others. He looked at the north wall, where the false walls waited in their slots. Three of the four had a dry grey line of old grease along the track. The fourth, the one above the north passage, had a bright wet line, fresh enough to catch the floor light. Someone had oiled that one today. Nobody oils a wall they only mean to leave alone.
 
 He did not say it. A thing said in front of Okoru became a thing Okoru wrote down, and a thing Okoru wrote down became a name on a list. Eden filed it with the others, in the box where he kept what was none of his business, and then he looked at the box again and found it was getting full.
 
@@ -82,19 +82,19 @@ Eden watched it cross the circle. "It is not running at thirty per cent."
 
 "I was afraid you would say that."
 
-Lysette stood in the middle of the circle, ten steps from the gate. The north wall was four steps behind her. Rowan and Clara waited in the west passage, out of sight. A drill construct moved like a tired man doing a job. This one crossed the circle in three long steps with its blade already high.
+Lysette stood in the middle of the circle, ten steps from the gate. The north wall was four steps behind her. Rowan and Clara had gone round by the west passage and were somewhere beyond the north wall. A drill construct moved like a tired man doing a job. This one crossed the circle in three long steps with its blade already high.
 
-Lysette went in under the blade. Her left baton caught the wooden edge, and her right came across into the brass ring at the elbow. The ring bent. The arm hung, and the wooden blade dropped from fingers that had not been told to let go.
+Lysette went in under the blade. Her left baton caught the wooden edge, and her right came across into the brass ring at the elbow. The ring bent. The arm hung loose, but the stone fingers still held the wooden blade, and it swung from the hanging arm like a flail.
 
 "One," she said.
 
-The thing did not stop. It took the stump of its arm and swung it like a club. Lysette stepped inside the swing, where the short reach of her batons was an advantage, and struck the other arm at the shoulder. Stone cracked. The arm came away at the brass joint and slid across the floor into the dark.
+Lysette stepped inside the swing, where the short reach of her batons was an advantage, and struck the other arm at the shoulder. Stone cracked. The arm came away at the brass joint and slid across the floor into the dark.
 
 "Two."
 
-Two arms gone, and it was still coming. She was winning, and everyone at the gate could see it.
+Two arms broken, and it was still coming. She was winning, and everyone at the gate could see it.
 
-Then it used its head. The glass face drove into her chest and pushed her back, one step, two steps, four steps, until her shoulders hit the north wall. A grind of stone filled the maze. Behind the construct, the false wall slid across the west passage, and the gap where Rowan stood was gone.
+Then it used its head. The glass face drove into her chest and pushed her back, one step, two steps, four steps, until her shoulders hit the north wall. A grind of stone filled the maze. Above her, the oiled wall dropped out of its slot and slid across the mouth of the north passage, the only way out behind her. It shut with a bang.
 
 "Lysette!" Rowan's voice came through the stone.
 
@@ -104,7 +104,7 @@ Then it used its head. The glass face drove into her chest and pushed her back, 
 
 "I am busy."
 
-Rowan put his spear into the seam of the wall and bore down. It did not move. Clara set her hand flat on the stone. "It came down when she had her back to it. Someone set it to close."
+On the far side, Rowan put his spear into the seam of the wall and bore down. It did not move. Clara set her hand flat on the stone. "It came down when she had her back to it. Someone set it to close."
 
 "Who?"
 
@@ -128,19 +128,19 @@ From the gate, Felix lifted the bow and lowered it. "No angle. She is in the way
 
 The construct pushed again. Its head went into Lysette's shoulder, and her feet slid. She brought the last baton down on the glass, and the glass held. Her breath was loud enough to hear from the gate.
 
-Under the pale floor light, the construct threw a long shadow up the north wall. The stump of its arm was rising again, and Lysette had nowhere left to step.
+Under the pale floor light, the construct threw a long shadow up the north wall. The hanging arm was rising again with the wooden blade in its fist, and Lysette had nowhere left to step.
 
 * * *
 
 Eden walked into the edge of the light, six steps from the wall, and reached into his own shadow for **[Exa]**. The lance came out of the dark under his hand, cold and matte, with its iron ring-knocker, a little longer than his arm. He did not put himself between them. He put himself beside the arm, on its left.
 
-The stump came down at Lysette's head.
+The wooden blade came down at Lysette's head.
 
-Eden knocked once on the ring, and **[Exa]** folded with a sound like a box lid shutting into the tray-sized door-shield. The black shield met the stump in the air. The ring closed around it like a hand. That was **[Latch]**: the ring held the stone, and Eden steered it where he wanted. His arm took the whole weight. His fingers went numb around the strap.
+Eden knocked once on the ring, and **[Exa]** folded with a sound like a box lid shutting into the tray-sized door-shield. The black shield met the blade in the air. The ring closed around it like a hand. That was **[Latch]**: the ring held the blade, and Eden steered it where he wanted. His arm took the whole weight. His fingers went numb around the strap.
 
-He steered the stump down and to the left, until it lay across the construct's shadow on the north wall. He knocked twice on the stone.
+He steered the blade, and the arm on it, down and to the left, until they lay across the construct's shadow on the north wall. He knocked twice on the stone.
 
-The shadow on the wall split open into a black doorway, one side of it lined with thin white light. The stump went into it. Eden shut the Door on it, and the stone arm stayed there, held in a place that had no room for it.
+The shadow on the wall split open into a black doorway, one side of it lined with thin white light. The blade and the arm went into it. Eden shut the Door on them, and the stone arm stayed there, held in a place that had no room for it.
 
 The construct lurched against its own trapped arm. For half a second the brass joint at its shoulder stood open.
 

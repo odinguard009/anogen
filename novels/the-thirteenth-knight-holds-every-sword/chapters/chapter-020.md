@@ -40,6 +40,8 @@ Valerius looked at Merrow. Merrow took a sip of tea and looked at the map, and t
 
 "Not a summary. A paper."
 
+The clerk at the end of the table bent his head and wrote, and his pen scratched loudly in the quiet. Valerius watched the young minister's ears go red. He had not meant to frighten the boy. He had meant only to see, for once, what it looked like when someone in this room was asked for a fact instead of a comfort, and he found that it looked a good deal like fear.
+
 The young minister wrote it down. Valerius went back to the map.
 
 * * *
@@ -56,7 +58,7 @@ The War Minister leaned over. "That is the Verandel bend."
 
 "The ground is flat there. The river runs through it."
 
-"Then the river." The War Minister straightened. "It was drawn in the last war. The order came from the palace, and the maps were changed."
+"Then the river." The War Minister straightened. He looked relieved to have found a word that cost him nothing, and he repeated it under his breath as if he meant to keep it. "It was drawn in the last war. The order came from the palace, and the maps were changed."
 
 "Who signed it?"
 
@@ -94,7 +96,7 @@ That one landed without any softness at all, and Valerius's hand came off the ma
 
 "Do not be angry with me," the count said. "You asked me to tell you what I saw when you asked me to teach you. I saw a boy who could not win against his father. Then I saw a man who could win against anyone in this year, and who still fights as if he is afraid of being found out."
 
-Valerius said nothing. The duel was three days old, and the touch had come on the bell, and he had known at once that Eden had timed it. He had known and he had not said so, because saying it would make it real, and because a prince who could not make a boy try was worse than a prince who lost.
+Valerius said nothing. The duel was ten days old, and the touch had come on the bell, and he had known at once that Eden had timed it. He had known and he had not said so, because saying it would make it real, and because a prince who could not make a boy try was worse than a prince who lost.
 
 "He held back," he said.
 
@@ -112,11 +114,13 @@ Valerius said nothing. The duel was three days old, and the touch had come on th
 
 Merrow smiled at his tea. "She is a good judge of a locked door."
 
+Valerius noticed, as he sometimes did without wanting to, that Merrow's cup had not gone down. The tea had been poured when the meeting began and it was still full, and the steam had long since stopped. A man who held a cup in both hands for an hour and never drank from it was a man who needed something to hold. Valerius filed the thought away unfinished, the way he filed most things about Merrow, because finishing it would have meant deciding what it was.
+
 "I am not trying to open a door."
 
 "No? Then what are you doing, Prince Valerius?"
 
-Valerius did not answer that. The clerk came round with a tray and took the cups away, and the young minister's new paper lay on the table upside down with the ink still wet. The three flags on the bend had not moved.
+Valerius did not answer that. The clerk came round with a tray and took the cups away, and the young minister's new paper lay on the table upside down with the ink still wet. The three flags on the bend had not moved. Valerius reached out and, without asking, took one of the three paper flags out of the map and put it in his pocket. Nobody stopped him. It was a small thing, a scrap of blue paper on a pin, and he told himself it was only so that someone would have to explain the missing one. He knew it was also so that he would remember he had been in the room.
 
 The other ministers were finishing their papers, and one of them asked whether the council would sit again in the new year, and the War Minister said yes, in the new year, as if that settled the bend and the rumour and the low valley all at once.
 
@@ -128,9 +132,7 @@ Merrow stood and gathered his papers with the care of a man who had taught a pri
 
 Valerius thought of Eden on the bell, moving his hand a finger's width and letting the touch arrive with the sound. He thought of the six words at the stairs in November, and of the fact that the boy had never once told him anything he did not have to tell. He had hated that for five years, and he had not known until the duel that part of the hate was because Eden never needed him.
 
-"The Ball," Merrow said again, when the silence had gone on long enough.
-
-"The Ball." Merrow went on without a smile, which made it sound more serious than the war. "You are the council president, and there will be four hundred people in a glass hall with a hundred lanterns and one band. Half of your year will be guests and the other half will be trying to impress them. If something goes wrong in that hall, it will be your name on the paper, not the War Minister's."
+"The Ball," Merrow said, when the silence had gone on long enough. He did not smile, which made it sound more serious than the war. "You are the council president, and there will be four hundred people in a glass hall with a hundred lanterns and one band. Half of your year will be guests and the other half will be trying to impress them. If something goes wrong in that hall, it will be your name on the paper, not the War Minister's."
 
 "The council does not guard the Ball."
 

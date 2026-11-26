@@ -10,7 +10,7 @@ The dye-works stood at the end of a lane that ran with blue water, and the water
 
 "How long?"
 
-"As long as the body stays where I left it and nobody finds it." Vesk's new mouth did not move like his own. "Do not make me laugh."
+"As long as the body stays where I left it and nobody finds it." Vesk's new mouth did not move like his own. "Do not make me laugh." Vesk looked pleased with himself for having said it, and for a moment his own face almost showed under the dead man's, small and sharp and delighted. Then it went flat again, and he was only a heavy man in a brown coat who did not smile.
 
 Eden looked at the dye-works. The building was four walls of wet brick with a slate roof and a chimney that had not smoked in years, and a cart stood outside with two empty dye barrels on it. One window on the ground floor stood open, and the smell that came out of it was not dye. It was the smell of the exchange cellar after the Veil had died: fine, cold, and dry in the throat. He had smelled it once in November and he had not forgotten it.
 
@@ -24,13 +24,7 @@ Eden looked at the dye-works. The building was four walls of wet brick with a sl
 
 "Then it falls off in front of three armed men." Vesk turned up his borrowed collar. "Do not let the body be found."
 
-"The bridge was watched," Eden said. "That is what I will tell them."
-
-"You have never used that line."
-
-"It is Vesk's line. You said it first."
-
-"I said it to you once on a stair." The borrowed face folded into something like a grin. "Use it properly."
+Eden went round to the back of the building while Vesk walked up the lane in a dead man's coat. The yard behind the dye-works held six open vats, each one the size of a bathtub, filled with dye that had gone black in the dusk. A plank bridge crossed the biggest vat, and a rope hung from a beam above it with a bundle of wet cloth on the end, dripping slowly into the colour below. Eden measured the plank with his eye, found it rotten at the middle, and decided that it would not be his road in or out. He took the shadow of the north wall instead, the long straight one that the chimney threw, and waited for it to deepen.
 
 * * *
 
@@ -44,7 +38,7 @@ A girl sat up on the sacks. "Is it a drill?"
 
 "It is a drill." Vesk did not look at her. "Take the little one and go. No talking."
 
-She got up, shook the boy by the shoulder, and gathered two younger children from behind a barrel. The boy's crust fell on the sacks and he did not go back for it. The girl counted them under her breath, once, and took the smallest by the sleeve. They went through the side door without once looking at Eden, because they were looking at the man who had ordered them, and he was an Ember to them. When the last child was out, Vesk closed the door and turned the bar.
+She got up, shook the boy by the shoulder, and gathered two younger children from behind a barrel. The boy's crust fell on the sacks and he did not go back for it. The girl counted them under her breath, once, and took the smallest by the sleeve. They went through the side door without once looking at Eden, the smallest holding a wooden spoon she had not wanted to leave, and the oldest stopping at the sill to look back at the red bulb as if it might be hers to put out. Nobody had told them what the drill was for. They went anyway, the way children go when a grown man in a heavy coat says two minutes and sounds like he means it, because they were looking at the man who had ordered them, and he was an Ember to them. When the last child was out, Vesk closed the door and turned the bar.
 
 "Four," he said. "No one saw you."
 
@@ -90,7 +84,7 @@ Eden looked at his neck. The grey veins showed under the skin in a fine net, thi
 
 Eden did not answer. The third man's mouth shut, and the red bulb went on humming, and Vesk stood between the two of them with his own face back and his hands open at his sides, and the brown of the dead man's coat lay in a heap on the floor behind him.
 
-Eden did not ask what it meant, because a dying Ember was not a witness and a guess was not proof. The man went down on his knees with his hands open, and Eden put the point of **[Exa]** at the place where the grey lines were thickest, and there was no sound except the red bulb humming above them.
+Eden did not ask what it meant. The grey had climbed to the man's jaw, and under the rule that was proof: whatever was wearing him was past asking. The man went down on his knees with his hands open, and Eden put the point of **[Exa]** at the place where the grey lines were thickest, and there was no sound except the red bulb humming above them.
 
 When it was over, Vesk wiped the scales and the door bar and the two places on the floor where the bodies had been. He worked without hurry and used a cloth from his own coat, and when he had finished he put the cloth back in the same pocket.
 
@@ -106,6 +100,6 @@ When it was over, Vesk wiped the scales and the door bar and the two places on t
 
 He checked the back room. The crust of bread was still on the floor where the boy had dropped it, and the four children were gone up the lane. He put the crust on the table so it would not look like a child had been interrupted.
 
-The last Ember was on the floor by the inner door with his eyes open and his mouth still working. Eden knelt because the words came from a man who would not have much time, and because the rule was to listen before you left a room.
+The last Ember had not quite finished. He lay on the floor by the inner door with his eyes open and his mouth still working, and Eden had missed it while he was busy with the window. Eden knelt because the words came from a man who would not have much time, and because the rule was to listen before you left a room.
 
 "You're late," the Ember said, with blood in his throat and something like pleasure in it. "The Crown already has the hall."

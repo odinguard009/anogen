@@ -40,7 +40,7 @@ A woman in a pale coat stood in the middle of the floor with her right sleeve pi
 
 She was the one who had given the order about two guests. Eden had come through the Door three paces behind her left shoulder, and he waited while she finished, because a hostage with a knife at her throat was not a target he could take yet.
 
-"Where is the boy?" she asked. The Ember under the north table pointed up. She looked up through the broken lanterns and smiled at the glass. "Then we have him already."
+"Where is the boy?" she asked. The Ember under the north table pointed up. She looked up through the broken lanterns and smiled at the glass. "Then we have him already." It was not a boast, and that was what frightened him. She said it the way a woman reads the last line of a sum.
 
 Eden knocked twice on the air beside the lattice shadow that lay across her coat.
 
@@ -54,15 +54,29 @@ Then Eden drew **[Inead]** under the shield in one motion.
 
 **[Lintel]** was the shield held flat and the gold sword coming out from under it: a door of black plate above his head and a cut that started where the shield ended. Gold light filled the hall for one breath and made the grey in Ilsabet's arm honest. The cut went through the frost lines at her shoulder and stopped before her neck. She dropped to her knees with her grey hand still open, and the crown on her lapel came loose and slid across the floor.
 
-The hostages did not see a man in black armor. They saw a dark shape where the light was wrong and a gold glint that came and went in one motion. A girl by the north table later said the lantern must have fallen again. Felix looked at the empty space above her and said, "It did fall. I heard it." "No, you did not," Seraphine said. "You were looking at your book." "I was looking at the card." "The card is on the floor." Felix looked down and put his foot on it, hard. "Then I heard it." Valerius saw more than the others because he had been looking straight at the north table. He saw a shield where no shield had been and a sword that shone like a low sun. He did not move or speak. The man behind him with the blade did not know that his prince had seen anything at all. Valerius's hands stayed open at his sides, and his thumb pressed once against his palm, and then he was looking at Ilsabet on the floor as if he had been looking there all along.
+The hostages did not see a man in black armor. They saw a dark shape where the light was wrong and a gold glint that came and went in one motion. A girl by the north table later said the lantern must have fallen again. Felix looked at the empty space above her and said, "It did fall. I heard it."
+
+"No, you did not," Seraphine said. "You were looking at your book."
+
+"I was looking at the card."
+
+"The card is on the floor."
+
+Felix looked down and put his foot on it, hard. "Then I heard it."
+
+Valerius saw more than the others because he had been looking straight at the north table. He saw a shield where no shield had been and a sword that shone like a low sun. He did not move or speak. The man behind him with the blade did not know that his prince had seen anything at all. Valerius's hands stayed open at his sides, and his thumb pressed once against his palm, and then he was looking at Ilsabet on the floor as if he had been looking there all along.
 
 The Embers stepped back when Eden walked across the broken glass toward them. They did not know why. Two of them had their blades at throats and did not lower them, but their feet moved, and that was enough. Seraphine's hand, which had been shaking since the chandelier, went still again, and she said something to Felix under her breath that nobody heard.
 
-Eden did not kill Ilsabet. She was down with her grey hand open and her crown on the floor, and a kill without proof was not a thing he did. He put a cut through the brass at her wrist instead, where the grey lines ended, and the hand went slack on the stone. She looked up at the dark shape over her with a face that had lost its certainty.
+Eden did not kill Ilsabet. He had a plan for killing her and a plan for not, and the second was harder, because it asked him to be seen for a half breath by two hundred people and then be forgotten by all of them. She was down with her grey hand open and her crown on the floor, and a kill without proof was not a thing he did. He put a cut through the brass at her wrist instead, where the grey lines ended, and the hand went slack on the stone. She looked up at the dark shape over her with a face that had lost its certainty.
+
+"You are not the Vigil," she said, quietly enough that only he could hear. "The Vigil kills." She watched the black slit of his helm for a reaction and found none. "What are you, then?"
+
+Eden did not answer. Behind her the Embers were already moving the hostages, and he had perhaps five breaths before someone remembered to look at the floor. He stepped back into the lattice shadow, and the last thing he saw was her good hand closing around the fallen crown, slowly, as if she had decided to keep it as a reminder of something she had not finished thinking.
 
 "Take them outside," she said, to her own people. "All of them. Now."
 
-A woman among the hostages spoke from the west clump, in a dry, interested voice, without moving her hands: "That wall hanging is Ostrevaal work, you know. The blue border was added later." It was Merrow, in a council coat with a speck of cake on his cuff, and he was looking at the wall behind the Crowns rather than at the blades. Nobody answered him. A student near him said, "Sir, there is a knife at your collar," and Merrow put two fingers up to the blade as if he were checking a button.
+A voice among the hostages spoke from the west clump, dry and interested, without moving its hands: "That wall hanging is Ostrevaal work, you know. The blue border was added later." It was Merrow, in a council coat with a speck of cake on his cuff, and he was looking at the wall behind the Crowns rather than at the blades. Nobody answered him. A student near him said, "Sir, there is a knife at your collar," and Merrow put two fingers up to the blade as if he were checking a button.
 
 "So there is," he said. "Do not let it worry you. It has been there ten minutes and has done nothing." He turned his head a little for a better view of the wall. "The blue border is later, though. The rest is original."
 
@@ -86,7 +100,7 @@ Lysette was standing at the west door with a guard in a grey coat beside her and
 
 "No."
 
-"It is never much with you." She opened the book and put one line on the page, then shut it again. "I saw smoke in a shape that should have been a man, and a light under it, and then the light was gone. I will not write the rest because there is no word for it." She looked past him at the roof stair. "Go back up before they count heads. I will say you were with me the whole time."
+"It is never much with you." She opened the book and put one line on the page, then shut it again. Her handwriting, Eden saw, had gone small and quick, and the pencil had snapped at the tip on the last letter. She looked at the broken point as if it were a stranger's, then put the pencil away without sharpening it, which in five years he had never seen her fail to do. "I saw smoke in a shape that should have been a man, and a light under it, and then the light was gone. I will not write the rest because there is no word for it." She looked past him at the roof stair. "Go back up before they count heads. I will say you were with me the whole time."
 
 "That is not true."
 

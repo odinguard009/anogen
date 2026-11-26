@@ -2,6 +2,8 @@
 
 Invitation week began with a pile of paper on the Committee bench and prefects walking the halls with bundles of cream envelopes held flat against their coats. By the second bell the whole year knew that Seraphine had asked someone at the south tables, and three people had already asked Felix who it was, and Felix had told each of them a different name, all of them wrong. The pile on the Committee bench grew by four envelopes an hour, and Lysette stamped each one with the Committee bell and wrote the giver's name on the back in a hand that got smaller as the morning went on. The rule for formal invitations filled one side of a sheet and said that the answer had to be written on the same paper as the question. The prefects carried spare pens for people who had forgotten that this was a rule, and there was a box by the north door for answers that nobody wanted to hand over in person. Eden had never put anything in the box, and he did not start now.
 
+On his way across the court he passed the glass atrium, where a crew of workmen on ladders were hanging paper lanterns from iron hooks in the roof. The atrium was a long hall of green glass panes and black iron ribs, built a century ago by a headmaster who had liked to watch the rain from inside. Four hundred people would stand under that roof on Saturday. Eden counted the doors out of habit, three on the court side and one at the far end behind a stack of chairs, and then counted the ladders, because a man on a ladder is a man who is not looking at the floor.
+
 Seraphine stood at the south table with an envelope in her hand. The envelope was cream and had a silver seal on the back, and she held it at an angle so that Felix could see the seal but Eden could not.
 
 "I am asking you as a joke, mostly," she said.
@@ -17,6 +19,12 @@ Felix looked at the seal. "Is that a trick?"
 "Why ask?" Felix said.
 
 "Because the part of me that is asking properly wants to know if he will say no quickly or slowly."
+
+Felix put his book flat on the table, which he did for fires and for questions he did not wish to answer. "I would like it noted," he said, "that I am not part of this conversation."
+
+"You are the audience," Seraphine said.
+
+"I did not buy a ticket."
 
 Eden picked up the envelope and turned it over. The seal showed a broken crown pressed into wax, and the wax had cracked at one point. "No," he said.
 
@@ -46,11 +54,11 @@ The form went into the middle stack with eleven others, and Lysette put a mark o
 
 "One second."
 
-"Four," Felix said, and shut his book. "I counted."
+"Four," Felix said, and shut his book. "I counted." He opened it again at once, and Eden saw that it was upside down.
 
 * * *
 
-Eden went up to the roof garden after the last bell with the cream envelope in his coat and the Ashen card in the same pocket. The evening had gone cold enough that the stone of the herb beds kept the last of the sun, and the broken telescope had a rim of frost on its iron stand. The dwarf apple tree had two green apples now, both hard and small, and the bird nest in the telescope had blown down and lay in three pieces on the grass. Lysette sat on the bench by the herb bed with her gloves off and her black book on her knee. She had been crying, and she had stopped recently enough that her eyes were still red at the edges. The white band on her left sleeve was pinned straight and a clean strip of linen showed under the cuff where the old cut had been. Her book lay open on a blank page with one line at the top and nothing under it, and the pencil was laid across the spine as if she had put it down in the middle of a thought and left it there.
+Eden went up to the roof garden after the last bell with the cream envelope in his coat and the Ashen card in the same pocket. The evening had gone cold enough that the stone of the herb beds kept the last of the sun, and the broken telescope had a rim of frost on its iron stand. The dwarf apple tree had two green apples now, both hard and small, and the bird nest in the telescope had blown down and lay in three pieces on the grass. Lysette sat on the bench by the herb bed with her gloves off and her black book on her knee. She had been crying, and she had stopped recently enough that her eyes were still red at the edges. The red band on her left sleeve was pinned straight and a clean strip of linen showed under the cuff where the old cut had been. Her book lay open on a blank page with one line at the top and nothing under it, and the pencil was laid across the spine as if she had put it down in the middle of a thought and left it there.
 
 "Did she ask you?" she said.
 
@@ -64,7 +72,7 @@ Eden went up to the roof garden after the last bell with the cream envelope in h
 
 "You are going?"
 
-"I have not decided." Lysette put her book down. "I have no partner. Rowan asked Clara in September, and Clara said yes, and the whole year has known since. I am not going to stand at the wall and watch them dance."
+"I have not decided." Lysette put her book down. "I have no partner. Rowan asked Clara at lunch in the first week of November, and Clara said yes, and the whole year has known since. I am not going to stand at the wall and watch them dance."
 
 "You could stay here."
 
@@ -72,9 +80,19 @@ Eden went up to the roof garden after the last bell with the cream envelope in h
 
 Eden said nothing. He sat on the stone edge of the herb bed, which was where she had sat when she found him asleep, and he did not take the envelope out of his pocket.
 
+"Can you dance?" she asked, after a while, in the flat voice she used for forms.
+
+"No."
+
+"Not at all?"
+
+"I know where the feet go. I have never put them there in time."
+
+"That is the same as not at all." She almost smiled, then looked at the dead leaves in her palm instead. "I can. I was taught by a woman with a ruler. I am very correct and very bad. It is a sad combination."
+
 Lysette's hand went to the collar of her coat and came back with a silver locket on a thin chain. It was a small oval, no bigger than a coin, with a smooth edge and a hairline scratch across the front. It was shut. She wore it under her collar on one day of the year, and the chain had a link that had been mended with a smaller ring.
 
-"The Justiciar Seal was mentioned in the office today," she said. "Someone said the Black Thirteen had been seen near the exchange. I closed my hand over this before I knew I was doing it."
+"A clerk in the office said today that the Black Thirteen had been seen near the exchange," she said. "I closed my hand over this before I knew I was doing it."
 
 "Why?"
 
@@ -84,11 +102,11 @@ Eden waited.
 
 "He had been away for two years. He came home in the autumn and he walked into the hall and everyone was glad, and he stood on the edge of the floor and watched. The band played four tunes that night, and the second one was slow enough for a court dance. My mother had made him a coat with a high collar, and he kept pulling at it because it was new." Her thumb moved over the scratch on the locket. "Someone asked him to dance and he said no. He said he had forgotten how. He had been a good dancer. Everyone knew he had been a good dancer." She stopped and took a breath that did not help. "Then he stopped coming to the hall at all. He took his meals in his room and walked in the court with his collar up, and the lanterns went up for the Ball that year and he did not ask which night it was. My mother wrote that House Hollen would act as if it were not. I was fourteen. I thought she meant the dancing."
 
-Eden did not say that it had not been the dancing. He did not say that a man who could not dance had been made into something else, or that a boy of sixteen had gone up the stairs in PR 110 with a confirm mark in his hand. The year on the office paper was the same year she was thinking of, and he had read it twice on a Monday in December without letting her see him do it. There were honest answers sitting ready in his mouth, and every one of them opened a door he had spent five years keeping shut. He had no useful sentence, so he stayed where he was and listened to the band below the roof practise one slow tune with the windows closed.
+Eden did not say that it had not been the dancing. There were honest answers sitting ready in his mouth, and every one of them opened a door he had spent five years keeping shut. He had no useful sentence, so he stayed where he was and listened to the band below the roof practise one slow tune with the windows closed.
 
 "My mother says we keep this for the day we can open it," Lysette said. "She takes it out once a year and I take it out once a year, and neither of us opens it. I have decided that is worse than looking."
 
-She put the locket back under her collar. The chain caught on the button and she turned it twice before it lay flat. Eden watched the oval go down out of sight and noted the mended link, which was smaller than the others and brighter where someone had worked it with a tool. It was the only thing she had taken out of her coat all evening that she did not put back in a pocket.
+She put the locket back under her collar. For a moment she looked at the empty place on the bench where the pencil had been, as if the afternoon had taken something from her that she could not name, and she did not ask him for it back. The chain caught on the button and she turned it twice before it lay flat. Eden watched the oval go down out of sight and noted the mended link, which was smaller than the others and brighter where someone had worked it with a tool. It was the only thing she had taken out of her coat all evening that she did not put back in a pocket.
 
 "Do you know why I asked Seraphine about the envelope?" she said.
 

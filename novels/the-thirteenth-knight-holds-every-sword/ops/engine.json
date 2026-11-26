@@ -10,29 +10,18 @@
   },
   "batch": {
     "mode": "n",
-    "target": 10,
+    "target": 5,
     "arc": null,
     "max": null,
     "start_chapter": 1,
-    "status": "stopped",
-    "stop_reason": "HOLD 2026-11-26: ch 1-10 are superseded drafts; replan in progress; write nothing until the owner orders the rewrite"
+    "status": "running",
+    "stop_reason": ""
   },
-  "critic_through": 10,
-  "audit_through": 10,
-  "reviewed": {
-    "1": "9573b2204ce1c6ff",
-    "2": "3dcf0adfbe573379",
-    "3": "380e7cbca6f02b37",
-    "4": "f9e925fc7f07735c",
-    "5": "a13e3f42a953b2cf",
-    "6": "bd5bac39904fc968",
-    "7": "3862707b18db0af7",
-    "8": "57190faefc4de423",
-    "9": "5c0784a354962f9a",
-    "10": "caeb55a304ac5240"
-  },
+  "critic_through": 0,
+  "audit_through": 0,
+  "reviewed": {},
   "hold": {
-    "active": true,
-    "reason": "Owner order 2026-11-26: ch 1-10 are superseded drafts; replan in progress; write nothing until the owner orders the full rewrite"
+    "active": false,
+    "reason": ""
   }
 }

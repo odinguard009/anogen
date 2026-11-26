@@ -401,5 +401,18 @@
       "pacing_shape": "short beats in long quiet",
       "hook_type": "something breathing under the drain"
     }
+  },
+  {
+    "chapter": 33,
+    "picks": {
+      "opening_type": "four strikes and a pause on a wire",
+      "scene_shape": "inspection, overheard line, scarf",
+      "tension_type": "not being recognised in plain sight",
+      "emotional_tone": "warm line in cold weather",
+      "comic_device": "pointing at a ladle measured on rope",
+      "conflict_type": "royal inspection",
+      "pacing_shape": "public day, one private object",
+      "hook_type": "a mother named by a king"
+    }
   }
 ]

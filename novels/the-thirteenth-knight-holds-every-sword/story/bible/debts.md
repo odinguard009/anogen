@@ -54,3 +54,6 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 
 - [open] Camp groundskeeper hums four notes wrong at the top; runs stores, knows the tall boy's name | planted: ch 31 | due: 41, 43, 45
 - [open] Old soldier: "The ground's cold here. Like she turned her back." | planted: ch 31 | due: 175
+
+- [open] King asked Ysolde to bring "the second envelope" when they returned; it is still in the safe | planted: ch 33 | due: 40, 155
+- [open] Lysette's grey-green scarf with red threads, given as equipment, worn by Eden all winter | planted: ch 33 | due: 50, 600

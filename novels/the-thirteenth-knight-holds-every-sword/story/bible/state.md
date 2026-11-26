@@ -229,3 +229,11 @@
 - First [Tavu]: Okoru bound a climbing Husk's leg to a brass bracket with a flick of one hand; Rowan put the spear into the bound neck. Six Husks dealt with; the circle held as a unit.
 - The groundskeeper came along the line with hot water and a rag and wiped the brass bracket while humming the wrong top note. Nobody asked why.
 - Hook: Eden felt a slow even pull under the drain in the wall's inner face; "The Choir was not dead. It was moving under the wall."
+
+## Thu 7 Jan (ch 33)
+- Rest after the Choir silence; bellwire explained (wire on iron posts, hammers, bells answering down the line). Four strikes and a pause announced the king's inspection.
+- Okoru told Lysette her hand was white and to put gloves on; Eden noticed her pencil slipping twice but took it as data and said nothing. He had not noticed she was cold.
+- King Theodric inspected the chewed merlon, ordered the stone replaced in two days, asked Rowan about cold hands, and warned the men not to look at him first. Ysolde corrected the silence count to thirty-one touches.
+- Eden overheard Ysolde: "the second envelope is still in the safe... You asked me not to open it." Plant for the letter thread.
+- Lysette gave him her grey-green scarf with red threads as equipment "so I am not stuck with your paperwork"; he wore it for the rest of the winter. She wrote that it was cold, not that he was.
+- Hook: the king stopped at "Cadet Wren" only: "Your mother would have hated the cold." Then cars down the hill and the bellwire cut by a clerk.

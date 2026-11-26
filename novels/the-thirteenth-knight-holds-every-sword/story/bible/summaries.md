@@ -37,3 +37,6 @@ Lance Nine arrives on the Southern Wall as its own unit for the Winter Rotation.
 
 ## Ch 32 - The Silent Stretch
 A Choir silence falls over the Wall and Lance Nine holds its stretch without voices or spoken spells. Okoru teaches three hand signs before the bell, and Lysette reads Eden's signs perfectly during the fight. Okoru uses the first [Tavu] to bind a climbing Husk to a brass bracket, Rowan finishes it with his spear, and Mirelle strikes unseen from the stair shadow. The circle holds. At dusk Eden feels a slow pull under a drain: the Choir is not dead but moving beneath the wall.
+
+## Ch 33 - The Second Envelope
+After the Choir silence, a bellwire announces the king's inspection of the Wall. Okoru notices Lysette's cold hand while Eden only records that her pencil slips. The king questions the sergeant and Rowan, and Eden hears Ysolde say the second envelope is still in the safe. Lysette gives him a grey-green scarf as equipment so she will not be stuck with his paperwork, and he wears it all winter. As the king leaves he stops only at Cadet Wren: "Your mother would have hated the cold."

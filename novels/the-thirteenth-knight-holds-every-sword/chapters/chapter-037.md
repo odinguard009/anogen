@@ -20,6 +20,8 @@ Eden took it. The envelope was thick enough to hold six sheets and had a paper c
 
 He went down the path and Eden stood at the gate with the envelope in his coat. He had written the request on the back of a form three nights ago without remembering doing it. That happened when he thought about a number for too long.
 
+He turned the envelope over. The clerk who sealed it had pressed the wax with a thumb instead of a ring, and the print of the thumb was still there, round and plain, with a small scar across the ball of it. Eden looked at the scar for a long time. Nothing in his memory fitted it, and he put the envelope in his coat the way a man puts away a coin he has not decided to spend.
+
 * * *
 
 There was an empty store hut behind the wall with a bench and no window on the north side, and Eden went there at the third bell with the envelope under his coat. The hut had held lamp oil in the autumn and still smelled of it under the dust. One wall had a row of hooks with nothing on them, and a sack of old fuses lay in the corner with a mouse hole chewed through the cloth. Eden sat on the bench with his back to the door and opened the envelope with a pencil so that he would not tear the paper with his gloves. The file held five sheets. The last sheet was thinner than the others.
@@ -52,7 +54,7 @@ Felix said nothing for a while. He had a way of waiting that made other people h
 
 "No."
 
-"That is what I thought you would say." Felix put his book on his knee. "You fight like a man who needs help and you never ask for any. I have watched you for five years. When you were eight you took a cut at the Wall that should have put you in the infirmary and you walked back to the line with your glove over it. You never asked anyone to look at it."
+"That is what I thought you would say." Felix put his book on his knee. "You fight like a man who needs help and you never ask for any. I have watched you for five years. In Year 2 you took a cut in the arms hall that should have put you in the infirmary and you walked back to the line with your glove over it. You never asked anyone to look at it."
 
 "It was a small cut."
 
@@ -77,6 +79,14 @@ Lysette came to the door of the hut with her book in one hand and her red band p
 Eden folded the envelope into his coat. He did not want to go back to the watch and he did not want to stay in the hut with Felix, and he did not say either thing. "Yes."
 
 Clara was waiting outside with a cup of tea wrapped in a cloth, and she gave it to him without a question. It was too sweet because she had put honey in it, and he drank half of it standing in the snow while Felix and Lysette went ahead.
+
+"You went white in there," Clara said, low, when the others were out of hearing. "I felt it from the door. It was like a cold hand on my back."
+
+"It was a letter."
+
+"I know it was a letter." She took the cup back and held it in both hands, and the steam went up between them. "Eden. If you need to be sad about something, you can do it near me. I am used to it. I grew up with someone who was never sad out loud."
+
+He did not ask who. He looked at the snow and said, "Thank you, Clara," and she nodded as if that were a whole conversation, which, between the two of them, it was.
 
 He went to the watch and stood with the Lance through the afternoon. Rowan talked through the first hour about a grip he had cut and a soup ladle he had measured, and Lysette wrote on a form with her book held against the wind. Clara stood beside her with her hands tucked into her sleeves and once looked at Eden for a moment longer than she needed to, then looked away. The sky went from grey to a colour that was almost gold and then back again, and the Wall kept its noise around them, and Eden counted the beats between sounds because it gave his hands something to do. The file stayed in his coat against his ribs, and the last sheet, which was thinner than the others, kept sliding down inside the envelope no matter how he folded it. At the end of the watch he took it out.
 

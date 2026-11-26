@@ -6,7 +6,7 @@ Eden was on the step outside the stores with the scarf pulled up over his mouth.
 
 "Which one?"
 
-"Storems. The sergeant who runs the night roll. They like him. He has been here nine years and he knows everyone's name."
+"Storems. The sergeant who runs the night roll. They like him. He has been here nine years and he knows everyone's name." Vesk said it with a kind of reluctant respect. "He remembers the name of every soldier's dog. That is how they take a place, you know. They do not break the door. They learn the dog."
 
 "How many in the room?"
 
@@ -32,7 +32,7 @@ The night roll was called in an upper room with a long table and a board of name
 
 "Wren," Storems said, when he came to the last line of a different list. "You are not on this roll."
 
-"I am attached to Lance Nine."
+"I am attached to Lance Nine." Eden had practised the answer on the stair. It had to sound like an answer a bored boy gave to a bored man, and he had put the stress on the wrong word on purpose.
 
 "Then I will make a line for you." Storems dipped the pen and wrote EDEN WREN in a space that was too narrow for the second name. "Do you know why we do this at night, boy?"
 
@@ -44,7 +44,7 @@ The night roll was called in an upper room with a long table and a board of name
 
 "That is the reason they give you." Storems' smile came a beat late, and the room laughed because they had heard the joke before and liked it again. His shadow stayed where it was for half a breath before it followed his shoulders.
 
-Eden saw the shadow move late, and he saw the two things at once: the man's smile arriving after his eyes, and the grey under the neck where the collar stood away. He needed light to make the grey honest, and he could not draw **[Inead]** in a room full of soldiers who would remember a gold sword in the hands of a cadet.
+Eden saw the shadow move late, and he saw the two things at once: It was a small lag, a finger of dark that stayed behind when the man turned, the sort of thing nobody would see unless they had spent three winters watching shadows for a living. The men at the table were looking at Storems's face, where the warmth was. Eden looked at the floor. the man's smile arriving after his eyes, and the grey under the neck where the collar stood away. He needed light to make the grey honest, and he could not draw **[Inead]** in a room full of soldiers who would remember a gold sword in the hands of a cadet.
 
 He did not look at Storems. He looked past him at the window, where the last light of the day lay across a square of polished metal hanging on the wall: a signal mirror, used to flash messages to the far watch in clear weather. Its edge was a clean line and its face held what was behind him.
 
@@ -68,7 +68,7 @@ Eden let **[Inead]** go and folded **[Exa]** away into his shadow. The soldiers 
 
 "What was that?" someone said.
 
-"Lamp broke," Eden said. "I will pay for the mirror."
+"Lamp broke," Eden said. "I will pay for the mirror." Nobody laughed. A corporal, white to the lips, said, "It was only a coat," and then said it again, as if the second time might help. Eden picked up the pen that had rolled from the roll and set it neatly beside the box where it had come from.
 
 He wiped the dust where it touched the table legs, took Storems' roll book from the floor, and put it back on the table with the last line blank. When he left the room the soldiers were looking at the coat on the floor, and nobody had thought to stop him.
 
@@ -78,19 +78,19 @@ Vesk was waiting at the bottom of the stair in the dark beyond the second lamp. 
 
 "Any noise?"
 
-"One chair and a mirror." Eden held out his hand and looked at the soot on the cuff. "A mirror broke. I will pay for it."
+"One chair and a mirror." Eden held out his hand and looked at the soot on the cuff.
 
-"You cannot pay for a thing like that." Vesk's nose worked once. "You smell of it. It stays on you after it dies. I told you it would."
+Vesk's nose worked once. "You smell of it. It stays on you after it dies. I told you it would."
 
 "How long?"
 
 "An hour in open air. Longer in a coat." Vesk stepped back from the stair. "Do not go near Hollen until it is gone."
 
-Eden did not answer. The smell was in the scarf as well, and the scarf had been a piece of equipment and not a gift, and he had worn it all winter.
+Eden thought about that for the length of a breath. It was a strange instruction to receive from a man who could not enter a lit room: a rule about distance, from someone who had spent his life keeping to the edges of things. He said, "I will take the long way round the stores," and Vesk, who was already turning away, nodded as if that were the only sensible thing anyone had said all night.
 
-Eden pulled the scarf up over his mouth and went past him into the cold. The smell did not come from the scarf. It came from the coat he had worn into the room and from the sleeve that had held the sword, and he could not wash either before morning.
+Eden pulled the scarf up over his mouth and went past him into the cold. The smell was in his coat and in the sleeve that had held the sword, and he could not wash either before morning. He thought of the scarf, which was a piece of equipment and not a gift, and moved it a finger's width away from his collar.
 
-The path down from the garrison had ice in the ruts and the snow at its edges was dirty from a week of boots. Eden kept to the middle where the ice was thinnest, and Vesk walked in the dark under the wall without making a sound, and neither of them spoke until they were past the second lamp. A bugle went somewhere in the camp and was answered by another, and a soldier on the parapet above them began to sing because the silence had been lifted and singing was allowed again.
+The path down from the garrison had ice in the ruts and the snow at its edges was dirty from a week of boots. Eden kept to the middle where the ice was thinnest, and Vesk walked in the dark under the wall without making a sound. Eden, who had not yet said thank you for the warning, said it now, in four words, at the end of the path. "Thank you for the smell." Vesk looked at him as if he had been handed a coin of an unfamiliar country, turned it over, and decided to keep it. After that neither of them spoke until they were past the second lamp. A bugle went somewhere in the camp and was answered by another, and a soldier on the parapet above them began to sing because the silence had been lifted and singing was allowed again.
 
 A veteran stood at the garrison door with a cup in his hand, watching the two of them go down the path. He had a face like a boot and a grey moustache, and he spat into the snow at the side of the step.
 

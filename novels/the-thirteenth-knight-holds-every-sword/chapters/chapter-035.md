@@ -6,7 +6,7 @@ Rations week began with bread that had frozen hard enough to ring when it was se
 
 "There are forty of us," Rowan said. "So no."
 
-"Fourteen is closer to forty than one is." Felix put the ticket in his pocket. "I am keeping it."
+"Fourteen is closer to forty than one is." Felix put the ticket in his pocket. "I am keeping it." He took it out again and looked at it, as if it might have changed. "In a year I will tell people I drew fourteen at the Wall in the worst winter in memory, and they will be impressed, and I will not mention the bread."
 
 A courier from Ysolde came down the camp path with a folder held flat against his coat and a pencil behind his ear. He had come all the way from the palace in the cold and would not sit down, because Ysolde's couriers were paid by the standing.
 
@@ -18,7 +18,9 @@ A courier from Ysolde came down the camp path with a folder held flat against hi
 
 Eden took a blank 13-B from his coat and looked at the boxes. "There is no box for Husk."
 
-"There is now." The courier turned the paper over and showed him a new line printed on the back, which said HOSTILE, FORMERLY PERSON. "I have four hundred of these. I will be here all week."
+"There is now." The courier turned the paper over and showed him a new line printed on the back, which said HOSTILE, FORMERLY PERSON. "I have four hundred of these. I will be here all week." He lined them up on the bench with the care of a man laying out a dinner set, and Rowan, who could not leave a neat row alone, picked one up and read it with moving lips. "Hostile," he said. "Formerly person." He put it down and was quiet for a moment. "That is a sad thing to print on a form."
+
+"It is a form," the courier said. "They are all sad. That is how you tell they are important."
 
 In his head, without opening his mouth, Gorrath said, "I am going to complain about this all night." His voice had the weight of a large man sitting down on a step, and it came from the direction of the stores rather than from Eden's own chest, which was something Eden had stopped trying to explain.
 
@@ -100,7 +102,9 @@ The camp went back to its noise. Gorrath said, in Eden's head, "You should not h
 
 At the table beside the stores, Lysette finished writing on a fresh form. Her hand shook once at the wrist, and she held it still with the other until the ink dried. The form was headed DISCIPLINE COMMITTEE: IMPROPER POST SWAP, and the name on the line was Seraphine Aurenmark.
 
-Rowan went back to the bread table and broke his frozen loaf against the bench, and Felix stood where Seraphine had left him with her card still in his hand and did not put it down. Lysette watched neither of them. She had turned the form so that the headings faced the wall, and the pencil lay across the corner where she had written the name twice.
+Rowan went back to the bread table and broke his frozen loaf against the bench, and it split with a crack like a small shot, and half of it flew across the stores and hit the groundskeeper, who was sorting fuses by the wall. He looked at the bread, looked at Rowan, and said, "That is a good arm, young man. Tea for the tall one, two sugars." He hummed his four wrong notes and went on sorting, and Rowan, delighted, took the piece of bread to him with an apology.
+
+Felix stood where Seraphine had left him with her card still in his hand and did not put it down. Lysette watched neither of them. She had turned the form so that the headings faced the wall, and the pencil lay across the corner where she had written the name twice.
 
 She did not look up when Eden came to put his own form in the folder. "I have to write her up again," she said. "I do not know why my hand is doing that."
 

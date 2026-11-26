@@ -137,3 +137,21 @@ Scores ch 31-40: one 2 in ch 33, 37, 38, 39 for tension; battle clarity 4-5 in 3
 - What: prepass tracks "did not look at the", "and he did not say", and "she did not look up" across recent chapters.
 - Why: restraint is Eden's habit, but the same physical beats are used in other POVs too.
 - Fix: give other characters a different tell: a cup moved, a pencil capped, a boot turned on the stair.
+
+## Audit through chapter 50 (2026-11-26 new draft, same session, not independent; arc-end audit)
+Scores ch 41-50: several 5s in the climax chapters (45, 46, 47, 48, 49, 50); the quiet chapters carry the intended 2-3. Reveals landed in order: C1 C (36), C2 C (45), S1 C (35), with the Lysette-side D left open at ch 50. Debts paid: Corwen (18), Ilsabet (25), S1 (35), C1 public (36), C2 reader (45), Perrin (47), nest (50). Open: Tailor's message (51-55/185), Lysette's proof (101/140), Eden's want (101/140). No auto-append to banned.md or variety_menu.json this round.
+
+### A1. Word floor for the fifth audit in a row
+- What: all ten chapters are 1800-1813 words.
+- Why: repeated across audits 20, 30, 40 and 50; late dialogue cuts keep returning every chapter to the floor.
+- Fix: for arc 2, draft the extra action beat into the first version instead of patching after the check.
+
+### A2. Aura and Unbind hints are dense in the last six chapters
+- What: frost (46), grass (46), [Thessa] answering a name (47), false Unbind (49), still dust (49/50), white light (49/50).
+- Why: the rungs are spaced correctly, but a reader new to the series may read the hints as confirmations.
+- Fix: keep later hints as reaction or object beats only; do not explain any of them before their ladder chapter.
+
+### A3. Same-session critic limitation
+- What: the writer and critic are the same session across all fifty chapters.
+- Why: prepass and verify catch mechanics, not the feel of a cold read.
+- Fix: when the owner has a fresh reader available, ask for one read of the climax (45-50) before arc 2 begins. No engine change made.

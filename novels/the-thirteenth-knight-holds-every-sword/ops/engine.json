@@ -17,7 +17,7 @@
     "status": "done",
     "stop_reason": "arc 1 fully written"
   },
-  "critic_through": 40,
+  "critic_through": 50,
   "audit_through": 40,
   "reviewed": {
     "1": "2e932f4856acd49e",
@@ -59,7 +59,17 @@
     "37": "e70367631bd4f7f9",
     "38": "6aea4d94f1ee0d98",
     "39": "038b6b2da5ab695e",
-    "40": "979c773b8799648c"
+    "40": "979c773b8799648c",
+    "41": "9180c1c93c1d6eb8",
+    "42": "2288e874207fa97f",
+    "43": "91bcc2a0cff261d1",
+    "44": "a4f642d71b6e9f41",
+    "45": "7b8d45e6ecfd77bc",
+    "46": "ce7b91bfa38a2920",
+    "47": "192aa43be1768edb",
+    "48": "dc637cd153c3a33c",
+    "49": "700c7ca00255e987",
+    "50": "419e68e84ad4e176"
   },
   "hold": {
     "active": false,

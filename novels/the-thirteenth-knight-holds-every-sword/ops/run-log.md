@@ -170,3 +170,12 @@
 - REVIEW ch 10: PASS. check_chapter OK (1807 words, mean 10.3, dialogue 30%). Epigraph present from outline/epigraphs.md.
 - C1 stays at H (letter says "act as if it were not"; no name, no locket, no confirm). S1 stays at D (the question and "Probably" only; no story from Seraphine). No reveal, no power.
 - Lysette POV allows feeling; Eden is not in POV in this chapter. Continuity: handkerchief kept since ch 1, still unwashed; joke count begins with Felix at one.
+
+### critic pass ch 6-10 - 2026-11-26 - same session, not independent
+- Cold read of the manuscript against the outline lines and canon rows; prepass and check_chapter on all five; verify_batch 6-10 OK. No event or canon changed; no targeted patches needed.
+- ch 6 - scores 3,3,4,-,4,4. No concrete line-level finding. First uses of Rowan's light and Clara's flowers described in scene and ledger.
+- ch 7 - scores 3,4,3,-,4,4. No concrete finding. The Ashen card stays a bookmark; the watcher stays unnamed.
+- ch 8 - scores 4,4,4,-,4,4. No concrete finding. [Sile] has look, body use, effect and limit; the saboteur is let go without a kill.
+- ch 9 - scores 3,3,4,-,4,4. No concrete finding. Form 13-B comedy belongs to boxes, not padding; the envelope stays sealed.
+- ch 10 - scores 3,3,5,-,4,4. No concrete finding. Epigraph correct; C1 H and S1 D only; POV stays with Lysette.
+- Recurring weakness: dialogue runs low in ch 8 (22%) and ch 10 (21%) by the prepass count. Both are warning only; no filler added. Same-session critic, so no independent read.

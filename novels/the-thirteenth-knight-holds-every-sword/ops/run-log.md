@@ -136,3 +136,15 @@
 - REVIEW ch 7: PASS. check_chapter OK (1801 words, mean 8.7, dialogue 42%). No repeat of ch 6's roof/office exchange: the warrant turns on the missing box instead of "where do you sleep".
 - Continuity: card goes into page twelve of the strategy book; grey-coat watcher stays unnamed for the ch 18 debt; Seraphine only recognises the card's shape.
 - No reveal or power change. Comedy stays in objects and straight faces; the card scene is not undercut.
+
+### 2026-11-26 05:33 UTC (12:33 WIB) - tulis bab berikutnya - chapter 8 - ok
+- words: 1811
+- scores: tension 4, surprise 4, emotion 4, battle_clarity -, voice 4, freshness 4
+- notes: First [Sile]; Strent's lullaby plant; dead master signature.
+- quota_note: 
+
+### self-review ch 8 - MEDIUM risk, same session, not independent
+- REVIEW ch 8: PASS. check_chapter OK (1811 words, mean 8.7, dialogue 24% warning only, no padding added). prepass tell "let out a breath" removed; "Mr" registered in canon_names.
+- First use of [Sile] has look, body use, effect and limit in scene; Gorrath and Mirelle get first-appearance traits and a speech habit; no labelled attack on the saboteur, no kill.
+- Continuity: the torn sheet is the one from ch 6; the dust matches ch 5's core. Lullaby is an H plant for the Tailor rung (30/40/50/185), not a confirm.
+- Fixed a placement error during drafting: the Gorrath/Mirelle exchange about the order paper now happens after they are together in the passage.

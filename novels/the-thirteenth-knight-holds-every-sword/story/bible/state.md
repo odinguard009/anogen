@@ -64,3 +64,11 @@
 - Lunch: Seraphine's first joke on Felix ("You are supposed to laugh" / "I will think about it"); she knows the shape of the Ashen card but tells him people get them at fairs. Rowan got a bigger soup ladle after Seraphine said she had measured three.
 - A thin Cinder in a rough grey coat, ash on one glove cuff, slipped a black card into Eden's strategy book at page twelve. Pressed ash-rose, broken crown in grey, four words: Remember Thornmere. Eden keeps it as a bookmark; his thumb went to the corner twice.
 - A man in a grey coat with no badge, book like a prefect's count book, watched Eden pocket the card and wrote one short line. Do not name him on the page yet (debt: grey-coat Ember = Corwen, due ch 18).
+
+## Mon 9 Nov, night (ch 8)
+- Undercroft workshops. Vesk waited at the stair (cannot enter deep dark). Gorrath (giant in grey, tower shield, apologises to stone, terrible liar) held the passage; Mirelle (plain black mask, one long thin blade, one-word speech) came with Eden.
+- Eden found an order for one core plate signed by Master Sorn and dated early November; grey dust sweeping on the shelf, same as in the construct's core.
+- The grey-coat saboteur came back for the dust. Eden opened a Door in the workbench shadow, Mirelle used **[Sile]** to pin his sleeve through the door without cutting skin, and they took a folded paper from his coat before letting him go (no kill without proof). Gorrath: "I am a terrible liar."
+- The folded paper lists the forge master, two store clerks, a groundskeeper and a girl from the exchange; one older line is crossed out.
+- Vice-headmaster Halvard Strent grades by moonlight because lamps give him headaches; he apologises to papers and people. He hummed four notes of Eden's mother's lullaby. Eden stood with one foot on the stair for four notes, twice, and did not take the next step until the humming stopped.
+- Strent: "Wren. A Thornmere name. Your mother must have sung that to you too." Eden never told anyone she sang.

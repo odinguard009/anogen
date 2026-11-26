@@ -76,5 +76,18 @@
       "pacing_shape": "small scenes with a sharp last beat",
       "hook_type": "someone writes him down"
     }
+  },
+  {
+    "chapter": 8,
+    "picks": {
+      "opening_type": "odd concrete detail (numbered doors)",
+      "scene_shape": "prep, dark room, classroom",
+      "tension_type": "someone else in the dark",
+      "emotional_tone": "quiet before trouble",
+      "comic_device": "a giant apologising to stone",
+      "conflict_type": "silent intruder in a dark room",
+      "pacing_shape": "slow build to one clean pin",
+      "hook_type": "a name he never gave"
+    }
   }
 ]

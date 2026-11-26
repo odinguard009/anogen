@@ -20,3 +20,6 @@ Okoru forms the Year 5 Lances and puts Lysette, Rowan, Clara, Felix and Eden in 
 
 ## Ch 7 - Remember Thornmere
 Rowan finds Eden on the roof and asks, loudly, to be friends. Lysette brings the first attendance warrant and writes "roof" in the margin because the printed form has no box for it. At lunch Seraphine starts her jokes on Felix and deflects when she sees the black card. A thin Cinder slips the card into Eden's book: a pressed ash-rose, a grey broken crown, and the words "Remember Thornmere". He uses it as a bookmark. Across the hall a man in a grey coat writes one short line in a count book and watches him put it away.
+
+## Ch 8 - Four Notes on the Stair
+Eden takes Gorrath and Mirelle into the unlit Undercroft workshops to trace the grey dust. He finds an order for a core plate signed by the dead Master Sorn, and a saboteur in a grey coat comes back for the dust. Gorrath holds the passage door, Eden opens a Door in a workbench shadow, and Mirelle's **[Sile]** pins the man's sleeve through it so they can take a folded paper from his pocket before letting him go. Upstairs, Vice-headmaster Strent grades by moonlight because lamps give him headaches, and hums four notes of the lullaby Eden's mother sang. Eden stops on the stair for one verse. Strent says Wren is a Thornmere name and asks if his mother sang it too.

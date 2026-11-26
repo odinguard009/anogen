@@ -1,93 +1,125 @@
 # Chapter 50: Liora's Boy
 
-The count took four hours in the grey morning light and was done twice. Forty people had crossed the yard, and thirty-nine were alive at the second bell of the morning. The physician wrote the names on a sheet and crossed one out. A prefect took the sheet to the gate and brought it back because there was no dry place to keep it. The physician had lost her shoes in the fire and had wrapped her feet in strips of blanket. She did not sit down until the second count was finished. People came up to her and asked about the missing name and she said the same sentence each time: "He died in the night. I could not save him." By the fifth time she said it, the sentence had stopped being an answer and had become a thing she was reading from a paper.
+The count took four hours and was done twice. Forty people had crossed the yard during the night, and thirty-nine were alive at the second bell of the morning. The physician wrote the names on a sheet and crossed out one. A prefect took the sheet to the gate and brought it back, because there was no dry place to keep it.
 
-Clara was alive. She sat on a crate outside the infirmary with her right arm in a sling. A dark line marked the edge of the wound the grey had left. She argued with Rowan when he tried to carry her inside.
+The physician had lost her shoes in the fire and had wrapped her feet in strips of blanket. She did not sit down until the second count was finished. People kept coming up to ask about the missing name, and she said the same sentence each time. "He died in the night. I could not save him." By the fifth time it had stopped being an answer and had become a thing she read from a paper.
+
+Clara was alive. She sat on a crate outside the infirmary with her right arm in a sling. A dark line, like a pencil mark, marked the edge of the wound where the grey had been. She argued with Rowan when he tried to carry her inside.
 
 "I can walk seven steps," she said.
 
 "You cannot walk seven steps."
 
-"I can walk four and then sit down on the step."
+"I can walk four, and then sit on the step."
 
-"Then I will carry you four steps." Rowan picked her up with his good arm and carried her inside. She told him he was an idiot. He said yes. Neither of them looked at the soldiers who were listening.
+"Then I will carry you four steps." Rowan lifted her with his good arm and took her inside. She told him he was an idiot. He said yes. Neither of them looked at the soldiers who were listening.
 
-Okoru, passing with his stick, said to nobody that a healer who walked on a wound like that would be on a cot for a week and that he would sign the order himself. He did not look at either of them when he said it, and he did not chew anything. His stick left a neat row of holes in the snow all the way to the infirmary door.
+Okoru passed with his stick and said to nobody that a healer who walked on a wound like that would be on a cot for a week, and that he would sign the order himself. He did not look at either of them when he said it. His stick left a neat row of holes in the snow all the way to the infirmary door.
 
-Eden stood at the edge of the yard with the scarf in his hand and watched the count go on around him. The Mawgate had stopped widening at some point in the night, though no one could say when or what had stopped it. The hole in the stores floor was still there with its rim of cold stone, and the tents had burned down to black frames. The snow beyond the gate had gone grey with dust that did not blow away in the wind.
+* * *
 
-The stores hut was a shell. The roof was gone, and the beams stood up against the sky like the ribs of something that had been eaten. A cook was salvaging flour from the ash with a sieve, one cup at a time, and humming under her breath to keep from counting how little there was.
+Eden stood at the edge of the yard with the scarf in his hand. The stores hut was a shell. The roof was gone, and its beams stood against the sky like the ribs of something that had been eaten. The tents had burned to black frames. In the middle of the broken floor the Mawgate still showed, a hole with a rim of cold stone. It had stopped widening at some point in the night. Nobody could say when or why.
 
-The nest was under the camp, and it was not finished. Vesk said so three times in the space of a minute, standing where the light was poor, with his coat pulled tight.
-
-"It is a mouth," he said. "It eats and it wakes. You shut it by taking what it eats."
+Vesk stood in the poor light at the side of the stores, with his coat pulled tight. He had said the same thing three times in a minute. "The nest is under the camp, and it is not finished. It is a mouth. It eats and it wakes. You shut it by taking away what it eats."
 
 "How?" Rowan asked.
 
-"You do not ask me. I cannot go down there."
+"I do not know. I cannot go down." Vesk looked at the black rim and then away, like a man looking away from a stove he has burned himself on. "A nest has a heart. The heart is not where the warmth is. It is where the warmth is going."
 
-He looked at the black rim of the hole and then away from it, as a man looks away from a stove he has burned himself on. "I will tell you what I know, which is little. A nest has a heart. The heart is not where the warmth is. It is where the warmth is going."
+After the third bell Eden went down through the hole with a lamp at his belt and **[Exa]** across his arm. The air below was warm and full of the smell he knew now: the exchange cellar, the dye-works, the construct core, the groundskeeper's coat, Harrow's open arm. The tunnel floor pulsed under his boots. The walls had once been a burrow and had been built into something else by grafting.
 
-Eden went down through the Door in the stores floor after the third bell, with a lamp at his belt and **[Exa]** across his arm. The far side was warm and full of the smell he knew now: the exchange, the dye-works, the construct core, the groundskeeper's coat, Harrow's open arm. The tunnel below had a floor that pulsed under his boots and walls that had once been a burrow of some kind and had been built into something else by grafting. He did not look at the things hanging from the roof. He had one job, and a job was a line of steps. The tunnel floor had a beat to it. He matched his steps to the beat so that the sound of his boots did not give him away to whatever had made the place. Twice the wall moved toward him and he put the shield between his shoulder and the movement, and twice it went back without touching him, because a thing that eats does not always know what is in front of it. He counted the steps to the heart and counted them again on the way back, and the numbers were the same.
+He did not look at the things that hung from the roof. He had one job, and a job was a line of steps. He matched his steps to the beat of the floor, so that the sound of his boots would not give him away. Twice the wall moved toward him. He put the shield between his shoulder and the wall. Twice it went back without touching him, because a thing that eats does not always know what is in front of it. He counted the steps to the heart, and he counted them again on the way back.
 
-Once he stopped. Something in the wall ahead had a shape he knew: a long jaw and a grey hand with too many joints, folded into the flesh like a thing being kept. He walked past it without turning his head. It was a form, and it would be filed with the others, and he did not have a box for it yet.
+Once he stopped. In the wall ahead lay a shape he knew: a long jaw and a grey hand with too many joints, folded into the flesh like something being kept. He walked past it without turning his head.
 
-He found the heart where the warmth was strongest, behind a fold of grey flesh that moved when he came near it. It was not a stone and not an animal. It was a knot of the same stuff packed into the construct's core, but harder here, with threads running into the walls. The light from his belt made no shine on it at all. **[Lampwick]** showed a seam along its underside where the light went in and did not come back. Eden put **[Inead]** into that seam and turned once. The knot came apart in his hand into grey pieces that had no weight. The walls around it stopped pulsing in four directions and then in the last one, and the tunnel went cold.
+He found the heart where the warmth was strongest, behind a fold of grey flesh that moved as he came near. It was a knot of the same stuff he had seen in the construct's core, but harder, with threads running into the walls. His lamp made no shine on it.
 
-He came up through the Door with dust on his sleeves and put the pieces in a bucket of water that a soldier held out without being asked. The water went grey and then clear. The rim of the hole in the stores floor folded inward on itself like a mouth closing. The snow over it settled without a sound.
+He drew **[Inead]**. The light from the blade fell on the knot and showed a hairline seam along its underside. **[Lampwick]** followed the seam. Eden put the sword in and turned it once.
 
-Strent met him at the stair with a cup of tea and a sheet of paper. "I am sorry," he said. "The office wants a form for the hole in the floor. I have written 'closed' in the space marked CONDITION, but I do not know if that is the word they use."
+The knot came apart in his hand into grey pieces with no weight. The walls stopped pulsing, first in four directions and then in the last. The tunnel went cold.
+
+He climbed out through the hole with dust on his sleeves and put the pieces in a bucket of water that a soldier held out without being asked. The water went grey and then clear. The rim of the hole folded inward on itself like a mouth closing. The snow settled over it without a sound.
+
+* * *
+
+Halvard Strent met him at the stairs with a cup of tea and a sheet of paper. "I am sorry," he said. "The office wants a form for the hole in the floor. I have written 'closed' in the space marked CONDITION. I do not know if that is the word they use."
 
 "It is a word."
 
-"Then I will leave it." Strent looked at the grey on Eden's sleeves. He did not ask about it. "You should sleep. I will write the rest."
+"Then I will leave it." Strent looked at the grey on Eden's sleeves and did not ask about it. "You should sleep. I will write the rest."
 
-A sergeant came past with a coil of rope and asked whether the oil line should be taken up. Eden told him to leave it until spring, and the sergeant wrote that down as an order and went away. The lower-city children sat in the sun by the kitchen door with two blankets and a heap of bread between them. The smallest one counted the loaves over and over. Nobody had given him anything else to do.
+By the fourth bell the camp was making its ordinary noises again. A cook shouted about bread. Two prefects argued about a form. The lower-city children sat in the sun by the kitchen door with two blankets and a heap of loaves between them. The smallest one counted the loaves over and over. Nobody had given him anything else to do. Eden stopped beside him and told him there were nine loaves, and the boy said thank you and counted them again to check.
 
-By the fourth bell the camp had begun to make its ordinary noises again. A cook shouted about bread, two prefects argued about a form. Felix stood by the gate with a roll in his hand and a face that had not changed all night.
-
-"Eaten today?" he said, when Eden came past.
+Felix stood at the gate with a roll in his hand and a face that had not changed all night. "Eaten today?" he asked, when Eden came by.
 
 "No."
 
-"That is not a technically yes. That is a no." Felix broke the roll in two and gave him the larger half. "You can have it. I am not asking where you went."
+"That is not a yes." Felix broke the roll and gave him the larger half. "You can have it. I am not asking where you went."
 
-A soldier called from the infirmary door. Harrow was on a cot inside with his coat cut away and his grey arm stump wrapped in cloth. The grey had climbed his neck to the corner of one eye. He was dying, and he knew it, and he had been asking for someone by name since the sun came up.
+"Thank you."
 
-"Wren," Harrow said, when Eden came in. The voice was mostly air now. "Come here. I want to say it properly, and I cannot hold the voice long."
+"Do not thank me. Eat it."
 
-Eden stood at the foot of the cot. Lysette stood by the window with her book closed and her hands in her pockets. She had not gone near the body all morning and her boots were still wet from the yard.
+Vesk waited at the side of the stores, where the light was poor. He lifted his nose and breathed in once. "The smell is gone," he said. "A nest that dies leaves a stink behind it for a week. This one left nothing. It was cut clean."
 
-"You asked me what I was," Eden said.
+"Is that good?"
 
-"No." Harrow's good eye found him. "I asked the wrong thing. She stopped reading me."
+"It is good for the camp." Vesk's yellow eyes did not leave Eden's face. "It means you know how to cut one. Someone will ask how you learned." He pulled his coat tight. "I will not ask. I only say it, so that you hear it from me first."
+
+Eden nodded. He had not yet thought about who might ask, or what he would say if the question came from someone he could not refuse. Okoru stood at the infirmary door with his stick, listening to none of it. He looked at Eden's left glove for a moment and said nothing. Then he went back to counting the sleepers on the cots, one by one, as if that were all he had come to do.
+
+A soldier called from the infirmary door.
+
+* * *
+
+Harrow lay on a cot inside with his coat cut away and the stump of his arm wrapped in cloth. The grey had climbed his neck to the corner of one eye. He was dying, and he knew it, and he had been asking for Eden by name since sunrise.
+
+"Wren," Harrow said when Eden came in. The voice was mostly air. "Come close. I will say it properly. I cannot hold the voice long."
+
+Eden stood at the foot of the cot. Lysette stood by the window with her book closed and her hands in her pockets. She had not gone near the body all morning.
+
+"You asked me what you were," Harrow said.
+
+"I did not ask. You said it."
+
+"Yes." The good eye found him. "I asked the wrong thing. She stopped reading me."
 
 "Who?"
 
-"Liora." The grey at his eye moved when he said the name, like something under paper. "She made my blade. She read me while she made it, and then she stopped. That is how I knew she had chosen someone else." Harrow took a breath that did not go all the way down. "Hunger is a god. That is what she told the forge. And the Tailor sends regards to Liora's boy."
+"Liora." The grey at his eye moved when he said the name, like something under paper. "She made my blade. She read me while she made it. Then she stopped. That is how I knew she had chosen someone else." He took a breath that did not go all the way down. "Hunger is a god. That is what she told the forge. And the Tailor sends regards to Liora's boy."
 
 Lysette's pencil moved once in her pocket and stopped.
 
-Eden did not look at her. He looked at the grey at the corner of Harrow's eye and at the hand on the cot that was no longer quite a hand. He counted the spaces between the man's breaths. Harrow said one more word, very low, and it was Liora's name again. Then the breathing stopped and the grey on his face went still.
+Eden did not look at her. He counted the spaces between the man's breaths. Harrow said one more word, very low, and it was Liora's name again. Then the breathing stopped, and the grey on his face went still.
 
-Lysette went out through the door without a word and knelt in the snow by the infirmary step, where the replay had lain the night before. She put her hand flat on the stone and shut her eyes. The ghost-light came back thin and pale in the morning. It showed the boy falling and the knife moving away. It showed the patch of wrong light between the two men. A white line that came and went in one breath and left no mark on the snow. Her wrist shook at the corners and she held it steady with her other hand.
+Eden's flat note was this. Liora was his mother. A dying man in a burning camp had known her name, and a person called the Tailor knew it too, and had sent it across the Wall as a message. Someone had been watching him for a long time.
 
-The replay held longer than the others had held. It showed the boy's head falling and the knife going away. The white line came back twice, once bright and once so thin that a person would have called it a mistake. Lysette moved her hand three inches to the left and the white line moved with it. She wrote one word on the back of her hand and shut her eyes again.
+* * *
 
-She opened her eyes. The replay showed a space where a person had stood and no person in it. She looked at that space for a long time, and then at Eden, and then back at the space. She said nothing. She shut the book and stood up with snow on her knees, and walked toward the gate with the red band straight on her sleeve.
+Lysette went out of the door without a word. She knelt in the snow by the infirmary step, where her replay had lain at dawn. She put her hand flat on the stone and shut her eyes. The ghost-light came back thin and pale in the morning.
 
-Eden stayed where he was with the scarf in his hand. He had done everything he had come to do. The camp was saved and the nest was closed and forty people were counted. Nothing in any of it required him to ask the question that came into his mouth.
+It showed the boy falling and the knife moving away. It showed the patch of wrong light between the two men: a white line that came and went in one breath and left no mark on the snow. Her wrist shook at the corners, and she steadied it with her other hand.
+
+This time the replay held longer. The white line came back twice, once bright and once so thin that anyone would have called it a mistake. She moved her hand three inches to the left, and the line moved with it. She wrote one word on the back of her hand.
+
+She opened her eyes. The replay showed a space where a person had stood, and nobody in it. She looked at the space for a full minute, and then at Eden, and then at the space again.
+
+She said nothing. She shut her book and stood up with snow on her knees. She walked toward the gate with the red band straight on her sleeve.
+
+Eden stayed where he was, with the scarf in his hand. He had done what he came to do. The camp was saved, the nest was closed, and forty people had been counted. Nothing in any of it required him to ask the question that had come into his mouth.
 
 "Lysette," he said.
 
 She stopped at the gate without turning round.
 
-"Did you sleep?" he asked. He did not need the answer. He asked it because she was standing with her back to him and because his thumb had found the worn place in the scarf where her hand had held it. His pulse had started counting in his throat.
+"Did you sleep?"
+
+He did not need the answer. He asked it because she was standing with her back to him, and because his thumb had found the worn place in the scarf where her hand had held it. His hand stayed closed on the scarf.
 
 "No," she said. She did not turn. "Did you?"
 
 "No."
 
-"Then we have that in common." She said it like a line written in a book and read back. It was not a joke, and she did not wait for him to answer it.
+"Then we have that in common." She said it like a line written in a book and read back. It was not a joke, and she did not wait for his answer.
 
-He stood with his hand closed over the scarf. She went through the gate and the snow filled the place where her boots had been. Then he put the scarf around his neck, the way he had worn it all winter, and went to help the cook carry the bread.
+He stood with his hand closed over the scarf. She went through the gate, and the snow filled the place where her boots had been. Then he put the scarf round his neck, as he had worn it all winter, and went to help the cook carry the bread.

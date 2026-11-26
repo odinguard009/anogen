@@ -42,9 +42,9 @@ Rowan shifted his spear from one hand to the other. "I'll go first."
 
 "I won last time."
 
-"That is not a reason."
+"Winning once does not give you the next turn."
 
-"It is today." She walked past him into the passage, and Rowan let her go with his mouth shut.
+"Today it does." She walked past him into the passage, and Rowan let her go with his mouth shut.
 
 Clara touched his sleeve. "You hit her arm yesterday."
 
@@ -150,11 +150,7 @@ Something cracked that was not stone. The red eyes went out, first the left, the
 
 Lysette stared at the place where the opening had been. "Where did it go?"
 
-"Nowhere," Eden said.
-
-"That is not an answer."
-
-"It is the only one."
+"Away," Eden said. He did not say more. He looked at the dark stone and did not explain, and Lysette saw that he would not.
 
 The shield unfolded back into **[Exa]** with a ring and a cold ache behind Eden's eyes. He put the lance away. His arm felt as if it had been struck by a hammer, and he flexed the fingers until they answered.
 
@@ -172,7 +168,7 @@ Clara came to Eden first, not to Lysette. She took his left wrist and turned the
 
 "I can hold a spoon."
 
-"That is not the test." She pressed two fingers into the heel of his palm, and a warm thread ran up into the wrist and stopped at the elbow, as if it had met a closed door. Clara frowned at her own hand. "Odd. It does not want to go further."
+"Holding a spoon proves nothing." She pressed two fingers into the heel of his palm, and a warm thread ran up into the wrist and stopped at the elbow, as if it had met a closed door. Clara frowned at her own hand. "Odd. It does not want to go further."
 
 "It is only a bruise."
 

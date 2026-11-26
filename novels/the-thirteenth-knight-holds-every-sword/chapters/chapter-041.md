@@ -1,87 +1,135 @@
 # Chapter 41: The Warm Ground
 
-For three nights Eden slept in camp under Lysette's eyes and went under the Wall when the camp stopped making noise. Vesk had given the order. It was simple. Find the mouth of the living tunnel before the Mawgate opened. Let no one in the camp know it was there.
+For three nights Eden went under the Wall. For three days he slept in camp, where Lysette could see him.
+
+Vesk had given the task, and it was simple. Find where the living tunnel came up under the camp. The tunnel led to the Mawgate, a door the Hushborn used to come into the world. It had to be found before it opened. Nobody in the camp could know.
 
 "Where are you going?" Lysette asked on the first morning, when she found him already dressed.
 
-"Nowhere."
+"Out."
 
-"That is not a place."
+"Out where?"
 
-"It is the one I use."
+"I do not want to say."
 
-She wrote on her form and let him go, which was new. On the second morning Felix put a bun on his blanket and said, "Eat this before you sleep. I am not having you faint behind a wall where nobody can find you." Rowan said he would come if there were tunnels involved, and Eden told him there were no tunnels, and Rowan said he could hear Eden lying from the next hut.
+She looked at him for a moment, wrote one line on her form, and let him go. That was new. She had been writing down his answers for months, and this was the first time she had not asked a second question.
 
-Clara, passing with a basin, looked at the three of them and then at the mud on the bottom of Eden's blanket and said that someone should wash that before the sergeant came. That she would not be the one to mention it. She took the blanket with her. It came back by noon, clean and folded, with a clean pair of socks inside it that nobody explained.
+On the second morning Felix put a bun on his blanket. "Eat it before you sleep. I will not have you faint behind a wall where nobody can find you." Rowan said he would come along if there were tunnels. Eden told him there were no tunnels, and Rowan said he could hear a lie from the next hut.
 
-By day he was a boy who slept too much. Lysette wrote it down every morning at the roll call and stopped asking why. Felix covered for him at meals with the straight face he used for things he did not believe. Rowan tried to wake him once and got a pillow thrown at him. Rowan left happy. It was the first time Eden had thrown anything at anyone.
+Clara passed with a basin, saw the mud on the bottom of Eden's blanket, and took it without a word. It came back by noon, clean and folded, with a pair of clean socks inside that nobody explained.
 
-Vesk waited at the stair on the first night with a length of rope in his hand. "You go down alone after the bend," he said. "I cannot follow the smell past that, and the dark there is not a dark I can stand in."
+Felix noticed the grey on his boots at breakfast. He looked at it and said, "That is not snow mud." Then he looked at Eden's face, and chose a different sentence. "You should oil those. They will crack." He passed the oil tin across the table with his book open on his knee, and he did not ask where the boots had been.
 
-"How will I find the mouth?"
+On the third day Rowan tried to wake him for drill and got a pillow in the face. Eden had thrown it before he was fully awake. Rowan stood with the pillow in both hands, looked at it, and grinned. "Good arm," he said. "Sleep, then." He went away happy, and Eden lay awake a while, looking at the ceiling.
 
-"Water goes in and does not come out where it should." Vesk tied the rope round Eden's wrist himself, with two turns and a knot he could undo with one hand. "If the rope pulls twice, come back. Do not be clever."
+By day he slept. At roll call Lysette wrote *Wren, tired* each morning. She did not argue about it any more.
 
-"Twice. I will come back on the second pull." Eden said it twice so that he would remember it down there.
+* * *
 
-He tested the knot against his wrist once, as a man tests a bootlace before a long walk. It slid, and tightened, and let go when he pulled the loose end. Vesk watched him do it and said nothing, which was the nearest he came to approval.
+On the first night Vesk waited at the stairs behind the stores with a coil of rope. He tied one end round Eden's wrist with two turns and a knot that could be undone with one hand.
 
-"And once means nothing. Do not confuse them, even when you are tired." Vesk's yellow eyes went to the dark behind him. "Three nights. Then the camp will move you north and I will have to crawl down after you, which I will not enjoy."
+"I cannot follow you past the first bend," Vesk said. "The dark there is not a dark I can stand in. You go alone from there. The rope tells me you are alive. One pull from you means you are fine. Two pulls from me means come back at once."
 
-Under the Wall the tunnels were not made by men. The stone ran in veins. The floor went down where it should have gone up. In places a man had to crawl through warm grey mud that clung to his coat and came off in strips. Eden counted the paces between turns and wrote them on his cuff with a pencil. But the pencil broke twice and the numbers ran together, so he counted again from the mouth each time.
+"Two pulls from you, come back."
 
-At one low place the roof came down to the height of a table and he had to go through on his stomach, with the lamp held ahead in one hand and the rope trailing behind him like a tail. The mud was warm against his chest. Twice something small ticked in the stone above him, a drop or a grain. Each time he lay still until the sound was not repeated. When he came out the other side his coat was grey to the elbows. He beat it against the wall and watched the dust fall and lie where it fell, in a ring. The air down there had no smell of snow or of men. It smelled of warm stone and something underneath it that had been alive recently. Vesk could not follow past the first bend, which was why Eden went alone from there, with a lamp covered and a rope tied to his wrist.
+"Do not be clever about it." Vesk's yellow eyes went to the black behind him. "Three nights. Then the camp moves north, and I will have to crawl down after you, and I will not enjoy that."
 
-The mouth of the tunnel lay beneath the camp, almost under the stores where he had laid his oil line. Eden found it on the second night by following the current that had worried Vesk. Water went into a crack in the floor and came back smelling of something else. He put his hand in the water and felt it pull toward the crack with no slope to explain it. He held his lamp over the crack. A rim of grey ran around the stone, fine as dust and packed into the joints. It was the dust he had wiped out of the exchange and the construct. On the third night he measured it in paces and drew it on the back of a Form 13-B with a pencil that kept breaking.
+Under the Wall the tunnels were not made by people. The rock ran in veins, and the floor went down where it should have gone up. In places the mud was warm and grey, and it clung to his coat in strips. Eden counted his steps between each turn and wrote the numbers on his cuff with a pencil. The pencil broke twice, and the numbers ran together, so each time he counted again from the start.
 
-On the third night he also found a glove.
+At one place the roof came down to the height of a table. He went through on his stomach, with the lamp in one hand and the rope trailing behind him like a tail. The mud was warm against his chest. Something ticked in the stone above him, a drop of water or a grain of sand. He lay still until it stopped. When he came out on the other side his coat was grey to the elbows.
 
-It lay in the grey mud with the fingers pointing into the tunnel. It was a camp guard's glove of thick leather with a brass button at the wrist. A conscript from the fourth stretch had lost it two days earlier and had been sent to the infirmary for a cut on his hand. Eden picked it up with a stick and turned it over. The cuff had been sealed with ward-plate metal and a hood of the same stuff, so that no skin showed at the wrist. The strip had been unbuckled. One drop of Husk blood had got inside.
+* * *
 
-The leather around the drop had gone grey and soft, and the grey had run down the seam in a thin line. Eden put the glove back where he had found it and did not touch the cuff again.
+The next day, in camp, he saw why the guards wore sealed gloves.
 
-The camp guards had been given sealed gear since the Choir went down. The gloves were ward-plate with taped joints and a second cuff folded over the wrist. The hoods came down over the neck and fastened under the chin. No blood could touch skin. A conscript asked the sergeant why a hood was needed if the Husk was dead. Dead grey was the same as live grey for four hours, the sergeant said. A man could bleed on his own glove without noticing the cut. Eden had watched a sergeant show a conscript how to seal a cuff and had noted the rule without needing an explanation. A man with a bare wrist would be dead by the end of the week if the grey got in. Now he had seen what one drop did to leather, and he understood why the hoods covered the neck.
+A conscript from the fourth stretch sat on the steps of the infirmary with his hand in a basin. The sergeant stood over him and held up a leather glove. A brass button closed it at the wrist, and a second strip of metal-lined cloth was meant to cover the gap. The strip had come undone. Inside the cuff, at the seam, was one dark drop.
 
-Deep in the tunnel on the third night, after the glove, with the lamp shut and the rope pulled tight behind him, his reading went blank for one heartbeat. It was not fear and not pain. The channel in his head where he kept the shape of the place simply stopped, as if someone had looked away from him and the dark had forgotten where he was. He put one hand flat on the wall and counted the beat out, and the shape came back with the wall's warmth in it.
+"Husk blood," the sergeant said. "One drop. He did not feel it."
 
-He did not tell Vesk about the heartbeat. He wrote it on the back of a form as a question with no name: How long before it stays blank?
+The leather around the drop had turned grey and soft. The grey ran down the seam in a thin line, like frost growing on a window. The sergeant pressed it with a stick, and the glove crumbled.
 
-On the way out he saw two more prints in the grey near the turn. They were bare feet, small and narrow, with the toes pressed together as if the person who made them had been cold. They led toward the mouth and did not lead back. He put his own boot beside one and counted four finger widths of difference, then covered both prints with a scrape of mud from the wall because a person who found them would start asking who in the camp went barefoot in the dark.
+"If that had touched his skin," the sergeant told the conscript, "you would be a lump of dust by Friday. That is why you tape the cuff and fold the second layer. Dead grey is the same as live grey for four hours. Do it every time."
 
-The tunnel floor was warm near the mouth, warmer than the snow above it. The warmth came from below rather than from the camp. Eden knelt and put his glove on the stone. The heat went through the leather into his hand and stayed there. A Mawgate was warm before it opened; Vesk had said that at the fire. Eden had written it down on the same sheet as the oil line.
+The conscript nodded. His face was white.
 
-He crawled back out at the first sound of the watch changing above him and came up through the stores with grey on his boots. Vesk was waiting where the stair met the stores with the rope loose in his hand. "You were down there too long."
+Eden watched from across the yard, and he understood the new rules. Since the Choir went down, every guard wore sealed ward-plate gloves and a hood that closed under the chin. No blood could touch skin. He had seen the gear many times. Today he saw what it was for.
+
+* * *
+
+On the second night he found the mouth.
+
+It lay under the stores, almost beneath the oil line he had laid. A crack ran across the floor of the tunnel. Water went into it and did not come out anywhere that he could see. Eden put his hand in the water and felt it pull toward the crack with no slope to explain it. Around the rim of the crack ran a line of grey dust, fine as flour, packed into the stone joints. It was the same dust he had seen in the exchange and in the construct.
+
+The floor was warm. Warmer than the snow above it, and the warmth came from below, not from the camp. He put his bare palm on the stone and it stayed warm. Vesk had said on the stair that a Mawgate was warm before it opened. Eden wrote that on the back of a Form 13-B, with the measurements, in pencil.
+
+Deep in the tunnel, with the lamp shut, his reading went blank for one heartbeat.
+
+It was not fear and not pain. The part of him that kept the shape of the place simply stopped, as if someone had looked away from him and the dark had forgotten where he was. He put one hand flat on the wall and counted. The shape came back with the warmth of the wall in it.
+
+He did not pull the rope. He wrote one line on the form: *How long before it stays blank?*
+
+Near the prints lay a scrap of grey wool the size of a hand. It was stitched to a strip of something else with a grey thread that was not thread. It was stiff, like dried grass, and a little warm. Eden did not touch it. He did not know what it was, and he wrote that down plainly, with the place and the pace count, and left it where it lay.
+
+On the way out he found two prints in the grey mud at the turn. They were bare feet, narrow and small, with the toes pressed together. They led toward the mouth. There were none leading back. Eden set his boot beside one and counted four fingers of difference in length. He covered both prints with mud from the wall. Someone who found them would ask who in the camp walked barefoot in the dark.
+
+* * *
+
+Vesk was waiting at the stairs with the rope loose in his hand. "You were down too long."
 
 "I measured twice."
 
-"Twice is once too many." Vesk took the rope and coiled it over his arm. "What did you find?"
+"Twice is once too many." Vesk coiled the rope over his arm. "What did you find?"
 
-"A mouth under the stores. Water going in. Grey in the joints." Eden wiped his boot on the step. "Feet in the mud. Small ones."
+"A crack under the stores. Water goes in. Grey in the stone. A warm floor." Eden wiped his boot on the step. "And small feet in the mud. Barefoot."
 
-Vesk's eyes went to the dark behind the stores and stayed there. "Children," he said. "The dye-works had them. I told you the cell was not empty."
+Vesk's eyes went to the dark behind the stores and stayed there. "The Hushborn leave no prints. People do. Someone walks down there without boots, and does not come back. The Ashen cell is not empty, Eden. I told you."
 
 "I know."
 
-"Do not go back down alone." Vesk said it flat, without any weight in it, which was how he said the things he meant most. "Three nights was enough."
+"Do not go back alone." Vesk said it flat, with no weight, which was how he said the things he meant most.
 
-"One more," Eden said. "I need the turn by the mouth, and I need to see the rim in daylight water."
+"One more night," Eden said. "I need the turn by the mouth in daylight water."
 
-The groundskeeper was in the yard with a bucket and a cloth, cleaning the lamp brackets along the wall. He hummed four notes up and down, wrong at the top, and he did not look at Eden's boots.
+"Then take the third night, and take no fourth."
 
-"Late night," the man said, in a kind voice.
+* * *
 
-"Lamps," Eden said, because the form in his coat said lamps and it was easier than another word.
+On the third night Eden carried two coils of lamp oil line down with him. He had brought a small can of oil in his pack, and a flint. The reason was the same as in the ditch: down here a flame was his only way to make shadows. One long fire would give him every stone's shadow at once.
 
-"Ah." The groundskeeper wrung out the cloth. "The cold gets into the brackets. I have told the sergeant three times."
+He laid the line from the crack back along the dry side of the tunnel, forty paces, and set a flat stone at each end so that he could find it again by touch. He did not light it. He only checked that the oil would run and not pool. At the low place where the roof came down to a table's height, he left a short length coiled in a dry dip, where the water could not reach.
 
-"He does not listen?"
+On the third night nothing pulled the rope. He came up with grey to the elbows and no new fact except that the line was down, and that the warm stone was a little warmer than the night before.
 
-"He listens. He writes it down. Then he forgets because he has a war to run." The man put the cloth over his shoulder and looked at the brackets with a face that had kindness in it and nothing else. "You should not be out here this early. The young ones never sleep enough."
+* * *
 
-"I sleep in the day."
+At dawn the groundskeeper was in the yard with a bucket and a cloth, cleaning the lamp brackets along the wall. He was a stooped man with kind eyes. He hummed four notes up and down, wrong at the top, and he did not look at Eden's boots.
 
-"Then you should sleep in a bed." He went on humming, wrong at the same note, and set a fresh cup of tea on the step where Eden would see it. "Two sugars. I remembered, although you never told me."
+"Late night," the man said gently.
 
-Eden took the cup because leaving it would be a thing the man would notice. The tea was too sweet, and he drank half of it standing in the yard. He cleaned the grey off his boots with a stick and watched the groundskeeper's back going up the path.
+"Lamps," Eden said. That was what the form in his coat said.
 
-At the mouth of the tunnel, under the stores and under the warm stone, there was a print in the grey mud that had not been there when he went down. It was a hobnailed boot, wide at the heel, with a row of nails along the sole. It pointed into the tunnel rather than out of it. The camp groundskeeper wore boots with nails like that. Eden had seen them on the step the week before, shiny and dry, with mud at the seam where the leather met the sole. He crouched and put his own glove beside the print. The hobnails were set in a half circle around the heel with one nail missing at the outside edge. The man who had made the print had walked through the warm mud from the camp side and had not come back up the same way. Eden followed the trail with his eyes until the dark took it. Then he covered the print with his boot and stood there with the cold coming through his coat until the watch bell rang above him.
+"Ah. The cold gets into the brackets. I told the sergeant three times."
+
+"Did he listen?"
+
+"He writes it down. Then he forgets, because he has a war to run." The man set a cup of tea on the step. "Two sugars. I remembered, though you never told me."
+
+Eden took the cup, because leaving it would be a thing the man noticed. The tea was too sweet. He drank half of it standing in the yard and watched the groundskeeper go up the path.
+
+Before that he went to his bunk and washed. A basin of warm water stood by his blanket. Nobody had said who left it. Beside it lay a folded cloth. When he looked up, Lysette was at the end of the hut with her book, not looking at him.
+
+"You came in late," she said.
+
+"Yes."
+
+"The grey is under your nails." She still did not turn. "I do not know what it is. I am not asking. I am telling you to wash it before the sergeant sees."
+
+"Thank you."
+
+"Do not say thank you. It makes me write a line." She left. He washed his hands until the water was grey.
+
+Then he went back to the stores, to the mouth of the tunnel, to check the last measurement in daylight.
+
+In the grey mud, near the crack, was a print that had not been there when he went down. It was a boot, wide at the heel, with a half circle of iron nails around the edge of the sole. One nail was missing on the outside. The print pointed into the tunnel, not out of it. The man who made it had gone down and had not come back up the same way.
+
+Eden had seen those nails on the step of the groundskeeper's hut, shiny and dry, with mud at the seam. He covered the print with his own boot and stood there in the cold until the watch bell rang above him.

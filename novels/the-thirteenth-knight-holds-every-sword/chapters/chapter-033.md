@@ -18,7 +18,7 @@ A clerk with cold hands had explained the bellwire in the morning. It was a wire
 
 Lance Nine was given the stretch nearest the inspection stair, which meant they would be seen. Okoru came along the line while they waited and checked their belts one by one. He stopped at Lysette and looked at her hands, which were bare because she had taken her gloves off to write.
 
-"Hollen," he said. "You are cold."
+"Lysette," he said. "You are cold."
 
 "No, sir."
 
@@ -27,6 +27,8 @@ Lance Nine was given the stretch nearest the inspection stair, which meant they 
 "I write better without them."
 
 "You will write nothing today if you cannot hold the pencil." Okoru moved on to Rowan, who was holding his spear at the wrong angle, and corrected it with the stick.
+
+Clara waited until he had gone. Then she took a pair of thin wool mittens out of her coat and pressed them into Lysette's hands without a word. Lysette looked at them, and at Clara, and put them on over her bare fingers. She did not say thank you. She wrote one short line in her book, and Eden guessed that it said thank you in a form she could bear.
 
 Eden looked at Lysette's hands once and then at the sky over the parapet. Her fingers were the colour of candle wax, and the knuckles stood out as white as the snow. She wrote anyway, in small stiff letters, and he thought that it must hurt to hold the pencil. He noted it as a fact about a hand, and noted that he had noted it twice. The sky was the colour of dishwater and the wind had not stopped since the fourth bell the day before. He did not say anything about her hands, because she had said she was not cold and he had no reason to disbelieve her. He noted that her pencil had slipped twice while she wrote, which was a thing he could count, and he put it in the box of facts.
 
@@ -52,7 +54,9 @@ Ysolde walked half a step behind him with a folder against her coat and a pen in
 
 "Yes, sir."
 
-The king moved along the stretch and came to Rowan, The party moved with the king in a small tight cluster, and the cluster stretched and bunched as the walk went on: the secretaries stopped to write, the painter stopped to draw, the servant with the rug stopped to find a place to put the rug down and failed. Only Ysolde kept pace, one step behind his shoulder, her eyes going from the king to the parapet to the soldiers and back, counting something Eden could not see. whose gold light had made the day before's work easier and whose face was open enough that people told him things. "You are the one with the hands," the king said.
+The king moved along the stretch with his party in a small tight cluster. The secretaries stopped to write, the painter stopped to draw, and the servant with the rug stopped to find a place to put it and failed. Only Ysolde kept pace, one step behind his shoulder, her eyes going from the king to the parapet to the soldiers and back. She was counting something that Eden could not see.
+
+The king came to Rowan, whose gold light had made the day before easier and whose face was open enough that people told him things. "You are the one with the hands," the king said.
 
 "Yes, sir."
 
@@ -64,13 +68,11 @@ The king moved along the stretch and came to Rowan, The party moved with the kin
 
 Eden kept his eyes down. The king passed him without stopping, which was the safest thing that could happen, and he was beginning to let his breath out when Ysolde came the other way along the line with her folder and stopped beside him.
 
-"Wren," she said, in the flat voice she used for forms. "The grey office wants the silence logged as thirty-one touches, not twenty-six. I told them the number was wrong."
+"Wren," she said, in the flat voice she used for forms. "The grey office wants your report on the silence by the end of the week."
 
 "Yes, ma'am."
 
-"I wanted you to know I told them." She wrote something in her folder and went on.
-
-The two people behind the king had stopped in the lee of the stair and spoken quietly enough that a soldier would have ignored them. Eden, who had been listening to the king's boots, heard one sentence because the wind changed while it was being said.
+She wrote something in her folder and went on. At the lee of the stair she stopped beside the king and spoke quietly enough that a soldier would have ignored it. Eden had been listening to the king's boots, and the wind changed while she spoke, so he heard one sentence.
 
 "My lord, the second envelope is still in the safe," Ysolde said. "You asked me at the palace not to bring it."
 
@@ -100,7 +102,7 @@ Lysette was waiting at the bottom of the stair when the inspection ended, with h
 
 "Did you write that I was cold?"
 
-"No." She looked at the wall over his shoulder. "I wrote that it was cold." She looked at his neck, where the scarf had been folded twice, and put the pencil in her book without adding anything to the page. "That is not the same as naming a person." She pulled her coat straight and stood a moment longer than she needed to, as if waiting for him to say something. He did not know what to say, so he said, "Thank you," and watched her decide whether that was acceptable.
+"No." She looked at the wall over his shoulder. "I wrote that the weather was cold." She put the pencil in her book without adding anything to the page. She pulled her coat straight and stood a moment longer than she needed to, as if waiting for him to say something. He did not know what to say, so he said, "Thank you," and watched her decide whether that was acceptable.
 
 "It is acceptable," she said. "Do not do it again."
 
@@ -110,4 +112,4 @@ On the morning the king left, the cars waited at the gate with their engines run
 
 "Cadet Wren," the king said, in a voice low enough for the three nearest soldiers to hear and high enough for the wind to carry it along the wall. "Your mother would have hated the cold."
 
-Then he got into the car, and the cars went down the hill one after another, and the wall had no sound in it except the bellwire answering itself in the distance, three strikes and a pause, over and over, until a clerk went out and cut the wire with a pair of pliers.
+Then he got into the car, and the cars went down the hill one after another, and the wall had no sound in it except the bellwire answering itself in the distance, three strikes and a pause, over and over, until a clerk went out and stopped the hammer with his hand.

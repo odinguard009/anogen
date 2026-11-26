@@ -14,21 +14,21 @@ The second safehouse was a narrow house in a row of narrow houses, and every win
 
 "What do they expect?"
 
-"The Vigil. They have kept the lamps low and the back door barred." Vesk's yellow eyes went to the boarded windows. "They want to see the black armor. That means they will look at the door and not at the shadows."
+"The Vigil. They have kept the lamps low and the back door barred." Vesk's yellow eyes went to the boarded windows. "They want to see the black armor. So they will watch the door and not the shadows."
 
-"Then they will hear an army and see one man." He did not say it as a boast. He said it the way a carpenter says that a nail will go in on the second blow.
+"Then they will hear an army and see one man." Eden did not say it as a boast. He said it the way a carpenter says that a nail will go in on the second blow.
+
+The army was Gorrath, the third member of the Vigil. He was a huge man in the same black plate, and his ability could fill a street with his voice. He was waiting behind the chimneys with his tower shield, ready to begin when Eden gave the signal.
 
 "Yes." Vesk stepped back into the gap between the chimneys. "I come in after the voices have done their work. I do not like company."
 
-Eden looked at the boarded windows. He had been told to raid this house in full Umra, and he had no intention of going in wearing only a coat.
+Eden looked at the boarded windows. Ysolde had ordered a raid on this house in full armor, and he had no intention of going in wearing only a coat.
 
 He stepped into the strip of light under a street lamp where his shadow fell long across the stones. The cold came up through his boots first, and the plates rose from the shadow from the feet upward. Sabatons closed with two soft clicks. Greaves, knee wings, thigh plates, the faulds at the waist, each one cold for a heartbeat and then warm. The breastplate sealed with a sound like a vault door shutting, and the air inside it was new and clean. Pauldrons, vambraces, and the gauntlets last, with the fingers closing one by one. The helm came up smooth and black with one white slit, and the street dropped away except for his own breath.
 
 **[Umra]** had no weight and made no sound. The boarded windows looked flatter now, and the gaps between the boards had edges a man could cut. The boy on the step stopped ringing his bell and stood with his mouth open, listening to a street that had suddenly become crowded with voices and still showed nobody in it. Vesk did not look at the armor. He had seen it before and had never once said what he thought of it. Eden took one step, and the frost began at his fingertips and sat there, which was the price of wearing it.
 
-"Thirteen shadows in the street," he said. "Some of them are only from the lamps, but a shadow is a shadow."
-
-"Tell him."
+"Count the shadows in the street," Eden said. "Thirteen, from the lamps and the cart and the steps. Tell Gorrath to use all of them."
 
 Vesk put two fingers in his mouth and whistled once, low.
 
@@ -36,7 +36,7 @@ Vesk put two fingers in his mouth and whistled once, low.
 
 Gorrath answered from thirteen places at once.
 
-**[Knock and Answer]** was not a trick of the voice. Gorrath's big frame stood somewhere in the dark behind the chimneys with his tower shield across his chest, and his voice came out of every shadow the lamps made: from under the cart, from the gap between the steps, from the boarded windows, from the strip under the door. Thirteen voices, all his, each a little different, one tired, one angry, one very calm, answering a roll call nobody had called yet.
+His ability was **[Knock and Answer]**. He stood behind the chimneys with his tower shield across his chest, and his voice came out of every shadow the lamps made. It came from under the cart, from the gap between the steps, from the boarded windows, and from the strip under the door. There were thirteen voices, and all of them were his. One was tired, one was angry, and one was very calm. They answered a roll call that no one had called.
 
 "Here," said the voice under the cart.
 
@@ -44,7 +44,7 @@ Gorrath answered from thirteen places at once.
 
 "Here," said the voice behind the boy on the step.
 
-The boy rang his bell. He rang it twice more, and each time a different shadow answered, and by the fourth ring the men at the back of the house had stopped moving because thirteen voices had come out of a street that had been empty a minute ago.
+The boy rang his bell. He rang it twice more, and each time a different shadow answered. By the fourth ring the men at the back of the house had stopped moving. Thirteen voices had come out of a street that had been empty a minute ago.
 
 "How many?" one of them shouted from inside.
 
@@ -56,7 +56,7 @@ The boy rang his bell. He rang it twice more, and each time a different shadow a
 
 "Then we are done," said a voice from the back room, and something heavy hit the floor.
 
-Eden walked to the door and knocked once. The boy with the bell ran. The door opened from the inside. Someone in the house had decided that thirteen men at the door could not be argued with. Eden went in with **[Exa]** at his hip and the helm's white slit fixed on the nearest face.
+Eden walked to the door and knocked once. The boy with the bell ran. The door opened from the inside, because someone in the house had decided that thirteen men could not be argued with. Eden went in with **[Exa]** at his hip and the helm's white slit fixed on the nearest face.
 
 They laid down their blades in the first room. Nine of them went on their knees in a line along the wall while the voices outside kept answering a roll call that had stopped being a question.
 
@@ -68,7 +68,7 @@ They laid down their blades in the first room. Nine of them went on their knees 
 
 "Then keep watching it from the floor."
 
-The man shut his mouth. The man beside him, a thick-necked fellow with a scar through one eyebrow, looked at Eden's feet and then, very slowly, at the floor where his own shadow lay. He seemed to be checking that it was still his. Eden had seen that look on men before. They never forgot it, and they never explained it to anyone. Eden did not strike anyone. He had come for paper, not bodies, and the house had understood that before the door was fully open.
+The man shut his mouth. The man beside him, a thick-necked fellow with a scar through one eyebrow, looked at the floor where his own shadow lay. He seemed to be checking that it was still his. Eden did not strike anyone. He had come for paper, not bodies, and the house had understood that before the door was fully open.
 
 Vesk came in behind him in his own grey coat and searched the room with the calm of a man who had done it a hundred times. "No grey here," he said. "These are ordinary hired men. They were paid to watch a house, not to die in it."
 
@@ -78,11 +78,11 @@ Vesk came in behind him in his own grey coat and searched the room with the calm
 
 Eden went up with the armor's cold in his fingers. The second room had a table, a lamp turned low, and a folded sheet of paper held flat by a brass weight in the shape of a crown. A chair had been pushed back from the table in a hurry. A cup on the floor had tipped without spilling much. Whoever had been reading the plan had left before the bell rang, not after. He lifted the weight and opened the sheet.
 
-It was a list of names with a time written against each one. Rowan Tallis was on the first line, and Seraphine Aurenmark on the second, both marked GUESTS TO COLLECT. Under them, in smaller writing, were four more names Eden did not know, and a line that said the collection would happen at the eleventh bell on Friday the eleventh of December.
+It was a list of names with a time written against each one. Rowan was on the first line, and Seraphine on the second, both marked GUESTS TO COLLECT. Under them, in smaller writing, were four more names Eden did not know, and a line that said the collection would happen at the eleventh bell on Friday the eleventh.
 
-Friday. The Ball was on Saturday. He stood for a moment with the lamp throwing his helm's shadow across the table, and for the first time that night he felt the weight of what the plan was for. Four hundred people. A hall of glass. A hundred lanterns. And two names at the top of a paper, written by someone who had been very careful, and one day wrong.
+Friday. But the Ball was on the next night, the twelfth. He stood with the lamp throwing his helm's shadow across the table. Four hundred people, a hall of glass and a hundred lanterns, and two names at the top of a paper, with a date that was one day wrong.
 
-He read the line twice, because a mistake of one day was either carelessness or a deliberate lie, and both were useful. The wrong date had been written in the same hand as the names, and the ink of the date was newer than the ink of the list, so someone had added it after the plan was made. He folded the sheet the way Ysolde folded paper and put it inside the breastplate, where the plate pressed it flat against his coat. The paper was cold from that room and stayed cold against his ribs.
+He read the line twice. A mistake of one day was either carelessness or a lie meant to be found, and both were useful. The date was in the same hand as the names, but the ink was newer, so someone had changed it after the plan was made. He folded the sheet the way Ysolde folded paper and put it inside the breastplate, where the plate pressed it flat against his coat. The paper was cold from that room and stayed cold against his ribs.
 
 Below him, Gorrath's voices were still answering. One of them had begun counting the men in the room, which was not part of the plan, and Gorrath had stopped being careful about the number. "Nine," said the voice under the stairs. "Ten. Eleven. There are eleven of you now. I counted nine."
 
@@ -116,7 +116,7 @@ Vesk stood a step away and watched him. "Something in the glove?"
 
 "I do not know." Eden turned his hand once so the light left the stamp. "It was under the palm."
 
-"I would not wear it if it worries you." Vesk's lamp-wick eyes stayed on the glove. "My mother used to say that a thing which appears on its own has either been left for you or taken from someone." He shrugged one shoulder. "She also said she would ring me from the grave, so she was not always reliable."
+"I would not wear it if it worries you." Vesk's lamp-wick eyes stayed on the glove. "My mother used to say that a thing which appears on its own has either been left for you or taken from someone." He shrugged one shoulder.
 
 "I am not worried." He put his thumb on the stamp and held it there for the length of two breaths. Then he closed the gauntlet back onto his hand and laced it, one pull for each hole, and did not look at the feather again.
 
@@ -126,8 +126,10 @@ Vesk took the paper and gave it to Eden without looking at it. "She knows I cann
 
 "Then read it for me," Eden said.
 
-"I already did, on the way here." Vesk stepped back. "I will wait at the far corner." Ysolde's hand covered one side of the sheet.
+"I already did, on the way here." Vesk stepped back. "I will wait at the far corner."
 
-The Justiciar Seal will double its guard at the Ball. You are not to attend. Form 13-B, before the first bell.
+Ysolde's small hand covered one side of the sheet. The Justiciar Seal will double its guard at the Ball. You are not to attend. Form 13-B, before the first bell.
 
-Eden folded the paper again. Behind him the boarded house stood quiet with its door open and its nine hired men still kneeling, and in two days the hall would be full of lanterns and the crown weight would be in his pocket.
+The Justiciar Seal was the law's own guard, the force that hunted the Thirteenth Vigil. If it stood at every door, the Ball would be safe from the Embers. It also meant that if Eden went, he could be caught. He read the order again. It did not say which reason Ysolde meant.
+
+Eden folded the paper again. Behind him the boarded house stood quiet with its door open and its nine hired men still kneeling, and in three days the hall would be full of lanterns, and the crown weight would still be in his pocket.

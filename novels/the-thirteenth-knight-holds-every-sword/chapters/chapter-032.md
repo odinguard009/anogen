@@ -20,29 +20,21 @@ Felix looked up from his bow. "What if I need to say something that is not one o
 
 Lysette had her book out and was copying the signs on the back of a warrant with her pencil. "Can I write on my palm?"
 
-"If your palm is where everyone can see it." Okoru turned the stick over. "No spoken spells. No calling to each other. No shouting when a Husk is on the parapet. The Choir hears voices, and it turns toward them."
+"If your palm is where everyone can see it." Okoru turned the stick over. "No spoken spells. No calling to each other. No shouting when a Husk is on the parapet. A Choir is a big Hushborn, larger than a Husk. It hears voices, and it turns toward them. When it comes near the wall, it makes a silence that swallows all sound, and anyone who speaks into that silence brings it closer."
 
 "How long?" Rowan asked.
 
 "Until it stops. It has stopped before."
 
-"Can my light speak?" Rowan asked. Okoru looked at him. "It makes shadow. Does that count as words?"
+"Does my light count?" Rowan asked. "It is not a voice."
 
-"It counts as a light." Okoru tapped his own chest with the stick. "Use it, but do not make a show of it. I can see it from the other end. So can anything under the wall."
+"It is a light." Okoru tapped his own chest with the stick. "Use it, but do not make a show of it. I can see it from the other end, and so can anything under the wall."
 
-"Pointing is a full language," Felix said, in a voice that tried the words out.
-
-"It is the only language left after the bell," Okoru said. "You can use it with your hands full."
-
-Okoru turned away, then turned back. "One more thing. Hollen reads hands. If you do not know what to do, look at her."
+Okoru turned away, then turned back. "One more thing. Lysette reads hands well. If you do not know what to do, look at her."
 
 Lysette's pencil stopped. "Sir?"
 
-"She reads hands better than you speak them." Okoru walked toward the stair. "That is not praise. It is a tool."
-
-"How long before that?"
-
-"Long enough to learn." Okoru looked at each of them in turn. "You have fought with your hands for five years. Today you will do it again with your mouths shut."
+"You read hands better than most of them speak." Okoru walked toward the stair. "That is not praise. It is a tool." He stopped and looked at each of them in turn. "You have fought with your hands for five years. Today you will do it again with your mouths shut."
 
 The Choir's silence came at the fourth bell and arrived like a lid closing over the camp. One moment the wall had the ordinary noises of men stamping boots and the sergeant shouting names. The next there were no voices anywhere on the battlements. The wind itself seemed to have gone quiet behind the stone.
 
@@ -62,7 +54,7 @@ Okoru was already over the parapet at the far end with his one arm out. **[Tavu]
 
 Eden signed down to Rowan, who brought the spear head down into the bound Husk's neck with his shoulder behind it. The grey body went still.
 
-A fourth Husk came over the merlon three paces from Eden, close enough that he could smell the cold dust on it. He put the shield up and took its weight. Something struck the Husk from the side at the same moment. It was a long thin blade from the shadow of the stair door, almost invisible in the dark, aimed at the joint under the arm. Mirelle did not speak. She struck and was gone back into the shadow before the Husk had finished falling. The only sign she had been there was a cut in the grey that did not bleed.
+A fourth Husk came over the merlon three paces from Eden, close enough that he could smell the cold dust on it. He put the shield up and took its weight. Something struck the Husk from the side at the same moment. It was a long thin blade from the shadow of the stair door, almost invisible in the dark, aimed at the joint under the arm. Mirelle did not speak. She was the quiet one of the Vigil, the one in the plain black mask, and she had come up the Wall in disguise to stand near Eden unseen. She struck and was gone back into the shadow before the Husk had finished falling. The only sign she had been there was a cut in the grey that did not bleed.
 
 Eden signed hold to Lysette and swept his open hand left. She read it perfectly and changed direction without looking at his face. Rowan came up behind her with the spear and put two Husks down in the time it took Clara to reach the stair. Felix did not shoot. He held an arrow on the string for four breaths and then let it down. Rowan's gold light had filled the space and there was no clean line through it. Eden signed to him: wait. Felix nodded once and kept the bow steady.
 

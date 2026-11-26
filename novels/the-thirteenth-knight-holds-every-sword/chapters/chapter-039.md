@@ -1,137 +1,157 @@
 # Chapter 39: The First Oil Line
 
-Rowan asked Eden on a Sunday morning, while they were carrying a crate of lamp oil up from the stores. The crate had six glass bottles in it, each in a wooden sleeve, and the oil had leaked a little onto the slats so that the whole stair smelled of lamp smoke. Sunday was the one day on the Wall when nobody drilled before the second bell, and the camp had the slow, unfinished feel of a place waiting for its own noise to come back. He asked it the way he asked most things, with no warning and in a voice that carried to the next stretch of wall.
+On Sunday morning Rowan and Eden carried a crate of lamp oil up from the stores. Sunday was the one day on the Wall with no drill before the second bell. The crate held six glass bottles in wooden sleeves, and a little oil had leaked onto the stair, so the whole stairway smelled of lamp smoke.
+
+Rowan asked his question halfway up, with no warning, in a voice that carried to the next stretch of wall.
 
 "Why does Lysette hate me?"
 
 Eden kept hold of his end of the crate. "She does not."
 
-"She writes me up."
+"She writes me up all the time."
 
 "She writes everyone up."
 
-"She writes me up more." Rowan set his end down on the stair because he needed both hands to explain, and the crate tilted and one of the bottles knocked against its wooden sleeve. He righted it with a hand before Eden could. "I have counted. It is eleven to four. I asked her to dance in September and she said no, and then I forgot that I had asked and asked again in front of Brandmeier, and now she will not look at me in the hall. What did I do?"
+"She writes me up more." Rowan put his end down, because he needed both hands to explain. "I counted. Eleven times for me. Four times for you. Three for Felix. What did I do?"
 
-"You forgot twice."
-
-"Yes." Rowan waited. "That is bad?"
-
-"No."
+"Nothing."
 
 "Then why?"
 
-Eden thought about the answer for three steps of the stair. The true answer had four names in it and a year, and none of them belonged to him to say. The sideways answer was smaller and it was true. "She does not hate you," he said. "She is angry about something that happened before you asked."
+Eden thought about it for three steps of the stair. The true answer was about her brother, and it was not his to give. He gave a smaller one that was also true. "She does not hate you. She is angry about something that happened before you met her."
 
-"Before September?"
+"What happened?"
 
-"Yes."
+"I cannot say."
 
-"Then why does she look at me when she is angry?"
+"Then I do not understand," Rowan said. He picked up the crate again and carried it the rest of the way in silence. That was so unusual that Felix came out of the hut to see if he was ill.
 
-"That is the part I cannot answer."
+Felix put a hand on Rowan's forehead, found it cool, and went back in with a look at Eden that asked what had been said. Eden set the crate by the stores door and wiped his glove on a rag. The sweet smell of oil stayed on his fingers all morning.
 
-Rowan took the crate up again and carried it the rest of the way without talking, which was unusual enough that Felix came out of the hut to see if he was ill.
+Clara understood sooner. She sat on the wall with a needle and thread, mending a cuff, and she did not look up when Rowan told her what Eden had said.
 
-Felix put a hand flat against Rowan's forehead, found it cool, and went back inside with a look at Eden that asked what had been said. Eden set the crate by the stores door and wiped the oil off his glove with a rag. The smell stayed on his fingers for the rest of the morning, sweet and thin, like a lamp that had burned a long time in an empty room.
+"He means her brother," she said.
 
-Clara understood it sooner. She was sitting on the wall with a spool of thread and a needle, mending a cuff by the light of a lamp that had been turned low, and she did not look up when Rowan told her what Eden had said.
+"What brother?"
 
-"She liked you first," Clara said.
+"Lysette told us at the fire. Her brother was sent away from court, and then he was gone. She has not had anyone to be angry at." Clara pulled the thread through the cloth. "So she is angry at small things. She writes names in her book, because a book has rules and the rules are fair. She cannot be angry at the people who took him. She can be angry at a boy who is late for drill."
 
-Rowan dropped the lamp bracket he was holding. "What?"
+"That is not fair to me."
 
-"You asked her in September because you thought she would say yes. She had wanted you to ask in the summer." Clara pulled the thread through the cuff. "Then you asked her again in front of the whole hall, and she had to stand there while everyone looked at her."
+"No. It is not fair to you." Clara tied a knot and bit the thread. "She knows it. That is why she writes you up in small letters."
 
-"But I told her I was sorry."
+Rowan sat down on the stone. For once he did not say anything quickly. "I thought she did not like me."
 
-"You told her the next day, in front of six people, while you were eating." Clara tied a knot and bit the thread off. "That is not the same as being sorry."
+"She likes you. She likes all of us. And she watches you more than anyone else, which is why she notices when you are late. She does not know where to put it." Clara put the needle in the spool. "You can help. Do not argue when she writes you up. Just say, 'Yes, I was late,' and go on. It gives her one thing that is easy."
 
-Rowan stood with his hands on his hips and looked at the wall. "How long have you known this?"
+"That is a lot to ask of me."
 
-"Since September."
+"Yes. You are good at it." She said it plainly, and Rowan looked up at her. Something changed in his face. It was not a joke. He moved along the stone until his shoulder was against hers, and she let him.
 
-"Then why did you not tell me?"
-
-"Because you had to work it out yourself." Clara put the cuff aside. "I did not want to be the person who told you. She would never forgive me."
-
-Rowan took three steps along the wall and came back. He asked her whether she was certain, and she said she was, and he asked her whether Lysette had ever said so, and she said no, and he stood with his mouth open while he put those two answers together. A soldier passing with a bucket slowed down to listen and then thought better of it and went on.
-
-Rowan sat down on the stone beside her with a face that had gone quiet in a way Eden had not seen on him before. "I am a fool," he said.
-
-"Yes."
-
-"Thank you for saying it plainly."
-
-"I said it because you are my friend." Clara put the needle in the spool. "Do not tell her I told you."
-
-"I will not." Rowan stood up and picked the bracket off the stone. "I will tell her myself, but not today. I need to learn how to say it without six people listening."
-
-"Good."
-
-Eden stood a little way down the wall with the empty oil crate at his feet and did not look at either of them. He had given Rowan a sideways truth and Clara had given him the whole one, and neither of them had asked him how he knew what he knew. That was a thing people did when they trusted you, and he put it in the box of facts without opening it.
+Eden stood a little way down the wall and did not look at them. He had given Rowan a half-answer, and Clara had given him the whole one. Neither had asked how he knew. That was what people did when they trusted you, and he put it in the box of facts without opening it.
 
 * * *
 
-Lysette was on the inner wall that afternoon with her book on a crate and a pencil that kept catching in the wind. She watched Rowan from under her lashes twice, and both times he looked away before she did, which would have made her write a line if she had known he was counting. He was not counting. He was trying to work out how to say sorry without doing it in front of six people.
+Lysette was on the inner wall that afternoon with her book on a crate and a pencil that kept catching in the wind. She wrote down the lamp count for the shift. Rowan walked up to her with his hands at his sides, which looked wrong on him.
 
-Okoru came up the wall in the afternoon with his stick under his arm and found them mending the lamp brackets. He had been quieter than usual since the Choir went down into the cistern, and his one arm was out of the sleeve rather than behind his back, which meant he had something to show.
+"You wrote me up for the late bell yesterday," he said.
 
-"Sit," he said. They sat, even Rowan, who had been standing because he was still thinking about Lysette.
+Lysette did not look up. "Yes. You were four minutes late."
 
-"When I was young," Okoru said, "I was not one arm. I was two, and I thought that meant I could hold anything." He looked at the parapet as he spoke, the way a man reads a line he has walked many times. "There was a cistern on a Wall not like this one, but near enough. The Choir took it in a storm. It sang for six hours and the men on the battlement could not hear their own orders."
+"I was. Yes. I was late." He stopped, as if he had not planned the next part. "That is all. I wanted to say it."
 
-"You were there?" Felix asked.
+She looked up then. Her pencil stayed where it was. "You are not going to argue?"
 
-Felix put his lamp down. He had been caught by the word "before", which was the one Okoru never used about himself unless the story was true. Clara stopped threading her needle. Even Rowan was quiet.
+"No."
 
-"I was there." Okoru turned his stick over. "I had a rope. I tied one end to myself and the other to a bracket like this one, and I went down. I held the water still with threads from my hands while the men above drained the tank." He stopped and put the stick across his knees. "Every bell on that Wall rang by itself the whole time. No hand on any of them. I remember that more clearly than the water."
+"You always argue."
 
-Rowan's mouth was open. "How did you hold a whole cistern?"
+"I am trying something." Rowan looked over at Clara, who was far down the wall and pretending to check a lamp. "It is hard."
 
-"I did not. I held one part of it, and the rest was doing what water does." Okoru looked at him. "That is the lesson. A man holds one part. The world does the rest."
+Lysette's mouth twitched. It was the first time that week Eden had seen her face do anything on its own. She wrote one line and showed it to him: *R. Tallis, late, agrees.* Rowan read it with great care. "That is the nicest thing you have ever written about me."
 
-"Did the bells stop?"
+"It is a fact," she said, and she turned the page.
 
-"When the song stopped." Okoru stood up and brushed the snow off his one sleeve. "They always stop. The question is what you do in the six hours before they do."
+Then she held out a paper to Eden. It was the watch roster for the week, with his name in the third column. She did not look at him while she held it. He took it by the corner so that their fingers would not touch. She noticed that, and her eyes dropped to the page. Neither of them said what they had both seen.
 
-Eden watched his one arm as he walked away, and the empty sleeve at the shoulder, and he did not connect the story to the man in front of him because it was a story about someone young who had been different. He wrote one line in his head and left it there: one arm, one knot, six hours. Felix watched him watching Okoru and said, "You are doing the thing where you remember something and do not tell anyone."
+* * *
+
+In the afternoon Okoru came up the wall with his stick under his arm. He found Lance Nine mending lamp brackets and sat down on a crate without being asked. His empty sleeve was pinned at the shoulder, as always. Today he had something to say, and they could tell, because he held his stick in his lap instead of leaning on it.
+
+"I will tell you a story about this Wall," he said. "It is true. Sit."
+
+They sat, even Rowan, who had been looking for Lysette across the yard.
+
+"Forty years ago a man stood where you sit. He had one arm, as I do. A storm came, and the Hushborn took the big cistern, the tank that holds the camp's water. A creature in the water began to sing. Every bell on the Wall rang by itself, with no hand on any rope, and the men on the battlement could not hear their orders."
+
+"What did the man do?" Clara asked.
+
+"He went down into the tank on a rope. He had threads, thin lines that came out of his one hand, and he used them to hold the water still while the soldiers above drained it. He held it for six hours." Okoru turned his stick over. "Then the song stopped, and the bells stopped, and he came up. He could not lift the arm for a month."
+
+"How did he hold a whole tank?" Rowan asked.
+
+"He did not. He held one part, and the rest was only water doing what water does." Okoru looked at him. "That is the lesson. A man holds one part. The world does the rest. If you try to hold all of it, you drown."
+
+He stood and brushed the snow off his sleeve.
+
+Rowan raised his hand. "What were the threads for?"
+
+"To tie one thing to another," Okoru said. "That is all a thread does." He did not explain more, and nobody asked, because he had turned his face to the wind in the way he did when a story was over.
+
+Eden watched the empty sleeve as he went. A man with one arm and threads that held still water. He did not connect the story to the man in front of him, because the teacher had said it was a different man. He did note the facts: one arm, threads, six hours, the bells ringing alone. Felix leaned close.
+
+"You are doing the thing where you remember something and say nothing."
 
 "I am not."
 
 "You write it on your face."
 
-"Then it is lucky nobody can read it."
+"Then it is lucky nobody reads it." Felix grinned and let it go, which was a kindness.
 
-Felix grinned and let it go, which was a kindness. Okoru had left his stick leaning against the parapet, and Eden saw that it was cut from a straight pole with a notch near the top, the kind a man uses to measure a rope rather than to walk. He stood it upright against the stone so that it would not fall in the night.
+Okoru had left his stick leaning against the parapet. It was cut from a straight pole with a notch near the top, the kind a man uses to measure rope. Eden stood it upright against the stone so that it would not fall in the night.
 
-After the light went he went down under the camp with a coil of oil line and a lamp that he kept covered until he was below the huts. The line was for lamps, which was what he wrote on the stores form, and he laid it along the ditch where the wall threw a hard edge of shadow at night. He measured the distance in paces and set a marker at each corner with a stone from the ditch, and he did not use power anywhere, because an oil line was an oil line and the form said so.
+* * *
 
-The ditch was knee deep in old snow, and under the snow the ground rang hollow in two places when he put his heel down. He marked both places with a flat stone and did not step on them again. Once he stopped with the lamp shut and listened for a long minute. Far below the boot-prints there was a slow sound like a big pipe being filled, and then it stopped, and the ditch was only a ditch.
+After dark Eden went down into the ditch behind the camp with a coil of lamp oil line and a lamp he kept covered until he was below the huts. He had written "lamps" on the stores form in the box marked REASON, and that was true. The line would run along the ditch, where the wall threw its hardest shadow at night. If a fight came there, he could light it and see the whole length.
 
-He set the last marker under the shadow of a buttress where the ditch turned toward the gate, and he checked the line by pulling it once with his hand. It held. He wrote lamps on the stores form in the space marked REASON and put the form in the folder with a pencil mark across the corner so that a clerk would count it as finished.
+The reason was simple, and he did not put it on the form. His power came from shadows. In the open at night the Wall gave him plenty. But a long fight in a tunnel or a ditch had no light, and so no shadow he could use. A line of oil, lit from one end, would throw the shadow of every post and stone across the ground. It was a cheap way to make the dark work for him.
 
-When he came back up, Vesk was sitting on the step outside the stores with his coat pulled tight. He had come up from the lower city and there was grey dust on the hem of it.
+He measured the line in paces and set a flat stone at each corner. The ditch was knee deep in old snow. In two places the ground rang hollow when he put his heel down. He marked both with stones and did not step on them again.
+
+Once he stopped, shut the lamp, and listened. Far below the ditch there was a slow sound, like a big pipe being filled. Then it stopped, and the ditch was only a ditch.
+
+He finished at the buttress where the ditch turned toward the gate. He pulled the line once with his hand. It held. He put the form in its folder, with a pencil mark in the corner so that a clerk would count it as done.
+
+When he came up, Vesk was sitting on the step outside the stores with his coat pulled tight. There was grey dust on the hem of it.
 
 "You have been under the camp," Vesk said.
 
-"Lamps."
+"Laying oil. For lamps."
 
-"Yes. I can smell oil." Vesk's yellow eyes went to the ditch. "I have been under the Wall as well. Further than the maps show."
+"I know. I can smell it." Vesk's yellow eyes went to the ditch. "I went under the Wall tonight, further than the maps go. I want to tell you what I found."
 
-"How far?"
+"Tell me."
 
-"Too far." Vesk stood up and brushed the dust off his hem, and it did not all come off. "The Mawgate is closer than they say. It is under this camp, not past the far ditch. I smelled it in the water when I came through."
+"The Mawgate is closer than the maps say." Vesk stood and brushed the dust off his coat, and not all of it came off. "The maps put it past the far ditch, a long walk away. It is not. I smelled it in the water. It is under this camp. A Mawgate is warm before it opens, Eden. Put your hand on the ground. If it is warm, it is close."
 
-Eden looked at the dark line of the ditch where he had laid his oil. "How much closer?"
+Eden looked at the dark line of the ditch where he had laid his oil. The cold had come through his gloves without his noticing. He thought of the two hollow places under his heel. "How far under?"
 
-"Close enough that I would not put a lamp there if I were you."
+"Close enough that I would not put a lamp there if I were you." Vesk's voice was flat as always. "I have walked the low tunnels for eleven years. I never saw the water move the way it did tonight. It went one way, then back, and no current made it."
 
-"The oil line is under the camp, not under the Wall."
+Eden said nothing for a while.
 
-"It is under both when the ground is hollow." Vesk put one foot on the step and looked at the ditch. "I have walked the lower tunnels for eleven years and I have never seen water move the way it did tonight. It went in one direction and came back in another, and there was no current to make it." He touched the grey on his own hem with two fingers. "That is the smell of the nest, not of a Veil."
+"How can water tell you where a gate is?" Eden asked.
 
-"How far from the camp?"
+"A gate to the Hush breathes. It pulls a little, and then it pushes. The water near it does the same, slowly, like a sleeper's chest." Vesk held up one hand and opened and closed it. "In the low tunnels that is how we find them. We watch the water and not the walls."
 
-Eden looked at the ditch where he had laid the line. The cold had come through his gloves without his noticing, and the oil form in his coat had a crease in it from the folder.
+"What do I do?" Eden asked.
 
-"Under it," Vesk said. He went into his shadow without another word, and the shadow under the step was only a shadow when Eden looked down at it.
+"Nothing yet. Do not tell the Lance. They would look at the ground, and the thing below would feel it." Vesk lowered his voice. "Tell the grey office. Ysolde will want a form. She always does."
+
+"I will write it tomorrow."
+
+"Write it tonight. Tomorrow you will find a reason not to."
+
+Eden did not argue. It was true.
+
+"Under it," Vesk said. He stepped into his shadow without another word, and the dark under the step was only dark when Eden looked down.

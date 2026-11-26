@@ -1,54 +1,66 @@
 # Chapter 37: The Last Page
 
-The courier came from Ysolde at the second bell. He carried a flat envelope and a face that had been cold for the whole walk. Eden met him at the camp gate because the courier refused to come inside the wire, and the two of them stood with the snow coming between them while the man held the envelope out.
+The courier came from Ysolde at the second bell. He carried a flat envelope and a face that had been cold for the whole walk. He refused to come inside the wire, so Eden met him at the camp gate, and the two of them stood with the snow coming down between them.
 
-The courier's boots were wet to the shins and his cap had a line of frost along the brim. He did not say who had sent it. He only said that it had been handed to him at the second bell and that he had been told to wait for a signature.
-
-"She says you asked for the file and she has sent it," the courier said.
+"She says you asked for the file, and she has sent it," the courier said.
 
 "I did not ask."
 
-"You wrote it on the back of a 13-B. 'PR 110 file, request.' She does not read the boxes, but someone does." The courier shifted the envelope to his other hand. "She says to read it where nobody can see you."
-
-Eden took it. The envelope was thick enough to hold six sheets and had a paper clip inside that had left a mark in one corner.
-
-"Does she want an answer?" he asked.
-
-"She wants the file back." The courier put his cap on. "She also says you are to eat something, which is not part of the file."
+"You wrote it on the back of a Form 13-B. 'PR 110 file, request.' She does not read the boxes, but someone does." The courier held out the envelope. "She says to read it where nobody can see you. She also wants the file back, and she wants you to eat something."
 
 "Did she say what?"
 
-"She said a bun does not count as lunch, and she has the form that proves it." The courier recited it without expression, the way a clerk reads a number back. "She also said that if you lose this envelope she will not send another."
+"She said a bun does not count as lunch." He put his cap on. "If you lose this envelope, she will not send another."
 
-He went down the path and Eden stood at the gate with the envelope in his coat. He had written the request on the back of a form three nights ago without remembering doing it. That happened when he thought about a number for too long.
-
-He turned the envelope over. The clerk who sealed it had pressed the wax with a thumb instead of a ring, and the print of the thumb was still there, round and plain, with a small scar across the ball of it. Eden looked at the scar for a long time. Nothing in his memory fitted it, and he put the envelope in his coat the way a man puts away a coin he has not decided to spend.
+He went down the path. Eden stood at the gate with the envelope in his coat. He had written that request on a form three nights ago, without remembering that he had. That happened when he thought about a number for too long.
 
 * * *
 
-There was an empty store hut behind the wall with a bench and no window on the north side, and Eden went there at the third bell with the envelope under his coat. The hut had held lamp oil in the autumn and still smelled of it under the dust. One wall had a row of hooks with nothing on them, and a sack of old fuses lay in the corner with a mouse hole chewed through the cloth. Eden sat on the bench with his back to the door and opened the envelope with a pencil so that he would not tear the paper with his gloves. The file held five sheets. The last sheet was thinner than the others.
+The Lance ate breakfast in the long mess tent, at the table nearest the stove. Lysette sat at the end with her bowl untouched. She had not said a word since the veteran spat at the garrison door the night before. She did not write in her book. That was the strange part. Eden had never seen the book closed for a whole meal.
 
-The first sheet was a cover with PR 110 stamped in the corner and a seal mark in red. The second listed the house and the date and the word CONFIRMED printed beside a name Eden had seen in a locket a month ago. Corentin Hollen. Age sixteen. The third sheet was a sequence of times and places in a hand he knew because it was his own: the hour, the street, the room, the grey. The fourth sheet carried the confirm mark itself, a small circle with a line through it pressed into the paper with a pen that had run dry at the edge.
+Rowan tried first. He told a story about a goat that had eaten a sentry's boot. He told it well, with the voice of the sentry and the voice of the goat. Nobody laughed, and Rowan let the story run down like a clock. "I will stop," he said, and he looked at his spoon.
 
-The times on the third sheet were written in the order he used: the hour, the street, the room, the grey, the cut. Two of the lines had a smudge where a glove had brushed wet ink, and one had a number crossed out and written again smaller. He knew the pressure of that hand. He had made the corrections while standing somewhere cold, because the pen had gone dry on the first stroke of every line.
+Felix turned a page without reading it. Clara put a cup of tea beside Lysette's bowl and moved it a little closer, and Lysette did not look at it.
 
-Eden had never marked a file without seeing the grey first. That was the rule, and the rule was the reason the Vigil was still a story rather than an accusation. He put his thumb over the mark and held it there while he counted four breaths. Then he looked at the name again, and then at the place where the face should have been in his memory, and found nothing he could describe. A coat with a high collar. A stair with worn edges. A voice that had stopped in the middle of a word. None of it was a face. He had seen the face in the locket a month ago and he could not join that young man to the line in the file, though the name was the same name.
+When the bowls were empty, Clara stood and took Eden's sleeve between two fingers. She pulled him out of the tent, away from the others, and spoke in a low voice. "Someone has to sit with her watch this afternoon. She goes to the post alone, and she stays until dark."
 
-A deniable mistake. He wrote the words on the back of an old Form 13-B and looked at them for a while. They were not an explanation, and a person who wrote an explanation on a form was a person who wanted someone to read it. He put the paper back in the envelope.
+"Why me?"
 
-Then he took the file out again and read the name one more time, because a name printed on paper was a thing a person could hold still while they looked at it. Corentin Hollen. The letters did not move. The face did not come. He put the sheet down flat on the bench and pressed the palms of both hands on it for six breaths, and when he lifted them the paper had a crease across the word Confirm that had not been there before. He did not smooth the crease out, because a crease was a fact and the file was going back to Ysolde with whatever facts it had gathered.
+"Because she answers you. She did it in the chapel. She will not answer Rowan, and she will not answer me, because we are being kind, and she can tell." Clara looked at him steadily. "You are not being kind. You are only there. I think that is what she needs."
 
-Felix found him in the hut with the envelope shut on the bench beside him. He had come in without a sound, which was not difficult in a hut with a door that stuck, and he stood in the doorway with his book under his arm.
+"I have something to do this afternoon."
 
-"Are you ill?" he said.
+"Then do it after. Please, Eden."
+
+He did not know whether he had cut down this girl's brother. That was the problem. He had a form request in a courier's pocket, and it would tell him whether it was true, and he had asked for it three nights ago and was no longer sure he wanted the answer. He said, "I will come after the third bell."
+
+"Thank you." Clara let go of his sleeve. She did not smile. She went back into the tent and sat down beside Lysette without a word.
+
+* * *
+
+There was an empty store hut behind the wall, with a bench and no window on the north side. It had held lamp oil in the autumn and still smelled of it. Eden went there at the third bell and sat with his back to the door. He opened the envelope with a pencil so that he would not tear the paper with his gloves.
+
+The file held five sheets. The first was a cover, stamped PR 110. The second named the house and the date, and beside a name it said CONFIRMED. The name was Corentin, Lysette's brother. The sheet gave it in full: Corentin Hollen. Eden had seen that name's owner a month ago, in a locket, as a young man's face.
+
+The third sheet was a list of times and places: the hour, the street, the room, the grey, the cut. It was written in a hand that he knew, because the hand was his. Two lines had a smudge where a glove had brushed wet ink. One number had been crossed out and written again, smaller.
+
+The fourth sheet carried the confirm mark. It was a small circle with a line through it, pressed into the paper with a pen that had run dry at the edge. That was the Vigil's mark, and Eden made it himself, and he made it only after he had seen the grey. That was the rule. It was the reason the Vigil was still a story and not an accusation.
+
+So he had seen the grey on Corentin Hollen. The file said so. His own hand said so.
+
+Eden put his thumb over the mark and held it there while he counted four breaths. Then he tried to find the face. There was a coat with a high collar. There was a stair with worn edges. There was a voice that had stopped in the middle of a word. None of it was a face. He knew the young man in the locket, and he could not join that face to the name on the page, though the name was the same.
+
+He had his own notebook in his coat, the small one where he kept one line for every job. He found the page for that October. The line for PR 110 said only *Done. Confirmed.* There was no description of a face, and no room, and no weather. He had written the same two words for forty jobs. He turned back through them and found that every line looked the same, and he could not tell, from the lines alone, which one had been a mistake and which had not. A rule that worked every time left no marks to read.
+
+He wrote two words on the back of an old Form 13-B: *Did I err?* Then he looked at them for a while. A person who wrote a question on a form was a person who wanted someone to read it. He folded the paper small and put it in his coat, not in the envelope.
+
+He read the name once more, because a name on paper holds still while you look at it. Corentin Hollen. The letters did not move. The face did not come. He pressed both palms flat on the sheet for six breaths. When he lifted them, the paper had a crease across the word CONFIRMED that had not been there before. He did not smooth it out. A crease was a fact, and the file was going back with whatever facts it had gathered.
+
+Felix came in without a sound, which was not easy in a hut with a door that stuck. He stood in the doorway with his book under his arm. "Are you ill?"
 
 "No."
 
-"You have been sitting here for twenty minutes and you have not turned a page." Felix came in and sat on the other end of the bench. "Ysolde's courier came. He said you had a file."
-
-"Yes."
-
-"Is it about you?"
+"You have been sitting here for twenty minutes, and you have not turned a page." Felix sat at the other end of the bench. "The courier told me you had a file. Is it about you?"
 
 "Yes."
 
@@ -56,42 +68,58 @@ Felix said nothing for a while. He had a way of waiting that made other people h
 
 "No."
 
-"That is what I thought you would say." Felix put his book on his knee. "You fight like a man who needs help and you never ask for any. I have watched you for five years. In Year 2 you took a cut in the arms hall that should have put you in the infirmary and you walked back to the line with your glove over it. You never asked anyone to look at it."
+"I thought you would say that." Felix put his book on his knee. "You fight like a man who needs help, and you never ask for any. I have watched you for five years. In Year 2 you took a cut in the arms hall that should have put you in the infirmary. You walked back to the line with your glove over it."
 
 "It was a small cut."
 
-"It was on your hand. You use your hands." Felix turned a page and did not read it. "I am not angry. I am telling you what I see. I have made a list."
+"It was on your hand. You use your hands." Felix turned a page and did not read it. "I am not angry. I keep a list, because I am not good at guessing what people mean. You never ask for help. You never say where you go at night. And when someone helps you, you pay them back with food."
 
-"A list?"
+"That is three things."
 
-"Four things. You never ask. You never say where you go at night. You answer a question two beats late unless it is about danger. And when someone helps you, you pay them back with food." He put the book flat on his knees. "That is not an accusation. It is a list. I keep lists because I am not good at remembering what people mean."
+"The fourth is that you read a file twice and you think nobody sees." Felix picked at the corner of the page. "I will not ask what it says. But I want you to know I saw."
 
-"What do you mean by this one?"
+Eden looked at the closed envelope. "Thank you."
 
-"I mean that I am your friend and I would help if you asked, and I would stop asking you questions if you told me to." Felix picked at the corner of the page. "But you have not told me to, so I will keep asking."
+"That is not a thing you say to a list." Felix stood and tucked the book under his arm. "Come out when you are ready. Nobody is timing you. Lysette is, but that is different."
 
-Lysette came to the door of the hut with her book in one hand and her red band pulled straight. She had heard the last of it but not the beginning, which was how she chose to arrive at conversations.
+* * *
 
-"The Lance wants him back on the watch," she said to Felix. Then she looked at Eden. "I am not asking what is in the envelope."
+Lysette had not spoken a full sentence since the veteran spat at the garrison door. She stood at the watch post with her book closed, looking at the grey country. The red band was pinned straight, and the rest of her was not.
 
-"Good."
+"It is the third bell," Clara said quietly, when Eden came out of the hut. "She would not ask for you herself. Rowan wanted to ask, and I told him no."
 
-"I am asking you to come back." She put the book under her arm. "I do not like the way you look at people when you have been reading something."
+"Why?"
 
-Eden folded the envelope into his coat. He did not want to go back to the watch and he did not want to stay in the hut with Felix, and he did not say either thing. "Yes."
+"Because she is angry and she does not know at whom." Clara held out a cup wrapped in a cloth. "Drink this first. It is too sweet. I put honey in it."
 
-Clara was waiting outside with a cup of tea wrapped in a cloth, and she gave it to him without a question. It was too sweet because she had put honey in it, and he drank half of it standing in the snow while Felix and Lysette went ahead.
+He drank half of it, standing in the snow.
 
-"You went white in there," Clara said, low, when the others were out of hearing. "I felt it from the door. It was like a cold hand on my back."
+"You went white in there," she said, low. "I felt it from the door. It was like a cold hand on my back."
 
 "It was a letter."
 
 "I know it was a letter." She took the cup back and held it in both hands, and the steam went up between them. "Eden. If you need to be sad about something, you can do it near me. I am used to it. I grew up with someone who was never sad out loud."
 
-He did not ask who. He looked at the snow and said, "Thank you, Clara," and she nodded as if that were a whole conversation, which, between the two of them, it was.
+He did not ask who. He said, "Thank you, Clara," and she nodded as if that were a whole conversation, which, between the two of them, it was.
 
-He went to the watch and stood with the Lance through the afternoon. Rowan talked through the first hour about a grip he had cut and a soup ladle he had measured, and Lysette wrote on a form with her book held against the wind. Clara stood beside her with her hands tucked into her sleeves and once looked at Eden for a moment longer than she needed to, then looked away. The sky went from grey to a colour that was almost gold and then back again, and the Wall kept its noise around them, and Eden counted the beats between sounds because it gave his hands something to do. The file stayed in his coat against his ribs, and the last sheet, which was thinner than the others, kept sliding down inside the envelope no matter how he folded it. At the end of the watch he took it out.
+He went to the post and stood beside Lysette. She did not look at him.
 
-The last page was not a report. It was an index of what the file should contain, written in the grey office's small hand: cover, witness statement, confirm mark, supporting testimony, identity of the deceased's next of kin, outcome. Six lines. The last two had been crossed out with a single stroke of a pen that had been pressed hard enough to tear the paper.
+"I am not asking what is in the envelope," she said.
 
-There was no page after it. The tear at the bottom of the crossed line had a clean edge, which meant the page had been taken out before the file was copied and not torn out in a hurry afterwards. Someone in a grey office had decided what the file would not say, and had made the decision early enough to leave an index in place of the pages. Eden folded the index along the crease and put it back in the envelope, and then put the envelope in his coat, where it lay against the scarf with the smell of lamp oil and old paper in it. He did not take it out again before the bell. At the end of the watch he gave the envelope to the courier at the gate without opening it. The courier put it in his folder and walked away up the path with his cap pulled down. Neither of them said a word about what was missing.
+"Good."
+
+"I am only asking you to stand here." She said it to the wall. "I do not like standing alone. It is a poor reason, and I will write it as a duty."
+
+"I will stand here."
+
+They stood for most of the afternoon. Rowan talked for the first hour about a spear grip he had cut and a soup ladle he had measured. Clara stood on Lysette's other side with her hands tucked into her sleeves. The sky went from grey to a colour that was almost gold and then back again. The file lay in Eden's coat against his ribs, and the last sheet, which was thinner than the others, kept sliding down inside the envelope no matter how he folded it.
+
+At the end of the watch, he took it out.
+
+The last page was not a report. It was a list of what the file should hold, written in the grey office's small hand: cover, witness statement, confirm mark, supporting testimony, next of kin, outcome. Six lines. The last two had been crossed out with one hard stroke that had torn the paper.
+
+There was no page after the list. The torn edge was clean, which meant the missing pages had been taken out before the file was copied, not torn away in a hurry afterwards. Someone in the grey office had decided what the file would not say. They had done it early enough to leave a list in place of the pages.
+
+The last line that was crossed out was *outcome*. The line above it was *next of kin*. Eden read them twice. He did not know why those two. He only knew that a file with no outcome was a file about a thing that had not ended.
+
+He folded the list along its crease and put it back in the envelope. At the gate he gave the envelope to the courier without a word. The courier put it in his folder and walked up the path with his cap pulled down. Neither of them said a word about what was missing.

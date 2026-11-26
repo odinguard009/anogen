@@ -2,7 +2,7 @@
 
 Felix asked the question again at breakfast, while the Duke was arguing with Greta about whether fish for breakfast counted as fish or as a personal insult. They ate in the small room with the bad tea and the good bread, and the dogs lay under the table with their noses on the Duke's boots, and a servant kept coming in to ask whether anyone wanted more of anything, which in this house meant that someone always did.
 
-"Which one is the act?" Felix said. "You said both. That is not an answer you give a friend."
+"Which one is the act?" Felix said. "Last night you said you did not know yet. That is not an answer you give a friend."
 
 Eden put down his cup. The tea at Silverfell was strong enough to stand a spoon in, and he had been drinking it because Bertram kept filling the cup and taking it away before he could say no.
 
@@ -16,17 +16,19 @@ Eden put down his cup. The tea at Silverfell was strong enough to stand a spoon 
 
 "I cannot."
 
-Felix looked at him for a while, then took a piece of bread and broke it in two. "That is a better answer than 'both'. I will take it."
+Felix looked at him for a while, then took a piece of bread and broke it in two. "That is a better answer than 'I do not know'. I will take it."
 
 "You should not."
 
-"I am." He put the larger half on Eden's plate. Eden looked at the bread for a while without touching it. It was a small thing, half a roll, and every instinct he owned said to count what it would cost to take it. He took it. He ate it slowly, and it was warm, and it tasted of nothing except bread, which was the whole point. "I do not need the whole story. I need to know that you are not lying to me, and you just told me you were."
+"I am." He put the larger half on Eden's plate. "I do not need the whole story. I need to know that you are not lying to me. You just told me you had a half you cannot give, and that is honest."
 
-Greta came in with a basket of rolls and put it between them. "Two halves of one piece is not two breakfasts," she said.
+Eden looked at the bread for a while without touching it. It was half a roll, and every instinct he owned said to count what it would cost to take it. He took it and ate it slowly. It was warm, and it tasted of nothing except bread.
+
+Greta came in with a basket of rolls and put it between them. "That is not sharing," she said. "That is crumbs."
 
 "I am sharing," Felix said.
 
-"You are making a mess," Greta said, and brushed three crumbs off the cloth with the side of her hand, then put the basket nearer to Eden than to Felix, where everyone could see she had done it. "With a boy who does not eat." She looked at Eden. "Eat the bread now."
+Greta brushed the crumbs off the cloth with the side of her hand. Then she put the basket nearer to Eden than to Felix, where everyone could see she had done it. "That boy does not eat enough." She looked at Eden. "Eat the bread now."
 
 "Yes, ma'am."
 
@@ -58,7 +60,7 @@ Eden watched a bird stand on a post at the far end of the lake and flap its wing
 
 "Old enough for what?" Felix asked.
 
-"For a great many things." The Duke picked up the oars and pulled them both at once, which moved the boat straight for three strokes. "I tried again in the summer. I wrote it down on a paper and left it in my desk for three days, and then I burnt the paper because I had written it wrong." He scrubbed one hand over his face. "I cannot say it today. I am sorry. That is the third thing I have been sorry about for eleven years." He looked at Eden with tired eyes and a face that wanted a laugh and did not get one. "Can we fish?"
+"For a great many things." The Duke picked up the oars and pulled them both at once, which moved the boat straight for three strokes. "I tried again in the summer. I wrote it down on a paper and left it in my desk for three days, and then I burnt the paper because I had written it wrong." He scrubbed one hand over his face. "I cannot say it today. I am sorry." He looked at Eden with tired eyes and a face that wanted a laugh and did not get one. "Can we fish?"
 
 "Yes," Eden said. He took the rod because it gave his hands a job and a reason to look at the black water rather than at the Duke's tired face.
 
@@ -72,7 +74,7 @@ The Duke caught a fish at the end of the hour, a small pale thing that flapped i
 
 "No," the Duke said. "That was practice."
 
-He rowed them back with only one oar, which was his way of making the boat turn the right way without saying anything about it. Bertram was waiting at the jetty with the basket and a dry cloth, and he took the fish rod from the Duke before the Duke could hand it to him.
+He rowed them back himself, and this time the boat went straight. Bertram was waiting at the jetty with the basket and a dry cloth, and he took the fish rod from the Duke before the Duke could hand it to him.
 
 "Any catch, my lord?"
 
@@ -104,7 +106,7 @@ The Tutor moved a pawn. "I once set a test for a king," he said. "He failed it. 
 
 "Which king?"
 
-"The one who was a boy when I set it." The Tutor put a second pawn down. "You know him."
+"One who was a boy when I set it." The Tutor put a second pawn down and said nothing more. Eden did not know which king he meant. He knew only that the Tutor never explained a lesson before it was over.
 
 The Dragon made a sound like a door closing in a distant house and said nothing more, and the nine pawns stayed in their line without anyone moving them, which was another thing that had not happened before. Eden looked at the crown on the edge of the board, and when he looked again it had rolled half a turn so that the empty centre faced him.
 

@@ -15,7 +15,7 @@ SUPERSEDED where it conflicts by story/bible/power-system.md (owner order 2026-1
 - Self-imposed handicap: hiding his identity, protecting someone, a rule he keeps, a tool he must not use. Say which in the scene.
 - Protect while fighting: someone fragile in the frame raises tension without lowering his power.
 - Aura beats: a sliver of the Emperor's authority, used sparingly; show reactions.
-- Narrate as a tactician: options, costs, choice, result. Keep the plan hidden until it works.
+- Narrate as a tactician: options, costs, choice, result. Show the setup, surprise with the result: the reader must SEE what the hero is doing before it pays off. Follow engine/battle-clarity.md (fight card, beat order, 3 actors, 1 new mechanic) and story/bible/mechanics.md.
 
 ## Signature tricks (debut chapter; one new per fight)
 1. Door in an awning's shade drops a target into the cellar below (3)

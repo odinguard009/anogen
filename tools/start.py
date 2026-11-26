@@ -78,4 +78,9 @@ def main():
 
 
 if __name__ == "__main__":
+    import signal
+    try:
+        signal.signal(signal.SIGPIPE, signal.SIG_DFL)  # quiet exit when piped to head
+    except (AttributeError, ValueError):
+        pass
     main()

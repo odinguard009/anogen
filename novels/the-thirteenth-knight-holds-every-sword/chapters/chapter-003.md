@@ -86,7 +86,7 @@ She pulled a plug and pushed it into another hole. Somewhere in the city, a tele
 
 Eden counted the room. One door behind him. One window, painted shut. The lamp. The board's shadow, big enough. He had one clear thought, the way he always did before a fight. The voices came out of the board, and the board was her mouth. Stop the mouth.
 
-He crossed the carpet in six steps and stopped at the board's east end, under the lamp, six steps from her chair. Then he knocked twice on the wall inside the spilled shadow.
+He crossed the carpet in six steps and stopped at the board's east end, at the edge of the lamp's light, six steps from her chair. Then he knocked twice on the wall inside the spilled shadow.
 
 The sound was small, like a knuckle on a door. A black rectangle opened in the wall, taller than a man, with an edge of pale light along one side. The cables' shadows leaned toward it. The hum dropped a little, and the lamp steadied.
 

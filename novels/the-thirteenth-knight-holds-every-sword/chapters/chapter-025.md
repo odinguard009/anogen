@@ -68,7 +68,7 @@ Felix looked down and put his foot on it, hard. "Then I heard it."
 
 Valerius saw more than the others because he had been looking straight at the north table. He saw a shield where no shield had been and a sword that shone like a low sun. He did not move or speak. The man behind him with the blade did not know that his prince had seen anything at all. Valerius's hands stayed open at his sides, and his thumb pressed once against his palm. Then he was looking at Ilsabet on the floor as if he had been looking there all along.
 
-The Embers stepped back when Eden walked across the broken glass toward them. They did not know why. Two of them had their blades at throats and did not lower them, but their feet moved, and that was enough. Seraphine's hand, which had been shaking since the chandelier, went still again, and she said something to Felix under her breath that nobody heard.
+The Embers stepped back when Eden walked across the broken glass toward them. They did not know why. Two of them had their blades at throats and did not lower them, but their feet moved, and that was enough. Seraphine's hand, which had been shaking all night, went still, and she said something to Felix under her breath that nobody heard.
 
 Eden did not kill Ilsabet. He had a plan for killing her and a plan for not. The second was harder, because it asked him to be seen for a half breath by two hundred people and then be forgotten by all of them. She was down with her grey hand open and her crown on the floor. A kill without proof was not a thing he did. He had already stopped the cut at her shoulder, where the grey lines ended. The grey hand lay slack on the stone. She looked up at the dark shape over her with a face that had lost its certainty.
 

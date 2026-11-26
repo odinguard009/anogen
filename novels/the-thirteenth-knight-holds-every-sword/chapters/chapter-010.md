@@ -4,15 +4,13 @@
 
 Friday began with three collars and a stolen spoon, and Lysette wrote all four things down before the first bell had finished ringing. The collars belonged to second-years who had decided that the red band could be worn at any angle. The spoon belonged to a boy in the west dorm who said he had borrowed it for tea, though there was no tea in the dorm.
 
-"Names," she said.
+"Name," she said.
 
 "You know my name," the boy said.
 
 "I know it. The form wants it written."
 
-He told her, and she wrote it, and he watched the pencil with the same attention other boys gave to a duel.
-
-"Why do you want the spoon?" she asked.
+He told her, and she wrote it. "Why did you take the spoon?" she asked.
 
 "For tea."
 
@@ -20,15 +18,7 @@ He told her, and she wrote it, and he watched the pencil with the same attention
 
 "There was yesterday."
 
-She looked at the kettle, and he looked at it too, and neither of them moved. Then he put the spoon on the table.
-
-"One more word," she said. "Please."
-
-"Please," he said.
-
-She wrote "stolen spoon, returned, please" and drew a line under it. The west dorm smelled of wet coats and boot polish, and a new prefect followed her from room to room copying down every word she wrote, which was not the rule but was what prefects did when they were new.
-
-"Nine minutes," she said, and walked to the next room.
+She looked at the kettle. It was empty. He looked at it too, and then he put the spoon on the table. She wrote "spoon returned" and drew a line under it. The west dorm smelled of wet coats and boot polish. A new prefect followed her from room to room and copied down every word she wrote, which was not the rule, but new prefects did that.
 
 A fourth-year was sitting on her bed with a late slip in her hand and a look of great patience on her face. "It is signed," the girl said.
 
@@ -36,13 +26,15 @@ A fourth-year was sitting on her bed with a late slip in her hand and a look of 
 
 "By a master. You can see the ink."
 
-"I can see the ink. I cannot see the name." Lysette held the slip at the window. "He signed the back and left the front empty."
+"I can see the ink." Lysette held the slip at the window. "It is signed on the back. The rule says the front."
 
 "That is how he signs."
 
-"Then he will sign it again." Lysette wrote a line in her book and handed the slip back. "You have until the second bell."
+"Then he must sign it again." Lysette wrote a line in her book and handed the slip back. "You have until the second bell."
 
-The girl took the paper with great patience and said, "Of course, ma'am," in a voice that meant the opposite. Lysette wrote that down too, without putting the words on the page.
+The girl took the paper and said, "Of course, ma'am." She did not mean it, and her face showed that she did not.
+
+Lists calmed her. A list had a first line and a last line, and nothing happened between them that she had not written down. That was why she liked the Committee, and why she was bad at everything that had no list.
 
 The Committee rounds took an hour and ten minutes. Lysette counted the minutes because counting kept the list in order and because her mother's letter was in her jacket pocket, folded into three, and she had not yet found a place where she could stand still long enough to read it. At the end of the east corridor there was a stair well with a window, and she went down four steps and sat on the fifth with her book on her knee.
 
@@ -50,7 +42,7 @@ The letter had come with the morning bread, carried by a servant who would not m
 
 *Your cousin asks after you. House Hollen has had enough of public matters. We will act as if it were not. That is the only kindness left to us. You are a Hollen before you are a student, and you must learn to keep your face still.*
 
-Lysette read the last line twice. She knew what the letter did not say. Her brother had been the Hollen who was allowed to be loud, and since his name had been struck from the family papers there was only one Hollen left to keep the house quiet. Her mother never wrote his name, and Lysette never asked her to. Instead she counted the stairs to the fifth step and sat on it, which was as near to arguing as the two of them came. Her mother wrote as if a name could be folded away with the paper. Lysette had spent five years learning that it could not. She folded the letter into three and put it back in her pocket, then took out her book and wrote the spoon down again because the first line had a smudge on it.
+Lysette read the last line twice. She knew what the letter did not say. Her brother had been the loud one in the family. His name had been cut out of the family papers, so now only Lysette was left to keep the house quiet. Her mother never wrote his name, and Lysette never asked her to. Lysette did not write back, and not writing back was as near to arguing as the two of them came. Her mother wrote as if a name could be folded away with the paper. Lysette had spent five years learning that it could not. She folded the letter into three and put it back in her pocket, then took out her book and wrote the spoon down again because the first line had a smudge on it.
 
 Below the stair well the dining hall was filling. She could hear Rowan laughing before she reached the door, one loud laugh that made people look up from their plates, and Clara's quieter answer to it. Lysette stood at the top of the last stairs with her hand on the rail for a moment longer than she needed.
 
@@ -90,7 +82,7 @@ Felix turned a page. "That is different."
 
 "He would tell me something strange, and then I would have to decide if it was a lie." Felix sat down and put his book on the bench. "I would rather not. I like him."
 
-"I like him too," Lysette said, and then she shut the file, because the words had come out before she had chosen them.
+"I like him too," Lysette said, and then she shut the file, because the words had come out before she had chosen them. Felix did not tease her. He turned a page, and his ears went pink. She wrote nothing for a full minute after that, and neither of them said why. The only sound in the corridor was the scratch of Felix turning pages he was not reading.
 
 Across the hall Rowan laughed again, and Clara said something that made him stop mid-laugh and listen. Lysette looked at them and then looked away, and was annoyed that she had looked at them first. She put the folder back under the bench.
 
@@ -114,45 +106,33 @@ Seraphine came into the hall from the north door with her gloves on and went str
 
 "Do not worry," she said to Lysette, across the width of the hall. "I am only sitting with him."
 
-"You always sit with someone," Lysette said.
+"You can sit anywhere," Lysette said.
 
-"Yes. But look who it is."
+"Yes. I chose here."
 
-Felix looked up from his book. Seraphine set a spoon on the table in front of him and said, "That is one."
+Felix looked up from his book. "You are reading at lunch," Seraphine said.
 
-"That is a spoon," Felix said.
+"I am eating at lunch as well," Felix said.
 
-"It is a joke. The joke is that you are reading at lunch."
-
-"I am eating at lunch as well."
-
-"That is part of the joke."
-
-"Who is joke one?" Felix asked.
-
-"You are joke one."
-
-"That is not how counts work."
-
-"It is my count." She turned to Eden. "You are not eating."
+"Then you are doing two things at once. I like that." She smiled at him, and Felix looked at his book as if it might explain her. Then she turned to Eden. "You are not eating."
 
 "I had breakfast."
 
-"That was four hours ago." She looked at his hands on the table. "You'd save me, right?"
+"That was four hours ago." She looked at his hands on the table. "If I were ever in danger, would you save me?"
 
 Lysette's pencil stopped.
 
 Eden looked at Seraphine for a moment, the way he looked at a sum written badly on a board. "Probably."
 
-"Probably." Seraphine said it back, and her smile went wider. "That is the best answer anyone has given me."
+"Probably." Seraphine said it back, and her smile went wider. Everyone else said yes without thinking. Eden had told her the truth, which was that he could not promise. "That is the best answer anyone has given me."
 
-"It is the only answer I have."
+"I cannot say more than that," Eden said.
 
-"I will take it." She stood and brushed the spoon into her glove. "Come on, Felix. We have a form to lose."
+"I will take it." She stood up. "Come on, Felix. I need help with something."
 
-Felix got up with his book under his arm. "What form?"
+Felix got up with his book under his arm. "With what?"
 
-"You will see. It will be very official." As they went past the Committee bench she looked down at Lysette's open book. "Writing about us, Hollen?"
+"You will see." As they went past the Committee bench she looked down at Lysette's open book. "Writing about us, Lysette?"
 
 "Writing about attendance."
 
@@ -168,4 +148,4 @@ Then she looked at the clock above the north door. Her rounds had started at the
 
 She shut the book and stood up to take the forms to the office. On the way she put her hand in her jacket pocket for the letter, and her fingers found something else first.
 
-It was the handkerchief. She had folded it that morning with clean water and a bowl ready, and she had carried it all day meaning to wash it. The bowl was still on her shelf in the dorm, and the water in it would have gone cold. The linen was still creased the way his hands had left it. The small silver feather in one corner had caught on a thread of her pocket and held.
+It was the handkerchief. She had washed it that morning in a bowl of clean water, and she had carried it all day meaning to give it back. The linen was dry now, folded square. The small silver feather in one corner had caught on a thread of her pocket and held.

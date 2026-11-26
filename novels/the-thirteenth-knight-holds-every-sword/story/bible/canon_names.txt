@@ -700,3 +700,7 @@ Thursday
 Friday
 Saturday
 Sunday
+
+# Titles and offices
+War Minister
+Minister

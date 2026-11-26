@@ -232,5 +232,18 @@
       "pacing_shape": "steady mess, one fast beat, slow exit",
       "hook_type": "a question written down as nobody"
     }
+  },
+  {
+    "chapter": 20,
+    "picks": {
+      "opening_type": "a room with no windows",
+      "scene_shape": "one council table, one slow exit",
+      "tension_type": "a question nobody wants to answer",
+      "emotional_tone": "dutiful and tired",
+      "comic_device": "three flags in one inch of map",
+      "conflict_type": "war council politics",
+      "pacing_shape": "quiet questions, one mild last line",
+      "hook_type": "a harmless question about lanterns"
+    }
   }
 ]

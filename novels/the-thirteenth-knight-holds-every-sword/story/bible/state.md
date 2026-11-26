@@ -144,3 +144,11 @@
 - The oven valve stuck and threw flame across the kitchen toward Seraphine's soufflé. Eden folded **[Exa]** into the door-shield in the shadow behind the oven, held it with his boot, and sent the flame back into the oven mouth. No one saw it; he called it luck when Seraphine asked. No one was hurt.
 - Rowan nearly noticed Lysette's apron: green stain on the cuff, soil under two nails. A dropped tray of rolls saved him from asking. He handed her a roll and she wrote it on the form.
 - Hook: Seraphine asked Lysette sweetly who she was going to the Ball with now. Lysette: "Nobody." She wrote it down.
+
+## Sat 5 Dec (ch 20) - Valerius POV
+- War council in a windowless palace room. Map of Verandel with coloured cords, paper flags and three flags in one inch at the bend. The king's chair empty with an untouched cup of water.
+- Ministers whisper about a hidden "Void Host": men not on any roll, ground moving at night in one sector. Valerius demanded a paper with names and the sector, not a summary. No confirmation on the page.
+- The front bends east around Verandel through low ground; no one explains why. The order came from the palace in the last war; the War Minister carried a message and did not open it.
+- Valerius cannot look at his father without apology; Merrow: "He carries a war... he was not made for it. His father was." Merrow also: "I saw a boy who could not win against his father" and Hollen as "a good judge of a locked door."
+- Valerius admitted the duel touch was timed on the bell and that he hated Eden never needing him. Merrow steered him to Ball security: four hundred people, a hundred lanterns, one band; if anything goes wrong the prince's name is on the paper.
+- Hook: Merrow, mildly, asked which hall the Ball's lanterns hang in. Valerius answered "The glass atrium" and thought nothing of it.

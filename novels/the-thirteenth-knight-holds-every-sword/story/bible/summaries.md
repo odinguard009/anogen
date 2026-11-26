@@ -57,3 +57,6 @@ Ysolde orders Eden to watch Rowan without being seen. Rowan notices everything e
 
 ## Ch 19 - The East Kitchen
 Rowan volunteers Lance Nine for the cooking club's Ball-week bake. Clara heals a burn but cannot raise Seraphine's fallen soufflé, and Seraphine's joke count on Felix reaches forty-one and fails. When the oven throws flame across the kitchen, Eden silently folds **[Exa]** into the door-shield and turns the blast back into the oven; Seraphine calls it luck and he agrees. Rowan almost notices the garden soil on Lysette's apron but a dropped tray of rolls distracts him. Seraphine asks Lysette who she is going to the Ball with, and she writes "Nobody."
+
+## Ch 20 - The Bend in the Line
+At the war council Valerius hears ministers whisper of a hidden "Void Host" and orders a paper with names, not a summary. He studies the unexplained bend in the front around Verandel and sees his father's tiredness in the empty chair and the untouched cup. Count Merrow, his old map teacher, tells him to worry about the Ball instead: four hundred people, a hundred lanterns, one band, and the prince's name on the paper if anything goes wrong. Merrow asks which hall the lanterns hang in, and Valerius answers without thinking twice.

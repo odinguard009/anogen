@@ -165,3 +165,14 @@
 - REVIEW ch 19: PASS. check_chapter OK (1818 words, mean 9.2, dialogue 37%). Epigraph from outline/epigraphs.md. Cut one extra "nobody" to stay under the banned cap.
 - The shield save is unseen and called luck; no named attack used, just Exa folded into the known door-shield. No one hurt, so the comedy stays intact.
 - Continuity: joke count from 19 in ch 14 to 41/43 here; the apron and garden soil from ch 14; Lysette's answer to the Ball question is planted for ch 21 and the Ball arc.
+
+### 2026-11-26 06:16 UTC (13:16 WIB) - tulis bab berikutnya - chapter 20 - ok
+- words: 1801
+- scores: tension 3, surprise 3, emotion 4, battle_clarity -, voice 4, freshness 4
+- notes: Valerius interlude; Void Host rumour; Verandel bend; Merrow's lantern question.
+- quota_note: 
+
+### self-review ch 20 - LOW risk, same session, not independent
+- REVIEW ch 20: PASS. check_chapter OK (1801 words, mean 12.2, dialogue 41%). Epigraph from outline/epigraphs.md. Registered War Minister and Minister in canon_names.
+- Valerius POV allows inner feeling; no head-hop into Eden. The Void Host stays a rumour (reveal planned much later); Merrow's lantern question is an H plant, no confirmation.
+- Continuity: duel touch on the bell from ch 17, Valerius's ch 2 stairs line, the king's tired eyes from ch 9, Lysette's book from ch 10/19. Ball is seven days away after 5 Dec.

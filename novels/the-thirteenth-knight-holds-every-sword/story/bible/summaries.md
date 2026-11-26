@@ -34,3 +34,6 @@ With the boys gone, the Duke studies the bandits' orders and notices they were p
 
 ## Ch 31 - The Cold Here
 Lance Nine arrives on the Southern Wall as its own unit for the Winter Rotation. A Wall sergeant shows why a mana-lock musket and Ward-plate are not enough against Huskborn: balls stop in grey flesh, and a blade needs an arm and aura behind it. When a Husk probes the wall, real soldiers finish it in two cuts. A kind camp groundskeeper hums out of tune, an old soldier says the ground is cold "like she turned her back", and at the third watch every bird leaves the battlement at once.
+
+## Ch 32 - The Silent Stretch
+A Choir silence falls over the Wall and Lance Nine holds its stretch without voices or spoken spells. Okoru teaches three hand signs before the bell, and Lysette reads Eden's signs perfectly during the fight. Okoru uses the first [Tavu] to bind a climbing Husk to a brass bracket, Rowan finishes it with his spear, and Mirelle strikes unseen from the stair shadow. The circle holds. At dusk Eden feels a slow pull under a drain: the Choir is not dead but moving beneath the wall.

@@ -69,3 +69,5 @@ Note: Witness first use moved from planned ch 13 to ch 11 because the outline's 
 - Aura as a wall knight's will | Wall sergeant and plated man | ch 31 | yes (air goes thick near the raised arm, snow flattens, nearby people step back; a pistol ball slides off Ward-plate) | no limit shown yet
 - Mana-lock musket / pistol | Wall sergeant | ch 31 | yes (long gun with a glass tube holding a small spell, brass ring at the breech, mana line; quicker than powder, works in rain) | yes (balls stop in grey flesh; does not finish a Husk)
 - Ward-plate | Wall sergeant | ch 31 | yes (broad steel plate with a worn dent; ball slides off when aura is raised) | yes (heavy; useless if the wearer cannot move in it)
+
+- Okoru's [Tavu] | Okoru | ch 32 | yes (threads of force, thin and pale, from one hand; binds a climbing Husk's leg to a brass bracket like a knot) | yes (needs touch or a near thing; one arm, one knot at a time)

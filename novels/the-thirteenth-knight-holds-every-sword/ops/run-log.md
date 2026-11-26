@@ -74,3 +74,14 @@
 - REVIEW ch 31: PASS. check_chapter OK (1801 words, mean 11.5, dialogue 41%). Three world terms (mana-lock, Ward-plate, aura) explained plainly in the sergeant's demonstration; no named attacks used.
 - The circle watches veterans handle a real threat; nobody shows off and the Husk probe is finished by soldiers, per the outline. No chase.
 - Plants recorded: groundskeeper's wrong humming and the old soldier's "turned her back" line. Bird silence delivered as the exact hook.
+
+### 2026-11-26 07:20 UTC (14:20 WIB) - tulis bab berikutnya - chapter 32 - ok
+- words: 1802
+- scores: tension 4, surprise 4, emotion 4, battle_clarity 4, voice 4, freshness 4
+- notes: First [Tavu]; silent hand-sign battle; Choir under wall hook.
+- quota_note: 
+
+### self-review ch 32 - MEDIUM risk, same session, not independent
+- REVIEW ch 32: PASS. check_chapter OK (1802 words, mean 11.8, dialogue 16% warning only because the outline forbids voices during the silence; the briefing before the bell carries the real exchanges). No filler added.
+- First use of [Tavu] has look, body use, effect and limit in scene and ledger. Mirelle strikes unseen twice without a label; the circle holds as a unit against Husks.
+- Continuity: signs from the night before, Rowan's gold light from ch 6, the groundskeeper's wrong humming from ch 31, and the Choir's movement from ch 31's birds. No spoken spells after the bell.

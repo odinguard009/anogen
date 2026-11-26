@@ -388,5 +388,18 @@
       "pacing_shape": "quiet lesson, short fight, one silent flight",
       "hook_type": "all the birds leave together"
     }
+  },
+  {
+    "chapter": 32,
+    "picks": {
+      "opening_type": "three signs drawn in the air",
+      "scene_shape": "briefing then silent battle then long quiet",
+      "tension_type": "no voices allowed",
+      "emotional_tone": "focused and cold",
+      "comic_device": "pointing declared a full language",
+      "conflict_type": "Husks climbing in a Choir silence",
+      "pacing_shape": "short beats in long quiet",
+      "hook_type": "something breathing under the drain"
+    }
   }
 ]

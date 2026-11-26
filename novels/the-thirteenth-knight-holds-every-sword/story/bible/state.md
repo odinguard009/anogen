@@ -222,3 +222,10 @@
 - Husk probe at second watch: two balls stopped in the grey, veterans cut the wrist and neck, grey hand kept moving in snow. Clara asked about it; sergeant: "That is not a threat. It is a schedule."
 - plants: kind groundskeeper with thermos, humming four notes wrong at the top, knows Tallis by sight but not name; old soldier: "The ground's cold here. Like she turned her back."
 - Hook: every bird on the battlement went silent and flew off together north; the sergeant wrote one word nobody saw.
+
+## Tue 5 Jan (ch 32)
+- Choir silence from fourth bell; no voices, no spoken spells. Okoru's signs: two fingers hold, fist down, open hand swept left move. Lysette wrote them on a warrant and on her palm; Okoru: "Hollen reads hands... look at her." No talking for the whole watch after the bell.
+- Lance Nine held forty paces with a stair at each end. Rowan's gold light made shadows without words; Lysette read Eden's signs perfectly; Felix held an arrow but did not shoot; Clara pulled Lysette back before grey touched her; Mirelle struck from the stair shadow twice, unseen.
+- First [Tavu]: Okoru bound a climbing Husk's leg to a brass bracket with a flick of one hand; Rowan put the spear into the bound neck. Six Husks dealt with; the circle held as a unit.
+- The groundskeeper came along the line with hot water and a rag and wiped the brass bracket while humming the wrong top note. Nobody asked why.
+- Hook: Eden felt a slow even pull under the drain in the wall's inner face; "The Choir was not dead. It was moving under the wall."

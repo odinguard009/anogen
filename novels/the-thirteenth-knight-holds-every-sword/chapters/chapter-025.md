@@ -6,17 +6,29 @@
 
 "The one at the west door. He has a grey coat and a short stick."
 
-Eden looked where she had pointed and saw nothing for a full breath. Then a man at the west door shifted his weight, and the stick moved with him, and it was exactly as short as she had said.
+Lysette did not move. Below them the Ember who had pointed was still looking up at the glass.
 
-"You have seen him?"
+"They said your name," she said. "They said you were theirs."
 
-"I watched him come in." Eden kept his hand on the clouded glass. "He has not moved since the eleventh bell."
+"They sent me a card weeks ago. It said 'Remember Thornmere'. I did not answer it."
 
-Lysette did not move. Below them the Ember with the blade at the prefect's throat had begun to count the hostages aloud, and every count made the room quieter.
+"You kept it."
+
+"Yes."
+
+"Then you will explain it to me later." She did not look at him. Her hands were white on the rail. "Not now. Now tell me what to do."
+
+Eden looked down through the glass at the west door. A man in a grey coat stood there with a short stick. He had not moved since the eleventh bell. "That is a guard of the city watch," Eden said. "He has not been taken. The Embers have left him alone because he is old and has no sword. Go down the roof stair and get him. Tell him the hall has been taken."
+
+"Why him?"
+
+"Because he is the only grown man in the building who is free, and he will believe a girl with a red band."
+
+Lysette did not move for one breath. Below them the Ember with the blade at the prefect's throat had begun to count the hostages aloud, and every count made the room quieter.
 
 "If I go, they will see me," she said.
 
-"They will see a girl going for help. That is what they expect."
+"They will see a girl running for help. That is what they expect."
 
 "Then you will be alone."
 
@@ -70,7 +82,7 @@ Valerius saw more than the others because he had been looking straight at the no
 
 The Embers stepped back when Eden walked across the broken glass toward them. They did not know why. Two of them had their blades at throats and did not lower them, but their feet moved, and that was enough. Seraphine's hand, which had been shaking all night, went still, and she said something to Felix under her breath that nobody heard.
 
-Eden did not kill Ilsabet. He had a plan for killing her and a plan for not. The second was harder, because it asked him to be seen for a half breath by two hundred people and then be forgotten by all of them. She was down with her grey hand open and her crown on the floor. A kill without proof was not a thing he did. He had already stopped the cut at her shoulder, where the grey lines ended. The grey hand lay slack on the stone. She looked up at the dark shape over her with a face that had lost its certainty.
+Eden did not kill Ilsabet. He had stopped the cut at her shoulder on purpose, where the grey lines ended. Killing her would have left a body for the school to find, and he wanted her alive and afraid. She knelt with her grey hand open on the stone and her crown on the floor. She looked up at the dark shape over her with a face that had lost its certainty.
 
 "You are not the Vigil," she said, quietly enough that only he could hear. "The Vigil kills." She watched the black slit of his helm for a reaction and found none. "What are you, then?"
 
@@ -102,12 +114,12 @@ Lysette was standing at the west door with a guard in a grey coat beside her and
 
 "No."
 
-"It is never much with you." She opened the book and put one line on the page, then shut it again. Her handwriting, Eden saw, had gone small and quick, and the pencil had snapped at the tip on the last letter. She looked at the broken point as if it were a stranger's, then put the pencil away without sharpening it, which in five years he had never seen her fail to do. "I saw smoke in a shape that should have been a man, and a light under it, and then the light was gone. I will not write the rest because there is no word for it." She looked past him at the roof stair. "Go back up before they count heads. I will say you were with me the whole time."
+"It is never much with you." She opened the book and put one line on the page, then shut it again. Her handwriting, Eden saw, had gone small and quick, and the pencil had snapped at the tip on the last letter. She looked at the broken point as if it were a stranger's, then put the pencil away without sharpening it, which in five years he had never seen her fail to do. "I saw smoke in the shape of a man, and a light under it, and then the light was gone. I will not write more, because I have no word for it." She looked past him at the roof stair. "Go back up before they count heads. I will say you were with me the whole time."
 
 "That is not true."
 
-"It is the form I am using."
+"It is what I will write."
 
 "And if the guard asks?"
 
-"He will not." She put the pencil in the book. "He is a good guard. He knows when a form has been written."
+"He will not." She put the pencil in the book. "He is a good guard. He knows when a paper is already signed."

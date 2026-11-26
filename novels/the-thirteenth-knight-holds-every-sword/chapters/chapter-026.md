@@ -16,11 +16,11 @@ The roof door opened. Lysette came out with her gown gathered in one hand and he
 
 "No."
 
-"Good." She sat down on the iron rail two feet from him, the way she had sat on it earlier, and put her gloves on her knees. The red band on her sleeve was straight, and a thin line of smoke had got into her hair at the back. "I told the guard you were with me the whole time."
+"Good." She sat down on the iron rail two feet from him, as she had earlier, and put her gloves on her knees. A thin line of smoke had got into her hair at the back. "I told the guard you were with me the whole time."
 
 "You were downstairs."
 
-"I know what I wrote." She looked at him then, properly, and the shaking in her hands went on. "Were you up here the whole time?"
+"I know. It is what I wrote." She looked at him properly, and the shaking in her hands went on. "Were you up here the whole time?"
 
 Eden had answers ready. One was true and useless. One was true and opened a door. He chose the first because she had asked a question with only two words and deserved an answer with one.
 
@@ -28,23 +28,11 @@ Eden had answers ready. One was true and useless. One was true and opened a door
 
 She took it. She did not ask where he had been, and she did not say that she believed him, and she did not do any of the things that would have made the question bigger than it was. She put one hand flat on the rail and held it there until the shaking went down, then she put the other beside it.
 
-"No," she said, copying him. "That is what you said."
+"No," she said, copying him. "That is the whole answer."
 
 "Yes."
 
-"You never say anything else."
-
-"I say other things." He thought about it honestly. "I said the band was better from the roof."
-
-"That was a lie."
-
-"It was partly true."
-
-"You say them about doors and roofs and clocks." Her mouth moved, not quite a smile. "You never say anything about yourself."
-
-"Name one," he said.
-
-"You told me the stone was loud. That was about a room. You asked if the lantern lit. That was about Rowan." She counted one more on her fingers and stopped. "Nothing about you."
+"You talk about doors and roofs and clocks." Her mouth moved, not quite a smile. "You never say anything about yourself."
 
 "I am not interesting."
 
@@ -114,7 +102,7 @@ When she was done she took her hand off his shoulder and wiped her face with her
 
 Something in Eden's face changed. It was small and it did not last: the tight line at the corner of his mouth loosened, and his eyes stayed on her for one beat longer than they needed to. Lysette saw it, or thought she saw it, because her own smile went still and then wider. She did not say anything about it. She took her hand out of his and stepped back onto the rail, and the two of them stood under the apple tree with the band playing below them and the smoke going out of her hair into the cold air.
 
-"I am going down," she said, after a while. "The guard will want the form back."
+"I am going down," she said, after a while. "The guard wants my report."
 
 "Yes."
 
@@ -124,15 +112,15 @@ Something in Eden's face changed. It was small and it did not last: the tight li
 
 "Then I will know where to find you." She picked up her gloves from the stone and put them on, one finger at a time, and the cuffs were cold against her wrists. She took one last look at the hall through the glass, where the prefects were stacking chairs and the band had gone home. "I have decided I am glad I went." She said it like a ruling, so that nobody could appeal it.
 
-"Wait," she said, from the door. He looked up. "Thank you for the dance."
+At the door she stopped. "Thank you for the dance," she said.
 
-"I stepped on you."
+"You stood on my foot."
 
-"You stood on my foot on purpose and I told you to." She held the frame and used the straight face she kept for Committee. "If you tell anyone I said thank you, I will write you up for it."
+"I did, on purpose." She used the straight face she kept for the Committee. "If you tell anyone I said thank you, I will write you up for it."
 
 "You just said it."
 
-"I can write that down too." She went down the stair with her gown held up, and this time the door shut properly behind her.
+"I know. I will write that down too." She went down the stair with her gown held up, and this time the door shut properly behind her.
 
 * * *
 
@@ -142,4 +130,4 @@ On the highest twig of the apple tree, where the white flower had been, there wa
 
 A second pair of gloves lay on the stone by the herb bed, folded one inside the other the way she folded paper. She must have come back while he slept. He picked them up. The handkerchief was inside them, washed and dried and folded into a square with sharp corners, and the silver feather in one corner was clean.
 
-It smelled of soap and thyme. The fold was not the fold he had made when he gave it to her in November; it was her fold, with sharp corners and the feather turned inward, so that the cloth protected the stitching. Eden held it for the length of two breaths, then put it back inside the glove and laid both on the stone exactly where he had found them. He did not take it with him, and he did not go back to sleep. The roof was going light at the edges, and the apple tree held its three green fruit, and for once he could not have said how long he had been awake.
+It smelled of soap and thyme. He had lent her that handkerchief in November, the night she cried on the roof, and she had said she would wash it. She had kept the promise four weeks late and had not said a word about it. That was like her. She would rather hand back a clean cloth than speak of what she had used it for. The fold was not the fold he had made when he gave it to her in November; it was her fold, with sharp corners and the feather turned inward, so that the cloth protected the stitching. Eden held it for the length of two breaths, then put it back inside the glove and laid both on the stone exactly where he had found them. He did not take it with him, and he did not go back to sleep. The roof was going light at the edges, and the apple tree held its three green fruit, and for once he could not have said how long he had been awake.

@@ -257,3 +257,9 @@
 - Second reading changed when he drew on the Door: **[Void Heir]**. He held his breath one beat and did not say the name out loud, because names spoken in a room cannot be taken back.
 - Vesk: the Veil smell stays after it dies, longer in a coat; "Do not go near Hollen until it is gone." Eden was wearing her scarf.
 - C1 C delivered by a veteran at the garrison door: "Thirteenth Vigil work. Like the Hollen boy." Lysette came round the stores and heard every word; she asked nothing in front of the man. Eden counted eleven steps to the hut and rubbed the number off his hand.
+
+## Thu 14 Jan (ch 37)
+- Ysolde's courier delivered the PR 110 file, sent because Eden had written the request on the back of a 13-B without remembering it. He also relayed "a bun does not count as lunch".
+- File: cover PR 110, name Corentin Hollen, times in Eden's own hand, his own confirm mark (small circle with a line through it, pen dry at the edge). He never marks without seeing grey, but could not remember the face clearly: coat collar, worn stair, a voice stopping. C2 E delivered, deniable; no grey shown, no memory scene.
+- Felix made a list of four habits and said he would help if asked; Eden said no. Lysette arrived at the end and asked only that he come back to the watch, not what was in the envelope. Clara brought sweet tea with honey.
+- Last page is an index with the final two lines crossed out so hard the paper tore; supporting pages removed before the copy was made. Hook: the file ends where it should have begun.

@@ -129,3 +129,14 @@
 - REVIEW ch 36: PASS. check_chapter OK (1802 words, mean 13.4, dialogue 22% warning only). Read twice. C1 C is delivered by a veteran's words and Lysette's silence; no confirmation narration from Eden.
 - No kill without proof: the grey is shown by honest light before the cut. **[Void Heir]** is a reading, not a spoken name, and stays unexplained on the page.
 - Continuity: dust smell from ch 5/22/31, scarf from ch 33, Lysette's decree from ch 27. Vesk cannot follow into the dark beyond the second lamp.
+
+### 2026-11-26 07:42 UTC (14:42 WIB) - tulis bab berikutnya - chapter 37 - ok
+- words: 1801
+- scores: tension 2, surprise 3, emotion 4, battle_clarity -, voice 4, freshness 4
+- notes: PR 110 file; C2 E; Felix's list; missing pages hook.
+- quota_note: 
+
+### self-review ch 37 - LOW risk, same session, not independent
+- REVIEW ch 37: PASS. check_chapter OK (1801 words, mean 13.4, dialogue 27%). No reveal: C2 stays at E, no grey shown and no memory scene (that belongs to ch 45).
+- Eden's flat rule holds: body data, palms on paper, crease as fact; no feeling narrated. His claim that he cannot recall the face is deniable, and the chapter does not confirm a mistake.
+- Continuity: PR 110 from ch 27, confirm mark from ch 36's reading, scarf and courier from ch 33/35, joke about buns from ch 9/12.

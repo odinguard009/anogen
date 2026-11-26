@@ -63,3 +63,6 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 
 - [paid ch 35] S1: Eden saved Seraphine at the winter lodge at twelve | planted: 2, 4, 10, 25 | due: 35
 - [open] Candle flickers backward when [Switcheroo] lands | planted: ch 35 | due: 505
+
+- [open] PR 110 file's last two index lines crossed out and the supporting pages removed before copying | planted: ch 37 | due: 45, 163
+- [open] Felix's list of Eden's habits (never asks, never says where he goes, late to everything but danger, pays with food) | planted: ch 37 | due: 47, 236

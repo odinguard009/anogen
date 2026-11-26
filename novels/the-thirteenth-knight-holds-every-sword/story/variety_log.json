@@ -453,5 +453,18 @@
       "pacing_shape": "quiet entry, one bright trick, hard walk",
       "hook_type": "a name spoken by a veteran"
     }
+  },
+  {
+    "chapter": 37,
+    "picks": {
+      "opening_type": "a courier who refuses to sit down",
+      "scene_shape": "five sheets in an empty hut",
+      "tension_type": "a document that knows more than the man",
+      "emotional_tone": "flat and careful",
+      "comic_device": "a bun does not count as lunch",
+      "conflict_type": "reading a file about yourself",
+      "pacing_shape": "slow pages, one missing ending",
+      "hook_type": "pages removed before the copy"
+    }
   }
 ]

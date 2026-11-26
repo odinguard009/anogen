@@ -49,3 +49,6 @@ During Wall rations week Seraphine uses the first [Switcheroo] to trade posts an
 
 ## Ch 36 - The Second Reading
 A Veil is wearing Storems, a popular garrison sergeant, and soldiers would defend him. Eden enters the roll room at change of watch, opens a Door behind the sergeant and bounces **[Inead]**'s light off a signal mirror so the grey shows without anyone seeing the sword. He cuts once. The reading in his head changes to **[Void Heir]** while he holds the Door, and he holds his breath for one beat. Vesk warns him the smell will stay on the coat. A veteran calls it "Thirteenth Vigil work. Like the Hollen boy", and Lysette hears.
+
+## Ch 37 - The Last Page
+Ysolde sends Eden the PR 110 file after he unknowingly requested it on a form. It carries his own confirm mark beside Corentin Hollen's name, but he cannot bring the face into focus, only a collar, a stair and a voice stopping. Felix tells him he has made a list of Eden's habits and offers help; Eden refuses. Lysette asks him back to the watch, and Clara brings tea. The last page is an index whose final two lines were crossed out before the file was copied.

@@ -107,3 +107,14 @@
 - REVIEW ch 34: PASS. check_chapter OK (1804 words, mean 12.0, dialogue 24% warning only). Read twice; no Unbind or reveal confirm, only hints.
 - First use of [Dawnbreak] has look, body use, effect, duration and cost; Okoru forbids practice, so the power does not become a habit. The Door works on the Choir's own shadow with a stated light edge.
 - Continuity: Choir pull from ch 32, groundskeeper and Wall from ch 31, bellwire from ch 33. No one narrates Eden's feelings; he notes the door-ease as a private fact.
+
+### 2026-11-26 07:33 UTC (14:33 WIB) - tulis bab berikutnya - chapter 35 - ok
+- words: 1804
+- scores: tension 3, surprise 4, emotion 4, battle_clarity -, voice 4, freshness 4
+- notes: S1 confirm delivered by Seraphine; first [Switcheroo]; candle flicker hint.
+- quota_note: 
+
+### self-review ch 35 - HIGH risk, same session, not independent
+- REVIEW ch 35: PASS. check_chapter OK (1804 words, mean 10.9, dialogue 57%). Banned phrase "for a long moment" replaced. Read twice.
+- S1 CONFIRM is delivered by Seraphine telling Felix, with Eden's flat number correction. No "my savior" line, no inner voice from Eden explaining the rescue. The reader learns the boy's identity from her story and his numbers, not from a narration of his feelings.
+- First use of [Switcheroo] has look, body use, limit and the candle flicker hint; no Unbind. Joke count from ch 10/19/14 reaches 79. Lysette's shaking hand is the outline hook.

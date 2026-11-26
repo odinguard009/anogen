@@ -43,3 +43,6 @@ After the Choir silence, a bellwire announces the king's inspection of the Wall.
 
 ## Ch 34 - The Cistern
 Lance Nine descends into the cistern beneath the Wall to end the Choir before its next song. Felix's Trail reads the current under a submerged slab, and Rowan's first **[Dawnbreak]** floods the dark with gold for one breath, freezing the Choir's shadow edge long enough for Eden to cut a Door and drop the node into deep water. Sound returns. Okoru tells Rowan not to practice the light, and Eden keeps to himself that it made his doors easier. On the horizon a shape taller than the clouds moves once and is still.
+
+## Ch 35 - The Lodge
+During Wall rations week Seraphine uses the first [Switcheroo] to trade posts and sit beside Eden. She tells Felix the story of the winter lodge: a fire gone out, children under a table, a boy with a sword who counted them out in four minutes and gave her his glove. Eden corrects her number from nine to eleven, and she accepts it without asking how he knew. Lysette writes Seraphine up again for the post swap, but her hand shakes and she cannot change the nine she has already written.

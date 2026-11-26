@@ -60,3 +60,6 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 
 - [open] Silhouette taller than the clouds on the southern horizon, moves once | planted: ch 34 | due: 250, 270
 - [open] Rowan's light makes Eden's Doors easier while it burns | planted: ch 34 | due: 470, 499
+
+- [paid ch 35] S1: Eden saved Seraphine at the winter lodge at twelve | planted: 2, 4, 10, 25 | due: 35
+- [open] Candle flickers backward when [Switcheroo] lands | planted: ch 35 | due: 505

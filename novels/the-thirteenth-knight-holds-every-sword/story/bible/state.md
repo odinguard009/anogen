@@ -244,3 +244,9 @@
 - Okoru from the stair: "Do not practice it. Not yet." Rowan's hands cold, Clara did not heal; Eden noted privately that the light made doors easier and kept it to himself (Unbind hint only).
 - Sergeant's report: ONE CLEAN CUT, NO DAMAGE TO THE STONE. The rest not written down.
 - Hook: on the southern horizon a shape taller than the clouds moved once and was still; Eden counted eleven towers and had no twelfth to compare.
+
+## Mon 11 Jan (ch 35)
+- Rations week: frozen bread, a lottery with a tin cup, a new rule from Ysolde's courier that every Husk gets Form 13-B with a box HOSTILE, FORMERLY PERSON. Gorrath complained in Eden's head; the Dragon told him to stop.
+- Seraphine's joke count on Felix reached 79. First [Switcheroo]: snap and wink moved her and Felix within ten steps without disturbing snow; the candle flickered backward twice. She traded posts to sit beside Eden and told the lodge story to Felix, with Rowan and Lysette listening.
+- S1 CONFIRM delivered by Seraphine, not by Eden's inner voice: winter lodge, fire out, nine under a table, door opened from outside, a boy no bigger than her with a sword, "four minutes", counted them out with smallest first, gave her his glove although she said she was warm. Eden corrected the numbers: "Eleven men." / "You said nine." / "Nine came in." / "Eleven went out." He did not explain how he knew.
+- Hook: Lysette wrote Seraphine up again for an improper post swap; her hand shook and she said she did not know why. She had written nine in three places and could not change it.

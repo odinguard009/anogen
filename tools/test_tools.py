@@ -1098,6 +1098,14 @@ def main():
     finally:
         _cc.STORY = _old
     print("  ok battle_check phases")
+    _w, _e = _cc.plain_check(0, "x")
+    assert (_w, _e) == ([], [])
+    _body = "That is not an answer.\n\nIt is the only one I have.\n\nNarration."
+    _w, _e = _cc.plain_check(50, _body)
+    assert _w and not _e, "ch 50 riddles = warning"
+    _w, _e = _cc.plain_check(51, _body)
+    assert _e and not _w, "ch 51 riddles = error"
+    print("  ok plain_check phases")
 
     print("\nALL TESTS PASSED")
 

@@ -58,7 +58,7 @@ Lysette's pencil stopped. "The apron is Committee property."
 
 The east kitchen had a low ceiling, a stone floor, and an oven built into the wall with a brass valve the size of a plate. Six burners stood in a row, and the room was already hot enough that the windows had run with steam. A row of copper pans hung above the table, and each pan had a dent in a different place, as if the kitchen had been hit by a hundred small stones over the years. The floor was washed every evening, and the soap smell sat under the flour and the hot sugar. The cooking club had hung a banner that said BALL WEEK in crooked letters, and someone had corrected the second L with a pencil.
 
-Rowan put on an apron and immediately got flour on it. "I will make the bread," he said.
+Rowan put on an apron and immediately got flour on it. The apron was one of three the club owned, and it had been made for someone half his size, so the strings did not meet at the back and the whole thing hung from his neck like a bib. Nobody told him. Felix looked at it for a long moment and then, with great kindness, looked away. "I will make the bread," he said.
 
 "You cannot make bread," Clara said.
 
@@ -78,7 +78,7 @@ Felix stood at the end of the table with a spoon in his hand and his book proppe
 
 "It looks like glue."
 
-"It will rise." Seraphine stopped stirring. "It has to rise. I told everyone it would."
+"It will rise." Seraphine stopped stirring. "It has to rise. I told everyone it would." She said it lightly, but her whole arm was tense to the shoulder, and Eden saw that the bowl mattered to her in a way the joke did not explain. Some people bake the thing they cannot say.
 
 Felix looked into the bowl. "It has not risen."
 
@@ -130,7 +130,15 @@ Lysette rang the serving bell. It made a thin, useless sound under the noise of 
 
 Two prefects came down the stairs with the stone bucket and stopped in the doorway because there was nothing to put out. The smoke went up into the vent and left through the roof, and the kitchen began to smell of burnt sugar instead of fear. Lysette made them write their names on the back of the form, which was the only empty space left.
 
-Nobody was hurt. Clara had flour on one cheek and a small burn on her thumb that had already closed. Felix's hair cloth had come off and he was holding it in front of him as if it were evidence. Seraphine's soufflé had fallen flat inside its cloth, and she looked at it with real sadness.
+Nobody was hurt. Clara came last through the smoke and stopped beside Eden, with the flour still on her cheek. She did not say anything for a moment. Then she said, very low, "You told me to move the bowl before the door opened."
+
+"The steam changed."
+
+"Did it?" She looked at the valve, which had gone quiet, and then at him. "I did not see it change."
+
+"It was a small change."
+
+"You see a lot of small changes." She picked a crust of dough off her sleeve. "I will not ask. I only wanted you to know that I noticed." She went to find Rowan, and Eden was left with the odd feeling of having been thanked and warned in the same breath. Clara had flour on one cheek and a small burn on her thumb that had already closed. Felix's hair cloth had come off and he was holding it in front of him as if it were evidence. Seraphine's soufflé had fallen flat inside its cloth, and she looked at it with real sadness.
 
 "It rose," she said. "For four seconds it rose."
 
@@ -170,9 +178,7 @@ Rowan knelt to pick up a roll and handed it to Lysette, who took it without look
 
 "It is from the flour."
 
-"Yes." She put the roll on the table and turned the form over. "I am writing that down."
-
-"Nobody," Lysette said. She wrote it down. "Write that on your card as well."
+"Yes." She put the roll on the table and turned the form over. "I am writing that down. And the answer to your question is nobody." She wrote that down too. "Put it on your card as well."
 
 "Nobody is worth forty-three," Seraphine said, and went out with Felix behind her. He carried the fallen soufflé on a plate and looked at it with the same attention he gave his book, and she held the door for him because her hands were full and his were not.
 

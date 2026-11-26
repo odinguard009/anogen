@@ -38,6 +38,8 @@ Felix stood up without hurrying. "That is the second runner. She is building an 
 
 "No. But it is a better place to be than the north door."
 
+The first-year runner was still standing there, breathing hard, waiting for something. Eden looked at him, then at the roll in Felix's hand, and Felix sighed and tore it in half and gave the boy the bigger piece. The boy took it with both hands and said, "Thank you, sir," in the voice of someone who had just been promoted. "That," Felix said, as he watched him go, "is how it begins. One roll, and you have an army."
+
 * * *
 
 The north door of the dining hall had a bench beside it and a notice board above it, and Lysette stood under the notice board with a clipboard and three prefects. Two of them carried written warrants. The third carried a ladder, because the roof garden had a locked door and someone had told her about the key.
@@ -106,13 +108,15 @@ She said it so flatly that he looked at her. She had put her book under her arm 
 
 "You already knew." She stopped on the first step. "That is what I mean."
 
+She did not slow down. "I tightened the screws on the west door last week and left this one alone. A person needs one door that does not argue." Then she was gone up the stairs, and Eden stood by the notice board with his hands still held out, like a boy waiting for a plate that had already been taken away.
+
 * * *
 
 By the afternoon the raid had become a campaign. Warrants lay in three piles on the Committee bench, with runners coming and going between the hall and the east stairs. One of them reported a boy in grey boots on the roof. Another reported a boy in grey boots in the library. A third reported no boy at all, which Lysette wrote down as 'no boy, useful'.
 
 One warrant was written for the roof, one for the library, one for the stables and one for "various, see attached". The attached sheet had three places on it and a line through two of them. Lysette made four copies of the whole set, because the office liked copies and returned anything with fewer than three. By the last bell the Committee bench looked like a small wall of paper, and the runners had started charging each other for the news.
 
-Eden went up to the roof garden just before the last bell and found the herb bed damp from the morning's rain. The mint had grown over the edge of the stone and the sage had gone woody at the stem, but the thyme was thick and green. A trowel lay where she had left it, point down along the stone.
+Eden went up to the roof garden just before the last bell and found the herb bed damp from the morning's rain. The mint had grown over the edge of the stone and the sage had gone woody at the stem, but the thyme was thick and green. A trowel lay where she had left it, point down along the stone. Beside it was a folded square of cloth, and he knew without touching it that she had left it there for him to find. It was a small flannel, damp, with a note pinned to the corner in her handwriting: For boots. Not mine. Return on request. He put it in his pocket, and he did not return it. A week later he still had it, and nobody had asked.
 
 He lay in the herb bed because the grass outside it was wet and the bed was warm from the day. The smell of thyme came up into his coat, and a small bee worked the mint flowers a hand's width from his ear. The stone under him had been dug and turned and dug again, and the soil was fine where her hands had been. He meant to close his eyes for one minute, and he wrote the minute on the back of the timetable before he put it away.
 

@@ -4,8 +4,6 @@ A bird had made a nest in the broken telescope, and Eden could not lie in his us
 
 Boots came up the stair four at a time. "Wren!" Rowan's voice went across the roof garden and off the wall. "I found you."
 
-The loaf was still warm, and its crust cracked when he broke it.
-
 Eden did not move his arm. "It is a roof. There are not many other places."
 
 "There you are." Rowan came round the herb bed with a spear in one hand and a loaf in the other, and he sat down three feet away as if that were a short distance. "I want to be friends."
@@ -16,21 +14,17 @@ Eden did not move his arm. "It is a roof. There are not many other places."
 
 "You said why."
 
-"I said I want to be friends. That is not a why. That is the thing itself." Rowan broke the loaf in two and held out the bigger piece. "Felix says you do not like people asking where you go."
+"I said I want to be friends. That is not a why. That is the thing itself." Rowan broke the loaf in two and held out the bigger piece. The crust cracked, and steam came out of it. "Felix says you do not like people asking where you go. So I am not asking. I am sitting."
 
-"Then why?"
+"Then why do you keep coming up here?" Eden asked.
 
-"Because you keep coming back when I say no."
+"Because you keep coming back when I say nothing."
 
 "That is what friends do."
 
 "It is what dogs do."
 
 Rowan laughed at that, loud enough to disturb the bird in the telescope, and took it as praise.
-
-"I did not tell him that."
-
-"He worked it out. He is like that."
 
 Eden took the bread because it was there and because Rowan would have held it all morning. "What do you want from a friend?"
 
@@ -103,6 +97,14 @@ Lysette stayed where she was, with her pencil on the page. Eden sat up. The bird
 "Are you coming?" Rowan asked.
 
 "He is," Lysette said. "I have to write it down if he is not."
+
+She waited at the door while Eden got up. He felt the weight of her not looking at him, which was a different weight from other people's. At the top of the stairs she stopped and pointed her pencil at the telescope.
+
+"That bird," she said. "Is it yours?"
+
+"It is the roof's."
+
+"Then the roof has a tenant, and the tenant has not filed a form." She wrote one line anyway. Eden thought it looked like the word bird, and then, under it, a smaller word he could not read. She shut the book before he could try.
 
 * * *
 
@@ -201,3 +203,7 @@ She said it too fast, and Felix looked at her, but she was already asking Rowan 
 She went back to the head of the Line, where Rowan was arguing with a server about the size of a ladle, and Felix went after her with his one roll. Eden stood at the counter with the book under his arm and let the Line move past him.
 
 Across the hall, a man in a grey coat stood by the wall with a small book open in his hand. The coat had no school badge and no guild mark, and the book was the kind prefects used for counts. He kept his left hand inside his sleeve. He was not eating, and his tray had never left the counter. He had watched Eden from the moment the card went into the book, and now he wrote one line, shut the book, and set his back against the wall under the prefect's notice board, where the light was poor and no one looked twice at him. The line was short. Eden could not read it from where he stood, and the man did not write a second.
+
+Eden stood still and made himself do what he did on the Vigil: count. Four exits. One prefect near the notice board, looking at her own list. Two second-years arguing over a spoon. The man by the wall had a limp on the left, and a mud line on his boot that did not match the dry court. Eden had seen that mud before, once, in the lower city, near the canal steps where the dye-works stood.
+
+He put the strategy book under his arm with the card inside. The weight was nothing, a few grams of paper, and he carried it down the hall as if it were a stone. When he sat at the usual table, Felix pushed the bread across without a word, and Eden ate two rolls with his eyes on the grey coat the whole time. He did not once look at the card, and he knew exactly where it was.

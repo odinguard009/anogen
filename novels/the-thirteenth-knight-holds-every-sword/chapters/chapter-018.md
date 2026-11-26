@@ -16,7 +16,7 @@ Eden turned it over. "Thirteen."
 
 "She writes everything else." The courier put his cap back on and pulled it down. "She said you would ask."
 
-Eden put the note in the same pocket as the Ashen card, which he had stopped calling a bookmark.
+Eden put the note in the same pocket as the Ashen card, which he had stopped calling a bookmark. The two papers lay together in the dark of the pocket like two halves of a sentence, and he kept his hand away from them for the rest of the morning, so that he would not be tempted to try to read them as one.
 
 Rowan noticed everything except danger. That was the trouble with him. On the walk into the lower city on Friday he stopped to look at a dog with one ear. He asked the baker why the shutters were painted blue. He remembered the name of the boy who swept the crossing. He did not see the man in the grey coat who took the same three turns behind him.
 
@@ -30,7 +30,7 @@ Rowan noticed everything except danger. That was the trouble with him. On the wa
 
 "A woman told me." He put it back. "I hate being wrong twice about the same fruit."
 
-Eden walked half a street behind the man, not behind Rowan. A watcher watched the watcher. When the grey coat stopped at a window, Eden stopped at the same window. When the grey coat moved on, he moved.
+Eden walked half a street behind the man, not behind Rowan. A watcher watched the watcher. It was slow work, and it asked for a kind of patience that nobody had ever praised him for. The grey coat never hurried and never looked back. He took a different doorway each day, wore the same boots, and had a way of standing with his weight on his right foot so that the left could lie still in the mud. Eden learned the boots first, then the stance, and by the third day he could have picked the man out of a crowd by the sound of his steps alone. When the grey coat stopped at a window, Eden stopped at the same window. When the grey coat moved on, he moved.
 
 By Thursday the tail had become a habit. Rowan went to the dye market on Monday and the bell foundry on Tuesday. On both days the grey coat came out of a different doorway and kept six paces behind his left shoulder.
 
@@ -98,6 +98,8 @@ The small book had a name on the flyleaf, written carefully in the same hand: Co
 
 Eden read the two lines twice. The list was the Ball guest list, and someone had written what they wanted from it in the space above the names. He put the paper back, took the man's belt knife and the small book, and left him asleep under the beam with his coat buttoned. When the man woke he would be in a closed cellar with no lamp and no memory of the last four seconds, and the door had no handle on the inside. That was a message as well as a safe place to put him.
 
+As he stepped back through the Door he heard the man breathing in his sleep, slow and ordinary, and for a moment he wondered what the bagman had been before he was a bagman. A clerk, perhaps. A clerk who had been told that the work was small. Eden did not wonder long. A name on a flyleaf was a name, and a man who carried a book about a boy with a spear was not a clerk any more.
+
 * * *
 
 Rowan came out of the house ten minutes later with a scrap of leather in his hand and a grin on his face. "Wren!" he said. "I found a man who can cut a spear grip. He is on this lane. I will bring you next time."
@@ -120,11 +122,11 @@ Rowan looked at him for a moment and then laughed, because he had decided it was
 
 "I will hold it."
 
-"Then you will see how thin it is." Rowan started up the lane and was gone at the first turn. He put the leather in his coat. "I have to go. Clara is waiting at the gate with a form for the Ball. She says it has two columns and I am in both."
+"Then you will see how thin it is." He put the leather in his coat. "I have to go. Clara is waiting at the gate with a form for the Ball. She says it has two columns and I am in both."
 
 "Two columns?"
 
-"One for people going and one for people helping." Rowan started up the lane. "I do not know which one I am in."
+"One for people going and one for people helping." Rowan started up the lane and was gone at the first turn, still talking to himself. "I do not know which one I am in."
 
 Before he left the lane, Eden went back to the cellar door and knocked once. The man under the beam did not answer. Eden put the small book and the belt knife in his own coat and left the folded paper where it had been, because a bagman who woke without his paper would be sent back for it, and that would put him somewhere Eden could find him again.
 

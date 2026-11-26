@@ -24,6 +24,8 @@ Lysette turned on him. "How do you know?"
 
 "Because you are going to." She shut the book. "Do not ask me to stop you. I have tried."
 
+"Then I will ask anyway," Rowan said.
+
 "Then I will write it down," she said, and walked toward the arms hall with her book open.
 
 * * *
@@ -33,6 +35,8 @@ The duel yard had a chalk line down the middle and a judges' table at the north 
 Seraphine sat on the wall opposite with a card in her hand, and Clara stood beside her with a posting ribbon on her collar. Neither spoke. The crowd left a space around them too, but for a different reason: people did not want to be near a princess during a duel her twin had made.
 
 Valerius had brought his own sword, a straight blade with a square guard, and he wore his bronze pin high on his collar. The space around him was empty in a way that had nothing to do with the chalk line. Students stood three deep along the walls and spoke quietly, because duels were not cheered until they were over.
+
+Rowan had found a place on the wall beside Felix, and he leaned on his spear and said nothing, which was so unusual that two second-years stopped to stare at him. Felix had his book open and was not reading it. Lysette stood a little apart with her black book shut and her pencil held in her fist like a small, useless weapon. She had not written one word since the bell, and Eden could feel her not writing.
 
 "Eden Wren," Valerius said. "Eight."
 
@@ -44,9 +48,11 @@ Valerius had brought his own sword, a straight blade with a square guard, and he
 
 "No." Valerius's face did not change. "I want you to try. Those are not the same thing."
 
-"If you win," he said, "I will ask again tomorrow."
+The first wall was five steps away, and Eden counted them, because counting was the only part of him that stayed calm when someone looked at him like this. He knew the rules of the yard. He knew that a boy who lost too easily would be asked questions by the judges, and a boy who won would be asked questions by everyone. He wanted the third thing, the narrow thing in the middle, where a boy lost by a finger and nobody could say why.
 
-"If I lose?"
+Valerius added, "If I win, I will ask again tomorrow."
+
+"And if I win?"
 
 "I will still ask."
 
@@ -56,7 +62,7 @@ Valerius had brought his own sword, a straight blade with a square guard, and he
 
 The senior judge lifted the bell but did not ring it yet. "No cuts above the collar. No kills. A touch to the body ends the exchange. The bell ends the round."
 
-Eden took out **[Exa]** from the case on his back. The lance came out matte black and cold, a little longer than his arm, and he held it at his hip. He needed to lose by less than a finger's width, which meant he had to know exactly where Valerius's blade would be before it arrived. He had watched Valerius duel twice in five years, from the back of a hall, and remembered the spacing of his feet.
+Eden took out **[Exa]** out of his own shadow. The lance came out matte black and cold, a little longer than his arm, and he held it at his hip. He needed to lose by less than a finger's width, which meant he had to know exactly where Valerius's blade would be before it arrived. He had watched Valerius duel twice in five years, from the back of a hall, and remembered the spacing of his feet.
 
 The bell rang.
 
@@ -70,9 +76,7 @@ Eden looked at the wall. It stood between them, so it also stood between him and
 
 "I am here."
 
-"Two beats late."
-
-"Two walls," Valerius said. "I will do this all day."
+"Two beats late. Two walls. I will do this all day."
 
 "Then I will walk all day."
 
@@ -92,13 +96,15 @@ Eden did not retreat. He stepped onto his front foot and turned on it, the way a
 
 The pivot left Eden's front foot numb for one step, and the lance butt came back to his hip with a small shake. He put the shake into the floor rather than into his arm, and the crowd along the wall did not see it. Rowan had stood up from his place without deciding to, and Lysette's pencil had stopped.
 
-Valerius did not fall. He turned on the half step and brought the sword down, and Eden put his shield into the line of it. The blade struck the iron ring and rang across the yard, and the students along the wall went quiet together.
+Valerius did not fall. He turned on the half step and brought the sword down, and Eden knocked the ring once, let the lance fold, and put the shield into the line of it. The blade struck the iron ring and rang across the yard, and the students along the wall went quiet together.
 
 Okoru had stopped chewing, and the strip of leaf he worked on during drills lay untouched on the windowsill behind him. A prefect behind the judges' table looked down at his paper and forgot to write. Seraphine's card turned over in her hand, and she did not pick it up.
 
 Valerius dragged another line. "This line is not crossed." The third wall rose between them, and his breath came shorter again, and his hand stayed at the guard a moment longer than it had the first time. Eden could see the cost of it now, and he used it. He let the prince make walls until the gaps were narrow, then moved through the one Valerius had just made, where the cold was still rising and the prince's breath was still gone.
 
 A pale wall was a thing that had been placed. It did not know where Eden was once he was past it.
+
+Eden used the pause to count the prince's breathing: in, short, out, one beat held. After each wall the hold grew by a fraction. It was not much. It was the kind of thing only a person who had watched a great many people tire would see, and Eden had watched a great many. He did not use it to win. He used it to know when he could afford to be slow, which was a different and much sadder skill.
 
 The fifth wall came up almost against his shield, and this time the cold went into his fingers before he had finished moving. Valerius's breath made a small sound in his chest, and the sword point dropped an inch. Eden put the lance butt against the pale wall and pushed, and the wall slid sideways on the chalk because Valerius had put it there in a hurry. The prince had to step round his own wall, and Eden was already behind it.
 
@@ -126,9 +132,7 @@ The ache in his arm spread to his fingers. He counted the bell in his head. Two 
 
 He stepped inside the next swing and brought the lance butt up under Valerius's guard, and this time he put a little of his weight behind it. The prince's blade went wide by two inches. Eden let it go wide. Two inches was too much, so on the next exchange he made it one.
 
-Valerius stopped and looked at his own blade. "Again," he said. "That one was closer."
-
-"You are counting my blade," Valerius said.
+Valerius stopped and looked at his own blade. "Again," he said. "That one was closer. You are counting my blade."
 
 "No."
 

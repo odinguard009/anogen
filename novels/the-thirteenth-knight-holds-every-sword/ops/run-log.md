@@ -118,3 +118,14 @@
 - REVIEW ch 25: PASS. check_chapter OK (1800 words, mean 13.1, dialogue 23% warning only). "Tapestry" is a banned phrase, so the outline beat is written as "Ostrevaal wall hanging" in text and notes.
 - First uses of [Lintel] and [Hrak] described in scene and ledger. Aura moment has reaction shots: hostages see dark shape/gold glint, Embers step back, Valerius sees and stays still, Seraphine's hand stops shaking (S1 E). No armor face or Door shown to the room.
 - Ilsabet is spared (debt marked paid); no kill without confirmation. Lysette sees only smoke and light, not a man, so T1-7 stays at D/E, not confirm.
+
+### 2026-11-26 06:48 UTC (13:48 WIB) - tulis bab berikutnya - chapter 26 - ok
+- words: 1816
+- scores: tension 2, surprise 3, emotion 5, battle_clarity -, voice 4, freshness 5
+- notes: No-dream sleep; washed handkerchief returned; real smile on roof.
+- quota_note: 
+
+### self-review ch 26 - MEDIUM risk, same session, not independent
+- REVIEW ch 26: PASS. check_chapter OK (1816 words, mean 11.4, dialogue 39%). No reveal or power; the smile is a physical crack, briefly described, and no feeling is explained after it.
+- Continuity: handkerchief from ch 1 now returned washed; the gloves from ch 10/card are on the stone; "Did it light?" from ch 1 is echoed by Lysette's lantern question in ch 24 and the "On purpose" dance line here.
+- Eden's honest "No." answers the exact outline question and nothing more; Lysette accepts it on the page.

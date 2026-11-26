@@ -68,3 +68,6 @@ Eden watches the Ball from the roof above the glass atrium while Lysette, in a g
 
 ## Ch 25 - The Lattice
 Lysette fetches the guard while Eden re-enters the seized atrium through Doors cut in the roof lattice's shadows. Ilsabet Rorke wears a graft in her right arm and uses **[Hrak]**; Eden takes a blade on his shield and answers with the first **[Lintel]**, a flat overhead shield with **[Inead]** drawn under it in one motion. The hostages see only a dark shape and a gold glint. He spares Ilsabet and uses the lattice shadows to move the students out. Valerius sees more than he should; Merrow admires an Ostrevaal wall hanging. At the door Lysette says she saw smoke where a man should have been and orders Eden back to the roof before heads are counted.
+
+## Ch 26 - On My Foot
+Back on the roof after the Ball siege, Lysette asks Eden whether he was up there the whole time and he answers "No." She accepts it. They stand on each other's feet for a slow dance while the band still plays below; he smiles once, a real one, and she does not mention it. Eden sleeps without the war dream for the first time in years. At dawn he finds his gloves on the stone with the handkerchief inside, washed and folded with the feather turned inward.

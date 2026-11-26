@@ -310,5 +310,18 @@
       "pacing_shape": "setup, first use, then a chain of small moves",
       "hook_type": "a witness with too little to write"
     }
+  },
+  {
+    "chapter": 26,
+    "picks": {
+      "opening_type": "soot on a cuff after a siege",
+      "scene_shape": "one long rooftop conversation and a silent dawn",
+      "tension_type": "a question with two words and one answer",
+      "emotional_tone": "tender without being named",
+      "comic_device": "standing on a foot on purpose",
+      "conflict_type": "what to say and what not to say",
+      "pacing_shape": "slow talk, small smile, long sleep",
+      "hook_type": "a handkerchief washed and put back"
+    }
   }
 ]

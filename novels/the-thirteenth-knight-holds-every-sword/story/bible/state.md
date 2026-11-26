@@ -183,3 +183,10 @@
 - Ilsabet's **[Hrak]** swelled her arm grey and swung at Eden's empty shadow. Eden took a thrown blade on **[Exa]**'s folded face overhead, then used **[Lintel]**: shield flat, **[Inead]** drawn under it in one motion, one cut through the frost lines at her shoulder. He spared her with a cut through the brass at her wrist. Aura moment: hostages saw only a dark shape and a gold glint; the Embers stepped back when he crossed the broken glass without knowing why; Valerius saw the shield and the sword and kept his hands open; Seraphine's hand stopped shaking again (S1 E).
 - Puzzle: successive Doors in the lattice's dark squares moved hostages through patches of shadow; Felix's hand came free, Rowan's spear went to Clara. Merrow, among the hostages with a blade at his collar, admired the Ostrevaal wall hanging and its later blue border.
 - Hook: Lysette at the west door with the guard, book shut: "I saw smoke in a shape that should have been a man, and a light under it... Go back up before they count heads. I will say you were with me the whole time."
+
+## Sat 12 Dec, past midnight (ch 26)
+- Eden back on roof before hall count; left arm hollow from Door work, soot on cuff, tear in glove. Lysette came up in the gown, shaking, and asked "Were you up here the whole time?" Eden answered "No." She took it without a second question.
+- She asked for one thing about himself; he gave only roof/stone/lantern facts and she said "I asked if you were there."
+- Roof dance: her foot on his left, "You're on my foot." / "On purpose." She told him she had asked Rowan in September and he forgot; "He would dance with a broom if it asked nicely." Eden smiled once, a real one, small and short, and Lysette saw it and said nothing.
+- "Thank you for the dance" followed by "If you tell anyone I said thank you, I will write you up for it."
+- Eden slept with no dream at all for the first time since he was ten. At dawn the gloves lay on the stone with the handkerchief inside: washed, dried, sharp-cornered, feather turned inward and clean. He put it back exactly where he found it and did not sleep again.

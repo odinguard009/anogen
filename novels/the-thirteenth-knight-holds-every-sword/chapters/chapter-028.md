@@ -10,17 +10,13 @@ The train to Silverfell ran on a veinline, which was a line of mana laid under t
 
 "That is worse." Felix took his hand away. "I like a train that tells me where it is."
 
-The engine hummed for two hours through grey fields, and then the fields became hills and the hills became snow. A woman in the next seat knitted a scarf the colour of a roof tile and counted her stitches under her breath, and when the train crossed a bridge she stopped counting and crossed herself, then began again at the same number. Felix watched her until she noticed, then looked out the window at the snow. At the station a manservant in a black coat waited with a carriage and did not seem surprised that the train was late or early or whatever it had been. He put Eden's bag on the carriage without touching it with both hands, which was the first odd thing about him.
+The engine hummed for two hours through grey fields, and then the fields became hills and the hills became snow. A woman in the next seat knitted a scarf the colour of a roof tile and counted her stitches under her breath, and when the train crossed a bridge she stopped counting and crossed herself, then began again at the same number. Felix watched her until she noticed, then looked out the window at the snow. At the station a manservant in a black coat waited with a carriage. His name was Bertram, and he had worked at Silverfell for as long as Eden could remember. He lifted Eden's bag onto the carriage with one hand and did not say that Eden had grown.
 
 The road to the house climbed through a forest of black firs, and every bend had a stone marker with a number cut into it. Felix read them aloud, one by one, and by the ninth he had begun to guess the next. "Eleven," he said, and the marker said eleven. "Twelve." He looked pleased, and then, because he was Felix, he looked suspicious. "Who numbers a road?"
 
-"A man who walks it," Eden said, and did not say that he had walked it at ten, with a stick, counting.
+"A man who walks it," Eden said. He did not say that he had walked it at ten, with a stick, counting.
 
-"Bertram," he said, to nobody in particular.
-
-"Eden," Eden said.
-
-"Yes." Bertram's face did not change. "The Duke is in the west room. Dinner is at seven. The bandits are on the carriage road."
+Bertram drove on without turning his head. "The Duke is in the west room. Dinner is at seven. There are bandits on the carriage road."
 
 Felix looked up from the window. "Bandits?"
 
@@ -28,7 +24,7 @@ Felix looked up from the window. "Bandits?"
 
 * * *
 
-Silverfell was a wide stone house with a roof that had too many chimneys and a hall that could hold a small army standing at ease. The hall had a row of portraits along one wall and a rack of old spears along the other, and a long table in the middle that nobody used because the family preferred the small room. A fire burned in the hall grate even though the house was warm, and two dogs slept in front of it, one lying across the other's back. The Duke came out of the west room as they entered: a big man in a brown coat with his hair standing up at the back and a smile that arrived before the rest of him.
+Silverfell was a wide stone house with a roof that had too many chimneys and a hall that could hold a small army standing at ease. The hall had a row of portraits along one wall and a rack of old spears along the other, and a long table in the middle that nobody used because the family preferred the small room. A fire burned in the hall grate even though the house was warm, and two dogs slept in front of it, one lying across the other's back. The Duke came out of the west room as they entered. He was a big man in a brown coat, with his hair standing up at the back and a smile that arrived before the rest of him. He was Eden's father, though in this house nobody said so in front of a guest.
 
 "There you are!" he said, and put one hand on Eden's shoulder and one on Felix's, and pulled them both into the hall. "Felix, this is my house. Eden, this is also my house. Nobody is to be formal until after the fish."
 
@@ -44,13 +40,11 @@ Silverfell was a wide stone house with a roof that had too many chimneys and a h
 
 "They were at dawn," Bertram said. "I went out to look. Their horses were muddy."
 
-Eden looked at Bertram's boots. They were polished to a shine, and there was dry mud at the seam where the leather met the sole, just above the heel. Bertram saw him looking and put one foot behind the other.
+Eden looked at Bertram's boots. They were polished to a shine, and there was dry mud at the seam where the leather met the sole. That was odd, because the road had been frozen all day. Bertram saw him looking and put one foot behind the other.
 
-"The mud is not on the boots," he said.
+"I walked the lower road at dawn," Bertram said quietly. "It is nothing."
 
-"No."
-
-"Good." Bertram moved the foot again. "It is not."
+Eden did not ask what he had found there.
 
 Dinner was served in the small dining room because the Duke said the big one made him feel like a duke and he had enough of that at court. Soup first, then fish, and a dish of potatoes that Greta put in the middle of the table with the authority of someone who had made them. Felix sat beside Eden with his book on his lap and did not open it, which was how he said he was listening.
 
@@ -68,17 +62,15 @@ Greta put the ladle down. "You are not going out there."
 
 "You will invite them in."
 
-"Only if they are polite." The Duke went to the hall and came back with a coat over his arm, and he was humming as he put it on, one note over and over, and at the third note a bell in the chapel rang once by itself.
+"Only if they are polite." The Duke went to the hall and came back with a coat over his arm. He was laughing at something Greta had said, one big laugh that filled the house, and at the end of it a bell in the chapel rang once by itself.
 
-Everyone stopped. The Duke stopped humming too, and looked at the ceiling as if the bell had been a servant with a message.
+Everyone stopped. The Duke stopped laughing and looked at the ceiling as if the bell had been a servant with a message.
 
 "Did that happen before?" Felix asked.
 
-"No," Eden said.
+"No," Eden said. It was not quite true. He had heard that bell once as a child, and no one had ever explained it.
 
-"Ah." Felix put his book on the table. "I will remember that."
-
-The Duke laughed, one big laugh that filled the room, and went out to the carriage road with Bertram behind him.
+The Duke gave a small cough, as if nothing had happened, and went out to the carriage road with Bertram behind him.
 
 Eden watched him go. Through the window the Duke's breath showed white in the lamplight, and he walked down the drive with the loose, unhurried gait of a man who has never once in his life expected a door to be locked against him. It was a way of walking that Eden remembered. He had been small, and the hand he held had been very large, and warm, and a good deal too confident.
 
@@ -100,13 +92,13 @@ The man with the knife looked at the house, then at the cart, then at the road g
 
 "Then you will be gone before the fish goes cold."
 
-The man with the gun looked at the purse, then at the Duke, then at the gun, and pulled the trigger because that was what he had been told to do if a man came close with a purse. The gun made a small clicking sound and did nothing. He pulled it again. Nothing. Bertram's mouth moved, which might have been a smile and was not one, and he reached out and took the gun from the man's hand with two fingers on the barrel.
+The man with the gun looked at the purse, then at the Duke, then at the gun, and pulled the trigger because that was what he had been told to do if a man came close with a purse. The gun made a small clicking sound and did nothing. He pulled it again. Still nothing. Bertram had walked the road at dawn, and the gun was not loaded. Bertram's mouth moved, which might have been a smile, and he reached out and took the gun from the man's hand with two fingers on the barrel.
 
 "Twice," Bertram said. "That is a poor habit."
 
 The man with the knife dismounted and came at the Duke, and the Duke caught his wrist in one hand and turned him toward the cart, where the third man was trying to untangle the horse's reins. Greta came out of the house with her ladle still in her hand and stood on the step, and the man with the knife looked at her, decided the step was not worth the trouble, and sat down on the cart.
 
-"Nobody is hurt," the Duke said, to the road in general. "That is the important thing." He gave the purse to the man with the gun, who took it without looking at it. "Go home. The road is icy past the bridge."
+"No one is hurt," the Duke said, to the road in general. "That is the important thing." He gave the purse to the man with the gun, who took it without looking at it. "Go home. The road is icy past the bridge."
 
 They went. The cart was still across the road, so Bertram moved it, one end and then the other, and the Duke came back into the house rubbing his hands and asking whether the fish was ruined.
 
@@ -130,8 +122,6 @@ Felix found Eden at the window of the east room after dinner with the snow comin
 
 "Your family is very loud," Felix said. "You are very quiet. Which one is the act?"
 
-Eden watched the snow hit the window and fall away. "Both."
+Eden watched the snow hit the window and fall away. "I do not know yet."
 
-"That is not an answer."
-
-"It is the only one I have." He turned from the window. Felix did not say anything. He had learned, over five years, that silence from Eden was not a refusal but a kind of weather, and that the weather changed if you stood in it long enough. So he stood in it. Outside, the snow came down in big wet flakes that stuck to the glass and slid, and one by one the candles in the house were pinched out until only the one on the mantel was left, leaning toward the door. Somewhere below them the Duke began a story about a winter and a leaking roof, and his laugh went up through the floors and hit the ceiling and came back quieter, and Felix put his book in his pocket because there was no point reading with that much noise in the house.
+He turned from the window. Felix did not say anything. He had learned, over five years, that silence from Eden was not a refusal but a kind of weather, and that the weather changed if you stood in it long enough. So he stood in it. Outside, the snow came down in big wet flakes that stuck to the glass and slid, and one by one the candles in the house were pinched out until only the one on the mantel was left, leaning toward the door. Somewhere below them the Duke began a story about a winter and a leaking roof, and his laugh went up through the floors and hit the ceiling and came back quieter, and Felix put his book in his pocket because there was no point reading with that much noise in the house.

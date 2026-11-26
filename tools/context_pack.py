@@ -47,6 +47,22 @@ PACING_RE = re.compile(r"^\s*(?:[-*]\s*)?Ch\.?\s*(\d+)\s*:")
 TRUNCATED = []  # (section title, chars lost): any entry makes the tool exit 4 (never cut silently)
 
 
+DEBT_WINDOW = 40
+
+
+def debts_due_soon(lines, n):
+    """Keep open debts whose earliest due chapter is within DEBT_WINDOW chapters of n (or has no number)."""
+    keep, later = [], 0
+    for ln in lines:
+        m = re.search(r"due:\s*([^|]*)", ln)
+        nums = [int(x) for x in re.findall(r"\d+", m.group(1))] if m else []
+        if nums and min(nums) > n + DEBT_WINDOW:
+            later += 1
+        else:
+            keep.append(ln)
+    return keep, later
+
+
 def cap(text, n, title="?"):
     text = text.strip()
     if len(text) <= n:
@@ -262,7 +278,10 @@ def build(chapter=None, extra=(), peek=False, part="full", no_tail=False, increm
             add("Retrieved memory (deterministic: matches the outline names and chapter numbers; source file:line shown; the chapters are the source of truth)", memory_retrieve.retrieve(n), 4200)
         add("State", read(STORY / "bible" / "state.md"), 3500, diffable=True)
         debts = [ln for ln in read(STORY / "bible" / "debts.md").splitlines() if "[open]" in ln]
-        add("Debts (open promises)", "\n".join(debts), 3000, diffable=True)
+        debts, later = debts_due_soon(debts, n)
+        if later:
+            debts.append(f"[{later} open debts due more than {DEBT_WINDOW} chapters ahead are omitted here; full list in story/bible/debts.md]")
+        add("Debts (open promises)", "\n".join(debts), 5000, diffable=True)
         sec = read(STORY / "bible" / "secrets.md").strip()
         add("Secrets", sec if len(sec) <= 2500 else "[older entries omitted]\n" + sec[-2500:], 2600, diffable=True)
     if want_s:

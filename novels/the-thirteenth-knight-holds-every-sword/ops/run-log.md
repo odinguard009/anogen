@@ -173,3 +173,17 @@
 - REVIEW ch 40: PASS. check_chapter OK (1800 words, mean 12.7, dialogue 14% warning only for an office interlude). Epigraph from outline/epigraphs.md. Read twice; names trimmed to budget and long sentences split.
 - Ysolde POV allows her dry judgments; no head-hop into Eden. No reveal: the second envelope stays unopened, Liora's letter stays unopened, Wendell's file stays nine sheets, and the Tailor thread remains at D.
 - Continuity: missing page from ch 37, broken mirror and scar readings from ch 36, Strent's line from ch 30, bellwire from ch 33, wool scarf/socks running gag.
+
+### critic pass ch 31-40 - 2026-11-26 - same session, not independent
+- Cold read of the manuscript against the outline lines and canon rows; verify_batch 31-40 OK; prepass and check_chapter on all ten. No event or canon changed; no targeted patches needed.
+- ch 31 - 4,3,4,4,4,4. No concrete line-level finding. Aura, mana-lock and Ward-plate explained in a sergeant's lesson; soldiers handle the Husk probe.
+- ch 32 - 4,4,4,4,4,4. No concrete finding. First [Tavu] described; silence kept after the bell.
+- ch 33 - 2,3,5,-,4,4. No concrete finding. Scarf given as equipment; second envelope and mother line are plants.
+- ch 34 - 5,4,4,5,4,4. No concrete finding. First [Dawnbreak] has duration and cost; no Unbind.
+- ch 35 - 3,4,4,-,4,4. No concrete finding. S1 confirm delivered by Seraphine's story and Eden's number correction; banned phrase replaced.
+- ch 36 - 5,4,4,4,4,4. No concrete finding. Mirror trick keeps Inead unseen; [Void Heir] is a reading, not a spoken name; C1 C delivered by a veteran.
+- ch 37 - 2,3,4,-,4,4. No concrete finding. C2 stays at E; no memory scene or grey on the page.
+- ch 38 - 2,3,5,-,4,4. No concrete finding. No reveal; Eden cannot prove his rule to himself.
+- ch 39 - 2,4,4,-,4,4. No concrete finding. Okoru's story is a hint only; Mawgate under camp is a plant.
+- ch 40 - 3,4,4,-,4,4. No concrete finding. Epigraph correct; envelopes and letters stay sealed; missing boots is the hook.
+- Recurring weakness: all ten chapters sit at the 1800-word floor, and dialogue is low in the quiet chapters and the Ysolde interlude. Both are warnings only; no filler added.

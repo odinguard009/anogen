@@ -18,7 +18,7 @@ They did not take the groundskeeper in the yard in front of the men who loved hi
 
 "I came for the bracket."
 
-"It is clean." The man looked at the bracket, then at Eden, and his smile arrived a beat after his eyes. "You have been looking at my boots."
+"It is clean." The man looked at the bracket, then at Eden. His smile arrived a beat after his eyes. "You have been looking at my boots."
 
 "Yes."
 
@@ -58,19 +58,19 @@ She set her feet on the stone and held up one hand. The ghost-light came over th
 
 Okoru gave her a moment and then another, and wrote his own line on the board without asking her what she had seen in the replay.
 
-The snow around the step had been trampled into a grey slush. Someone brought a blanket and put it over her shoulders without asking, and she let it stay, which she would not have done on any other night. Her pencil lay across her knee, and she did not pick it up.
+The snow around the step had been trampled into a grey slush. Someone brought a blanket and put it over her shoulders without asking. She let it stay, which she would not have done on any other night. Her pencil lay across her knee, and she did not pick it up.
 
 A soldier near the hut said the groundskeeper had always been a quiet man. Another said he had never once raised his voice. Both of them said it twice because they could not think of anything else to say.
 
-She sat on the step and put her book on her knees, and the paper in it had a line drawn through a word she had written the week before. She did not look at Eden. She was looking at the grey on the snow with an expression that had nothing in it, and Eden could not read it, and he did not try.
+She sat on the step and put her book on her knees. The paper in it had a line drawn through a word she had written the week before. She did not look at Eden. She was looking at the grey on the snow with an expression that had nothing in it. Eden could not read it, and he did not try.
 
-Behind Eden, Rowan came up the stair with his spear in one hand and his hood hanging open. He stopped at the top when he saw the grey on the snow, and he did not ask whose grey it was because Lysette had told him to write only what he knew. Felix came behind him with a lantern and put it down where Okoru could see, and Clara put a hand on Rowan's arm and left it there.
+Behind Eden, Rowan came up the stair with his spear in one hand and his hood hanging open. He stopped at the top when he saw the grey on the snow. He did not ask whose grey it was because Lysette had told him to write only what he knew. Felix came behind him with a lantern and put it down where Okoru could see. Clara put a hand on Rowan's arm and left it there.
 
-Rowan looked at the tea cup on the step. It was still half full, and a thin skin had begun to form on it in the cold. He picked it up in both hands, as if it might be hot, and then did not know what to do with it. "He gave me two sugars every day for a month," he said. "I never told him I take one."
+Rowan looked at the tea cup on the step. It was still half full, and a thin skin had begun to form on it in the cold. He picked it up in both hands, as if it might be hot. Then he did not know what to do with it. "He gave me two sugars every day for a month," he said. "I never told him I take one."
 
 "He knew," Clara said. "That was the point of him."
 
-Rowan set the cup down exactly where it had been, and then moved it an inch to the left, and then back. Nobody told him to stop.
+Rowan set the cup down exactly where it had been. Then he moved it an inch to the left, and then back. Nobody told him to stop.
 
 The memory came while the lamp still swung above them.
 
@@ -78,17 +78,17 @@ The court stairs at Hallowcrest were wet in PR 110. Eden stood at the bottom wit
 
 It ended. The lamp above the stores went on swinging. The soldiers at the hut doors were still standing with their hands on their belts. The grey body under the groundskeeper's coat lay on the snow where it had fallen.
 
-Lysette sat on the step with her book closed. She had the pencil in her hand and the page open at the line she had written in the wrong book, and she did not turn it to the other page because there was no other page that held what she had just seen. She said the words that could be written and none of the ones that could not.
+Lysette sat on the step with her book closed. She had the pencil in her hand and the page open at the line she had written in the wrong book. She did not turn it to the other page because there was no other page that held what she had just seen. She said the words that could be written and none of the ones that could not.
 
 "The groundskeeper was a Veil," she said, to the soldiers. "That is all we know." She did not turn her head. "Write it exactly."
 
-The soldiers wrote it. Okoru wrote it. A soldier asked Okoru whether the mastermind had been taken alive. Okoru said there was no mastermind in the yard, only a dead Veil in a groundskeeper's coat, and the soldier wrote that down as if it were a threat. Another man asked whether the tea had been poisoned. A third asked who would clean the lamp brackets now, and nobody answered him because the answer had been standing on the snow ten minutes ago in a brown coat with a wet shoulder.
+The soldiers wrote it. Okoru wrote it. A soldier asked Okoru whether the mastermind had been taken alive. Okoru said there was no mastermind in the yard, only a dead Veil in a groundskeeper's coat. The soldier wrote that down as if it were a threat. Another man asked whether the tea had been poisoned. A third asked who would clean the lamp brackets now. Nobody answered him because the answer had been standing on the snow ten minutes ago in a brown coat with a wet shoulder.
 
 By the time the news reached the mess hut it had become a story about a beloved servant who had been the mastermind of the whole attack on the camp, and by the time it reached the third stretch the story had grown a name and a plan and a reason. Nobody asked where the orders had come from. A dead man in a grey coat was easier to believe than a living one in a council room.
 
-Felix, who had been listening from the edge of the lamplight, said in a low voice that the groundskeeper had known every bracket and every loose board in the camp by touch. "Whoever wore him learned all of that first," he said. "That takes months. Somebody was patient." Eden nodded once and said nothing. Felix did not ask a second time. A prefect wrote the story on a sheet and held it up for the soldiers to see, and a soldier asked whether the mastermind had been the one who paid the bandits on the carriage road, and the prefect wrote yes without knowing it was a question. By the time Lysette read the sheet the word mastermind had been crossed out and written above the name in capitals. She put the sheet face down on the step and did not correct it, because a correction would have been a question and she had no one to ask it of.
+Felix, who had been listening from the edge of the lamplight, said in a low voice that the groundskeeper had known every bracket and every loose board in the camp by touch. "Whoever wore him learned all of that first," he said. "That takes months. Somebody was patient." Eden nodded once and said nothing. Felix did not ask a second time. A prefect wrote the story on a sheet and held it up for the soldiers to see. A soldier asked whether the mastermind had been the one who paid the bandits on the carriage road, and the prefect wrote yes without knowing it was a question. By the time Lysette read the sheet the word mastermind had been crossed out and written above the name in capitals. She put the sheet face down on the step and did not correct it, because a correction would have been a question and she had no one to ask it of.
 
-Eden left Lysette on the step with her book shut and went to the oil line under the camp with a lamp and a striker. The scarf at his neck had thawed in the heat of the lamp and smelled of smoke and thyme. He had laid the line six nights ago and marked it with stones from the ditch. He had written lamps on two forms, because a line in a ditch needed a reason a clerk could copy. Tonight the reason had caught up with him. He lit it now from the stores end, one marker at a time. Oil caught with a soft sound and a line of flame ran along the ditch under the snow, making an edge of light where there had been only dark. Snow turned to water at the edge of it and then to steam, and the steam went up in a grey sheet that smelled of lamp oil and wet stone. He lit the last marker by the kitchens and put the striker back in his pocket with two fingers that had gone stiff from the cold. The first Door opened over the mouth of the living tunnel. The second opened over the crack by the cold store. The third opened on the dark supply passage where he had felt the warmth through the boards.
+Eden left Lysette on the step with her book shut and went to the oil line under the camp with a lamp and a striker. The scarf at his neck had thawed in the heat of the lamp and smelled of smoke and thyme. He had laid the line six nights ago and marked it with stones from the ditch. He had written lamps on two forms, because a line in a ditch needed a reason a clerk could copy. Tonight the reason had caught up with him. He lit it now from the stores end, one marker at a time. Oil caught with a soft sound and a line of flame ran along the ditch under the snow, making an edge of light where there had been only dark. Snow turned to water at the edge of it and then to steam. The steam went up in a grey sheet that smelled of lamp oil and wet stone. He lit the last marker by the kitchens and put the striker back in his pocket with two fingers that had gone stiff from the cold. The first Door opened over the mouth of the living tunnel. The second opened over the crack by the cold store. The third opened on the dark supply passage where he had felt the warmth through the boards.
 
 The Mawgate tore open under the camp at the fourth bell of the night watch. It did not open like a door. The stone floor of the stores hut went up in a shape with no top. Grey bodies came through it with grafted Embers in their ranks. The flame in the ditch threw their shadows up the wall in long hard lines. The soldiers who had been watching the dead groundskeeper turned toward the sound. A camp bell began to ring. Every lamp left burning in the huts went out at once.
 

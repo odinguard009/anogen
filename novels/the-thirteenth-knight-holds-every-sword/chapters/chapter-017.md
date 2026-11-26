@@ -50,7 +50,7 @@ Valerius did not make a wall first. He came straight across the sand in four sho
 
 "No tricks," Eden said.
 
-The next cut went at his knee. Eden turned on his front foot and let it pass, and the **[Hinge]** put the lance butt into the joint behind Valerius's elbow, but Valerius had expected the pivot now and kept the elbow where it was. The butt landed on plate instead of joint and rang without moving him.
+The next cut went at his knee. Eden turned on his front foot and let it pass. The **[Hinge]** put the lance butt at the joint behind Valerius's elbow. But Valerius had expected the pivot now and kept the elbow where it was. The butt landed on plate instead of joint and rang without moving him.
 
 "You did that yesterday," Valerius said.
 
@@ -66,7 +66,7 @@ The next cut went at his knee. Eden turned on his front foot and let it pass, an
 
 "Then use it before I make you."
 
-Eden used the same one again, half a step earlier, and this time the butt went past Valerius's elbow and caught the back of his wrist. The prince's sword hand opened and closed, and he looked at it as if it had failed him.
+Eden used the same one again, half a step earlier. This time the butt went past Valerius's elbow and caught the back of his wrist. The prince's sword hand opened and closed, and he looked at it as if it had failed him.
 
 "That was better," he said.
 
@@ -76,7 +76,7 @@ Eden used the same one again, half a step earlier, and this time the butt went p
 
 He came again, and this time Eden had to take three steps back before he could set his feet. The shield rang twice, and the cold of it went through his arm into his fingers, and his left hand stopped closing properly. Valerius saw the hand change and came at it, low, with the point aimed at the knuckles.
 
-Eden could have struck then. The lance point was in the right place, and Valerius's guard was open on the inside because he had committed to the low cut. One push would have ended the duel with a touch to the prince's chest. Eden did not push. He turned the shield and let the blade pass a finger's width from his hand, close enough that Valerius's face changed when he saw how close it was.
+Eden could have struck then. The lance point was in the right place. Valerius's guard was open on the inside, because he had committed to the low cut. One push would have ended the duel with a touch to the prince's chest. Eden did not push. He turned the shield and let the blade pass a finger's width from his hand. It was close enough that Valerius's face changed when he saw how close.
 
 "Why?" Valerius said. His voice had dropped so low that only the nearest judge leaned in to hear it, and the judge wrote nothing.
 

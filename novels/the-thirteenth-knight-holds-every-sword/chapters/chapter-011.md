@@ -1,6 +1,6 @@
 # Chapter 11: The Direction of Shadows
 
-The maze had lamps for the graded run, small iron lamps fixed at shoulder height every twelve steps, and each one threw a hard shadow along the floor. The passage smelled of wet stone and lamp oil, and the lamps had been set the night before by someone who knew exactly where the false walls would be. Okoru stood under the first lamp with a board in his hand and a stopwatch hanging from his one wrist.
+The maze had lamps for the graded run, small iron lamps fixed at shoulder height every twelve steps. Each one threw a hard shadow along the floor. The passage smelled of wet stone and lamp oil. The lamps had been set the night before by someone who knew exactly where the false walls would be. Okoru stood under the first lamp with a board in his hand and a stopwatch hanging from his one wrist.
 
 "Year 5 spec," he said. "False walls, two timed constructs, one exit. Your Lance goes in together and comes out together. I mark the time, the touches you take, and whether you listen to each other."
 
@@ -66,17 +66,17 @@ A whistle went once from the gallery. "Two minutes," Okoru called. "You are talk
 
 She put a hand on the wall and closed her eyes. Witness came as ghost-light in the air behind her, faint as moonlight on water: a figure in a dark coat pushing the wall from the far side, then the wall sliding into place. The replay showed where the hand had been and how far the stone had travelled. It needed a still place and a quiet moment, and while it lasted she could not move.
 
-Eden stood at her back for those few breaths without being asked. He faced the dark passage with his shield low and counted what might come out of it: one breath, two, six. Nothing came. He noticed that he was standing exactly where he would have stood on a Vigil, with his weight on his front foot, and he shifted it back until he looked like a boy who was only waiting. Lysette opened her eyes, glanced once at where he stood, and wrote something short in her book.
+Eden stood at her back for those few breaths without being asked. He faced the dark passage with his shield low and counted what might come out of it: one breath, two, six. Nothing came. He noticed that he was standing exactly where he would have stood on a Vigil, with his weight on his front foot. He shifted it back until he looked like a boy who was only waiting. Lysette opened her eyes, glanced once at where he stood, and wrote something short in her book.
 
 "Two hands," she said. "One at the top, one at the bottom. Push from the east."
 
 Rowan and Eden pushed together, and the wall slid aside with a grind that made Clara wince. Beyond it the passage turned left and then left again.
 
-A construct came at them from the turn, moving at Year 5 speed, with a wooden blade and a red tag at its wrist. The tag said THIRTY-FIVE PER CENT, and this one had no cut wire. The brass at its elbow had been replaced recently and shone under the lamp. Rowan stepped into its path and took the first swing on his spear, and Clara moved to his left where the blade could not reach without turning its back.
+A construct came at them from the turn, moving at Year 5 speed, with a wooden blade and a red tag at its wrist. The tag said THIRTY-FIVE PER CENT, and this one had no cut wire. The brass at its elbow had been replaced recently and shone under the lamp. Rowan stepped into its path and took the first swing on his spear. Clara moved to his left where the blade could not reach without turning its back.
 
-Rowan's spear hit the brass at its elbow. The construct swung, missed, and came again. Clara's hands went to Rowan's forearm for one breath, and the red mark on his knuckles closed from the edges in. She looked pale after it and said nothing.
+Rowan's spear hit the brass at its elbow. The construct swung, missed, and came again. Clara's hands went to Rowan's forearm for one breath. The red mark on his knuckles closed from the edges in. She looked pale after it and said nothing.
 
-Eden blocked what came past Rowan. He did not strike. He let the blade slide off his shield and made sure it went into the wall rather than back toward the others. The construct came again with the blade high, and Rowan stepped inside it, and his spear caught the brass at the shoulder. The thing turned on its own foot and tried to bring the blade across his back. Eden put his shield into the space behind Rowan's knee. The blade rang on it and went wide.
+Eden blocked what came past Rowan. He did not strike. He let the blade slide off his shield and made sure it went into the wall rather than back toward the others. The construct came again with the blade high. Rowan stepped inside it, and his spear caught the brass at the shoulder. The thing turned on its own foot and tried to bring the blade across his back. Eden put his shield into the space behind Rowan's knee. The blade rang on it and went wide.
 
 "I had it," Rowan said.
 
@@ -92,7 +92,7 @@ Felix's line showed the second construct before they saw it. "Left passage," he 
 
 Lysette counted the lamps under her breath. "Then we go now, before it waits better."
 
-They went. The construct came out of the side passage with its blade low, and Rowan took it on the spear again while Lysette went in with her two batons, left tilted higher. She did not try to break it. She put a stick under its wrist and turned it so the blade point went into the floor, and Rowan's spear came down on the brass joint. The construct stopped.
+They went. The construct came out of the side passage with its blade low. Rowan took it on the spear again while Lysette went in with her two batons, left tilted higher. She did not try to break it. She put a stick under its wrist and turned it so the blade point went into the floor, and Rowan's spear came down on the brass joint. The construct stopped.
 
 Lysette kept both batons up until Okoru's whistle went. Then she put them away and flexed her wrist. "That is two."
 
@@ -132,7 +132,7 @@ She looked at him for half a second, then turned to the others. "Rowan, lift me.
 
 Felix went to the floor and put his hand flat. "The line turns left on the other side. There is a passage."
 
-Rowan crouched and made a step of his hands, and Lysette climbed up without losing her book. Clara went next, then Felix, then Rowan, and Eden last. On the other side the passage was narrow and wet, and it ran left for fifteen steps to a door with a bell above it.
+Rowan crouched and made a step of his hands, and Lysette climbed up without losing her book. Clara went next, then Felix, then Rowan, and Eden last. On the other side the passage was narrow and wet. It ran left for fifteen steps to a door with a bell above it.
 
 Eden rang the bell, and the stopwatch outside clicked.
 
@@ -166,7 +166,7 @@ Felix sat down on the step and put his book on his knees. "I found a line."
 
 "It was a line to a door." Felix held up one finger. "I am counting that as a door."
 
-From the gallery, a man in a staff coat watched Rowan. He had a narrow face and a pen in one hand, and he stood where the lamps did not reach. He wrote something on a paper on his wrist, and he did not look at the door or at the stopwatch. He looked at Rowan's hands on the spear, and then at Rowan's face when Clara spoke to him. The pen moved twice. Then the gallery lamp went out and the staff coat was only a shape against the dark. Eden looked up once, and the space under the lamp was empty.
+From the gallery, a man in a staff coat watched Rowan. He had a narrow face and a pen in one hand, and he stood where the lamps did not reach. He wrote something on a paper on his wrist. He did not look at the door or at the stopwatch. He looked at Rowan's hands on the spear, and then at Rowan's face when Clara spoke to him. The pen moved twice. Then the gallery lamp went out and the staff coat was only a shape against the dark. Eden looked up once, and the space under the lamp was empty.
 
 "Did you see that?" he asked.
 

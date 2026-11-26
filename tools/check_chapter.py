@@ -80,6 +80,40 @@ def battle_check(num, body):
     return (found, []) if num <= 50 else ([], found)
 
 
+RIDDLES = ["that is not an answer", "it is the only one i have", "it is the only one", "that is not a reason", "that is not the same", "that is not the test", "that is not a good sum"]
+
+
+def plain_check(num, body):
+    """Plain Reading guard (locked setting 19). Supporting guard only: it finds riddle replies, unlinked surnames and
+    long runs of bare dialogue; it cannot tell whether a scene makes sense. WARNING for ch 1-50, ERROR from ch 51."""
+    if not num:
+        return [], []
+    found = []
+    low = body.lower()
+    rid = sum(low.count(r) for r in RIDDLES)
+    if rid > 1:
+        found.append(f"plain: {rid} riddle replies ('That is not an answer.' type; max 1): say the meaning in plain words")
+    chars = read(STORY / "bible" / "characters.md")
+    for m in re.finditer(r"\*\*([A-Z][a-z]+)(?: [A-Z][a-z]+)* ([A-Z][a-z]+)\*\*", chars):
+        first, last = m.group(1), m.group(2)
+        uses = [x.start() for x in re.finditer(rf"\b{last}\b", body)]
+        if not uses:
+            continue
+        linked = re.search(rf"\b{first}(?: [A-Z][a-z]+)? {last}\b", body)
+        if not linked or linked.start() > uses[0]:
+            if first != "Eden" and last != "Okoru":
+                found.append(f"plain: surname '{last}' used before narration links it to {first}: use '{first}', or link them once")
+    run = best = 0
+    for para in body.split("\n\n"):
+        if para.lstrip().startswith('"') and para.count('"') == 2 and len(para.split()) < 14:
+            run += 1; best = max(best, run)
+        else:
+            run = 0
+    if best >= 8:
+        found.append(f"plain: a run of {best} bare short dialogue lines with no action or narration (max 7): show who speaks and what is meant")
+    return (found, []) if num <= 50 else ([], found)
+
+
 def main():
     strict = "--strict" in sys.argv[1:]
     args = [x for x in sys.argv[1:] if x != "--strict"]
@@ -203,8 +237,9 @@ def main():
         issues.append(f"rule-of-three lists x{triples}: cut most of them")
 
     bw, be = battle_check(int(mm.group(1)) if mm else None, body)
-    notes += ["WARNING " + x for x in bw]
-    issues += be
+    pw, pe = plain_check(int(mm.group(1)) if mm else None, body)
+    notes += ["WARNING " + x for x in bw + pw]
+    issues += be + pe
     print(f"Words: {wc} (target {lo}-{hi})")
     for n in notes:
         print("note:", n)

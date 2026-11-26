@@ -1,215 +1,189 @@
 # Chapter 6: The Quietest Lance
 
-The Lance board hung on the arms hall wall with nine sheets pinned to it, and a crowd stood in front of it with their bags on their shoulders. A sheet had four names on it and a number after each name, written in Okoru's heavy hand. The other eight sheets had more names, and the space around the first three was empty because nobody stood there by accident.
+That morning the school put the fifth-year students into teams of five, and each team was called a Lance. The names were pinned to a board in the arms hall, nine sheets of paper in a row, and a crowd stood in front of it with bags on their shoulders.
 
-Okoru stood beside the board with his empty sleeve folded at his shoulder. "Read your number and find your sheet," he said. "Do not ask me to change it."
+Eden stood at the back. He had hoped for a team of nobodies, five people who would never be asked to do anything, because that would be the quietest Lance.
 
-Rowan found his name on the fourth sheet and said his number out loud before anyone asked. "Two."
+Okoru, the one-armed teacher, stood beside the board with his empty sleeve pinned at his shoulder. "Find your name and do not ask me to change it," he said.
 
-"Nine," Felix said, and then, "No. That is not a number I wanted."
+The crowd pushed forward, and Eden waited until the front was clear before he read the ninth sheet.
 
-Clara read hers without a face and said, "Three."
+The sheet said LANCE NINE. Under the title were five names, and each had a number after it. The number was the student's place on the Ladder, which was the school's list of the best students in the year. One was the best, and the list went down to four hundred.
 
-"Four," Lysette said. She was already looking at the next name on her sheet. "Wren is here."
+Clara, 3.
+Rowan, 2.
+Lysette, 4.
+Eden, 8.
+Felix, 19.
 
-"Eight," Eden said.
+Rowan found it first and said, "Two, three, four!" He turned to the others with his whole face lit up. "We have the second, the third and the fourth. This is the best team in the school."
 
-Okoru tapped the sheet with his stick. "Lance Nine. Clara, Rowan, Lysette, Felix, Wren." He said the numbers again in the same order, as if the list were a sum. "Three, two, four, nineteen, eight."
+"On paper," Lysette said.
 
-"Why is Ashgrove on it?" Rowan asked.
+"What is wrong with paper?"
 
-"He finds things," Okoru said.
+"Paper does not fall over in a maze."
 
-"Peppermints," Felix said.
+"I fell over once."
 
-"Paths." Okoru looked at him. "You will learn the difference before the Rotation."
+"Twice," Lysette said. "The second time you knocked down a wall."
 
-"Will there be peppermints on the Wall?"
+"It was a heavy wall." Rowan looked around and saw three students from other teams watching him. He lifted his chin. "A very heavy wall."
 
-"Bring your own."
+Clara read the sheet with a calm face and said, "Felix, you are nineteen."
 
-"That is not a good sum," Felix said.
+"I know," Felix said. "I wanted a smaller number." He put his hand in his pocket and took out a sweet, because he ate when he was upset.
 
-"It is the best sum I can make," Okoru said. "You fight at the back. Hollen keeps you alive. Tallis hits hard. Belmont knows when to stop. Wren reads the ground." He looked at the crowd. "I am not building a comfortable Lance. I am building one that can stand."
+Okoru walked over and said, "Felix. No food in the hall."
 
-He handed each of them a small card with a duty roster on it. Eden's card had his name, a gate number, and four lines in Okoru's hand. Two were for the Wall in midwinter. The other two said only that he should keep close to Hollen. Eden read the last line twice. Nobody had ever written that on a card for him, and he could not tell if it was an order or a kindness. With Okoru those were the same thing.
+"It is only a peppermint."
 
-Rowan slapped the board with his hand. "We can stand."
+"A peppermint is food."
 
-"You fell over in the maze," Lysette said.
+Felix put it back in his pocket with great care, like a man putting away a letter, and he looked sad about it.
 
-"Once."
+Okoru tapped the sheet with his stick. "I will tell you why you are together," Okoru said. "Rowan, Clara and Lysette are strong. Felix finds paths and signs on the ground, and Eden reads a place before a fight. I did not make a comfortable team. I made a team that can stand."
 
-"Twice, and the second time you knocked a wall down."
+"Stand where, sir?" Clara asked.
 
-"That was the wall's fault." Rowan turned to the crowd and found three people from other squads looking at him, so he raised his chin. "It was a heavy wall."
+"On the Southern Wall, in midwinter. Every fifth-year team goes there for four weeks. The Wall is the edge of our country, and real Hushborn come against it. You will fight them." He gave each of them a card. "The date and your gate are on the card."
 
-"Tallis," Okoru said, and Rowan's chin went down.
+Eden looked at his card. It had his name, the date, a gate number and one extra line in Okoru's heavy writing. It said to keep near Lysette in a fight.
 
-"In one hour every Lance goes to the chapel for the blessing. Hollen."
+He read it twice because he did not know why Okoru had written it. Perhaps Okoru wanted someone to protect her, and perhaps he wanted someone to watch Eden. Eden put the card in his pocket.
 
-"Sir."
+"Lysette," Okoru said. "Your sheet has one more job."
 
-"Your sheet says supervise."
+Lysette looked at her own card, and her pencil stopped. "It says 'supervise Eden'."
 
-Lysette's pencil stopped on the page, and she looked at the number beside her name. "It says advise."
+"The Discipline Committee asked for it. You are its vice-chair, and Eden misses many classes. You will watch him. You will write down where he goes."
 
-"It says supervise." Okoru turned his stick over. "You wanted to know where he goes at night. Now you know where he stands in a fight, and both are your job."
+"I know what supervise means, sir."
 
-Rowan leaned across the board. "Does that mean she tells me where to stand as well?"
+"Good."
 
-"Only if you fall down," Lysette said.
+She did not look at Eden. Her hand was tight on the pencil, and her knuckles were white. She was angry, and she was too polite to say so, so Rowan and Clara looked at the floor.
 
-"I am standing."
+"I will do my job," Lysette said.
 
-"You were not in the maze."
-
-Rowan looked at the floor instead of answering, and the crowd laughed once, short and surprised, and Lysette's mouth shut. Eden watched her put a line in her black book with more pressure than the page needed.
-
-"Is that all, sir?" Rowan asked.
-
-"No. Ashgrove, stop eating in the ranks."
-
-Felix took his hand out of his pocket. "It was a peppermint."
-
-"That is food," Okoru said.
-
-"Not technically."
-
-"Walk to the chapel."
+"I know you will," Okoru said. "That is why it is yours."
 
 * * *
 
-The chapel corridor ran along the north side of the school, and its windows looked out onto the wet court. The wall between the windows held a long fresco: a knight in a pale cloak with his hands held out, and gold light painted in both palms. The paint had gone thin in places, so the stone showed through the knight's face, but the hands were still bright.
+One hour later every Lance went to the chapel for a short blessing. It was a school custom, and a priest blessed each team before its first field duty.
 
-Lance Nine stood in front of it while a chaplain said the short blessing. The chaplain was an old man with a shaking hand, and he kept losing his place in the words, so the blessing took longer than it should. Rowan shifted his weight from foot to foot, and Clara stood with her hands folded. Lysette stood half a step behind Eden with her book open, close enough to check him and too polite to look over his shoulder.
+The chapel corridor ran along the north side of the school. Its windows looked out on a wet stone court. Between the windows was a long painting on the wall, very old, of a knight in a pale cloak. He held out both hands, and the painter had put gold light in each palm. The paint had worn thin, so the knight's face was gone and only grey stone showed, but the hands were still bright.
 
-When the chaplain finished and went away, Rowan stayed under the fresco with his hands up, staring at the painted hands, and he said, "I can do that."
+Lance Nine stood in front of it. An old man in a white robe said the blessing. His hand shook, and he lost his place twice, so it took a long time. Rowan moved from foot to foot. Clara stood with her hands folded. Lysette stood a half step behind Eden with her black book open. She was close enough to watch him and too polite to touch him.
+
+When the old man went away, Rowan stayed under the painting. He stared at the gold hands. "I can do that," he said.
 
 "Can you?" Clara asked.
 
-Rowan held out both palms. Gold light came into them, soft and small, no bigger than an apple. It pushed the corridor's shadows back a step and warmed the air near his sleeves. His face changed while it burned, open and a little surprised, as if he had just been given a warm cup.
+Rowan held out both palms. Gold light came into them, soft and small, about the size of an apple. It pushed the shadows of the corridor back one step. The air near his sleeves grew warm. His face changed while it burned. He looked open and a little surprised, like a boy who had been given a warm cup.
 
-Clara looked from his hands to the wall. "The same colour."
+Clara looked from his hands to the wall. "It is the same colour."
 
-"The same hands," someone said behind them. Eden did not turn to see who.
+"It is the same light," Rowan said, and for once he was not joking. His voice was quiet. "I do not know why. I have had it since I was small."
 
-Rowan looked up at the fresco and studied the painted hands. "The knight has no face."
+"The knight has no face," Felix said.
 
-"The paint is worn off," Clara said.
+"The paint has worn off," Clara said.
 
-"I know. It is still odd."
-
-"He has good hands," Felix said.
-
-"Better than mine." Rowan flexed his fingers. "Mine are always cold."
-
-Rowan lowered his hands and the light went out, and the corridor went grey again. "My mother used to say I was born facing the sun," he said. "I thought she meant I was cheerful."
+"I know. It is still strange." Rowan let the light go out, and the corridor went grey again. "My mother used to say I was born facing the sun. I thought she meant I was cheerful."
 
 "You are cheerful," Clara said.
 
 "That is what I thought she meant."
 
-He said it so plainly that the others laughed, and he laughed with them, one beat late and glad of it. Lysette did not laugh at that, and her pencil stayed still. She watched him for a moment, wrote one short line and shut the book. A senior prefect passing the corner stopped to ask about drill, then stayed for Rowan's story about the snow-covered boot. Rowan told it twice, and Felix listened with his whole face, as if the story mattered.
+Everyone laughed, and Rowan laughed with them, one moment late. A senior student stopped to ask him about drill, and Rowan told a long story about a boot stuck in the snow. The senior student laughed, and so did Felix, with his whole face. People liked Rowan very quickly. Eden watched it happen the way he watched weather.
 
-Clara watched Rowan watching the prefect, and something in her face went still, the way a lamp goes still before it is switched off. Lysette watched Rowan too, and then watched Eden watching him, and wrote another line.
+Lysette watched Rowan too. Then she looked at Eden and wrote a line in her book. Eden did not try to read it.
 
-A row of stone pots stood under the fresco's last window. The lilies in them had drooped all week, brown at the edges, with their heads down over the rim. Clara moved one pot an inch to make room for her bag and sat on the bench beside it.
+A row of stone pots stood under the last window. The lilies in them had been brown all week. Their heads hung down over the rim. Clara moved one pot an inch to make room for her bag, and she sat on the bench beside it.
 
 The nearest lily lifted its head.
 
-Eden watched the stem straighten and the leaf turn over. A second flower opened where the petal had been shut tight, and the brown edge went green from the stem up. Clara pulled a thread off her sleeve and did not look at the pot.
+Eden watched the stem grow straight, and the brown edge of a petal turned green from the stem outward. A second flower opened. Clara pulled a thread from her sleeve and did not look at the pot.
 
-"Your flower," Eden said.
+"Clara," Eden said. "Your flower."
 
 "Which one?"
 
 "The one by your knee."
 
-Clara looked, and the flower looked back at her, open and pale. She put her hand on the pot and left it there. "It was like that when I sat down."
+She looked. The flower was open and pale, and it was turned toward her. She put her hand on the pot. "It was like that when I sat down."
 
-"Yes."
+"No. It was brown. It changed when you sat down. I watched it."
 
-"You are the second person to tell me that."
+Her mouth moved, but she did not answer for a moment. Lysette leaned across Eden to look. "Are the other pots changing?"
 
-"Who was the first?"
+"Only the ones near me," Clara said. "This happens a lot. It has happened for years. I do not do anything, and nobody can tell me why."
 
-"My sister, and she said it about a field." Clara took her hand away. "She was joking."
+"Then it is real," Eden said.
 
-"No," Eden said. "It happened when you sat down. I watched it."
+"Yes, it is real, and I do not want anyone to know." She picked up her bag. "Please do not tell Rowan. He will make it a big thing, and then everyone will ask me about it."
 
-Clara's mouth moved and she did not answer. Lysette leaned across Eden to look at the pot. "Are the others doing it?"
+"I will not tell him."
 
-"Only the ones near me," Clara said. "It has been happening for years, and I don't do anything."
+"Thank you."
 
-"Then it was not a joke," Eden said.
+Lysette said nothing and looked at the painting, not at the flowers. Then she held out a slip of paper to Eden. "This is your exemption from the doctor. It says you must rest. It does not say where."
 
-"Then it is not anything. Nobody will tell me what it is." She picked up her bag. "Do not tell Rowan."
+"On the roof."
 
-Eden said nothing, and Lysette leaned back with her book on her knee and looked at the fresco instead of the flowers. She held out a paper slip. "Your exemption says rest. It does not say where."
+"The infirmary has beds. It is warmer."
 
-"The roof is quiet."
+"The infirmary has bright lamps. I cannot sleep there."
 
-"The infirmary is quieter."
-
-"The infirmary has beds with sheets. I sleep dressed."
-
-She looked at the slip for a while and put it back in her book without writing on it.
-
-"You are the quietest person in this Lance," she said. "That is not the same as the safest."
+Lysette looked at the slip for a while. Then she put it back in her book without writing on it. "You are the quietest person in this Lance," she said. "That does not mean you are safe."
 
 "Supervise me, then."
 
-"I am." She put a finger on the page. "You answered me. That is one line I did not have to write twice."
+"I am doing it now," she said, and she nearly smiled. "You answered me. That is one line I did not have to write twice."
 
-Rowan came over with his spear. "Wren. Teach me that hold you used in the maze."
-
-"It was a practice shield."
-
-"Teach me anyway."
-
-"You have a spear. Use it."
-
-"I can hold a shield as well." Rowan set the spear against the wall and held up an empty hand. "Show me where your elbow goes."
-
-Eden looked at the hand, then at the fresco's painted hands. "Behind the shield," he said, and walked toward the stairs before Rowan could ask the next question.
-
-A bell rang somewhere over the court, and the students in the corridor began to move.
+A bell rang over the court, and the students in the corridor began to move.
 
 * * *
 
-The stores office sat behind the kitchens, with a counter of scarred wood and a shelf of order books going back twenty years. Eden waited while a clerk with ink on her cuffs found the right book. He had Form 13-B in his coat and a reason ready, which was that the grey office wanted drill numbers entered against the form.
+The stores office stood behind the kitchens. It had a long wooden counter, scarred from many years of use, and a shelf of order books that went back twenty years. A small stove ticked in the corner, and a cat slept on top of the books.
 
-The clerk turned pages and found the year at the back. "Construct stores. Here. If you want the core line, it is near the back."
+Eden had Form 13-B in his coat. It was the report Ysolde wanted about the exchange job, and it was almost empty, because he also wanted to know about the broken construct. Two days ago that stone construct had nearly crushed Lysette. Someone had cut its safety wire and doubled its armour, and someone had ordered those parts. If the order was written down, it was written here.
 
-The room smelled of ink and old paper, and a small stove ticked in the corner. A cat slept on top of the ledgers, and the clerk moved it with one hand the way people move a loaf of bread. Eden noticed the counter was clean except for one clear circle in the dust, the size of a cup, where someone had set down a hot mug and a book at the same time.
+A clerk with ink on her sleeves came to the counter. "What do you need?"
 
-"The order for the core," Eden said.
+"The order book for drill constructs. The core line."
 
-"Same thing." She turned the book around so he could read it. "They keep asking for this one. It is a poor system."
+"Why?"
 
-"Did anyone else ask for the core line?"
+"The grey office wants the drill numbers entered on a form."
 
-"A girl with a red band, yesterday." The clerk turned a page. "She wrote the date down. I told her it was a mistake."
+She sighed, as if forms were a weather she had to live in. "Wait here."
+
+She took a book from the shelf and moved the cat with one hand, and it did not wake. She turned the pages until she found the year. "Here. Construct stores. The core line is near the back." She turned the book around so Eden could read.
+
+He read the page slowly. Most lines were short and simple: one plate, two straps, a box of brass pins. The prices were small and neat, but the signatures were not. Then Eden found the line for a drill core, bought in the first week of this month. At the end of it, in a wide, careful hand, was a name.
+
+"Who is Sorn?" Eden asked.
+
+"Sorn was the master of the forge. He made all our gate plates, years ago."
+
+"Is he here now?"
+
+"No. He died last year."
+
+Eden looked at the date on the line, which said the first week of this month, and then he looked at the name again. A man who had died last year could not sign an order this month. Someone had written Sorn's name on it, or someone had found a way to use his stamp.
+
+He kept his face still and asked, "Did anyone else ask about this page?"
+
+"A girl with a red band came yesterday." The clerk wiped the counter with her sleeve. "She wrote the date on a paper. Then she asked the same question you did. I told her it must be a mistake."
 
 "What did she say?"
 
 "Nothing. She wrote it down again."
 
-Eden read down the column of dates and names. Most lines were short: one plate, two straps, a box of brass pins. The prices were written small and neat, and the signatures were not. Then he found the line for a drill core, with a price in the next column and a wide, careful hand at the end.
+The red band meant the Discipline Committee. The girl was Lysette. She had been in this office the day before him, and she had not told him.
 
-"Who is Sorn?" Eden asked.
+Eden read the line a third time and said the date and the name to himself, number by number, so he would not need the book again. Then he thanked the clerk and walked out through the kitchen yard. The cooks were hauling sacks of flour from a cart, and nobody looked at him.
 
-The clerk looked at the name, then at the date beside it. "A master of the forge. He made the gate plates before they changed the design."
-
-"Is he here now?"
-
-"No, he died last year." She wiped the counter with her sleeve and left the book open. "Winter, I think. Or spring."
-
-Eden kept his finger on the line and said, "The date is after winter." He copied the date onto the back of the form, and the pencil left a mark on the counter.
-
-The clerk leaned in, and her ink-stained cuff touched the book. "So it is."
-
-She turned away to put the book back on the shelf, and Eden read the date once more before she did. The order for the new core had been signed in the first week of November, by a man who had been dead for a year.
-
-He thanked the clerk and walked out through the kitchen yard. The cooks were hauling sacks of flour in from a cart, and nobody looked at him. At the gate he stopped and read the line a third time from memory, number by number, so he would not have to take the book out again. Then he wrote one short word on the back of Form 13-B, under the date: Sorn. He drew a line under it, and then, because it did not feel like enough, a second line.
+At the gate he stopped and took out Form 13-B. On the back he wrote one word: Sorn. He drew a line under it. A second line did not seem like enough, so he drew another.

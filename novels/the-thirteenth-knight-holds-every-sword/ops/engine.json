@@ -14,8 +14,8 @@
     "arc": 1,
     "max": 5,
     "start_chapter": 16,
-    "status": "running",
-    "stop_reason": ""
+    "status": "stopped",
+    "stop_reason": "max chapters for this batch reached before the arc ended"
   },
   "critic_through": 10,
   "audit_through": 10,

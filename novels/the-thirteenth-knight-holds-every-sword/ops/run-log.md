@@ -176,3 +176,17 @@
 - REVIEW ch 20: PASS. check_chapter OK (1801 words, mean 12.2, dialogue 41%). Epigraph from outline/epigraphs.md. Registered War Minister and Minister in canon_names.
 - Valerius POV allows inner feeling; no head-hop into Eden. The Void Host stays a rumour (reveal planned much later); Merrow's lantern question is an H plant, no confirmation.
 - Continuity: duel touch on the bell from ch 17, Valerius's ch 2 stairs line, the king's tired eyes from ch 9, Lysette's book from ch 10/19. Ball is seven days away after 5 Dec.
+
+### critic pass ch 11-20 - 2026-11-26 - same session, not independent
+- Cold read of the manuscript against the outline lines and canon rows; verify_batch 11-20 OK; prepass and check_chapter on all ten. No event or canon changed; no targeted patches needed.
+- ch 11 - 4,4,4,4,4,4. No concrete line-level finding. Trail and Witness first uses described in scene and ledger.
+- ch 12 - 2,3,5,-,4,4. No concrete finding. Perrin given by Felix before any request; Eden's honest refusal is on the page.
+- ch 13 - 4,4,4,-,4,4. No concrete finding. Testimony first use has look, duration and cost; frame-shape stays unexplained.
+- ch 14 - 2,3,3,-,4,4. No concrete finding. Joke count from ch 10 reaches nineteen on the page.
+- ch 15 - 3,3,4,-,4,4. No concrete finding. Dragon's unfinished promise is the H plant only.
+- ch 16 - 4,4,4,4,4,4. No concrete finding. [Injunction] and [Hinge] first uses have look, effect and limit.
+- ch 17 - 4,4,4,4,4,4. No concrete finding. Loss timed to the bell with no explained feeling after the hook.
+- ch 18 - 3,4,3,-,4,4. No concrete finding. Corwen debt paid on the page; no name before this chapter.
+- ch 19 - 3,3,3,-,4,4. No concrete finding. Shield save unseen and called luck; nobody cap respected after a patch round.
+- ch 20 - 3,3,4,-,4,4. No concrete finding. Void Host stays a rumour; Merrow's question stays mild.
+- Recurring weakness: eight of ten chapters sit at the 1800-word floor, and dialogue runs low in ch 16-18 by the prepass count. Both are warnings only; no lines were padded in. Repeated five-word runs ("at the top of the", "into three and put it") are tracked but harmless.

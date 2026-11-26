@@ -69,3 +69,7 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 
 - [open] Lysette: "If I ever find the one who did it, I won't kill him. I'll make him tell me why." | planted: ch 38 | due: 140, 145
 - [open] Eden looked away first eleven times in the week after the fire; cannot prove his own confirm rule to himself | planted: ch 38 | due: 45, 140
+
+- [open] Okoru's old Wall story: one-armed man held a cistern with threads for six hours while every bell rang by itself | planted: ch 39 | due: 60, 296
+- [open] Eden laid the first oil line under the camp for lamps, along the ditch with stone markers | planted: ch 39 | due: 45, 95
+- [open] Vesk: the Mawgate is under the camp, not past the far ditch; water moves with no current | planted: ch 39 | due: 41, 45

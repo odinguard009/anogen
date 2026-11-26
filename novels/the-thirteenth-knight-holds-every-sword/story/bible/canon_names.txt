@@ -707,3 +707,8 @@ Minister
 
 # Garrison
 Storems
+
+# Months
+September
+December
+January

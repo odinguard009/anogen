@@ -55,3 +55,6 @@ Ysolde sends Eden the PR 110 file after he unknowingly requested it on a form. I
 
 ## Ch 38 - Make Him Tell Me Why
 A small fire in a barracks hut brings the Lance together. Beside the burnt curtain Lysette tells them about her brother's cart-wheel laugh, the paper that called him a traitor, and how he came home colder and could not dance. Eden says nothing: he repeats his rule that he always confirms the grey, but cannot bring the face back to prove it. For a week he is the one who looks away first. She tells him that if she ever finds the one who did it, she will not kill him but make him explain.
+
+## Ch 39 - The First Oil Line
+Rowan asks why Lysette hates him; Eden gives a sideways truth and Clara supplies the whole one, so Rowan plans an apology away from an audience. Okoru tells the story of the one-armed cistern hold with bells ringing by themselves, and Eden records it without connecting it to the man in front of him. He lays the first oil line under the camp for lamps. Vesk reports that the Mawgate is closer than the maps say: under the camp itself.

@@ -151,3 +151,14 @@
 - REVIEW ch 38: PASS. check_chapter OK (1801 words, mean 13.4, dialogue 27%). Read twice; no reveal confirm occurs here (C2 stays E, due ch 45).
 - Eden gives none of his four answers, and his inability to prove the rule to himself is stated as a problem, not solved. No feeling narrated for him; Lysette's grief is delivered in her own words.
 - Continuity: Corentin's laugh and "treason" from the mother's letter in ch 10/21, "came home colder" from ch 21, the week of avoidance follows ch 37's file.
+
+### 2026-11-26 07:51 UTC (14:51 WIB) - tulis bab berikutnya - chapter 39 - ok
+- words: 1801
+- scores: tension 2, surprise 4, emotion 4, battle_clarity -, voice 4, freshness 4
+- notes: Rowan/Clara turn; Okoru's cistern story; oil line; Mawgate under camp.
+- quota_note: 
+
+### self-review ch 39 - HIGH risk, same session, not independent
+- REVIEW ch 39: PASS. check_chapter OK (1801 words, mean 11.6, dialogue 46%). Read twice. Okoru's story is an Unbind H hint only; no power appears on the page and Eden does not connect the story to a reading.
+- Rowan's question answered by two different truths: Eden's sideways one and Clara's full one, which belongs to her knowledge, not to a narrator's hint from Eden.
+- Continuity: Lysette's rejection from ch 1/21, Okoru's one arm from ch 4/31 and his Stitch from ch 32, the Choir from ch 34, Vesk's dusty hem from ch 31.

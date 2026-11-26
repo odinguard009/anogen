@@ -479,5 +479,18 @@
       "pacing_shape": "fast alarm, still story, slow week",
       "hook_type": "a threat made gentle"
     }
+  },
+  {
+    "chapter": 39,
+    "picks": {
+      "opening_type": "bottles knocking in an oil crate",
+      "scene_shape": "stair question, wall conversation, under-camp line",
+      "tension_type": "a truth given sideways",
+      "emotional_tone": "steady with one quiet turn",
+      "comic_device": "writing a face no one can read",
+      "conflict_type": "friendship explained by a third person",
+      "pacing_shape": "talk, story, small physical task",
+      "hook_type": "a distance measured in one word"
+    }
   }
 ]

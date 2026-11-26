@@ -270,3 +270,9 @@
 - Lysette: "You always... Stay until I have said everything and then say nothing. It is not comfort... but it is not nothing either."
 - For the next week Eden looked away first: eleven times in seven days; moved bunk, took long way to wall, answered an old question. Lysette began looking at the ground when they met.
 - Hook: "If I ever find the one who did it... I'll make him tell me why."
+
+## Sun 17 Jan (ch 39)
+- Rowan asked why Lysette hated him; Eden told the sideways truth ("She does not... something happened before you asked"). Clara told him the whole truth: she liked him first, he asked in September and forgot, then asked Clara in front of the hall. Rowan decided to apologise "not today" and without six people listening.
+- Okoru told the old Wall story: before he lost the arm he went down into a cistern with a rope, held the water with threads from his hands while the men above drained it, and every bell on the Wall rang by itself for six hours. "A man holds one part. The world does the rest." Unbind hint, no power used on the page.
+- Eden laid the first oil line under the camp along the ditch, marked with stones, logged as "lamps" on a stores form.
+- Vesk came up from the lower city with grey dust on his hem: water in the tunnels moved with no current; the Mawgate is under the camp, not past the far ditch. "Under it."

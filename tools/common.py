@@ -224,10 +224,16 @@ def settings():
     return d
 
 
+WORDS_MIN_FLOOR = 2000  # owner order 2026-11-26, locked setting 16: never lower, whatever a brief says
+
+
 def setting_int(key):
     s = settings()
     try:
-        return int(s[key])
+        v = int(s[key])
+        if key == "chapter_words_min":
+            v = max(v, WORDS_MIN_FLOOR)
+        return v
     except (ValueError, KeyError):
         return int(DEFAULTS[key])
 

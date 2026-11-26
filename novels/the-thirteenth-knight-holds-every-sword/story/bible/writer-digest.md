@@ -6,7 +6,7 @@ MANA (fuel) -> AURA (body field) -> TENET (one unique power) -> CLASS/JOB (regis
 - MANA: fuel. Bells (1-7) only measure tank size, never skill or hit strength. Refills with sleep, food, time near a well. Overdraw = mana-wither (cold hands, grey temples, slow heart).
 - AURA: a hand-deep body field, raised with one deep breath, dropped by breathing out. It turns aside small fast things (bullets, stones, knives), dulls untrained blades, boosts strength and speed, holds back panic, fear-magic and the Hush's cold, and is felt by others. Every stopped hit costs mana. Slow and heavy things get through (bolts, axes, fists, falling stone, cannonballs). Civilians have almost none. An "aura moment" = a full deliberate raise. Eden keeps his low in public.
 - TENET: one unique power with a Law; bends the rules once, cleverly, inside its law. Show the law.
-- CLASS/JOB: registered role read by the planet-mind Aiwa; shown only to the owner and the reader as one rare italic line. Never a rank.
+- CLASS/JOB: registered role read by the planet-mind Aiwa; shown only to the owner and the reader as one rare bold-bracket line, e.g. **[Knight]**. Never a rank.
 
 ## Eden's god powers (names only: Door and Gate)
 - Door = the Shadow Legions: he commands shadow knights (starts: up to 40; mass waking 10,000 at ch 248; nine legions of about a million in the full plan). Needs a shadow big enough; costs mana per minute; they never kill humans, they disarm and wall off; light kills the exit; the Frost follows deep use. Shadow doors on the page are the army's exits.
@@ -30,4 +30,4 @@ Checklist per fight: positions and light; each aura's job and what gets through;
 Bell (grade) = tank size only ("three Bells"); bell (time) = hour, lower case; aura = body field ("raise", "drop"); edge = line between light and dark (lower case); Crown = a Well or an Ashen Crown leader, never a stage; reading = the registry line, italic, rare.
 
 ## Signature attacks
-Bold label like **[Latch]** at the moment it lands; narration marker, not a shout; at most 1-2 per chapter. Read only the rows of characters in your range in power-system.md section 13.
+NAME LABELS (owner order 2026-11-26): every named weapon, ability, technique, signature or ultimate move, job and class is written **[Name]** (bold, brackets) every time it is named in narration; plain in spoken dialogue; at most 6 different labelled names per chapter, at most 2 new. POV is close third person; Eden is flat, the camera never enters his feelings (profile.md STYLE V3, including the DIALOGUE MODEL). Read only the rows of characters in your range in power-system.md section 13.

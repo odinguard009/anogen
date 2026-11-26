@@ -3,7 +3,7 @@ Style stage per arc (combat-style.md): I arcs 1-2, II arcs 3-5, III arcs 6-7, IV
 Tags: flex (easy, awe), puzzle (rules, terrain, timing), strained (he must truly try), costly (win with a real loss). Aim per arc about 30/35/25/10. Aura: rare, earned by hiding, always with reaction shots.
 
 ## Arc 1 (1-50)
-Battles: market Veil hunt 3 flex; berserk construct 5 puzzle; Valerius duel 16-18 strained (holding back is the strain); Ember cell 22 flex; Ball siege vs Crown of Kaldmark 24-26 puzzle; silent Wall 31-34 puzzle; Mawgate night 45-50 costly.
+Battles: telephone-exchange Veil hunt 3 flex (silent, closed building); rigged construct 5 puzzle (out of drill spec: the circle fights well and still needs help); Valerius duel 16-18 strained (holding back is the strain); Ember cell 22 flex; Ball siege vs Crown of Kaldmark 24-26 puzzle; silent Wall 31-34 puzzle; Mawgate night 45-50 costly.
 Aura: 25 he walks through the Ball's broken glass and the grafted Embers step back without knowing why (reaction: Seraphine's hand stops shaking). 49 a single look at the dying Crown stops a hostage knife (reaction: Felix sees, says nothing, asks "Eaten today?" the next morning).
 
 ## Arc 2 (51-100)

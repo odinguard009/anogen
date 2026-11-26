@@ -32,16 +32,16 @@ Why: chapters 3-4 were still hard to follow although sentences averaged only 7 w
 - Track it: story/bible/first-use.md lists each weapon and ability and the chapter where its first-use description was given. Before writing a use, check that file; after writing a first use, add the line.
 
 ## POWER, TECH AND REVEAL CANON (owner's order 2026-11-25; permanent)
-- Aura, mana, Tenet, class/job and spell words follow story/bible/power-system.md exactly (one word, one meaning; no levels or ranks; a class/job reading is one rare italic line only its owner sees).
+- Aura, mana, Tenet, class/job and spell words follow story/bible/power-system.md exactly (one word, one meaning; no levels or ranks; a class/job reading is one rare bold-bracket line only its owner sees, for example **[Knight]**).
 - Tech details (guns, veinlines, bellwire, presses, engines) follow story/bible/tech.md; at most 2 new tech terms per chapter; a gun never decides a knight's fight on its own.
 - Every reveal follows story/bible/reveal-ladder.md: hint, doubt, evidence, confirm, in that order and with its gaps; never confirm early.
 - Awakening (Unbind) vocabulary follows power-system.md section 14. Its first appearance on the page needs the full first-use description and heavy earlier build-up; it never appears in a chapter without earlier hints on the ladder.
 
-## SPECIAL ATTACK LABEL (owner's order 2026-11-25; permanent)
-- When a named signature attack (or a named form on its first or deciding use) lands, the narration shows its name as a bold label in square brackets: **[Latch]**. Put it at the moment the move lands, on its own short line or inside the action sentence.
-- It is a narration marker, not speech: never inside dialogue quotes unless the character really says the name.
-- First use: the attack's first-use description (look, body, effect, limit) in the SAME scene. Later uses: the label plus one fresh detail. The label never replaces description.
-- At most 1-2 labels per chapter. Names and owners: power-system.md section 13. Bold brackets = attack; italics = class/job reading; never mix them.
+## NAME LABELS: **[Name]** (owner order 2026-11-26; replaces the old "SPECIAL ATTACK LABEL"; permanent)
+- Every NAMED weapon, ability, technique, signature or ultimate move, job and class is written in bold square brackets: **[Inead]**, **[Exa]**, **[Lintel]**, **[Witness]**, **[Knight]**, **[Black Lancer]**, **[Unbind: Evrin]**. Write it EVERY time it is named in narration or in an on-page reading, not only the first time. Nameless things stay plain.
+- In spoken dialogue the name is plain (no brackets, no bold). The owner may later ask for brackets in dialogue too.
+- First use: the first-use description (look, body, effect, limit) in the SAME scene. Later uses: the label plus one fresh detail. The label never replaces description.
+- At most 6 different labelled names per chapter (the same name can repeat); at most 2 new ones. Names and owners: power-system.md section 13. One system only: bold brackets for all of these; the old italic reading is retired.
 
 ## SCENE FEEL AND ARMOR (owner's order 2026-11-25; permanent; same priority as CLARITY AND PICTURE)
 SCENE FEEL (mood):
@@ -69,9 +69,9 @@ HUMAN FEEL (at simple level; reinforces "Human feel" below):
 - Keep metaphors rare, concrete and easy (one per page at most). No academic, legal, military-jargon or archaic wording unless a character is deliberately a stiff noble, and even then keep it short.
 - Keep the human feel rules below (uneven rhythm, no tidy endings, no AI tics), but never at the cost of clarity.
 
-## Voice
-- First person, past tense. Dry, observant, understated humor; feelings shown through small actions rather than stated.
-- Tactical narration in fights: read the terrain, name the options, pay the cost.
+## Voice (owner order 2026-11-26: CLOSE THIRD PERSON; replaces first person everywhere)
+- Close third person, past tense. The camera follows Eden from OUTSIDE: what he does, what he looks at, what he counts, what other people do and say about him. See STYLE V3 below.
+- Tactical narration in fights stays: read the terrain, name the options, pay the cost, but as observed action and plain thought ("Eden counted four exits. Two were locked."), never as a feeling.
 
 ## Prose
 - Concrete nouns and strong verbs; avoid stacked adjectives and filler adverbs.
@@ -98,7 +98,7 @@ HUMAN FEEL (at simple level; reinforces "Human feel" below):
 - Emotional peaks get restraint: fewer words, the body and objects carry it.
 
 ## Protagonist voice (Eden; original blend: cold analyst, lazy-surface hider, hard realist, fierce protector)
-- Narrates like a quiet engineer of outcomes: notices exits, shadows, who is lying, what it costs. Understatement and literal answers as humor ("Eaten today?" "Technically.").
+- The camera shows a quiet engineer of outcomes: he notices exits, shadows, who is lying, what it costs. Humor lives in what he SAYS: understated, literal answers ("Eaten today?" "Technically."), never in an inner voice making jokes.
 - Lazy on the surface (naps, skips, shrugs), prepared underneath (scouted three nights ago). Never boasts; never explains his plan before it works.
 - Realist: no illusions about nobles, nations or himself; chooses the least bad option and says so. Keeps a few hard rules anyway (no kill without confirmation; never kill humans with the Emperor's knights).
 - Flat feelings, shown by what he does: remembers everyone's tea, stands between, smiles only at his household. Healing shows as small slips: a laugh he didn't plan, a sentence he can't finish near Lysette.
@@ -130,3 +130,21 @@ The owner prefers the first drafts' openings, humor, voice and endings, and the 
 - ARMOR-UP (Garo manner, see armor.md "Armor-up scene"): every time Eden wears Umra, show the full sequence: trigger, each plate with look, sound and temperature, the helm last, the first breath inside, the first step. 150-300 words, slower than the fight around it.
 - SETTING: late 1890s (see tech.md): motor-cars, telephones, trams, mana-lamps, steam presses, mana engineering in daily life, with knights, swords and bells still in use.
 - LYSETTE'S LOOK is fixed in bible/characters.md; show it once with specifics early, then by small details.
+
+
+## STYLE V3 (owner order 2026-11-26; permanent; wins over every older line that conflicts)
+POV: close third person. Eden and all other point-of-view characters (Lysette, Valerius, the Duke, Ysolde) are written in third person, past tense, one POV per scene, never head-hopping inside a scene.
+EDEN IS FLAT: the camera never enters his feelings. No "he felt", "he was sad", "his heart ached" about Eden. Allowed: body data and counts ("His stomach was cold. He checked the clock. Lunch was two hours ago."), what he does ("He took the cup from her hand and put it down"), plain thoughts about plans and facts, and other people's reactions to him. When he is moved, he does something small and wrong (stops mid-sentence, fixes the wrong thing). Other characters feel more than he does and say so. He is never the most emotional person in a scene.
+OTHER POVs: Lysette, Valerius, etc. may have inner feeling in their own scenes (that contrast is how the reader learns what Eden does not say).
+HUMOR: moves to dialogue, objects and Eden's literal replies. No wry narrator commentary.
+OPENINGS: one odd concrete detail, then action (STYLE MERGE rule stays).
+
+DIALOGUE MODEL (owner order 2026-11-26; model scenes: archive/restart-2026-11-25/chapters/chapter-001.md Eden and Lysette on the roof; chapter-002.md Eden and Valerius at the stairs). Same easy English; livelier and more impressive because of HOW the lines are built:
+1. EACH SPEAKER HAS A HABIT the reader can hear without tags. Lysette: numbers, procedure, orders ("Fifty-two minutes." "Walk."). Eden: short, literal, accidentally funny ("The stone is loud."). Felix: a running joke ("Eaten today?" "Technically."). Valerius: full names, few words, each with weight ("Brandmeier. A ward with no subject." ... "Pity."). New characters get a habit in their first scene.
+2. THE SCENE CIRCLES AN OBJECT, not a feeling: a handkerchief, a trowel, a burnt paper lantern, a timetable. People talk about the object because they cannot talk about the thing under it.
+3. THE KIND LINE IS A SMALL, ODD QUESTION: "Did it light?" opens a person more than comfort does. Use a question about a detail to break a hard moment.
+4. ECHO AND CALLBACK: a word comes back changed ("Most." / "I was awake for the last four."). A short line answers a long one.
+5. BUILD A STRONG CHARACTER THROUGH OTHER PEOPLE FIRST: the prince arrives through the empty space people leave around him, officers who leave at a nod, a bow, a pause when two people answer the same question at the same time ("No." / "Yes."). Describe the effect on the room before the line he says.
+6. LAST LINE OWNS THE SCENE: end on the line that costs someone something ("Pity."), or on an object (a written question the other person can half read). No explaining after.
+7. ACTION BEATS FROM OBJECTS instead of adverbs: the trowel point down along her arm, the handkerchief taken by one corner.
+8. NO FILLER DIALOGUE. Every exchange must change something: a fact, trust, power, or a plan. Never add chatter (clerks, gardeners, small talk) only to reach the 25-40% target. If a chapter is under the target, add a real exchange (a question that gets a wrong answer, a callback, an interruption), or accept a lower number and tell the critic. PROPOSAL TO THE OWNER (not applied): treat 25% as a floor guide and 40% as the ceiling, checked as a warning, never as a reason to add lines.

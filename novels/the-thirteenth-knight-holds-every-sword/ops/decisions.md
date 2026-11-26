@@ -36,3 +36,6 @@ Owner (after reading ch 1-10 of the new start): he liked the old drafts' opening
 
 ## 2026-11-25 owner order: every order gets its own name
 All 13 orders renamed so no name is a color alone (orders.md, rename.py on story/ plus one word in chapter 9). Colors stay as livery. Chapters were not rewritten.
+
+## 2026-11-26 owner order: full replan, then wait
+Owner orders: (1) livelier, more impressive dialogue (old-style ch 1 Eden-Lysette and ch 2 Eden-Valerius scenes are the model), still at easy level; (2) Year 5 circle (esp. Lysette) must be near or above line-knight standard with real combat history; (3) Eden flat; close third person POV (camera outside Eden; confirmed by owner); (4) weapons, abilities, jobs, classes, ultimates written as bold [Name]; (5) clear timeline; graduation stays at ch ~200 (owner confirmed; ~23% of 850, so before 50%); (6) all arcs and plot fixed to match, no patchwork; (7) ch 1-10 are superseded drafts, ignored; after the replan the owner will order the full rewrite: WAIT for that order; (8) advisor may be consulted often; owner lets the advisor bypass the no-agent rule, max one agent per advisor; (9) lock all changes and the latest SOP in the repo so any AI can run Anogen. Engine hold set in ops/blocked.md and batch stopped.

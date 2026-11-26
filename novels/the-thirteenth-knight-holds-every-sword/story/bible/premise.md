@@ -4,7 +4,7 @@
 
 **Opening.** He wakes from a dream of endless war to a girl crying beside him, unaware he is there. He offers a handkerchief. Lysette Hollen, proud, sharp-tongued, Discipline Committee, has just watched the boy she loves invite someone else to the Lantern Ball. From then on she drags Eden to class, and class drags him into fights.
 
-**Tone.** Korean web-novel / light-novel energy, grounded. Academy life, spy intrigue, terror plots, court politics, frontline war. Dry first-person tactician narration. Slow-burn romance. A boisterous comic Argentine household with teeth. Comedy never undercuts grief or danger.
+**Tone.** Korean web-novel / light-novel energy, grounded. Academy life, spy intrigue, terror plots, court politics, frontline war. Close third person on a flat, dry hero (the camera stays outside his feelings); humor lives in dialogue. Slow-burn romance. A boisterous comic Argentine household with teeth. Comedy never undercuts grief or danger.
 
 **Core conflict.** Outside: the Hush advances; thirteen nations bicker over the last mana wells; the Ashen Crowns, heirs of kingdoms the old Iron King conquered, wage terror for revenge; Veils rot courts from inside. Inside: Eden's powers and memories are sealed by his dead mother, and what is unsealing is an Emperor's gift that may cost him himself.
 

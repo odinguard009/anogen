@@ -16,9 +16,9 @@ arc_default_max: 50
 - Never boring: twists planted early, heartfelt moments, heart-pounding scenes.
 
 ## Protagonist
-- First-person narrator. Narrates fights like a tactician.
+- Close third person, past tense (owner order 2026-11-26): the camera follows Eden from outside. He is flat: he feels little and late, so the narration shows actions, objects and others' reactions, never his feelings. Fights are shown like a tactician's plan.
 - Nonchalant on the surface, secretly caring, cool, realistic, honest, principled.
-- A third-person interlude about once every 8-10 chapters (other characters' view).
+- A chapter from another character's view (Lysette, Valerius, the Duke, Ysolde) about once every 8-10 chapters; they may feel more than Eden does.
 
 ## Romance and comedy
 - Pure slow-burn romance. Yearning early, climax later. Complications allowed.

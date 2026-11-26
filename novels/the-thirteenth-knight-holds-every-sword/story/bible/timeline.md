@@ -28,4 +28,5 @@
 - PR 107 (13): Theodric and Aldous create the Thirteenth Vigil for him. Eden asks that his existence be hidden until he chooses. Public: the heir is raised by tutors in the north.
 - PR 108 (14): enters Hallowcrest as Eden Wren, scholarship ward. Headmistress Ostwald is told his name and power.
 - PR 110: the Thirteenth Vigil executes "traitor" Corentin Hollen (a Veil).
-- PR 112 autumn: Year 5 begins. Story opens weeks before the Lantern Ball.
+- PR 112: Year 5 begins 1 Sept. The story opens Monday 2 Nov PR 112, six weeks before the Lantern Ball (Sat 12 Dec). Eden is 18 (born 3 March PR 94). Full day-by-day anchors: bible/calendar.md (it wins over this file).
+- PR 114, 26 June: graduation (ch 200). Eden is 20.

@@ -14,8 +14,8 @@
     "arc": null,
     "max": null,
     "start_chapter": 1,
-    "status": "done",
-    "stop_reason": "batch complete (10/10)"
+    "status": "stopped",
+    "stop_reason": "HOLD 2026-11-26: ch 1-10 are superseded drafts; replan in progress; write nothing until the owner orders the rewrite"
   },
   "critic_through": 10,
   "audit_through": 10,

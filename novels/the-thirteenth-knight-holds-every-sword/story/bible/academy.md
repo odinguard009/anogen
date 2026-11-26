@@ -10,9 +10,10 @@
 - Years 1-2 Foundations: mana control, spell grammar, history, riding, arms, languages.
 - Years 3-4 Arms and Tenet: Tenet discipline, duels, Undercroft drills (training maze under the plateau). Year 4: refugee-convoy escorts.
 - Year 5 Field: five-student Lances; Winter Rotation on the Southern Wall (live Hushborn, supervised).
-- Year 6 Command: lead younger Lances, Concord honor guard, the Crossing (a night on the Teeth beyond the Wall). Graduation at 19-20; postings the same month to the front or as squire-knights to an order.
+- Year 6 Command: lead younger Lances, Concord honor guard, the Crossing (a night on the Teeth beyond the Wall). Graduation at 19-20 (Eden 20); postings the same month to the front or as squire-knights to an order.
 - Failed years are repeated. The Twentieth Rule: no student may remain enrolled past their 20th year (expelled on their 21st birthday). Dropouts usually go to the Wall as common soldiers.
-- Eden: entered PR 108 at 14; now Year 5 at 18; graduates end of Year 6 (ch 200) at 19. Year 5 = arcs 1-2 (ch 1-100); Year 6 = arcs 3-4 (ch 101-200).
+- Eden: entered PR 108 at 14; now Year 5 at 18; graduates end of Year 6 (ch 200, 26 June PR 114) at 20. Year 5 = arcs 1-2 (ch 1-100); Year 6 = arcs 3-4 (ch 101-200). All dates: bible/calendar.md (it wins).
+- Summer Posting (every student from Year 3 up, three weeks each July-August on the Wall or an escort route) plus Year 4 convoy escorts give each Year 5 real combat history before ch 1: standing and numbers in power-system.md section 17. Year 5 students are at or above line-knight standard; the Ten are the best 10 of 400.
 
 ## Ranks, exams, life
 - The Ladder: public year ranking from semester exams (theory, arms, field marks) and sanctioned duels. Top ten wear a bronze pin ("the Ten"). Year 5 now: 1 Valerius, 2 Rowan, 3 Clara Belmont, 4 Lysette, 6 Seraphine, 8 Eden (always 7-9, never higher). Felix: 19.

@@ -101,3 +101,21 @@ Scores ch 11-20: tension 2-4, emotion 3-5, voice and freshness 4, no score below
 - What: prepass reports 17-19% for ch 16-18 (warning only).
 - Why: fight prose takes the space that dialogue would have used; the speakers are still distinct.
 - Fix: plan the real exchanges before drafting the next battle, never add filler to move the number.
+
+## Audit through chapter 30 (2026-11-26 new draft, same session, not independent)
+Scores ch 21-30: one 2 (ch 21 and 29 emotion/tension), several 5s for battle clarity and emotion; no score below 2. Debts paid: Corwen (18), Ilsabet (25). New plants are open and not due yet. No auto-append to banned.md or variety_menu.json this round.
+
+### A1. Word-count floor persists (repeat of audit 20 A1)
+- What: all ten chapters are 1800-1820 words.
+- Why: the fix suggested at ch 20 was not applied; chapters still reach the floor by late dialogue rather than one extra action beat.
+- Fix: in ch 31-40, draft one concrete object or movement beat per chapter before the word-count check, not one more line of talk.
+
+### A2. Quiet chapters outnumber fights
+- What: ch 21, 26, 27, 29 and 30 are calm or emotional, and tension scored 2-3 in four of them.
+- Why: the outline builds toward the Wall, but five still chapters in a row slow the run after the Ball.
+- Fix: make the existing clocks visible in the first scene of each quiet chapter (Seal statements, exams, travel, the Duke's letter) instead of adding danger the outline does not have.
+
+### A3. Repeated hand/object phrasing
+- What: prepass tracks "with his hands in his", "did not look at the" and "with the back of her" across recent chapters.
+- Why: small physical beats are doing the same work in different scenes.
+- Fix: vary the reaction beat: a foot on a loose board, a pencil on a string, a cup moved an inch, rather than another hand gesture.

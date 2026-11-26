@@ -17,3 +17,6 @@ In the Undercroft maze Okoru sets one student against a training construct for t
 
 ## Ch 6 - The Quietest Lance
 Okoru forms the Year 5 Lances and puts Lysette, Rowan, Clara, Felix and Eden in Lance Nine as the strongest mix on paper, with Lysette assigned to supervise Eden. In the chapel corridor Rowan's gold palm light matches a faded Lirenne fresco, and the lilies beside Clara revive without her noticing; Lysette watches Rowan and Eden and keeps writing. Eden asks to see the order for the rigged construct's core in the stores office. It is signed by Master Sorn, a forge master who died last year, and dated in the first week of November. Lysette had asked for the same line the day before.
+
+## Ch 7 - Remember Thornmere
+Rowan finds Eden on the roof and asks, loudly, to be friends. Lysette brings the first attendance warrant and writes "roof" in the margin because the printed form has no box for it. At lunch Seraphine starts her jokes on Felix and deflects when she sees the black card. A thin Cinder slips the card into Eden's book: a pressed ash-rose, a grey broken crown, and the words "Remember Thornmere". He uses it as a bookmark. Across the hall a man in a grey coat writes one short line in a count book and watches him put it away.

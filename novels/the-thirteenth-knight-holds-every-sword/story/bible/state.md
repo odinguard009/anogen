@@ -57,3 +57,10 @@
 - Chapel corridor: Rowan's gold palm light matches the hands in the Lirenne fresco exactly ("The same colour." / "The same hands."). The wilted lilies near Clara lift and open; she does not notice and says it has happened for years. Eden tells her he has seen "that field" near her home. Rowan is easy to like; Lysette watches both Rowan and Eden and writes three lines.
 - Lysette checked Eden's medical exemption: "It says rest. It does not say where." / "The roof is quiet." She put the slip back without writing on it.
 - Stores office: the new drill core order is signed "Master Sorn", a forge master who died last year, and dated in the first week of November. A girl with a red band (Lysette) had already asked for the same line the day before and wrote the date down. Eden copied the date onto the back of his form.
+
+## Mon 9 Nov (ch 7)
+- Eden slept on the roof; a bird nested in the broken telescope. Rowan asked loudly to be friends and wants someone to tell him when he is wrong before everyone else laughs. Eden: "It is what dogs do."
+- Lysette's first attendance warrant: third bell strategy, reason "roof" written by hand in the margin because the form has no box for it. She has one week before warrants go to the headmistress. Rowan's testimony as a witness on the stairs was useless.
+- Lunch: Seraphine's first joke on Felix ("You are supposed to laugh" / "I will think about it"); she knows the shape of the Ashen card but tells him people get them at fairs. Rowan got a bigger soup ladle after Seraphine said she had measured three.
+- A thin Cinder in a rough grey coat, ash on one glove cuff, slipped a black card into Eden's strategy book at page twelve. Pressed ash-rose, broken crown in grey, four words: Remember Thornmere. Eden keeps it as a bookmark; his thumb went to the corner twice.
+- A man in a grey coat with no badge, book like a prefect's count book, watched Eden pocket the card and wrote one short line. Do not name him on the page yet (debt: grey-coat Ember = Corwen, due ch 18).

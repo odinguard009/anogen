@@ -63,5 +63,18 @@
       "pacing_shape": "small scenes building to one hard fact",
       "hook_type": "an object with a wrong date"
     }
+  },
+  {
+    "chapter": 7,
+    "picks": {
+      "opening_type": "odd concrete object (bird in a telescope)",
+      "scene_shape": "three short scenes",
+      "tension_type": "routine interrupted",
+      "emotional_tone": "warm and funny",
+      "comic_device": "a ladle measured three times",
+      "conflict_type": "attendance paperwork",
+      "pacing_shape": "small scenes with a sharp last beat",
+      "hook_type": "someone writes him down"
+    }
   }
 ]

@@ -140,7 +140,7 @@ He went to the palace that night with the report in his head. Ysolde was still a
 
 "You did not tell me that."
 
-"I did not know it." Ysolde looked at him over the top of her glasses. "Now I do. Thank you."
+"I suspected it." Ysolde looked at him over the top of her glasses. "Now I know. Thank you."
 
 "Alive. Night of lights," Eden said.
 
@@ -148,4 +148,4 @@ He went to the palace that night with the report in his head. Ysolde was still a
 
 On the walk back he stopped under the last lamp and wrote the report again in his head: four walks, one watcher, a copy of the call list, and two words that said what the Embers wanted. Alive. Night of lights.
 
-He counted from the third to the twelfth. Nine days. He folded Ysolde's order into three and put it back beside the Ashen card, and walked toward the school with his collar up against the rain that had not started yet.
+He counted from Thursday, the third of December, to the Ball on the twelfth. Nine days. He folded Ysolde's order into three and put it back beside the Ashen card, and walked toward the school with his collar up against the rain that had not started yet.

@@ -98,7 +98,7 @@ On the stone above the place where she had been kneeling was a pale shape, clean
 
 Eden looked at it too. "What is that?"
 
-"Nothing," Lysette said, and she turned her back to it too quickly. Then, more quietly: "I have one like it on the wall above my own desk. I do not like to look at it."
+"Nothing," Lysette said, and she turned her back to it too quickly. She did not look at it again.
 
 She walked past him to the door. Okoru gave a small grunt that might have been approval. "You write faster than the sergeant. He has been here an hour and has written four words."
 
@@ -107,6 +107,16 @@ She walked past him to the door. Okoru gave a small grunt that might have been a
 "Dead man. Lamp-house. Sad."
 
 "He is not wrong," Lysette said, and for the first time that morning her mouth nearly moved.
+
+Okoru stopped beside Eden on the way out. "You came down from the roof early this morning," he said, so quietly that Lysette could not hear. "The roof garden is a long way from the Long Stair."
+
+"I heard the scream."
+
+"From the roof?"
+
+"Yes, sir."
+
+Okoru looked at him for the length of one slow breath. He did not say that he believed it, and he did not say that he did not. He only tapped his stick once on the floor, the way he did when he was filing something away, and walked on.
 
 Okoru led the students out into the stair, one hand on the shoulder of the one who was still crying. Eden stayed at the door and counted them as they went: eleven students and two prefects. Every one of them looked at their shoes. Not one of them looked up at the lamps.
 

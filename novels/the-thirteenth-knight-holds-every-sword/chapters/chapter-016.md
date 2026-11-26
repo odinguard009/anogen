@@ -102,18 +102,6 @@ Eden was already round the other side. The crowd made a small noise along the wa
 
 "Yes?"
 
-"You make walls between us and then walk through them."
-
-"That is what walls are for."
-
-"No. That is what doors are for."
-
-Valerius's mouth moved once at that. He did not ask what Eden meant.
-
-"That was a walk," Valerius said. "Not a fight."
-
-"It was both."
-
 Valerius dragged a fourth line, fast, and the wall rose crooked against Eden's side. The cold went through his coat into his ribs. He stopped for one beat. Valerius saw the beat and cut down at his shoulder.
 
 Eden folded **[Exa]** with one knock on the ring. The black shield took the blade on its face, and the iron rang across the yard. The shock ran into his shoulder, and he counted two breaths to clear the arm.
@@ -135,8 +123,12 @@ Eden knocked the ring, and the shield unfolded into the lance again. The prince 
 "It is on the lance."
 
 Valerius smiled with his teeth and came in.
+
 Eden did not answer that. If he used the point, the duel ended in a minute, and Valerius would know how far he had held back. So the point stayed down. The butt was slower, and slower was the price of a loss that could not be proved. Every exchange from here had to end a hand short of a score, on both sides, and look like an honest struggle to two hundred eyes and three judges.
- He put everything into one straight charge, sword low, shoulder forward. He had committed, and he could not stop.
+
+The crowd had begun to murmur. A second-year near the front said that Wren was only running. He was right, and Eden let him be right. Running was the cover he wanted. A boy who ran looked frightened, and a frightened boy was not hiding a skill.
+
+Valerius put everything into one straight charge, sword low, shoulder forward. He had committed, and he could not stop.
 
 Eden turned on his front foot, the way a door turns on its iron. That was **[Hinge]**. The charge passed through the place where his chest had been. The lance butt came round low, to the joint behind Valerius's knee, and it was going to land.
 

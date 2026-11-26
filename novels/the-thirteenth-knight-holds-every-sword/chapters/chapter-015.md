@@ -124,6 +124,8 @@ She did not write anything. Instead she looked at the smallest child, who was ho
 
 "Short and true can both be wrong." She shut the book. "But I will not write the bakery in my report. I will write that you walked by the water." She started back up the street, then stopped. "You may walk with me, if you like. I will not write that down either."
 
+Eden thought about the smallest child, who had never once asked where the bread came from. He had been fed by strangers all his short life, and he gave away his crusts in return. That was a kind of manners that nobody had taught him, and Eden envied it a little.
+
 Eden walked beside her for four steps. Then he took the other side of the square, so that anyone watching would see two people who had never spoken. Lysette did not turn around. At the corner she said, without looking back, "I am not writing the hill. You came back with me. That is all the form needs." That was the truce, and it lasted until the school was in sight.
 
 * * *

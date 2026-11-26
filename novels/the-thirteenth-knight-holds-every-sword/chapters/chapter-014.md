@@ -48,13 +48,13 @@ Seraphine came down the north stairs with a small card in her hand. She stopped 
 
 "How many what?"
 
-"My jokes. I have told you eighteen, and you have laughed at none." She showed him the card. It had eighteen tally marks on it. "I am going to tell you number nineteen at the end of term, so you have time to be ready."
+"My jokes. I have told you eighteen, and you have laughed at none." She showed him the card. It had eighteen tally marks on it. "Number nineteen is coming."
 
 Eden understood the joke only after Felix explained it, later. Seraphine told Felix jokes and counted each one he did not laugh at. She was not angry. She wanted him to laugh, and she did not know how to ask.
 
 "Eighteen is enough," Felix said, and went red to the ears.
 
-"Nineteen," Seraphine said, and wrote it on the card, because he had just proved her right. She went into the hall with her chin up.
+"Nineteen," Seraphine said, and wrote it on the card. "You went red, but you did not laugh. That counts." She went into the hall with her chin up.
 
 Lysette watched them go. Then she looked at the ladder and told the prefect to take it back to the store. "I waited on the roof at noon," she said to Eden, "and you did not come. The garden door was locked, and I hold the only key. So how did you get in last week?"
 
@@ -136,6 +136,8 @@ She was quiet for a while. A bee crossed the garden and landed on the sage. "I g
 
 At the door she stopped. "You can tell Felix I found you. Tell him eleven minutes. Not a word more."
 
-Eden took out the timetable and wrote eleven minutes beside Saturday. The bee had gone, and the thyme smelled stronger in the cold. The apple tree held its one green fruit above the stone pots, and the mint had started to close for the night. Two prefects walked past on the stair below with a ladder and did not look up. They looked tired, and one of them was still wearing the blanket from the stakeout.
+Eden took out the timetable and counted the week. Seven lines, one of them a chair, one a confession. It was not a perfect week. But for the first time, one of the lines had been written by someone else's hand in someone else's book, and the line said rest, medical, and nobody had been angry. He thought that was a better record than a perfect one.
+
+He wrote eleven minutes beside Saturday. The bee had gone, and the thyme smelled stronger in the cold. The apple tree held its one green fruit above the stone pots, and the mint had started to close for the night. Two prefects walked past on the stair below with a ladder and did not look up. They looked tired, and one of them was still wearing the blanket from the stakeout.
 
 He kept the coat on his boots until the light went off the wall.

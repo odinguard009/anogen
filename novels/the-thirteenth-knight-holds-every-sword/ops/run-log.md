@@ -171,3 +171,17 @@
 - scores: tension 4, surprise 4, emotion 5, battle_clarity -, voice 4, freshness 5
 - notes: Arc 1 close: nest destroyed; Tailor's regards; Lysette's silence; scarf question.
 - quota_note: 
+
+### critic pass ch 41-50 - 2026-11-26 - same session, not independent
+- Cold read of the manuscript against the outline lines and canon rows at arc end; verify_batch 41-50 OK; prepass and check_chapter on all ten. No event or canon changed; no targeted patches needed.
+- ch 41 - 4,4,4,-,4,4. No concrete line-level finding. Sealed gear first use has look, effect and cost; boot print is evidence only.
+- ch 42 - 2,3,3,-,4,4. No concrete finding. Gorrath's voices answered from thirteen places; Lysette nearly caught the log; joke 101 stayed at 101.
+- ch 43 - 2,3,5,-,4,4. No concrete finding. "That is not fine" delivered as dialogue; shadow ignoring breath is a plant.
+- ch 44 - 4,4,4,-,4,4. No concrete finding. [Osk] and dream [Thessa] described; watcher tied alive.
+- ch 45 - 5,4,5,4,4,4. No concrete finding. [Citation] first use with cost; C2 confirm memory has no feeling words; misdirection on the page.
+- ch 46 - 5,4,4,5,4,4. No concrete finding. [Ithe] and [Wyl] with costs; frost and grass are hints only.
+- ch 47 - 5,4,4,4,4,4. No concrete finding. Perrin debt paid; [Thessa] first loan and feather mark; no explanation of the maker.
+- ch 48 - 5,4,4,4,4,4. No concrete finding. [Grask] has look, effect and greying cost; hostage hook.
+- ch 49 - 5,4,5,5,4,4. No concrete finding. Aura has reaction shots; false Unbind with no bell; [Lampwick] needs light and seam; dust still is a plant.
+- ch 50 - 4,4,5,-,4,5. No concrete finding. Arc payoff delivered; Tailor's message lands; Lysette's D and Eden's want are delivered in action and dialogue, never narrated as a feeling.
+- Recurring weakness: dialogue runs low in the dawn/battle chapters and all ten sit at the word floor. Warnings only; no filler added. Same-session critic, so no independent read.

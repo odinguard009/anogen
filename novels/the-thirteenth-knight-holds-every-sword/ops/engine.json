@@ -14,8 +14,8 @@
     "arc": 1,
     "max": 5,
     "start_chapter": 46,
-    "status": "running",
-    "stop_reason": ""
+    "status": "done",
+    "stop_reason": "arc 1 fully written"
   },
   "critic_through": 40,
   "audit_through": 40,

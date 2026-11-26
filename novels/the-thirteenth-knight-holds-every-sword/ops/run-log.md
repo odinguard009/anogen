@@ -121,3 +121,14 @@
 
 ### critic re-review ch 9 - same session, not independent
 - Re-review only: ch 9 was changed after its critic pass. Fixed the Ball countdown from "Nine days" to "Thirty days" (12 Nov to 12 Dec); state.md and summaries.md updated to match. check_chapter still OK (1806 words), prepass unchanged. No other line changed.
+
+### 2026-11-26 06:02 UTC (13:02 WIB) - tulis bab berikutnya - chapter 16 - ok
+- words: 1800
+- scores: tension 4, surprise 4, emotion 4, battle_clarity 4, voice 4, freshness 4
+- notes: First [Injunction] and [Hinge]; restrained round one; Okoru stops chewing.
+- quota_note: 
+
+### self-review ch 16 - MEDIUM risk, same session, not independent
+- REVIEW ch 16: PASS. check_chapter OK (1800 words, mean 10.8, dialogue 22% warning only). First uses of **[Injunction]** and **[Hinge]** described in scene and ledger, with costs.
+- No confirm or power beyond canon: Verdict's rulings cost breath; Eden's pivot needs commitment. The whole round is restraint; nobody is hurt and the duel is not decided.
+- Continuity: rank 1 against rank 8, sanctioned duel, judges' bell, Okoru's stopped chewing as the reaction shot. Ends on Valerius's exact line.

@@ -115,5 +115,11 @@
 ## Sun 22 Nov (ch 15)
 - Eden went into the lower city to look at the dye-works from a distance, as Ysolde ordered in ch 9. Lysette followed on a Committee-off-campus form; he counted her eleven steps back and changed route at the canal so a grey-coat watcher under an awning saw no meeting.
 - Harmless tour: laundry steps, map on a ward board, then a refugee bakery where the children know him as "mister" and the baker keeps "the usual". He paid for bread and carried it uneaten. Lysette wrote nothing about the hill and let him walk on the other side of the square. Small truce: "You came back. That is the whole form."
-- Dream: the Tutor set nine pawns with no tower. The Dragon complained about mint and Sunday walking, then said: "I have asked for one thing, and I meant to take it when—" and went quiet. Eden asked what he promised; no answer. Debt planted (due 420-425).
+- Dream: the Tutor set nine pawns with no tower. The Dragon complained about mint and Sunday walking, then said: "I have asked for one thing, and I meant to take it whenï¿½" and went quiet. Eden asked what he promised; no answer. Debt planted (due 420-425).
 
+
+## Tue 24 Nov (ch 16)
+- Sanctioned Ladder duel demanded by Valerius: Eden Wren (8) against Valerius Aurenmark (1), in the sand duel yard with three judges and a bell. Okoru stopped chewing his leaf during the fight.
+- Round one: Valerius used **[Injunction]** four or five times, each "This line is not crossed." raising a cold pale wall and costing a breath. Eden used **[Hinge]** to pivot past a committed charge and put the lance butt behind the knee, and pushed a hurried wall aside. He struck only with the butt, and kept his touches to within one finger's width of Valerius's blade.
+- Body data: shield ring vibration into the shoulder, fingers cold from a wall, front foot numb after the pivot. He counted Valerius's breaths and the prince noticed: "You counted my breaths as well. I saw your eyes move."
+- Okoru stopped chewing; Seraphine's card turned over; a prefect forgot to write. Hook: Valerius dropped his sword on the chalk: "Again. And this time try."

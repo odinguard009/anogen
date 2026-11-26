@@ -45,3 +45,6 @@ Eden tries to keep a perfect nap record while Lysette's attendance campaign grow
 ## Ch 15 - The Boy Who Pays for Bread
 Lysette follows Eden into the lower city on a Committee pretext while he scouts the dye-works from a distance for Ysolde. He knows she is there, changes route to keep her away from the Ember watcher, and ends at a refugee bakery where the children know his name. He pays for bread and does not eat it. The two agree not to write down the walk back. That night the Dragon stops mid-complaint with "I promised someone" and will not say who.
 
+
+## Ch 16 - This Line Is Not Crossed
+Valerius demands a sanctioned Ladder duel. In the sand yard he makes pale walls with ****[Injunction]****, each ruling costing a breath, while Eden stays behind them and refuses to use the lance point. Eden's ****[Hinge]**** turns a charge past him and lands the butt behind the knee; he keeps every miss within a finger's width. Valerius notices the restraint and the count of his breaths. The bell ends the round and Valerius drops his sword: "Again. And this time try."

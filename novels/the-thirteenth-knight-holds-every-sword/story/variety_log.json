@@ -180,5 +180,18 @@
       "pacing_shape": "slow walk ending on a cut-off voice",
       "hook_type": "an unfinished sentence"
     }
+  },
+  {
+    "chapter": 16,
+    "picks": {
+      "opening_type": "a posted challenge with seven words",
+      "scene_shape": "briefing then one long round",
+      "tension_type": "restraint under a public clock",
+      "emotional_tone": "formal and strained",
+      "comic_device": "a prefect adding the hour Valerius never writes",
+      "conflict_type": "formal Ladder duel",
+      "pacing_shape": "measured build with one ring at the end",
+      "hook_type": "a blade dropped on the chalk"
+    }
   }
 ]

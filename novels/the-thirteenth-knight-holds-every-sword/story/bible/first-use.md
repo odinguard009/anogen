@@ -50,3 +50,6 @@ Unbind (none on page; first: Lysette's Auda ch 141, Duke's Durn ch 193, Valerius
 Note: Witness first use moved from planned ch 13 to ch 11 because the outline's graded run calls for it; ch 13 is a later use with a new detail.
 
 - Lysette's Testimony | Lysette | ch 13 | yes (holds a Witness replay in the air for others to see; bright ghost-light, needs a still place and nobody moving through it, about six breaths) | yes (short duration; her wrist shakes and she must let it go)
+
+- Valerius's [Injunction] | Valerius | ch 16 | yes (sword dragged along floor, the words "This line is not crossed.", a waist-high pale wall thin as glass that pushes air cold; each wall costs one short breath) | yes (one breath per wall; walls can be pushed aside if placed in a hurry)
+- Eden's [Hinge] | Eden | ch 16 | yes (pivot on the front foot like a door on its iron; charge passes where he stood, lance butt into the joint behind the knee) | yes (needs the enemy to commit; leaves the front foot numb for one step)

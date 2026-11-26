@@ -92,3 +92,9 @@
 - Lance Nine came third in eleven minutes behind the top Lance and the fourth. Okoru's order: Felix, Lysette, Wren, Clara, Rowan.
 - First uses: Felix's Trail (pale line of boot tracks; faded where someone sweeps the floor nightly) and Lysette's Witness (ghost-light replay of a hand pushing a wall; needs stillness). Rowan's spear and Clara's healing closed the construct's brass joint; Eden only blocked and read the lamp shadows to find a gap above the wall. He had seen the exit when they came in and let Lysette announce it.
 - A man in a staff coat with a narrow face and a pen watched Rowan from the unlit gallery, wrote on a paper on his wrist, and was gone when Eden looked again. Do not name him yet.
+
+## Tue 17 Nov (ch 12)
+- Lunch behind the stables with Felix. He bought two sugared buns; "Eaten today?" / "Technically" ran once. He asked why nobody gets close to Eden; Eden: "I do not know how." Felix said his mother told him in Year 1 to sit with the quiet boy, and staying was his own choice.
+- Felix gave his middle name, Perrin, first, so it would not be a trade. Eden could give only "Eden Wren" and said honestly that he had no name he could say out loud. Felix did not ask again. His kindness is in staying until the silence is ordinary.
+- Lysette brought the second lunch with "Committee efficiency. You skip meals and you skip class. I am not losing track of you," still not looking at Eden. She had asked the gate prefect about the bun and wrote "bun, partial". Felix told her his middle name before leaving.
+- The two-lunch routine starts here. The handkerchief is still unwashed; Lysette's glove has a green stain from the roof garden.

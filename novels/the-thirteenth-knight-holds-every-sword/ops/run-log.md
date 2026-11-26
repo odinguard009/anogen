@@ -74,3 +74,14 @@
 - REVIEW ch 11: PASS. check_chapter OK (1827 words, mean 8.6, dialogue 34%). Names trimmed to budget; "One" registered.
 - First uses of Trail and Witness described in scene and ledger; Witness first use moved to ch 11 from planned ch 13 because the outline's graded run calls for it.
 - Puzzle is visible: lamp shadows show a gap above the wall; Eden had seen it at entry and lets Lysette announce the way out. Eden never strikes a construct; the circle wins at its own standing and places third.
+
+### 2026-11-26 05:46 UTC (12:46 WIB) - tulis bab berikutnya - chapter 12 - ok
+- words: 1800
+- scores: tension 2, surprise 3, emotion 5, battle_clarity -, voice 4, freshness 4
+- notes: Felix's Perrin; Eden cannot give a name back; two-lunch routine starts.
+- quota_note: 
+
+### self-review ch 12 - LOW risk, same session, not independent
+- REVIEW ch 12: PASS. check_chapter OK (1800 words, mean 9.5, dialogue 48%, under the failure line). No new names; Perrin was already in canon_names.
+- Outline beats delivered: why nobody gets close, Perrin with a bun, Eden's honest refusal to give a name back, Lysette's two lunches and the line said without looking at him.
+- Eden stays flat: body data (wall warmth, three-second count) and plain facts only; Felix's backstory is told by Felix, not by the camera.

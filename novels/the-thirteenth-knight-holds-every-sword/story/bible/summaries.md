@@ -32,3 +32,6 @@ Lysette does Committee rounds and reads her mother's letter, which says House Ho
 
 ## Ch 11 - The Direction of Shadows
 In the first graded field run, Okoru sends the five Lances through the Undercroft maze with lamps, false walls and two timed constructs. Lance Nine works as a unit for the first time: Felix's Trail reads dragged stone, Lysette's Witness replays the hands that moved a wall, Rowan and Clara handle the constructs, and Eden reads the lamp shadows to find a gap over the exit without taking credit. They finish third in eleven minutes. A man in a staff coat watches Rowan from the dark gallery and vanishes when Eden looks up.
+
+## Ch 12 - Perrin
+Felix finds Eden behind the stables and asks why nobody gets close to him. Eden says he does not know how. Felix gives his middle name, Perrin, before asking for anything, and Eden says honestly that he has no name he can give back. Lysette arrives with a second lunch, says she is not losing track of him, and does not look at him once. Felix tells her his middle name on his way out. The two-lunch routine begins.

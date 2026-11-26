@@ -128,5 +128,18 @@
       "pacing_shape": "alternating puzzle and fight",
       "hook_type": "someone vanishes from a gallery"
     }
+  },
+  {
+    "chapter": 12,
+    "picks": {
+      "opening_type": "warm concrete object (a sun-warmed bench)",
+      "scene_shape": "two long talks and a short arrival",
+      "tension_type": "an honest question with no answer",
+      "emotional_tone": "quiet and trusting",
+      "comic_device": "a bun that is not a technically",
+      "conflict_type": "friendship without a trade",
+      "pacing_shape": "slow talk, small turn at the end",
+      "hook_type": "a second lunch and a line not looked at"
+    }
   }
 ]

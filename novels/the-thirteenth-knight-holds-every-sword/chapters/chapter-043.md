@@ -126,7 +126,7 @@ Felix put the lantern on the stone. He looked along the wall, where the snow was
 
 "No, you do not. You never have to decide it. I am telling you so you know I have chosen." Felix went down the stair with the light in front of him.
 
-Eden watched the small circle of lantern glow cross the snow and disappear under the wall.
+Eden watched the small circle of lantern glow cross the snow and disappear under the wall. Felix had told him something he had not asked for: that a friend can keep quiet on purpose, and that it costs him. Eden did not know how to pay that back. He put it on the list of things he owed, which was getting long.
 
 * * *
 

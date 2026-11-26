@@ -122,7 +122,7 @@ Okoru had come up the tunnel while the arrow was still in flight. He stopped bes
 
 "No, sir. I learned it from the arrow." Felix's voice was too loud, because he could not yet hear himself. Clara put a finger to her lips, and he lowered it. "Sorry. I learned it from the arrow, sir."
 
-Okoru looked at him for a while, and something in his face was close to pride. He did not say it.
+Okoru looked at him for a while, and something in his face was close to pride. He did not say it. He turned to the tied man instead and checked the knot himself, as if to cover what his face had shown, and the knot was tight, as it should be.
 
 "That is enough," Okoru said from behind them, in the low voice he used when the answer mattered. "Tie his hands. We do not kill him. We do not know who paid him."
 

@@ -104,7 +104,7 @@ Felix stood at the step with an arrow on the string. He had no clean shot throug
 
 The main gate burst open, and a Lance came over the burning timbers, late and furious. Valerius was at the head of them with his sword drawn and his coat scorched down one side. He was a prince's son, and he had come from the north camp when he saw the sky.
 
-He stopped when he saw the yard. For one breath a thin skin of frost ran across the wall beside him, white and sudden, and then it melted into water. He looked at the frost, then at his own hand, which shook once. He looked at Eden. Eden's face showed nothing, and Valerius, who had expected a question, said nothing either. Behind him the Lance came through the gate in a tight line with their shields up. None of them mentioned the frost. They had been taught to ignore what their officers did not mention.
+He stopped when he saw the yard. For one breath a thin skin of frost ran across the wall beside him, white and sudden, and then it melted into water. He looked at the frost, then at his own hand, which shook once. He looked at Eden. Eden's face showed nothing, and Valerius, who had expected a question, said nothing either. Behind him the Lance came through the gate in a tight line with their shields up. None of them mentioned the frost. They had been taught to ignore what their officers did not mention, and tonight that training was worth more to Valerius than a second sword.
 
 "The king wants this camp held until dawn," Valerius said.
 
@@ -122,4 +122,4 @@ Clara saw him first. She dropped her staff and ran out past the green line, into
 
 Rowan shouted her name. He took two steps after her, and Eden put a hand on his chest. Rowan knocked the hand away and kept going.
 
-Felix stood at the step with an arrow on the string and no shot. Lysette came up beside him with her book shut and the pencil in her hand. Both watched two figures running across the yard, with the grey line closing behind them.
+Eden saw it all from the lane and could not reach them in time. Felix stood at the step with an arrow on the string and no shot. Lysette came up beside him with her book shut and the pencil in her hand. Both watched two figures running across the yard, with the grey line closing behind them.

@@ -78,3 +78,7 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [open] Aubrec Wendell, Duchess's physician, vanished the week Liora died; ninth sheet overwritten "dismissed" | planted: ch 40 | due: 155, 170
 - [open] Liora's letter in the safe, unopened by Ysolde | planted: ch 9, 40 | due: 155
 - [open] Bellwire from the Wall: camp stores report a missing groundskeeper's boots | planted: ch 40 | due: 41, 45
+
+- [open] Groundskeeper's shadow does not move with his breath; his coat wet but hair flat and dry in the storm | planted: ch 43 | due: 44, 45
+- [open] Clara heals frostbite beyond her standing and pays with feeling in her own hands; tells Eden she is fine and he says "That's not fine" | planted: ch 43 | due: 47, 480
+- [open] Felix checked the oil line and chose not to write it down | planted: ch 43 | due: 45

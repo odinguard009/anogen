@@ -37,3 +37,6 @@ Eden spends three days sleeping under Lysette's roll and three nights scouting t
 
 ## Ch 42 - Present
 Gorrath answers roll call for Eden from thirteen places, and Lysette nearly catches the trick when a voice answers from inside a log. A snow-fort war breaks out, Felix's joke count reaches 101, and Rowan and Clara sit under one blanket while Rowan fails to understand why people stare. At the end Lysette asks where Eden goes at night. He says "The roof", though there is no roof at the Wall.
+
+## Ch 43 - The Shadow and the Breath
+During a storm watch Clara heals a conscript's frostbite at a cost to her own hands. Rowan worries by asking the same questions again, and Lysette notices Eden's frozen scarf while watching Rowan less. Clara tells Eden she knows Rowan will never see her and that she is fine with it; he says it is not fine, and for six breaths she lets her shoulder touch his sleeve. Felix checks the oil line and keeps it off the form. The groundskeeper hums out of tune, and his shadow does not move when he breathes.

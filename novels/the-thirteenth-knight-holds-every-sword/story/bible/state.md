@@ -297,3 +297,10 @@
 - Snow-fort war with Lance One; Felix counted snowballs, joke count reached 101 after a cough, and the count stayed there. Rowan ate two snowballs thinking they were rolls; Clara told him not to eat fortifications.
 - Rowan and Clara shared a blanket on the wall; Rowan did not understand why soldiers stared, and Clara put her hand on the blanket and said only "It is a blanket."
 - Hook: Lysette asked "Where do you actually go at night, every night?" Eden: "The roof." There is no roof at the Wall and she knows it.
+
+## Sat 23 Jan (ch 43)
+- Storm watch by the inner stair. Clara healed a conscript's frostbitten fingers, with an hour or a day of feeling in her own hands as the cost, and told Eden she had not reported the last time. Rowan asked the same three questions twice about the conscript because he did not know how else to worry.
+- Lysette watched Rowan less and Eden more; she held out a strip of linen for his hands and wrote that it was cold, not that he was.
+- Clara told Eden she knew Rowan would never see her and that she was fine with it. Eden said "That is not fine." She moved her shoulder against his sleeve for six breaths, then told him not to say it again.
+- Felix checked the oil line to the buttress and back, found the markers unchanged, and chose not to write it down: "I do not like deciding that."
+- Hook: the groundskeeper came up with hot water, humming the wrong top note. His breath broke apart in the cold air but his shadow did not move with it.

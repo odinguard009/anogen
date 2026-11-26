@@ -17,7 +17,7 @@
     "status": "running",
     "stop_reason": ""
   },
-  "critic_through": 30,
+  "critic_through": 40,
   "audit_through": 30,
   "reviewed": {
     "1": "2e932f4856acd49e",
@@ -49,7 +49,17 @@
     "27": "1a2a4d1e1b6ab0ce",
     "28": "be7db2241fa9dadf",
     "29": "d8771dd4fef68aeb",
-    "30": "467fb595d55807cb"
+    "30": "467fb595d55807cb",
+    "31": "cf1544fb77b765a1",
+    "32": "10c9fec555a98bee",
+    "33": "53ad7ee57f0ba2ec",
+    "34": "282e1ef5cf769218",
+    "35": "b0f6e96130f28308",
+    "36": "6ca7527fcb8ef88f",
+    "37": "e70367631bd4f7f9",
+    "38": "6aea4d94f1ee0d98",
+    "39": "038b6b2da5ab695e",
+    "40": "979c773b8799648c"
   },
   "hold": {
     "active": false,

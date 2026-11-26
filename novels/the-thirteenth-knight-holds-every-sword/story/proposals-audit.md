@@ -119,3 +119,21 @@ Scores ch 21-30: one 2 (ch 21 and 29 emotion/tension), several 5s for battle cla
 - What: prepass tracks "with his hands in his", "did not look at the" and "with the back of her" across recent chapters.
 - Why: small physical beats are doing the same work in different scenes.
 - Fix: vary the reaction beat: a foot on a loose board, a pencil on a string, a cup moved an inch, rather than another hand gesture.
+
+## Audit through chapter 40 (2026-11-26 new draft, same session, not independent)
+Scores ch 31-40: one 2 in ch 33, 37, 38, 39 for tension; battle clarity 4-5 in 31, 32, 34, 36. Debts paid: S1 (35), C1 C at the level of a veteran's accusation (36); C2 remains E, due 45. Locket, scarf, oil line and missing boots are open and not due. No auto-append to banned.md or variety_menu.json this round.
+
+### A1. Word floor for the third audit in a row
+- What: all ten chapters are 1800-1822 words.
+- Why: A1 in audits 20 and 30 was not applied; late dialogue cuts keep returning the text to the floor.
+- Fix: for ch 41-50, write the extra action beat into the first draft rather than adding lines after the check fails.
+
+### A2. Four reveal chapters in a row
+- What: ch 35-38 carry S1 confirm, C1 C, C2 E and the fire conversation about Corentin.
+- Why: the rungs are in the right order and gaps, but the reader is given four heavy chapters without a comic or battle breather between them.
+- Fix: keep ch 41-44 sparse on new evidence; let the action in ch 45-50 carry the payoff instead.
+
+### A3. Repeated reaction phrasing
+- What: prepass tracks "did not look at the", "and he did not say", and "she did not look up" across recent chapters.
+- Why: restraint is Eden's habit, but the same physical beats are used in other POVs too.
+- Fix: give other characters a different tell: a cup moved, a pencil capped, a boot turned on the stair.

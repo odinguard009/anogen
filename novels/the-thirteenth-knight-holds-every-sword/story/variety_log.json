@@ -24,5 +24,31 @@
       "pacing_shape": "slow build to a sharp spike",
       "hook_type": "reveal that reframes the chapter"
     }
+  },
+  {
+    "chapter": 4,
+    "picks": {
+      "opening_type": "concrete setting detail",
+      "scene_shape": "two linked scenes with conflicting goals",
+      "tension_type": "social scrutiny",
+      "emotional_tone": "wary and teasing",
+      "comic_device": "an uninvited princess steals food",
+      "conflict_type": "sparring bout",
+      "pacing_shape": "quiet build into a sharp accident",
+      "hook_type": "a judgment that lands wrong"
+    }
+  },
+  {
+    "chapter": 5,
+    "picks": {
+      "opening_type": "concrete setting detail",
+      "scene_shape": "trapped fighter with three witnesses",
+      "tension_type": "equipment out of spec",
+      "emotional_tone": "fear held in check",
+      "comic_device": "dry banter at the gate",
+      "conflict_type": "out-of-spec construct",
+      "pacing_shape": "slow build to a sharp spike",
+      "hook_type": "a reveal that reframes the chapter"
+    }
   }
 ]

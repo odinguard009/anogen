@@ -1,7 +1,7 @@
 # State (new draft, 2026-11-26)
 
 ## Time and place
-- Tue 3 Nov PR 112, dawn to late afternoon. Hallowcrest, autumn term, Year 5. Ch 1 was Mon 2 Nov.
+- Wed 4 Nov PR 112, midday to afternoon. Hallowcrest, autumn term, Year 5. Ch 1 was Mon 2 Nov, ch 2-3 Tue 3 Nov.
 
 ## Eden
 - 18, public name Eden Wren, rank 8, roof sleeper. Has a headmistress permit for "medical reasons" and will not show it.
@@ -30,3 +30,24 @@
 - The tower clock rang three tones and a faint fourth. Vesk: "That was not the hour."
 - The exchange's call list names Hallowcrest Year 5 families; the name Tallis is circled twice. Ysolde's note: Form 13-B. Before the first bell.
 - Vesk (Eden's Pillar, small man in grey, lamp-yellow eyes) works the street; he cannot enter deep dark.
+
+## Wed 4 Nov (ch 4)
+- Morning: Eden filed Form 13-B at the grey office before the first bell; the clerk asked what a Form 13-B was.
+- Lunch: Seraphine Aurenmark (rank 6, the Prince's twin) sat at the south tables uninvited, called Eden "the sleeper", treated him as an old friend ("You look better than the last time", "Years ago", "You're always at the back") and took his roll, his spoon, and an apple. Lysette bristled and wrote in her book. Felix noticed: "She looked at you as if she had known you for years." Lysette: "You answered her two beats late, every time, and you answered me at once."
+- Arms class (low arms hall, east wall): Okoru paired Lysette with Seraphine (batons against rapier, even at two touches each) and Eden with Rowan (spear against practice shield). Eden blocked only and did not strike back.
+- A skipped spear tip from Rowan opened a cut above Lysette's elbow. Eden's stomach went cold and he counted two seconds before his first step; he had a clean cloth in his hand without remembering taking it. Clara brought linen and said nothing. Rowan: "I'm sorry, I didn't see her."
+- Okoru held the practice shield and said: "That hold is not by feel, and somebody taught you." He looked too long. Seraphine covered for Eden: "He is eighth, he blocks well, and it is not a crime."
+- After class, Lysette, not looking at him: "You are the calmest person I know. I think that's wrong."
+
+## Plants added in ch 4 (do not explain yet)
+- Seraphine treats Eden as an old friend who has known him for years (pays off at 35).
+- Okoru has seen the shield-hold before; "not by feel" (pays off 60-66).
+- Eden reacts late to everything except danger; Lysette and Okoru both notice (pays off 36).
+
+## Thu 5 Nov (ch 5)
+- Undercroft maze drill. Okoru: one construct, one student, three minutes. Before it started Eden saw the limit wire cut clean from this side; the tag said THIRTY PER CENT. A false wall was set to close on the student in the circle.
+- Lysette fought the rigged construct alone for three minutes. She broke both stone arms and split one baton but could not crack the doubled brass plate over the core. Rowan and Clara were trapped behind the false wall; Felix had the bow but no angle.
+- Eden used the Door in the construct's wall shadow, folded **[Exa]** into the door-shield and used **[Latch]** to catch and steer the wooden stump. The Door shut on the arm and he drove the shield edge into the open shoulder joint. The construct fell. His arm went numb and there was a cold ache behind his eyes.
+- "Two seconds," Lysette said. "Again." Then: "I didn't need that." / "I know." Her hands shook once and she hid them behind her back.
+- Okoru: "That hold again. Not by feel." / "That was not a drill." Lysette asked who signed the requisition. Okoru: "You will not like the answer."
+- The cracked core was packed with grey dust, pressed so tight it kept the shape of the plate. Plant for 22-23, 95.

@@ -14,7 +14,7 @@ Add one line per first use as each chapter is written: `name | owner | first on 
 - Exa (dark lance; in public carried in a leather case on his back) | Eden | ch 3 | yes (short, a little longer than his arm, matte black, cold in the sun; drawn from his shadow) | yes (only as strong as his arms and breath: a copper bar on the ring numbs his arm)
 - Exa folded: door-shield (one knock on the iron ring-knocker) | Eden | ch 3 | yes (tray-sized, matte black, iron ring; folds with a ringing sound) | yes (only as strong as his arm and aura)
 - Latch ([Latch]) | Eden | ch 5 | yes (ring catches the blade, he steers it; shield edge into the joint cracks the core) | yes (public move; needs the ring to catch)
-- Lysette's twin batons | Lysette | ch 5 | yes (short black sticks held close, left tilted higher) | yes (one splits on the first stroke)
+- Lysette's twin batons | Lysette | ch 4 | yes (short black sticks held close, left tilted higher; made for rooms and stairs, not fields) | yes (cannot reach past a long blade; one splits on the first stroke in ch 5)
 - Drill-warden construct | Undercroft | ch 5 | yes (man-shaped grey stone, brass joints, wooden practice blade, glass core, red eyes) | n/a
 - Felix's bow | Felix | ch 5 | partly (carried, string checked; not yet shot) | no
 

@@ -81,3 +81,26 @@
 ### self-review ch 3 - same session, not independent
 - Medium pass: fixed bell-time continuity ("an hour before the first bell", breakfast, "at that hour"), cut an early grey-sea lullaby line so ch 8 keeps the reveal, checked Veil description against first-use and ch 9.
 - Open: dialogue 18% is under the 20% soft floor; kept it because the chapter is a night watch with two speakers.
+
+### 2026-11-26 05:13 UTC (12:13 WIB) - tulis bab berikutnya - chapter 4 - ok
+- words: 2130
+- scores: tension 3, surprise 3, emotion 4, battle_clarity 3, voice 4, freshness 4
+- notes: Lunch with Seraphine; arms class; Okoru's shield-hold debt planted.
+- quota_note:
+
+### 2026-11-26 05:13 UTC (12:13 WIB) - tulis bab berikutnya - chapter 5 - ok
+- words: 1845
+- scores: tension 4, surprise 4, emotion 4, battle_clarity 4, voice 4, freshness 4
+- notes: First [Latch]; rigged construct; grey dust hook. Dialogue 20% (warning only).
+- quota_note: 
+
+### self-review ch 4 - LOW risk, same session, not independent
+- check_chapter OK (2130 words, mean 8.6, dialogue 34%). prepass flagged a tell ("let out a breath"), removed.
+- Batons first use moved to ch 4 in first-use.md because the outline puts Lysette vs Seraphine here; reach limit shown and the split kept for ch 5.
+- Continuity: Form 13-B filed before first bell; Rowan's stray tip set up the arm cut; "two seconds" and Okoru's "not by feel" planted for later.
+
+### self-review ch 5 - MEDIUM risk, same session, not independent
+- check_chapter OK (1845 words, mean 8.9, dialogue 20% warning only, no padding added). prepass clean except one long word (requisition, plain).
+- First use of [Latch] in scene with look, body use, effect and cost; Door needs a light edge and two knocks; Exa folds with the ring; the construct, tag, doubled plate and Felix's bow all described.
+- Fixed a sight-line error: Rowan was behind the closed false wall during the Door, so the question now belongs to Lysette, who is beside it.
+- Battle beats: setup in one line, then baton strikes, arm breaks, wall trap, doubled plate, Latch and result. Rowan and Clara stay across the maze; Felix does not shoot. Hook is the grey dust object only.

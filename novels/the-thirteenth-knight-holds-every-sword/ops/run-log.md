@@ -62,4 +62,15 @@
 
 ### 2026-11-26 08:03 UTC (15:03 WIB) - audit - ok
 - notes: Audit through ch 40: 3 proposals on word floor, clustered reveals, repeated reaction phrasing.
+- quota_note:
+
+### 2026-11-26 08:10 UTC (15:10 WIB) - tulis bab berikutnya - chapter 41 - ok
+- words: 1813
+- scores: tension 4, surprise 4, emotion 4, battle_clarity -, voice 4, freshness 4
+- notes: Mawgate scouting; sealed gear first use; boot print hook.
 - quota_note: 
+
+### self-review ch 41 - MEDIUM risk, same session, not independent
+- REVIEW ch 41: PASS. check_chapter OK (1813 words, mean 13.0, dialogue 21% warning only). Sealed gear first use has look, effect and cost, registered in ledger.
+- No reveal: the boot print is evidence only; Eden does not accuse anyone, and the groundskeeper's kindness is shown without explanation. The heartbeat blank is a hint, not an Unbind.
+- Continuity: missing boots from ch 40, dust from ch 5/22/36, oil line from ch 39, Vesk's limits from ch 31/36.

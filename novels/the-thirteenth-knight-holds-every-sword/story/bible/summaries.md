@@ -31,3 +31,6 @@ Rowan asks why Lysette hates him; Eden gives a sideways truth and Clara supplies
 
 ## Ch 40 - The Box for the Dead
 At midnight Ysolde files the PR 110 report and pays for the broken mirror so Eden will not try to pay it himself. She refuses to bring the king's second envelope from the safe, answers the Duke's letter about Strent without asking questions, and pulls the old file of the physician who vanished the week Liora died. She leaves Liora's letter unopened and sends Eden wool socks as equipment with a form. A bellwire message reports a missing groundskeeper's boots at the camp.
+
+## Ch 41 - The Warm Ground
+Eden spends three days sleeping under Lysette's roll and three nights scouting the tunnels under the Wall. He finds the Mawgate's mouth beneath the camp, grey dust in the joints, small bare prints leading inward, and a guard's glove rotted grey where its seal was unbuckled. Deep underground his reading blanks for one heartbeat. Vesk warns him not to go down alone. Above ground the groundskeeper leaves sweet tea and does not notice the mud on his boots. A hobnailed print in the tunnel matches the groundskeeper's boots and points inward.

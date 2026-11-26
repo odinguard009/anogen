@@ -283,3 +283,10 @@
 - Pulled Wendell's old file: physician to the Duchess, vanished the week Liora died, "dismissed" written over an erased word, nine sheets and no tenth. Did not open Liora's letter in the safe.
 - Sent Eden wool socks as equipment with a 13-B, line to be said aloud at the gate: "He will say they are equipment. Write that down as equipment."
 - Hook: bellwire from the Wall: CAMP STORES REPORT A MISSING GROUNDSKEEPER'S BOOTS.
+
+## Tue 19 to Thu 21 Jan (ch 41)
+- Three nights scouting the Mawgate: Eden slept in camp by day under Lysette's roll, went under the Wall by night with a rope from Vesk (two pulls = return, one = nothing).
+- Tunnel mouth under the stores water going in with no slope, grey in the joints, small bare footprints leading in and not back; a guard's sealed glove with its cuff unbuckled and one drop of Husk blood greying the leather along the seam. Sealed gear explained: ward-plate gloves and neck hoods, dead grey active four hours.
+- Deep in the grey his reading went blank for one heartbeat "as if someone had looked away"; he wrote the question on a form without a name. Warm tunnel floor = Mawgate warming before it opens. Vesk: "Do not go back down alone."
+- Groundskeeper cleaned brackets in the yard, hummed the wrong top note, left sweet tea with two sugars although Eden never told him, and did not look at the grey on his boots.
+- Hook: a hobnailed boot print in the tunnel mud, half circle of nails with one missing at the outer edge, matching the groundskeeper's boots, pointing into the tunnel, not out.

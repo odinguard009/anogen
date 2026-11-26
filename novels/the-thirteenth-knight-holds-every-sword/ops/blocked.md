@@ -1,5 +1,10 @@
 # Blocked items (retry first on the next "lanjutkan")
 
-## HOLD (owner order 2026-11-26): DO NOT WRITE OR REWRITE ANY CHAPTER
-Chapters 1-10 are superseded drafts (ignore them). The plot, arcs and style are being replanned. Even on "lanjutkan": write nothing, run no writer or critic, add nothing to rewrite-queue.md. WHAT RELEASES THE HOLD: any explicit writing order from the owner, for example "tulis ulang semua bab", "mulai tulis ulang", "kerjakan N bab" or "lanjutkan, hold dicabut". A plain "lanjutkan" does NOT release it. PROCEDURE after such an order: 1) `python3 tools/engine_state.py hold clear`. 2) `python3 tools/engine_state.py reset-draft --confirm` (one step: archives every chapter file to archive/superseded-<date>/chapters, sets critic_through, audit_through and reviewed back to zero, clears scores.csv, story/variety_log.json and the local caches ops/ctx-cache.json and ops/memory.sqlite). The old summaries and state are already archived (archive/superseded-2026-11-26/bible/); bible/state.md and summaries.md start empty. 3) Plan the batch the owner named (`engine_state.py arc-plan 1 --start 1 --end 50 --max N` then `batch-start --mode arc --arc 1`, or `batch-start --mode n --target N`) and write from chapter 1 with outline/arc-1.md, bible/calendar.md and profile.md. 4) Log the release in ops/decisions.md.
+## HOLD resolved 2026-11-26
+The old HOLD from the full replan was cleared by the owner's explicit order to write chapters 1-5 and build an EPUB. Procedure followed: `engine_state.py hold clear`, `reset-draft --confirm`, `batch-start --mode n --target 5`. The HOLD section is removed so a later "lanjutkan" is not read as a hold. If the owner wants writing to stop again, set a new HOLD.
 
+## Push status 2026-11-26
+Push was expected to be unavailable, but `save.py` pushed successfully during the critic commit. `main` and `origin/main` were in sync after "critic pass chapters 1-5". Later bookkeeping commits may be local only.
+
+## EPUB delivery 2026-11-26
+Arc EPUB is still gated on arc completion. The owner explicitly asked for chapters 1-5, so a partial EPUB was built with `build_epub.py --range 1-5`: `out/chapters-1-5.epub`, also copied to the workspace root as `the-thirteenth-knight-chapters-1-5.epub`. Zip verified: 12 entries, five chapter XHTML files, no bad members.

@@ -1,95 +1,143 @@
 # Chapter 45: The Wrong Mastermind
 
-"Are you certain?" Vesk asked, at the stair below the stores.
+"Are you certain?" Vesk asked at the stair below the stores.
 
 "I saw the shadow twice and the boot print once."
 
 "Twice is not enough for a man they love."
 
-"It is enough to look." Eden put a fresh strip of linen in his left glove and pulled the strap tight. "If I am wrong, I will have embarrassed a groundskeeper in front of four hundred people. If I am right and I wait, they will all be dead by morning."
+"It is enough to look." Eden pressed a fresh strip of linen into his left glove. "If I am wrong, I embarrass a groundskeeper. If I am right and wait, the camp wakes up with a hole in it."
 
-Vesk put one hand on the wall and looked at the dark above the camp. "Then look quietly," he said. "I will be at the gate. If the camp wakes before you are finished, I will ring once."
+Vesk put a hand on the wall and looked at the dark. "One more thing," Vesk said. "A Veil that has lived here this long is tied to the gate under it. If it dies, the gate may open."
 
-He went up the stair without another word. His coat left a thin trail in the frost, one damp print for each step, and by the top he had already stopped being a shape against the wall.
+"I know."
 
-They did not take the groundskeeper in the yard in front of the men who loved him. Eden waited until the third bell of the night watch. Behind them the camp had gone to bed. The groundskeeper was alone at the lamp bracket by the stores with a cloth in his hand and the tea cup on the step beside him.
+"Then why do it now?"
 
-"Wren," the man said, in his kind voice. "You are out late again."
+"Because it will open anyway. If I choose the hour, the oil is lit and the Lance is awake. If it chooses, we are asleep." Eden closed his glove. "That is the only difference I can make."
 
-"I came for the bracket."
+"Then look quietly. I will be at the gate. If the camp wakes before you finish, I will ring once."
 
-"It is clean." The man looked at the bracket, then at Eden. His smile arrived a beat after his eyes. "You have been looking at my boots."
+He went up the stair, and by the top he was no longer a shape against the wall.
+
+* * *
+
+The place was the yard behind the stores. A stone step led to the lamp bracket where the groundskeeper worked at night. Left of the step ran the ditch where Eden had laid his oil line. The ditch was dark, with a flat stone every ten paces. Right of the step stood the hut where the groundskeeper kept his cloths. Behind Eden, forty steps off, Lance Nine stood by the stair in the dark. He had asked them to wait there, and they had come without questions. Okoru stood beside them.
+
+The foe was a Veil. It wore the groundskeeper's face and coat, and it could not be killed with an ordinary blade. Eden had to find the grey underneath and cut it once. The danger was larger than the man. If the Veil died, something under the camp would open. Eden did not yet know what, only that Vesk had smelled the warm stone and said it was close.
+
+Before he walked out, he had said four sentences to Okoru, who stood with the Lance at the stair. "Do not come into the light unless I call. Watch his shadow. If it does not follow him, he is not a man. After that, stay behind the stone."
+
+Okoru had looked at him for a while. "You have done this before."
 
 "Yes."
 
-"Why?"
+"I will ask you about it later." Okoru put a hand on Rowan's shoulder, because Rowan had started to move. "Not tonight."
 
-"Because the print in the tunnel had a missing nail."
+The groundskeeper was alone at the bracket, with a cloth in his hand and a cup of tea on the step.
+
+"Wren," the man said in his kind voice. "You are out late again."
+
+"I came for the bracket."
+
+"It is clean." The man looked at it, then at Eden. His smile arrived a beat after his eyes. "You have been looking at my boots."
+
+"Yes. The print in the tunnel had a nail missing on the outside of the heel."
 
 "Boots lose nails."
 
-"Not on the outside of the heel where the leather is new."
+"Yours did." Eden crouched, struck the flint, and touched the flame to the end of the oil line. It caught with a soft sound. A line of fire ran away down the ditch, and the yard filled with light. Long shadows fell from every post and stone.
 
-The man put the cloth down on the bench and turned to face him fully. "You have been following me."
+The groundskeeper's shadow lay on the snow behind him. It did not move when his chest moved.
 
-"I have been following the water."
+He saw Eden see it, and the smile stopped.
 
-"Water does not leave boot prints." The smile stayed where it was for half a second too long. Then his shadow moved on the snow without him. It was the last thing he did before Eden knocked twice on the air beside the bracket. A black rectangle opened behind him.
+* * *
 
-The Veil wore the groundskeeper like a coat. It took the cloth from the bench and swung it. A copper bar was hidden in the fold. Eden took the bar on **[Exa]**'s ring and let it ring once, and the cold went into his arm. The man's face went to glass under the lamp. The grey showed underneath: long, folded, with too many joints and a mouth from ear to ear.
+The Veil threw the cloth. A copper bar had been folded inside it, and the bar came out hard and fast at Eden's head. Eden knocked on the ring of **[Exa]**, and the lance folded into a black shield. The bar rang on it, and the cold ran up his arm to the elbow.
 
-The camp began to wake up behind them. Someone called the man's name from a hut. Another voice asked what the noise was. Two soldiers came out with their coats open and their hands on their belts. They saw a dark shape and a grey body on the snow. They stopped where they were. A man they had known for nine years was not a man at all.
+The Veil was quick and wrong in the joints. It struck low, then high, then low again. Each time Eden caught the bar on the shield. Each time he gave one step. He was going backward toward the ditch, and the Veil followed him, smiling.
 
-Lysette came down the stair with her coat half buttoned and her book under her arm. She did not look at the grey body. She looked at the place on the snow where the Veil had been hurt.
+It was winning, and everyone could see it. The soldiers who had come out of their huts at the noise stood in a half circle at the edge of the light. They did not understand. They knew the groundskeeper. He had brought them tea. He was striking a boy of sixteen with a bar.
 
-"**[Citation]**," she said, to Okoru, who had come up behind her with his stick in his hand. "Watch."
+Eden drew **[Inead]**.
 
-She set her feet on the stone and held up one hand. The ghost-light came over the snow in a thin pale sheet. It showed the Veil as it had stood two minutes ago: the swing of the cloth, the strike at its left shoulder, the exact inch where the shield had gone in. Lysette put the tip of one baton on that inch in the air and held it there. A headache took her at the temples. She shut her eyes but held the light steady until Okoru had written the position on his board.
+The gold sword came into his right hand, and it rang once, a clear note that made every lamp in the yard steady. The honest light fell on the groundskeeper's face. The skin went to glass. Under it the grey showed: long, folded, with too many joints and a mouth from ear to ear.
 
-"That is where it was hurt," she said. "That is the only place it could have been hurt."
+Eden looked at the grey, and for a moment he was somewhere else.
 
-"Good," Okoru said. "Sit down before you fall."
+The court stairs at Hallowcrest were wet in PR 110. Eden stood at the bottom with his left glove off and the confirm paper in his right hand. A young man came down in a dark coat with a high collar. He had Lysette's eyes and the same way of holding his head. Under the skin of his jaw the grey showed in a fine net. Eden went up seven steps. The young man stopped on the fifth and said something about the weather. Eden drew his blade and cut once from the shoulder down. The grey body came apart on the stairs. He pressed the confirm mark into the paper with his thumb and walked back down without looking at what lay there.
 
-"I have written the position in the wrong book." Lysette's hand stayed up. "I have written it in the book I use for attendance."
+The yard came back. The Veil's bar was coming down.
 
-"Write it again in the other one."
+* * *
 
-"I cannot remember which one is the other one." She let the ghost-light go and the snow went back to being snow. "Give me a moment."
+Eden cut across the Veil's shoulder as he turned, and the blade went in. The Veil screamed with a woman's voice, then a man's, then a child's, and leapt backward out of the light. The cut had not killed it. The grey healed over the wound as he watched, and the wound closed.
 
-Okoru gave her a moment and then another, and wrote his own line on the board without asking her what she had seen in the replay.
+That was the problem. The Veil knew where the blade had gone, and it guarded the place. Eden's next cuts met only the bar.
 
-The snow around the step had been trampled into a grey slush. Someone brought a blanket and put it over her shoulders without asking. She let it stay, which she would not have done on any other night. Her pencil lay across her knee, and she did not pick it up.
+"Eden," Lysette said, from the edge of the light.
 
-A soldier near the hut said the groundskeeper had always been a quiet man. Another said he had never once raised his voice. Both of them said it twice because they could not think of anything else to say.
+She had come forward without his seeing. Her book was under her arm and her batons were in her hand. She was not looking at the Veil. She was looking at the air where his blade had gone in.
 
-She sat on the step and put her book on her knees. The paper in it had a line drawn through a word she had written the week before. She did not look at Eden. She was looking at the grey on the snow with an expression that had nothing in it. Eden could not read it, and he did not try.
+"Hold still," she said. "Both of you, one breath."
 
-Behind Eden, Rowan came up the stair with his spear in one hand and his hood hanging open. He stopped at the top when he saw the grey on the snow. He did not ask whose grey it was because Lysette had told him to write only what he knew. Felix came behind him with a lantern and put it down where Okoru could see. Clara put a hand on Rowan's arm and left it there.
+She had a gift called **[Citation]**, though Eden had never seen it before. Its rule was simple, and he learned it by watching. A pale light spread over the snow. The light replayed the last few seconds, like a picture on glass. While it lasted, Lysette could point at any part of the picture and strike that exact spot. Then the light faded, and her head ached.
 
-Rowan looked at the tea cup on the step. It was still half full, and a thin skin had begun to form on it in the cold. He picked it up in both hands, as if it might be hot. Then he did not know what to do with it. "He gave me two sugars every day for a month," he said. "I never told him I take one."
+She set her feet and held up her left hand, and the pale ghost-light spread over the snow in a thin sheet. The replay would last four breaths, no more. It showed the last moments in the yard. The Veil turned. The sword went in at the left shoulder. The grey healed over, as fast as water closing. Lysette put the tip of her baton on one place in the replay, the exact inch where the grey had been thinnest, and held it there. A headache took her at the temples, and she shut her eyes, but the ghost-light stayed.
+
+"There," she said, through her teeth. "That is the only place it can be hurt. I cannot hold it long. Strike now."
+
+Eden did not answer. He put **[Inead]** into the place she had marked in the air. The Veil lunged. Lysette stepped inside its swing, shut her eyes against the ache, and struck the baton down on the same inch.
+
+The grey broke. The Veil's mouth opened, but no sound came out. It came apart like a coat falling off a hook, and a pile of grey dust lay on the snow where the groundskeeper had stood.
+
+The soldiers stood in a half circle and did not speak. Then a corporal said, in a thin voice, "It was only a coat," and said it again, as if the second time might help.
+
+Felix lowered the bow he had not used. He looked at the dust, then at Eden's sword, and said quietly, "That was the groundskeeper. He knew every bracket in this camp by touch. Someone wore him for months." He did not say what he thought about who.
+
+
+
+* * *
+
+"What was that?" Okoru asked her quietly. He had never seen the light before.
+
+"I do not know." Lysette pressed two fingers to her temple. "It started in the winter. When I stand very still, I can see where something just happened. It lasts a few breaths. Then my head hurts."
+
+"Does it hurt now?"
+
+"Yes."
+
+"Then sit." He wrote one line on his board and did not ask her anything else.
+
+Lysette swayed. Okoru caught her elbow and sat her down on the step. A soldier brought a blanket. She let it stay on her shoulders, which she would not have done on any other night. Her pencil lay across her knee.
+
+A soldier said the groundskeeper had always been quiet. Another said he had never raised his voice. Both said it twice because they could not think of anything else.
+
+Rowan came up with his spear and stopped when he saw the grey. He looked at the tea cup on the step. It was still half full, with a thin skin forming on it in the cold. He picked it up in both hands as if it were hot. "He gave me two sugars every day for a month," he said. "I never told him I take one."
 
 "He knew," Clara said. "That was the point of him."
 
-Rowan set the cup down exactly where it had been. Then he moved it an inch to the left, and then back. Nobody told him to stop.
+Rowan set the cup down exactly where it had been. Then he moved it an inch to the left and back again. Nobody told him to stop.
 
-The memory came while the lamp still swung above them.
+By the time the news reached the mess hut, it had become a story. The groundskeeper, the beloved servant, had been the mastermind of the whole attack on the camp. A sergeant said so to a prefect, and the prefect wrote it on a sheet and held it up. Nobody asked where the orders had come from. A dead man in a brown coat was easier to believe than a living man in a council room.
 
-The court stairs at Hallowcrest were wet in PR 110. Eden stood at the bottom with his left glove off and a confirm mark pressed into a paper in his right hand. A young man came down the stairs in a dark coat with a high collar. He had Lysette's eyes and the same way of holding his head. Under the skin of his face the grey showed in a fine net at the jaw. Eden took the seven steps up. The young man stopped on the fifth and said something about the weather. Eden drew his blade and made one cut from the shoulder down. The grey body came apart on the stairs. He pressed the confirm mark into the file with his thumb and walked back down the seven steps without looking at the body again.
+Eden put away **[Inead]**. He did not correct anyone. The Veil had been one of many. Whoever sent it was still free.
 
-It ended. The lamp above the stores went on swinging. The soldiers at the hut doors were still standing with their hands on their belts. The grey body under the groundskeeper's coat lay on the snow where it had fallen.
+Lysette sat on the step with her book shut. She did not look at him. She had seen a grey face come apart, and she had a baton in her hand that had killed something that wore a man. He saw her think about it, and he saw her not say it.
 
-Lysette sat on the step with her book closed. She had the pencil in her hand and the page open at the line she had written in the wrong book. She did not turn it to the other page because there was no other page that held what she had just seen. She said the words that could be written and none of the ones that could not.
+* * *
 
-"The groundskeeper was a Veil," she said, to the soldiers. "That is all we know." She did not turn her head. "Write it exactly."
+The lamp over the stores swung above them. It was the only light in the yard left standing, because the oil in the ditch had burnt to a thin line.
 
-The soldiers wrote it. Okoru wrote it. A soldier asked Okoru whether the mastermind had been taken alive. Okoru said there was no mastermind in the yard, only a dead Veil in a groundskeeper's coat. The soldier wrote that down as if it were a threat. Another man asked whether the tea had been poisoned. A third asked who would clean the lamp brackets now. Nobody answered him because the answer had been standing on the snow ten minutes ago in a brown coat with a wet shoulder.
+A cold wind came across the yard and the line of fire in the ditch bent flat.
 
-By the time the news reached the mess hut it had become a story about a beloved servant who had been the mastermind of the whole attack on the camp, and by the time it reached the third stretch the story had grown a name and a plan and a reason. Nobody asked where the orders had come from. A dead man in a grey coat was easier to believe than a living one in a council room.
+Under their feet the stone gave a low sound, like a big pipe being filled.
 
-Felix, who had been listening from the edge of the lamplight, said in a low voice that the groundskeeper had known every bracket and every loose board in the camp by touch. "Whoever wore him learned all of that first," he said. "That takes months. Somebody was patient." Eden nodded once and said nothing. Felix did not ask a second time. A prefect wrote the story on a sheet and held it up for the soldiers to see. A soldier asked whether the mastermind had been the one who paid the bandits on the carriage road, and the prefect wrote yes without knowing it was a question. By the time Lysette read the sheet the word mastermind had been crossed out and written above the name in capitals. She put the sheet face down on the step and did not correct it, because a correction would have been a question and she had no one to ask it of.
+Eden knew the sound. He had heard it in the tunnel.
 
-Eden left Lysette on the step with her book shut and went to the oil line under the camp with a lamp and a striker. The scarf at his neck had thawed in the heat of the lamp and smelled of smoke and thyme. He had laid the line six nights ago and marked it with stones from the ditch. He had written lamps on two forms, because a line in a ditch needed a reason a clerk could copy. Tonight the reason had caught up with him. He lit it now from the stores end, one marker at a time. Oil caught with a soft sound and a line of flame ran along the ditch under the snow, making an edge of light where there had been only dark. Snow turned to water at the edge of it and then to steam. The steam went up in a grey sheet that smelled of lamp oil and wet stone. He lit the last marker by the kitchens and put the striker back in his pocket with two fingers that had gone stiff from the cold. The first Door opened over the mouth of the living tunnel. The second opened over the crack by the cold store. The third opened on the dark supply passage where he had felt the warmth through the boards.
+"Everyone away from the stores," he said. Nobody moved. He said it louder. "Away from the stores. Now."
 
-The Mawgate tore open under the camp at the fourth bell of the night watch. It did not open like a door. The stone floor of the stores hut went up in a shape with no top. Grey bodies came through it with grafted Embers in their ranks. The flame in the ditch threw their shadows up the wall in long hard lines. The soldiers who had been watching the dead groundskeeper turned toward the sound. A camp bell began to ring. Every lamp left burning in the huts went out at once.
+The floor of the stores hut rose. It did not open like a door. It went up in a shape with no top, and grey came out of it. Husks came first, small and fast. Behind them came grafted Embers, men with grey flesh grown through their sleeves. The flame in the ditch threw their shadows high up the wall in long hard lines. A camp bell began to ring. Every lamp in the huts went out at once.
 
 The barracks were on the wrong side of the fire.

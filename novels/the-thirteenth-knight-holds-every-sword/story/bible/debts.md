@@ -38,3 +38,5 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 
 - [open] Feather stamped inside Eden's left gauntlet | planted: ch 23 | due: 172-176
 - [open] Ball plan names Rowan and Seraphine as guests to collect, with the wrong night (Friday not Saturday) | planted: ch 23 | due: 24-26
+
+- [paid ch 25] Ilsabet Rorke beaten and spared, not killed | planted: 25 | due: 25, 50

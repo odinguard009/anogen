@@ -107,3 +107,14 @@
 - REVIEW ch 24: PASS. check_chapter OK (1805 words, mean 12.3, dialogue 26%). No **[Lintel]** used, as the outline requires; the chandelier catch is a Door in a shadow with a stated light edge and a visible cost.
 - S1 E rung delivered as reaction only (Seraphine's hand stops shaking); no story told. Lysette hears the Thornmere name for the T1-7 D rung; no confirmation of Eden's identity to her.
 - Continuity: "Did they light?" echoes ch 1; the Ashen card from ch 7 is recognised in the Crowns' black cards; Lysette decides in ch 21 to attend and is here on the roof rather than the floor.
+
+### 2026-11-26 06:43 UTC (13:43 WIB) - tulis bab berikutnya - chapter 25 - ok
+- words: 1800
+- scores: tension 5, surprise 4, emotion 4, battle_clarity 5, voice 4, freshness 4
+- notes: First [Lintel] and [Hrak]; aura reaction shots; Ilsabet spared; hostages freed.
+- quota_note: 
+
+### self-review ch 25 - MEDIUM risk, same session, not independent
+- REVIEW ch 25: PASS. check_chapter OK (1800 words, mean 13.1, dialogue 23% warning only). "Tapestry" is a banned phrase, so the outline beat is written as "Ostrevaal wall hanging" in text and notes.
+- First uses of [Lintel] and [Hrak] described in scene and ledger. Aura moment has reaction shots: hostages see dark shape/gold glint, Embers step back, Valerius sees and stays still, Seraphine's hand stops shaking (S1 E). No armor face or Door shown to the room.
+- Ilsabet is spared (debt marked paid); no kill without confirmation. Lysette sees only smoke and light, not a man, so T1-7 stays at D/E, not confirm.

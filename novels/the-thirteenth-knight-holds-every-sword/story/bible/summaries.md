@@ -65,3 +65,6 @@ Eden raids the second Ember safehouse in full **[Umra]**. Gorrath's **[Knock and
 
 ## Ch 24 - The Eleventh Bell
 Eden watches the Ball from the roof above the glass atrium while Lysette, in a gown, cries over Rowan dancing with Clara. At the eleventh bell the lanterns go out and the chandelier falls; Eden catches it in a Door cut from its shadow across the roof glass, unseen by the room. The Ashen Crowns then seize the atrium with blades at throats and demand two guests. An Ember points up through the glass and shouts for "the Thornmere boy, Wren"; Lysette hears him say they thought he was theirs.
+
+## Ch 25 - The Lattice
+Lysette fetches the guard while Eden re-enters the seized atrium through Doors cut in the roof lattice's shadows. Ilsabet Rorke wears a graft in her right arm and uses **[Hrak]**; Eden takes a blade on his shield and answers with the first **[Lintel]**, a flat overhead shield with **[Inead]** drawn under it in one motion. The hostages see only a dark shape and a gold glint. He spares Ilsabet and uses the lattice shadows to move the students out. Valerius sees more than he should; Merrow admires an Ostrevaal wall hanging. At the door Lysette says she saw smoke where a man should have been and orders Eden back to the roof before heads are counted.

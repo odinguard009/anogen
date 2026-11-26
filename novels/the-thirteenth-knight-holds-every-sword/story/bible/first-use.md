@@ -60,3 +60,6 @@ Note: Witness first use moved from planned ch 13 to ch 11 because the outline's 
 - Eden's [Draught] | Eden | ch 22 | yes ([Exa]'s point put through the exact narrow gap between collar and jaw, and between glove and wrist) | yes (one exact opening; stops a point at the throat)
 
 - Gorrath's [Knock and Answer] | Gorrath | ch 23 | yes (Gorrath's one voice comes out of thirteen separate shadows at once, each with a different tired or calm tone, answering a roll call) | yes (needs thirteen shadows and Gorrath's effort; the voices start counting wrongly when he is not careful, and he admits he is terrible at it)
+
+- Eden's [Lintel] | Eden | ch 25 | yes ([Exa] folded flat overhead like a door, with [Inead] drawn from under it in one motion; gold light makes grafts honest; one cut from the shield's edge) | yes (must take a blow on the shield first; needs the single motion)
+- Ilsabet's [Hrak] | Ilsabet Rorke | ch 25 | yes (grafted right arm swells grey from shoulder to fist and swings like a club; frost-white lines under the skin) | yes (each use spreads the grey farther up her neck; Eden cuts the wrist and she is spared)

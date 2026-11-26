@@ -23,3 +23,6 @@ Rowan finds Eden on the roof and asks, loudly, to be friends. Lysette brings the
 
 ## Ch 8 - Four Notes on the Stair
 Eden takes Gorrath and Mirelle into the unlit Undercroft workshops to trace the grey dust. He finds an order for a core plate signed by the dead Master Sorn, and a saboteur in a grey coat comes back for the dust. Gorrath holds the passage door, Eden opens a Door in a workbench shadow, and Mirelle's **[Sile]** pins the man's sleeve through it so they can take a folded paper from his pocket before letting him go. Upstairs, Vice-headmaster Strent grades by moonlight because lamps give him headaches, and hums four notes of the lullaby Eden's mother sang. Eden stops on the stair for one verse. Strent says Wren is a Thornmere name and asks if his mother sang it too.
+
+## Ch 9 - Orders You Haven't Earned
+Ysolde corrects Eden's Form 13-B and files the report on the exchange. King Theodric asks twice whether he is eating, gives him a breakfast order for early-drill days, and stops a hand short of his shoulder. Ysolde shows that the exchange call list is the Ball guest list with Rowan circled twice, and slides a grey sealed envelope out of sight: "Orders you haven't earned." The new target is an Ember cell in the lower-city dye-works, with children inside; Eden is told to watch Rowan and "the boy with the light". The Ball is nine days away.

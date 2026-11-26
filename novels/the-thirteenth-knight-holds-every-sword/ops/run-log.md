@@ -148,3 +148,14 @@
 - First use of [Sile] has look, body use, effect and limit in scene; Gorrath and Mirelle get first-appearance traits and a speech habit; no labelled attack on the saboteur, no kill.
 - Continuity: the torn sheet is the one from ch 6; the dust matches ch 5's core. Lullaby is an H plant for the Tailor rung (30/40/50/185), not a confirm.
 - Fixed a placement error during drafting: the Gorrath/Mirelle exchange about the order paper now happens after they are together in the passage.
+
+### 2026-11-26 05:36 UTC (12:36 WIB) - tulis bab berikutnya - chapter 9 - ok
+- words: 1806
+- scores: tension 3, surprise 3, emotion 4, battle_clarity -, voice 4, freshness 4
+- notes: Palace debrief; envelope plant; Ember cell target; watch the boy with the light.
+- quota_note: 
+
+### self-review ch 9 - LOW risk, same session, not independent
+- REVIEW ch 9: PASS. check_chapter OK (1806 words, mean 9.2, dialogue 52%, under the 65% failure line). Fixed "groundkeeper" to "groundskeeper".
+- Form comedy is in boxes, not padding; king's warmth stays distant (hand stops short, no answer about the sword). Ysolde's envelope stays sealed and unexplained.
+- Continuity: Form 13-B first filed in ch 4; grey dust from ch 5 and Sorn's signature from ch 6 are in the report; Ball is nine days away from 12 Nov to 12 Dec.

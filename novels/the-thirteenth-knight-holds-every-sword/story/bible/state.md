@@ -72,3 +72,11 @@
 - The folded paper lists the forge master, two store clerks, a groundskeeper and a girl from the exchange; one older line is crossed out.
 - Vice-headmaster Halvard Strent grades by moonlight because lamps give him headaches; he apologises to papers and people. He hummed four notes of Eden's mother's lullaby. Eden stood with one foot on the stair for four notes, twice, and did not take the next step until the humming stopped.
 - Strent: "Wren. A Thornmere name. Your mother must have sung that to you too." Eden never told anyone she sang.
+
+## Thu 12 Nov (ch 9)
+- Monthly debrief at the palace. Ysolde (thin, grey dress, narrow face, folds paper in three, deadpan) corrected Form 13-B: "a construct with a cut wire", not "not technically a Veil"; "trace: dust, grey, in core".
+- King Theodric (broad face, tired eyes, old worn sword with a gold line, lifts a hand and does not finish the gesture) asked if Eden was eating and gave a stores form for breakfast in class when there is early drill. He said "Your mother had a hand like yours. Steady." Eden did not ask about the sword or the mother.
+- Exchange call list is the Ball guest list; Rowan Tallis circled twice in two different pencils. Ysolde: watch him without watching him; report anyone asking about his birth or offering him a cell.
+- Ysolde slid a grey sealed envelope into a drawer: "Orders you haven't earned." Do not tell the king. Plant for ch 155.
+- New target: Ember cell in the lower city dye-works, moving dust through the water lanes; children (Cinders) in the cell, do not touch them; no kill without proof. Come back by the bridge, not the ferry. "Watch the boy with the light as well as Tallis."
+- Nine days to the Ball.

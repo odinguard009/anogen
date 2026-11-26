@@ -290,3 +290,10 @@
 - Deep in the grey his reading went blank for one heartbeat "as if someone had looked away"; he wrote the question on a form without a name. Warm tunnel floor = Mawgate warming before it opens. Vesk: "Do not go back down alone."
 - Groundskeeper cleaned brackets in the yard, hummed the wrong top note, left sweet tea with two sugars although Eden never told him, and did not look at the grey on his boots.
 - Hook: a hobnailed boot print in the tunnel mud, half circle of nails with one missing at the outer edge, matching the groundskeeper's boots, pointing into the tunnel, not out.
+
+## Fri 22 Jan (ch 42)
+- Gorrath covered Eden's absence at roll call with thirteen "present" answers from thirteen tents, a boot, a kettle, a woodpile and a log. He was a terrible liar; his "Present" from the log nearly caught him. Lysette counted thirteen places, said "I am too tired for this", and walked away with a pillow.
+- Eden woke in the supply tent with snow on his coat and no memory of the hour. Felix: "You were. Thirteen of you were."
+- Snow-fort war with Lance One; Felix counted snowballs, joke count reached 101 after a cough, and the count stayed there. Rowan ate two snowballs thinking they were rolls; Clara told him not to eat fortifications.
+- Rowan and Clara shared a blanket on the wall; Rowan did not understand why soldiers stared, and Clara put her hand on the blanket and said only "It is a blanket."
+- Hook: Lysette asked "Where do you actually go at night, every night?" Eden: "The roof." There is no roof at the Wall and she knows it.

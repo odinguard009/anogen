@@ -34,3 +34,6 @@ At midnight Ysolde files the PR 110 report and pays for the broken mirror so Ede
 
 ## Ch 41 - The Warm Ground
 Eden spends three days sleeping under Lysette's roll and three nights scouting the tunnels under the Wall. He finds the Mawgate's mouth beneath the camp, grey dust in the joints, small bare prints leading inward, and a guard's glove rotted grey where its seal was unbuckled. Deep underground his reading blanks for one heartbeat. Vesk warns him not to go down alone. Above ground the groundskeeper leaves sweet tea and does not notice the mud on his boots. A hobnailed print in the tunnel matches the groundskeeper's boots and points inward.
+
+## Ch 42 - Present
+Gorrath answers roll call for Eden from thirteen places, and Lysette nearly catches the trick when a voice answers from inside a log. A snow-fort war breaks out, Felix's joke count reaches 101, and Rowan and Clara sit under one blanket while Rowan fails to understand why people stare. At the end Lysette asks where Eden goes at night. He says "The roof", though there is no roof at the Wall.

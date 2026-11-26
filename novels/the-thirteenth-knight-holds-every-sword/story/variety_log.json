@@ -518,5 +518,18 @@
       "pacing_shape": "short surface scenes, long crawl",
       "hook_type": "a boot print pointing inward"
     }
+  },
+  {
+    "chapter": 42,
+    "picks": {
+      "opening_type": "a voice answering from a boot",
+      "scene_shape": "roll call, snow war, blanket, question",
+      "tension_type": "a trick almost caught",
+      "emotional_tone": "funny then quiet",
+      "comic_device": "eating a snow fort as a snack",
+      "conflict_type": "an attendance raid against thirteen voices",
+      "pacing_shape": "many small jokes, one still last page",
+      "hook_type": "a place that does not exist"
+    }
   }
 ]

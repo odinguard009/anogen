@@ -21,3 +21,15 @@ Critic `plain_reading` score: below 8/10 = FAIL, rewrite the scene.
 
 ## Guard (tools/check_chapter.py `plain_check`)
 Finds only: riddle replies (more than 1), surnames used before narration links them, runs of 8+ bare short dialogue lines. It cannot tell whether a scene makes sense; the self-test is the real check. WARNING for chapters 1-50, ERROR from chapter 51.
+
+## Reference standard (owner order 2026-11-26: "Bab 6 dan 7 sudah lumayan bisa dimengerti. Tetapkan penulisan seperti ini jadi aturan permanen")
+The owner read chapters 6 and 7 of `the-thirteenth-knight-holds-every-sword` after the repair and said he could follow them. They are the calibration sample for ANY novel and ANY AI: before writing or judging a chapter, read one scene of ch 6 or ch 7 and match its level. What made them readable:
+- Each scene opens with where, who, what is wanted (ch 6: "On Friday morning the school put the Year 5 students into teams of five. Each team was called a Lance.").
+- A new word is defined at its first use, in the same sentence or the next ("the Ladder, the school's list of the best students in the year"; "The red band meant the Discipline Committee").
+- A paper or rule is explained in one plain sentence, then used (ch 7: the warrant is sent to the headmistress after too many missed classes; the form has no box for a roof, so Lysette writes it in the margin).
+- A dodge or lie is named by narration ("Seraphine had not told the truth. Eden did not know which part was false.").
+- A clue gets its reason in Eden's flat voice (ch 6: "A man who had died last spring could not sign an order this autumn.").
+- Short, linked sentences; one speaker per beat; every reply answers the line before it.
+
+Patterns to REMOVE when found (all were found and cut in arc 1): replies that answer a different question and are left unexplained; a repeated one-line gag across scenes; "That is not an answer." / "It is the only one." (rule 2 allows it at most once, with a plain beat); paperwork talk that never says what the form is for; an object or mark mentioned once and never explained; two names for one person; a number with no noun.
+Do not fix this by padding. Add a real beat (an action, a reason, a decision) or cut. Keep 2000-2500 words.

@@ -1,81 +1,127 @@
 # Chapter 38: Make Him Tell Me Why
 
-The fire started in a brazier in the second hut and took the curtain before anyone could reach the bucket. The hut had been built for eight men and now held twelve. The Rotation had filled the camp past its plan. The brazier stood where a man's coat had brushed it twice that evening. Someone had hung a dry linen curtain over the bunk end to keep the draught out, which was against the camp rules and had been written up twice. It was a small fire by Wall standards: one wall of a hut, a bundle of dry linen and a curtain that went up like paper. The snow around the hut was red from the light of it, and men came out of the other huts in their shirts with buckets in their hands.
+On Friday night the Lance was given a small fire. It was a reward from the sergeant for a clean week on the wall. The fire burned in a pit behind the stores, with a low snow bank around it to stop the wind. Lance Nine sat in a ring on empty crates. Nobody had to stand watch for two hours, and nobody knew what to do with that.
 
-Eden was on watch and got there with Lance Nine four steps behind the sergeant. The alarm had been three short strikes on the bellwire, a sound the whole camp had learned to hate. It had brought the men out of their huts before the second strike finished. Nobody wore a coat. A boy of seventeen ran by in his stockings with a bucket in each hand and no idea where the water was. Rowan turned him by the shoulders and pointed. Rowan took the bucket line and passed water without looking at the fire. Clara stood at the edge of the smoke with her sleeves over her hands, ready for burns. Felix dragged a sack of damp sand from the stores and fell over a crate on the way. Lysette took the sack from him and put it where it was needed with one motion of her arms.
+The week had been hard in a quiet way. Lance Nine had walked the wall at night, two stretches each, in the cold that made the rifle barrels ache. They had not fought anything large. One small Hushborn, a Husk, had crawled out of the grey on the fourth night. Rowan had pinned it with his spear, and Felix had found the track it left in the snow before anyone else saw it. Clara had treated a sentry's frozen fingers. Lysette had written the report. Eden had stood at the end of the line and said nothing, and the sergeant had written that down as a good week.
 
-"Everyone out of the hut," she said. "Count. Names." Her voice had the flat clear sound of a woman reading a rule aloud, and the men obeyed it because it did not sound like fear. One soldier tried to go back for his boots. She took him by the collar without looking at him and put him back in the line.
+Rowan had brought a pan of chestnuts and a plan to burn none of them. Clara sat beside him and took the pan away after the first one went black. Felix held a book open on his knee and did not turn a page. Eden sat on the crate with his back to the dark, where he could see everyone's hands.
 
-The hut emptied. Two soldiers had burns on their hands. Clara closed them while the men stood still. She did not sit down afterward, though her face went grey at the edges. The fire died when the sand went on it. Then there was only smoke and the smell of wet linen and a bucket that someone had dropped in the snow.
+Lysette sat across the fire from him. She had not spoken since the veteran at the garrison door had spoken of "the Hollen boy". That was her brother, and the whole camp had heard. That was one day ago. Today she had done her duties, written in her book, and eaten alone. Tonight she had come to the fire because Clara had asked her. She held her book closed on her lap and looked at the flames.
 
-Eden stood at the edge of it with the scarf over his mouth and felt the heat go out of his hands in the cold air. A fire was a thing with a shape and a cause. This one had a brazier placed too near a curtain. A man had forgotten to bank it. The curtain was made of dry stuff that the stores should have replaced in November. He noted those facts and put them in order, because a list was a thing he could hold.
+Eden did not want to be there. He had a reason that he did not say: the file he had read that morning was in his coat, and Lysette's brother was in the file. But Clara had asked him to stay near her, and he had said yes the day before. So he sat, and he said nothing.
 
-Lysette came and stood beside him with her book closed. Her face was lit from below by the last of the fire and then by nothing at all.
+"The chestnuts are ready," Rowan said, and held one up. It was black and split. "These are the good ones. They are just dark."
 
-She stood with the book held against her coat and her red band straight. She did not look at the burnt patch but at the place where the curtain had been.
+"They are burnt," Clara said.
 
-"My brother laughed like that," she said.
+"They are brave." Rowan put it in his mouth and chewed. His face changed. "They are very brave."
 
-Eden did not answer.
+Felix laughed, short and quiet. Then he stopped, because Lysette had moved.
 
-"When he was young. Not the court laugh. The other one." She wiped soot off her wrist with the back of her glove. "He used to sit on the step at home and make a sound like a cart wheel going over stones, and my mother would tell him to stop and he would do it again quietly, which was worse."
+"My brother used to do that," she said.
 
-"Why did he do it?"
+Nobody asked what. They waited.
 
-"Because she laughed the first time." Lysette turned the book over. "He would do a thing twice if it made someone laugh once. That was him."
+"He made a face when he ate something bad, and then he said it was good. Every time. He said it so well that you believed him until you tried it." She looked at the fire, not at them. "His name was Corentin. He was two years older than me."
 
-The sergeant came through with his board and asked three questions in a row without raising his voice: who lit the brazier, who hung the curtain, who had seen either done. Nobody answered the third question. The man who had lit the brazier was a conscript from the fourth stretch with soot on both sleeves. He stood beside the bucket with his hands hanging and let the sergeant write his name without trying to explain.
+Rowan swallowed his chestnut and put the pan down. Clara's hands went still in her lap. Felix closed his book.
 
-Two soldiers dragged the burnt curtain out into the snow and stamped on it. Lysette watched them without breaking the thread of what she was saying.
+"I will say this once," Lysette said, "because I would rather say it to you than have you hear it from a soldier. He had a loud laugh. It was the kind that makes the whole table turn around. My mother told him to be quiet in church, and he laughed in church. He did not mean any harm. He was the only person who could make my father smile at dinner."
 
-"Did he still do it when he came home?" Rowan asked, from a step lower down.
+She stopped. The wood cracked, and a few sparks went up and went out.
 
-"No." Lysette's answer came quickly. "That is how I knew something was wrong before anyone told me. He heard a sound like that in the hall once and turned his head, and it was not a happy turn."
+"Then he went to the court to serve, when he was fifteen. He came home in the second year. He did not laugh. He stood in the hall and watched us as if we were people he had once met. I asked him to dance with me at my birthday, and he said, 'I have forgotten how.' He was sixteen."
 
-"They called it treason," she said. "That is the word the paper used. I was sixteen. I did not know what it meant then, and I did not ask. My mother said we would act as if it were not, and I did that for two years." She turned the book over in her hands and did not open it. "There was a paper with the word on it that my mother kept in a drawer. I read it when she was out. It said things about the court and about a man who had paid for something, and none of it was about a boy who made a cart wheel with his mouth." She stopped and swallowed. "I did not understand any of it then."
+"What happened?" Clara asked, very softly.
 
-"He came home for a visit in his last year and he was colder. Not unkind. Colder. He did not sit on the step. He stood in the hall and watched us from a distance, and when I asked him to dance he said he had forgotten how."
+"I do not know. That is the thing I cannot say to anyone." Lysette's hands pressed flat on the book. "A few months later two men from the court came to the house. They said he had committed treason. They said it was finished and we should not speak of it. My mother put a paper in a drawer. I read it once when she was out. It used the word, and it named a man who had paid someone. It did not say what Corentin did. It did not say what he looked like when he did it. It only said that it was over."
 
-Eden counted the beats of the wind against the wall. One, two, three, four. He had a rule about confirming. It was the only reason a boy who wore black armor could walk through a school without being dragged before a judge. He always saw the grey before he cut. Always. He said the word in his head and then tried to find the face that belonged to it and found a collar and a stair and a voice that had stopped in the middle of a word. He could not prove the rule to himself, and he did not say so out loud.
+"Treason," Rowan said. He said it carefully, like a word he did not want to break.
 
-Lysette looked at him. "You have gone quiet," she said.
+She touched her collar, where the silver locket lay under her coat. She did not open it. She had opened it for Eden once, on the roof, and now she did not look at him.
+
+"I do not believe it. I did not believe it at sixteen, and I do not believe it now. But I have no proof, and a person with no proof is only a girl in a house." She said this without anger. She said it as a fact. "So I became the vice-chair of the Discipline Committee. I thought, if I learn how the rules work, I will find the place where the rule was broken."
+
+Rowan was quiet for a while, which was rare. "I did not know your brother," he said. "But I would have liked to hear the laugh."
+
+Lysette looked at him. "It was very loud."
+
+"Good. Mine is loud too. People say it is too much." He turned the empty pan in his hands. "My mother used to say a loud laugh is a door left open. Anyone can come in."
+
+"Did anyone?"
+
+"Everyone," Rowan said, and Lysette made a short sound that was nearly a laugh. It was the first one that week. Clara put a hand over her mouth. Nobody mentioned it.
+
+Eden listened to all of it with his hands on his knees. He kept his face still, because a face that moved would be a thing she could read.
+
+In his coat was a page with a mark that he had made himself. He did not need to look at it. He knew the mark, and he knew what it meant. He only marked a file when he had seen the grey. That was his rule, and he had never broken it.
+
+He told himself this once, in plain words: *I always confirm.* Then he tried to prove it. He tried to find the stairs, the collar, the voice. There was only the middle of a word. He could not prove the rule to himself, and he could not prove it wrong either. He set the thought down as one sets down something hot, and he looked at the fire.
+
+"Eden," Clara said quietly. "You have not moved in a long time."
 
 "I am listening."
 
-"To what?"
+"I know. That is what I mean." She did not press. She looked at Lysette again.
 
-"To the fire."
+Lysette lifted her eyes. For the first time that evening she looked straight at him. Her face was pale in the firelight and her red band was dark.
 
-"It is over."
+"You never say anything," she said. "When I speak, you never say you are sorry, or that it will be all right, or that you understand. I used to think it was because you did not care."
+
+"And now?"
+
+"Now I think you listen the whole way to the end. That is rare." She shut her eyes briefly. "It is not comfort. But it is not nothing."
+
+He had four answers ready. One was true and useless. One was true and would end everything he had built. One was a guess. One was a lie. He gave none of them. He said, "I am here," and that was all.
+
+Lysette nodded once. She took the pan from Clara, found a chestnut that had not burned, and ate it slowly.
+
+* * *
+
+After that night, Eden was the one who looked away first.
+
+The next day she came into the mess tent, and he turned to read the notice board. The day after, she stopped beside him on the wall, and he found a mark on the parapet that needed counting. On the third day she asked him a question about the weather, and he answered a question Felix had asked ten minutes before.
+
+Felix saw all of it. He did not ask. He only moved his crate half a step so that he sat between them at the next fire, and then pretended to read.
+
+On the fourth day Eden moved his bunk to the other end of the hut. He had never moved it before. Rowan looked at the empty place where his boots had been, and for once he did not make a joke. That night Rowan found him at the water barrel and stood in his way. He did not smile.
+
+"You told me something once," Rowan said. "On the roof. You said you would tell me when I am wrong."
 
 "Yes."
 
-She said nothing for a while. The soldiers were rolling the burnt curtain into a bundle and the sergeant was writing on his board. The cold came back into the yard as soon as the heat was gone. Rowan came over with a bucket still in his hand and said something to Clara about the sand. Clara told him he had dropped a third of it. Rowan said the third had been on purpose and then laughed. Lysette listened to all of it with her face turned away. Clara hit him on the arm with the back of her hand and told him the sand did not grow on trees. He said he knew that because he had counted the trees, and she told him to stop counting and pass the bucket.
+"Now I will tell you. You are wrong. She asked you nothing, and you run from her. I do not know why. I will not ask." Rowan crossed his arms. "But she thinks it is her. She thinks her story made you sick of her. Is that true?"
 
-"When I was small," she said, "I thought he left because of us. Because we were noisy and he wanted quiet. Then I thought he left because the court sent him away. Then I thought it was treason, because that was the word on the paper."
+"No."
 
-"Which do you think now?"
+"Then tell her that. One word. Just no."
 
-"I do not know." She wiped her wrist again, though the soot was gone. "If you say anything kind I will be angry. I have not slept properly since the garrison." She shut the book and held it flat against her coat with both hands, the way she held a page she meant to keep from blowing away.
+"I cannot say it without saying the rest."
 
-Eden had four answers. One was true and useless. One was true and would have opened a door he had spent his life keeping shut. One was a guess, and one was a lie. He gave none of them.
+Rowan looked at him for a long time. "Then you have a bigger problem than I thought," he said, and he went back to the huts without looking round. Eden filled the bucket. His hands were steady, and that was the strange part. He had expected them to shake.
 
-"You always do that," Lysette said.
+On the fifth day Lysette left a cup of tea by his elbow and did not say who had made it. He moved the cup one inch to the left and did not drink. On the sixth day he took the long way to the wall so that he would not pass the hut where she wrote.
 
-"Do what?"
+On the sixth night Felix sat on the edge of his bunk with the book shut. He had come to the other end of the hut on purpose.
 
-"Stay until I have said everything and then say nothing." She did not say it like an accusation. She said it like a line she had written in a book many times and had finally read out. "It is not comfort. I know that. But it is not nothing either."
+"I keep a list of what people do," Felix said. "You know that. Last week I wrote that you never ask for help."
 
-The bundle of curtain was carried away and the bucket line formed up to wash the stone. A thin man from the stores came to look at the damage, saw the brazier, and quietly took it away by its handle. Nobody asked him where he was putting it. Eden watched him go. He had been standing by the stores door for the whole fire and had not once picked up a bucket. The yard went back to being a yard with a burnt patch in it. The smell of wet linen stayed in the air until the wind changed. Then the cold came in off the parapet and took it away. Eden watched Rowan lift Clara away from the smoke without being asked. Clara told him to stop lifting her, and Rowan stopped lifting her and carried the bucket instead.
+"You said so."
 
-For the next week Eden was the one who looked away first. It happened in the mess hut, when Lysette came through the door and he turned his head to read the notice board. It happened on the wall, when she stopped beside him and he found a mark on the parapet that needed counting. It happened at the tea table, when she asked him a question about the smoke and he answered a question Felix had asked ten minutes earlier. On the third day he moved his bunk to the other side of the hut, which he had never done before. Felix looked at the empty space where his boots had been and said nothing.
+"This week I have a new line." Felix looked at his hands. "You run from the people you are worried about. I think you are worried about her. I do not know why, and I will not ask." He stood. "But a wall does not stay up if you lean on it every day. Even a good one."
 
-On the fourth day she put a cup of tea beside his elbow at the table and did not say who had made it. He moved the cup an inch to the left without drinking, which was the only movement he made in the minute before she walked away. On the fifth day he took the long way to the wall so that he would not pass the hut where she was writing. On the sixth day she stopped waiting for him to look at her. She looked at the ground when they met. He noticed that too and wrote it down as a fact with no name attached.
+"I am not leaning on anything."
 
-He counted the days because counting was a way of knowing where he was. By the seventh day he had looked away eleven times and had not once given a reason. Felix had counted too, and said nothing, and left a second cup of tea on the bunk where the first had gone cold.
+"Then why do you sit with your back to the door?" Felix went back down the hut. He did not wait for an answer, because he did not expect one.
 
-On the seventh evening she found him at the stores with a roll of linen in his hand and a question ready. He saw it coming and stepped past her with the linen, but she walked with him and did not let the gap open.
+By the seventh day he had counted eleven times that he looked away. He had not once given her a reason. He knew that the reason was in his coat, in a file she would never be shown.
 
-The stores hut had a new lock on the door and a list of what it held pasted inside. The roll of linen in Eden's hand was from that list. He had come for it before he knew she was coming. There was no way to put it back without turning around, and she was standing in the only way out. The lamp over the door made two shadows on the snow, and hers did not move away from his.
+That evening he went to the stores for linen, and she was there, at the door with her book. There was only one way out, and she stood in it. The lamp over the door put two shadows on the snow, and hers did not move away from his.
 
-"If I ever find the one who did it," she said, looking at the wall ahead rather than at him, "I won't kill him. I'll make him tell me why."
+He stopped with the linen in his hand. He could have gone around her through the snow, and he knew she would let him. He did not. That was the only choice he made all week, and he made it by standing still. A cold wind came down the lane between the huts and moved the edge of her scarf, and neither of them spoke until it passed.
+
+"I am not going to ask what is wrong," she said. "I have decided that. You will tell me when you want to, or you will not."
+
+"Lysette."
+
+"But I will say one thing, so that you have heard it." She looked at the wall ahead, not at him. "If I ever find the one who did it, I will not kill him. I will make him tell me why."

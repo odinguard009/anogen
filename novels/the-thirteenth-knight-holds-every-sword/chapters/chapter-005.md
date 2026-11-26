@@ -150,11 +150,7 @@ Something cracked that was not stone. The red eyes went out, first the left, the
 
 Lysette stared at the place where the opening had been. "Where did it go?"
 
-"Nowhere," Eden said.
-
-"That is not an answer."
-
-"It is the only one."
+"Away," Eden said. He did not say more. He looked at the dark stone and did not explain, and Lysette saw that he would not.
 
 The shield unfolded back into **[Exa]** with a ring and a cold ache behind Eden's eyes. He put the lance away. His arm felt as if it had been struck by a hammer, and he flexed the fingers until they answered.
 

@@ -11,6 +11,7 @@ Words used here (LOCKED SETTING 13: agents are never spawned; the orchestrator p
 2. Talk to the owner in Indonesian, short. Write stories in English at learner level. Never invent facts: if a tool or file does not say it, say you did not verify it.
 3. Never overwrite canon, never start sub-agents or parallel runs, never turn on the schedule, never lower the 2000-word minimum, never pad.
 4. Work one role at a time under `tools/lock.py`. After any chapter edit run `python3 tools/check_chapter.py <file>`; before committing run `python3 tools/validate.py 1-N` (ERROR = a rule is broken; fix it, do not argue). Commit and push with `python3 tools/save.py "msg" --trailer "..."` (use `git add -A` first for new files).
+4a. READING LEVEL (owner order 2026-11-26, permanent): before writing or judging any chapter, read engine/plain-reading.md including its "Reference standard" and one scene of ch 6 or 7 of the first novel; the owner confirmed that level is readable for him.
 5. Edited a chapter that the critic already reviewed? Re-review it and run `engine_state.py rereview N ...`. Otherwise the engine will block new writing.
 6. Finished? `python3 tools/test_tools.py` and `python3 tools/policy_check.py` must pass; report in 3-6 lines, naming what you did NOT verify.
 

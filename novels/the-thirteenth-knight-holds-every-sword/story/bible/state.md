@@ -111,3 +111,8 @@
 - Lysette's raid became a campaign: warrants filed by place, four copies for the office, runners carrying notes folded in three and charging each other for news. She told Eden the roof door hinge is on the east side and drops a finger's width: "I have known for a month."
 - Seraphine's joke count on Felix reached 19 at the north door (a dropped spoon). She says she will tell him the joke at the end of term.
 - Two lunches are now routine. Eden slept in Lysette's herb bed for eleven minutes; she sat two feet away and did not wake him. The apple tree has one green apple out of season. She covered his boots with her coat, told him to report eleven minutes, and the hook is her realisation that he has known about her garden for a month.
+
+## Sun 22 Nov (ch 15)
+- Eden went into the lower city to look at the dye-works from a distance, as Ysolde ordered in ch 9. Lysette followed on a Committee-off-campus form; he counted her eleven steps back and changed route at the canal so a grey-coat watcher under an awning saw no meeting.
+- Harmless tour: laundry steps, map on a ward board, then a refugee bakery where the children know him as "mister" and the baker keeps "the usual". He paid for bread and carried it uneaten. Lysette wrote nothing about the hill and let him walk on the other side of the square. Small truce: "You came back. That is the whole form."
+- Dream: the Tutor set nine pawns with no tower. The Dragon complained about mint and Sunday walking, then said: "I have asked for one thing, and I meant to take it when—" and went quiet. Eden asked what he promised; no answer. Debt planted (due 420-425).

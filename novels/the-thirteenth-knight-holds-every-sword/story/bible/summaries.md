@@ -41,3 +41,6 @@ Eden ends a Veil wearing the Long Stair's lamplighter in the lamp-house at third
 
 ## Ch 14 - The Herb Bed
 Eden tries to keep a perfect nap record while Lysette's attendance campaign grows into warrants, runners and a stakeout. Felix plays double agent for lunch. Seraphine's joke count on Felix reaches nineteen. Eden sleeps in Lysette's herb bed for eleven minutes; she finds him, leaves him asleep, covers his boots with her coat, and asks him to tell Felix only the number. She knows he has kept her garden secret for a month.
+
+## Ch 15 - The Boy Who Pays for Bread
+Lysette follows Eden into the lower city on a Committee pretext while he scouts the dye-works from a distance for Ysolde. He knows she is there, changes route to keep her away from the Ember watcher, and ends at a refugee bakery where the children know his name. He pays for bread and does not eat it. The two agree not to write down the walk back. That night the Dragon stops mid-complaint with "I promised someone" and will not say who.

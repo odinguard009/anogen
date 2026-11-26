@@ -167,5 +167,18 @@
       "pacing_shape": "fast middle, still ending",
       "hook_type": "a secret kept without being asked"
     }
+  },
+  {
+    "chapter": 15,
+    "picks": {
+      "opening_type": "thin sun on a stone court",
+      "scene_shape": "walk, bakery, dream",
+      "tension_type": "someone following at a known distance",
+      "emotional_tone": "guarded truce",
+      "comic_device": "runners charging each other for news",
+      "conflict_type": "quiet surveillance",
+      "pacing_shape": "slow walk ending on a cut-off voice",
+      "hook_type": "an unfinished sentence"
+    }
   }
 ]

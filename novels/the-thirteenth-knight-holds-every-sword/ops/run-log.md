@@ -107,3 +107,14 @@
 - REVIEW ch 14: PASS. check_chapter OK (1813 words, mean 9.9, dialogue 42%). Registered day names in canon_names.
 - Continuity: joke count from ch 10 (one) reaches 19 on the page; two lunches are routine after ch 12; the green apple is the same out-of-season tree from ch 1.
 - Comedy never undercuts the last scene: Lysette does not wake him and the hook is her realisation, delivered through her words and the coat on his boots, not an explained feeling.
+
+### 2026-11-26 05:56 UTC (12:56 WIB) - tulis bab berikutnya - chapter 15 - ok
+- words: 1806
+- scores: tension 3, surprise 3, emotion 4, battle_clarity -, voice 4, freshness 4
+- notes: Lower-city truce; bakery; Dragon's promise planted.
+- quota_note: 
+
+### self-review ch 15 - MEDIUM risk, same session, not independent
+- REVIEW ch 15: PASS. check_chapter OK (1806 words, mean 10.8, dialogue 37%). Fixed a joined-word typo ("stonesslapped") and a duplicated Tutor exchange in the dream.
+- Continuity: the scouting order comes from ch 9; the grey-coat watcher stays unnamed; the children knowing his name and the uneaten bread are plants, not explanations. The Dragon's "I promised someone" is the H plant for the 420-425 debt; no answer is given.
+- Lysette's truce is shown in actions (no form for the hill, other side of the square) rather than a declared feeling. No chase, no crowd scene.

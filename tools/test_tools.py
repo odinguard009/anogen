@@ -1079,6 +1079,14 @@ def main():
     if FAILS:
         print("\nFAILED:", ", ".join(FAILS))
         sys.exit(1)
+    # battle clarity guard (locked setting 18): warning for ch <= 50, error from ch 51
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    import check_chapter as _cc
+    _long = ("He struck the arm and swung the lance and cut across the hall and caught the blade and " * 3 + "ran.")
+    _w, _e = _cc.battle_check(0, _long)
+    assert (_w, _e) == ([], []), "chapter 0 is never checked"
+    print("  ok battle_check basics")
+
     print("\nALL TESTS PASSED")
 
 

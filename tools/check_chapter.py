@@ -49,6 +49,37 @@ def content_ngrams(text, n):
     return set(ngrams(cw, n))
 
 
+ACTION_RE = re.compile(r"\b(struck|swung|cut|drove|caught|stepped|knocked|opened|shut|threw|fell|dropped|pushed|ran|lunged|blocked|parried|shot|slid|turned|hit|kicked|jumped|dodged|slashed|thrust|grabbed|pulled)\b")
+
+
+def battle_check(num, body):
+    """Battle clarity guard (locked setting 18). Returns (warnings, errors). Supporting guard only: it measures
+    sentence length and crowding, not whether the fight is clear. The fight card in the outline is the real fix.
+    For chapters 1-50 findings are warnings; from chapter 51 on they are errors."""
+    if not num:
+        return [], []
+    outline = "\n".join(read(f) for f in sorted((STORY / "outline").glob("arc-*.md")))
+    m = re.search(rf"^Ch {num} \|(.*)$", outline, re.M)
+    if not m or "type: battle" not in m.group(1):
+        return [], []
+    found = []
+    ap = [p for p in body.split("\n\n") if len(ACTION_RE.findall(p)) >= 2 and not p.lstrip().startswith(('"', "'"))]
+    sl = [len(words(s)) for p in ap for s in sentences(p)]
+    if sl:
+        mean = sum(sl) / len(sl)
+        if mean > 14:
+            found.append(f"battle: action sentences average {mean:.1f} words (max 14): one action per short sentence")
+        longs = sum(1 for x in sl if x >= 25)
+        if longs > 2:
+            found.append(f"battle: {longs} action sentences of 25+ words (max 2)")
+    doors = len(re.findall(r"\bDoors?\b", body))
+    if doors > 6:
+        found.append(f"battle: 'Door' appears {doors} times (max 6): say what the reader sees, not the word")
+    if "card:" not in m.group(1):
+        found.append("battle: the outline line has no 'card:' (fight card: place=...; foe=...; stakes=...; clock=...; beats=bait>ahead>turn>finish>witness; new=one mechanic)")
+    return (found, []) if num <= 50 else ([], found)
+
+
 def main():
     strict = "--strict" in sys.argv[1:]
     args = [x for x in sys.argv[1:] if x != "--strict"]
@@ -171,6 +202,9 @@ def main():
     if triples > 6:
         issues.append(f"rule-of-three lists x{triples}: cut most of them")
 
+    bw, be = battle_check(int(mm.group(1)) if mm else None, body)
+    notes += ["WARNING " + x for x in bw]
+    issues += be
     print(f"Words: {wc} (target {lo}-{hi})")
     for n in notes:
         print("note:", n)

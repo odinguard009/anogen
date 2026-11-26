@@ -7,7 +7,7 @@ Checks (ERROR):
   * engine/models.json: no role mode contains 'delegate'; no value mentions spawning.
   * the instruction files below: a line that tells the reader to spawn/start an agent, use delegation or the Agent tool,
     unless the same line forbids it (never / not / no sub-agents / forbidden / without / do not).
-Historical records (docs/AUDIT_REPORT.md, PERFORMANCE_BASELINE.md, OPTIMIZATION_*.md, the single-agent audit docs,
+Historical records (old audit docs, removed 2026-11-26; the single-agent architecture docs,
 novels/*/ops/decisions.md and ops/archive) are not scanned.
 """
 import json

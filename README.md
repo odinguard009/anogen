@@ -21,7 +21,8 @@ Setiap novel punya folder sendiri dan tidak berbagi kanon, nama, gaya, atau stat
 - `engine/`: aturan, prompt, dan pengaturan model yang dipakai semua novel. `templates/novel/`: kerangka novel baru.
 - Aturan "satu agen pada satu waktu" berlaku global untuk semua novel.
 - `tools/`: skrip pembantu (termasuk `novel.py` untuk membuat/memilih novel dan `rename.py` untuk mengganti nama di seluruh novel, dry-run dulu) (tidak memakai kuota).
-- `docs/`: laporan audit, peta jalan, baseline performa, arsitektur, catatan perubahan.
+- `docs/`: arsitektur dan mesin memori cerita (laporan audit lama sudah dihapus; riwayat ada di git dan `ops/decisions.md`).
+- Mulai sesi dengan `python3 tools/start.py`: satu perintah yang menampilkan status, HOLD, error validasi, dan langkah berikutnya (untuk AI mana pun).
 - `tests/fixtures/`: data beku untuk membandingkan paket konteks.
 - `roles/`: instruksi peran (editor pengembangan, penulis, editor naskah, penjaga kanon, manajer redaksi).
 

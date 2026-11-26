@@ -47,6 +47,8 @@ PACING_RE = re.compile(r"^\s*(?:[-*]\s*)?Ch\.?\s*(\d+)\s*:")
 TRUNCATED = []  # (section title, chars lost): any entry makes the tool exit 4 (never cut silently)
 
 
+import debts as debts_mod  # noqa: E402  (one shared debts parser)
+
 DEBT_WINDOW = 40
 
 
@@ -54,8 +56,7 @@ def debts_due_soon(lines, n):
     """Keep open debts whose earliest due chapter is within DEBT_WINDOW chapters of n (or has no number)."""
     keep, later = [], 0
     for ln in lines:
-        m = re.search(r"due:\s*([^|]*)", ln)
-        nums = [int(x) for x in re.findall(r"\d+", m.group(1))] if m else []
+        nums = debts_mod.due_numbers(ln)
         if nums and min(nums) > n + DEBT_WINDOW:
             later += 1
         else:

@@ -74,8 +74,9 @@ def normalize_utf8(path):
     """Rewrite a text file as clean UTF-8 if it holds mixed encodings. Returns the number of lines fixed."""
     p = Path(path)
     text, bad = decode_mixed(p.read_bytes())
-    if bad:
-        p.write_bytes(text.encode("utf-8"))
+    clean = text.replace("\r\n", "\n").replace("\r", "")  # stray CR (e.g. "\r\r\n") makes line numbers lie
+    if bad or clean != text:
+        p.write_bytes(clean.encode("utf-8"))
     return bad
 
 

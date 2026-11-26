@@ -59,3 +59,6 @@ Seraphine invites Eden to the Ball as a joke and he refuses quickly. Lysette wri
 
 ## Ch 22 - The Smell of the Dust
 Eden and Vesk enter the lower-city dye-works. Vesk uses **[Mott]** to wear a dead Ember's shadow and sends the four Cinder children out on a false drill order. Eden ends the three cell leaders one at a time with **[Draught]**, then wipes the room. A dying Ember's grey veins and the dry smell of the dust tell Eden that the cell is tied to the Veil network, though he does not know what the veins mean. The last Ember laughs: "You're late. The Crown already has the hall."
+
+## Ch 23 - Thirteen Voices
+Eden raids the second Ember safehouse in full **[Umra]**. Gorrath's **[Knock and Answer]** fills the street with thirteen voices from thirteen shadows, and the hired men inside surrender to an army that is not there. Eden finds the Ball plan: Rowan and Seraphine are named as guests to collect, but the written night is Friday, a day before the Ball. He takes the paper and a brass crown weight. Unlacing his left gauntlet, he finds a tiny feather stamped inside. Ysolde then doubles the Justiciar Seal guard and orders him away from the Ball.

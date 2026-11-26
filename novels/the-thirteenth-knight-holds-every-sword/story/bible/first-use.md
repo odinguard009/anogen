@@ -58,3 +58,5 @@ Note: Witness first use moved from planned ch 13 to ch 11 because the outline's 
 
 - Vesk's [Mott] | Vesk | ch 22 | yes (a dead Ember's shadow worn like a coat; Vesk's coat and eyes take the dead man's colour, his voice the dead man's voice) | yes (breaks if the real man speaks or the body is found; Vesk cannot laugh in it)
 - Eden's [Draught] | Eden | ch 22 | yes ([Exa]'s point put through the exact narrow gap between collar and jaw, and between glove and wrist) | yes (one exact opening; stops a point at the throat)
+
+- Gorrath's [Knock and Answer] | Gorrath | ch 23 | yes (Gorrath's one voice comes out of thirteen separate shadows at once, each with a different tired or calm tone, answering a roll call) | yes (needs thirteen shadows and Gorrath's effort; the voices start counting wrongly when he is not careful, and he admits he is terrible at it)

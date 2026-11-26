@@ -85,3 +85,14 @@
 - REVIEW ch 22: PASS. check_chapter OK (1800 words, mean 12.8, dialogue 34%). First uses of [Mott] and [Draught] have look, body use, effect and limit in scene and ledger.
 - No kill without confirmation: the grey line is seen before the first cut; the third man's grey veins are seen before the last. The Cinders are sent out unseen and unhurt; no crowd or chase.
 - Grey veins and the dust smell are plants only (due 90-95); no explanation of grafts given by Eden or by a dying man. Hook is the outline's exact line.
+
+### 2026-11-26 06:30 UTC (13:30 WIB) - tulis bab berikutnya - chapter 23 - ok
+- words: 1800
+- scores: tension 4, surprise 4, emotion 4, battle_clarity 4, voice 4, freshness 4
+- notes: First [Knock and Answer]; feather stamp; wrong-night Ball plan; Ysolde forbids Ball.
+- quota_note: 
+
+### self-review ch 23 - MEDIUM risk, same session, not independent
+- REVIEW ch 23: PASS. check_chapter OK (1800 words, mean 12.5, dialogue 24% warning only). Armor-up shown from feet to helm with Frost cost; [Knock and Answer] first use has look, body use, effect and limit.
+- No one killed in the safehouse: the hired men surrender to a voice trick. The wrong-night plan and the feather stamp are plants only, never explained in this chapter.
+- Continuity: Ysolde's Form 13-B demand from ch 3/9 returns; Gorrath's poor lying from ch 8 is echoed in his wrong count. Ysolde's order not to attend sets up Eden's choice in ch 24.

@@ -35,3 +35,6 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [open] Okoru: "they never test the Teeth" | planted: ch 60 | due: ch 285
 - [open] Roof garden green | planted: ch 1 | due: ch 575
 - [open] Bell 4th tone | planted: ch 3 | due: ch 420
+
+- [open] Feather stamped inside Eden's left gauntlet | planted: ch 23 | due: 172-176
+- [open] Ball plan names Rowan and Seraphine as guests to collect, with the wrong night (Friday not Saturday) | planted: ch 23 | due: 24-26

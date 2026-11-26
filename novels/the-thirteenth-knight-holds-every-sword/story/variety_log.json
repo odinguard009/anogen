@@ -271,5 +271,18 @@
       "pacing_shape": "slow entry, three clean beats, one last line",
       "hook_type": "an enemy already ahead of the hero"
     }
+  },
+  {
+    "chapter": 23,
+    "picks": {
+      "opening_type": "boarded windows and a boy with a bell",
+      "scene_shape": "street armor-up, silent surrender, two small objects",
+      "tension_type": "an expected visit turned around",
+      "emotional_tone": "cold and certain",
+      "comic_device": "Gorrath counting wrong out of thirteen shadows",
+      "conflict_type": "locked-house raid without a fight",
+      "pacing_shape": "set piece, quick room, slow pocket",
+      "hook_type": "an order not to attend"
+    }
   }
 ]

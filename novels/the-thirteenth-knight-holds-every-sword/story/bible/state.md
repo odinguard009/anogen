@@ -163,3 +163,10 @@
 - Eden ended three cell leaders with **[Draught]** through the collar/jaw and glove/wrist gaps. A dying Ember showed grey veins in his neck; the smell matched the dust in the exchange and the construct core. Eden now knows the smell of Veil dust but does not know what the veins mean and does not ask a dying man for proof.
 - Bodies laid behind the barrels, scales and door bar wiped, high window opened two fingers and shut again; the children's crust of bread put on the table. Vesk: "You found the smell... I did not know."
 - Hook: the last Ember, with blood in his throat: "You're late. The Crown already has the hall." Ball plan is already in motion.
+
+## Wed 9 Dec, night (ch 23)
+- Raid on the second safehouse in full **[Umra]**: plates from feet up, helm last with the white slit, street sounds gone except his breath, Frost at the fingertips after the first step.
+- Gorrath's **[Knock and Answer]** put thirteen voices into thirteen shadows under a cart, at boarded windows, behind the step and in a cupboard. The nine hired men laid down blades and knelt, believing an army had come. Gorrath began counting them and got the number wrong; Vesk said "Shut up"; Gorrath: "I am terrible at this."
+- The plan on the table named Rowan Tallis and Seraphine Aurenmark as GUESTS TO COLLECT at the eleventh bell on Friday 11 Dec, one day before the Ball; the date was written later than the list. Eden took the folded sheet and the brass crown weight.
+- After walking two streets away he unlaced the left gauntlet and found a tiny silver feather stamped inside under the palm, shaft running into the seam. He held his thumb on it for two breaths, said he was not worried, and laced it back. Vesk noticed he held his hand differently. Plant for 172-176.
+- Ysolde's courier: Justiciar Seal will double its guard at the Ball; Eden is not to attend; Form 13-B before the first bell.

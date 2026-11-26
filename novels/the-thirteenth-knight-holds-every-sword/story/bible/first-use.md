@@ -147,3 +147,5 @@ Note: Witness first use moved from planned ch 13 to ch 11 because the outline's 
 
 - Rowan's [Ithe] | Rowan | ch 46 | yes (gold light up the arms and a short hard burst from the spear head; drives Hushborn back; leaves him cold and one hand not answering) | yes (one burst, then cold; he must be caught afterward)
 - Clara's [Wyl] | Clara | ch 46 | yes (staff to ground, green line runs out along a crack and holds Husks on the far side; every blow on the line comes back into her face) | yes (she feels each blow, bleeds under the nose; must move the staff to cover a new group)
+
+- Desmond Harrow's [Grask] | Crown of Gallowmarch | ch 48 | yes (grafted right arm swells grey until the coat seam splits, hand spans a man's chest and crushes; each use spreads grey up the neck; no blade or spell needed) | yes (needs the arm and reach; each use spends him; arm can be trapped in a Door)

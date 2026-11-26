@@ -94,3 +94,6 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [paid ch 47] Felix's middle name Perrin given in answer to three knocks for the loan of [Thessa] | planted: ch 12 | due: 47
 - [open] Felix saw the feather stamp inside [Thessa] and heard something answer his name | planted: ch 47 | due: 236
 - [open] Clara's wound edges grey from Husk blood; she closes it but a dark line remains | planted: ch 47 | due: 480
+
+- [open] Strent directs teachers by firelight and never stands under lamps during the camp fire; apologises throughout | planted: ch 48 | due: 99, 185
+- [paid ch 48] "You smell like the bottom of the world" repeated by a dying grafted Crown | planted: ch 3 | due: 48-50

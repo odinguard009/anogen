@@ -52,3 +52,6 @@ Forty people must cross a burning yard while the Mawgate opens. Eden cuts a Door
 
 ## Ch 47 - Something Said My Name Back
 Lance Nine holds the corridor to the barracks. Rowan keeps the turn with his spear while Clara, wounded with grey at the edges of the cut, closes her own wound again. Eden knocks three times and Felix answers with his middle name, Perrin; the shield **[Thessa]** goes to him and comes back to his arm. Felix sees the feather stamp inside it and says that something answered his name. Eden tells him to hold the door and count to twenty out loud, and to take the shield and go if he does not come back.
+
+## Ch 48 - The Crown in the Smoke
+Eden finds Strent directing the fire calmly by firelight, then meets Desmond Harrow, the grafted Crown of Gallowmarch. Harrow's first [Grask] crushes at him and greys him with every use; Eden traps the arm in a Door cut through a burning tent's shadow and tears it off. Harrow takes a young conscript hostage with a knife and asks Eden what he is. Strent quietly orders a teacher to lower his blade.

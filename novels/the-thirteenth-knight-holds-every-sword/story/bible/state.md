@@ -332,3 +332,8 @@
 - Clara's wound from a Husk blade meant for Rowan had grey at the edges; she closed it again and a dark line remained. Rowan held the turn with the spear and did not use gold light again; his hands shook.
 - First loan: Eden knocked three times with Exa's ring; Felix answered "Perrin"; **[Thessa]** went to his arm and returned to it after every blow. Felix: "Something said my name back." He saw the feather stamp inside the strap. "Just tell me what to do."
 - Eden ordered Felix to hold and count to twenty out loud, then take the shield through the far door if he did not return.
+
+## Thu 28 Jan (ch 48)
+- Eden searched the burning east tents for the grafted Crown and found Strent first, giving quiet orders by firelight and never standing under lamps, apologising to a fallen board.
+- Desmond Harrow, Crown of Gallowmarch, had a grey graft from right shoulder to knuckles climbing his neck. First [Grask] swelled the arm and crushed at Eden; each use greyed him further. Eden took the blow on the shield and used the burning tent's shadow Door to trap the second grab and tear the arm off at the shoulder.
+- Harrow: "You smell like the bottom of the world" and "Ask me what you are." Eden did not answer. Harrow took a conscript with a red band hostage with a knife; the boy's hands were full of a bucket handle. Strent ordered a teacher to put his blade away rather than make the moment louder.

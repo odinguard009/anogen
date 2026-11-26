@@ -135,3 +135,14 @@
 - REVIEW ch 47: PASS. check_chapter OK (1803 words, mean 13.5, dialogue 22% warning only). No new label besides [Thessa] (first loan; dream appearance in ch 44 registered in ledger). Perrin debt paid on the page.
 - No reveal: Felix sees a feather and hears a name answered, but no one explains the shield's making or the Vigil. The grey wound is shown without a cause beyond Husk blood.
 - Continuity: [Osk] limit from ch 44, Rowan's cold after [Ithe] from ch 46, scarf/bun running joke paid in the name answer, Lysette's red cloth marker as a new object.
+
+### 2026-11-26 09:02 UTC (16:02 WIB) - tulis bab berikutnya - chapter 48 - ok
+- words: 1800
+- scores: tension 5, surprise 4, emotion 4, battle_clarity 4, voice 4, freshness 4
+- notes: First [Grask]; Strent's calm; Harrow's hostage hook.
+- quota_note: 
+
+### self-review ch 48 - MEDIUM risk, same session, not independent
+- REVIEW ch 48: PASS. check_chapter OK (1800 words, mean 13.2, dialogue 18% warning only). First [Grask] has look, effect, spread cost and the Door counter; only one new label.
+- No reveal: Harrow asks "what are you" and Eden does not answer; no Unbind or name spoken. "Bottom of the world" paid from the ch 3 debt without explaining the smell. Strent's lamp avoidance is consistent with ch 20/37 without a confirm.
+- Continuity: Harrow's name from the wash-house card, children and red bands from ch 46/47, tent-shadow Door from ch 45, glove hand from ch 36/38.

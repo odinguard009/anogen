@@ -6,6 +6,26 @@ Owner: Odin (Indonesian; not a coder). Talk to him in Indonesian: concise, direc
 
 Words used here (LOCKED SETTING 13: agents are never spawned; the orchestrator performs each role itself): "agent" = the role being performed (a sequential stage of the one main session, never a separate AI run). "strong tier" / "standard tier" = informational labels from engine/models.json; the single main session uses its own model for every role. The "orchestrator" = the AI the owner talks to; it runs scripts, performs every role itself, commits and sends files.
 
+## START HERE (any AI, every session; 2 minutes)
+1. Run `python3 tools/start.py`. It prints the active novel, git state, HOLD, lock, what is due, validation errors and a NEXT line. Do what NEXT says. If it says HOLD or "no batch is running", write nothing until the owner orders it.
+2. Talk to the owner in Indonesian, short. Write stories in English at learner level. Never invent facts: if a tool or file does not say it, say you did not verify it.
+3. Never overwrite canon, never start sub-agents or parallel runs, never turn on the schedule, never lower the 2000-word minimum, never pad.
+4. Work one role at a time under `tools/lock.py`. After any chapter edit run `python3 tools/check_chapter.py <file>`; before committing run `python3 tools/validate.py 1-N` (ERROR = a rule is broken; fix it, do not argue). Commit and push with `python3 tools/save.py "msg" --trailer "..."` (use `git add -A` first for new files).
+5. Edited a chapter that the critic already reviewed? Re-review it and run `engine_state.py rereview N ...`. Otherwise the engine will block new writing.
+6. Finished? `python3 tools/test_tools.py` and `python3 tools/policy_check.py` must pass; report in 3-6 lines, naming what you did NOT verify.
+
+### Known failure modes of arc 1 and the guard that now stops each one
+| What went wrong | Guard (automatic) |
+|---|---|
+| A file with mixed or broken encoding crashed the context pack | `common.read` tolerates it; `save.py` rewrites story/ops/chapters files as clean UTF-8 with LF line endings |
+| State/ledger files grew until the writer's context was cut off | `story/bible/state.md` stays compact (full log goes to `archive/`); `context_pack.py` reports every truncation and the debts list shows only the next 40 chapters |
+| Chapters came out short or long | `check_chapter.py`/`verify_batch.py`/`validate.py` enforce 2000-2500 words; `tools/common.py` has a hard floor of 2000 |
+| Dates drifted from the calendar | the critic's DATE CHECK and the writer's date block (`story/bible/calendar.md` wins) |
+| Plants and payoffs were forgotten or marked open forever | `tools/debts.py` (used by validate): an open debt with no `due:` number, or whose every due chapter has passed, is an ERROR |
+| The outline promised a first-use label the chapter never used | `validate.py` ERROR "outline promises **[Label]**..." (write "not used yet" after a label in the outline when it must NOT appear) |
+| Same session wrote and judged its own work | accepted limit (locked setting 13); the guards above are scripts, not opinion. Say so in the report; never claim an independent review |
+| Old reports and drafts piled up and confused the next AI | history lives in git and `ops/decisions.md`; do not keep dead files in the tree (delete them, git remembers) |
+
 ## Layout (one folder per novel)
 - Engine (shared by all novels): tools/ (scripts, 0 tokens), roles/ (instructions per role), engine/ (sop.md, PORTABILITY.md, models.json, locked-settings.md, writer/critic/rewrite prompts, prices.json), templates/novel/ (empty starting folder for a new novel), docs/, tests/.
 - Each novel lives ONLY in `novels/<slug>/`: story/ (brief, style, bible, outline, inbox), chapters/ (chapter-NNN.md), ops/ (engine.json, schedule.json, run-log.md, scores.csv, decisions.md, blocked.md, rewrite-queue.md, usage.jsonl), out/ (EPUBs, reading page), archive/. `novels/ACTIVE` names the active novel.

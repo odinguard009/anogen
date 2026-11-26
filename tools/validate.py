@@ -84,18 +84,21 @@ def check(lo, hi):
 
     # story data
     nxt = (nums[-1] + 1) if nums else 1
-    for i, ln in enumerate(read(STORY / "bible" / "debts.md").splitlines(), 1):
-        m = re.match(r"\s*-\s*\[(\w+)\]", ln)
-        if not m:
+    # outline vs text: every **[Label]** the outline promises for chapter N must appear in chapter N
+    # (write "not used yet" right after a label in the outline when the chapter must NOT use it)
+    for om in re.finditer(r"^Ch (\d+) \|(.*)$", "\n".join(read(f) for f in sorted((STORY / "outline").glob("arc-*.md"))), re.M):
+        cn = int(om.group(1))
+        if cn not in texts:
             continue
-        if m.group(1) == "open":
-            d = re.search(r"due:\s*ch\s*([\d,\s\-]+)", ln)
-            if not d:
-                add("WARNING", f"debts.md:{i}", "open debt has no 'due: ch N'")
-            else:
-                last = max(int(x) for x in re.findall(r"\d+", d.group(1)))
-                if last < nxt - 1:
-                    add("WARNING", f"debts.md:{i}", f"open debt is overdue (due ch {last}, next chapter is {nxt})")
+        for lm in re.finditer(r"\*\*\[([^\]]+)\]\*\*", om.group(2)):
+            if f"[{lm.group(1)}]" not in texts[cn] and "not used" not in om.group(2)[lm.end():lm.end() + 25]:
+                add("ERROR", f"ch {cn}", f"outline promises **[{lm.group(1)}]** in this chapter but the text never uses it (fix the chapter or edit the outline)")
+    import debts
+    d_err, d_warn = debts.check(nxt)
+    for i, msg in d_err:
+        add("ERROR", f"debts.md:{i}", msg)
+    for i, msg in d_warn:
+        add("WARNING", f"debts.md:{i}", msg)
     known = canon_tokens()
     seen = Counter()
     for n, raw in texts.items():

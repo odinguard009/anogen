@@ -623,8 +623,8 @@ def stage3_tests():
         check("validate: missing chapter file is an ERROR", "ch 3: file missing" in o, o)
         check("validate: invalid JSON is an ERROR", "ops/schedule.json: invalid JSON" in o, o)
         check("validate: duplicate summary is an ERROR", "chapter 1 has 2 summaries" in o, o)
-        check("validate: overdue open debt is a WARNING", "WARNING: debts.md:2: open debt is overdue" in o, o)
-        check("validate: debt without due is a WARNING", "WARNING: debts.md:3: open debt has no" in o, o)
+        check("validate: overdue open debt is an ERROR", "ERROR: debts.md:2: open debt is overdue" in o, o)
+        check("validate: debt without due is an ERROR", "ERROR: debts.md:3: open debt has no" in o, o)
         check("validate: paid debt is not flagged", "debts.md:4" not in o, o)
         check("validate: summary line present", "VALIDATION 1-4:" in o and "error(s)" in o and "warning(s)" in o, o)
         c, o = run(root, "validate.py", "1-1", "--json")
@@ -801,6 +801,14 @@ def policy_adversarial_tests():
         check("policy files: a contradictory active line in AGENTS.md is rejected", any("AGENTS.md:2" in x for x in pc.run(d)), str(pc.run(d)))
     finally:
         shutil.rmtree(d, ignore_errors=True)
+
+
+def debts_parser_test():
+    import debts
+    assert debts.due_numbers("- [open] x | planted: ch 1 | due: ch 24-26") == [24, 26]
+    assert debts.due_numbers("- [open] x | due: 172-176, 197") == [172, 176, 197]
+    assert debts.due_numbers("- [open] x | planted: ch 3") == []
+    print("ok: debts parser")
 
 
 def words_floor_test():
@@ -1048,6 +1056,7 @@ def main():
     stage6_tests()
     encoding_and_debt_tests()
     words_floor_test()
+    debts_parser_test()
     if FAILS:
         print("\nFAILED:", ", ".join(FAILS))
         sys.exit(1)

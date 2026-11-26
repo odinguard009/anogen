@@ -62,3 +62,6 @@ Eden and Vesk enter the lower-city dye-works. Vesk uses **[Mott]** to wear a dea
 
 ## Ch 23 - Thirteen Voices
 Eden raids the second Ember safehouse in full **[Umra]**. Gorrath's **[Knock and Answer]** fills the street with thirteen voices from thirteen shadows, and the hired men inside surrender to an army that is not there. Eden finds the Ball plan: Rowan and Seraphine are named as guests to collect, but the written night is Friday, a day before the Ball. He takes the paper and a brass crown weight. Unlacing his left gauntlet, he finds a tiny feather stamped inside. Ysolde then doubles the Justiciar Seal guard and orders him away from the Ball.
+
+## Ch 24 - The Eleventh Bell
+Eden watches the Ball from the roof above the glass atrium while Lysette, in a gown, cries over Rowan dancing with Clara. At the eleventh bell the lanterns go out and the chandelier falls; Eden catches it in a Door cut from its shadow across the roof glass, unseen by the room. The Ashen Crowns then seize the atrium with blades at throats and demand two guests. An Ember points up through the glass and shouts for "the Thornmere boy, Wren"; Lysette hears him say they thought he was theirs.

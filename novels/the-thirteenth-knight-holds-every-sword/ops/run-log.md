@@ -96,3 +96,14 @@
 - REVIEW ch 23: PASS. check_chapter OK (1800 words, mean 12.5, dialogue 24% warning only). Armor-up shown from feet to helm with Frost cost; [Knock and Answer] first use has look, body use, effect and limit.
 - No one killed in the safehouse: the hired men surrender to a voice trick. The wrong-night plan and the feather stamp are plants only, never explained in this chapter.
 - Continuity: Ysolde's Form 13-B demand from ch 3/9 returns; Gorrath's poor lying from ch 8 is echoed in his wrong count. Ysolde's order not to attend sets up Eden's choice in ch 24.
+
+### 2026-11-26 06:35 UTC (13:35 WIB) - tulis bab berikutnya - chapter 24 - ok
+- words: 1805
+- scores: tension 4, surprise 4, emotion 4, battle_clarity 4, voice 4, freshness 4
+- notes: Ball siege begins; unseen chandelier Door; Thornmere name heard by Lysette; no Lintel.
+- quota_note: 
+
+### self-review ch 24 - MEDIUM risk, same session, not independent
+- REVIEW ch 24: PASS. check_chapter OK (1805 words, mean 12.3, dialogue 26%). No **[Lintel]** used, as the outline requires; the chandelier catch is a Door in a shadow with a stated light edge and a visible cost.
+- S1 E rung delivered as reaction only (Seraphine's hand stops shaking); no story told. Lysette hears the Thornmere name for the T1-7 D rung; no confirmation of Eden's identity to her.
+- Continuity: "Did they light?" echoes ch 1; the Ashen card from ch 7 is recognised in the Crowns' black cards; Lysette decides in ch 21 to attend and is here on the roof rather than the floor.

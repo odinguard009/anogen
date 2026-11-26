@@ -170,3 +170,10 @@
 - The plan on the table named Rowan Tallis and Seraphine Aurenmark as GUESTS TO COLLECT at the eleventh bell on Friday 11 Dec, one day before the Ball; the date was written later than the list. Eden took the folded sheet and the brass crown weight.
 - After walking two streets away he unlaced the left gauntlet and found a tiny silver feather stamped inside under the palm, shaft running into the seam. He held his thumb on it for two breaths, said he was not worried, and laced it back. Vesk noticed he held his hand differently. Plant for 172-176.
 - Ysolde's courier: Justiciar Seal will double its guard at the Ball; Eden is not to attend; Form 13-B before the first bell.
+
+## Sat 12 Dec, night (ch 24)
+- Eden stayed on the roof above the glass atrium, not in the hall. Lysette came up in a dark blue gown with the braid crown; she had kept her promise not to cry for an hour and ten minutes, then cried. Asked "Did they light?" about the lanterns and Eden answered yes; the echo of the roof scene in ch 1.
+- She asked why he was on the roof ("It is quiet") and almost asked a question she refused to ask tonight. She told him to stay on the roof if the Crowns found someone there.
+- At the eleventh bell every lantern went out. The chandelier came loose; Eden opened a Door in the shadow it threw across the roof glass, using a strip of light from a kitchen lamp, and caught the chandelier out of sight above Seraphine. Left arm cold to the elbow afterward. **[Lintel]** not used.
+- Ashen Crowns seized the atrium with black cards and broken-crown marks, blades at throats, and an order that two guests be taken alive. Rowan tried to trade himself for Clara; Clara told him to sit down. Seraphine's hand stopped shaking under the empty space where the chandelier had been (S1 E rung).
+- Hook: an Ember pointed up through the glass: "There! The Thornmere boy. Wren. We thought he was ours." Lysette stopped moving altogether.

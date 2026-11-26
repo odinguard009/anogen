@@ -284,5 +284,18 @@
       "pacing_shape": "set piece, quick room, slow pocket",
       "hook_type": "an order not to attend"
     }
+  },
+  {
+    "chapter": 24,
+    "picks": {
+      "opening_type": "clouded glass and a cold rail",
+      "scene_shape": "roof conversation then hall siege",
+      "tension_type": "forty hostages and no knife moved",
+      "emotional_tone": "sad turning urgent",
+      "comic_device": "Rowan trying to sit down in front of Clara",
+      "conflict_type": "lit hall seized from the galleries",
+      "pacing_shape": "long still talk, one fast catch, hard stop",
+      "hook_type": "a name shouted for the wrong reason"
+    }
   }
 ]

@@ -146,3 +146,15 @@
 - REVIEW ch 48: PASS. check_chapter OK (1800 words, mean 13.2, dialogue 18% warning only). First [Grask] has look, effect, spread cost and the Door counter; only one new label.
 - No reveal: Harrow asks "what are you" and Eden does not answer; no Unbind or name spoken. "Bottom of the world" paid from the ch 3 debt without explaining the smell. Strent's lamp avoidance is consistent with ch 20/37 without a confirm.
 - Continuity: Harrow's name from the wash-house card, children and red bands from ch 46/47, tent-shadow Door from ch 45, glove hand from ch 36/38.
+
+### 2026-11-26 09:11 UTC (16:11 WIB) - tulis bab berikutnya - chapter 49 - ok
+- words: 1800
+- scores: tension 5, surprise 4, emotion 5, battle_clarity 5, voice 4, freshness 4
+- notes: Aura moment; false Unbind bells; first [Lampwick]; dust hangs still.
+- quota_note: 
+
+### self-review ch 49 - HIGH risk, same session, not independent
+- REVIEW ch 49: PASS. check_chapter OK (1800 words, mean 13.3, dialogue 19% warning only). Read twice. First [Lampwick] described with need (light and seam) and body use.
+- AURA moment has reaction shots: Harrow's hand loosens without command, Felix deliberately looks elsewhere, Valerius writes nothing, hostages report only dark shape and gold glint. No armor face or Door shown to them.
+- False Unbind is explicit: Harrow shouts his middle name and no bell rings; Eden's flat question is about himself and stays unanswered. Dust in replay is a plant, not explained.
+- Continuity: glove removed from ch 36/38 rule, scarf from ch 33, Felix's lake promise from ch 29, Lysette's replay habit from ch 13/45.

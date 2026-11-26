@@ -149,3 +149,5 @@ Note: Witness first use moved from planned ch 13 to ch 11 because the outline's 
 - Clara's [Wyl] | Clara | ch 46 | yes (staff to ground, green line runs out along a crack and holds Husks on the far side; every blow on the line comes back into her face) | yes (she feels each blow, bleeds under the nose; must move the staff to cover a new group)
 
 - Desmond Harrow's [Grask] | Crown of Gallowmarch | ch 48 | yes (grafted right arm swells grey until the coat seam splits, hand spans a man's chest and crushes; each use spreads grey up the neck; no blade or spell needed) | yes (needs the arm and reach; each use spends him; arm can be trapped in a Door)
+
+- Eden's [Lampwick] | Eden | ch 49 | yes ([Inead] follows a seam its own light shows: a hairline where the graft meets skin at the neck; needs light and a seam) | yes (no seam, no cut; uses the fire behind him and the gold from the sword)

@@ -55,3 +55,6 @@ Lance Nine holds the corridor to the barracks. Rowan keeps the turn with his spe
 
 ## Ch 48 - The Crown in the Smoke
 Eden finds Strent directing the fire calmly by firelight, then meets Desmond Harrow, the grafted Crown of Gallowmarch. Harrow's first [Grask] crushes at him and greys him with every use; Eden traps the arm in a Door cut through a burning tent's shadow and tears it off. Harrow takes a young conscript hostage with a knife and asks Eden what he is. Strent quietly orders a teacher to lower his blade.
+
+## Ch 49 - Would Bells Ring
+Harrow shouts his own middle name at dawn to force a response, but no bell rings; Eden asks whether bells would ring for him. A single look from Eden makes Harrow's knife hand loosen. Felix sees the dark shape and gold glint and keeps the promise he made at Silverfell; Valerius sees and writes nothing. Eden removes his left glove, goes polite, and uses the first [Lampwick] along the seam in Harrow's neck. Lysette's replay shows a white line and dust that hangs still for one breath.

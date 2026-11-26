@@ -337,3 +337,9 @@
 - Eden searched the burning east tents for the grafted Crown and found Strent first, giving quiet orders by firelight and never standing under lamps, apologising to a fallen board.
 - Desmond Harrow, Crown of Gallowmarch, had a grey graft from right shoulder to knuckles climbing his neck. First [Grask] swelled the arm and crushed at Eden; each use greyed him further. Eden took the blow on the shield and used the burning tent's shadow Door to trap the second grab and tear the arm off at the shoulder.
 - Harrow: "You smell like the bottom of the world" and "Ask me what you are." Eden did not answer. Harrow took a conscript with a red band hostage with a knife; the boy's hands were full of a bucket handle. Strent ordered a teacher to put his blade away rather than make the moment louder.
+
+## Thu 28 Jan, dawn (ch 49)
+- Harrow held the conscript with a knife and shouted his own middle name, Desmond, to force an awakening. No bell rang; Eden asked flatly whether bells would ring for him if someone said his name.
+- AURA: Eden stopped moving except his eyes and looked at Harrow; the knife hand loosened by a finger-width with no command and no sound. Felix saw the dark shape and gold line and deliberately looked elsewhere, keeping the promise from the lake. Valerius saw and wrote nothing. Hostages later described only white light and a shape in smoke.
+- Eden took off his left glove and went polite: "Mr. Harrow... Let the boy go." First [Lampwick] followed the seam the gold showed at Harrow's neck; the Crown fell.
+- Lysette's [Witness] replay showed dark shape, white line, and dust hanging still in the air for a breath; Okoru told her to write "smoke and a white line" and nothing else.

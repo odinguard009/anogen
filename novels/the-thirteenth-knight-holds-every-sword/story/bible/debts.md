@@ -97,3 +97,7 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 
 - [open] Strent directs teachers by firelight and never stands under lamps during the camp fire; apologises throughout | planted: ch 48 | due: 99, 185
 - [paid ch 48] "You smell like the bottom of the world" repeated by a dying grafted Crown | planted: ch 3 | due: 48-50
+
+- [open] Harrow shouted his own middle name and no bell rang; Eden asked flatly whether bells would ring for him | planted: ch 49 | due: 214, 590
+- [open] Aura: Harrow's knife hand loosened under a look; Felix saw and said nothing; Valerius saw and wrote nothing; hostages saw only dark shape and gold glint | planted: ch 49 | due: 50, 101
+- [open] Dust in Lysette's Witness replay hung still for a breath | planted: ch 49 | due: 50, 590

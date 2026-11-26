@@ -609,5 +609,18 @@
       "pacing_shape": "calm first, long fight, one stop",
       "hook_type": "a question asked at knife point"
     }
+  },
+  {
+    "chapter": 49,
+    "picks": {
+      "opening_type": "a hostage who has stopped shaking",
+      "scene_shape": "false awakening, look, seam, replay",
+      "tension_type": "a name shouted at a silent bell tower",
+      "emotional_tone": "cold and terrible",
+      "comic_device": "an apologetic order not to shoot",
+      "conflict_type": "hostage at knife point with a dying Crown",
+      "pacing_shape": "long hold, one look, one cut, one replay",
+      "hook_type": "dust that refuses to fall"
+    }
   }
 ]

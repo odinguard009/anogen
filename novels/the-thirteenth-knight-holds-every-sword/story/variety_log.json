@@ -492,5 +492,18 @@
       "pacing_shape": "talk, story, small physical task",
       "hook_type": "a distance measured in one word"
     }
+  },
+  {
+    "chapter": 40,
+    "picks": {
+      "opening_type": "an epigraph about boxes for the dead",
+      "scene_shape": "night office with four stacks of paper",
+      "tension_type": "what a secretary refuses to fetch",
+      "emotional_tone": "dry and careful",
+      "comic_device": "socks logged as equipment, not a gift",
+      "conflict_type": "filing what cannot be said",
+      "pacing_shape": "one page at a time to a last click",
+      "hook_type": "a pair of boots reported missing"
+    }
   }
 ]

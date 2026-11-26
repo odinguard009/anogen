@@ -162,3 +162,14 @@
 - REVIEW ch 39: PASS. check_chapter OK (1801 words, mean 11.6, dialogue 46%). Read twice. Okoru's story is an Unbind H hint only; no power appears on the page and Eden does not connect the story to a reading.
 - Rowan's question answered by two different truths: Eden's sideways one and Clara's full one, which belongs to her knowledge, not to a narrator's hint from Eden.
 - Continuity: Lysette's rejection from ch 1/21, Okoru's one arm from ch 4/31 and his Stitch from ch 32, the Choir from ch 34, Vesk's dusty hem from ch 31.
+
+### 2026-11-26 08:02 UTC (15:02 WIB) - tulis bab berikutnya - chapter 40 - ok
+- words: 1800
+- scores: tension 3, surprise 4, emotion 4, battle_clarity -, voice 4, freshness 4
+- notes: Ysolde interlude; envelopes and files; missing boots hook.
+- quota_note: 
+
+### self-review ch 40 - HIGH risk, same session, not independent
+- REVIEW ch 40: PASS. check_chapter OK (1800 words, mean 12.7, dialogue 14% warning only for an office interlude). Epigraph from outline/epigraphs.md. Read twice; names trimmed to budget and long sentences split.
+- Ysolde POV allows her dry judgments; no head-hop into Eden. No reveal: the second envelope stays unopened, Liora's letter stays unopened, Wendell's file stays nine sheets, and the Tailor thread remains at D.
+- Continuity: missing page from ch 37, broken mirror and scar readings from ch 36, Strent's line from ch 30, bellwire from ch 33, wool scarf/socks running gag.

@@ -58,3 +58,6 @@ A small fire in a barracks hut brings the Lance together. Beside the burnt curta
 
 ## Ch 39 - The First Oil Line
 Rowan asks why Lysette hates him; Eden gives a sideways truth and Clara supplies the whole one, so Rowan plans an apology away from an audience. Okoru tells the story of the one-armed cistern hold with bells ringing by themselves, and Eden records it without connecting it to the man in front of him. He lays the first oil line under the camp for lamps. Vesk reports that the Mawgate is closer than the maps say: under the camp itself.
+
+## Ch 40 - The Box for the Dead
+At midnight Ysolde files the PR 110 report and pays for the broken mirror so Eden will not try to pay it himself. She refuses to bring the king's second envelope from the safe, answers the Duke's letter about Strent without asking questions, and pulls the old file of the physician who vanished the week Liora died. She leaves Liora's letter unopened and sends Eden wool socks as equipment with a form. A bellwire message reports a missing groundskeeper's boots at the camp.

@@ -53,6 +53,14 @@ def main():
     if git("rev-parse", "--is-inside-work-tree").returncode != 0:
         print("ERROR: not a git repository; nothing saved.")
         sys.exit(1)
+    if ROOT != REPO:  # fix mixed encodings (cp1252 lines from other tools) before anything reads or commits them
+        from common import normalize_utf8
+        for folder in (ROOT / "story", ROOT / "ops", ROOT / "chapters"):
+            for f in sorted(folder.rglob("*")) if folder.exists() else []:
+                if f.suffix in (".md", ".txt", ".json", ".csv", ".jsonl") and f.is_file():
+                    n = normalize_utf8(f)
+                    if n:
+                        print(f"note: {f.relative_to(REPO)}: {n} lines converted to UTF-8")
     if ROOT != REPO:  # novels layout: keep the derived story-memory index fresh (hash-based, best effort, never blocks a save)
         try:
             import memory_index

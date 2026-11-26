@@ -803,6 +803,21 @@ def policy_adversarial_tests():
         shutil.rmtree(d, ignore_errors=True)
 
 
+def encoding_and_debt_tests():
+    import tempfile
+    import common
+    import context_pack
+    with tempfile.TemporaryDirectory() as d:
+        f = Path(d) / "x.md"
+        f.write_bytes("good \u2014 line\n".encode("utf-8") + b"bad \x97 line\n")
+        check("mixed encoding file is read without crashing", "bad \u2014 line" in common.read(f))
+        check("normalize_utf8 fixes it once", common.normalize_utf8(f) == 1 and common.normalize_utf8(f) == 0)
+        f.read_bytes().decode("utf-8")
+    lines = ["- [open] a | planted: ch 1 | due: ch 20-25", "- [open] b | planted: ch 2 | due: ch 200-205", "- [open] c | planted: ch 3 | due: ch 600"]
+    keep, later = context_pack.debts_due_soon(lines, 10)
+    check("debts window keeps near debts and counts far ones", len(keep) == 1 and later == 2)
+
+
 def main():
     root = Path(tempfile.mkdtemp(prefix="anogen-test-"))
     try:
@@ -1020,6 +1035,7 @@ def main():
     stage4_tests()
     stage5_tests()
     stage6_tests()
+    encoding_and_debt_tests()
     if FAILS:
         print("\nFAILED:", ", ".join(FAILS))
         sys.exit(1)

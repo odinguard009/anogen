@@ -2,6 +2,7 @@
 import hashlib
 import json
 import os
+import sys
 import re
 import shutil
 from pathlib import Path
@@ -54,11 +55,38 @@ SENT_RE = re.compile(r"(?<=[.!?…])[\"”’')\]]*\s+")
 _BREAK_RE = re.compile(r"^\s*(?:(?:\*\s*){3,}|-{3,}|_{3,})\s*$")
 
 
+def decode_mixed(raw):
+    """Decode bytes as UTF-8; any line that is not valid UTF-8 is read as Windows-1252 (a PowerShell Add-Content leftover)."""
+    try:
+        return raw.decode("utf-8"), 0
+    except UnicodeDecodeError:
+        out, bad = [], 0
+        for ln in raw.split(b"\n"):
+            try:
+                out.append(ln.decode("utf-8"))
+            except UnicodeDecodeError:
+                bad += 1
+                out.append(ln.decode("cp1252", errors="replace"))
+        return "\n".join(out), bad
+
+
+def normalize_utf8(path):
+    """Rewrite a text file as clean UTF-8 if it holds mixed encodings. Returns the number of lines fixed."""
+    p = Path(path)
+    text, bad = decode_mixed(p.read_bytes())
+    if bad:
+        p.write_bytes(text.encode("utf-8"))
+    return bad
+
+
 def read(path, default=""):
     try:
-        return Path(path).read_text(encoding="utf-8")
+        text, bad = decode_mixed(Path(path).read_bytes())
     except (FileNotFoundError, IsADirectoryError):
         return default
+    if bad:
+        print(f"WARNING: {path} is not valid UTF-8 ({bad} lines read as Windows-1252); run python3 tools/save.py to normalize it", file=sys.stderr)
+    return text
 
 
 

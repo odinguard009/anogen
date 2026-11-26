@@ -30,7 +30,7 @@ Lysette turned on him. "How do you know?"
 
 * * *
 
-The duel yard had a chalk line down the middle and a judges' table at the north end with a bell on it. The floor was sand over stone, swept smooth that morning, and the low sun came in under the west wall and threw the chalk line into a second, faint line beside itself. Three judges sat behind the table in grey coats, and Okoru stood at the west wall with his one arm behind his back and a stick in his hand. He had been chewing a strip of something when Eden came in, but he stopped when Valerius stepped into the yard.
+The duel yard had a chalk line down the middle and a judges' table at the north end with a bell on it. The floor was sand over stone, swept smooth that morning, and the low sun came in under the west wall and threw the chalk line into a second, faint line beside itself. Three judges sat behind the table in grey coats, and Okoru stood at the west wall with his one arm behind his back and a stick in his hand. He had been chewing a strip of something when Eden came in.
 
 Seraphine sat on the wall opposite with a card in her hand, and Clara stood beside her with a posting ribbon on her collar. Neither spoke. The crowd left a space around them too, but for a different reason: people did not want to be near a princess during a duel her twin had made.
 
@@ -78,7 +78,7 @@ Okoru had walked along the wall to the south end while the judges settled. He st
 
 "Go and lose well."
 
-He went back along the wall, and the strip of leaf moved once in his jaw before he spat it out.
+He went back along the wall, and the strip of leaf kept moving in his jaw.
 
 The bell rang.
 
@@ -100,7 +100,7 @@ He had one plain plan, and it was not hidden. A wall was a thing that had been p
 
 Valerius came through the gap with his sword high.
 
-Eden did not meet him. He stepped sideways, behind the second wall, and the pale glass came up between them. The cold came off it like a draught from an open cellar. Seraphine's card turned over in her hand on the far wall, and she did not pick it up. Valerius's blade struck the top edge and skidded, and the prince had to step round his own wall to find his man.
+Eden did not meet him. He stepped sideways, behind the second wall, and the pale glass came up between them. The cold came off it like a draught from an open cellar. Seraphine's card turned over in her hand on the far wall. She did not pick it up. Valerius's blade struck the top edge and skidded. The prince had to step round his own wall to find his man.
 
 Eden was already round the other side. The crowd made a small noise along the wall.
 
@@ -124,13 +124,13 @@ Valerius dragged a fourth line, fast, and the wall rose crooked against Eden's s
 
 Eden folded **[Exa]** with one knock on the ring. The black shield took the blade on its face, and the iron rang across the yard. The shock ran into his shoulder, and he counted two breaths to clear the arm.
 
-Okoru had stopped chewing. The strip of leaf he worked on during drills lay untouched on the windowsill behind him. Lysette's pencil had stopped. Rowan stood up from the wall without deciding to.
+Okoru had stopped chewing. The strip of leaf he worked on during drills sat still in his cheek. Lysette's pencil had stopped. Rowan stood up from the wall without deciding to.
 
 Valerius dragged a fifth line. His breath was short now, and his hand stayed on the guard a moment longer than before. Eden could see the cost, and he used it.
 
-Eden had counted the prince's breathing since the first wall: in, short, out, one beat held. After each wall the hold grew by a fraction. It was the kind of thing only a person who had watched many people tire would see, and Eden had watched many. He did not use it to win. He used it to know when he could afford to be slow, which was a different and sadder skill. He put the shield's edge against the pale wall and pushed, and the wall slid sideways on the sand, because it had been placed in a hurry. Valerius had to step round it again.
+Eden had counted the prince's breathing since the first wall: in, short, out, one beat held. After each wall the hold grew by a fraction. It was the kind of thing only a person who had watched many people tire would see, and Eden had watched many. He did not use it to win. He used it to know when he could afford to be slow, which was a different and sadder skill. He put the shield's edge against the pale wall and pushed. The wall slid sideways on the sand, because it had been placed in a hurry. Valerius had to step round it again.
 
-Eden unfolded the lance. The prince saw the point come up, and his eyes flicked to it.
+Eden knocked the ring, and the shield unfolded into the lance again. The prince saw the point come up, and his eyes flicked to it.
 
 "Use the point," Valerius said.
 

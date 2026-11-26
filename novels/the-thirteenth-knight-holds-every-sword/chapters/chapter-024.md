@@ -74,7 +74,7 @@ The Door opened. It took the shape of the shadow, a black doorway on the glass a
 
 He shut the Door. His left arm went cold to the elbow and stayed cold. He flexed the fingers twice and counted his breaths until the feeling came back.
 
-Below, Seraphine looked up at the empty air. Felix pulled her back from the north table by the elbow. He did it with the stiff care of a boy who had never touched anyone and had decided that tonight he would learn. His book was not in his hand, and Eden realised he had never seen Felix without it. Her hand had been shaking. Now it stopped, and she put the other hand over it.
+Below, Seraphine looked up at the empty air. Felix pulled her back from the north table by the elbow. He did it with the stiff care of a boy who had never touched anyone and had decided that tonight he would learn. His book was not in his hand, and Eden realised he had never seen Felix without it. Her hand was shaking, and she put the other hand over it.
 
 A shout came from the west gallery. Eden kept his eye on the hall. Men in dark coats came down the gallery stairs with black cards in their hands, and seven more came through the kitchen door. They did not run. They walked to the edges of the room and stood there with their hands at their sides.
 
@@ -152,4 +152,4 @@ An Ember near the north table turned his head up toward the roof, as if he had h
 
 "There!" he shouted. "The Thornmere boy. Wren. We thought he was ours."
 
-Below him, Lysette stopped moving altogether.
+Beside him, Lysette stopped moving altogether.

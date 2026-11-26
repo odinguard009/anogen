@@ -5,7 +5,7 @@
       "end": 50,
       "name": "The Rooftop",
       "max": 50,
-      "status": "writing"
+      "status": "complete"
     }
   },
   "batch": {
@@ -18,7 +18,7 @@
     "stop_reason": "arc 1 fully written"
   },
   "critic_through": 50,
-  "audit_through": 40,
+  "audit_through": 50,
   "reviewed": {
     "1": "2e932f4856acd49e",
     "2": "c4daa6f9065d72f0",

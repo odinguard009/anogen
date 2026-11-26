@@ -51,3 +51,6 @@ Owner: "Gunakan semua hal dalam repo itu untuk memproduksi chapter 1-5 novel ses
 - Chapter word counts: 2418 / 2441 / 2193 / 2133 / 1842 (all inside 1800-2500 after critic patches).
 - Push: save.py succeeded during the critic commit, so origin/main received the chapters and critic pass. No authorization problem remained.
 - Partial EPUB is an owner-requested exception to the arc-complete gate. Deliverable: out/chapters-1-5.epub and a copy at the workspace root.
+
+## 2026-11-26 Arc 1 complete
+Chapters 1-50 written from outline/arc-1.md under the owner's order "lanjutkan sampai selesai 1 arc" (which released the writing hold from the earlier explicit order). Five batches of five, each chapter checked with check_chapter.py, prepass, risk, review_pack and a same-session self-review; one critic pass and one audit per ten chapters; final critic and arc-end audit on ch 41-50. `engine_state.py arc-complete 1` marked the release gate open. `build_epub.py --arc 1` produced out/arc-1.epub: 57 zip entries, 50 chapter XHTML files, no bad members. Copied to the workspace root as the-thirteenth-knight-arc-1.epub for download. Earlier partial EPUB out/chapters-1-5.epub remains from the first request.

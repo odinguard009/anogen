@@ -54,6 +54,10 @@ Clara touched his sleeve. "You hit her arm yesterday."
 
 Okoru pointed with his stick, and the hall's small noise died. Rowan went west with Clara, and their boots faded into the passage. Rowan's spear scraped once on a corner. Clara's posting ribbon showed pale for a moment and then was gone.
 
+Eden stayed at the gate a breath longer than the others. He looked at the south wall, where the false walls waited in their slots. Three of the four had a dry grey line of old grease along the track. The fourth, the one above Lysette's passage, had a bright wet line, fresh enough to catch the floor light. Someone had oiled that one today. Nobody oils a wall they only mean to leave alone.
+
+He did not say it. A thing said in front of Okoru became a thing Okoru wrote down, and a thing Okoru wrote down became a name on a list. Eden filed it with the others, in the box where he kept what was none of his business, and then he looked at the box again and found it was getting full.
+
 Felix stood beside the gate. "I can shoot through the gap if the wall slides."
 
 "You can shoot a wooden blade," Okoru said. "It will not care."
@@ -136,7 +140,7 @@ Under the pale floor light, the thing cast a shadow on the north wall. Eden look
 
 * * *
 
-Eden walked into the edge of the light and reached into the shadow for **[Exa]**. The lance came out of the dark case on his back with its cold matte body and its iron ring-knocker, a little longer than his arm. He knocked once on the ring, and **[Exa]** folded with a sound like a box lid shutting into the tray-sized door-shield, black and quiet under his hand.
+Eden walked into the edge of the light and reached into the shadow for **[Exa]**. The lance came out of the dark under his hand, cold and matte, with its iron ring-knocker, a little longer than his arm. He knocked once on the ring, and **[Exa]** folded with a sound like a box lid shutting into the tray-sized door-shield, black and quiet under his hand.
 
 He did not put himself between them. He put himself beside the arm.
 
@@ -161,6 +165,22 @@ Something cracked that was not stone. The red eyes went out one at a time, first
 The shield unfolded back into **[Exa]** with a ring and a cold ache behind Eden's eyes. He put the lance away. His arm felt as if it had been struck by a hammer, and he flexed the fingers until they answered.
 
 Lysette stood against the wall with one whole baton and one empty hand.
+
+Clara came to Eden first, not to her. She took his left wrist and turned the hand over, the way a woman checks a loaf. The fingers were still white to the second knuckle.
+
+"Numb?" she asked.
+
+"A little."
+
+"How little?"
+
+"I can hold a spoon."
+
+"That is not the test." She pressed two fingers into the heel of his palm, and a warm thread ran up into the wrist and stopped at the elbow, as if it had met a closed door. Clara frowned at her own hand. "Odd. It does not want to go further."
+
+"It is only a bruise."
+
+"It is a strange bruise." But she let go, because Lysette was watching, and Clara knew when a question had to wait for a better room.
 
 "Two seconds," she said. "Again."
 

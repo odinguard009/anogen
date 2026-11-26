@@ -50,7 +50,7 @@ The letter had come with the morning bread, carried by a servant who would not m
 
 *Your cousin asks after you. House Hollen has had enough of public matters. We will act as if it were not. That is the only kindness left to us. You are a Hollen before you are a student, and you must learn to keep your face still.*
 
-Lysette read the last line twice. Her mother wrote as if a name could be folded away with the paper. Lysette had spent five years learning that it could not. She folded the letter into three and put it back in her pocket, then took out her book and wrote the spoon down again because the first line had a smudge on it.
+Lysette read the last line twice. She knew what the letter did not say. Her brother had been the Hollen who was allowed to be loud, and since his name had been struck from the family papers there was only one Hollen left to keep the house quiet. Her mother never wrote his name, and Lysette never asked her to. Instead she counted the stairs to the fifth step and sat on it, which was as near to arguing as the two of them came. Her mother wrote as if a name could be folded away with the paper. Lysette had spent five years learning that it could not. She folded the letter into three and put it back in her pocket, then took out her book and wrote the spoon down again because the first line had a smudge on it.
 
 Below the stair well the dining hall was filling. She could hear Rowan laughing before she reached the door, one loud laugh that made people look up from their plates, and Clara's quieter answer to it. Lysette stood at the top of the last stairs with her hand on the rail for a moment longer than she needed.
 
@@ -74,7 +74,7 @@ Felix looked at the paper for a while. "Or he is very good at being boring."
 
 "That is not a thing a person can be good at for five years."
 
-"He came to class on Tuesday," Lysette said. "He answered Brandmeier in six words."
+"He came to class ten days ago," Lysette said. "He answered Brandmeier in six words."
 
 "Everyone knows that."
 
@@ -101,6 +101,8 @@ Across the hall Rowan laughed again, and Clara said something that made him stop
 "Has it worked?"
 
 "No."
+
+She thought about the one time it had nearly worked. On the third day of writing him up she had walked to the roof door, found it locked, and stood there with the form in her hand for a full minute. She had not tried the handle. She did not know why she had not tried the handle. She had told herself it was because the key was the Committee's business, and she had gone away before she could finish the sentence.
 
 "Then write something else." Felix picked up his book. "I would. But I am not you."
 
@@ -156,7 +158,7 @@ Felix got up with his book under his arm. "What form?"
 
 "Of course." Seraphine went out with one hand on Felix's sleeve, and Felix went with her and did not look back at his book.
 
-Lysette sat with her pencil still above the page. She had meant to write down the question Seraphine asked and the answer Eden gave, because both were wrong in different ways. Why would a princess ask a boy who slept through class if he would save her? Why would the boy say probably instead of yes, when everyone else said yes without thinking?
+Lysette sat with her pencil still above the page. The hall had gone loud around her, forks and boots and a dropped tray, and none of it reached the page. She had the strange feeling of having been handed a puzzle with the middle pieces missing, and of having been told, politely, that she would not like the picture. She had meant to write down the question Seraphine asked and the answer Eden gave, because both were wrong in different ways. Why would a princess ask a boy who slept through class if he would save her? Why would the boy say probably instead of yes, when everyone else said yes without thinking?
 
 She wrote one word. Probably.
 

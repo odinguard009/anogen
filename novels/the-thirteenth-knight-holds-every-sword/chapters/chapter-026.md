@@ -2,7 +2,9 @@
 
 Eden got back to the roof before the hall had finished counting. He came up the last flight with one hand on the wall because the left arm still felt hollow from the Door work, and he sat down on the stone by the apple tree with his coat pulled tight. There was soot on his cuff from the work lamps in the atrium, and a small tear in his glove where a broken chain had caught it. He did not look at either. His thumb found the place in his palm where the feather stamp had been and stopped there for one beat before he let the hand rest flat on the stone. Below, the band was playing again, which meant the prefects had decided that music made a seized ballroom look less like a seized ballroom.
 
-He counted the sounds that came up through the glass. Violins, a drum, thirty or forty people talking at once, a glass dropped somewhere near the west door. No shouting. That was a good sign, and he put it in the box of things that were none of his business. A prefect crossed the glass below with a broom and stopped to sweep up a drift of broken lantern glass, and another prefect followed with a dustpan and held it wrong side up, and neither of them looked at the roof.
+He counted the sounds that came up through the glass. It was an old habit, older than the Vigil. Sounds told him what a room was doing when he could not see it, and a room that was frightened sounded different from a room that was merely loud. This one had been frightened for an hour, and now, slowly, with a dropped glass and a laugh and a prefect telling someone to mind the step, it was learning how to be loud again. Violins, a drum, thirty or forty people talking at once, a glass dropped somewhere near the west door. No shouting. That was a good sign, and he put it in the box of things that were none of his business. A prefect crossed the glass below with a broom and stopped to sweep up a drift of broken lantern glass, and another prefect followed with a dustpan and held it wrong side up, and neither of them looked at the roof.
+
+A broken lantern lay in two pieces by the rail, its brass frame bent, its wick still curled in the oil. Eden stepped around it and did not touch it. Anyone who picked it up would be asked where it had fallen from.
 
 The roof door opened. Lysette came out with her gown gathered in one hand and her gloves in the other, and she was shaking hard enough that the chain at her collar moved against the button. She stood in the doorway until her breath came back, then crossed to the rail and looked down into the hall.
 
@@ -32,7 +34,11 @@ She took it. She did not ask where he had been, and she did not say that she bel
 
 "You never say anything else."
 
-"I say other things."
+"I say other things." He thought about it honestly. "I said the band was better from the roof."
+
+"That was a lie."
+
+"It was partly true."
 
 "You say them about doors and roofs and clocks." Her mouth moved, not quite a smile. "You never say anything about yourself."
 
@@ -48,7 +54,7 @@ Eden did not answer. The answer sat in his mouth in four true shapes, and every 
 
 The band below changed tunes. It was a slow one, the kind that needed a floor and two people who knew where to put their feet, and Lysette looked down through the glass at the empty dance floor with a face he could not read.
 
-"I asked Rowan if he would dance with me," she said. "Before Clara. In September. He said yes and then he forgot, and then it was too late to ask again."
+"I asked Rowan if he would dance with me," she said. "Before he asked Clara. In October. He said yes and then he forgot, and then it was too late to ask again."
 
 "Why did he forget?"
 
@@ -60,7 +66,7 @@ The band below changed tunes. It was a slow one, the kind that needed a floor an
 
 "What did you say?"
 
-"That I had asked first. He said, 'Did you? I did not know that.' And then Clara came in with a ribbon and he forgot the whole conversation." She wiped her nose with the back of her wrist. "I have been angry at him for three months and he has not once noticed."
+"That I had asked first. He said, 'Did you? I did not know that.' And then Clara came in with a ribbon and he forgot the whole conversation." She wiped her nose with the back of her wrist. "I have been angry at him for two months and he has not once noticed."
 
 Eden said nothing.
 
@@ -90,6 +96,8 @@ She put one hand on his shoulder and one hand in his, and put her right foot on 
 
 "No."
 
+She did not move for a moment. The band had reached the middle of its slow tune, and the sound came up through the glass thin and sweet, with a violin that was a quarter-tone flat. Eden counted the flat note and found that he did not mind it. He had never before been in a room where a mistake was part of the music and nobody wished it gone.
+
 She laughed once, through her nose, the way she had laughed on the roof in November when the paper lantern caught fire. Then she stopped, because laughing had made her cry again, and she turned her head away to do it quietly. Eden looked at the apple tree instead and counted eleven leaves on the nearest branch. He did not count the seconds. He had learned that counting seconds in front of Lysette made her ask what he was counting.
 
 When she was done she took her hand off his shoulder and wiped her face with her glove, and she was careful with the powder again.
@@ -114,7 +122,7 @@ Something in Eden's face changed. It was small and it did not last: the tight li
 
 "Yes."
 
-"Then I will know where to find you." She picked up her gloves from the stone and put them on, one finger at a time, and the cuffs were cold against her wrists. She took one last look at the hall through the glass, where the prefects were stacking chairs and the band had gone home. "I have decided I am glad I went."
+"Then I will know where to find you." She picked up her gloves from the stone and put them on, one finger at a time, and the cuffs were cold against her wrists. She took one last look at the hall through the glass, where the prefects were stacking chairs and the band had gone home. "I have decided I am glad I went." She said it like a ruling, so that nobody could appeal it.
 
 "Wait," she said, from the door. He looked up. "Thank you for the dance."
 
@@ -130,8 +138,8 @@ Something in Eden's face changed. It was small and it did not last: the tight li
 
 Eden lay down in the shade between the herb bed and the wall where he had slept in November. The mint had gone floppy in the cold and the sage caught at his sleeve, and a drop of water hung on the edge of the stone pot above his head. The grass was wet and cold through his coat, and the dream did not come. He waited for the smell of ash, and it did not come. He waited for the banners and the field with no air in it, and they did not come. He slept without any dream at all, which had not happened to him since he was ten, and when he woke the sky over the roof was pale grey and the band below had stopped an hour ago. A bird was in the broken telescope again, or a different bird, and it had pulled a piece of blue ribbon into the nest. Eden watched it turn the ribbon over twice before it settled on the edge of the cup and looked at him with one black eye.
 
-On the highest twig of the apple tree, where the white flower had been, there was a second green apple, small and hard. Eden counted the leaves on the nearest branch. Eleven.
+On the highest twig of the apple tree, where the white flower had been, there was a third green apple, small and hard. Eden counted the leaves on the nearest branch. Eleven.
 
-The gloves were lying on the stone by the herb bed, folded one inside the other the way she folded paper. He picked them up. The handkerchief was inside them, washed and dried and folded into a square with sharp corners, and the silver feather in one corner was clean.
+A second pair of gloves lay on the stone by the herb bed, folded one inside the other the way she folded paper. She must have come back while he slept. He picked them up. The handkerchief was inside them, washed and dried and folded into a square with sharp corners, and the silver feather in one corner was clean.
 
-It smelled of soap and thyme. The fold was not the fold he had made when he gave it to her in November; it was her fold, with sharp corners and the feather turned inward, so that the cloth protected the stitching. Eden held it for the length of two breaths, then put it back inside the glove and laid both on the stone exactly where he had found them. He did not take it with him, and he did not go back to sleep. The roof was going light at the edges, and the apple tree held its two green fruit, and for once he could not have said how long he had been awake.
+It smelled of soap and thyme. The fold was not the fold he had made when he gave it to her in November; it was her fold, with sharp corners and the feather turned inward, so that the cloth protected the stitching. Eden held it for the length of two breaths, then put it back inside the glove and laid both on the stone exactly where he had found them. He did not take it with him, and he did not go back to sleep. The roof was going light at the edges, and the apple tree held its three green fruit, and for once he could not have said how long he had been awake.

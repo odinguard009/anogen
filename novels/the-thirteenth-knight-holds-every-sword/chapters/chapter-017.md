@@ -2,6 +2,8 @@
 
 The duel resumed on Wednesday morning because Valerius had said again and the judges had written it down. The sand in the yard had been swept in the night, and the faint second chalk line was gone. Rain had got into the west corner and left a dark patch there the size of a shield, and the judges had moved their table two steps east to keep the paper dry. The morning sun came in low and put every mark on the sand into relief. Lysette stood near the west wall with a strip of clean linen in her hand and her red band pinned straight, and she had not once asked Eden why he wanted to lose.
 
+The sand had been raked that morning into long straight lines, and the lines were already broken by a dozen boots. Somebody had left a water jug by the east post, and it sweated in the cold. Eden noted where it stood. A jug was a thing a man could trip on.
+
 "Hands," she said, before he went in.
 
 Eden held them out. The knuckles of his left hand were split in two places from the shield ring, and the skin around them had gone pale at the edges.
@@ -76,7 +78,7 @@ He came again, and this time Eden had to take three steps back before he could s
 
 Eden could have struck then. The lance point was in the right place, and Valerius's guard was open on the inside because he had committed to the low cut. One push would have ended the duel with a touch to the prince's chest. Eden did not push. He turned the shield and let the blade pass a finger's width from his hand, close enough that Valerius's face changed when he saw how close it was.
 
-"Why?" Valerius said.
+"Why?" Valerius said. His voice had dropped so low that only the nearest judge leaned in to hear it, and the judge wrote nothing.
 
 "Because you said try."
 
@@ -118,7 +120,7 @@ The judges' bell rang at the same moment. Its sound began on the touch, so there
 
 The three judges wrote at the same time. The second one, who had watched Valerius's blade rather than Eden's shield, wrote a longer line and then crossed it out. Nothing in the yard carried the sound of the pencil except the judges' table, which had been built for exact noises.
 
-The yard went quiet in the way a room goes quiet when a result is not what people expected. Rowan started to say something and Clara put a hand on his sleeve. Seraphine turned her card face down on the wall beside her. Okoru, at the west wall, put the strip of leaf back in his mouth and began to chew again, slowly, as if he had been waiting for permission.
+The yard went quiet in the way a room goes quiet when a result is not what people expected. Rowan started to say something and Clara put a hand on his sleeve. "He lost on the bell," Rowan said, very quietly, to nobody. "He lost on the exact bell." Felix, beside him, took the roll out of his mouth and put it in his pocket, which was the strongest sign of respect he had. Seraphine turned her card face down on the wall beside her. Okoru, at the west wall, put the strip of leaf back in his mouth and began to chew again, slowly, as if he had been waiting for permission.
 
 Valerius stepped back behind his line. He did not look at the judges. He looked at Eden's shield hand, which was hanging open at the side, and at the strip of linen in Lysette's pocket.
 
@@ -134,7 +136,7 @@ Valerius stepped back behind his line. He did not look at the judges. He looked 
 
 "A finger's width." Eden held up his hand and showed the gap between his thumb and his forefinger. "Twice. One was enough."
 
-Valerius's jaw moved once. He was angry, and he kept the anger inside the square stance, so that it showed only in the way his thumb tightened on the sword grip and in the shortness of his breath after the third wall. He was a senior-edge duellist and not a bully, and the crowd, which had expected him to make a scene, waited for one and did not get it.
+Valerius's jaw moved once. He was angry, and he kept the anger inside the square stance, so that it showed only in the way his thumb tightened on the sword grip and in the shortness of his breath after the third wall. He was a hard duellist and not a bully, and the crowd, which had expected him to make a scene, waited for one and did not get it.
 
 Lysette came across the sand with the linen in her hand before either of them said anything more. She took Eden's left hand and pulled the glove off, and then she wrapped the strip around the knuckles. She pulled it too hard. The linen bit into the split skin, and Eden's fingers opened on their own, and he let them.
 
@@ -156,7 +158,9 @@ Lysette came across the sand with the linen in her hand before either of them sa
 
 "Because it is my linen." She looked at his hand once more, then at Valerius, then shut her mouth on whatever she had been going to say to him.
 
-Seraphine came down from the wall and took her brother's free arm for one second, then let it go. He did not look at her. She went back to her place with the card still face down, and the crowd began to understand that the prince was not going to shout.
+The knot sat tight and square on the outside of his hand, the kind of knot that took a person three tries to learn and a lifetime to stop tying. Eden flexed his fingers inside it and found that it held the split skin shut without stopping the blood from moving. It was a good bandage. He thought he would not say so, because she would write the compliment down and then have to decide what it meant.
+
+Seraphine came down from the wall and took her brother's free arm for one second, then let it go. He did not look at her. Her lips moved on one word, and Eden, who was a bad lip-reader, still thought it was his name. It was not a word she should have known him by, and she had said it as if it were a very old habit. She went back to her place with the card still face down, and the crowd began to understand that the prince was not going to shout.
 
 Valerius put his sword in its scabbard. He came closer than the crowd expected, and he spoke so that only the three of them could hear.
 

@@ -28,7 +28,7 @@ Lance Nine was given the stretch nearest the inspection stair, which meant they 
 
 "You will write nothing today if you cannot hold the pencil." Okoru moved on to Rowan, who was holding his spear at the wrong angle, and corrected it with the stick.
 
-Eden looked at Lysette's hands once and then at the sky over the parapet. The sky was the colour of dishwater and the wind had not stopped since the fourth bell the day before. He did not say anything about her hands, because she had said she was not cold and he had no reason to disbelieve her. He noted that her pencil had slipped twice while she wrote, which was a thing he could count, and he put it in the box of facts.
+Eden looked at Lysette's hands once and then at the sky over the parapet. Her fingers were the colour of candle wax, and the knuckles stood out as white as the snow. She wrote anyway, in small stiff letters, and he thought that it must hurt to hold the pencil. He noted it as a fact about a hand, and noted that he had noted it twice. The sky was the colour of dishwater and the wind had not stopped since the fourth bell the day before. He did not say anything about her hands, because she had said she was not cold and he had no reason to disbelieve her. He noted that her pencil had slipped twice while she wrote, which was a thing he could count, and he put it in the box of facts.
 
 * * *
 
@@ -36,7 +36,7 @@ The king arrived with six people and a man carrying a sketchbook. A motor-car ha
 
 "Three days, sir."
 
-"Then do it in two and send me the bill." The king's voice was warm and rough at the edges, and he said the next words to the man with the sketchbook. "Draw that. The marks, not the stone. I want to remember what it does to a place."
+"Then do it in two and send me the bill." Nobody laughed, because nobody was sure the king had been joking, and the sergeant wrote it down on his board with a face that said he was not going to find out. The king's voice was warm and rough at the edges, and he said the next words to the man with the sketchbook. "Draw that. The marks, not the stone. I want to remember what it does to a place."
 
 Ysolde walked half a step behind him with a folder against her coat and a pen in her hand, and she looked at everything as if she were checking a list. Eden stood four paces from the stair with his spear grounded and his eyes on the king's boots, which was the rule and also useful, because boots did not look back.
 
@@ -52,7 +52,7 @@ Ysolde walked half a step behind him with a folder against her coat and a pen in
 
 "Yes, sir."
 
-The king moved along the stretch and came to Rowan, whose gold light had made the day before's work easier and whose face was open enough that people told him things. "You are the one with the hands," the king said.
+The king moved along the stretch and came to Rowan, The party moved with the king in a small tight cluster, and the cluster stretched and bunched as the walk went on: the secretaries stopped to write, the painter stopped to draw, the servant with the rug stopped to find a place to put the rug down and failed. Only Ysolde kept pace, one step behind his shoulder, her eyes going from the king to the parapet to the soldiers and back, counting something Eden could not see. whose gold light had made the day before's work easier and whose face was open enough that people told him things. "You are the one with the hands," the king said.
 
 "Yes, sir."
 
@@ -100,9 +100,11 @@ Lysette was waiting at the bottom of the stair when the inspection ended, with h
 
 "Did you write that I was cold?"
 
-"No." She looked at the wall over his shoulder. "I wrote that it was cold." She looked at his neck, where the scarf had been folded twice, and put the pencil in her book without adding anything to the page. "That is not the same as naming a person."
+"No." She looked at the wall over his shoulder. "I wrote that it was cold." She looked at his neck, where the scarf had been folded twice, and put the pencil in her book without adding anything to the page. "That is not the same as naming a person." She pulled her coat straight and stood a moment longer than she needed to, as if waiting for him to say something. He did not know what to say, so he said, "Thank you," and watched her decide whether that was acceptable.
 
-The band went on playing in the camp below that evening, and Eden wore the scarf around his neck and then around his mouth when the wind came up from the grey country. He wore it the next day and the day after that. He wore it for the rest of the winter. It was a piece of equipment and not a gift. When steam from a cup got into it, it smelled faintly of thyme and soap.
+"It is acceptable," she said. "Do not do it again."
+
+The camp went on with its evening below, and Eden wore the scarf around his neck and then around his mouth when the wind came up from the grey country. He wore it the next day and the day after that. He wore it for the rest of the winter. It was a piece of equipment and not a gift. When steam from a cup got into it, it smelled faintly of thyme and soap.
 
 On the morning the king left, the cars waited at the gate with their engines running. The servants loaded a basket of papers into the last car and tied the painter's sketchbook shut with a string, and one of the king's officers walked the wall once more to check that nothing had been left behind. He found a glove on a merlon, held it up, and someone below said it belonged to the painter, who came up the stair with his hands full and took it without thanking anyone. Theodric came down the line of soldiers and spoke to Okoru once, then walked past the Lances with a hand raised, not quite a salute and not quite a wave. When he came to Eden he stopped, and for one moment the tired eyes looked straight at him.
 

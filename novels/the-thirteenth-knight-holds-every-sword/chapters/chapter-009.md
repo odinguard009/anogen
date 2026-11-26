@@ -8,7 +8,7 @@ Eden had walked the palace corridor twice before he found the door without a gua
 
 Eden sat. Her office had one window, a desk with two stacks of paper, and a clock that clicked too loudly. There was a cup of cold tea on the corner of the desk with a stain under it in the shape of a ring. The clock's second hand jumped instead of moving, and Eden watched it jump twice before he looked at her.
 
-"Form 13-B," she said. "You sent it on Tuesday. I have read it twice and I still do not know what it is."
+"Form 13-B," she said. "You sent it two days ago. I have read it twice and I still do not know what it is."
 
 "It is a report."
 
@@ -44,9 +44,17 @@ Eden took out the folded paper from the workshops and laid it on the desk. Ysold
 
 "I know."
 
-"The order was dated in November."
+"The order was dated last autumn."
 
 "I know." She put the paper under a weight on the desk. "That is the reason you are here and not in the offices downstairs."
+
+"A girl at school asked the stores office for the same order," Eden said. "The day before me. She wrote the date down."
+
+"Hollen." Ysolde did not look surprised. She looked tired, which was a different thing. "Her mother wrote to me last spring. House Hollen has had enough of public matters, she said. Then her daughter joined the Discipline Committee." She turned the weight on the paper a quarter turn. "Keep her out of this, Wren. A girl who writes everything down is a witness waiting for a date."
+
+"I cannot keep her out of a stores office."
+
+"No. But you can stop leaving your pencil marks on counters." She said it dryly, and Eden realised she knew about the counter. He wondered how many other things she knew, and how many she let him think she did not.
 
 The passage to the king's room had three tall windows and no guards, and the floor boards creaked under Eden's boots. He stopped at the last window to look at the court below. A groundskeeper was sweeping leaves into a pile and stopping too often to lean on his broom. Eden counted four stops before he went on.
 
@@ -66,7 +74,7 @@ Eden moved to the other chair. The king waited until he was sitting before he sp
 
 "Felix says that." Eden kept his hands on his knees. "I ate two rolls on Wednesday."
 
-"Wednesday was six days ago."
+"Wednesday was eight days ago."
 
 "I have breakfast on Thursday."
 
@@ -102,7 +110,7 @@ The king looked at the papers and did not read them. "When I was your age I coul
 
 "She said the boy was a ghost and I had to feed him." The king's mouth moved. "She used other words as well."
 
-Eden did not ask which ones. The king put the paper aside and took up a different one, and for a moment the room had only the sound of the clock in the next office. Eden watched the sword instead of the king. It looked like a sword that had been used and cleaned and used again, not a sword kept for show. The king saw him looking and put a hand on the grip.
+Eden did not ask which ones. He thought of her saying it, in a corridor, with her pen still in her hand, and he found that the picture was easy to see. It did not feel like something done for a ghost. It felt like something done by a person who had decided not to let one stand in a doorway. The king put the paper aside and took up a different one, and for a moment the room had only the sound of the clock in the next office. Eden watched the sword instead of the king. It looked like a sword that had been used and cleaned and used again, not a sword kept for show. The king saw him looking and put a hand on the grip.
 
 "It is heavy," he said. "I have never got used to it."
 
@@ -142,7 +150,7 @@ A page in a blue coat was polishing the handle of the king's door when Eden came
 
 Eden waited. She did not look up.
 
-"There is one more thing," she said. "The lower city. An Ember cell is buying dye-works and moving dust through the water lanes. The king wants it gone before the Ball. You will go tonight or tomorrow night, whichever the streets allow."
+"There is one more thing," she said. "The lower city. A cell is buying dye-works and moving dust through the water lanes. The king wants it gone before the Ball. You will go tonight or tomorrow night, whichever the streets allow."
 
 "How many?"
 
@@ -161,3 +169,7 @@ Eden took the form. "Yes."
 Ysolde picked up her pen and drew a line under a word on a different paper. "One last thing. Watch the boy with the light as well as Tallis. If the Ashen Crowns want one guest for the Ball, they will want the one who shines."
 
 Eden folded the form into three, the way she did, and put it in his coat. The clock jumped twice more while he stood there, and each jump made the second hand look as if it had changed its mind. The circle on the exchange list still showed through the paper when he looked down at the desk.
+
+On the way out he passed the cup of cold tea again. The ring under it had a second ring beside it, and a third, older and fainter. She had been setting down the same cup in the same place for a long time, and drinking none of it. Eden did not know why that made him think of the king's unfinished gesture. He stopped at the door anyway and said, "Eat something, Ysolde."
+
+"Go," she said, without looking up. But the pen paused above the page for one second before it moved again.

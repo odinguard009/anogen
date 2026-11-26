@@ -22,7 +22,7 @@ The guard watched her go and then went back to counting the stones, or pretendin
 
 Eden counted to twenty as he walked down the hill, then counted again. She kept the same distance. When he stopped to look at a shop window she stopped to read a notice on the same wall. When he crossed the road she waited for a cart to pass before she crossed after him. She was not good at it, and she knew she was not good at it, which was why she had chosen a pretext instead of lying. When a tram went past with a bell, she used the noise to close four steps, and when the tram was gone she opened them again, as if that would make the closing unseen. A man selling hot chestnuts watched her do it and watched Eden watch her do it, and decided to sell his chestnuts somewhere else.
 
-At the bottom of the hill the air changed. The lower city smelled of dye and wet wool, and the canal that ran along the street had a skin of blue and grey on it that moved when no wind blew. A dog lay on a bridge with its chin on the stone and did not lift its head for either of them. Somewhere behind the walls a pump worked in short, tired strokes. A man in a grey coat stood under a striped awning with his hands in his sleeves, watching the mouth of a lane. Eden had seen the coat before, in the dining hall and in the workshop under the school. Eden counted the seconds the man stayed under the awning: forty, then fifty. The watcher wrote nothing, which meant either he had seen nothing worth writing or he had been told not to write in public. Eden hoped it was the first. He did not stop. He turned left at the canal instead, toward the laundry steps, and took Lysette two streets away from the dye works.
+At the bottom of the hill the air changed. The lower city smelled of dye and wet wool, and the canal that ran along the street had a skin of blue and grey on it that moved when no wind blew. A dog lay on a bridge with its chin on the stone and did not lift its head for either of them. Somewhere behind the walls a pump worked in short, tired strokes. A man in a grey coat stood under a striped awning with his hands in his sleeves, watching the mouth of a lane. Eden had seen the coat before, in the dining hall and in the workshop under the school. Eden counted the seconds the man stayed under the awning: forty, then fifty. The man had a limp on the left, and his boot left a mud mark on the paving that did not match the dry day. Eden filed the mark with the other one, and the two together began to look like a pattern he would have preferred to be a coincidence. The watcher wrote nothing, which meant either he had seen nothing worth writing or he had been told not to write in public. Eden hoped it was the first. He did not stop. He turned left at the canal instead, toward the laundry steps, and took Lysette two streets away from the dye works.
 
 He needed her to see ordinary things. A man who watched a lane would not follow a boy who was looking at laundry.
 
@@ -58,7 +58,7 @@ That was true enough, and she heard the truth of it and did not write anything d
 
 "There is no map at the gate."
 
-"There is a board with the wards on it." Eden pointed up the street. "I read the names."
+"There is a board with the wards on it." Eden pointed up the street. "I read the names." He did not add that he also knew where each ward ended, which alley fed which canal, and which of the bridges was too narrow for a cart. He had learned it over two winters, one night at a time, and none of it had ever been written on a board.
 
 She looked at the board, which was three streets away and turned so that nobody could read it from where they stood. "You read it from here?"
 
@@ -94,7 +94,7 @@ Eden put coins on the step. The woman took two and left the rest. "That is too m
 
 "Then it is a habit." She took the coins anyway and went inside. The children had gone back to tearing the loaf, but the smallest one stayed standing and held out a piece to Eden with great seriousness, as if he were the one who needed feeding.
 
-He took it. He did not eat it. He put it in his coat pocket and thanked the child, who went back to the step and told the others that he had done it, and the others asked him what it felt like to be thanked by a mister. The bakery woman came out with a second loaf and put it on the step without being asked, and she did not look at Eden when she did it.
+He took it. He did not eat it. He put it in his coat pocket and thanked the child, who went back to the step and told the others that he had done it, and the others asked him what it felt like to be thanked by a mister. The bakery woman came out with a second loaf and put it on the step without being asked, and she did not look at Eden when she did it. The loaf was dark and heavy, the kind that would last a week in a cold room. One of the children whispered something to the others, and all of them turned to look at the coat pocket with the piece of bread in it, as if the bread might say thank you too.
 
 Lysette stood three steps away with her book closed. "They know your name," she said.
 
@@ -108,7 +108,13 @@ Lysette stood three steps away with her book closed. "They know your name," she 
 
 "Then write that I gave it away."
 
-She did not write anything. A bell rang somewhere over the square, and the children began to be gathered up by the bakery woman with a towel over one arm and a voice that needed no help. Lysette watched her for a while, then looked at Eden with the book flat against her chest.
+She did not write anything. Instead she looked at the smallest child, who was holding the last torn piece up to the light as if it might have a picture inside. "How old is he?" she asked.
+
+"I do not know."
+
+"You come here every week and you do not know?"
+
+"They do not tell me. I do not ask." Eden watched the child set the crust down and pick it up again. "If I know their ages, I will have to know why they are here." A bell rang somewhere over the square, and the children began to be gathered up by the bakery woman with a towel over one arm and a voice that needed no help. Lysette watched her for a while, then looked at Eden with the book flat against her chest.
 
 "Is this why you come to the lower city?" she asked.
 
@@ -116,7 +122,7 @@ She did not write anything. A bell rang somewhere over the square, and the child
 
 "Then why?"
 
-"I am looking at the dye works from a distance." Eden kept his voice flat. "Ysolde asked me to. I am not going near them today. That is the whole answer."
+"I like to look at the water lanes." Eden kept his voice flat. "I do not go near the dye works. That is the whole answer."
 
 "It is a clean answer."
 

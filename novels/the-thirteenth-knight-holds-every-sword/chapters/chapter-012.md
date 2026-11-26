@@ -36,7 +36,7 @@ Eden thought about that for a moment. "Both."
 
 "I moved it."
 
-"Then you came back the next day and sat in the same place." Felix picked at the paper bag. "That was the part I chose."
+"Then you came back the next day and sat in the same place." Felix picked at the paper bag. "That was when I decided to stay. I have one question I never asked."
 
 "Which is?"
 
@@ -136,7 +136,7 @@ Eden took the bag. "I ate a bun."
 
 "I asked the prefect on the gate. The prefect asked her. It is a short chain and it takes four minutes." She wrote something and covered it with her hand. "Do not be impressed. It is procedure." She smoothed the page with the side of her hand, then checked the corner of the bag to see that it was closed. Her gloves were folded on her knee, and one of them had a faint green stain on the thumb from the roof garden.
 
-"He says a lot of things. I write down the useful ones."
+"Rowan says a lot of things. I write down the useful ones."
 
 Felix stood up with his bag and his book. "I will go and let you finish the interview." He walked two steps, then came back for the thread he had dropped on the bench. "Perrin," he said to Lysette, with a small nod, and went away around the corner.
 
@@ -150,4 +150,14 @@ Lysette's pencil stopped. "Why did he say that?"
 
 She looked at the bench, at the second bag in Eden's hand, and then at the stable wall, anywhere rather than at him. "Sit down and eat," she said. "I will write that you did."
 
-She sat at the other end of the bench, four feet from him, and opened her book. The pencil moved for a while and then stopped. Eden took the cup out of the bag. It was a white cup with a chip on the rim, the kind the kitchen used for the staff, and the tea was still warm. The wind had gone round the stable so that the smell of hay came across the yard instead of the smell of wet stone. He drank half of it before he remembered to check whether she was watching. She was writing. She had not looked at him once since she came round the corner, and the line she wrote was short enough that he could not read it from four feet away.
+She sat at the other end of the bench, four feet from him, and opened her book. The pencil moved for a while and then stopped. "Your handkerchief," she said, to the page.
+
+"It is yours to keep."
+
+"It is not. I said I would wash it." She turned a leaf. "I have washed it twice in my head. The first time the water was too hot. The second time I forgot the soap." Her ears went pink. "That is not a thing to write down."
+
+"I will not tell."
+
+"You will not need to. I have it in the book already, under the heading of things I must not do." She did not look up. "Eat your roll."
+
+He ate it. The roll was still soft, and someone had cut a small cross in the top of it, the way the kitchen did for the people it liked. Eden did not think Lysette had asked the kitchen for that. He did not think she had not. When he finished, Felix, who had stopped behind the corner and had clearly not left, said "Did you eat?" through the wall in a flat voice, and Lysette wrote down the answer without being told it. The cat on the bench stretched, walked across all three laps in turn, and settled on Eden's knee as if the matter had been decided in committee. Eden took the cup out of the bag. It was a white cup with a chip on the rim, the kind the kitchen used for the staff, and the tea was still warm. The wind had gone round the stable so that the smell of hay came across the yard instead of the smell of wet stone. He drank half of it before he remembered to check whether she was watching. She was writing. She had not looked at him once since she came round the corner, and the line she wrote was short enough that he could not read it from four feet away.

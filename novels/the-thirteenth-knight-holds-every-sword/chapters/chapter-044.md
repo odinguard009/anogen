@@ -22,7 +22,7 @@ Eden held the shield up and waited for the Tutor to tell him to move the other w
 
 Eden turned the shield over. Inside the strap a hand had rubbed the leather smooth. A stitch in the binding had been done with very small tools. He ran his thumb over the stitch and found a small raised mark under the leather, no bigger than a seed, shaped like a feather with one bar bent out of line. He stopped on it because a mark like that was not an accident and the Dragon had told him nothing about it. He waited for the Dragon to say whose hand had made it, but the voice had gone quiet the way it had gone quiet at the Wall when it was asked about a promise.
 
-In the morning the camp was dark at the third bell because the storm had taken the lamps. Okoru sent Lance Nine into the supply tunnels to check the stores under the north wall. Any Lance could have done it. He gave it to theirs because he looked at Eden when he said it. The tunnels were low and dry with a boarded roof and a rat problem, and they ran under the camp in a straight line from the kitchens to the cold store. There was no grey in them, and no Husk, and no reason for a weapon to be drawn.
+That night the camp was dark at the third bell because the storm had taken the lamps. Okoru sent Lance Nine into the supply tunnels to check the stores under the north wall. Any Lance could have done it. He gave it to theirs because he looked at Eden when he said it. The tunnels were low and dry with a boarded roof and a rat problem, and they ran under the camp in a straight line from the kitchens to the cold store. There was no grey in them, and no Husk, and no reason for a weapon to be drawn.
 
 "You are taking the bow," Okoru said, to Felix.
 
@@ -48,7 +48,7 @@ Halfway to the cold store the passage narrowed and the roof beams dropped to hea
 
 Rowan stopped. "There is someone ahead," he said.
 
-The sounds in the tunnel stopped and started again without him. A boot scuffed stone two turns ahead, then another boot, then a breath that was trying not to be a breath. Two Ashen watchers had come in from the far end and were following Rowan at a distance of six paces, the way people follow a man in a crowd when they do not want him to know he is being followed. There was no crowd here, so Rowan had known from the moment they entered the tunnel.
+The sounds in the tunnel stopped and started again without him. A boot scuffed stone two turns ahead, then another boot, then a breath that was trying not to be a breath. Two Ashen watchers had come in from the far end and were walking toward them at a careful pace, the way men walk who expect to meet no one.
 
 "Quiet," Eden said. It came out lower than he intended, and the tunnel took it away before it reached the next bend.
 
@@ -60,13 +60,17 @@ A man said something that was half a word and then stopped. Something heavy lean
 
 "Then stop telling yourself I can do it twice." Felix took a breath and let it out. "I have done it. It is done."
 
+Eden crouched by the man on the floor while Clara worked. He wore a grey coat of cheap wool with the lining cut out, and his left boot was caked to the ankle in dried mud that had a pale, chalky streak through it. It was dye-works mud, the same colour as the mud on a limping watcher Eden had seen twice before. This man did not limp. He had a short scar behind one ear and a leather pouch at his belt, which Eden opened with two fingers. It held a folded paper with a drawing of the camp on it, the kitchens marked with a small circle. No name. No seal. He put the paper back where it had been and kept the drawing in his head.
+
 Clara went to the man on the floor without being asked and put two fingers at his neck. "He is alive," she said. "He will have a headache when he wakes and no memory of the arrow."
 
 "That is enough," Okoru said, from behind them, in the low voice he used when the answer mattered. "Tie his hands. Do not kill him. We do not know who paid him."
 
-Lysette took the cord from her belt and tied the man's wrists while Rowan held the lantern cloth over the light. She tied a careful knot, then a second one, and did not look at Rowan while she did it. He watched her tie them for longer than the knots needed, and then went back to watching the dark ahead.
+Lysette took the cord from her belt and tied the man's wrists while Rowan held the lantern cloth over the light.
 
-The tunnel went on being quiet after the hit. Rowan did not look back at the man on the floor because Rowan had been followed before and had not understood it, and now he understood it and was angry in a way that had no words. Clara touched his sleeve once and he went forward again.
+The knot was a Committee knot, flat and neat, the kind she used on the corners of file bundles. She pulled it tight and checked it with one finger, as she would have checked a seal, and then wiped her hand on her coat as if the man's skin had left something on it. She tied a careful knot, then a second one, and did not look at Rowan while she did it. He watched her tie them for longer than the knots needed, and then went back to watching the dark ahead.
+
+The tunnel went on being quiet after the hit. Rowan did not look back at the man on the floor. His jaw was tight, and for once he had nothing to say. Clara touched his sleeve once and he went forward again.
 
 At the cold store the boarded roof had a gap where snow came through in fine lines. Eden put his hand on the floor to check that the boards were solid and kept it there for two breaths. The stone was warm, and the boards above it were cold, and the space between them had no reason to hold any heat at all. He knocked once on the nearest board with his glove and listened to the sound go down into the stone rather than back into the passage.
 
@@ -80,4 +84,8 @@ Felix knelt and put his hand where Eden's had been. "That is not right," he said
 
 "A Mawgate is warm before it opens." Felix said it the way a person repeats a rule they wish they did not know. "Vesk told us at the fire, and I did not sleep that night."
 
-Eden took his hand off the stone and looked down the supply tunnel behind them. The arrow had gone that way, and the two boots had stopped there. The warmth came up through the floor in a line. It ran toward the kitchens. The kitchens held bread and coal and four hundred people who were going to bed in the dark.
+Eden took his hand off the stone and looked down the supply tunnel behind them.
+
+"Okoru," he said.
+
+Okoru had already come up and put his own palm to the floor. His face did not change, but he stayed down a moment longer than a man does who is only checking. "Nobody says this word in the camp tonight," he said, getting up. "Not to the sergeant, not at the mess. We tell him in the morning, in his office, with the door shut and with a drawing. Felix, you will draw it. Exactly where the warm line runs." The arrow had gone that way, and the two boots had stopped there. The warmth came up through the floor in a line. It ran toward the kitchens. The kitchens held bread and coal and four hundred people who were going to bed in the dark.

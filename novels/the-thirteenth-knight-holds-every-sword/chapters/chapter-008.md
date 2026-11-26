@@ -16,7 +16,13 @@ Two people waited below him. Gorrath was a giant in a grey coat with a tower shi
 
 "The passage," Eden said. "Keep the door. Do not let anyone follow me out."
 
-"Yes." Gorrath shifted his shield. "I am not afraid of the dark."
+"Yes." Gorrath shifted his shield. His voice dropped. "Is it a bad place, down here?"
+
+"It is a cellar."
+
+"It does not feel like one." He looked at the walls. "It feels like a cellar that is listening."
+
+Eden did not tell him that he was right. "I am not afraid of the dark."
 
 The shield knocked once against the wall. Mirelle looked at it, then at Eden. "Ready," she said. One word, and she had used it up.
 
@@ -31,6 +37,8 @@ The shield knocked once against the wall. Mirelle looked at it, then at Eden. "R
 "Yes."
 
 "Then we do not need to stop a man. We need a pocket."
+
+He set it out for them once, plainly, so nobody had to guess: one man, one door, no kill. Gorrath would hold the passage. Mirelle would take the paper. Eden would open the way and be gone before anyone looked for a third person. Gorrath nodded at each part and moved his lips as he said it back, the way a child learns a prayer. Eden let him. A plan that a man can say twice is a plan that works.
 
 Gorrath thought about that. "A pocket does not run."
 
@@ -100,6 +108,8 @@ Gorrath shifted the shield and looked at the floor. "I am a terrible liar."
 
 "I will try again tomorrow."
 
+Mirelle, who had not said a word since "Names," wiped her blade on a cloth, looked at the two of them, and gave Gorrath a short nod. It was the longest speech Eden had ever seen her make. Gorrath saw it too, and his ears went red under his hair.
+
 Eden showed him the sheet from the clipboard. "A dead man's order."
 
 Gorrath read the name and gave it back. "That is not good."
@@ -109,6 +119,8 @@ Mirelle looked at the line under the signature. "Names," she said.
 "I know," Eden said. "That is why I came down here."
 
 Mirelle put the blade away and said nothing. Eden unfolded the paper. It was a list of names, written small: the master of the forge, two store clerks, a groundskeeper, and a girl from the exchange. One line had been crossed out. The ink on the crossed line was older than the rest.
+
+He read it twice more in the moonlight before he folded it. The hand that wrote the names was careful and even, the hand of someone who had done this for years and never once been in a hurry. The crossed-out line was shorter than the others, and the pen had pressed so hard on the strike-through that it had cut the paper. Whoever it was, they had wanted that name gone and had not wanted to forget it.
 
 * * *
 
@@ -142,11 +154,11 @@ His pencil moved across the page. "You look frozen, Mr. Wren. Would you like my 
 
 "Quite right. I am always cold myself." He put the paper aside and glanced at the window. "It is a fine night for the moon. I used to think it was a poor light to work by, but it is honest."
 
-Eden took the next step. The rail came out of his hand, and his glove left a warm mark on the stone for a moment and then it was gone. He walked into the classroom and set the folded paper on the corner of Strent's desk.
+Eden took the next step. The rail came out of his hand, and his glove left a warm mark on the stone for a moment and then it was gone. He walked into the classroom and stopped beside the desk, with the saboteur's list flat and silent inside his coat.
 
-"That was found downstairs," he said. "It is not mine."
+"The door to workshop four was off the latch," he said. "Someone should tell the porter."
 
-Strent looked at it without touching it. "Then I shall put it with the lost things."
+Strent wrote it on the corner of a paper. "Then I shall tell him in the morning. Thank you. I am sorry you had to see it."
 
 "Yes."
 

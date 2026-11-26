@@ -20,11 +20,13 @@ Eden kept his hands where the man could see them. "You are the one calling the h
 
 Eden did not answer. He watched the hook on the pole and counted the lamps again, because a thing with twelve shadows could be trusted to keep its own shape.
 
-He came forward, and the twelve shadows on the wall moved toward Eden together. Eden needed an edge, and there were twelve of them, so he put his back to the rack and let the nearest shadow fall across his own boot. One knock, and the Door opened black behind the lamplighter. The pole went into it up to the hook, and the man pulled and could not get it back.
+The lamplighter came forward, and the twelve shadows on the wall leaned toward Eden together. Eden needed an edge, and there were twelve of them, so he put his back to the rack and let the nearest shadow fall across his own boot. One knock, and the Door opened black behind the lamplighter. The pole went into it up to the hook, and the man pulled and could not get it back.
 
-He did not look surprised. He let go of the pole and reached for Eden's face with fingers that were too long. The hook came round on the swing and caught Eden's shoulder, and the shield took it on the rim, and the ache went into his elbow. One lamp was still moving above them, and Eden waited for it to stop before he moved again.
+He did not look surprised. He let go of the pole and reached for Eden's face with fingers that were too long. The hook came round on the swing and caught Eden's shoulder, and the ache went into his elbow. One lamp was still moving above them, and Eden waited for it to stop before he moved again.
 
 Eden drew **[Exa]** from his shadow and caught the fingers on the iron ring, and the cold went up his arm when they closed on nothing but air.
+
+The lance shortened under his hand as the ring knocked, and the black shield opened on his forearm, small and round and quiet. The fingers closed on its edge and slid. They were colder than the stair and wetter than the rain, and where they touched the iron a thin frost grew and cracked. Eden stepped back with the shield between them and let the Veil lean after him, because a thing that leans has already decided where its weight goes.
 
 "Say his middle name," Eden said.
 
@@ -47,6 +49,12 @@ There was no blood on the floor, only dust, and the stolen face lay flat with it
 "Do not go to breakfast like that." Vesk stepped back into the shadow. "You are faster when it is nearly morning. I do not know why."
 
 "Neither do I."
+
+Vesk stayed a moment longer. His yellow eyes went up the stair to where the lamps had gone out one by one, and he said, quietly, "It spoke about your mother."
+
+"They all do."
+
+"Not all of them know the lamp by the door." Vesk did not say anything else. He had a way of putting a thing on the ground between them and leaving it there, and Eden stepped round it as he always did, carefully, as if it might wake.
 
 * * *
 
@@ -104,11 +112,17 @@ Eden looked at it too. "What is that?"
 
 "Write it down."
 
-"I already did."
+"I already did." Okoru gave a small grunt that might have been approval. "You write faster than the sergeant," he said. "He has been here an hour and written four words."
+
+"Which four?"
+
+"Dead man. Lamp-house. Sad."
+
+"He is not wrong," Lysette said, and for the first time that morning her mouth nearly moved.
 
 He looked at the pale shape for a moment longer than the prefect had, then led the students out into the stair.
 
-Eden stayed at the door with his hand on the pole he had brought back. He counted the students going down the stair: eleven, and two prefects. The lamp-house had twelve lamps and there had been only one lamplighter, and nobody in the stair seemed to think that was strange.
+Eden stayed at the door with his hand on the pole he had brought back. He counted the students going down the stair: eleven, and two prefects. Every one of them looked at their shoes. Not one of them looked up at the lamps.
 
 Lysette came out last and stood beside him without looking at him, the way she had at the stables. She put the pencil in her book and shut it, and she did not ask why he was standing at the scene of a Vigil kill. Below them the students were being sent back to breakfast, and one of them was still crying.
 

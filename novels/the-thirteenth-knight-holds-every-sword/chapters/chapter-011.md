@@ -66,6 +66,8 @@ A whistle went once from the gallery. "Two minutes," Okoru called. "You are talk
 
 She put a hand on the wall and closed her eyes. Witness came as ghost-light in the air behind her, faint as moonlight on water: a figure in a dark coat pushing the wall from the far side, then the wall sliding into place. The replay showed where the hand had been and how far the stone had travelled. It needed a still place and a quiet moment, and while it lasted she could not move.
 
+Eden stood at her back for those few breaths without being asked. He faced the dark passage with his shield low and counted what might come out of it: one breath, two, six. Nothing came. He noticed that he was standing exactly where he would have stood on a Vigil, with his weight on his front foot, and he shifted it back until he looked like a boy who was only waiting. Lysette opened her eyes, glanced once at where he stood, and wrote something short in her book.
+
 "Two hands," she said. "One at the top, one at the bottom. Push from the east."
 
 Rowan and Eden pushed together, and the wall slid aside with a grind that made Clara wince. Beyond it the passage turned left and then left again.
@@ -103,6 +105,8 @@ Clara put a hand on Rowan's sleeve. "You took a knock."
 "It is nothing."
 
 "It was a knock." She let go, and when Rowan had moved on she sat down for two steps before she stood again. "Keep going."
+
+Eden saw her do it. He saw Lysette see it too, and saw Lysette decide, with a small tightening of her jaw, to say nothing in front of Rowan. It was the second time in a week that the two of them had hidden the same thing from the same boy. Neither of them looked at the other.
 
 "You are pale," Lysette said.
 
@@ -144,7 +148,15 @@ Eden's hand had been on the bell rope since they came through the door. His fing
 
 "I will take it."
 
-Rowan stared at the board. "Third? Lance One did nine."
+Rowan stared at the board. "Third? Lance One did nine." He read the column twice with his lips moving, and his face did the thing it did when he was trying to be a good loser and was not yet sure how. "I was loud," he said. "Was I loud?"
+
+"You were loud," Lysette said.
+
+"Was it bad?"
+
+"It was useful. Twice."
+
+Rowan took that as a prize and held it for the rest of the afternoon.
 
 "Lance One did nine," Okoru said. "You did eleven and you brought everyone through. That is third and it is not nothing."
 

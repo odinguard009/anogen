@@ -32,6 +32,8 @@ Okoru tapped the sheet with his stick. "Lance Nine. Clara, Rowan, Lysette, Felix
 
 "It is the best sum I can make," Okoru said. "You fight at the back. Hollen keeps you alive. Tallis hits hard. Belmont knows when to stop. Wren reads the ground." He looked at the crowd. "I am not building a comfortable Lance. I am building one that can stand."
 
+He handed each of them a small card with a duty roster on it. Eden's card had his name, a gate number, and four lines in Okoru's hand. Two were for the Wall in midwinter. The other two said only that he should keep close to Hollen. Eden read the last line twice. Nobody had ever written that on a card for him, and he could not tell if it was an order or a kindness. With Okoru those were the same thing.
+
 Rowan slapped the board with his hand. "We can stand."
 
 "You fell over in the maze," Lysette said.
@@ -40,11 +42,11 @@ Rowan slapped the board with his hand. "We can stand."
 
 "Twice, and the second time you knocked a wall down."
 
-"That was the wall's fault." Rowan turned to the crowd and found three people from other Lances looking at him, so he raised his chin. "It was a heavy wall."
+"That was the wall's fault." Rowan turned to the crowd and found three people from other squads looking at him, so he raised his chin. "It was a heavy wall."
 
 "Tallis," Okoru said, and Rowan's chin went down.
 
-"In one hour the Lances go to the chapel for the blessing. Hollen."
+"In one hour every Lance goes to the chapel for the blessing. Hollen."
 
 "Sir."
 
@@ -134,15 +136,15 @@ Clara looked, and the flower looked back at her, open and pale. She put her hand
 
 "My sister, and she said it about a field." Clara took her hand away. "She was joking."
 
-"No," Eden said. "You sit down."
+"No," Eden said. "It happened when you sat down. I watched it."
 
 Clara's mouth moved and she did not answer. Lysette leaned across Eden to look at the pot. "Are the others doing it?"
 
 "Only the ones near me," Clara said. "It has been happening for years, and I don't do anything."
 
-"I have seen that field," Eden said. "It was near your home."
+"Then it was not a joke," Eden said.
 
-"Then you have seen more than I have." She picked up her bag. "Do not tell Rowan."
+"Then it is not anything. Nobody will tell me what it is." She picked up her bag. "Do not tell Rowan."
 
 Eden said nothing, and Lysette leaned back with her book on her knee and looked at the fresco instead of the flowers. She held out a paper slip. "Your exemption says rest. It does not say where."
 
@@ -180,6 +182,8 @@ The stores office sat behind the kitchens, with a counter of scarred wood and a 
 
 The clerk turned pages and found the year at the back. "Construct stores. Here. If you want the core line, it is near the back."
 
+The room smelled of ink and old paper, and a small stove ticked in the corner. A cat slept on top of the ledgers, and the clerk moved it with one hand the way people move a loaf of bread. Eden noticed the counter was clean except for one clear circle in the dust, the size of a cup, where someone had set down a hot mug and a book at the same time.
+
 "The order for the core," Eden said.
 
 "Same thing." She turned the book around so he could read it. "They keep asking for this one. It is a poor system."
@@ -194,7 +198,7 @@ The clerk turned pages and found the year at the back. "Construct stores. Here. 
 
 Eden read down the column of dates and names. Most lines were short: one plate, two straps, a box of brass pins. The prices were written small and neat, and the signatures were not. Then he found the line for a drill core, with a price in the next column and a wide, careful hand at the end.
 
-"Who is Master Sorn?" Eden asked.
+"Who is Sorn?" Eden asked.
 
 The clerk looked at the name, then at the date beside it. "A master of the forge. He made the gate plates before they changed the design."
 
@@ -207,3 +211,5 @@ Eden kept his finger on the line and said, "The date is after winter." He copied
 The clerk leaned in, and her ink-stained cuff touched the book. "So it is."
 
 She turned away to put the book back on the shelf, and Eden read the date once more before she did. The order for the new core had been signed in the first week of November, by a man who had been dead for a year.
+
+He thanked the clerk and walked out through the kitchen yard. The cooks were hauling sacks of flour in from a cart, and nobody looked at him. At the gate he stopped and read the line a third time from memory, number by number, so he would not have to take the book out again. Then he wrote one short word on the back of Form 13-B, under the date: Sorn. He drew a line under it, and then, because it did not feel like enough, a second line.

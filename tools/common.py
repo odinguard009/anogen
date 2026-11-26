@@ -41,7 +41,7 @@ def _resolve():
 DEFAULTS = {
     "title": "Untitled Serial",
     "author": "Anogen",
-    "chapter_words_min": "1800",
+    "chapter_words_min": "2000",
     "chapter_words_max": "2500",
     "context_pack_max_chars": "40000",
     "repeat_window": "5",

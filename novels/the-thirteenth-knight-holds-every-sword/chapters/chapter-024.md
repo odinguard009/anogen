@@ -2,6 +2,8 @@
 
 The roof above the glass atrium had a low iron rail and a view down into the dance through two panels of cloudy glass. The glass had been cleaned that morning and then clouded again by the breath of four hundred people below, so the dancers moved like figures seen through a mist. The iron rail was cold enough that Eden had put his gloves back on, and a fold of his coat had frozen to the stone where he lay. Eden lay on his coat with his chin on his arm and watched the lanterns move below him like a second, slower crowd. The band played in the north corner, and the sound came up through the glass thin enough that he could count the beats of the drum without listening.
 
+A waiter went by below with a tray of glasses and stopped to straighten one, then another, as if the lamps might judge him. Eden watched the man for the length of three beats and marked that he came from the east door each time and never once looked up.
+
 He had not gone down into the hall. Ysolde had told him not to attend, and the roof was not the hall, and the distinction was the kind that mattered to him.
 
 A door opened on the roof stair. Lysette came out in a dark blue gown with a white collar, and her long white hair was pinned up with the thin braid laid across the top like a crown. One strand had come loose at her forehead and she had not pushed it back. She stood in the doorway for a breath with her hands closed at her sides, then walked to the rail two steps from him and looked down through the glass.
@@ -14,7 +16,7 @@ A door opened on the roof stair. Lysette came out in a dark blue gown with a whi
 
 "Yes."
 
-She sat down on the iron rail with her gown held away from the stone, the way a person sits on a thing they do not want to stain. The band below stopped for one bar, and in the gap a girl laughed somewhere in the hall, and then the violins started again.
+She sat down on the iron rail with her gown held away from the stone, the blue silk pooling at her feet, and for a moment Eden thought she looked like a person who had been dressed by someone else for a part she had not wanted. She had polished her shoes. Somebody, he thought, must have told her that a Committee vice-chair attends a Ball in polished shoes, and she had obeyed, even now. The band below stopped for one bar, and in the gap a girl laughed somewhere in the hall, and then the violins started again.
 
 "I promised myself I would not cry," Lysette said. "I have kept that promise for an hour and ten minutes."
 
@@ -24,17 +26,13 @@ She sat down on the iron rail with her gown held away from the stone, the way a 
 
 "No."
 
-Her mouth moved at that, almost a smile, and then it did not. She looked through the glass at the dance floor, and her hands went still on the rail. "Did they light?" she asked.
-
-"The lanterns?"
+Her mouth moved at that, almost a smile, and then it did not. She looked through the glass at the dance floor, and her hands went still on the rail. "Did they light?" she asked. "The lanterns."
 
 "Yes."
 
-"Yes."
+"All of them. From the first bell." She wiped one cheek with the back of her wrist and was careful not to touch her face where the powder might come off. "You asked me that once about Rowan's lantern. I have been waiting to ask it back."
 
-"From the first bell," she said. "They hung them at dawn. I saw the men on ladders." She wiped one cheek with the back of her wrist and was careful not to touch her face where the powder might come off. "I wanted to see if you knew that."
-
-"I know now."
+"Yes. They lit."
 
 "Then that is something." The band below began a fast tune, and two prefects moved through the crowd carrying trays of cups, and a girl in a yellow dress turned in a circle by herself until a boy laughed and took her hand. Lysette watched all of it through the glass. "Why are you up here?"
 
@@ -48,7 +46,7 @@ Her mouth moved at that, almost a smile, and then it did not. She looked through
 
 "Yes."
 
-"No." She put her hands flat on the rail. "Not tonight."
+She opened her mouth, shut it, and put her hands flat on the rail. "No. Not tonight."
 
 The band stopped for a second time and the room below clapped. Lysette did not ask the lantern question again. She turned her head and looked along the roof rather than at him, which was how she said the next part. "Everyone is down there. The Committee is down there, and I am up here, and I am not sure which of those is worse."
 
@@ -74,9 +72,11 @@ The Door opened in the chandelier's shadow where it lay across the roof glass: a
 
 His left arm went cold to the elbow and stayed there. He flexed the fingers twice and counted the beats of his breath until the feeling came back.
 
-Seraphine looked up at the empty space where it had been. Her hand stopped shaking, and she put the other hand over it, and said something to Felix that the roof could not hear.
+Seraphine looked up at the empty space where it had been. Felix had her by the elbow and was pulling her back from the north table with the stiff care of a boy who had never touched anyone in his life and had decided that tonight he would learn. He did not say a word. His book was not in his hand, and Eden realised he had never seen Felix without it. Her hand stopped shaking, and she put the other hand over it, and said something to Felix that the roof could not hear.
 
 A shout came from the west gallery. Eden kept his eye on the hall through the glass. Men in dark coats had come out of the gallery stairs with black cards held in their hands, and the cards had broken crowns pressed into the paper. They did not run. They walked to the edges of the room and stood there with their hands at their sides, and seven more came through the kitchen door behind the two work lamps.
+
+From his place on the roof Eden counted them again, because the first count had been too fast. Fourteen. Two at each door, three in the gallery, and the rest spread through the crowd so evenly that they had plainly walked the floor before tonight. They carried no banner and wore no mask. That was the cruelty of it. Anyone in the hall could have seen those faces at a market or a ferry or a chapel door, and none of them would have been remembered.
 
 The cards were black and soft at the edges, and each one had a broken crown drawn in ash on the front, the same mark Eden had kept in his book since the lunch line in November. The men held them out like invitations, and the students nearest them took a step back without being told, because everyone in the school had heard what the Ashen Crowns were and nobody had expected to see one in a ballroom.
 
@@ -96,9 +96,11 @@ Lysette was on her feet at the rail with both hands on the iron. "The Ashen Crow
 
 "No."
 
-"Then why is her hand shaking?"
+"Then why is her hand shaking?" Lysette asked.
 
-"It was shaking before." Lysette looked at him once, hard, through the clouded glass. "You knew the chandelier would fall."
+"It was shaking before."
+
+Lysette looked at him once, hard, through the clouded glass. "You knew the chandelier would fall."
 
 "I knew where its shadow was."
 

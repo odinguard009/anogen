@@ -305,6 +305,9 @@ def phase_two_tests():
         c, o = run(root, "verify_batch.py", "1-2")
         check("verify_batch flags missing chapter, summary, scores", c == 1 and "ch 2: file missing" in o and "no summary" in o and "scores.csv" in o, o)
         c, o = run(root, "check_chapter.py", "chapters/chapter-001.md", "--strict")
+        check("dialogue below 25% is a warning only, not an issue", "WARNING dialogue share" in o and "below 25%" not in o.split("ISSUE")[-1] if "ISSUE" in o else "WARNING dialogue share" in o, o)
+        (root / "chapters/chapter-001.md").write_text("# Chapter 1: T\n\nShort.\n", encoding="utf-8")
+        c, o = run(root, "check_chapter.py", "chapters/chapter-001.md", "--strict")
         check("check_chapter --strict exits 1 on issues", c == 1 and "ISSUE" in o, o)
     finally:
         shutil.rmtree(root, ignore_errors=True)

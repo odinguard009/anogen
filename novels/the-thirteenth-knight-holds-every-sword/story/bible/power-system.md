@@ -181,7 +181,7 @@ The registry cannot read beings it did not birth. Eden sees the Pillars' roles o
 - A signature attack is a person's rare, decisive move. One per person at first; more unlock later for a story reason (a test, a loan, a new stage).
 - Ordinary technique (named forms such as Latch, Hinge, Draught, Doorstop, Doorstep) can carry the label on its first use and when it decides a fight.
 - LABEL FORMAT (owner order 2026-11-26, replaces the old "once, max 2" rule): every NAMED weapon, ability, technique, signature or ultimate move, job and class is written **[Name]** in bold with square brackets, EVERY time it is named in narration or in an on-page reading, not only the first time. Examples: **[Inead]**, **[Exa]**, **[Lintel]**, **[Witness]**, **[Black Lancer]**, **[Knight]**, **[Unbind: Evrin]**. Nameless things stay plain ("a sword", "a spell").
-- IN SPOKEN DIALOGUE the name is plain, with no brackets or bold (people do not speak punctuation): "Draw Inead," not "Draw **[Inead]**". If a character shouts a move as a call, still plain. Proposal to the owner: confirm this reading or ask for brackets in dialogue too.
+- IN SPOKEN DIALOGUE the name is ALSO **[Name]** (owner order 2026-11-26: "benar"): "Draw **[Inead]**," she said. Ordinary nouns ("a knight") stay plain.
 - The class/job reading that appears in Eden's head is the bold bracket too: **[Knight]**, **[Black Lancer]**. The old italic reading is retired.
 - The first use gets the first-use description in the SAME scene (look, body, effect, limit). Later uses: the label plus one fresh detail. The label never replaces description.
 - Budget: a chapter uses at most 6 different labelled names; the same name may repeat. A new name each chapter, at most 2 (first-use rule in first-use.md).

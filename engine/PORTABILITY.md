@@ -26,3 +26,10 @@ The repo is self-contained: instructions (AGENTS.md), settings (engine/models.js
 2. Read ops/blocked.md and ops/decisions.md.
 3. Run one batch; compare chapter quality with the previous chapters (style: story/style/profile.md LEVEL).
 4. If quality drops, tell the owner which role is weak (do not silently change locked settings).
+
+## Entry files, capabilities and self-check (owner order 2026-11-26: any AI can be the brain)
+- Entry files: AGENTS.md (read natively by Codex and most agents), CLAUDE.md (Claude Code), GEMINI.md (Gemini CLI). All three only point to AGENTS.md. For a chat AI with no file access, paste the "First message" above and give it the repo files (it needs a host that can read, write and run commands; without that it cannot run Anogen).
+- Capabilities the host maps by function, never by product name: (a) run a shell command; (b) read/write files; (c) git commit and push; (d) publish the reading page (any page tool; if none, leave out/reading-page.html in the repo and tell the owner); (e) send a file (if none, say its path in out/); (f) an advisor or reviewer consult, optional (AGENTS.md, Advisor consult); (g) a scheduler, optional and only on "hidupkan jadwal".
+- Style, POV, labels and dates live in the novel's files (story/style/profile.md, story/bible/calendar.md), not in any vendor setting. Where an instruction is not clear, pick the default, log it in ops/decisions.md, continue (sop.md section 1).
+- Self-check before the first chapter: `python3 tools/test_tools.py` (expect ALL TESTS PASSED), `python3 tools/policy_check.py` (expect POLICY: OK), `python3 tools/engine_state.py next` (read the hold), `python3 tools/context_pack.py --part static --peek` (expect no TRUNCATED line). If one fails, fix or report it before writing.
+- Never edit chapters, canon or locked settings from memory of a previous AI's chat: the repo is the only memory. At the end of every session: `python3 tools/save.py "..."` so the next AI sees everything.

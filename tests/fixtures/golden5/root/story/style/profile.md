@@ -23,7 +23,7 @@ Why: chapters 3-4 were still hard to follow although sentences averaged only 7 w
 7. PICTURE RULE (description): every scene opens with 2-3 short sentences: where, what time, what the light looks like, one sound or smell, who is there. Every named person gets 2 visible traits on first appearance (face, hair, clothes, size) and one way of moving or talking. In long scenes, say again where people stand. Monsters get size, color and shape compared to a thing everyone knows ("as tall as a door", "like a big dog"), never "too many elbows" alone.
 8. FIGHT PICTURE: before the action starts, say where each person stands, how far apart (in steps), and what is around (wall, stairs, barrels). Then one clear move per sentence. If it is too dark to see, say how the hero knows what happens (sound, touch, light from a match).
 9. SAY THE PLAN: when the hero does something clever, one plain sentence says what he wants and why, before or right after ("I needed light. Light makes edges. Edges make doors.").
-10. Keep chapter length 1800-2500 words; description replaces side details, not story events.
+10. Keep chapter length 2000-2500 words; description replaces side details, not story events.
 
 ## SCENE FEEL AND ARMOR (owner's order 2026-11-25; permanent; same priority as CLARITY AND PICTURE)
 SCENE FEEL (mood):

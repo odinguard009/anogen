@@ -28,7 +28,7 @@ If `engine_state.py next` reports `hold: true` (or ops/blocked.md starts with a 
 - Owner idea ("ide: ..."): `inbox.py add`, one-line confirmation, it is developed at the next planning.
 - Agent report says "short chapter", "quiet ending", "debt dropped from cap": log in ops/decisions.md; the next critic/audit handles it. No question to the owner.
 - The critic runs once per 10 chapters (owner order 2026-11-25); never skip it silently. If quota is short, run the critic first and the writer later.
-- Readability targets (checker values): average sentence 8-13 words, dialogue 25-35% in normal chapters, words 1800-2500.
+- Readability targets (checker values): average sentence 8-13 words, dialogue 25-35% in normal chapters, words 2000-2500.
 - Quota hit or agent died: `batch-stop --reason`, commit what exists, report; resume later with "lanjutkan".
 
 ## 4. STOP list (the only reasons to ask the owner)

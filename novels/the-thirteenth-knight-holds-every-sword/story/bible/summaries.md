@@ -74,3 +74,6 @@ Back on the roof after the Ball siege, Lysette asks Eden whether he was up there
 
 ## Ch 27 - The Year on the Page
 The steam press prints a paper blaming the Vigil for lawlessness at the Ball. Lysette folds it away when she reaches a Seal notice about the Hollen affair of PR 110; Eden reads the year twice and records a cold stomach and a pulse count without saying anything. Finals keep him at eight, and the board gives his first on-page reading, **[Knight]** and **[Black Lancer]**. Valerius walks past without a word. On the roof Lysette opens the locket to show him a young man's face, and Eden looks at the apple tree for eleven seconds. A Seal inquiry into the Ball night's unknown knight is posted.
+
+## Ch 28 - The House at Seven
+Eden and Felix take the veinline train to Silverfell, where the Argentine household is loud and the Duke pulls them both into dinner. Bandits on the carriage road are dealt with over soup and fish: a pistol misfires twice near Bertram and he takes it away politely, with no one hurt. Bertram's boots were muddy at dawn; the Duke nearly says "your mother had w-" before Greta's ladle strikes a dish; and a bell rings once by itself when the Duke laughs. Felix asks which of the family's noise and Eden's quiet is the act.

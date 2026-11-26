@@ -40,3 +40,7 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [open] Ball plan names Rowan and Seraphine as guests to collect, with the wrong night (Friday not Saturday) | planted: ch 23 | due: 24-26
 
 - [paid ch 25] Ilsabet Rorke beaten and spared, not killed | planted: 25 | due: 25, 50
+
+- [open] Bertram's boots muddy at dawn; he went out before the family woke | planted: ch 28 | due: 163
+- [open] A bell rings once when the Duke laughs, without a hand on it | planted: ch 28 | due: 251
+- [open] Duke nearly says "your mother had w-" and Greta drops the ladle | planted: ch 28 | due: 163, 175

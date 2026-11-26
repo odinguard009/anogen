@@ -140,3 +140,14 @@
 - REVIEW ch 27: PASS. check_chapter OK (1800 words, mean 12.6, dialogue 27%). C1 E stays evidence, not confirmation: the year is read twice, the body reports cold and pulse, and no one says what it means.
 - First on-page reading **[Knight]** / **[Black Lancer]** delivered once and registered in first-use.md; no job/class label elsewhere in the chapter.
 - Continuity: locket first opened after ch 21; handkerchief already washed in ch 26; rank eight kept; Valerius's silence follows the duel hook in ch 17.
+
+### 2026-11-26 06:56 UTC (13:56 WIB) - tulis bab berikutnya - chapter 28 - ok
+- words: 1808
+- scores: tension 2, surprise 4, emotion 4, battle_clarity -, voice 4, freshness 4
+- notes: Silverfell comedy; bandits; bell hint; muddy boots and mother-line planted.
+- quota_note: 
+
+### self-review ch 28 - HIGH risk, same session, not independent
+- REVIEW ch 28: PASS. check_chapter OK (1808 words, mean 11.3, dialogue 42%). Epigraph from outline/epigraphs.md. Read twice; no Unbind occurs, only a bell ringing once when the Duke laughs, and the pistol misfires twice without deciding a fight.
+- New terms kept to two (veinline, vein-steel) and each explained in plain words. Household first appearances have traits and habits; no new canon names beyond existing characters.
+- Plants recorded in debts.md: muddy boots, broken mother-line, bell hint. The Duke's line is cut off by the ladle and never completed.

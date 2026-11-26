@@ -51,3 +51,6 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 
 - [open] Strent's academy letter asks after "the boy's late mother" though the Wren file lists none | planted: ch 30 | due: 40, 99, 185
 - [open] Bandit orders use a gate-with-one-post mark and say not to hurt the boy; someone knew the carriage road | planted: ch 28, 30 | due: 40, 163
+
+- [open] Camp groundskeeper hums four notes wrong at the top; runs stores, knows the tall boy's name | planted: ch 31 | due: 41, 43, 45
+- [open] Old soldier: "The ground's cold here. Like she turned her back." | planted: ch 31 | due: 175

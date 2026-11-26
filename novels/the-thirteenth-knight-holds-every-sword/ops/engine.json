@@ -13,12 +13,12 @@
     "target": 0,
     "arc": 1,
     "max": 5,
-    "start_chapter": 26,
+    "start_chapter": 31,
     "status": "running",
     "stop_reason": ""
   },
   "critic_through": 30,
-  "audit_through": 20,
+  "audit_through": 30,
   "reviewed": {
     "1": "2e932f4856acd49e",
     "2": "c4daa6f9065d72f0",

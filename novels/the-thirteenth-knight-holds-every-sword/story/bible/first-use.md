@@ -65,3 +65,7 @@ Note: Witness first use moved from planned ch 13 to ch 11 because the outline's 
 - Ilsabet's [Hrak] | Ilsabet Rorke | ch 25 | yes (grafted right arm swells grey from shoulder to fist and swings like a club; frost-white lines under the skin) | yes (each use spreads the grey farther up her neck; Eden cuts the wrist and she is spared)
 
 - Class/job reading on the finals board | Eden | ch 27 | yes (the register line under his name: **[Knight]**, **[Black Lancer]**, read once from the board) | n/a (registered reading, one on-page line; never higher than eight on the Ladder)
+
+- Aura as a wall knight's will | Wall sergeant and plated man | ch 31 | yes (air goes thick near the raised arm, snow flattens, nearby people step back; a pistol ball slides off Ward-plate) | no limit shown yet
+- Mana-lock musket / pistol | Wall sergeant | ch 31 | yes (long gun with a glass tube holding a small spell, brass ring at the breech, mana line; quicker than powder, works in rain) | yes (balls stop in grey flesh; does not finish a Husk)
+- Ward-plate | Wall sergeant | ch 31 | yes (broad steel plate with a worn dent; ball slides off when aura is raised) | yes (heavy; useless if the wearer cannot move in it)

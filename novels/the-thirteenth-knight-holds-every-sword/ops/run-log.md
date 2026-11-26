@@ -62,4 +62,15 @@
 
 ### 2026-11-26 07:09 UTC (14:09 WIB) - audit - ok
 - notes: Audit through ch 30 (new draft): 3 proposals on word floor, quiet pacing, repeated reaction beats.
+- quota_note:
+
+### 2026-11-26 07:14 UTC (14:14 WIB) - tulis bab berikutnya - chapter 31 - ok
+- words: 1801
+- scores: tension 4, surprise 3, emotion 4, battle_clarity 4, voice 4, freshness 4
+- notes: Wall Rotation begins; aura, mana-lock, Ward-plate first uses; groundskeeper and birds planted.
 - quota_note: 
+
+### self-review ch 31 - LOW risk, same session, not independent
+- REVIEW ch 31: PASS. check_chapter OK (1801 words, mean 11.5, dialogue 41%). Three world terms (mana-lock, Ward-plate, aura) explained plainly in the sergeant's demonstration; no named attacks used.
+- The circle watches veterans handle a real threat; nobody shows off and the Husk probe is finished by soldiers, per the outline. No chase.
+- Plants recorded: groundskeeper's wrong humming and the old soldier's "turned her back" line. Bird silence delivered as the exact hook.

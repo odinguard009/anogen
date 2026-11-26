@@ -31,3 +31,6 @@ Felix presses Eden for the truth about his quietness and gets a half-truth he ca
 
 ## Ch 30 - The Boy's Late Mother
 With the boys gone, the Duke studies the bandits' orders and notices they were paid by someone who knew his carriage road. An academy letter signed by Halvard Strent has a wrong total and asks after "the boy's late mother", though the Wren file lists none. He takes Sevar's helm into the chapel for an hour of humming and says nothing about what happens inside. At the door he asks Bertram for a horse and tells him not to put it in a ballad.
+
+## Ch 31 - The Cold Here
+Lance Nine arrives on the Southern Wall as its own unit for the Winter Rotation. A Wall sergeant shows why a mana-lock musket and Ward-plate are not enough against Huskborn: balls stop in grey flesh, and a blade needs an arm and aura behind it. When a Husk probes the wall, real soldiers finish it in two cuts. A kind camp groundskeeper hums out of tune, an old soldier says the ground is cold "like she turned her back", and at the third watch every bird leaves the battlement at once.

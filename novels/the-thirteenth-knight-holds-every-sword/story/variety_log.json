@@ -375,5 +375,18 @@
       "pacing_shape": "slow questions, one long silence",
       "hook_type": "a horse asked for without a reason"
     }
+  },
+  {
+    "chapter": 31,
+    "picks": {
+      "opening_type": "brown snow and dust on the teeth",
+      "scene_shape": "arrival, lesson, probe, birds",
+      "tension_type": "a different kind of war",
+      "emotional_tone": "cold and watchful",
+      "comic_device": "Felix comparing a bunk to a stable bench",
+      "conflict_type": "a Husk probe handled by veterans",
+      "pacing_shape": "quiet lesson, short fight, one silent flight",
+      "hook_type": "all the birds leave together"
+    }
   }
 ]

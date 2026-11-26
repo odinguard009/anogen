@@ -258,5 +258,18 @@
       "pacing_shape": "busy morning, long still evening",
       "hook_type": "a decision said as a joke"
     }
+  },
+  {
+    "chapter": 22,
+    "picks": {
+      "opening_type": "a borrowed shadow carried like a coat",
+      "scene_shape": "lane briefing then three-room cellar",
+      "tension_type": "children in the next room",
+      "emotional_tone": "cold and exact",
+      "comic_device": "a dead man's voice giving drill orders",
+      "conflict_type": "armed cell cleared one leader at a time",
+      "pacing_shape": "slow entry, three clean beats, one last line",
+      "hook_type": "an enemy already ahead of the hero"
+    }
   }
 ]

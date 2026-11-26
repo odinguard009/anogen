@@ -55,3 +55,6 @@ Note: Witness first use moved from planned ch 13 to ch 11 because the outline's 
 - Eden's [Hinge] | Eden | ch 16 | yes (pivot on the front foot like a door on its iron; charge passes where he stood, lance butt into the joint behind the knee) | yes (needs the enemy to commit; leaves the front foot numb for one step)
 
 - Lysette's silver locket | Lysette | ch 21 | yes (small silver oval on a thin chain, shut, hairline scratch, one mended link; worn under the collar one day a year; she closes her hand over it when the Black Thirteen is named) | yes (stays shut; first opened ch 27)
+
+- Vesk's [Mott] | Vesk | ch 22 | yes (a dead Ember's shadow worn like a coat; Vesk's coat and eyes take the dead man's colour, his voice the dead man's voice) | yes (breaks if the real man speaks or the body is found; Vesk cannot laugh in it)
+- Eden's [Draught] | Eden | ch 22 | yes ([Exa]'s point put through the exact narrow gap between collar and jaw, and between glove and wrist) | yes (one exact opening; stops a point at the throat)

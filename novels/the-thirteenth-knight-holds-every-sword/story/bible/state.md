@@ -157,3 +157,9 @@
 - Invitation week: Seraphine asked Eden "as a joke, mostly"; he said no quickly. The cream envelope had a broken-crown seal cracked at one point; he kept the envelope but did not use it as a bookmark (the Ashen card is). Lysette wrote Seraphine up for a crooked collar and did not know why; Felix counted four seconds of looking.
 - Roof: Lysette has no partner. She took out the silver locket for the year: shut, hairline scratch, mended link, and she closed her hand over it when an office clerk mentioned the Black Thirteen. C1/C2 D rung delivered in her words: her brother came home from court in autumn, stood at the edge of the hall, could not dance, and stopped coming; mother wrote that House Hollen would act as if it were not. Eden gave no useful answer and stayed until she was done. No name spoken, no locket opened, no confirm.
 - Hook: she decided to go "to prove I don't care", then invited Eden "as a joke, mostly".
+
+## Tue 8 Dec, night (ch 22)
+- Vigil at the lower-city dye-works. Vesk wore a dead Ember's shadow with **[Mott]**, gave the four Cinder children false drill orders and sent them up the lane unseen. The plan stated in one line: children out, leaders one at a time, room wiped.
+- Eden ended three cell leaders with **[Draught]** through the collar/jaw and glove/wrist gaps. A dying Ember showed grey veins in his neck; the smell matched the dust in the exchange and the construct core. Eden now knows the smell of Veil dust but does not know what the veins mean and does not ask a dying man for proof.
+- Bodies laid behind the barrels, scales and door bar wiped, high window opened two fingers and shut again; the children's crust of bread put on the table. Vesk: "You found the smell... I did not know."
+- Hook: the last Ember, with blood in his throat: "You're late. The Crown already has the hall." Ball plan is already in motion.

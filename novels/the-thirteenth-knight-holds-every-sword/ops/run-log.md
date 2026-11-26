@@ -74,3 +74,14 @@
 - REVIEW ch 21: PASS. check_chapter OK (1803 words, mean 11.8, dialogue 48%). No confirm rung: the locket stays shut and the brother is never named; no locket decoded.
 - C1/C2 D delivered by Lysette's words as the outline demands; Eden gives no useful answer and stays. Locket first use described in scene and ledger.
 - Continuity: her cut arm from ch 4 is beneath the cuff; the Ashen card from ch 7 is still the bookmark; she decided to attend the Ball from this chapter onward.
+
+### 2026-11-26 06:25 UTC (13:25 WIB) - tulis bab berikutnya - chapter 22 - ok
+- words: 1800
+- scores: tension 4, surprise 4, emotion 4, battle_clarity 4, voice 4, freshness 4
+- notes: First [Mott] and [Draught]; grey veins and dust smell planted; Crown has the hall.
+- quota_note: 
+
+### self-review ch 22 - MEDIUM risk, same session, not independent
+- REVIEW ch 22: PASS. check_chapter OK (1800 words, mean 12.8, dialogue 34%). First uses of [Mott] and [Draught] have look, body use, effect and limit in scene and ledger.
+- No kill without confirmation: the grey line is seen before the first cut; the third man's grey veins are seen before the last. The Cinders are sent out unseen and unhurt; no crowd or chase.
+- Grey veins and the dust smell are plants only (due 90-95); no explanation of grafts given by Eden or by a dying man. Hook is the outline's exact line.

@@ -56,3 +56,6 @@ At the war council Valerius hears ministers whisper of a hidden "Void Host" and 
 
 ## Ch 21 - The Locket
 Seraphine invites Eden to the Ball as a joke and he refuses quickly. Lysette writes her up for a crooked collar and cannot say why. On the roof Lysette admits she has no partner and takes out her silver locket, shut, worn once a year; she closes her hand over it when the Black Thirteen is mentioned. She tells Eden that her brother came home from court and could not dance, and that her mother wrote that House Hollen would act as if it were not. Eden says nothing useful and stays until she is done. She decides to go to the Ball "to prove I don't care."
+
+## Ch 22 - The Smell of the Dust
+Eden and Vesk enter the lower-city dye-works. Vesk uses **[Mott]** to wear a dead Ember's shadow and sends the four Cinder children out on a false drill order. Eden ends the three cell leaders one at a time with **[Draught]**, then wipes the room. A dying Ember's grey veins and the dry smell of the dust tell Eden that the cell is tied to the Veil network, though he does not know what the veins mean. The last Ember laughs: "You're late. The Crown already has the hall."

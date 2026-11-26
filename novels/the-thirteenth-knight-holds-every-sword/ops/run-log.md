@@ -154,3 +154,14 @@
 - REVIEW ch 18: PASS. check_chapter OK (1801 words, mean 10.1, dialogue 25%). No chase: one lane, one Door, four seconds, one cellar.
 - Debt from ch 7 paid on the page: the book names Corwen, bagman; debts.md marked [paid ch 18]. No name was given before this chapter.
 - Continuity: "nine days" is counted from Thu 3 Dec to Sat 12 Dec; ch 9's "thirty days" from 12 Nov is the same span. No eating gag this chapter (quota stays in 12, 14, 15).
+
+### 2026-11-26 06:12 UTC (13:12 WIB) - tulis bab berikutnya - chapter 19 - ok
+- words: 1818
+- scores: tension 3, surprise 3, emotion 3, battle_clarity -, voice 4, freshness 4
+- notes: Comic bake; joke 41 fails; unseen shield; apron near-miss.
+- quota_note: 
+
+### self-review ch 19 - LOW risk, same session, not independent
+- REVIEW ch 19: PASS. check_chapter OK (1818 words, mean 9.2, dialogue 37%). Epigraph from outline/epigraphs.md. Cut one extra "nobody" to stay under the banned cap.
+- The shield save is unseen and called luck; no named attack used, just Exa folded into the known door-shield. No one hurt, so the comedy stays intact.
+- Continuity: joke count from 19 in ch 14 to 41/43 here; the apron and garden soil from ch 14; Lysette's answer to the Ball question is planted for ch 21 and the Ball arc.

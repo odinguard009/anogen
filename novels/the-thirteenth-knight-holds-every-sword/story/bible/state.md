@@ -137,3 +137,10 @@
 - The man's book named him: Corwen, bagman. Debt from ch 7 paid on the page. His belt knife and book were taken; the torn coat was left for people to remember. His folded paper was left so he would come back for it.
 - The paper is a copy of the exchange call list with two lines added at the top: "Alive. Night of lights." Ysolde confirmed the list is the Ball guest list and said she had told him on the twelfth; she wrote Corwen's name and did not smooth the pen's mark.
 - Hook: nine days from Thursday 3 Dec to the Ball on Saturday 12 Dec.
+
+## Fri 4 Dec (ch 19)
+- Cooking club Ball-week bake; Rowan volunteered Lance Nine. Lysette inspected with a form, a serving bell, and the rule that if the valve's noise changed everyone left. Clara can heal burns but not a fallen soufflé.
+- Seraphine's joke count on Felix reached 41, failed in a new way, then 43 after Lysette's answer. The card is hers and the count is hers.
+- The oven valve stuck and threw flame across the kitchen toward Seraphine's soufflé. Eden folded **[Exa]** into the door-shield in the shadow behind the oven, held it with his boot, and sent the flame back into the oven mouth. No one saw it; he called it luck when Seraphine asked. No one was hurt.
+- Rowan nearly noticed Lysette's apron: green stain on the cuff, soil under two nails. A dropped tray of rolls saved him from asking. He handed her a roll and she wrote it on the form.
+- Hook: Seraphine asked Lysette sweetly who she was going to the Ball with now. Lysette: "Nobody." She wrote it down.

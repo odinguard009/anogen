@@ -54,3 +54,6 @@ The duel resumes. Valerius presses honestly and Eden repeats **[Hinge]** until i
 
 ## Ch 18 - Alive, on the Night of Lights
 Ysolde orders Eden to watch Rowan without being seen. Rowan notices everything except the grey-coat man following him through the lower city. In an unlit lane Eden opens a Door in a wall shadow, puts the watcher asleep in an empty cellar without a chase, and reads his book: Corwen, bagman. A folded copy of the exchange call list carries two added words, "Alive. Night of lights." Ysolde confirms the list is the Ball guest list. The Ball is nine days away.
+
+## Ch 19 - The East Kitchen
+Rowan volunteers Lance Nine for the cooking club's Ball-week bake. Clara heals a burn but cannot raise Seraphine's fallen soufflé, and Seraphine's joke count on Felix reaches forty-one and fails. When the oven throws flame across the kitchen, Eden silently folds **[Exa]** into the door-shield and turns the blast back into the oven; Seraphine calls it luck and he agrees. Rowan almost notices the garden soil on Lysette's apron but a dropped tray of rolls distracts him. Seraphine asks Lysette who she is going to the Ball with, and she writes "Nobody."

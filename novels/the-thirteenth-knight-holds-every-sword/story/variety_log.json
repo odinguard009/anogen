@@ -219,5 +219,18 @@
       "pacing_shape": "repetition then one clean catch",
       "hook_type": "a countdown to a masked night"
     }
+  },
+  {
+    "chapter": 19,
+    "picks": {
+      "opening_type": "epigraph then a sign-up sheet",
+      "scene_shape": "lunch, kitchen, near-miss, door",
+      "tension_type": "a valve that changes its noise",
+      "emotional_tone": "loud comedy with a clean catch",
+      "comic_device": "a joke count that fails in a new way",
+      "conflict_type": "kitchen fire with no injury",
+      "pacing_shape": "steady mess, one fast beat, slow exit",
+      "hook_type": "a question written down as nobody"
+    }
   }
 ]

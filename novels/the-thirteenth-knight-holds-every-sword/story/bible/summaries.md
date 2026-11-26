@@ -49,3 +49,6 @@ Eden exposes the camp groundskeeper as a Veil at night and ends it in front of t
 
 ## Ch 46 - The Wrong Side
 Forty people must cross a burning yard while the Mawgate opens. Eden cuts a Door in a supply wagon's moving shadow and drops the Husks into the gate's throat. Rowan's first [Ithe] clears the children; Clara's first [Wyl] holds a crack, and the grass greens under her knees for one second. Valerius arrives late with frost on his shoulder. When a conscript is exposed on the kitchen step, Clara runs past her own line and Rowan follows her.
+
+## Ch 47 - Something Said My Name Back
+Lance Nine holds the corridor to the barracks. Rowan keeps the turn with his spear while Clara, wounded with grey at the edges of the cut, closes her own wound again. Eden knocks three times and Felix answers with his middle name, Perrin; the shield **[Thessa]** goes to him and comes back to his arm. Felix sees the feather stamp inside it and says that something answered his name. Eden tells him to hold the door and count to twenty out loud, and to take the shield and go if he does not come back.

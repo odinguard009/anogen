@@ -124,3 +124,14 @@
 - REVIEW ch 46: PASS. check_chapter OK (1804 words, mean 13.2, dialogue 29%). Two new labels only ([Ithe], [Wyl]), both described in scene and ledger. No Unbind: frost and grass are reaction hints and never explained.
 - The circle acts at its standing: forty evacuated, a wagon Door used as terrain, veterans and prince's Lance arriving late. Power use has visible cost (Rowan cold, Clara bleeding).
 - Continuity: hand-sign and Door geometry from ch 32/39, Clara's frostbite patient from ch 43, oil line from ch 45, Valerius's frost hint from ch 28 bell/Unbind ladder.
+
+### 2026-11-26 08:54 UTC (15:54 WIB) - tulis bab berikutnya - chapter 47 - ok
+- words: 1803
+- scores: tension 5, surprise 4, emotion 4, battle_clarity 4, voice 4, freshness 4
+- notes: First loan with Perrin; [Thessa] on page; Felix hears his name; Clara's grey wound.
+- quota_note: 
+
+### self-review ch 47 - MEDIUM risk, same session, not independent
+- REVIEW ch 47: PASS. check_chapter OK (1803 words, mean 13.5, dialogue 22% warning only). No new label besides [Thessa] (first loan; dream appearance in ch 44 registered in ledger). Perrin debt paid on the page.
+- No reveal: Felix sees a feather and hears a name answered, but no one explains the shield's making or the Vigil. The grey wound is shown without a cause beyond Husk blood.
+- Continuity: [Osk] limit from ch 44, Rowan's cold after [Ithe] from ch 46, scarf/bun running joke paid in the name answer, Lysette's red cloth marker as a new object.

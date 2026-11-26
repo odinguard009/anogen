@@ -326,3 +326,9 @@
 - First [Ithe]: Rowan's gold burst from the spear head drove Hushborn off the children; he staggered and Clara caught him. First [Wyl]: Clara's green line held Husks at a crack and the blows came back into her face; snow under her knees went green for one second.
 - Valerius's Lance arrived late, ordered by the king to hold until dawn; a wall of frost showed on his shoulder for one breath and melted. Felix saw the light and did not write it down.
 - Hook: the conscript whose fingers Clara healed stood on the kitchen step with Husks turning toward him; Clara ran out past the green line and Rowan went after her.
+
+## Wed 27 Jan, night (ch 47)
+- Forty-pace corridor with two doors and a turn; Lysette took the children through the far door and tied red cloth on the handle.
+- Clara's wound from a Husk blade meant for Rowan had grey at the edges; she closed it again and a dark line remained. Rowan held the turn with the spear and did not use gold light again; his hands shook.
+- First loan: Eden knocked three times with Exa's ring; Felix answered "Perrin"; **[Thessa]** went to his arm and returned to it after every blow. Felix: "Something said my name back." He saw the feather stamp inside the strap. "Just tell me what to do."
+- Eden ordered Felix to hold and count to twenty out loud, then take the shield through the far door if he did not return.

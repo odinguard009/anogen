@@ -583,5 +583,18 @@
       "pacing_shape": "one order, one long crossing, one run",
       "hook_type": "a rescuer becoming the exposed one"
     }
+  },
+  {
+    "chapter": 47,
+    "picks": {
+      "opening_type": "a corridor measured in paces and doors",
+      "scene_shape": "two defenders, one loan, one count",
+      "tension_type": "one man cannot hold both doors",
+      "emotional_tone": "held and urgent",
+      "comic_device": "a shield that comes like a dog to a whistle",
+      "conflict_type": "holding a corridor while the fire closes",
+      "pacing_shape": "steady strikes ending on a count",
+      "hook_type": "a friend asking only for orders"
+    }
   }
 ]

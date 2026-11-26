@@ -4,11 +4,13 @@
 
 The boys left on Tuesday morning, and the house went quiet in the way a house goes quiet when it has been loud on purpose for a week. Greta took the guest sheets off the line and folded them twice. The two dogs lay in the hall with their ears flat. There was nobody at the door to come in.
 
-He had written a ballad about the visit called "The Lad Who Napped Through a Siege". He had had it copied four times. The copies lay under the blotter in the small dining room, with a correction in his own hand on every one. Eden had confiscated the sheet music twice. Aldous had kept a third copy in his coat and a fourth in the chapel, which was where he put things he did not want anyone to find quickly.
+Duke Aldous had written a ballad about the visit called "The Lad Who Napped Through a Siege". He had had it copied four times. The copies lay under the blotter in the small dining room, with a correction in his own hand on every one. Eden had confiscated the sheet music twice. Aldous had kept a third copy in his coat and a fourth in the chapel, which was where he put things he did not want anyone to find quickly.
 
 Aldous sat in the small dining room with two papers in front of him and a cup of tea that had gone cold. When he was thinking seriously the room seemed to lose a little warmth. Bertram had learned to put an extra log on the fire before the Duke asked for one. The first paper had been taken from the bandit with the knife. It was a half-sheet with four lines on it, written in a hand that pressed hard into the page.
 
 Stop the carriage on the north road. Do not hurt the boy. Search the bags for letters. Wait for the signal.
+
+The handwriting leaned backward, which was rare. People who had been taught to write by a patient hand leaned forward; backward slanting belonged to those who had taught themselves in secret, late at night, and wanted nobody to read over their shoulder. Aldous held the half-sheet to the window. The paper was good, a rag stock from a mill he happened to know, and it had been folded so often along the same crease that it had begun to split. Somebody had carried it a long way, and had not wanted to lose it.
 
 At the bottom someone had drawn a mark like a gate with one post missing, and underneath it a number that was the price. Aldous read the lines twice, which was not like him. He usually read a thing once and made a joke about it.
 
@@ -18,7 +20,9 @@ Bertram stood by the door with his hands folded. "Yes, my lord."
 
 "Not the house. The road. They knew which road we take and which hour we leave, and they were told not to hurt the boy." Aldous put the paper flat. "Who knows my carriage road?"
 
-"The household, my lord. The stablemaster. The cook. The stables at the palace."
+"The household, my lord. The stablemaster. The cook. The stables at the palace." Bertram paused. "And your guests, my lord, from the last month. There were eleven."
+
+"Eleven." Aldous closed his eyes briefly, the way a man does when he counts people he is fond of and wishes the number were smaller.
 
 "Old Hammond is deaf by choice and hears everything." Aldous tapped the mark at the bottom of the paper. "This is not a bandit's mark. A bandit writes his name or does not write at all. This is someone who expects the reader to know who it is."
 
@@ -64,15 +68,13 @@ Bertram folded his hands behind his back. "That the boy was raised by tutors in 
 
 "Perhaps the file was made from a shorter one."
 
-"A shorter one." Aldous said it twice, and the second time he said it quietly. "You are a good servant, Bertram. You give me the answer I can use and not the one I want."
-
-"My public son has no mother in any paper anyone can read. There is no birth paper, no school paper, no physician." Aldous took his hand off the form and looked at the small neat signature instead. "But a vice-headmaster writes to ask about the boy's late mother, as if it were nothing, as if the file said it and he were only repeating it."
+"A shorter one." Aldous said it twice, and the second time he said it quietly. "You are a good servant, Bertram. You give me the answer I can use and not the one I want. My public son has no mother in any paper anyone can read. There is no birth paper, no school paper, no physician." Aldous took his hand off the form and looked at the small neat signature instead. "But a vice-headmaster writes to ask about the boy's late mother, as if it were nothing, as if the file said it and he were only repeating it."
 
 "Perhaps the file does say it in another office."
 
 "Yes." Aldous stood up and the chair went back against the wall. "That is the worst kind of answer. It is true and it makes nothing better."
 
-He went into the hall and took his slippers off and put his house shoes on, and then took the house shoes off as well because he had changed his mind. In the chapel off the west corridor the light was low and the stone floor had been swept that morning, and a row of candles burned in front of a painted window that showed a man in a blue cloak with his hands out.
+He went down the west corridor with his boots in his hand, because he had decided halfway that a man ought to go to a chapel in his socks. In the chapel off the west corridor the light was low and the stone floor had been swept that morning, and a row of candles burned in front of a painted window that showed a man in a blue cloak with his hands out.
 
 The chapel had been built for a smaller house and then added to, so the west wall was a foot out of line with the east, and the bench under the window had been shortened to make room for a pillar. Aldous had chosen that bench when he was thirty and had never chosen another. The case stood on it now, long and plain with brass corners. He opened it, and the silver inside caught the candle light and held it. Sevar had been made for a man who was not his son, by a woman who had been dead eleven years. The plates had a feather's veins running through them, finer than any smith had ever managed before or since. Aldous did not look at the veins today. He took out the helm first, which was the part he had come for.
 
@@ -84,7 +86,7 @@ He put the helm on. The world narrowed to the slit and the sound of his own brea
 
 It was not a tune with words. It was four notes, up and down and back again. He had heard them in a workshop when he was young, and in a house where a woman argued with someone across a kitchen table. He hummed them once. He hummed them again. The chapel kept the sound the way stone keeps the warmth of a fire after the fire has gone out.
 
-Bertram waited in the corridor outside with his back to the wall and his hands folded. He had stood there before, at other houses and in other years. He knew the length of this silence better than he knew the length of a meal. A servant passed and looked at the chapel door and then at him, and Bertram shook his head once, and the servant went away. A second servant came with a tray of tea and was sent away as well. The tea went cold on the table in the hall and Greta came out and took it back without asking anyone, and she did not look at the chapel door either.
+Bertram waited in the corridor outside with his back to the wall and his hands folded. Through the door, once, he heard a short sharp sound that might have been the helm touching the bench, and he took a half step toward it and stopped. A Duke who wanted help in a chapel would have said so. A Duke who did not want it would be insulted by an offer. Bertram had served for thirty years in the narrow space between the two, and he stayed in it now as another man might stay in a favourite chair. He had stood there before, at other houses and in other years. He knew the length of this silence better than he knew the length of a meal. A servant passed and looked at the chapel door and then at him, and Bertram shook his head once, and the servant went away. A second servant came with a tray of tea and was sent away as well. The tea went cold on the table in the hall and Greta came out and took it back without asking anyone, and she did not look at the chapel door either.
 
 An hour went by. The only sound from inside was the humming, and after a while even that stopped, and the chapel was quiet except for the candles. Bertram moved once, from his left foot to his right, and then stood still again. He did not count the minutes, and his eyes did not leave the door.
 

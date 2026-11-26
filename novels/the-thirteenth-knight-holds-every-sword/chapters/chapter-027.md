@@ -10,6 +10,8 @@ Felix took the paper off him and read the next line. "It says the knight who sav
 
 "That is what the paper calls a disagreement about seating." Felix folded the paper and gave it back. "I will keep this. It will be funny in a year."
 
+Rowan, who had been reading over Felix's shoulder with his lips moving, said slowly, "Is order the same as pioneers?" and nobody could tell him, and he went on thinking about it so visibly that a passing prefect asked if he was unwell. "I am working," Rowan said. "It is a hard word."
+
 A girl behind them said the paper had got the number of hostages wrong, and another boy said the paper had got everything wrong except the weather, and both of them laughed in the way people laugh when they are glad it was not them with the knives. The steam press had printed the ink too thick, and a smear of black had come off on the boy's fingers at the gate and then on the paper's second page, so that the word "lawless" had a thumbprint through it.
 
 "Where do they get the story?" Rowan asked.
@@ -30,7 +32,7 @@ A cold stomach was data. A pulse was data. Neither of them was a sentence a pers
 
 * * *
 
-The finals board went up on Wednesday under the north staircase with a clip and a lock, and the crowd around it stood three deep until a prefect made them form two lines. Eden waited in the second line with his hands in his pockets and listened to the ranks being read aloud.
+The finals board went up on Wednesday under the north staircase with a clip and a lock, and the crowd around it stood three deep until a prefect made them form two lines. Eden waited in the second line with his hands in his pockets and listened to the ranks being read aloud. The prefect reading had a flat, tired voice and read every name the same way, so that the first place and the sixtieth sounded exactly alike. Eden found that comforting. A voice that did not rank people while it ranked them was a rare thing, and he listened to it with the attention he usually kept for bells.
 
 Valerius was first, as he had been every term. Rowan was second, Clara third, Lysette fourth. Seraphine was sixth. Eden heard his own number read, and it was eight, which was where it had always been and where it was supposed to stay. Felix was nineteenth and made a small sound of satisfaction at the number, which he had been hoping for all year.
 
@@ -40,7 +42,7 @@ Wren, Eden. **[Knight]**. **[Black Lancer]**.
 
 That was the first time the words had been on a board with his name under them, and he read them the way he read a map: one look, then away. **[Knight]** meant he had passed the theory and the field marks. **[Black Lancer]** meant the exam board had watched him carry a lance through a year of drills and had decided what to call him. Neither word said anything about the nights. He was glad of that, and the gladness was a fact he put away without dwelling on it.
 
-Valerius came down the stairs as the crowd broke up. He stopped three steps above the board, saw Eden, and went around him without speaking. It was the first time in five years that Valerius had seen him in a corridor and walked past. Eden watched the empty space where the prince had been and counted it as a result. A narrow loss had cost him a greeting.
+Valerius came down the stairs as the crowd broke up. He stopped three steps above the board, saw Eden, and went around him without speaking. It was the first time in five years that Valerius had seen him in a corridor and walked past. Eden stood very still, as he did when a thing hurt in a place he had not known about. It was a small hurt, a splinter, and he decided it was not worth the word. Then he saw that his hand had gone to his coat pocket, to the envelope with the broken crown, and had stopped there, and he took it out again empty. Eden watched the empty space where the prince had been and counted it as a result. A narrow loss had cost him a greeting.
 
 "Did you see my number?" Felix asked.
 
@@ -88,7 +90,7 @@ The roof garden had gone winter-grey except for the grass, which was still green
 
 "I said I would open it once and show you," she said. "This is the once."
 
-Eden sat down two feet away on the wall. The apple tree held its two green apples, and the bird nest in the telescope had been rebuilt with a piece of blue ribbon in it.
+Eden sat down two feet away on the wall. The apple tree held its three green apples, and the bird nest in the telescope had been rebuilt with a piece of blue ribbon in it.
 
 Lysette pressed the catch. The locket opened with a small click, and inside was a young man's face in a paper so old it had gone soft at the edges. He had her eyes and a mouth that looked as if he had been about to say something when the picture was taken. He wore a collar like the ones in the court portraits, and his hair had been brushed with care.
 
@@ -98,9 +100,13 @@ She turned the paper toward him so that the light from the west fell across it. 
 
 "He grew a moustache in court and wrote to say that my mother would not recognise him," she said. "She recognised him at once. She said the moustache was a stupid thing and that he looked like a boy trying to be a man." Her thumb stopped on the crease. "He came home the next year and could not dance."
 
+"There was a frame over my desk," Lysette said, after a while. "A big one, with his picture in it, the full portrait. It hung there until the year he came home. One morning it was gone and the wall was clean in the shape of it, and nobody would tell me who had taken it down." She looked at the locket in her hands. "My mother says that is the way to keep a house. You do not argue about what is missing. You simply stop looking at the place."
+
+Eden remembered the empty pale shape on the lamp-house wall. He remembered how she had turned her back to it, and how quickly. He did not say so. It was not a thing he could say without saying where he had been when he saw it.
+
 Eden looked at the young man's face and at the crease through his shoulder and did not let his eyes go to Lysette. A student's laugh came up from the court below, and then a door banged somewhere in the west wing, and the roof kept its cold air around them.
 
-Eden looked at the face for four seconds. Then he looked at the apple tree, because a tree did not ask anything of him and the face did. He counted the leaves on the nearest branch. One, two, three, and up to eleven, which was the number there had been in November and the number there was now, though the leaves had been replaced twice. Eleven seconds passed while he looked at the tree, and he did not say anything during them.
+Eden looked at the face for four seconds. Then he looked at the apple tree, because a tree did not ask anything of him and the face did. He counted the leaves on the nearest branch. One, two, three, and up to eleven, which was the number there had been in November and the number there was now. Eleven seconds passed while he looked at the tree, and he did not say anything during them.
 
 When he looked back, Lysette had shut the locket and was holding it flat in both hands.
 

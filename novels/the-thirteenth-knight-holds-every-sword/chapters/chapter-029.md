@@ -20,11 +20,11 @@ Felix looked at him for a while, then took a piece of bread and broke it in two.
 
 "You should not."
 
-"I am." He put the larger half on Eden's plate. "I do not need the whole thing. I need to know that you are not lying to me, and you just told me you were."
+"I am." He put the larger half on Eden's plate. Eden looked at the bread for a while without touching it. It was a small thing, half a roll, and every instinct he owned said to count what it would cost to take it. He took it. He ate it slowly, and it was warm, and it tasted of nothing except bread, which was the whole point. "I do not need the whole thing. I need to know that you are not lying to me, and you just told me you were."
 
 Greta came in with a basket of rolls and put it between them. "Two halves of one piece is not two breakfasts," she said.
 
-"I am sharing," Felix said.
+"I am sharing," Felix said. "You are making a mess," Greta said, and brushed three crumbs off the cloth with the side of her hand, then put the basket nearer to Eden than to Felix, where everyone could see she had done it.
 
 "With a boy who does not eat." Greta looked at Eden. "Eat the bread now."
 
@@ -52,7 +52,7 @@ Eden said nothing. A thin ice had formed at the edge of the lake near the reeds,
 
 "Start anywhere," Felix said.
 
-"That is the trouble. There is no anywhere. There is only the day she died and the day before it." The Duke's hands tightened on the oars, then loosened. "She was making something for you. In the workshop. I was supposed to—" He stopped again and swallowed. "I promised her I would give it to you when you were old enough. I was a coward about it. I am still a coward about it."
+"That is the trouble. There is no anywhere. There is only the day she died and the day before it." The Duke looked at his own hands on the oars, big and scarred across the knuckles, and then at Eden's. "You have her hands," he said, in a different voice, as if he had been caught saying it. "I always forget until I see you holding something." The Duke's hands tightened on the oars, then loosened. "She was making something for you. In the workshop. I was supposed to—" He stopped again and swallowed. "I promised her I would give it to you when you were old enough. I was a coward about it. I am still a coward about it."
 
 Eden watched a bird stand on a post at the far end of the lake and flap its wings once without flying. The Duke's hands stayed on the oars with the ends resting in the water, and the boat moved by itself for two feet and then stopped against a reed bed, and he did not seem to notice that they were no longer rowing.
 
@@ -64,7 +64,7 @@ Eden watched a bird stand on a post at the far end of the lake and flap its wing
 
 They fished. The Duke had brought three rods and rigged them with the patience of a man who had done it a thousand times, and he showed Felix how to hold his line without gripping it. Eden took his rod and let the line out, and the boat stopped turning because nobody was rowing and the water had gone calm.
 
-For an hour they did not talk. The ice at the reeds made a thin sound when the boat moved close to it, and the bird on the post flew to a second post and watched them from there. A fish took Felix's bait and got away, and the Duke said "Ah" in a small voice and did not say anything else. Felix looked at his empty line and then at Eden, and put the rod down on his knees without asking for help. Eden's line stayed still. He watched the reeds and the thin ice and the bird on the post, and counted the seconds between the small sounds the boat made, and he could feel the cold coming up through the floor of the boat into his boots.
+For an hour they did not talk. The ice at the reeds made a thin sound when the boat moved close to it, and the bird on the post flew to a second post and watched them from there. A fish took Felix's bait and got away, and the Duke said "Ah" in a small voice and did not say anything else. Felix looked at his empty line and then at Eden, and put the rod down on his knees without asking for help. Eden's line stayed still. It was the only quiet he had that day that did not have a purpose. On the roof there was always the nap record; in the Vigil there was always the count. Here there was a line in the water and nothing to do with it, and he found that his hands did not know what to do with an empty hour. He held the rod the way he held a lance, and then, when he saw the Duke notice, he loosened his grip and tried to hold it like a boy. He watched the reeds and the thin ice and the bird on the post, and counted the seconds between the small sounds the boat made, and he could feel the cold coming up through the floor of the boat into his boots.
 
 The Duke caught a fish at the end of the hour, a small pale thing that flapped in the bottom of the boat. He unhooked it carefully and put it back in the water without showing anyone how he did it.
 

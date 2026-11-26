@@ -12,6 +12,10 @@ The train to Silverfell ran on a veinline, which was a line of mana laid under t
 
 The engine hummed for two hours through grey fields, and then the fields became hills and the hills became snow. A woman in the next seat knitted a scarf the colour of a roof tile and counted her stitches under her breath, and when the train crossed a bridge she stopped counting and crossed herself, then began again at the same number. Felix watched her until she noticed, then looked out the window at the snow. At the station a manservant in a black coat waited with a carriage and did not seem surprised that the train was late or early or whatever it had been. He put Eden's bag on the carriage without touching it with both hands, which was the first odd thing about him.
 
+The road to the house climbed through a forest of black firs, and every bend had a stone marker with a number cut into it. Felix read them aloud, one by one, and by the ninth he had begun to guess the next. "Eleven," he said, and the marker said eleven. "Twelve." He looked pleased, and then, because he was Felix, he looked suspicious. "Who numbers a road?"
+
+"A man who walks it," Eden said, and did not say that he had walked it at ten, with a stick, counting.
+
 "Bertram," he said, to nobody in particular.
 
 "Eden," Eden said.
@@ -76,6 +80,8 @@ Everyone stopped. The Duke stopped humming too, and looked at the ceiling as if 
 
 The Duke laughed, one big laugh that filled the room, and went out to the carriage road with Bertram behind him.
 
+Eden watched him go. Through the window the Duke's breath showed white in the lamplight, and he walked down the drive with the loose, unhurried gait of a man who has never once in his life expected a door to be locked against him. It was a way of walking that Eden remembered. He had been small, and the hand he held had been very large, and warm, and a good deal too confident.
+
 * * *
 
 The bandits were three men on tired horses with a cart across the road. They had a short gun and a long knife and the expressions of people who had been doing this for a week and were already bored with it. The Duke walked up to them with his hands open and Bertram stood two steps behind with his hands folded.
@@ -114,7 +120,7 @@ Felix, across the table, opened his mouth to say something and then did not. Ede
 
 "Had what?" Felix asked.
 
-"Warm feet," the Duke said. "Your mother had warm feet. She always sat on my side of the fire." He took a breath and began to tell Felix a long story about a winter when the roof had leaked, and the story went on until the tea came and then past it.
+"Warm feet," the Duke said, turning to Felix with great firmness. "Your mother. I mean the mother of a boy I knew once. She had warm feet and she always sat on my side of the fire." He took a breath and began to tell Felix a long story about a winter when the roof had leaked, and the story went on until the tea came and then past it.
 
 The tea war started when Greta said the Duke had made it too strong and the Duke said it was the right strength for a man who had just faced three bandits, and Greta said three bandits on tired horses did not count as a day's work, and the Duke said they did if you included the walking to the road and back. Felix took a side and then changed it when Greta refilled his cup. Eden drank his tea and said nothing at all, which Bertram noted by taking the cup away before it was empty and bringing it back full.
 
@@ -128,4 +134,4 @@ Eden watched the snow hit the window and fall away. "Both."
 
 "That is not an answer."
 
-"It is the only one I have." He turned from the window. Somewhere below them the Duke began a story about a winter and a leaking roof, and his laugh went up through the floors and hit the ceiling and came back quieter, and Felix put his book in his pocket because there was no point reading with that much noise in the house.
+"It is the only one I have." He turned from the window. Felix did not say anything. He had learned, over five years, that silence from Eden was not a refusal but a kind of weather, and that the weather changed if you stood in it long enough. So he stood in it. Outside, the snow came down in big wet flakes that stuck to the glass and slid, and one by one the candles in the house were pinched out until only the one on the mantel was left, leaning toward the door. Somewhere below them the Duke began a story about a winter and a leaking roof, and his laugh went up through the floors and hit the ceiling and came back quieter, and Felix put his book in his pocket because there was no point reading with that much noise in the house.

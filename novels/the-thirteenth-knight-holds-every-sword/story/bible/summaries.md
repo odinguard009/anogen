@@ -40,3 +40,6 @@ Gorrath answers roll call for Eden from thirteen places, and Lysette nearly catc
 
 ## Ch 43 - The Shadow and the Breath
 During a storm watch Clara heals a conscript's frostbite at a cost to her own hands. Rowan worries by asking the same questions again, and Lysette notices Eden's frozen scarf while watching Rowan less. Clara tells Eden she knows Rowan will never see her and that she is fine with it; he says it is not fine, and for six breaths she lets her shoulder touch his sleeve. Felix checks the oil line and keeps it off the form. The groundskeeper hums out of tune, and his shadow does not move when he breathes.
+
+## Ch 44 - The Shield in the Dark
+In the dream the Dragon teaches Eden the round shield **[Thessa]** and refuses to say whose hand mended it. In the dark supply tunnels, Ashen watchers follow Rowan. Felix uses the first [Osk], one arrow down the path he hears, and the watcher is tied and left alive. Lysette takes Eden's sleeve for four steps and neither speaks of it. At the cold store the floor is warm while the boards above are cold: a Mawgate warms before it opens, and the warmth runs toward the kitchens.

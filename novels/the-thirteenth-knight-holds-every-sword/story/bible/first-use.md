@@ -79,3 +79,6 @@ Note: Witness first use moved from planned ch 13 to ch 11 because the outline's 
 - Second on-page reading, **[Void Heir]** | Eden | ch 36 | yes (the register line changes when he draws on the Door: under **[Knight]** and **[Black Lancer]** a third name stands; his breath stops for one beat) | n/a (not spoken aloud; no explanation of the name on the page)
 
 - Sealed ward-plate gloves and hoods | Wall camp guards | ch 41 | yes (ward-plate gloves with taped joints and a folded second cuff; hoods over the neck fastened under the chin; no skin exposed) | yes (one drop of Husk blood on an unsealed cuff greyed the leather along the seam in hours; dead grey stays active four hours)
+
+- Felix's [Osk] | Felix | ch 44 | yes (kneels, eyes shut, one arrow down the path Trail hears rather than the path the eye sees; needs total quiet — boot, cough or spoken word breaks it) | yes (one arrow only; no second shot)
+- [Thessa] in the dream Vault | Dragon shows Eden | ch 44 | yes (round iron-faced shield, worn strap, lighter than it looks, covers chin to knee; small feather mark under the strap) | no limit shown in the dream; first loan on the page ch 47

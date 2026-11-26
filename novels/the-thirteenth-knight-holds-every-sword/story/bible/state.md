@@ -304,3 +304,10 @@
 - Clara told Eden she knew Rowan would never see her and that she was fine with it. Eden said "That is not fine." She moved her shoulder against his sleeve for six breaths, then told him not to say it again.
 - Felix checked the oil line to the buttress and back, found the markers unchanged, and chose not to write it down: "I do not like deciding that."
 - Hook: the groundskeeper came up with hot water, humming the wrong top note. His breath broke apart in the cold air but his shadow did not move with it.
+
+## Sun 24 Jan (ch 44)
+- Dream: Dragon taught the round shield **[Thessa]**; a small feather mark under the strap, and the Dragon would not say whose hand mended it. "Ask it when it matters." Eden practiced turning on the front foot.
+- Lance Nine sent through the dark supply tunnels by Okoru, who followed behind. Rowan detected two Ashen watchers following him at six paces in a tunnel with no crowd.
+- First [Osk]: Felix knelt, eyes shut, and put one arrow where Trail heard a path; the watcher fell alive, tied by Lysette with two careful knots; no kill without proof. Okoru: "We do not know who paid him."
+- Lysette grabbed Eden's sleeve for four steps at the first turn; neither mentioned it. Ashen watchers had followed Rowan.
+- Hook: the supply tunnel floor near the cold store was warm while the boards above were cold; a Mawgate is warm before it opens, and the warmth ran toward the kitchens and four hundred sleeping people.

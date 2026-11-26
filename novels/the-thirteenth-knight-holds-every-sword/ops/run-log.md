@@ -91,3 +91,14 @@
 - REVIEW ch 43: PASS. check_chapter OK (1802 words, mean 13.4, dialogue 42%). No reveal; the shadow is evidence only, not named as a Veil.
 - Eden stays flat: six breaths, a shoulder against a sleeve, one unguarded sentence that is immediately put back in its place. Clara's cost is stated by Clara and not explained by the narrator.
 - Continuity: blanket watch from ch 42, oil line from ch 39, scarf from ch 33, groundskeeper's humming from ch 31/35/41.
+
+### 2026-11-26 08:29 UTC (15:29 WIB) - tulis bab berikutnya - chapter 44 - ok
+- words: 1800
+- scores: tension 4, surprise 4, emotion 4, battle_clarity -, voice 4, freshness 4
+- notes: First [Osk] and dream [Thessa]; watchers tied; warm floor hook.
+- quota_note: 
+
+### self-review ch 44 - MEDIUM risk, same session, not independent
+- REVIEW ch 44: PASS. check_chapter OK (1800 words, mean 13.4, dialogue 20% warning only). First uses of [Osk] and dream [Thessa] described in scene and ledger; only two new labels in the chapter.
+- No kill without confirmation: the Ashen watcher is tied alive; Okoru explicitly refuses a kill without proof. The feather stamp in the dream is a plant, not a reveal of who made the shield.
+- Continuity: Okoru's one arm and Stitch, the groundskeeper's shadow from ch 43, Vesk's warm-gate rule from ch 39/41, Lysette's sleeve grab from ch 5 echoed without comment.

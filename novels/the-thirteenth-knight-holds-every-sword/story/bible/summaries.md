@@ -38,3 +38,6 @@ Felix finds Eden behind the stables and asks why nobody gets close to him. Eden 
 
 ## Ch 13 - The Empty Frame
 Eden ends a Veil wearing the Long Stair's lamplighter in the lamp-house at third bell and leaves no trace. In the morning Lysette runs the Committee inquiry while Eden stands against the wall. Her **[Witness]** shows a figure in black and a door-shaped shadow, and her **[Testimony]** shows the replay to the students before her wrist gives out. She finds an empty pale frame-shape on the wall, like one on her desk at school, and refuses to explain it. Last line: "The Thirteenth Vigil was here. I will find out who opens the doors."
+
+## Ch 14 - The Herb Bed
+Eden tries to keep a perfect nap record while Lysette's attendance campaign grows into warrants, runners and a stakeout. Felix plays double agent for lunch. Seraphine's joke count on Felix reaches nineteen. Eden sleeps in Lysette's herb bed for eleven minutes; she finds him, leaves him asleep, covers his boots with her coat, and asks him to tell Felix only the number. She knows he has kept her garden secret for a month.

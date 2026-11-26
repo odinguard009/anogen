@@ -154,5 +154,18 @@
       "pacing_shape": "night spike, slow morning",
       "hook_type": "a promise said to the wrong listener"
     }
+  },
+  {
+    "chapter": 14,
+    "picks": {
+      "opening_type": "an object with a handwritten score",
+      "scene_shape": "campaign montage then one quiet discovery",
+      "tension_type": "paperwork closing in",
+      "emotional_tone": "funny turning gentle",
+      "comic_device": "runners charging each other for news",
+      "conflict_type": "attendance raid",
+      "pacing_shape": "fast middle, still ending",
+      "hook_type": "a secret kept without being asked"
+    }
   }
 ]

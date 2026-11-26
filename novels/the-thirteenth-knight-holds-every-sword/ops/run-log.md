@@ -96,3 +96,14 @@
 - REVIEW ch 13: PASS. check_chapter OK (1810 words, mean 11.8, dialogue 32%). Read twice; no death of a main character, no power change, no confirm rung.
 - The lamplighter is a Veil, confirmed by grey before the cut; no proof left for Lysette. The door-shaped shadow is the H rung for T1-7; the empty frame is C1/C2 H only. No name in the letter scene, no locket.
 - First use of **[Testimony]** described in scene and ledger; **[Witness]** is a repeat with new detail. Last line is the outline's exact hook.
+
+### 2026-11-26 05:53 UTC (12:53 WIB) - tulis bab berikutnya - chapter 14 - ok
+- words: 1813
+- scores: tension 2, surprise 3, emotion 3, battle_clarity -, voice 4, freshness 4
+- notes: Comic raid; joke 19; Lysette finds Eden in herb bed.
+- quota_note: 
+
+### self-review ch 14 - LOW risk, same session, not independent
+- REVIEW ch 14: PASS. check_chapter OK (1813 words, mean 9.9, dialogue 42%). Registered day names in canon_names.
+- Continuity: joke count from ch 10 (one) reaches 19 on the page; two lunches are routine after ch 12; the green apple is the same out-of-season tree from ch 1.
+- Comedy never undercuts the last scene: Lysette does not wake him and the hook is her realisation, delivered through her words and the coat on his boots, not an explained feeling.

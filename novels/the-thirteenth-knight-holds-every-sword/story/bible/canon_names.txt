@@ -691,3 +691,12 @@ Mr
 # Lances
 Lance One
 One
+
+# Days
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday

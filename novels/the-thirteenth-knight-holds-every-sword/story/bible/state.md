@@ -105,3 +105,9 @@
 - **[Witness]** replay showed a figure in black and a door-shaped shadow. **[Testimony]** held the replay in the air for the students; the figure turned once; her wrist shook after six breaths. Lysette: "That is not the same as a name."
 - Plant: an empty pale frame-shaped patch on the lamp-house wall, soot old around it, stone clean inside. Lysette says it is also on the wall above her desk: "None of your business." C1/C2 H; no name, no locket.
 - Hook: "The Thirteenth Vigil was here. I will find out who opens the doors."
+
+## Sat 21 Nov (ch 14)
+- Eden kept a nap record on the back of an old timetable: seven days, with one chair sleep he did not count. Felix was a double agent for lunch, paid in rolls by both sides, and warned him about warrants and runners.
+- Lysette's raid became a campaign: warrants filed by place, four copies for the office, runners carrying notes folded in three and charging each other for news. She told Eden the roof door hinge is on the east side and drops a finger's width: "I have known for a month."
+- Seraphine's joke count on Felix reached 19 at the north door (a dropped spoon). She says she will tell him the joke at the end of term.
+- Two lunches are now routine. Eden slept in Lysette's herb bed for eleven minutes; she sat two feet away and did not wake him. The apple tree has one green apple out of season. She covered his boots with her coat, told him to report eleven minutes, and the hook is her realisation that he has known about her garden for a month.

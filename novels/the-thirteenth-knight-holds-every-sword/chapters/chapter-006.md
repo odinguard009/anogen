@@ -8,13 +8,13 @@ Okoru, the one-armed teacher, stood beside the board with his empty sleeve pinne
 
 The crowd pushed forward, and Eden waited until the front was clear before he read the ninth sheet.
 
-The sheet said LANCE NINE. Under the title were five names, and each had a number after it. The number was the student's place on the Ladder, which was the school's list of the best students in the year. One was the best, and the list went down to more than a hundred.
+The sheet said LANCE NINE. Under the title were five names, and each had a number after it. The number was the student's place on the Ladder, which was the school's list of the best students in the year. One was the best, and the list went down to four hundred.
 
-Clara Belmont, 3.
-Rowan Tallis, 2.
-Lysette Hollen, 4.
-Eden Wren, 8.
-Felix Ashgrove, 19.
+Clara, 3.
+Rowan, 2.
+Lysette, 4.
+Eden, 8.
+Felix, 19.
 
 Rowan found it first and said, "Two, three, four!" He turned to the others with his whole face lit up. "We have the second, the third and the fourth. This is the best team in the school."
 
@@ -46,7 +46,7 @@ Okoru tapped the sheet with his stick. "I will tell you why you are together," O
 
 "Stand where, sir?" Clara asked.
 
-"On the wall in the south, in midwinter. Every fifth-year team goes there for one month. The wall is the edge of our country, and real monsters come against it. You will fight them." He gave each of them a card. "The date and your gate are on the card."
+"On the Southern Wall, in midwinter. Every fifth-year team goes there for four weeks. The Wall is the edge of our country, and real Hushborn come against it. You will fight them." He gave each of them a card. "The date and your gate are on the card."
 
 Eden looked at his card. It had his name, the date, a gate number and one extra line in Okoru's heavy writing. It said to keep near Lysette in a fight.
 
@@ -54,9 +54,9 @@ He read it twice because he did not know why Okoru had written it. Perhaps Okoru
 
 "Lysette," Okoru said. "Your sheet has one more job."
 
-Lysette looked at her own card, and her pencil stopped. "It says 'supervise Wren'."
+Lysette looked at her own card, and her pencil stopped. "It says 'supervise Eden'."
 
-"The student judges asked for it. You are their vice-chair, and Wren misses many classes. You will watch him. You will write down where he goes."
+"The Discipline Committee asked for it. You are its vice-chair, and Eden misses many classes. You will watch him. You will write down where he goes."
 
 "I know what supervise means, sir."
 
@@ -148,7 +148,7 @@ A bell rang over the court, and the students in the corridor began to move.
 
 The stores office stood behind the kitchens. It had a long wooden counter, scarred from many years of use, and a shelf of order books that went back twenty years. A small stove ticked in the corner, and a cat slept on top of the books.
 
-Eden had a paper from the grey office in his coat. It told him to find who had sent the broken construct. Two days ago that stone construct had nearly crushed Lysette. Someone had cut its safety wire and doubled its armour, and someone had ordered those parts. If the order was written down, it was written here.
+Eden had Form 13-B in his coat. It was the report Ysolde wanted about the exchange job, and it was almost empty, because he also wanted to know about the broken construct. Two days ago that stone construct had nearly crushed Lysette. Someone had cut its safety wire and doubled its armour, and someone had ordered those parts. If the order was written down, it was written here.
 
 A clerk with ink on her sleeves came to the counter. "What do you need?"
 
@@ -170,9 +170,9 @@ He read the page slowly. Most lines were short and simple: one plate, two straps
 
 "Is he here now?"
 
-"No. He died last spring."
+"No. He died last year."
 
-Eden looked at the date on the line, which said the first week of this month, and then he looked at the name again. A man who had died last spring could not sign an order this autumn. Someone had written Sorn's name on it, or someone had found a way to use his stamp.
+Eden looked at the date on the line, which said the first week of this month, and then he looked at the name again. A man who had died last year could not sign an order this month. Someone had written Sorn's name on it, or someone had found a way to use his stamp.
 
 He kept his face still and asked, "Did anyone else ask about this page?"
 
@@ -182,8 +182,8 @@ He kept his face still and asked, "Did anyone else ask about this page?"
 
 "Nothing. She wrote it down again."
 
-The red band meant a student judge. The girl was Lysette. She had been in this office the day before him, and she had not told him.
+The red band meant the Discipline Committee. The girl was Lysette. She had been in this office the day before him, and she had not told him.
 
 Eden read the line a third time and said the date and the name to himself, number by number, so he would not need the book again. Then he thanked the clerk and walked out through the kitchen yard. The cooks were hauling sacks of flour from a cart, and nobody looked at him.
 
-At the gate he stopped and took out the grey office paper. On the back he wrote one word: Sorn. He drew a line under it. A second line did not seem like enough, so he drew another.
+At the gate he stopped and took out Form 13-B. On the back he wrote one word: Sorn. He drew a line under it. A second line did not seem like enough, so he drew another.

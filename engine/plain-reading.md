@@ -9,7 +9,9 @@ Owner's complaint (ch 6 and 7): he could not understand the scenes; many sentenc
 5. EVERY SCENE OPENS WITH ITS PURPOSE IN PLAIN WORDS: where, who, and what someone wants. Every scene ends with one plain change (a fact learned, a plan made).
 6. EXPLAIN PAPERWORK AND PROCEDURE ONCE, plainly (what the form is for), then use it lightly. Maximum 6 sentences of procedure talk per scene.
 7. NO CLUE IS LEFT AS A RIDDLE. When a clue matters (a date, a name, a mark), one plain sentence says why it matters, in Eden's flat observation ("Sorn was dead. A dead man could not sign.").
-8. KEEP THE CRAFT: speaker habits, objects, humour from plain words all stay. Only the guessing is removed.
+8. MAKE THE OBSERVATION PLAIN, NEVER A SCHEDULED SECRET. Before adding any explanation, find it in the bible (reveal-ladder.md, secrets.md); if it is not there or it would run ahead of the reveal ladder, do not add it.
+9. ONE THING, ONE NAME across the whole book. Never rename a canon term (Committee, Hushborn, Southern Wall) to fit the name budget; cut surnames and background names instead.
+10. KEEP THE CRAFT: speaker habits, objects, humour from plain words all stay. Only the guessing is removed.
 
 ## Self-test (writer and critic, per chapter)
 1. For each scene write: who and where; what happens; what changed.

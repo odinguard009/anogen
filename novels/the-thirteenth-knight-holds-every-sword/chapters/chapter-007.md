@@ -2,7 +2,7 @@
 
 A bird had built a nest in the broken telescope on the roof, and it pecked at Eden's sleeve whenever he lay in his usual place. He moved two steps to the left, put his gloved arm over his face, and was asleep before he finished counting the leaves on the apple tree.
 
-Boots came up the stairs, four steps at a time. "Wren!" Rowan's voice went across the roof garden and bounced off the wall. "I found you!"
+Boots came up the stairs, four steps at a time. "Wren!" Rowan always called him by his family name. Rowan's voice went across the roof garden and bounced off the wall. "I found you!"
 
 Eden did not move his arm. "There are not many places to look. It is a roof."
 
@@ -16,7 +16,7 @@ Eden did not move his arm. "There are not many places to look. It is a roof."
 
 "That is not a why. That is the thing itself." Rowan broke the loaf in two and held out the bigger half. Steam came out of the crust. "Felix says you do not like people asking where you go. So I am not asking. I am just sitting."
 
-Eden took the bread, because Rowan would have held it out all morning. He had said yes because arguing took longer than agreeing, but the bread was good, so he ate it.
+Eden took the bread, because Rowan would have held it out all morning. He had said yes because arguing took longer than agreeing, but the bread was good, so he ate it. He did not know the rules of friendship. He used the rule he used for everything: do what is asked, and watch what happens.
 
 "What do you want from a friend?" he asked.
 
@@ -36,13 +36,13 @@ The bird kicked at its nest to make it round, and three twigs fell to the stone.
 
 Rowan jumped up and pulled the coat from under him. He laughed so loudly that the bird flew out of the telescope, and then he stopped. "Wait. She is coming. I can hear her pencil."
 
-A key turned in the lock of the stair door. Lysette stood in the doorway with her black book in one hand and a paper in the other. She wore a clean red band on her sleeve, which was the sign of the student judges, and the paper in her hand had a red bell stamped in one corner and three boxes printed across the top.
+A key turned in the lock of the stair door. Lysette stood in the doorway with her black book in one hand and a paper in the other. She wore a clean red band on her sleeve, which was the sign of the Discipline Committee, and the paper in her hand had a red bell stamped in one corner and three boxes printed across the top.
 
 "Monday, ninth of November," she said. "Third bell. Strategy class. You were not there."
 
 "I was on the roof."
 
-"I know where you were. The Committee does not ask where you were. It asks why." She held up the paper. "This is a warrant. When a student misses too many classes, we send one to the headmistress. You have missed sixty-one. The office wants a reason, in one word. I have written 'rest' four times, and now they want a place as well."
+"I know where you were. The Committee wants to know why." She held up the paper. "This is a warrant. When a student misses too many classes, we send one to the headmistress. You have missed sixty-one. The office wants a reason, in one word. I have written 'rest' four times. Now they want the place too."
 
 "Roof," Eden said.
 
@@ -74,13 +74,13 @@ Lysette looked at the two of them for a moment. She did not smile, but the line 
 
 "I will walk behind you. If he is not at the table, I must write it down."
 
-Rowan stood up too, and he picked up his spear. "I will bring bread again tomorrow."
+Rowan picked up his spear. "I will bring bread again tomorrow."
 
 "No," Eden said.
 
 "I will bring it anyway."
 
-She waited by the door while Eden stood up. At the top of the stairs she pointed her pencil at the telescope. "That bird. Is it yours?"
+Lysette waited by the door while Eden stood up, and she tapped her pencil on her book to count the seconds. At the top of the stairs she pointed her pencil at the telescope. "That bird. Is it yours?"
 
 "It belongs to the roof."
 
@@ -120,7 +120,7 @@ Eden opened the book. A card lay between the pages. It was black, thick, and sof
 
 Remember Thornmere.
 
-Eden knew what it meant, and he kept his face still. The broken crown was the mark of the Ashen Crowns, a secret group that wanted to bring the old kingdoms back. Thornmere was one of those kingdoms. The Iron King had destroyed it long ago. Eden's cover story said he had been born there. Someone had read that story and sent him a message.
+Eden kept his face still. The broken crown was the mark of the Ashen Crowns, the secret group that hated the king. Thornmere was the place the school said Eden came from.
 
 "That is a strange bookmark," Felix said.
 
@@ -134,7 +134,7 @@ Felix looked at him. "Then give it to the office."
 
 "It was given to me." Eden turned the card over. The back was empty. The letters had been pressed so deep that they showed through. He put it back in the book, at page twelve, which was as far as he had ever read. "I will keep it for now."
 
-He had three choices, and he thought them through while Felix watched. If he burned the card, someone might see him do it, and a burned card looked like a guilty man. If he gave it to the office, Ysolde's people would ask questions about Thornmere, and he wanted no one asking. If he kept it, he could learn who gave out these cards and who watched the person who got one. He kept it.
+He had three choices, and he thought them through while Felix watched. If he burned the card, someone might see him do it, and a burned card looked like a guilty man. If he gave it to the school office, clerks would ask questions about Thornmere, and he wanted no one asking. If he kept it, he could learn who gave out these cards and who watched the person who got one. He kept it.
 
 Lysette came down the Line with a tray. It held one roll and a cup of tea. She stopped beside Eden and looked at his hands, not at his face. "You are in the Line."
 
@@ -164,7 +164,7 @@ She said it too fast. Felix looked at her, but she was already asking Rowan abou
 
 He stood at the counter with the book under his arm and let the Line move around him.
 
-On the far side of the hall a man in a grey coat stood against the wall. The coat had no school badge and no guild mark. He held a small notebook, the kind prefects used for counting students. He kept his left hand inside his sleeve. He was not eating, and his tray had never left the counter. He had been watching Eden since the girl gave him the card, and now he wrote one line in the notebook, shut it, and stepped back into the dark place under the notice board. Eden decided that he would find out who the man was before the night was over.
+On the far side of the hall a man in a grey coat stood against the wall. The coat had no school badge and no guild mark. He held a small notebook, the kind prefects used for counting students. He kept his left hand inside his sleeve. He was not eating, and his tray had never left the counter. He had been watching Eden since the girl gave him the card, and now he wrote one line in the notebook, shut it, and stepped back into the dark place under the notice board. Eden decided to find out who the man was.
 
 Eden counted what he could see, the way he did on the Vigil. Four doors. One prefect near the notice board, who was reading her own list. Two second-years arguing over a spoon. The man by the wall limped on his left foot. There was a line of mud on his boot, though the court outside was dry. Eden had seen that kind of mud once before, near the canal steps in the lower city, where the dye-works stood.
 

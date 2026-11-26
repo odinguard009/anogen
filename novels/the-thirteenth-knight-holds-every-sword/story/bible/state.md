@@ -24,3 +24,9 @@
 ## Plants (do not explain yet)
 - Hairpin in the locked dream door (owner Ynde).
 - Roof garden green out of season (ch 1).
+
+## Night of Tue 3 Nov (ch 3)
+- First Vigil job of the draft: the Veil wearing the night supervisor of the Solmarch Central Telephone Exchange on Bell Lane. Nine lure calls in three nights; a baker and a clerk missing. Eden went in through the coal chute, wore **[Umra]** for the first time, cut the switchboard's shadow with a Door, used **[Exa]** as a door-shield and **[Inead]** for the last cut. The Veil could not say his middle name. It died to grey dust: "You smell like the bottom of the world."
+- The tower clock rang three tones and a faint fourth. Vesk: "That was not the hour."
+- The exchange's call list names Hallowcrest Year 5 families; the name Tallis is circled twice. Ysolde's note: Form 13-B. Before the first bell.
+- Vesk (Eden's Pillar, small man in grey, lamp-yellow eyes) works the street; he cannot enter deep dark.

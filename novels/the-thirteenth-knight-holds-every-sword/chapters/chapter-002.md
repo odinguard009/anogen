@@ -58,7 +58,7 @@ Eden woke with his left leg asleep to the hip. A sheet of paper lay on the floor
 
 * * *
 
-She knocked at half past the fifth bell, three times, evenly spaced. The hall outside his room was grey and cold and smelled of wet stone. Lysette stood there with a clean red band on her sleeve and her white hair pinned a little tighter than yesterday.
+She knocked an hour before the first bell, three times, evenly spaced. The hall outside his room was grey and cold and smelled of wet stone. Lysette stood there with a clean red band on her sleeve and her white hair pinned a little tighter than yesterday.
 
 "I put a timetable under your door," she said. "Did you read it?"
 
@@ -92,7 +92,7 @@ She did not mention the handkerchief. Her left jacket pocket stayed buttoned.
 
 * * *
 
-The dining hall at the sixth bell was as loud as a mill. Plates banged, benches scraped, and the whole room smelled of hot porridge and burnt toast. Lysette took Eden to the south tables, looked at him once more as if to remember where she had put him, then went to the Committee bench by the windows.
+The dining hall at breakfast was as loud as a mill. Plates banged, benches scraped, and the whole room smelled of hot porridge and burnt toast. Lysette took Eden to the south tables, looked at him once more as if to remember where she had put him, then went to the Committee bench by the windows.
 
 "Two rolls," she called across the hall. "At least."
 
@@ -226,7 +226,7 @@ Lysette underlined something with her ruler, so hard that the page tore.
 
 * * *
 
-After the last class, the hall outside the west classrooms was full, as it always was at half past the ninth bell. Eden's bag hung off one shoulder. Lysette walked half a step ahead and a little to the left, pulling him toward the stairs.
+After the last class, the hall outside the west classrooms was full, as it always was at that hour. Eden's bag hung off one shoulder. Lysette walked half a step ahead and a little to the left, pulling him toward the stairs.
 
 Valerius stood at the top of them. He was not waiting for Eden. He was talking to two officers of the school council, with a stack of papers in his hand. He was tall, with fair hair and a straight back, and a small bronze pin shone on his collar. Nothing else on him said crown prince, except the empty space people kept around him without being told.
 

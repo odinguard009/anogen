@@ -4,16 +4,15 @@ Format: `name | owner | first on page ch N | described: yes/partly/no | limit sh
 ## On the page (new draft)
 Add one line per first use as each chapter is written: `name | owner | first on page ch N | described: yes/partly/no | limit shown: yes/no`. Check this file before writing a use. (The first-draft ledger is archived in archive/restart-2026-11-25/bible/first-use-draft1.md; its GAP notes were about old text.)
 
-- Door (shadow door under an awning's shade) | Eden | ch 3 | yes (knock on the air, black rectangle, drops a target) | yes (needs an edge between light and dark)
+- Door (shadow door under an awning's shade) | Eden | ch 3 | yes (two knocks on the air, black rectangle, the cables' shadows fall in) | yes (needs an edge between light and dark)
 - Umra | Eden (Vesk also wears it) | ch 3 | yes (steps back into own shadow; matte black plate, white-thread slit helm, silent) | yes (anyone who sees it knows the Thirteenth Vigil)
-- Gate (summons Inead by name) | Eden | ch 3 | partly (cold thin line in the mind, name said in head) | yes (small ache behind the eyes while Inead is held)
-- Inead | Eden | ch 3 | yes (hand-and-a-half sword of gold light made solid, plain grey grip, shines like a low sun, rings softly when drawn, makes light honest) | yes (needs some light; small drain)
-- Veil tells (paper skin, fixed smile, mouth a beat behind the voice, flat unbreathing shadow that lags, layered stolen voices; cannot say the victim's middle name; grey shape in Inead's light; falls to grey dust) | Veils | ch 3 | yes | n/a
+- Gate (summons Inead by name) | Eden | ch 3 | partly (cold thin line in the mind, then gold light in the hand) | yes (small ache behind the eyes while Inead is held)
+- Inead | Eden | ch 3 | yes (hand-and-a-half sword of gold light made solid, plain grey grip, shines like a low sun, rings softly when drawn, makes light honest: a Veil's face turns to glass and the grey body shows) | yes (needs some light; small drain)
+- Veil tells (paper skin, fixed smile a beat late, flat unbreathing shadow that lags, layered stolen voices, cannot say the victim's middle name; grey shape in Inead's light; falls to grey dust) | Veils | ch 3 | yes | n/a
 - Vesk | Eden's Pillar | ch 3 | yes (small man in grey, lamp-yellow eyes, speaks from Eden's shadow, wears black plate) | yes (cannot follow into total dark)
 
-- Exa (dark lance; in public carried in a leather case on his back) | Eden | ch 4 | yes (short, a little longer than his arm, matte black, cold in the sun; drawn from his shadow each morning) | yes (only as strong as his arms and breath; the fold into a door-shield not yet shown)
-
-- Exa folded: door-shield (one knock on the iron ring-knocker) | Eden | ch 5 | yes (tray-sized, matte black, iron ring; folds with a ringing sound) | yes (only as strong as his arm and aura)
+- Exa (dark lance; in public carried in a leather case on his back) | Eden | ch 3 | yes (short, a little longer than his arm, matte black, cold in the sun; drawn from his shadow) | yes (only as strong as his arms and breath: a copper bar on the ring numbs his arm)
+- Exa folded: door-shield (one knock on the iron ring-knocker) | Eden | ch 3 | yes (tray-sized, matte black, iron ring; folds with a ringing sound) | yes (only as strong as his arm and aura)
 - Latch ([Latch]) | Eden | ch 5 | yes (ring catches the blade, he steers it; shield edge into the joint cracks the core) | yes (public move; needs the ring to catch)
 - Lysette's twin batons | Lysette | ch 5 | yes (short black sticks held close, left tilted higher) | yes (one splits on the first stroke)
 - Drill-warden construct | Undercroft | ch 5 | yes (man-shaped grey stone, brass joints, wooden practice blade, glass core, red eyes) | n/a

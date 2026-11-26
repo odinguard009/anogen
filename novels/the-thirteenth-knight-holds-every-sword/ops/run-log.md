@@ -70,4 +70,14 @@
 ### 2026-11-26 04:44 UTC (11:44 WIB) - tulis bab berikutnya - chapter 2 - ok
 - words: 2446
 - scores: tension 3, surprise 3, emotion 4, battle_clarity -, voice 4, freshness 4
+- quota_note:
+
+### 2026-11-26 04:49 UTC (11:49 WIB) - tulis bab berikutnya - chapter 3 - ok
+- words: 2193
+- scores: tension 4, surprise 3, emotion 4, battle_clarity -, voice 4, freshness 4
+- notes: Exchange night watch; Veil, nine lure calls, Hallowcrest call list. Dialogue 18% (warning only).
 - quota_note: 
+
+### self-review ch 3 - same session, not independent
+- Medium pass: fixed bell-time continuity ("an hour before the first bell", breakfast, "at that hour"), cut an early grey-sea lullaby line so ch 8 keeps the reveal, checked Veil description against first-use and ch 9.
+- Open: dialogue 18% is under the 20% soft floor; kept it because the chapter is a night watch with two speakers.

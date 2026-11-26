@@ -11,5 +11,18 @@
       "pacing_shape": "interrupted scene: cut away at the peak, return later",
       "hook_type": "a promise or threat"
     }
+  },
+  {
+    "chapter": 3,
+    "picks": {
+      "opening_type": "concrete setting detail",
+      "scene_shape": "cold open in action",
+      "tension_type": "betrayal suspected",
+      "emotional_tone": "relief with a catch",
+      "comic_device": "banter between allies",
+      "conflict_type": "ambush",
+      "pacing_shape": "slow build to a sharp spike",
+      "hook_type": "reveal that reframes the chapter"
+    }
   }
 ]

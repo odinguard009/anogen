@@ -190,3 +190,9 @@
 - Roof dance: her foot on his left, "You're on my foot." / "On purpose." She told him she had asked Rowan in September and he forgot; "He would dance with a broom if it asked nicely." Eden smiled once, a real one, small and short, and Lysette saw it and said nothing.
 - "Thank you for the dance" followed by "If you tell anyone I said thank you, I will write you up for it."
 - Eden slept with no dream at all for the first time since he was ten. At dawn the gloves lay on the stone with the handkerchief inside: washed, dried, sharp-cornered, feather turned inward and clean. He put it back exactly where he found it and did not sleep again.
+
+## Mon 14 to Fri 18 Dec (ch 27)
+- Steam-press paper blamed the Vigil for lawlessness at the Ball and called the Crowns "pioneers of order". Lysette folded the paper away at the Justiciar Seal column: "the Hollen affair of PR 110 is closed and will not be reopened", no detail. C1 E delivery: Eden read the year twice, cold stomach, pulse counted six, seven, eight; he said nothing and she did not ask.
+- Finals: Valerius 1, Rowan 2, Clara 3, Lysette 4, Seraphine 6, Eden 8, Felix 19. First on-page reading under his name: **[Knight]**, **[Black Lancer]**. Valerius walked past without speaking, first time in five years; Rowan noticed.
+- Roof: Lysette opened the locket for the one time: young man's face, sixteen before court, crease through the shoulder, moustache later, came home and could not dance. Eden looked at the apple tree for eleven seconds, counted eleven leaves, and said nothing. C1/C2 E delivered; no confirm to Lysette.
+- Hook: Justiciar Seal opened an inquiry into "the Ball night's unknown knight"; all students give statements Tuesday.

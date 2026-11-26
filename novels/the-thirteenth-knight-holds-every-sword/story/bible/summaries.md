@@ -71,3 +71,6 @@ Lysette fetches the guard while Eden re-enters the seized atrium through Doors c
 
 ## Ch 26 - On My Foot
 Back on the roof after the Ball siege, Lysette asks Eden whether he was up there the whole time and he answers "No." She accepts it. They stand on each other's feet for a slow dance while the band still plays below; he smiles once, a real one, and she does not mention it. Eden sleeps without the war dream for the first time in years. At dawn he finds his gloves on the stone with the handkerchief inside, washed and folded with the feather turned inward.
+
+## Ch 27 - The Year on the Page
+The steam press prints a paper blaming the Vigil for lawlessness at the Ball. Lysette folds it away when she reaches a Seal notice about the Hollen affair of PR 110; Eden reads the year twice and records a cold stomach and a pulse count without saying anything. Finals keep him at eight, and the board gives his first on-page reading, **[Knight]** and **[Black Lancer]**. Valerius walks past without a word. On the roof Lysette opens the locket to show him a young man's face, and Eden looks at the apple tree for eleven seconds. A Seal inquiry into the Ball night's unknown knight is posted.

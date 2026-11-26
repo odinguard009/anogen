@@ -129,3 +129,14 @@
 - REVIEW ch 26: PASS. check_chapter OK (1816 words, mean 11.4, dialogue 39%). No reveal or power; the smile is a physical crack, briefly described, and no feeling is explained after it.
 - Continuity: handkerchief from ch 1 now returned washed; the gloves from ch 10/card are on the stone; "Did it light?" from ch 1 is echoed by Lysette's lantern question in ch 24 and the "On purpose" dance line here.
 - Eden's honest "No." answers the exact outline question and nothing more; Lysette accepts it on the page.
+
+### 2026-11-26 06:51 UTC (13:51 WIB) - tulis bab berikutnya - chapter 27 - ok
+- words: 1800
+- scores: tension 3, surprise 4, emotion 5, battle_clarity -, voice 4, freshness 4
+- notes: C1 E delivered; first [Knight]/[Black Lancer] reading; locket opened; Seal inquiry.
+- quota_note: 
+
+### self-review ch 27 - MEDIUM risk, same session, not independent
+- REVIEW ch 27: PASS. check_chapter OK (1800 words, mean 12.6, dialogue 27%). C1 E stays evidence, not confirmation: the year is read twice, the body reports cold and pulse, and no one says what it means.
+- First on-page reading **[Knight]** / **[Black Lancer]** delivered once and registered in first-use.md; no job/class label elsewhere in the chapter.
+- Continuity: locket first opened after ch 21; handkerchief already washed in ch 26; rank eight kept; Valerius's silence follows the duel hook in ch 17.

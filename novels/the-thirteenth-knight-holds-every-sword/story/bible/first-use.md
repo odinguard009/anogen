@@ -63,3 +63,5 @@ Note: Witness first use moved from planned ch 13 to ch 11 because the outline's 
 
 - Eden's [Lintel] | Eden | ch 25 | yes ([Exa] folded flat overhead like a door, with [Inead] drawn from under it in one motion; gold light makes grafts honest; one cut from the shield's edge) | yes (must take a blow on the shield first; needs the single motion)
 - Ilsabet's [Hrak] | Ilsabet Rorke | ch 25 | yes (grafted right arm swells grey from shoulder to fist and swings like a club; frost-white lines under the skin) | yes (each use spreads the grey farther up her neck; Eden cuts the wrist and she is spared)
+
+- Class/job reading on the finals board | Eden | ch 27 | yes (the register line under his name: **[Knight]**, **[Black Lancer]**, read once from the board) | n/a (registered reading, one on-page line; never higher than eight on the Ladder)

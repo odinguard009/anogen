@@ -85,3 +85,14 @@
 - REVIEW ch 12: PASS. check_chapter OK (1800 words, mean 9.5, dialogue 48%, under the failure line). No new names; Perrin was already in canon_names.
 - Outline beats delivered: why nobody gets close, Perrin with a bun, Eden's honest refusal to give a name back, Lysette's two lunches and the line said without looking at him.
 - Eden stays flat: body data (wall warmth, three-second count) and plain facts only; Felix's backstory is told by Felix, not by the camera.
+
+### 2026-11-26 05:50 UTC (12:50 WIB) - tulis bab berikutnya - chapter 13 - ok
+- words: 1810
+- scores: tension 4, surprise 4, emotion 4, battle_clarity -, voice 4, freshness 4
+- notes: Lamplighter Veil; first Testimony; empty frame-shape planted.
+- quota_note: 
+
+### self-review ch 13 - HIGH risk, same session, not independent
+- REVIEW ch 13: PASS. check_chapter OK (1810 words, mean 11.8, dialogue 32%). Read twice; no death of a main character, no power change, no confirm rung.
+- The lamplighter is a Veil, confirmed by grey before the cut; no proof left for Lysette. The door-shaped shadow is the H rung for T1-7; the empty frame is C1/C2 H only. No name in the letter scene, no locket.
+- First use of **[Testimony]** described in scene and ledger; **[Witness]** is a repeat with new detail. Last line is the outline's exact hook.

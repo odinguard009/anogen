@@ -35,3 +35,6 @@ In the first graded field run, Okoru sends the five Lances through the Undercrof
 
 ## Ch 12 - Perrin
 Felix finds Eden behind the stables and asks why nobody gets close to him. Eden says he does not know how. Felix gives his middle name, Perrin, before asking for anything, and Eden says honestly that he has no name he can give back. Lysette arrives with a second lunch, says she is not losing track of him, and does not look at him once. Felix tells her his middle name on his way out. The two-lunch routine begins.
+
+## Ch 13 - The Empty Frame
+Eden ends a Veil wearing the Long Stair's lamplighter in the lamp-house at third bell and leaves no trace. In the morning Lysette runs the Committee inquiry while Eden stands against the wall. Her **[Witness]** shows a figure in black and a door-shaped shadow, and her **[Testimony]** shows the replay to the students before her wrist gives out. She finds an empty pale frame-shape on the wall, like one on her desk at school, and refuses to explain it. Last line: "The Thirteenth Vigil was here. I will find out who opens the doors."

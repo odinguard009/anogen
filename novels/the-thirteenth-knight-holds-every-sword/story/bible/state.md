@@ -98,3 +98,10 @@
 - Felix gave his middle name, Perrin, first, so it would not be a trade. Eden could give only "Eden Wren" and said honestly that he had no name he could say out loud. Felix did not ask again. His kindness is in staying until the silence is ordinary.
 - Lysette brought the second lunch with "Committee efficiency. You skip meals and you skip class. I am not losing track of you," still not looking at Eden. She had asked the gate prefect about the bun and wrote "bun, partial". Felix told her his middle name before leaving.
 - The two-lunch routine starts here. The handkerchief is still unwashed; Lysette's glove has a green stain from the roof garden.
+
+## Thu 19 Nov (ch 13)
+- Night: a Veil wearing the Long Stair's lamplighter lured people with voices of the dead from the lamp-house. Eden ended it at third bell in twelve lamps' shadows: Door for the pole, **[Exa]** ring for the fingers, **[Inead]** for the confirmed grey. Wiped the dust, put a different pole in his hand so the walk away looked ordinary. Vesk: "You are faster when it is nearly morning."
+- Morning: a student reported the death; Committee called. Lysette worked by procedure: boot marks, exact time of third bell, the prefect's name and hour, the student's words "come up for the light". Okoru gave her four minutes.
+- **[Witness]** replay showed a figure in black and a door-shaped shadow. **[Testimony]** held the replay in the air for the students; the figure turned once; her wrist shook after six breaths. Lysette: "That is not the same as a name."
+- Plant: an empty pale frame-shaped patch on the lamp-house wall, soot old around it, stone clean inside. Lysette says it is also on the wall above her desk: "None of your business." C1/C2 H; no name, no locket.
+- Hook: "The Thirteenth Vigil was here. I will find out who opens the doors."

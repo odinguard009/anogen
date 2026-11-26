@@ -141,5 +141,18 @@
       "pacing_shape": "slow talk, small turn at the end",
       "hook_type": "a second lunch and a line not looked at"
     }
+  },
+  {
+    "chapter": 13,
+    "picks": {
+      "opening_type": "lamps and shadows in a small room",
+      "scene_shape": "silent kill then public inquiry",
+      "tension_type": "a witness who gets it almost right",
+      "emotional_tone": "cold and precise",
+      "comic_device": "a prefect correcting the hour twice",
+      "conflict_type": "Veil in a lamp-house",
+      "pacing_shape": "night spike, slow morning",
+      "hook_type": "a promise said to the wrong listener"
+    }
   }
 ]

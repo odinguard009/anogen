@@ -48,3 +48,5 @@ Unbind (none on page; first: Lysette's Auda ch 141, Duke's Durn ch 193, Valerius
 - Lysette's Witness | Lysette | ch 11 | yes (ghost-light replay in the air behind her of what happened minutes ago, faint as moonlight on water; shows where hands were and how far a wall travelled) | yes (needs a still place and a quiet moment; she cannot move while it runs)
 
 Note: Witness first use moved from planned ch 13 to ch 11 because the outline's graded run calls for it; ch 13 is a later use with a new detail.
+
+- Lysette's Testimony | Lysette | ch 13 | yes (holds a Witness replay in the air for others to see; bright ghost-light, needs a still place and nobody moving through it, about six breaths) | yes (short duration; her wrist shakes and she must let it go)

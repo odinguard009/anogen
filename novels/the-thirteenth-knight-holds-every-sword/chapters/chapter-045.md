@@ -82,7 +82,7 @@ She had come forward without his seeing. Her book was under her arm and her bato
 
 "Hold still," she said. "Both of you, one breath."
 
-She had a gift called **[Citation]**, though Eden had never seen it before. Its rule was simple, and he learned it by watching. A pale light spread over the snow. The light replayed the last few seconds, like a picture on glass. While it lasted, Lysette could point at any part of the picture and strike that exact spot. Then the light faded, and her head ached.
+Lysette had a gift called **[Witness]**, a pale ghost-light that replayed what had just happened, like a picture on glass. Eden had seen it before. Tonight she was using it in a new way, which she would later call **[Citation]**. While the picture lasted, she could point at any part of it and strike that exact spot. Then the light faded, and her head ached.
 
 She set her feet and held up her left hand, and the pale ghost-light spread over the snow in a thin sheet. The replay would last four breaths, no more. It showed the last moments in the yard. The Veil turned. The sword went in at the left shoulder. The grey healed over, as fast as water closing. Lysette put the tip of her baton on one place in the replay, the exact inch where the grey had been thinnest, and held it there. A headache took her at the temples, and she shut her eyes, but the ghost-light stayed.
 
@@ -100,9 +100,9 @@ Felix lowered the bow he had not used. He looked at the dust, then at Eden's swo
 
 * * *
 
-"What was that?" Okoru asked her quietly. He had never seen the light before.
+"That was not your ordinary replay," Okoru said quietly. He had seen her **[Witness]** light before. He had never seen her strike inside it.
 
-"I do not know." Lysette pressed two fingers to her temple. "It started in the winter. When I stand very still, I can see where something just happened. It lasts a few breaths. Then my head hurts."
+"No." Lysette pressed two fingers to her temple. "I have been trying it since the Wall. My replay shows what just happened. This time I held it and struck into it, at the exact place. I call it **[Citation]**, like quoting one line out of a book. It lasts a few breaths. Then my head hurts."
 
 "Does it hurt now?"
 

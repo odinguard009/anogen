@@ -1,12 +1,14 @@
 # Chapter 47: Something Said My Name Back
 
-The corridor to the barracks was forty paces long with a wall on one side and the burning yard on the other. It had two doors and a turn in the middle, which meant a man could hold it if he had enough hands and not enough time to be afraid. The walls were stone on one side and boarded plaster on the other. The plaster had begun to fall off in strips where the heat from the yard had got into it. A bucket of water stood by the near door with a rag in it. A coat hung on a peg by the far one, which was the coat of a man who had gone through and had not come back for it. Eden had put his hand on both doors before choosing where to stand. He had noted that the far door stuck in its frame and took half a second longer to open.
+The corridor to the barracks was forty paces long. A stone wall ran along one side, and the burning yard lay on the other. It had a door at each end and a sharp turn in the middle. A man could hold it if he had enough hands and not enough time to be afraid.
 
-Lysette had taken the children through the far door and gone with them to the gate, leaving a strip of red cloth tied to the handle so that anyone following could see the way had been used. She had written three words on the back of a warrant before she left: CORRIDOR, FOUR, HOLD. Eden had read them while the fire came closer and had put the paper in his coat without saying that the number four included him.
+Eden put a hand on both doors before he chose where to stand. The near door, by the yard, opened easily. The far door, by the barracks, stuck in its frame. The children had gone through it, and Lysette had gone with them to the side gate. She had tied a strip of red cloth to the far handle so that anyone following would know the way. Before she left, she had written three words on the back of a warrant and given it to Eden: CORRIDOR, FOUR, HOLD. He had put the paper in his coat without saying that the number four included him.
 
-Eden had four people and one corridor. Clara was on the stones with Rowan beside her. The grey at the edges of her wound had spread two inches up her forearm where she had taken a Husk blade meant for Rowan's back. She had closed the wound with what she had left, and the edges had gone quiet. But the skin around them kept the colour of ash and did not go away. She had put her own glove over the line to hide it from Rowan and then taken it off again because he had already seen. There was no point hiding a thing a person had watched arrive. Felix had looked at the grey once and had said nothing, and Clara's mouth had loosened when he did it.
+So there were four of them and one corridor. Eden stood at the near door, where the Husks came in through the burning wall. Felix stood at the far door with his bow. Rowan stood at the turn in the middle with his spear. Clara sat on the stones behind Rowan, with her back against the wall.
 
-"How long since you closed it?" Rowan asked.
+She had been hurt a few minutes ago. A Husk blade meant for Rowan's back had cut her forearm, and she had stepped in front of it. The cut was shallow, but Husk blood had gotten into it, and the grey had begun to spread up her arm. She had closed the wound with what strength she had left, and the edges had gone quiet. But the skin around them stayed the colour of ash.
+
+"How long since you closed it?" Rowan asked over his shoulder.
 
 "Four minutes."
 
@@ -14,39 +16,63 @@ Eden had four people and one corridor. Clara was on the stones with Rowan beside
 
 "No." Clara looked down at the grey line. "That is the part I do not like."
 
-"Sit still," Rowan said.
+"Sit still."
 
 "I am sitting still."
 
 "You are bleeding again."
 
-"I am not." Clara pushed his hand away from the bandage. "Hold the corridor."
+"I am not." She pushed his hand away from the bandage. "Hold the corridor."
 
-The turn was a place a man could stand because the wall made a corner and a body could not come round it in a straight line. Rowan had found that out on the first Husk and had stayed there, with his spear pointed at the corner and his feet set one behind the other, and he had not moved since.
+* * *
 
-Rowan held the corridor. His spear went into the first grey body that came round the turn and came out with the brass of its joint on the point. He planted his foot and brought the butt down on the next one. The corpses piled at the turn. The Husks had to climb over their own kind to reach him. He did not use the gold light again. There was no clean burst left in him after the yard, and his hands shook when he gripped the spear.
+Behind the near door the fire had reached the kitchen roof. A beam cracked, and the sound ran down the stone. Eden had three breaths before the next group of Husks reached the door, and he used all three to count what he had. One door, one corridor, two friends he could not leave, and a boy who had never held a shield made for someone twice his size. He did not like the sum.
 
-He fought the way he had been taught on the practice ground, short thrusts and no swing, because a swing in a corridor hit the wall. Once he lost the spear to a grey hand and caught the shaft again an inch from the wrist. Once he laughed, a short surprised sound, because a Husk had slid on the heap of its own dead and gone down on its face. Then he stopped laughing and set his feet again.
+Rowan held it. The turn was a good place to stand, because the corner meant a Husk could not come at him in a straight line. His spear went into the first grey body that came round the corner and came out with a piece of its brass joint on the point. He planted his foot and brought the butt down on the next one. The dead piled up at the turn, and the Husks had to climb over their own kind to reach him.
 
-Eden was at the near door with **[Exa]** folded to the shield, taking the ones that came through the yard wall. Every strike rang on the iron ring and went into the stone, and the cold was in his arm up to the shoulder.
+He did not use the gold light again. There was none left in him after the yard, and his hands shook on the shaft. He fought the way he had been taught, with short thrusts and no swing, because a swing in a corridor hit the wall. Once a Husk slid on the heap of its own dead and fell on its face, and Rowan laughed, a short, surprised sound. Then he stopped and set his feet again.
 
-A Husk came through the yard wall itself, where the plaster had burned off. Eden took it low with the ring and high with the blade in one turn. Another came behind it with a burning rag across its shoulder and did not seem to notice. He cut the knee, then the neck, and stepped back as it fell so the fire stayed on its side of the threshold. The smoke was thick enough now that he could hear the next one before he could see it. He counted strikes because counting was a thing he could do while his body reported the hits.
+Eden fought at the near door with **[Exa]** folded into the shield. Every blow rang on the iron ring and ran up his arm. A Husk came through the wall itself, where the burning plaster had fallen. He took it low with the shield and high with the blade in one turn. Another came behind it with a burning rag on its shoulder. He cut the knee, then the neck, and stepped back as it fell, so that the fire stayed on its side of the door.
 
-Felix was at the far door with the bow held low and no arrow on the string. He had shot his last clean shot at the coal pile and he had refused the second because **[Osk]** was one arrow and total quiet, and neither existed in a corridor full of fire. He stood with his back to the door and watched the dark behind him, because the dark behind him was where the children had gone.
+At the far end Felix had no arrow on the string. His power, **[Osk]**, gave him one silent arrow, and a corridor full of fire and shouting was not a quiet place. He stood with his back to the far door and watched the dark in front of him. If anything came through, it would come at the children's path.
 
-Eden could not be at both doors. He looked at Felix, and then at the space between them, and he made three knocks on the stone with the iron ring.
+Eden could not be at both doors. He looked at Felix, and at the space between them, and he understood what he had to do.
 
-The knocks went through the corridor and through the smoke. Felix turned because three knocks was not a sound anyone made by accident in a fight. He put his hand out behind him and said, in a clear voice, "Perrin."
+The Dragon spoke in his head, dry and quick. *You are about to lend what is not yours to lend.*
 
-The shield left Eden's arm and was in Felix's hand in the time it took a man to turn. **[Thessa]** was a round shield with a plain iron face and a strap worn smooth by someone else's hand. It came when it was called the way a dog comes to a whistle. It had always come back to its owner since the day it was made. It had come to Felix now because Eden had lent it, and the loan had been answered with a name. Felix took it by the strap and held it low. The weight settled on his front foot and did not shift, even when the door frame shook from a blow on the other side. He looked at the face of it, then at his own boots in the snow, then at the near door where Eden stood, and he said nothing until the first blow arrived.
+*It is the only way.*
 
-Felix looked at the mark inside the strap: a small raised feather with one bar bent out of line. He put his thumb on it and kept it there while a Husk came through the far door and struck the shield. The blow rang once and went nowhere, and the shield stayed where his hand had put it.
+*It will answer to him only if he gives you his middle name. Names cannot be taken. They can only be given.* A pause. *Do you want it badly enough to ask?*
 
-Felix stood with the shield out and his eyes on the far door. "Wren."
+Eden had asked Felix for it once, in the autumn, over a bun, in a plain voice. Felix had said it without asking why. That was how it stood now.
+
+He knocked three times on the stone with the iron ring.
+
+* * *
+
+Three knocks was not a sound anyone made by accident in a fight. Felix turned. He put out his hand and said, in a clear voice, "Perrin."
+
+It was his middle name. Eden had known it for years. A name could only be given. Nobody had taken it from him, and he had given it freely, because Eden had asked.
+
+A second shield rose out of the shadow at Eden's feet, and crossed the corridor in a blink, and was in Felix's hand in the time it takes to turn. It was a round shield with a plain iron face and a strap worn smooth by someone else's hand. **[Thessa]** came when called, the way a dog comes to a whistle, and it always went back to its owner in the end. For now, because Eden had lent it, it stayed with Felix.
+
+Felix stared at his own hand. A moment ago it had been empty. "It is warm," he said.
+
+"Hold it low. Let the face take the blow, not the arm."
+
+"How do you know?"
+
+"I have held it." Eden's voice did not change. "Hold it low."
+
+Felix took it by the strap and held it low. The weight settled on his front foot and did not shift, even when a blow on the far door shook the frame. A Husk burst through and struck the face of the shield. The blow rang once and went nowhere. The shield stayed where his hand had put it.
+
+Felix looked at the inside of the strap. A small raised feather had been stitched into the leather, with one bar of it bent out of line. He put his thumb on it and kept it there.
+
+"Wren."
 
 "Yes."
 
-"Three knocks and a name. That is a loan, isn't it?"
+"Three knocks and a name. That is a loan, is it not?"
 
 "Yes."
 
@@ -54,62 +80,86 @@ Felix stood with the shield out and his eyes on the far door. "Wren."
 
 "Not while you are holding it."
 
-"I did not think so." Felix turned the shield a little so the iron face caught the firelight. "I have been trying to work out what you do at night for five years, and you answer me with a shield that comes when I say my middle name."
+"I did not think so." Felix turned the shield a little so that the iron face caught the firelight. "I have wondered for five years what you do at night. Now you hand me a shield that comes when I say my middle name."
 
-"It was the only answer that fitted."
+"It was the only way it would come."
 
-"It fits too well." He put his thumb back on the feather mark. "Something said my name back," he said, in the small flat voice he used for things he had decided not to understand.
+"It fits too well." He kept his thumb on the feather. "Something said my name back," he said, in the small flat voice he used for things he had decided not to understand.
 
 "That was the shield," Eden said.
 
-"I know what it was." Felix turned the shield a little and the feather mark went out of sight. "I did not know a thing could answer a name."
+"I know what it was. I did not know a thing could answer a name."
 
-Rowan called from the turn. "We are losing the corridor."
+* * *
 
-Eden went back to the near door. He took two Husks on the shield and put the butt of **[Exa]** into a grey throat on the third. The third one went down across the threshold where the others had to step over it. Fire moved closer to the turn behind them. A burning beam fell across the corridor and split it in two. Sparks went up and died in the snow.
+Rowan called from the turn. "We are losing the corridor!"
 
-Clara moved to follow Rowan as he shifted position. She had been sitting with her hand on the stone. When she stood the wound at her forearm opened again and the grey at its edges spread another inch. Rowan turned and caught her by the elbow before she fell, and he put himself between her and the turn with the spear across his body. He held there with his back to the enemy for four heartbeats while she sat down again on the stone.
+Eden went back to the near door. He took two Husks on the folded shield of his lance and drove the butt of his lance into a grey throat on the third. The third went down across the threshold, where the others had to step over it. Fire crept closer to the turn. A burning beam fell across the corridor and split it in two. Sparks went up and died.
 
-"I can close it," she said.
+Clara tried to stand. When she did, the wound at her forearm opened, and the grey crept another inch up her arm. Rowan caught her elbow before she fell. He put himself between her and the turn with the spear across his chest, and he held there with his back to the enemy for four heartbeats while she sat down again.
+
+"I can close it," Clara said.
 
 "Do it."
 
 "It will cost what is left."
 
-"Then take what is left." Rowan's voice shook once and then went steady. "I can hold for a minute. I cannot hold for a minute and watch you die as well."
+"Then take what is left." Rowan's voice shook once and went steady. "I can hold for a minute. I cannot hold for a minute and watch you die as well."
 
-Clara pressed her hand to the wound. The grey edges stopped moving and the skin closed from the sides in. When she took her hand away there was a dark line where the grey had been, like a pencil mark that would not rub out. She sat with her back against the wall and her eyes open and her hands in her lap. Rowan stood in front of her with the spear point at the turn. He put his hand behind him without looking. She put her hand into it. He held it for a moment and then let go, because he needed both hands on the spear.
+Clara pressed her hand to the wound. The grey stopped moving, and the skin closed from the sides inward. When she took her hand away, a dark line remained where the grey had been, like a pencil mark that would not rub out. Her face was white. Her eyes were open.
+
+Rowan put his hand behind him without looking. She took it. He held it for a moment and let go, because he needed both hands on the spear.
 
 "I am all right," she said.
 
 "I know."
 
-"No, you do not." Clara kept her eyes open. "Say it properly."
+"No, you do not. Say it properly."
 
-"You are all right." Rowan's voice broke on the last word and he set his feet again. "I can hold for a minute."
+"You are all right." His voice broke on the last word. He set his feet. "I can hold for a minute."
 
 "Then hold it."
 
-Eden looked once and then went back to his door, because a corridor did not hold itself while a person watched someone they loved.
+Eden looked once, and then he turned back to his door, because the corridor would not hold itself while he watched.
 
-The near door gave a long creak. Eden stepped into the frame so that the next body had to come through him, and he set **[Exa]** across the opening at the height of a neck. The fire light came through the smoke in broken lines across the iron. Somewhere behind the wall a beam let go and fell, and the whole corridor shook with it, and a little plaster dust drifted down onto his shoulders like early snow.
+* * *
 
-The sounds changed at the far end. Felix's shield rang once, twice, and then a third time, and the third strike drove him back two steps into the door frame. He held. The shield came back to his arm after the blow as if it had never left it. He shifted his feet and put it into the next grey reach.
+At the far end the shield rang once, twice, three times. The third blow drove Felix back two steps into the doorframe. He held. The shield came back to his arm after the blow, as if it had never left. He shifted his feet and drove it into the next grey reach.
 
-"Wren," Felix said. "I do not know how much longer I can hold this."
+"Wren," he said. "I do not know how much longer I can hold this."
 
 "Hold until the children are through."
 
-"They are through." Felix's voice went flat. "They have been through for six minutes."
+"They are through. They went through six minutes ago."
 
 "Then hold until I say stop."
 
-"Tell me what to do." Felix did not turn round. "Do not tell me why. Do not tell me it will be all right. Just tell me what to do."
+"Tell me what to do." Felix did not turn round. "Do not tell me why. Do not tell me it will be all right. I am holding something I do not understand. Just tell me what to do."
 
-Eden put the ring against the near door and heard the strike coming before it arrived.
+Rowan looked back along the corridor. His face was grey with smoke and sweat, and his spear arm shook. "How many more are there?"
 
-Behind him, through the stone, something large was walking in the yard, and the walls carried each step into his boots. It was not hurrying. It was not a Husk. He did not tell Felix that either. He had two choices and one of them was a word. "Hold the door," he said, with the ring already against the stone. "Count to twenty out loud so I can hear it through the smoke. If I have not come back, take the shield and go through the far door with it."
+"I do not know."
 
-"Twenty out loud," Felix said. He repeated the number once, which was something he did when he wanted a number to stay where he had put it. "One. Two."
+"Guess."
 
-The corridor went on burning, and the shield rang under his hand at three, and he kept counting out loud into the smoke.
+"Twenty," Eden said. It was a guess. It was also a lie that helped, because a number a man could hold in his head was easier to fight than an unknown.
+
+"Twenty," Rowan said, and breathed out, and set his feet. "That is not so many."
+
+From the stone behind the turn Clara spoke without lifting her head. "Eden."
+
+"Yes."
+
+"Go and see what is walking. We can hold twenty."
+
+"We can hold twenty," Rowan agreed, as if he had thought of it.
+
+Eden looked at the three of them, at a shield he had lent and a girl whose arm was marked and a boy who would not stop smiling because he did not know how. He had no right to be proud of them. He was, and he put it away where he kept the rest.
+
+Eden put the ring against the near door and heard the next blow coming before it arrived. Behind him, through the stone, something much larger than a Husk was walking in the yard. The walls carried each step into his boots. It was not hurrying.
+
+He did not say that. "Hold the door," he said. "Count to twenty, out loud, so I can hear it through the smoke. If I have not come back, take the shield and go through the far door."
+
+"Twenty, out loud." Felix said the number again, as he did when he wanted a number to stay where he had put it. "One. Two."
+
+The corridor burned. The shield rang under his hand at three, and Felix kept counting into the smoke.

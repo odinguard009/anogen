@@ -1,81 +1,125 @@
 # Chapter 48: The Crown in the Smoke
 
-Eden went through the tents looking for the grafted Crown and found the vice-headmaster first.
+Eden went through the tents to find the grafted Crown, and he found the vice-headmaster first.
 
-The fire had reached the third row of tents and the canvas was lit from inside like paper lanterns. Smoke lay along the snow at knee height and the heat made the cold air shiver above it. A bell somewhere was ringing a count nobody was following.
+The fire had reached the third row of tents. The canvas glowed from inside like paper lanterns. Smoke lay along the snow at knee height, and the heat made the cold air shiver above it. A bell somewhere was ringing a count that nobody was following.
 
-Strent stood in the middle of the east rows with a list in his hand and his coat buttoned wrong, directing teachers and prefects with the calm of a man who had been expecting this particular fire all week. He was apologising as he worked.
+Halvard Strent stood in the middle of the east rows with a list in his hand and his coat buttoned wrong. He was directing teachers and prefects with the calm of a man who had expected this fire for a week. He was apologising as he worked.
 
-"I am sorry," he said to a sergeant. "No, the west store first. I know it is burning. I am sorry. Send two people to the well and tell them to take the long way round the coal pile."
+"I am sorry," he said to a sergeant. "No, the west store first. I know it is burning. Send two people to the well, and tell them to take the long way round the coal pile."
 
-A teacher came out of the burning rows with soot on his face and asked where the buckets were. Strent pointed to the well without lifting his eyes from the list. "There were six," he said. "Now there are four. I am sorry. Take the one by the coal pile and not the one by the horses."
+A teacher came out of the burning rows with soot on his face and asked where the buckets were.
 
-"Are you giving orders to the teachers, sir?"
+"There were six," Strent said, without lifting his eyes. "Now there are four. I am sorry. Take the one by the coal pile, not the one by the horses."
 
-"I am giving orders to whoever is standing in front of me." Strent turned a page. "At the moment that is you."
+He did not stand under any of the lamps. The lamps that still burned threw hard circles of light on the snow. Strent moved from one dark patch to the next with his list held close to his chest. When he saw Eden, he smiled, and the smile arrived before the apology.
 
-He did not stand under any of the lamps. The lamps that had not gone out stood on crates and threw hard circles of light on the snow. Strent moved from one dark patch to the next with his list held close to his chest. He read by firelight and never by the lamps. Once he stepped over a fallen board and apologised to it. Nobody else would have done that. The teacher behind him stepped over the same board without a word. When he saw Eden he smiled, and the smile arrived before the apology, as it always did.
-
-"Mr. Wren. I am sorry. There is a Crown in the east tents. He has a graft in his right arm and he is moving toward the infirmary." Strent looked at the list. "I would normally ask you to help me, but you do not look like a person who should be asked."
+"Mr. Wren. I am sorry. There is a Crown in the east tents, a man with a grafted arm. He is moving toward the infirmary." He looked at his list. "I would ask you to help, but you do not look like a person who should be asked."
 
 "Where is the infirmary guard?"
 
-"With the children." Strent flipped a page. "I am sorry, Mr. Wren. That is the wrong answer, isn't it?"
-
-"Where is the Crown now?"
-
-"Two rows ahead. He is shouting for someone called Wren." Strent put the list under his arm and looked at Eden with the mild expression he used in class. "Do you want me to go with you?"
+"With the children. That is the wrong answer, I think." Strent turned a page. "He is two rows ahead. He is shouting for someone called Wren. Do you want me to go with you?"
 
 "No."
 
-"I thought not." Strent took a step back into the dark between two lamps. "I will put out the lamps in that row, then. It will make it harder for him to see the boy he wants." He said it as if it were a small kindness, and he did not wait for an answer.
+"I thought not." Strent stepped back into the dark between two lamps. "I will put out the lamps in that row, then. It will make it harder for him to see the boy he wants." He said it as if it were a small kindness, and he did not wait for an answer.
 
-The rows of tents were narrow enough that a man had to turn sideways to pass a bunk, and the smoke had got into them and made the canvas glow from below. One tent had a boot sticking out through the flap and no one inside it moving. A prefect was dragging a crate out of another tent with both hands and shouting for help that did not come, and Eden put a shoulder to the crate and pushed it into the open before he went on.
+* * *
 
-The smell came before the man. It was the dry cold smell of the exchange cellar and the dye-works and the dead groundskeeper, and it came through the smoke in a thin line that Eden could follow. He put the scarf up over his mouth and went between the tents with **[Exa]** in his hand and the shield folded across his forearm. The smoke had got into his eyes and made them water, and he wiped them on his sleeve and kept walking. A Veil could copy a face and a voice and a dead woman's patience, but it could not copy the way a man walked when he had a purpose, and Harrow was not trying to copy it. He was shouting too loudly to be a copy of anything.
+The tents here stood so close that a man had to turn sideways between them. One tent had a boot sticking out of the flap and nobody moving inside it. A prefect was dragging a crate out of another tent and shouting for help that did not come. Eden put a shoulder to the crate and pushed it into the open before he went on.
 
-The Crown of Gallowmarch stood in the gap between the third and fourth tents with his coat open and his right arm out. His name was Desmond Harrow. Someone had written it on a card that Eden had seen on a table in the wash-house that morning. The arm was grey from shoulder to knuckles, and the grey had climbed into his neck in a net that showed under the skin. He was not old, but his face had the colour of wet paper.
+In the next tent a soldier lay under a fallen pole with his leg trapped. He saw Eden and shouted. Eden lifted the pole with one hand, because lifting it was quicker than explaining why he could not stop, and the soldier dragged himself out. "Thank you," the soldier said. "Where are you going?"
 
-"You are late," Harrow said. His voice had the pleasure in it that dying men had when they had solved something. "The Tailor said you would come for the boy."
+"East."
 
-Eden did not answer. He looked at the tent behind Harrow, which was burning at one corner with the canvas sagging in the middle, and at the shadow it threw across the snow. The shadow had an edge where the firelight stopped. That was enough.
+"There is nothing east but fire."
 
-Harrow's **[Grask]** came first. His right arm swelled inside the coat until the seam split. The grey hand grew wide enough to span a man's chest. He brought it down where Eden had been standing.
+"Then that is where I am going." Eden did not wait. Every moment spent was a moment the man ahead had, and he did not know yet what the man wanted.
 
-**[Grask]** did not need a blade or a spell. It needed the arm and the reach of it. The grey spread another inch up Harrow's neck each time he used it, and the flesh under his collar made a sound like wet cloth being wrung out. Eden took one step back and felt the heat of the tent on his face and the cold of the dust coming off the man in front of him, and he understood that Harrow was spending himself with every grab.
+He smelled the man before he saw him. It was a dry cold smell, the smell of the exchange cellar, the dye-works and the dead groundskeeper. It came through the smoke in a thin line that Eden could follow. He pulled the scarf over his mouth and went between the tents with **[Exa]** in his hand.
 
-Eden went under the grab and put the shield's edge into the inside of Harrow's elbow. The arm did not bend. It kept coming and caught his shoulder and lifted him half off the snow. The cold went through the plates of **[Exa]** into his ribs. He took the blow on the shield because there was nowhere else to put it.
+The place was a gap between the third and fourth tents. Behind Eden the way back was a narrow lane, forty steps long. On his right, a tent was burning at one corner, with its canvas sagging in the middle. Ahead, in the gap, stood Desmond Harrow, the Crown of Gallowmarch. To Eden's left a conscript boy had stopped with a bucket of water and was staring.
 
-Harrow pulled him close with the grey hand and spoke into his helm. "You smell like the bottom of the world," he said. "Do you know what that smell is?"
+Harrow stood with his coat open and his right arm out. The arm was grey from shoulder to knuckles, and the grey had climbed into his neck in a net that showed under the skin. He was not old, but his face was the colour of wet paper.
 
-Eden did not answer. He got his foot under the man's knee and pushed, with the shield still on the arm. Harrow's stance broke for half a step. It was the only opening a giant with an unbreakable arm ever gave. Eden knocked twice on the air under the burning tent's shadow while stepping in. The Door opened where the fire had drawn its sharp edge across the snow.
+"You are late," Harrow said. He sounded pleased, the way a dying man sounds when he has solved something. "The Tailor said you would come for the boy."
 
-Harrow's second grab went into the Door up to the elbow. He tried to pull back and could not. The grey hand was caught in a place with no room for it. Eden shut the Door on the arm. The arm came off at the shoulder with a sound that was not loud. Harrow staggered back into the smoke with his right side dark and his coat hanging open. Grey showed at the stump in a ring that kept spreading.
+"Which boy?"
 
-He did not fall. He reached inside his coat with his left hand and brought out a knife.
+"You will see."
 
-He did not look at the stump. A man who had spent his arm like that had a minute left in him, perhaps two, and he knew it, and it showed in the way he stood: loosely, all weight on the back foot, a man spending the last of a purse. A conscript had been carrying a bucket of water between the tents and had stopped to stare at the fight, and now he stood face to face with a one-armed Crown and a blade at his throat. Water went over the edge of the bucket and ran across the snow until it reached the fire and made a small white hiss.
+The words came back to Eden like a stone dropped in a well. *You smell like the bottom of the world.* The Veil in the exchange had said it, and now a man was saying it who was still alive. Two different mouths had said the same sentence. That was not luck, and he put it in the box where he kept what was not yet an answer.
 
-The boy was young. A red band circled one sleeve because he had been helping the prefects. Both his hands were full of the bucket handle, so he could not put them up without dropping it. He looked at Eden with his mouth shut and did not make a sound. Harrow held the knife with his left hand. His grip was steady, which was worse than if it had shaken. He had stopped smiling now that the arm was gone, and the grey in his neck kept climbing while he stood there.
+Eden looked past him at the burning tent and at the shadow it threw across the snow. The shadow had a hard edge where the firelight stopped. That was enough. If the tent fell, the shadow would change.
 
-Eden took one step and then stopped, because the man's hand was already tight on the boy's collar and the smoke had gone between them. He could not cut without touching the boy. He could not knock without the boy hearing it and struggling. Harrow smiled at him over the conscript's shoulder with water dripping off the bucket onto the snow.
+* * *
 
-"Ask me," Harrow said. "You always ask, don't you?"
+Harrow's arm swelled inside his coat until the seam split. The heat in the lane grew while he watched. This was **[Grask]**. His grafted arm grew until the grey hand was wide enough to span a man's chest, and it could crush what it caught. Each use made the grey climb another inch up his neck. Eden saw that, and he understood that Harrow was spending himself with every grab.
+
+The hand came down where Eden had been standing. Eden slid under it and put the edge of the shield into the inside of Harrow's elbow. The arm did not bend. It came round and caught Eden's shoulder and lifted him half off the snow. The cold went through his plates into his ribs. He took the weight on the shield because there was nowhere else to put it.
+
+Eden took the next grab on the shield, and the one after that. Each one drove him back a step toward the burning tent, and the heat on his back grew with each step. Harrow was winning, and he was spending himself to do it. The grey had reached his jaw. His breath had begun to rasp. Eden counted the grabs: three, and the grey up one hand's width each time. A man could not do this ten times, not even a Crown. He did not need to beat the arm. He needed the arm to run out, and he needed to be standing in the right place when it did.
+
+Harrow pulled him close and spoke into his helm. "You smell like the bottom of the world," he said. "Do you know what that smell is?"
+
+Eden did not answer. He got his foot behind the man's knee and pushed. Harrow's stance broke for half a step. It was the only opening that a giant with an unbreakable arm ever gave.
+
+On the right the burning tent groaned. Its center pole had burnt through. Eden looked at it for one heartbeat and understood the shadow. When the tent fell, its shadow would drop across the snow in one piece, with a clean edge, and for a breath it would be still.
+
+He stepped back under the sagging canvas, so that Harrow's next grab would reach across it. The grey hand came. The tent fell.
+
+The shadow dropped across the snow in a single dark sheet. Eden knocked twice on the ground.
+
+A black doorway opened where the shadow lay, with firelight along one side. Harrow's hand went into it up to the elbow and stuck. He tried to pull back and could not. The grey arm was caught in a place with no room for it. Eden shut the Door.
+
+The arm came off at the shoulder with a sound that was not loud.
+
+* * *
+
+Harrow staggered into the smoke with his right side dark and his coat hanging open. Grey showed at the stump in a ring that kept spreading. He did not fall. He reached inside his coat with his left hand and took out a knife.
+
+He had a minute left, perhaps two. He knew it, and it showed in the way he stood: loose, all his weight on the back foot, a man spending the last of a purse.
+
+The conscript boy had not run. His red band showed on one sleeve because he had been helping the prefects. Both of his hands were full of the bucket handle, so he could not put them up without dropping it. Harrow stepped sideways and caught him by the collar, and the knife was at his throat before the bucket hit the snow. Water ran across the ground until it met the fire and hissed.
+
+Eden had taken one step. He stopped.
+
+He could not cut without touching the boy. He could not knock without the boy hearing and jerking. Harrow smiled at him over the boy's shoulder.
+
+"Why this boy?" Eden asked.
+
+"Because he is a boy with a bucket, and you cannot cut through him." Harrow's breath came short, but his voice stayed even. "My orders were to hurt the camp. I have done that. This is only for myself."
+
+"Ask me," Harrow said. "You always ask, do you not?"
 
 "Ask you what?"
 
-"What you are." Harrow's eyes went to Eden's left hand. Then to the scarf at his mouth. Then to the burning tent shadow behind him. "You have been asking all night. The Veil, the groundskeeper, the boy in the snow. You never ask the thing that matters."
+"What you are." Harrow's eyes went to Eden's left hand, then to the scarf at his mouth, then to the fallen tent. "You have asked all night. The Veil, the groundskeeper, the boy in the snow. You never ask the thing that matters."
 
-Eden's left hand went to the glove at his wrist and stopped there. The smell of the dust came off Harrow in waves now that the arm was open, and the fire behind him made the grey in his neck shine like wet glass.
+A teacher stood ten paces away with a bucket and did not know whether to come closer. A line of soldiers came out of the smoke with their blades down, because they had seen the knife and did not know what to do. Lance Nine had come up behind them. Lysette stood with her hand over her mouth. Rowan held his spear flat across his body and did not move. They were all watching, and nobody could help.
 
-A teacher stood ten paces away with a bucket in his hand and did not know whether to come closer. Eden did not look at him. He put one finger against the ring of **[Exa]** and stopped the movement before it made a sound, because a knock would have made the boy jerk, and a jerk would have finished it.
+Rowan whispered, almost without moving his mouth, "Eden. What do we do?"
 
-Strent's voice came from the gap between the tents, calm and apologetic and loud enough to be heard over the fire. "Put the knife down, Mr. Harrow. I am sorry, but you have made a mistake about this camp."
+"Nothing," Eden said, so low that only Rowan heard. "Do not move. If he sees one of you step, he will use the knife."
 
-Harrow turned his head toward the voice, and the knife moved half an inch across the boy's throat. Eden could not see whether the skin had broken. The boy's eyes were shut and his lips were moving. Eden could not hear what he was saying over the fire and the hum of the grey under the snow.
+"I can throw the spear."
 
-He tried the angles again, one after another, as he would have worked a sum on a board. Over the boy's head, the knife hand was too close. Under the arm, the knife hand was closer. The tent shadow behind Harrow was a Door, but a Door opened on a throat of the Mawgate, and the boy would go through it with the man. He tried a fourth angle and a fifth. None of them left a boy alive, and he did not pretend that one of them would.
+"You will hit the boy."
 
-Behind Harrow the infirmary tent flapped in the heat, and a line of soldiers came out of the smoke with their blades down because they had seen the knife and did not know what to do. Strent stood among them with his list held against his coat, and he said something quietly to the nearest soldier, and the soldier put his blade away. That was the right order, and Eden noted it even with Harrow's knife at a boy's throat: Strent had chosen not to make the moment louder.
+Rowan was quiet. Then, very small: "I know."
 
-The fire cracked behind the infirmary and a section of canvas came down in a long slow fold. The boy flinched at the sound. Harrow's grip tightened on his collar, and the knife stayed where it was. Nobody breathed.
+Lysette had her pencil in her hand and her book shut. She was not writing. Her knuckles were white on the pencil, and she looked at the knife as if she wished she could put a form between it and the boy's skin.
+
+Strent's voice came from the gap between the tents, calm and apologetic and loud enough to carry over the fire. "Put the knife down, Mr. Harrow. I am sorry, but you have made a mistake about this camp."
+
+Harrow turned his head toward the voice. The knife moved half an inch. Eden could not see whether the skin had broken. The boy's eyes were shut, and his lips were moving.
+
+*You are thinking,* the Dragon said in his head. *That is good. Think faster.*
+
+*He has a knife at a boy's throat.*
+
+*Then do not do the obvious thing.*
+
+Eden worked the angles as he would work a sum on a board. Over the boy's head, the knife hand was too near. Under the arm, it was nearer. The fallen tent's shadow behind Harrow was a Door, but a Door opened for a boy would take the boy too. He tried a fourth angle and a fifth. None of them left the boy alive, and he did not pretend that one of them would.
+
+A beam cracked behind the infirmary, and a fold of canvas came down in a long slow sheet. The boy flinched at the sound. Harrow's grip tightened, and the knife stayed where it was. The sound of the fire filled the lane, and under it, very faintly, Eden heard the boy's lips moving. He was counting. It was the only thing he could think of to do. Nobody in the lane breathed.

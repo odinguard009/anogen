@@ -138,7 +138,7 @@ Felix reached him first, with his book under one arm. "You lost by one finger," 
 
 "I slipped a little," Eden said.
 
-"No. I know what slipping looks like. I do it every day." Felix looked at the judges, who were still writing. "I will not tell anyone. But I will know, and I will not ask you why."
+"No. I know what slipping looks like. I do it every day." Felix looked at the judges, who were still writing. "I will not tell anyone. But I will know, and I will not ask you why. That is the deal I have with everyone about you."
 
 Lysette came across the sand with the linen in her hand before either of them said anything more. She took Eden's left hand and pulled the glove off, and then she wrapped the strip around the knuckles. She pulled it too hard. The linen bit into the split skin, and Eden's fingers opened on their own, and he let them.
 

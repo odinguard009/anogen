@@ -180,6 +180,6 @@ Rowan knelt, picked up a roll and handed it to Lysette. She took it without look
 
 "Yes." She put the roll on the table. "To answer your question, Seraphine: no one. Write that on your card."
 
-"Nobody is worth a joke," Seraphine said, and went out with Felix behind her. He carried the fallen soufflé on a plate and looked at it as carefully as he looked at his books. She held the door for him because his hands were full.
+"No one is worth a joke," Seraphine said, and went out with Felix behind her. He carried the fallen soufflé on a plate and looked at it as carefully as he looked at his books. She held the door for him because his hands were full.
 
 Lysette watched them go. Then she turned the form over and wrote one line at the bottom, where the paper had a greasy mark from the roll: KITCHEN, NO INJURY. She drew a square around the words and put the form in her book without reading it back.

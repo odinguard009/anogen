@@ -134,4 +134,4 @@ Valerius thought of Eden on the bell, moving his hand a finger's width and letti
 
 "The glass atrium," Valerius said. He said it because Merrow had asked in the mild voice he used for maps and promises, and because the prince had answered that voice all his life. Outside the room an officer waited with a stack of papers and a face that wanted a decision, and Valerius stepped past him without taking them.
 
-He did not think about the answer twice. It was only a hall, and everyone in the school knew its name, so the answer gave nothing away.
+He did not think about the answer twice. It was only a hall, and everyone in the school knew its name, so the answer gave nothing away to anyone.

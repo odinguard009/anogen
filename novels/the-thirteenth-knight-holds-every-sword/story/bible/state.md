@@ -203,3 +203,9 @@
 - Bandits on the carriage road since dawn: the Duke offered soup and a purse, a pistol misfired twice near Bertram, and Bertram took it away. Greta stood on the step with the ladle; nobody was hurt. The gun did not decide anything.
 - plants: Bertram's boots muddy at dawn; the Duke said "Your mother had w—" and Greta's ladle hit the dish; a chapel bell rang once unprompted when the Duke laughed (bell/Unbind hint only, no awakening). Felix asked about the tea and got a long story about a leaking roof.
 - Hook: Felix at the east-room window: "Your family is very loud. You are very quiet. Which one is the act?" Eden: "Both."
+
+## Mon 21 Dec (ch 29)
+- Breakfast: Eden answered Felix's "which one is the act" with a half-truth: he learned to be quiet in a house where people talked a lot; "That is true." / "Give me the other half." / "I cannot." Felix took it as better than "both" because it admitted the lie.
+- Lake: Duke tried to tell Eden about Liora four times in eleven years and could not finish; she was making something for him in the workshop and the Duke promised to give it when he was old enough, then burnt the paper he wrote about it. Father and son fished in silence for an hour; the Duke caught one small fish and put it back. "That was practice."
+- Bertram waited at the jetty with a dry cloth and did not mention the boots again. The third oar has only "ma" left of its painted name.
+- Dream: Tutor said "I once set a test for a king. He failed it. Do not fail yours." A crown with no centre stood on the edge of the board; Eden did not touch it, and the nine pawns stayed in line.

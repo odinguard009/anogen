@@ -77,3 +77,6 @@ The steam press prints a paper blaming the Vigil for lawlessness at the Ball. Ly
 
 ## Ch 28 - The House at Seven
 Eden and Felix take the veinline train to Silverfell, where the Argentine household is loud and the Duke pulls them both into dinner. Bandits on the carriage road are dealt with over soup and fish: a pistol misfires twice near Bertram and he takes it away politely, with no one hurt. Bertram's boots were muddy at dawn; the Duke nearly says "your mother had w-" before Greta's ladle strikes a dish; and a bell rings once by itself when the Duke laughs. Felix asks which of the family's noise and Eden's quiet is the act.
+
+## Ch 29 - The Crown with No Centre
+Felix presses Eden for the truth about his quietness and gets a half-truth he can live with. On the lake the Duke tries again to speak about Liora and something she was making for Eden, but cannot finish; they fish in silence and he puts his one catch back. That night the Tutor sets a board with nine pawns and tells Eden that a king once failed his test. On the edge of the board sits a crown with no centre.

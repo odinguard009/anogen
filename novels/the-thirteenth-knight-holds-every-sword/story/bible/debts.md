@@ -44,3 +44,7 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [open] Bertram's boots muddy at dawn; he went out before the family woke | planted: ch 28 | due: 163
 - [open] A bell rings once when the Duke laughs, without a hand on it | planted: ch 28 | due: 251
 - [open] Duke nearly says "your mother had w-" and Greta drops the ladle | planted: ch 28 | due: 163, 175
+
+- [open] Tutor set a test for a king and the king failed it; "Do not fail yours" | planted: ch 29 | due: 170, 340
+- [open] A crown with no centre on the edge of the Tutor's dream board | planted: ch 29 | due: 340
+- [open] Duke tried four times in eleven years to say what Liora was making for Eden, and burnt the paper | planted: ch 29 | due: 170-176

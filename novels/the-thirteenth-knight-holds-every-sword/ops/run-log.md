@@ -151,3 +151,14 @@
 - REVIEW ch 28: PASS. check_chapter OK (1808 words, mean 11.3, dialogue 42%). Epigraph from outline/epigraphs.md. Read twice; no Unbind occurs, only a bell ringing once when the Duke laughs, and the pistol misfires twice without deciding a fight.
 - New terms kept to two (veinline, vein-steel) and each explained in plain words. Household first appearances have traits and habits; no new canon names beyond existing characters.
 - Plants recorded in debts.md: muddy boots, broken mother-line, bell hint. The Duke's line is cut off by the ladle and never completed.
+
+### 2026-11-26 07:01 UTC (14:01 WIB) - tulis bab berikutnya - chapter 29 - ok
+- words: 1800
+- scores: tension 2, surprise 3, emotion 5, battle_clarity -, voice 4, freshness 4
+- notes: Felix half-truth; silent fishing; Tutor's king test; crown with no centre.
+- quota_note: 
+
+### self-review ch 29 - MEDIUM risk, same session, not independent
+- REVIEW ch 29: PASS. check_chapter OK (1800 words, mean 12.6, dialogue 45%). No reveal: Liora's work stays unnamed, the king's test and the crown are H plants for 170/340.
+- Eden stays flat: rods give his hands a job, water and boots are data, no feelings narrated. The Duke's unfinished sentences are dialogue, not an info dump.
+- Continuity: answers ch 28's "which one is the act"; third oar and Bertram's boots follow ch 28; Felix stays with his book and jokes.

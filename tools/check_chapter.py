@@ -133,6 +133,9 @@ def main():
     names = set(re.findall(r"(?<=[a-z,;:] )[A-Z][a-z]+(?: [A-Z][a-z]+)*", body))
     if len(names) > 16:
         issues.append(f"{len(names)} distinct capitalized names/terms (max 16, target 12): cut background names, see CLARITY AND PICTURE")
+    glued = re.findall(r"\b[a-z]{2,}[A-Z][a-z]+\b|\b[a-z]{3,}\d+\b", re.sub(r"\*\*\[[^\]]*\]\*\*", "", body))
+    if glued:
+        issues.append("glued words or typos (missing space?): " + ", ".join(sorted(set(glued))[:6]))
     dash = (raw.count("—") + raw.count("--")) * 1000 / max(wc, 1)
     notes.append(f"em-dashes per 1000 words: {dash:.1f}")
     if dash > 12:

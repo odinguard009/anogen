@@ -4,7 +4,7 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [open] Hairpin in locked door (Ynde) | planted: ch 2 | due: ch 172-176, 197
 - [open] Veil: "bottom of the world"; Inead hums | planted: ch 3 | due: ch 48-50, 176
 - [paid ch 23] Exchange call list = Ball guest list (Rowan no.1); Embers want Rowan alive | planted: ch 3, 18 | due: ch 24-26
-- [paid ch 45] Locket (Corentin); empty frame ch 13 | planted: ch 13, 21, 27 | due: ch 36, 45
+- [paid ch 37] Locket (Corentin); empty frame ch 13 | planted: ch 13, 21, 27 | due: ch 36, 45
 - [open] Construct requisition signed by a dead master; grey dust in the core | planted: ch 5-6, 8 | due: ch 22-23, 95
 - [open] Okoru saw the shield-hold before; "not by feel" | planted: ch 4, 11 | due: ch 60-66
 - [open] Rowan's light = Lirenne fresco | planted: ch 6 | due: ch 105-110
@@ -37,7 +37,7 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [open] Bell 4th tone | planted: ch 3 | due: ch 420
 
 - [open] Feather stamped inside Eden's left gauntlet | planted: ch 23 | due: 172-176
-- [paid ch 24] Ball plan names Rowan and Seraphine as guests to collect, with the wrong night (Friday not Saturday) | planted: ch 23 | due: 24-26
+- [open] Ball plan names Rowan and Seraphine as guests to collect, with the wrong night (Friday not Saturday) | planted: ch 23 | due: ch 99 (placeholder: who wrote the wrong night is still unexplained)
 
 - [paid ch 25] Ilsabet Rorke beaten and spared, not killed | planted: 25 | due: 25, 50
 
@@ -81,7 +81,7 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 
 - [paid ch 45] Groundskeeper's shadow does not move with his breath; his coat wet but hair flat and dry in the storm | planted: ch 43 | due: 44, 45
 - [open] Clara heals frostbite beyond her standing and pays with feeling in her own hands; tells Eden she is fine and he says "That's not fine" | planted: ch 43 | due: 47, 480
-- [paid ch 45] Felix checked the oil line and chose not to write it down | planted: ch 43 | due: 45
+- [open] Felix checked the oil line and chose not to write it down | planted: ch 43 | due: ch 60 (placeholder: Felix keeps what he saw of the oil line)
 
 - [paid ch 45] C2: Corentin was a Veil and Eden killed it — reader confirm by short past-tense memory scene (court stairs PR 110, grey under the face, one cut, confirm mark), no feeling words
 - [open] Camp believes the dead groundskeeper was the mastermind of the whole attack | planted: ch 45 | due: 50, 185

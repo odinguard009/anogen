@@ -12,6 +12,7 @@ import sys
 from pathlib import Path
 
 T = Path(__file__).resolve().parent
+sys.path.insert(0, str(T))
 REPO = T.parent
 
 
@@ -35,6 +36,14 @@ def main():
         nx = {}
         print("engine_state next FAILED:", out[-300:])
     hold = nx.get("hold")
+    try:
+        from common import OPS
+        blocked = (OPS / "blocked.md").read_text(encoding="utf-8", errors="replace")
+        first = next((ln for ln in blocked.splitlines() if ln.startswith("## ")), "")
+        if re.match(r"##\s*HOLD\b", first) and "resolved" not in first.lower():
+            hold = True
+    except Exception:
+        pass
     print("hold:", "YES - write nothing; only the owner clears it (see AGENTS.md)" if hold else "no")
     for k in ("next_chapter", "writer_range", "critic_pending", "critic_changed_after_review", "reason"):
         if k in nx:
@@ -47,6 +56,12 @@ def main():
         print("  ", ln[:200])
     rc, out = run("debts.py")
     print(out.splitlines()[-1] if out else "debts: ?")
+    try:
+        from common import OPS
+        rp = (OPS / "reading-page.txt").read_text(encoding="utf-8").strip()
+        print("reading page URL:", rp or "NOT RECORDED (AGENTS.md step 5: build, publish, record in ops/reading-page.txt)")
+    except Exception:
+        print("reading page URL: NOT RECORDED (AGENTS.md step 5: build, publish, record in ops/reading-page.txt)")
     print()
     if hold:
         print("NEXT: HOLD is active. Write nothing. Tell the owner the hold reason in 3 lines.")

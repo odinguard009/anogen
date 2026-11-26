@@ -155,3 +155,5 @@ Scores ch 41-50: several 5s in the climax chapters (45, 46, 47, 48, 49, 50); the
 - What: the writer and critic are the same session across all fifty chapters.
 - Why: prepass and verify catch mechanics, not the feel of a cold read.
 - Fix: when the owner has a fresh reader available, ask for one read of the climax (45-50) before arc 2 begins. No engine change made.
+
+Resolved 2026-11-26 (owner order): the repeated A1 'word floor' proposal is closed. Root cause: it was a rule gap, not an editing habit; the minimum is now 2000 (code floor, locked setting 16) and chapters 5-50 were rewritten to meet it.

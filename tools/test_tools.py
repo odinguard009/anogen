@@ -803,6 +803,24 @@ def policy_adversarial_tests():
         shutil.rmtree(d, ignore_errors=True)
 
 
+def start_tool_test():
+    root = mkroot([1, 2], ARC_RUNNING)
+    try:
+        c, o = run(root, "start.py")
+        check("start.py: prints status and a NEXT line", "NEXT:" in o and "hold: no" in o, o[-300:])
+        run(root, "engine_state.py", "hold", "set", "--reason", "test hold")
+        c, o = run(root, "start.py")
+        check("start.py: reports HOLD and says write nothing", "hold: YES" in o and "Write nothing" in o, o[-300:])
+        run(root, "engine_state.py", "hold", "clear")
+        write(root / "ops/blocked.md", "# Blocked\n\n## HOLD from the owner\nwait\n")
+        c, o = run(root, "start.py")
+        check("start.py: a HOLD section in blocked.md counts as a hold", "hold: YES" in o, o[-300:])
+    finally:
+        shutil.rmtree(root, ignore_errors=True)
+    agents = (TOOLS.parent / "AGENTS.md").read_text(encoding="utf-8")
+    check("AGENTS.md keeps its START HERE section", "## START HERE" in agents and "tools/start.py" in agents)
+
+
 def debts_parser_test():
     import debts
     assert debts.due_numbers("- [open] x | planted: ch 1 | due: ch 24-26") == [24, 26]
@@ -1057,6 +1075,7 @@ def main():
     encoding_and_debt_tests()
     words_floor_test()
     debts_parser_test()
+    start_tool_test()
     if FAILS:
         print("\nFAILED:", ", ".join(FAILS))
         sys.exit(1)

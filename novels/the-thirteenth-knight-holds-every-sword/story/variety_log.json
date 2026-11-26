@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "chapter": 2,
+    "picks": {
+      "opening_type": "action already in progress",
+      "scene_shape": "ensemble scene with conflicting goals",
+      "tension_type": "resource shortage",
+      "emotional_tone": "fear held in check",
+      "comic_device": "physical comedy with no food and no forms",
+      "conflict_type": "hunt against a creature",
+      "pacing_shape": "interrupted scene: cut away at the peak, return later",
+      "hook_type": "a promise or threat"
+    }
+  }
+]

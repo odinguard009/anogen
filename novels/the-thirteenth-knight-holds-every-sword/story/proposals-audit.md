@@ -65,3 +65,21 @@ Auto-applied: banned.md (+caps: "eaten today" 1, "very" 8, "like a" 6, "nobody" 
 1. Dialogue share: ch 8, 9, 10 first drafts came out at 17-21% and needed several patch rounds. Suggest the writer plans at least 6 dialogue exchanges per chapter before drafting. No engine change made.
 2. Repeated device: Gorrath holds a door in ch 8 and again in ch 9. Suggest a different use of the retainers before ch 20 (Mirelle or Vesk carry the next action beat).
 3. Ledger: the debt "Seal seeks hooded door-shield; Beatrix" says planted ch 10 but ch 10 (Lysette POV) does not plant it. Plant it by ch 13 or move the date; owner/planner to decide.
+
+## Audit through chapter 10 (2026-11-26 new draft, same session, not independent)
+Scores ch 1-10: tension never above 4, surprise 3-4, voice/freshness steady at 4, one 5 for emotion in ch 10 (Lysette POV). No debt is past due. Chapters 8/9/10 sit 21-24% dialogue by prepass (warning only); no filler added. No auto-append to banned.md or variety_menu.json this round.
+
+### A1. Too many object endings
+- What: ch 6-10 each end on a paper or small object (wrong date, card, written line, envelope, handkerchief).
+- Why: the profile asks for varied action/object/line endings; five in a row reads as a habit.
+- Fix: in ch 11-15, end at least two chapters on a line of dialogue or an action, unless the outline line itself names an object hook.
+
+### A2. Low tension in the quiet chapters
+- What: tension scored 3 in ch 6, 7, 9 and 10.
+- Why: these chapters follow the outline, but four quiet chapters in a row slow the run before the Ball clock starts.
+- Fix: where the outline already gives a clock (ch 11 graded run, ch 12-15 Ball week), state the clock in the first scene; do not add danger the outline lacks.
+
+### A3. Several chapters sit on the word-count floor
+- What: ch 7, 9 and 10 are 1801-1807 words.
+- Why: expansions late in drafting tend to be dialogue, which pushes the share up while the count stays near the floor.
+- Fix: when a chapter is short, add one concrete action or object beat before adding another line of talk.

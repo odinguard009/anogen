@@ -803,6 +803,17 @@ def policy_adversarial_tests():
         shutil.rmtree(d, ignore_errors=True)
 
 
+def words_floor_test():
+    import common
+    old = common.settings
+    try:
+        common.settings = lambda: {"chapter_words_min": "1500"}
+        assert common.setting_int("chapter_words_min") == 2000, "word floor must be 2000"
+    finally:
+        common.settings = old
+    print("ok: chapter_words_min floor 2000")
+
+
 def encoding_and_debt_tests():
     import tempfile
     import common
@@ -1036,6 +1047,7 @@ def main():
     stage5_tests()
     stage6_tests()
     encoding_and_debt_tests()
+    words_floor_test()
     if FAILS:
         print("\nFAILED:", ", ".join(FAILS))
         sys.exit(1)

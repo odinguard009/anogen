@@ -16,4 +16,6 @@ Use this before writing any fight. One line per mechanic: what the reader SEES, 
 | Grask / Hrak (grafted Embers) | A grey arm that swells | A crushing grab; each use spreads grey up the neck | Grey creeps toward the head |
 | Veil | A person whose shadow does not breathe | Cannot say the victim's middle name; dies to grey dust | Only Inead's light shows it |
 
+Door placement: a Door opens IN a shadow, not anywhere. It can take a thing standing on the shadow (ch 46: the lane), or the thing that casts it (ch 24: the chandelier goes into its own shadow on the roof glass). Eden must be in reach of the surface to knock on it.
+
 Rules of use: say the mechanic in one plain sentence at or before the moment it matters; at most ONE new mechanic per scene; name a Door by what it does ("a black door opened behind its arm"), not by the word, after the first mention.

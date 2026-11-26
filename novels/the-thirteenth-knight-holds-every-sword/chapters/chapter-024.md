@@ -56,41 +56,47 @@ The band stopped for a second time and the room below clapped. Lysette did not a
 
 "Yes."
 
-The band reached the end of a tune and the room below clapped, and in the quiet that followed the clock tower rang the eleventh bell. It rang once, and every lantern in the glass hall went out together.
+The band reached the end of a tune and the room below clapped. In the quiet that followed, the clock tower rang the eleventh bell. It rang once, and every lantern in the glass hall went out together.
 
-The atrium below went dark except for the moon through the roof glass and two work lamps left burning near the kitchen door. Eden's view through the cloudy panels went from gold to grey in one beat. On the dance floor, people stopped and laughed, because a ballroom going dark was the kind of thing that happened at the end of a dance and not in the middle of one.
+The atrium went dark except for the moon on the roof glass and two work lamps left burning by the kitchen door. On the dance floor, people stopped and laughed. A ballroom going dark was the kind of thing that happened at the end of a dance, not in the middle of one.
 
-Then the chandelier above the centre of the hall came loose.
+Eden marked where everyone stood. The chandelier hung over the centre of the floor, fifteen steps below his chin. The band was in the north corner, with Rowan and Clara beside it. Seraphine stood under the north edge of the chandelier with her hand in Felix's sleeve. The two work lamps stood below and to the east. They threw the chandelier's shadow up onto the roof glass under his hands. It was a black shape with a hard edge, where the kitchen light cut across it.
 
-It did not fall at once. It swung once on its chain with a sound that went through the whole room, and the two work lamps threw its shadow up across the glass roof in a wide dark arc. People below looked up and saw a black shape pass over the dance floor, and some of them laughed because it looked like a trick of the Ball.
+Then the chandelier came loose.
 
-Eden saw its shadow before he saw the thing itself, because the moon threw the shadow across the glass roof in a long dark shape with a clean edge where it crossed a strip of light from the kitchen lamp. The chandelier swung down toward a cluster of students near the north table, and Seraphine was under it with her hand in Felix's sleeve and her face turned up to the dark.
+It did not fall at once. It swung once on its chain, with a sound that went through the whole room, and the shadow on the glass swung with it. Some people looked up and laughed. They thought it was a trick of the Ball.
 
-Eden knocked twice on the glass beside his hand.
+The chain gave a second time. The chandelier dropped a full arm's length and swung north, toward Seraphine.
 
-The Door opened in the chandelier's shadow where it lay across the roof glass: a black rectangle with a bright edge, no bigger than a doorway but growing as the shadow fell. Eden needed the edge to hold, and the kitchen lamp gave it one. The chandelier went through the opening with a crash that shook the panels under his cheek, and the Door shut on its chains, and the chains broke with a sound like a handful of coins dropped on stone. Below, the students saw a dark shape cross the floor and vanish into a patch of shadow under the north table, and the chandelier was gone from above them with no place for it to have gone.
+Eden knocked twice on the glass, inside the shadow.
 
-His left arm went cold to the elbow and stayed there. He flexed the fingers twice and counted the beats of his breath until the feeling came back.
+The Door opened. It took the shape of the shadow, a black doorway on the glass as wide as the chandelier itself. The kitchen light ran along one edge. The chandelier was the thing that made that shadow, and it went into it. One breath it was falling over Seraphine's head. The next breath there was only air, and a chain end swinging, and a few bright drops of glass falling on the floor.
 
-Seraphine looked up at the empty space where it had been. Felix had her by the elbow and was pulling her back from the north table with the stiff care of a boy who had never touched anyone in his life and had decided that tonight he would learn. He did not say a word. His book was not in his hand, and Eden realised he had never seen Felix without it. Her hand stopped shaking, and she put the other hand over it, and said something to Felix that the roof could not hear.
+He shut the Door. His left arm went cold to the elbow and stayed cold. He flexed the fingers twice and counted his breaths until the feeling came back.
 
-A shout came from the west gallery. Eden kept his eye on the hall through the glass. Men in dark coats had come out of the gallery stairs with black cards held in their hands, and the cards had broken crowns pressed into the paper. They did not run. They walked to the edges of the room and stood there with their hands at their sides, and seven more came through the kitchen door behind the two work lamps.
+Below, Seraphine looked up at the empty air. Felix pulled her back from the north table by the elbow. He did it with the stiff care of a boy who had never touched anyone and had decided that tonight he would learn. His book was not in his hand, and Eden realised he had never seen Felix without it. Her hand was shaking, and she put the other hand over it.
 
-From his place on the roof Eden counted them again, because the first count had been too fast. Fourteen. Two at each door, three in the gallery, and the rest spread through the crowd so evenly that they had plainly walked the floor before tonight. They carried no banner and wore no mask. That was the cruelty of it. Anyone in the hall could have seen those faces at a market or a ferry or a chapel door, and none of them would have been remembered.
+A shout came from the west gallery. Eden kept his eye on the hall. Men in dark coats came down the gallery stairs with black cards in their hands, and seven more came through the kitchen door. They did not run. They walked to the edges of the room and stood there with their hands at their sides.
 
-The cards were black and soft at the edges, and each one had a broken crown drawn in ash on the front, the same mark Eden had kept in his book since the lunch line in November. The men held them out like invitations, and the students nearest them took a step back without being told, because everyone in the school had heard what the Ashen Crowns were and nobody had expected to see one in a ballroom.
+Eden counted them again, because the first count had been too fast. Fourteen. Two at each door, three in the gallery, and the rest spread through the crowd so evenly that they had plainly walked the floor before tonight. They carried no banner and wore no mask. Anyone in the hall could have seen those faces at a market or a ferry or a chapel door, and none of them would have been remembered.
 
-One of them raised a short blade and put it against a prefect's neck, and told the room, loudly and quite politely, not to move. The prefect's tray of cups shook, and not one cup fell.
+Each card had a broken crown drawn on it in ash, the same mark Eden had kept in his book since the lunch line in November. The men held them out like invitations. The students nearest them took a step back without being told.
 
-The band stopped. Two hundred people stood still under the roof glass, and the only thing moving in the hall was a grey shape on the floor where the chandelier's shadow had been.
+One of them put a short blade to a prefect's neck and told the room, loudly and quite politely, not to move. The prefect's tray of cups shook, and not one cup fell.
+
+For a moment nobody in the hall understood what they had seen. A woman near the south door began to scream. The man beside her put a hand over her mouth, not unkindly, because a blade was already at the next throat.
+
+Eden stayed on his stomach with his hand flat on the cold glass, and the roof was very quiet. He could not go down. Fourteen blades were in the room, and he had one Door that had already cost him an arm. Ysolde's order still held: not seen, not yet. What he could do was count, and he counted.
+
+The band stopped. Two hundred people stood still under the roof glass. The only thing moving in the hall was the chain end of the chandelier, swinging over an empty floor.
 
 Lysette was on her feet at the rail with both hands on the iron. "The Ashen Crowns," she said. "They are in the hall."
 
 "Yes."
 
-"Seraphine is under the north table."
+"Seraphine was under the chandelier."
 
-"She is standing."
+"She is standing. The chandelier is gone."
 
 "Is she hurt?"
 
@@ -146,4 +152,4 @@ An Ember near the north table turned his head up toward the roof, as if he had h
 
 "There!" he shouted. "The Thornmere boy. Wren. We thought he was ours."
 
-Below him, Lysette stopped moving altogether.
+Beside him, Lysette stopped moving altogether.

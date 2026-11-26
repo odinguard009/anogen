@@ -50,7 +50,7 @@ Harrow pulled him close with the grey hand and spoke into his helm. "You smell l
 
 Eden did not answer. He got his foot under the man's knee and pushed while the shield was still on the arm, and Harrow's stance broke for half a step, which was the only opening a giant with an unbreakable arm ever gave. Eden knocked twice on the air under the burning tent's shadow while stepping in. The Door opened where the fire had drawn its sharp edge across the snow.
 
-Harrow's second grab went into the Door up to the elbow. The far side was the Mawgate's throat, warm and grey and full of the sound. He tried to pull back and could not, because the grey hand was caught in a place with no room for it. Eden shut the Door on the arm. The arm came off at the shoulder with a sound that was not loud. Harrow staggered back into the smoke with his right side dark and his coat hanging open. Grey showed at the stump in a ring that kept spreading.
+Harrow's second grab went into the Door up to the elbow. He tried to pull back and could not, because the grey hand was caught in a place with no room for it. Eden shut the Door on the arm. The arm came off at the shoulder with a sound that was not loud. Harrow staggered back into the smoke with his right side dark and his coat hanging open. Grey showed at the stump in a ring that kept spreading.
 
 He did not fall. He reached inside his coat with his left hand and brought out a knife.
 

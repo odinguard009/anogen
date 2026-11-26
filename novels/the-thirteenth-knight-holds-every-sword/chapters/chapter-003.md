@@ -78,17 +78,17 @@ Another click. A child: "Your mother rang."
 
 The room smelled of hot copper and cold sweat. Eden put one gloved finger against the door and pushed.
 
-The switchroom was long and narrow. One lamp hung from the ceiling on a cord, and under it stood the board: a wall of dark wood, twelve steps wide, full of holes and brass pins and little shutters. Copper cables came out of the top and ran along the ceiling like roots. A woman sat at the board with her back to the door, a headset over her ears, her grey coat hung on the chair.
+The switchroom was long and narrow, and Eden stood at its east end, in the doorway. The far wall, twelve steps away, held the board: dark wood full of holes and brass pins and little shutters, with copper cables running up and across the ceiling like roots. One lamp hung on a cord over the middle of the room. Its light threw the board's shadow, square and black, onto the wall behind it. The woman sat at the board with her back to him, a headset over her ears, her grey coat on the chair.
 
-Eden counted the room. One door behind him. One window, painted shut. The lamp. The board's shadow on the wall, black and square, big enough.
+"Your mother rang," she said into the headset. "Come to the exchange. Bring a coat. It is cold."
 
-"Your mother rang," the woman said into the headset. "Come to the exchange. Bring a coat. It is cold."
+She pulled a plug and pushed it into another hole. Somewhere in the city, a telephone rang in an empty room.
 
-She pulled a plug from the board and pushed it into another hole. Somewhere in the city, a telephone rang in an empty room.
+Eden counted the room. One door behind him. One window, painted shut. The lamp. The board's shadow, big enough. He had one clear thought, the way he always did before a fight. The voices came out of the board, and the board was her mouth. Stop the mouth.
 
-Eden crossed the carpet in six steps. He put his palm against the wall inside the board's shadow and knocked twice.
+He crossed the carpet in six steps and stopped in the edge of the lamp's light, on her left. Then he knocked twice on the wall inside the board's shadow.
 
-The sound was small, like a knuckle on a door. Then the shadow opened. A black rectangle, taller than a man, stood in the wall, and its edges were sharp as paper. The cables' shadows leaned toward it and fell in. The hum stopped. The lamp steadied.
+The sound was small, like a knuckle on a door. A black rectangle opened in the wall, taller than a man, with an edge of pale light along one side. The cables' shadows leaned toward it. The hum dropped, and the lamp steadied.
 
 The woman turned around.
 
@@ -96,23 +96,19 @@ Her face was a supervisor's face: about fifty, tired, kind, with a small mole by
 
 "The Thirteenth Vigil," she said. Her voice was not one voice now. It was a chord, low and layered, and every note was somebody's mother. "You are early."
 
-Eden kept his eyes on her hands. He had one clear thought, the way he always did before a fight. The board was dead, but her mouth was not. Stop the mouth.
-
 She stood up. Her coat fell off the chair. Under it she wore the exchange's grey uniform, and her hands were too long for her sleeves.
 
 "Your mother rang," she said. "She asked for you. She said you would come."
 
-Eden drew **[Exa]** from his own shadow.
+Eden drew **[Exa]** from his own shadow. It came out of the black under his hand: a short lance, a little longer than his arm, matte black, cold even through the glove. He held it at his hip, point forward.
 
-It came out of the black under his hand: a short lance, a little longer than his arm, matte black, cold even through the glove. It made no shine under the lamp. He held it at his hip, point forward, the way he had held it a thousand times in the dream Vault.
+The Veil moved first. She took a copper bar off the wall by the board, as long as a walking stick, and came at him in three long steps. The bar hit the air where his head had been. He turned on his front foot, and the second swing caught the lance.
 
-The Veil moved first. It took the copper bar off the wall by the board, a heavy thing as long as a walking stick, and came at him in three long steps. The bar hit the air where his head had been. He turned on his front foot, and the second swing caught the lance.
+He knocked once on the iron ring at the lance's guard, and **[Exa]** folded. It became a black shield the size of a tea tray, with the ring on the outside. The bar struck the ring and rang like a bell. The shock ran up his arm to the elbow.
 
-He knocked once on the iron ring at the lance's guard, and **[Exa]** folded. The lance shortened into a black shield the size of a tea tray, with the iron ring on the outside. The copper bar struck the ring and rang like a bell. The shock went up Eden's arm to the elbow, and his fingers went cold.
+"Your mother," the Veil said, in a woman's voice, low and fond, "used to sing to you."
 
-"Your mother," the Veil said, and this time the voice was a woman's, low and fond, "used to sing to you."
-
-Eden's shield did not move. Behind the slit of his helm, his eyes stayed on her shoulders, not her mouth.
+Eden's shield did not move. His eyes stayed on her shoulders, not her mouth.
 
 "Say my middle name," he said.
 
@@ -124,23 +120,33 @@ The Veil said a name. It was not his.
 
 He did remember a song. That was the trouble with Veils. They pulled the words out of the air and the air out of your chest. But a name had to be given, and nobody had given her his.
 
-Eden took one step back. The Veil came after him, fast and wrong-jointed, the copper bar low. He caught it on the shield again, let it slide, and put the shield's edge into her wrist. The bar dropped.
+She came again, fast and wrong-jointed, the bar low. Eden gave ground. One step back, then two, and the Veil followed him down the room, away from the board. She was winning, and she knew it. The door was now three steps behind him.
 
-She did not stop. She reached past him for the lamp cord.
+Then she looked up at the lamp.
 
-Eden needed light. Light makes edges. Edges make doors. He put his shoulder into her chest and drove her back against the board. The lamp swung, and the whole room moved its shadows.
+She dropped the bar and reached for the cord. If the lamp went out, the board's shadow went with it, and the Door would close. Eden saw that at the same moment she did.
 
-Then he drew **[Inead]**.
+He did not go for her hand. He went for the board.
 
-It came into his right hand as a thin cold line first, then as gold light made solid: a hand-and-a-half sword with a plain grey grip, shining like a low sun in a cellar. It rang once when it left the air, one clear note, and the room turned honest. A small ache settled behind his eyes. The sword was cheap to hold, but it was not free.
+He stepped in, put the shield's edge into her wrist, and drove her back along the carpet with his shoulder. Her long arm swung wide and hit the lamp cord. The lamp swung, and every shadow in the room moved. The board's shadow slid across the wall, and the Door slid with it. Her back hit the board. Cables caught her shoulders and her wrists.
+
+Eden knocked once more on the wall beside her head.
+
+The Door opened wider. The cables' shadows fell into it, all together, like rope paid out over a rail. The cables above her went slack. The hum stopped. In the middle of a word, every voice in the chord went quiet but one, and that one was her own.
+
+It was thin and flat. It was not anyone's mother.
+
+She looked at him with her mouth open. Nothing came out that he had not already heard.
+
+Eden drew **[Inead]**.
+
+It came into his right hand as a thin cold line first, then as gold light made solid: a hand-and-a-half sword with a plain grey grip, shining like a low sun in a cellar. It rang once, one clear note, and the room turned honest. A small ache settled behind his eyes. The sword was cheap to hold, but it was not free.
 
 The supervisor's face went to glass. Under the skin, the grey body showed: long, thin, folded, with too many joints and a mouth that ran from ear to ear.
 
-The Veil said something in the chord of the dead. Every voice stopped in the middle of a word.
-
 Eden made one cut, from the shoulder down through the core.
 
-The grey body came apart like a coat falling off a hook. The voices stopped one by one: the man, the widow, the boy of nine, and last the woman's warm tired voice, which said, quite clearly, "You smell like the bottom of the world."
+The grey body came apart like a coat falling off a hook. The last sound it made was a woman's warm tired voice, which said, quite clearly, "You smell like the bottom of the world."
 
 Then there was grey dust on the red carpet, and a headset swinging on its cord, and nothing else.
 

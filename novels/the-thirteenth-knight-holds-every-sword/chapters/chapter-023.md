@@ -56,7 +56,7 @@ The boy rang his bell. He rang it twice more, and each time a different shadow a
 
 "Then we are done," said a voice from the back room, and something heavy hit the floor.
 
-Eden walked to the door and knocked once. The boy with the bell ran. The door opened from the inside because someone in the house had decided that thirteen men at the door could not be argued with, and Eden went in with **[Exa]** at his hip and the helm's white slit fixed on the nearest face.
+Eden walked to the door and knocked once. The boy with the bell ran. The door opened from the inside. Someone in the house had decided that thirteen men at the door could not be argued with. Eden went in with **[Exa]** at his hip and the helm's white slit fixed on the nearest face.
 
 They laid down their blades in the first room. Nine of them went on their knees in a line along the wall while the voices outside kept answering a roll call that had stopped being a question.
 
@@ -76,7 +76,7 @@ Vesk came in behind him in his own grey coat and searched the room with the calm
 
 "Upstairs. Second room on the landing."
 
-Eden went up with the armor's cold in his fingers. The second room had a table, a lamp turned low, and a folded sheet of paper held flat by a brass weight in the shape of a crown. A chair had been pushed back from the table in a hurry, and a cup on the floor had tipped without spilling much, which meant whoever had been reading the plan had left before the bell rang rather than after. He lifted the weight and opened the sheet.
+Eden went up with the armor's cold in his fingers. The second room had a table, a lamp turned low, and a folded sheet of paper held flat by a brass weight in the shape of a crown. A chair had been pushed back from the table in a hurry. A cup on the floor had tipped without spilling much. Whoever had been reading the plan had left before the bell rang, not after. He lifted the weight and opened the sheet.
 
 It was a list of names with a time written against each one. Rowan Tallis was on the first line, and Seraphine Aurenmark on the second, both marked GUESTS TO COLLECT. Under them, in smaller writing, were four more names Eden did not know, and a line that said the collection would happen at the eleventh bell on Friday the eleventh of December.
 

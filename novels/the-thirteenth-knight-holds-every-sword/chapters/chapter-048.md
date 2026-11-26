@@ -14,7 +14,7 @@ A teacher came out of the burning rows with soot on his face and asked where the
 
 "I am giving orders to whoever is standing in front of me." Strent turned a page. "At the moment that is you."
 
-He did not stand under any of the lamps. The lamps that had not gone out were standing on crates and throwing hard circles of light on the snow, and Strent moved from one dark patch to the next with his list held close to his chest. He read by firelight and never by the lamps. Once he stepped over a fallen board and apologised to it, which nobody else would have done, and the teacher behind him stepped over the same board without a word. When he saw Eden he smiled, and the smile arrived before the apology, as it always did.
+He did not stand under any of the lamps. The lamps that had not gone out stood on crates and threw hard circles of light on the snow. Strent moved from one dark patch to the next with his list held close to his chest. He read by firelight and never by the lamps. Once he stepped over a fallen board and apologised to it. Nobody else would have done that. The teacher behind him stepped over the same board without a word. When he saw Eden he smiled, and the smile arrived before the apology, as it always did.
 
 "Mr. Wren. I am sorry. There is a Crown in the east tents. He has a graft in his right arm and he is moving toward the infirmary." Strent looked at the list. "I would normally ask you to help me, but you do not look like a person who should be asked."
 
@@ -48,9 +48,9 @@ Eden went under the grab and put the shield's edge into the inside of Harrow's e
 
 Harrow pulled him close with the grey hand and spoke into his helm. "You smell like the bottom of the world," he said. "Do you know what that smell is?"
 
-Eden did not answer. He got his foot under the man's knee and pushed while the shield was still on the arm, and Harrow's stance broke for half a step, which was the only opening a giant with an unbreakable arm ever gave. Eden knocked twice on the air under the burning tent's shadow while stepping in. The Door opened where the fire had drawn its sharp edge across the snow.
+Eden did not answer. He got his foot under the man's knee and pushed, with the shield still on the arm. Harrow's stance broke for half a step. It was the only opening a giant with an unbreakable arm ever gave. Eden knocked twice on the air under the burning tent's shadow while stepping in. The Door opened where the fire had drawn its sharp edge across the snow.
 
-Harrow's second grab went into the Door up to the elbow. He tried to pull back and could not, because the grey hand was caught in a place with no room for it. Eden shut the Door on the arm. The arm came off at the shoulder with a sound that was not loud. Harrow staggered back into the smoke with his right side dark and his coat hanging open. Grey showed at the stump in a ring that kept spreading.
+Harrow's second grab went into the Door up to the elbow. He tried to pull back and could not. The grey hand was caught in a place with no room for it. Eden shut the Door on the arm. The arm came off at the shoulder with a sound that was not loud. Harrow staggered back into the smoke with his right side dark and his coat hanging open. Grey showed at the stump in a ring that kept spreading.
 
 He did not fall. He reached inside his coat with his left hand and brought out a knife.
 

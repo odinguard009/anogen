@@ -28,7 +28,7 @@ Vesk looked at the sky. "It will be dark soon. I cannot go past the second lamp.
 
 Eden went into the garrison at the change of watch, when the men coming off duty crowded the lower hall and the ones going on duty pushed past them in the opposite direction. He kept his hands in his pockets and his eyes on the floor, which was the way a quiet student moved through a crowded place, and by the time he reached the stairs half the hall had forgotten he was there.
 
-The night roll was called in an upper room with a long table and a board of names. Three lamps hung from chains over the table, and the light on the polished boards made a second set of edges under every object. A rack of roll books stood by the door with the current one open flat. A box of pens had been left where anyone could take one, which told Eden that the soldiers who came here trusted each other about small things. Storems stood at the head of it with a pen in his hand, a big man with a red face and a laugh that had made him popular for nine years. He was reading out names in a slow voice and marking the answers. When the laugh came it went around the room like a mug passed from hand to hand.
+The night roll was called in an upper room with a long table and a board of names. Three lamps hung from chains over the table. The light on the polished boards made a second set of edges under every object. A rack of roll books stood by the door with the current one open flat. A box of pens had been left where anyone could take one, which told Eden that the soldiers who came here trusted each other about small things. Storems stood at the head of it with a pen in his hand, a big man with a red face and a laugh that had made him popular for nine years. He was reading out names in a slow voice and marking the answers. When the laugh came it went around the room like a mug passed from hand to hand.
 
 "Wren," Storems said, when he came to the last line of a different list. "You are not on this roll."
 
@@ -44,7 +44,7 @@ The night roll was called in an upper room with a long table and a board of name
 
 "That is the reason they give you." Storems' smile came a beat late. The room laughed because they had heard the joke before and liked it again. His shadow stayed where it was for half a breath before it followed his shoulders.
 
-Eden saw the shadow move late, and he saw the two things at once. The first was a small lag, a finger of dark that stayed behind when the man turned, the sort of thing nobody would see unless they had spent three winters watching shadows for a living. The men at the table were looking at Storems's face, where the warmth was. Eden looked at the floor. The second thing was the man's smile arriving after his eyes, and the grey under the neck where the collar stood away. He needed light to make the grey honest. He could not draw **[Inead]** in a room full of soldiers who would remember a gold sword in the hands of a cadet.
+Eden saw the shadow move late, and he saw the two things at once. The first was a small lag, a finger of dark that stayed behind when the man turned, the sort of thing nobody would see unless they had spent three winters watching shadows for a living. The men at the table were looking at Storems's face, where the warmth was. Eden looked at the floor. The second thing was the man's smile arriving after his eyes. The grey under the neck where the collar stood away. He needed light to make the grey honest. He could not draw **[Inead]** in a room full of soldiers who would remember a gold sword in the hands of a cadet.
 
 He did not look at Storems. He looked past him at the window, where the last light of the day lay across a square of polished metal hanging on the wall: a signal mirror, used to flash messages to the far watch in clear weather. Its edge was a clean line and its face held what was behind him.
 
@@ -92,7 +92,7 @@ Eden pulled the scarf up over his mouth and went past him into the cold. The sme
 
 The path down from the garrison had ice in the ruts and the snow at its edges was dirty from a week of boots. Eden kept to the middle where the ice was thinnest. Vesk walked in the dark under the wall without making a sound. Eden, who had not yet said thank you for the warning, said it now, in four words, at the end of the path. "Thank you for the smell." Vesk looked at him as if he had been handed a coin of an unfamiliar country, turned it over, and decided to keep it. After that neither of them spoke until they were past the second lamp. A bugle went somewhere in the camp and was answered by another. A soldier on the parapet above them began to sing because the silence had been lifted and singing was allowed again.
 
-A veteran stood at the garrison door with a cup in his hand, watching the two of them go down the path. He had a face like a boot and a grey moustache, and he spat into the snow at the side of the step.
+A veteran stood at the garrison door with a cup in his hand, watching the two of them go down the path. He had a face like a boot and a grey moustache. He spat into the snow at the side of the step.
 
 "Thirteenth Vigil work," he said, loud enough for the men behind him to hear. "Like the Hollen boy."
 

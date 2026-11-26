@@ -24,7 +24,7 @@ Lysette did not move. Below them the Ember with the blade at the prefect's throa
 
 She looked at him for one second, and then she was gone down the stair with her gown held up in one hand, fast enough that the door did not swing shut behind her. Eden counted ten steps before he went to the glass.
 
-The roof of the atrium was a lattice of iron bars with panes of glass between them. The broken lanterns had left only the moon and two work lamps. The lamps threw the lattice's shadow down across the dance floor in a grid of dark squares with clean edges. Eden needed those edges. He opened a Door in the nearest square and stepped out of the roof and into the hall beside the north table, where no one was looking because everyone was watching the man with the blade.
+The roof of the atrium was a lattice of iron bars with panes of glass between them. The broken lanterns had left only the moon and two work lamps. The lamps threw the lattice's shadow down across the dance floor in a grid of dark squares with clean edges. Eden needed those edges. He opened a Door in the nearest square. He stepped out of the roof and into the hall beside the north table. No one looked at him, because everyone was watching the man with the blade.
 
 The first thing he noted was the number: forty students and staff standing still in two clumps, with an Ember at each clump's edge and a knife at a throat in every third pair. The second thing was that the skilled ones could not move either. Rowan stood with his spear point on the floor and Clara's hand on his sleeve. Seraphine held Felix's wrist with two fingers, and Felix had stopped looking at her card and was looking at the knife by her neck. Valerius stood at the west side with his hands open and his jaw set. A man behind him had a blade laid against the bronze pin on his collar.
 
@@ -50,11 +50,11 @@ The Door opened at her feet and her right foot went into it up to the ankle. She
 
 He needed one cut, and she was too well guarded from the front. He took a blow on the shield first.
 
-An Ember at the west clump threw a short blade at the sound of the Door. Eden caught it on **[Exa]**'s folded face, flat overhead, with the iron ring toward the ceiling. The blade struck the ring and rang, and the sound went through the hall like a bell someone had hit by mistake, and every hostage looked up.
+An Ember at the west clump threw a short blade at the sound of the Door. Eden caught it on **[Exa]**'s folded face, flat overhead, with the iron ring toward the ceiling. The blade struck the ring and rang. The sound went through the hall like a bell someone had hit by mistake, and every hostage looked up.
 
 Then Eden drew **[Inead]** under the shield in one motion.
 
-**[Lintel]** was the shield held flat and the gold sword coming out from under it: a door of black plate above his head and a cut that started where the shield ended. Gold light filled the hall for one breath and made the grey in Ilsabet's arm honest. The cut went through the frost lines at her shoulder and stopped before her neck. She dropped to her knees with her grey hand still open, and the crown on her lapel came loose and slid across the floor.
+**[Lintel]** was the shield held flat and the gold sword coming out from under it. A door of black plate stood above his head, and a cut started where the shield ended. Gold light filled the hall for one breath and made the grey in Ilsabet's arm honest. The cut went through the frost lines at her shoulder and stopped before her neck. She dropped to her knees with her grey hand still open, and the crown on her lapel came loose and slid across the floor.
 
 The hostages did not see a man in black armor. They saw a dark shape where the light was wrong and a gold glint that came and went in one motion. A girl by the north table later said the lantern must have fallen again. Felix looked at the empty space above her and said, "It did fall. I heard it."
 
@@ -68,9 +68,9 @@ Felix looked down and put his foot on it, hard. "Then I heard it."
 
 Valerius saw more than the others because he had been looking straight at the north table. He saw a shield where no shield had been and a sword that shone like a low sun. He did not move or speak. The man behind him with the blade did not know that his prince had seen anything at all. Valerius's hands stayed open at his sides, and his thumb pressed once against his palm. Then he was looking at Ilsabet on the floor as if he had been looking there all along.
 
-The Embers stepped back when Eden walked across the broken glass toward them. They did not know why. Two of them had their blades at throats and did not lower them, but their feet moved, and that was enough. Seraphine's hand, which had been shaking since the chandelier, went still again, and she said something to Felix under her breath that nobody heard.
+The Embers stepped back when Eden walked across the broken glass toward them. They did not know why. Two of them had their blades at throats and did not lower them, but their feet moved, and that was enough. Seraphine's hand, which had been shaking all night, went still, and she said something to Felix under her breath that nobody heard.
 
-Eden did not kill Ilsabet. He had a plan for killing her and a plan for not. The second was harder, because it asked him to be seen for a half breath by two hundred people and then be forgotten by all of them. She was down with her grey hand open and her crown on the floor. A kill without proof was not a thing he did. He put a cut through the brass at her wrist instead, where the grey lines ended, and the hand went slack on the stone. She looked up at the dark shape over her with a face that had lost its certainty.
+Eden did not kill Ilsabet. He had a plan for killing her and a plan for not. The second was harder, because it asked him to be seen for a half breath by two hundred people and then be forgotten by all of them. She was down with her grey hand open and her crown on the floor. A kill without proof was not a thing he did. He had already stopped the cut at her shoulder, where the grey lines ended. The grey hand lay slack on the stone. She looked up at the dark shape over her with a face that had lost its certainty.
 
 "You are not the Vigil," she said, quietly enough that only he could hear. "The Vigil kills." She watched the black slit of his helm for a reaction and found none. "What are you, then?"
 

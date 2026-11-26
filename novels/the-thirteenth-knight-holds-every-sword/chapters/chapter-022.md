@@ -40,7 +40,7 @@ A girl sat up on the sacks. "Is it a drill?"
 
 "It is a drill." Vesk did not look at her. "Take the little one and go. No talking."
 
-She got up, shook the boy by the shoulder, and gathered two younger children from behind a barrel. The boy's crust fell on the sacks and he did not go back for it. The girl counted them under her breath, once, and took the smallest by the sleeve. They went through the side door without once looking at Eden, the smallest holding a wooden spoon she had not wanted to leave. The oldest stopping at the sill to look back at the red bulb as if it might be hers to put out. Nobody had told them what the drill was for. They went anyway, the way children go when a grown man in a heavy coat says two minutes and sounds like he means it, because they were looking at the man who had ordered them, and he was an Ember to them. When the last child was out, Vesk closed the door and turned the bar.
+She got up, shook the boy by the shoulder, and gathered two younger children from behind a barrel. The boy's crust fell on the sacks and he did not go back for it. The girl counted them under her breath, once, and took the smallest by the sleeve. They went through the side door without once looking at Eden, the smallest holding a wooden spoon she had not wanted to leave. The oldest stopping at the sill to look back at the red bulb as if it might be hers to put out. Nobody had told them what the drill was for. They went anyway. That is how children go when a grown man in a heavy coat says two minutes and sounds like he means it. They were looking at the man who had ordered them, and to them he was an Ember. When the last child was out, Vesk closed the door and turned the bar.
 
 "Four," he said. "No one saw you."
 
@@ -54,15 +54,15 @@ Three men waited in the middle room. The one at the scales had a narrow face and
 
 "By the school." Vesk picked up a bundle of cloth and set it down again. "Two prefects and a girl with a book."
 
-The man at the scales grunted and turned back to his scales. That was the first leader, and Eden ended him without crossing the room. He had come in through the shadow of the outer door and had stood behind the barrels for four minutes, which was long enough to know the weight of the man's head and the exact moment he put both hands on the scale pan. Eden put **[Exa]**'s point through the gap between the man's collar and his jaw, where the grey line ran, and pushed up. **[Draught]** needed one opening, and the openness of the man's neck was the whole of it. The point stopped at the throat and the man's hands came off the scales. The weights went on tilting by themselves for a second after he was still.
+The man at the scales grunted and turned back to his scales. That was the first leader, and Eden ended him without crossing the room. He had come in through the shadow of the outer door. He had stood behind the barrels for four minutes. That was long enough to know the weight of the man's head and the exact moment he put both hands on the scale pan. Eden put **[Exa]**'s point through the gap between the man's collar and his jaw, where the grey line ran, and pushed up. **[Draught]** needed one opening, and the openness of the man's neck was the whole of it. The point stopped at the throat and the man's hands came off the scales. The weights went on tilting by themselves for a second after he was still.
 
-The other two turned. Vesk was already between them and the body, still wearing the dead man's face, and he said, in the thick voice, "Hold. He has been cut. Check the door."
+The other two turned. Vesk was already between them and the body, still wearing the dead man's face. He said, in the thick voice, "Hold. He has been cut. Check the door."
 
 "Who cut him?" the man nearest the scales asked.
 
 "One of the school boys," Vesk said, and put the thick voice through the room like a verdict. "He followed us from the bridge. Check the door."
 
-One of them checked the door. That was the second, and Eden took him as he turned back, with the lance point through the same kind of gap at the base of the skull where the coat collar stood away from the neck. He folded him down onto the sacks without letting the body hit the floor.
+One of them checked the door. That was the second. Eden took him as he turned back, with the lance point through the same kind of gap at the base of the skull, where the coat collar stood away from the neck. He folded him down onto the sacks without letting the body hit the floor.
 
 The third man was faster. He drew his blade and came at Vesk, because the borrowed face had just given an order and then the order had stopped making sense. Vesk stepped back into the red light, and the brown of his coat went grey at the edges. The dead man's voice came out of him in a crack.
 

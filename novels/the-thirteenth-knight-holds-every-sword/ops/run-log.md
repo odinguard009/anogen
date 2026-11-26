@@ -158,3 +158,16 @@
 - AURA moment has reaction shots: Harrow's hand loosens without command, Felix deliberately looks elsewhere, Valerius writes nothing, hostages report only dark shape and gold glint. No armor face or Door shown to them.
 - False Unbind is explicit: Harrow shouts his middle name and no bell rings; Eden's flat question is about himself and stays unanswered. Dust in replay is a plant, not explained.
 - Continuity: glove removed from ch 36/38 rule, scarf from ch 33, Felix's lake promise from ch 29, Lysette's replay habit from ch 13/45.
+
+### self-review ch 46-50 - written in order, same session, not independent
+- ch 46: PASS. Forty evacuated; wagon-shadow Door; first [Ithe] and [Wyl] with costs; frost and grass are hints only. check OK.
+- ch 47: PASS. Perrin debt paid; first on-page [Thessa] loan after the dream; Felix sees the feather and hears his name answered, without explanation. check OK.
+- ch 48: PASS. First [Grask] has look, effect and greying cost; Strent's lamp avoidance is a plant; hostage hook. check OK.
+- ch 49: PASS. Aura delivered in reaction shots; false Unbind with no bell; first [Lampwick] needs light and seam; dust in replay hangs still. check OK.
+- ch 50: PASS. Arc payoff: nest closed, camp saved, Clara alive; Harrow names Liora's boy; Lysette's D delivered by her silence; Eden's want-to-be-seen delivered by an unneeded question and the scarf, never narrated as a feeling. check OK.
+
+### 2026-11-26 09:20 UTC (16:20 WIB) - tulis bab berikutnya - chapter 50 - ok
+- words: 1801
+- scores: tension 4, surprise 4, emotion 5, battle_clarity -, voice 4, freshness 5
+- notes: Arc 1 close: nest destroyed; Tailor's regards; Lysette's silence; scarf question.
+- quota_note: 

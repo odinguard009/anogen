@@ -58,3 +58,6 @@ Eden finds Strent directing the fire calmly by firelight, then meets Desmond Har
 
 ## Ch 49 - Would Bells Ring
 Harrow shouts his own middle name at dawn to force a response, but no bell rings; Eden asks whether bells would ring for him. A single look from Eden makes Harrow's knife hand loosen. Felix sees the dark shape and gold glint and keeps the promise he made at Silverfell; Valerius sees and writes nothing. Eden removes his left glove, goes polite, and uses the first [Lampwick] along the seam in Harrow's neck. Lysette's replay shows a white line and dust that hangs still for one breath.
+
+## Ch 50 - Liora's Boy
+The count runs four hours; thirty-nine of the forty are alive and Clara will recover. Eden goes down through the Door under the stores, finds the nest heart, and cuts the seam that [Lampwick] shows with [Inead]; the Mawgate folds shut. Felix asks "Eaten today?" and gives Eden half a roll without asking where he went. Dying Harrow tells Eden that Liora stopped reading him, that hunger is a god, and that the Tailor sends regards to Liora's boy. Lysette's replay shows light where Eden stood and she says nothing. Eden asks whether the lanterns will be hung next year, a question he does not need answered, and holds her scarf.

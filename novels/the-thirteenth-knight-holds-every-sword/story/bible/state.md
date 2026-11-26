@@ -343,3 +343,10 @@
 - AURA: Eden stopped moving except his eyes and looked at Harrow; the knife hand loosened by a finger-width with no command and no sound. Felix saw the dark shape and gold line and deliberately looked elsewhere, keeping the promise from the lake. Valerius saw and wrote nothing. Hostages later described only white light and a shape in smoke.
 - Eden took off his left glove and went polite: "Mr. Harrow... Let the boy go." First [Lampwick] followed the seam the gold showed at Harrow's neck; the Crown fell.
 - Lysette's [Witness] replay showed dark shape, white line, and dust hanging still in the air for a breath; Okoru told her to write "smoke and a white line" and nothing else.
+
+## Fri 29 Jan to Mon 1 Feb (ch 50)
+- Count took four hours and was done twice: forty crossed, thirty-nine alive at second bell; the physician wrote "He died in the night. I could not save him" five times. Clara alive with a dark line where the grey had been; Rowan carried her four steps.
+- Eden went down through the Door under the stores, matched his steps to the tunnel's pulse, and found the nest heart: a knot of grey like the construct core with threads into the walls. **[Lampwick]** showed the seam; **[Inead]** cut it; the walls stopped pulsing and the hole folded shut. Pieces put in water; water grey then clear. Oil line left for spring.
+- Felix: "Eaten today?" / "That is not a technically. That is a no." He gave Eden the larger half of a roll and did not ask where he had been.
+- Harrow dying asked for Wren: "She stopped reading me... Hunger is a god. And the Tailor sends regards to Liora's boy." He whispered Liora's name, which no one in this camp had spoken aloud; then stopped breathing.
+- Lysette replayed the dawn: patch of wrong light, white line, dust still. She looked at the empty space where a person had stood and said nothing. Eden asked a question he did not need answered — whether lanterns would be hung next year — and held the scarf; she answered from the gate. He put the scarf around his neck and went to help the cook with bread.

@@ -101,3 +101,8 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [open] Harrow shouted his own middle name and no bell rang; Eden asked flatly whether bells would ring for him | planted: ch 49 | due: 214, 590
 - [open] Aura: Harrow's knife hand loosened under a look; Felix saw and said nothing; Valerius saw and wrote nothing; hostages saw only dark shape and gold glint | planted: ch 49 | due: 50, 101
 - [open] Dust in Lysette's Witness replay hung still for a breath | planted: ch 49 | due: 50, 590
+
+- [paid ch 50] Mawgate nest destroyed; camp saved; Clara alive | planted: 39, 45 | due: 50
+- [open] Someone knows Liora's name and sends regards by a dying Crown | planted: ch 50 | due: 51-55, 185
+- [open] Lysette's replay shows light where Eden stood; she stares and says nothing | planted: ch 50 | due: 101, 140
+- [open] Eden wants to be seen by one person and is afraid of it, delivered by an unneeded question about next year's lanterns and the scarf in his hand | planted: ch 50 | due: 101, 140

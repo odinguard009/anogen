@@ -622,5 +622,18 @@
       "pacing_shape": "long hold, one look, one cut, one replay",
       "hook_type": "dust that refuses to fall"
     }
+  },
+  {
+    "chapter": 50,
+    "picks": {
+      "opening_type": "a count written twice on damp paper",
+      "scene_shape": "morning count, descent, deathbed, gate",
+      "tension_type": "a mother's name carried by a dying stranger",
+      "emotional_tone": "quiet after catastrophe",
+      "comic_device": "carrying someone four steps because four was offered",
+      "conflict_type": "closing a nest under a camp",
+      "pacing_shape": "long morning ending on a small question",
+      "hook_type": "a question asked for no answer"
+    }
   }
 ]

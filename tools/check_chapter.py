@@ -129,7 +129,7 @@ def main():
     if share < 0.1 and wc > 500:
         notes.append("very little dialogue")
     if share < 0.25 and wc > 500:
-        issues.append(f"dialogue share {share:.0%} below 25% (target 25-40%, see CLARITY AND PICTURE)")
+        notes.append(f"WARNING dialogue share {share:.0%} below the 25-40% guide (warning only, owner order 2026-11-26): do not pad; add a real exchange only if the scene needs it")
     names = set(re.findall(r"(?<=[a-z,;:] )[A-Z][a-z]+(?: [A-Z][a-z]+)*", body))
     if len(names) > 16:
         issues.append(f"{len(names)} distinct capitalized names/terms (max 16, target 12): cut background names, see CLARITY AND PICTURE")

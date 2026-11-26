@@ -82,3 +82,7 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [open] Groundskeeper's shadow does not move with his breath; his coat wet but hair flat and dry in the storm | planted: ch 43 | due: 44, 45
 - [open] Clara heals frostbite beyond her standing and pays with feeling in her own hands; tells Eden she is fine and he says "That's not fine" | planted: ch 43 | due: 47, 480
 - [open] Felix checked the oil line and chose not to write it down | planted: ch 43 | due: 45
+
+- [paid ch 45] C2: Corentin was a Veil and Eden killed it — reader confirm by short past-tense memory scene (court stairs PR 110, grey under the face, one cut, confirm mark), no feeling words
+- [open] Camp believes the dead groundskeeper was the mastermind of the whole attack | planted: ch 45 | due: 50, 185
+- [open] Oil lines lit by Eden make edges at night; three Doors over tunnel mouth, cold-store crack and supply passage | planted: ch 39, 45 | due: 46, 50

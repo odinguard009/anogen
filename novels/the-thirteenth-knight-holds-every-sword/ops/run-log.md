@@ -102,3 +102,14 @@
 - REVIEW ch 44: PASS. check_chapter OK (1800 words, mean 13.4, dialogue 20% warning only). First uses of [Osk] and dream [Thessa] described in scene and ledger; only two new labels in the chapter.
 - No kill without confirmation: the Ashen watcher is tied alive; Okoru explicitly refuses a kill without proof. The feather stamp in the dream is a plant, not a reveal of who made the shield.
 - Continuity: Okoru's one arm and Stitch, the groundskeeper's shadow from ch 43, Vesk's warm-gate rule from ch 39/41, Lysette's sleeve grab from ch 5 echoed without comment.
+
+### 2026-11-26 08:38 UTC (15:38 WIB) - tulis bab berikutnya - chapter 45 - ok
+- words: 1805
+- scores: tension 5, surprise 4, emotion 5, battle_clarity 4, voice 4, freshness 4
+- notes: Groundskeeper Veil; first [Citation]; C2 confirm memory; Mawgate opens.
+- quota_note: 
+
+### self-review ch 45 - HIGH risk, same session, not independent
+- REVIEW ch 45: PASS. check_chapter OK (1805 words, mean 13.4, dialogue 19% warning only). Read twice. First [Citation] described with cost; 2 new labels total in this chapter ([Citation] plus repeats).
+- C2 C delivered as a short past-tense memory scene with no feeling words, as the ladder demands. Lysette is not given the knowledge; she writes only what can be said. Misdirection is explicit but not confirmed by the reader's narrator beyond the dead Veil's identity.
+- No kill without proof: grey shown under honest light before the cut. The Mawgate opening follows the oil-line and warm-floor plants.

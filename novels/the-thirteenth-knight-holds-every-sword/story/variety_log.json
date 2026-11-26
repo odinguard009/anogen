@@ -557,5 +557,18 @@
       "pacing_shape": "two lessons, one shot, one warm floor",
       "hook_type": "heat running toward a sleeping camp"
     }
+  },
+  {
+    "chapter": 45,
+    "picks": {
+      "opening_type": "a question asked at a lamp bracket",
+      "scene_shape": "quiet exposure, replay, memory, fire",
+      "tension_type": "a beloved man who is not a man",
+      "emotional_tone": "cold then catastrophic",
+      "comic_device": "nobody answering the man who asks about the brackets",
+      "conflict_type": "Veil exposed before an army opens",
+      "pacing_shape": "slow proof, short memory, sudden opening",
+      "hook_type": "the wrong side of a fire"
+    }
   }
 ]

@@ -82,3 +82,5 @@ Note: Witness first use moved from planned ch 13 to ch 11 because the outline's 
 
 - Felix's [Osk] | Felix | ch 44 | yes (kneels, eyes shut, one arrow down the path Trail hears rather than the path the eye sees; needs total quiet — boot, cough or spoken word breaks it) | yes (one arrow only; no second shot)
 - [Thessa] in the dream Vault | Dragon shows Eden | ch 44 | yes (round iron-faced shield, worn strap, lighter than it looks, covers chin to knee; small feather mark under the strap) | no limit shown in the dream; first loan on the page ch 47
+
+- Lysette's [Citation] | Lysette | ch 45 | yes (ghost-light replay held over the snow showing where the Veil was hurt, one baton strike placed on the exact inch; headache at the temples) | yes (short duration; costs her a headache; needs a still place)

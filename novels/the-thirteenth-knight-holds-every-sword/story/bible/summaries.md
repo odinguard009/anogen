@@ -43,3 +43,6 @@ During a storm watch Clara heals a conscript's frostbite at a cost to her own ha
 
 ## Ch 44 - The Shield in the Dark
 In the dream the Dragon teaches Eden the round shield **[Thessa]** and refuses to say whose hand mended it. In the dark supply tunnels, Ashen watchers follow Rowan. Felix uses the first [Osk], one arrow down the path he hears, and the watcher is tied and left alive. Lysette takes Eden's sleeve for four steps and neither speaks of it. At the cold store the floor is warm while the boards above are cold: a Mawgate warms before it opens, and the warmth runs toward the kitchens.
+
+## Ch 45 - The Wrong Mastermind
+Eden exposes the camp groundskeeper as a Veil at night and ends it in front of the soldiers who loved him. Lysette's first [Citation] shows the exact wound, at a cost of a headache, and she insists the soldiers write only what they know. A short memory scene confirms for the reader that the young man on the court stairs in PR 110 was a Veil and that Eden killed him; Lysette does not know. The camp wrongly decides the dead groundskeeper was the mastermind. Eden lights the oil lines and the Mawgate opens under the camp. The barracks are on the wrong side of the fire.

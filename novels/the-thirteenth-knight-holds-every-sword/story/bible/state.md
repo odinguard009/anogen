@@ -311,3 +311,11 @@
 - First [Osk]: Felix knelt, eyes shut, and put one arrow where Trail heard a path; the watcher fell alive, tied by Lysette with two careful knots; no kill without proof. Okoru: "We do not know who paid him."
 - Lysette grabbed Eden's sleeve for four steps at the first turn; neither mentioned it. Ashen watchers had followed Rowan.
 - Hook: the supply tunnel floor near the cold store was warm while the boards above were cold; a Mawgate is warm before it opens, and the warmth ran toward the kitchens and four hundred sleeping people.
+
+## Tue 26 Jan (ch 45)
+- Eden exposed the groundskeeper Veil alone at the third bell; the man's shadow moved without him and the grey showed under the stolen face. Vesk waited at the gate to ring once if the camp woke.
+- Lysette used the first [Citation] to show Okoru the exact inch where the Veil was hurt; headache at the temples, and she wrote it in the wrong book first. She told the soldiers only "The groundskeeper was a Veil. That is all we know."
+- C2 CONFIRM for the reader: a short past-tense memory, no feeling words — court stairs in PR 110, young man with Lysette's eyes and grey at the jaw, seven steps, one cut, confirm mark pressed into the file, walked back down without looking. Lysette did not know; she sat with her book closed and said the words that could be written.
+- Misdirection: the camp turned the dead Veil into the mastermind by the time the story reached the mess hut, and Lysette did not correct the sheet because a correction would have been a question.
+- Eden lit the oil lines from the stores end, one marker at a time, and opened three Doors over the tunnel mouth, the cold-store crack and the supply passage. Mawgate tore open at the fourth bell with Husks and grafted Embers together; all hut lamps went out.
+- Hook: the barracks were on the wrong side of the fire.

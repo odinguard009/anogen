@@ -704,3 +704,6 @@ Sunday
 # Titles and offices
 War Minister
 Minister
+
+# Garrison
+Storems

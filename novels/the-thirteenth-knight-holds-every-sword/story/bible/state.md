@@ -250,3 +250,10 @@
 - Seraphine's joke count on Felix reached 79. First [Switcheroo]: snap and wink moved her and Felix within ten steps without disturbing snow; the candle flickered backward twice. She traded posts to sit beside Eden and told the lodge story to Felix, with Rowan and Lysette listening.
 - S1 CONFIRM delivered by Seraphine, not by Eden's inner voice: winter lodge, fire out, nine under a table, door opened from outside, a boy no bigger than her with a sword, "four minutes", counted them out with smallest first, gave her his glove although she said she was warm. Eden corrected the numbers: "Eleven men." / "You said nine." / "Nine came in." / "Eleven went out." He did not explain how he knew.
 - Hook: Lysette wrote Seraphine up again for an improper post swap; her hand shook and she said she did not know why. She had written nine in three places and could not change it.
+
+## Wed 13 Jan (ch 36)
+- Vesk smelled a Veil at the garrison wearing Storems, the well-liked night-roll sergeant of nine years. Soldiers would defend him; Eden could not be seen using **[Inead]** in the lit roll room.
+- Eden entered at change of watch, saw the late smile and lagging shadow, knocked a Door behind Storems, and bounced **[Inead]**'s gold off a signal mirror so the grey showed without a visible sword. Storems broke the mirror with the lamp; Eden used the Door and cut once. Grey dust, voices stopped, no witness who could name him.
+- Second reading changed when he drew on the Door: **[Void Heir]**. He held his breath one beat and did not say the name out loud, because names spoken in a room cannot be taken back.
+- Vesk: the Veil smell stays after it dies, longer in a coat; "Do not go near Hollen until it is gone." Eden was wearing her scarf.
+- C1 C delivered by a veteran at the garrison door: "Thirteenth Vigil work. Like the Hollen boy." Lysette came round the stores and heard every word; she asked nothing in front of the man. Eden counted eleven steps to the hut and rubbed the number off his hand.

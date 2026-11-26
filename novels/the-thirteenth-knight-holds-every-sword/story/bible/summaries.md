@@ -46,3 +46,6 @@ Lance Nine descends into the cistern beneath the Wall to end the Choir before it
 
 ## Ch 35 - The Lodge
 During Wall rations week Seraphine uses the first [Switcheroo] to trade posts and sit beside Eden. She tells Felix the story of the winter lodge: a fire gone out, children under a table, a boy with a sword who counted them out in four minutes and gave her his glove. Eden corrects her number from nine to eleven, and she accepts it without asking how he knew. Lysette writes Seraphine up again for the post swap, but her hand shakes and she cannot change the nine she has already written.
+
+## Ch 36 - The Second Reading
+A Veil is wearing Storems, a popular garrison sergeant, and soldiers would defend him. Eden enters the roll room at change of watch, opens a Door behind the sergeant and bounces **[Inead]**'s light off a signal mirror so the grey shows without anyone seeing the sword. He cuts once. The reading in his head changes to **[Void Heir]** while he holds the Door, and he holds his breath for one beat. Vesk warns him the smell will stay on the coat. A veteran calls it "Thirteenth Vigil work. Like the Hollen boy", and Lysette hears.

@@ -75,3 +75,5 @@ Note: Witness first use moved from planned ch 13 to ch 11 because the outline's 
 - Rowan's [Dawnbreak] | Rowan | ch 34 | yes (gold light from both palms fills a space in one breath, bright as noon, no warmth, makes hard shadow edges and hard lines; leaves cold afterward) | yes (one breath, then cold in the face; Okoru tells him not to practice it yet)
 
 - Seraphine's [Switcheroo] | Seraphine | ch 35 | yes (snap of the fingers and a wink swaps her place with someone within ten steps; the snow under the moved person is not disturbed) | yes (small tank; fails in honest lamp light; a candle flickers backward when she lands)
+
+- Second on-page reading, **[Void Heir]** | Eden | ch 36 | yes (the register line changes when he draws on the Door: under **[Knight]** and **[Black Lancer]** a third name stands; his breath stops for one beat) | n/a (not spoken aloud; no explanation of the name on the page)

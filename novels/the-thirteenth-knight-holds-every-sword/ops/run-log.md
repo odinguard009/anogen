@@ -118,3 +118,14 @@
 - REVIEW ch 35: PASS. check_chapter OK (1804 words, mean 10.9, dialogue 57%). Banned phrase "for a long moment" replaced. Read twice.
 - S1 CONFIRM is delivered by Seraphine telling Felix, with Eden's flat number correction. No "my savior" line, no inner voice from Eden explaining the rescue. The reader learns the boy's identity from her story and his numbers, not from a narration of his feelings.
 - First use of [Switcheroo] has look, body use, limit and the candle flicker hint; no Unbind. Joke count from ch 10/19/14 reaches 79. Lysette's shaking hand is the outline hook.
+
+### 2026-11-26 07:37 UTC (14:37 WIB) - tulis bab berikutnya - chapter 36 - ok
+- words: 1802
+- scores: tension 5, surprise 4, emotion 4, battle_clarity 4, voice 4, freshness 4
+- notes: Veil in garrison; mirror trick; [Void Heir] reading; C1 C heard by Lysette.
+- quota_note: 
+
+### self-review ch 36 - HIGH risk, same session, not independent
+- REVIEW ch 36: PASS. check_chapter OK (1802 words, mean 13.4, dialogue 22% warning only). Read twice. C1 C is delivered by a veteran's words and Lysette's silence; no confirmation narration from Eden.
+- No kill without proof: the grey is shown by honest light before the cut. **[Void Heir]** is a reading, not a spoken name, and stays unexplained on the page.
+- Continuity: dust smell from ch 5/22/31, scarf from ch 33, Lysette's decree from ch 27. Vesk cannot follow into the dark beyond the second lamp.

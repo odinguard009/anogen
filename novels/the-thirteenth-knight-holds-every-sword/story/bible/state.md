@@ -130,3 +130,10 @@
 - Lysette pulled off his glove and bound the split knuckles too hard, scolding, and he let her. "Twelve times. I counted."
 - Valerius controlled his anger in the square stance; Seraphine touched his arm and he did not look at her; Okoru went back to chewing.
 - Hook, low: "My father knows who you are. So do I. Next time I'll make you show them."
+
+## Fri 27 Nov to Thu 3 Dec (ch 18)
+- Ysolde's courier delivered a note folded in three: watch Tallis without Tallis noticing; number thirteen spoken aloud. Rowan noticed a dog, a quince, a foundry child, and a spear grip; he did not notice the grey-coat tail. He was told "two wraps" by his own voice.
+- Four walks, one watcher, six paces behind Rowan's left shoulder. On Thursday evening in the unlit lane Eden opened a Door in the wall's shadow, caught the watcher's wrist, held two fingers under his jaw for four seconds, and put him in the empty dye cellar under the low beam. No chase, no witness.
+- The man's book named him: Corwen, bagman. Debt from ch 7 paid on the page. His belt knife and book were taken; the torn coat was left for people to remember. His folded paper was left so he would come back for it.
+- The paper is a copy of the exchange call list with two lines added at the top: "Alive. Night of lights." Ysolde confirmed the list is the Ball guest list and said she had told him on the twelfth; she wrote Corwen's name and did not smooth the pen's mark.
+- Hook: nine days from Thursday 3 Dec to the Ball on Saturday 12 Dec.

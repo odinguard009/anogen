@@ -143,3 +143,14 @@
 - REVIEW ch 17: PASS. check_chapter OK (1811 words, mean 10.7, dialogue 24% warning only). No new named powers; [Injunction] and [Hinge] are repeats with fresh cost detail.
 - Continuity: duel resumed the next day per the outline dates; knuckles from ch 16 are now bound; Valerius's ch 2 line ("finally stopped hiding") returns as a remembered beat, not a repeat scene.
 - Ending is Valerius's exact hook and no feeling is explained after it.
+
+### 2026-11-26 06:10 UTC (13:10 WIB) - tulis bab berikutnya - chapter 18 - ok
+- words: 1801
+- scores: tension 3, surprise 4, emotion 3, battle_clarity -, voice 4, freshness 4
+- notes: Corwen debt paid; Alive/Night of lights; nine days to Ball.
+- quota_note: 
+
+### self-review ch 18 - MEDIUM risk, same session, not independent
+- REVIEW ch 18: PASS. check_chapter OK (1801 words, mean 10.1, dialogue 25%). No chase: one lane, one Door, four seconds, one cellar.
+- Debt from ch 7 paid on the page: the book names Corwen, bagman; debts.md marked [paid ch 18]. No name was given before this chapter.
+- Continuity: "nine days" is counted from Thu 3 Dec to Sat 12 Dec; ch 9's "thirty days" from 12 Nov is the same span. No eating gag this chapter (quota stays in 12, 14, 15).

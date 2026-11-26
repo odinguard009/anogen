@@ -206,5 +206,18 @@
       "pacing_shape": "one long exchange ending on a bell",
       "hook_type": "a quiet threat from a prince"
     }
+  },
+  {
+    "chapter": 18,
+    "picks": {
+      "opening_type": "folded note with a number said aloud",
+      "scene_shape": "four walks then one lane",
+      "tension_type": "a watcher who does not know he is watched",
+      "emotional_tone": "quiet and professional",
+      "comic_device": "a quince mistaken for an apple twice",
+      "conflict_type": "surveillance and silent takedown",
+      "pacing_shape": "repetition then one clean catch",
+      "hook_type": "a countdown to a masked night"
+    }
   }
 ]

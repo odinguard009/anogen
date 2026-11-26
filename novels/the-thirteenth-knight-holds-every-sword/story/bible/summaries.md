@@ -51,3 +51,6 @@ Valerius demands a sanctioned Ladder duel. In the sand yard he makes pale walls 
 
 ## Ch 17 - A Finger's Width
 The duel resumes. Valerius presses honestly and Eden repeats **[Hinge]** until it is no longer a surprise. He waits for the bell, moves his shield hand a finger's width, and lets the prince's blade touch him as the bell's sound begins, so the judges record a narrow loss. Lysette binds his split knuckles too hard and scolds while he lets her. Valerius, angry but controlled, says his father knows who Eden is, and so does he, and next time he will make him show them.
+
+## Ch 18 - Alive, on the Night of Lights
+Ysolde orders Eden to watch Rowan without being seen. Rowan notices everything except the grey-coat man following him through the lower city. In an unlit lane Eden opens a Door in a wall shadow, puts the watcher asleep in an empty cellar without a chase, and reads his book: Corwen, bagman. A folded copy of the exchange call list carries two added words, "Alive. Night of lights." Ysolde confirms the list is the Ball guest list. The Ball is nine days away.

@@ -2,7 +2,7 @@
 
 Under the middle of the Wall lay a cistern with a stair from the inner passage. A channel ran out under the stone to the ditch. Water stood in it all year in the dark. In winter it came to a man's chest at the shallow end and over his head near the far wall.
 
-"Everything in this place is a problem," Felix said, on the stair.
+"Everything in this place is a problem," Felix said, on the stair. His voice went down the stair and came back thin, and he stopped talking at once, as if the stone had warned him.
 
 "The Choir is in there," the sergeant said. "We know because the silence comes out of the drain at noon and goes back in at dusk. Something under the water is singing without a mouth. One more silence like the last one and half this stretch will be too tired to hold. Find it and end it before the next bell."
 
@@ -24,7 +24,7 @@ Rowan looked at the water. "How deep?"
 
 Okoru had written the order, so Lance Nine went down first. The cistern was narrow enough that soldiers could not help them. Eden took the lead with a rope in one hand and a covered lantern in the other. The Choir worked through sound, and light gave its shadow a shape. Lysette came behind with her batons. Rowan followed with the spear, Clara with linen around her forearm, and Felix last with his bow dry under his coat.
 
-The water was cold enough that it went through the boots and into the knees in ten steps. A ledge at the bottom of the stair led to the deep part. Curved stone walls rose around it with old lime in the joints. Eden saw the Choir's shadow before he saw the Choir: a great swollen shape on the wall with a slow pull to it, like something breathing under water. Its edge was clean where the lantern light touched it.
+The water was cold enough that it went through the boots and into the knees in ten steps. It did not feel like water. It felt like a hand, a large careful one, closing around each leg in turn. Clara's teeth began to click, and she clamped her jaw to stop them, and the sound of her not clicking was nearly as loud. Rowan counted under his breath, his lips moving, and Felix put a hand on his shoulder and Rowan stopped, because the rule was no sounds and counting was a sound even when it was only breath. A ledge at the bottom of the stair led to the deep part. Curved stone walls rose around it with old lime in the joints. Eden saw the Choir's shadow before he saw the Choir: a great swollen shape on the wall with a slow pull to it, like something breathing under water. Its edge was clean where the lantern light touched it.
 
 "Stop," he said, quietly, and the others stopped.
 
@@ -38,7 +38,7 @@ He needed the node itself, not its shadow on the wall. Felix crouched in the sha
 
 "Under that," he said, without speaking loudly. His eyes went wide. "It is not a thing that lives there. It is a thing that was put there."
 
-The rope passed from hand to hand and came taut when the deep part pulled at them. Eden tied his end around his forearm and waited while the others closed the gaps, and he listened to the water against their legs because it was the only sound the Choir had not taken. The slab lay six steps away with the current going under it, and the surface above it had a smooth place where nothing floated, as if the water went down instead of across.
+The rope passed from hand to hand and came taut when the deep part pulled at them. Lysette tied hers with a knot Eden had not seen before, a fat loop with a tail that pulled free with one tug, and when he looked at her she touched the corner of her mouth with a gloved finger, which meant she had learned it from a book and was proud of it. He nodded. It was a good knot. In a place where a rope might be the only thing between a person and the dark, a good knot was a way of saying that she planned to come out. Eden tied his end around his forearm and waited while the others closed the gaps, and he listened to the water against their legs because it was the only sound the Choir had not taken. The slab lay six steps away with the current going under it, and the surface above it had a smooth place where nothing floated, as if the water went down instead of across.
 
 Eden moved along the wall to the slab with his hand on the stone. The shadow moved with him but not at the same speed. That was the problem. A Door needed an edge that stayed still while he cut it, and every time he found the edge the breathing moved it an inch along the wall.
 
@@ -50,7 +50,7 @@ Rowan came up beside him with his spear held across his chest. "It is faster tha
 
 "I cannot." Eden looked at the channel, then at the slab, then at the swollen shadow on the wall. "I do not need to stop it. I need it to show me where the edge is for one breath."
 
-Rowan held out both hands. Gold light came into his palms, small at first and then everywhere. **[Dawnbreak]** filled the cistern from the floor up in one breath, bright as noon under water, with no warmth in it and no sound. Every shadow snapped into a hard line. The Choir's swollen shape stood out with its edge sharp and still. Under the slab, the water showed a seam of black where the current went in.
+Rowan held out both hands. Gold light came into his palms, small at first and then everywhere. **[Dawnbreak]** filled the cistern from the floor up in one breath, bright as noon under water, with no warmth in it and no sound. It was a thing Eden had seen painted on a chapel wall and never in a room: a light that did not come from a place but from the whole air at once, so that nothing in the cistern could stand behind anything else. Every shadow snapped into a hard line. The Choir's swollen shape stood out with its edge sharp and still. Under the slab, the water showed a seam of black where the current went in.
 
 Eden knocked twice on the air beside the seam.
 

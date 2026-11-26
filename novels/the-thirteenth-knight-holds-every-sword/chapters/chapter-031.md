@@ -1,6 +1,6 @@
 # Chapter 31: The Cold Here
 
-The Southern Wall had no grass on its battlements and no smell of school anywhere on it. The wind came over the parapet from the grey country beyond with dust in it that stuck to the teeth, and the snow that had fallen in the night had gone brown by morning. The camp lay behind the wall in rows of low stone huts with no windows on the north side, and the bunks inside were two boards and a blanket, and a peg for a coat. Felix looked at his bunk for a while and said that it was less comfortable than the stable bench, which was the first honest thing anyone had said about the Rotation.
+The Southern Wall had no grass on its battlements and no smell of school anywhere on it. The wind came over the parapet from the grey country beyond with dust in it that stuck to the teeth, and the snow that had fallen in the night had gone brown by morning. The camp lay behind the wall in rows of low stone huts Smoke from the cook-fires did not rise but lay along the ground in long grey ropes, as if the sky above had been lowered by a hand and the camp pressed flat beneath it. with no windows on the north side, and the bunks inside were two boards and a blanket, and a peg for a coat. Felix looked at his bunk for a while and said that it was less comfortable than the stable bench, which was the first honest thing anyone had said about the Rotation.
 
 Lance Nine was posted to a stretch of wall with four other Lances on either side, and for the first time it stood as its own unit. Okoru had written the order himself and read it aloud before they climbed the stair: Nine holds the middle, Nine reports to the Wall sergeant, Nine does not attach itself to anyone else.
 
@@ -40,6 +40,14 @@ Rowan raised his hand. "Can I try the gun?"
 
 Felix turned a page. "That will be never."
 
+Lysette was the last up the stair. She had a roll of paper under her arm and a pencil behind each ear, and she stopped at the top to look along the whole length of the wall, left and right, with the focus she gave to a form that had been filled out wrongly. "Eleven towers," she said, to nobody in particular. "Between here and the horizon. And the sixth one has no lamp."
+
+"It has a lamp," the sergeant said.
+
+"It has a lamp-bracket. I can see the bracket." She wrote it down. "That is an item for the stores form."
+
+The sergeant looked at her for a long moment, then at the board in his own hand, and Eden saw him decide not to explain that the sixth tower's lamp had been taken down on purpose. Whatever the reason was, it was not one a sergeant told a girl with two pencils.
+
 * * *
 
 The Husk came at the second watch, when the light had gone and the wall had become a line of dark shapes with snow between them. It climbed the outer face where the stone had a ledge, moving slowly and without noise, and the two soldiers on the parapet at that end saw it before the Lantern call went.
@@ -74,7 +82,7 @@ Clara came along the wall to look at the grey hand and put one hand near it with
 
 A man came up the stair with a sack over his shoulder and a thermos in his hand. He was a groundskeeper by the look of him, a thin man in a brown coat with a cap pulled low, and he moved around the camp stores as if he had been doing it for years. He set the thermos on a bench and began sorting the cut fuses from a bundle without light enough to see their colours, and he hummed as he worked, four notes up and down, wrong by one note at the top every time.
 
-"Stories," he said, to no one. "Hot tea. Two sugars for the tall one. I do not know his name."
+"Tea," he said, to no one. "Hot tea. Two sugars for the tall one. I do not know his name."
 
 "That is Tallis," a soldier said.
 
@@ -88,7 +96,7 @@ An old soldier sat on a crate nearby with his hands around a cup. He had a face 
 
 The old soldier took a drink and did not answer. He looked at the parapet, where the Husk's grey hand lay in the snow with its fingers still moving, and then at the dark country beyond the wall. He held the cup in both hands, and the tea in it had gone the colour of the snow water. "Forty-one years I have been coming here," he said. "It was colder when I was young. Or I was warmer. One of those."
 
-"Birds," he said, a moment later. "There used to be birds on this wall, even in winter."
+"Birds," he said, a moment later. "There used to be birds on this wall, even in winter." He smiled at the thought, a small private smile, and went back to his tea, and nobody asked him anything more.
 
 * * *
 
@@ -100,7 +108,7 @@ Felix watched the empty stone where the bird had been. "I did not like that," he
 
 "No," Eden said.
 
-The sergeant came along the wall with his board under his arm and stopped beside them. He looked at the empty parapet, then at the dark country beyond it, and wrote one word on his board without showing it to anyone.
+The sergeant came along the wall with his board under his arm and stopped beside them. His face in the dark was all lines, and he looked like a man who had been awake for several days and had made peace with it. He looked at the empty parapet, then at the dark country beyond it, and wrote one word on his board without showing it to anyone.
 
 "First watch in the morning," he said. "Sleep when you can. The next watch comes early."
 

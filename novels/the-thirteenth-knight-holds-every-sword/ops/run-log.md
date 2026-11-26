@@ -159,3 +159,14 @@
 - REVIEW ch 9: PASS. check_chapter OK (1806 words, mean 9.2, dialogue 52%, under the 65% failure line). Fixed "groundkeeper" to "groundskeeper".
 - Form comedy is in boxes, not padding; king's warmth stays distant (hand stops short, no answer about the sword). Ysolde's envelope stays sealed and unexplained.
 - Continuity: Form 13-B first filed in ch 4; grey dust from ch 5 and Sorn's signature from ch 6 are in the report; Ball is nine days away from 12 Nov to 12 Dec.
+
+### 2026-11-26 05:39 UTC (12:39 WIB) - tulis bab berikutnya - chapter 10 - ok
+- words: 1807
+- scores: tension 3, surprise 3, emotion 5, battle_clarity -, voice 4, freshness 4
+- notes: Lysette interlude; C1 H and S1 D rungs; handkerchief hook.
+- quota_note: 
+
+### self-review ch 10 - MEDIUM risk, same session, not independent
+- REVIEW ch 10: PASS. check_chapter OK (1807 words, mean 10.3, dialogue 30%). Epigraph present from outline/epigraphs.md.
+- C1 stays at H (letter says "act as if it were not"; no name, no locket, no confirm). S1 stays at D (the question and "Probably" only; no story from Seraphine). No reveal, no power.
+- Lysette POV allows feeling; Eden is not in POV in this chapter. Continuity: handkerchief kept since ch 1, still unwashed; joke count begins with Felix at one.

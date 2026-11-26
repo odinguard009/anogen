@@ -80,3 +80,9 @@
 - Ysolde slid a grey sealed envelope into a drawer: "Orders you haven't earned." Do not tell the king. Plant for ch 155.
 - New target: Ember cell in the lower city dye-works, moving dust through the water lanes; children (Cinders) in the cell, do not touch them; no kill without proof. Come back by the bridge, not the ferry. "Watch the boy with the light as well as Tallis."
 - Nine days to the Ball.
+
+## Fri 13 Nov (ch 10) - Lysette POV
+- Committee rounds: one hour and ten minutes; three crooked collars, a stolen spoon returned with "please", a late slip signed on the back. Her mother's letter came with the morning bread: "House Hollen has had enough of public matters. We will act as if it were not." C1 H rung; no name, no locket.
+- Eden's file: sixty-one absences, ordinary marks, a permit signed by Ostwald. The absences cluster on afternoons with a free hour. Lysette: "Nobody is that clean. Someone has been filling these in for him." Felix: "He has practised." Lysette said "I like him too" before she chose to.
+- Seraphine sat with Eden, started a joke count on Felix (joke one: reading at lunch), and asked Eden, "You'd save me, right?" He answered "Probably." S1 D rung; no explanation of how they know each other.
+- Lysette realised she had not thought of Rowan for a full hour. She went to file the forms and found the handkerchief still in her jacket pocket, folded as his hands had left it, the feather caught on a thread.

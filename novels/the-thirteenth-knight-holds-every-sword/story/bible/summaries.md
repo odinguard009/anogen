@@ -26,3 +26,6 @@ Eden takes Gorrath and Mirelle into the unlit Undercroft workshops to trace the 
 
 ## Ch 9 - Orders You Haven't Earned
 Ysolde corrects Eden's Form 13-B and files the report on the exchange. King Theodric asks twice whether he is eating, gives him a breakfast order for early-drill days, and stops a hand short of his shoulder. Ysolde shows that the exchange call list is the Ball guest list with Rowan circled twice, and slides a grey sealed envelope out of sight: "Orders you haven't earned." The new target is an Ember cell in the lower-city dye-works, with children inside; Eden is told to watch Rowan and "the boy with the light". The Ball is nine days away.
+
+## Ch 10 - The Handkerchief
+Lysette does Committee rounds and reads her mother's letter, which says House Hollen will act as if the family's shame were not. She studies Eden's file: sixty-one absences, ordinary marks, a medical permit, and no punishments. Felix notes that he has practised being boring. At lunch Seraphine asks Eden, half joking, "You'd save me, right?" and he says "Probably." Seraphine starts a joke count on Felix. Lysette realises she has not thought of Rowan for an hour, then finds the handkerchief she meant to wash still folded in her pocket.

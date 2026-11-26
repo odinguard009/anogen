@@ -102,5 +102,18 @@
       "pacing_shape": "quiet scenes, last line lands",
       "hook_type": "a document kept out of sight"
     }
+  },
+  {
+    "chapter": 10,
+    "picks": {
+      "opening_type": "catalogue of small objects",
+      "scene_shape": "three rooms, one point of view",
+      "tension_type": "quiet self-examination",
+      "emotional_tone": "guarded and aching",
+      "comic_device": "a spoon returned with please",
+      "conflict_type": "paperwork and memory",
+      "pacing_shape": "slow turns, one last object",
+      "hook_type": "an object that was not washed"
+    }
   }
 ]

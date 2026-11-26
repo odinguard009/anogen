@@ -252,7 +252,7 @@ def build(chapter=None, extra=(), peek=False, part="full", no_tail=False, increm
         if ep:
             add("Epigraph for this chapter (put it right under the title as a '> ' blockquote, one or two lines)", ep, 500)
     if want_s:
-        add("Series arc", read(STORY / "outline" / "series.md"), 3000)
+        add("Series arc", read(STORY / "outline" / "series.md"), 3800)
     if want_d:
         ol = outline_lines(n)
         add("Outline for this and next chapters", "\n".join(ol) if ol else "NO OUTLINE for this chapter: Development Editor must plan the arc first.", 2500)

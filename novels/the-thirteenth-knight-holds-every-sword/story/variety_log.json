@@ -245,5 +245,18 @@
       "pacing_shape": "quiet questions, one mild last line",
       "hook_type": "a harmless question about lanterns"
     }
+  },
+  {
+    "chapter": 21,
+    "picks": {
+      "opening_type": "paperwork proliferation",
+      "scene_shape": "invitation then roof conversation",
+      "tension_type": "an honest memory with no answer",
+      "emotional_tone": "sad and restrained",
+      "comic_device": "four seconds of looking at a collar",
+      "conflict_type": "a secret kept in front of a friend",
+      "pacing_shape": "busy morning, long still evening",
+      "hook_type": "a decision said as a joke"
+    }
   }
 ]

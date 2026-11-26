@@ -53,3 +53,5 @@ Note: Witness first use moved from planned ch 13 to ch 11 because the outline's 
 
 - Valerius's [Injunction] | Valerius | ch 16 | yes (sword dragged along floor, the words "This line is not crossed.", a waist-high pale wall thin as glass that pushes air cold; each wall costs one short breath) | yes (one breath per wall; walls can be pushed aside if placed in a hurry)
 - Eden's [Hinge] | Eden | ch 16 | yes (pivot on the front foot like a door on its iron; charge passes where he stood, lance butt into the joint behind the knee) | yes (needs the enemy to commit; leaves the front foot numb for one step)
+
+- Lysette's silver locket | Lysette | ch 21 | yes (small silver oval on a thin chain, shut, hairline scratch, one mended link; worn under the collar one day a year; she closes her hand over it when the Black Thirteen is named) | yes (stays shut; first opened ch 27)

@@ -53,3 +53,6 @@ Rowan volunteers Lance Nine for the cooking club's Ball-week bake. Clara heals a
 
 ## Ch 20 - The Bend in the Line
 At the war council Valerius hears ministers whisper of a hidden "Void Host" and orders a paper with names, not a summary. He studies the unexplained bend in the front around Verandel and sees his father's tiredness in the empty chair and the untouched cup. Count Merrow, his old map teacher, tells him to worry about the Ball instead: four hundred people, a hundred lanterns, one band, and the prince's name on the paper if anything goes wrong. Merrow asks which hall the lanterns hang in, and Valerius answers without thinking twice.
+
+## Ch 21 - The Locket
+Seraphine invites Eden to the Ball as a joke and he refuses quickly. Lysette writes her up for a crooked collar and cannot say why. On the roof Lysette admits she has no partner and takes out her silver locket, shut, worn once a year; she closes her hand over it when the Black Thirteen is mentioned. She tells Eden that her brother came home from court and could not dance, and that her mother wrote that House Hollen would act as if it were not. Eden says nothing useful and stays until she is done. She decides to go to the Ball "to prove I don't care."

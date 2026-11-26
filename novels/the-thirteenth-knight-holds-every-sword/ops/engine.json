@@ -13,12 +13,12 @@
     "target": 0,
     "arc": 1,
     "max": 5,
-    "start_chapter": 16,
-    "status": "stopped",
-    "stop_reason": "max chapters for this batch reached before the arc ended"
+    "start_chapter": 21,
+    "status": "running",
+    "stop_reason": ""
   },
   "critic_through": 20,
-  "audit_through": 10,
+  "audit_through": 20,
   "reviewed": {
     "1": "2e932f4856acd49e",
     "2": "c4daa6f9065d72f0",

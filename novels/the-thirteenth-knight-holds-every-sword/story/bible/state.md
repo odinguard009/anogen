@@ -152,3 +152,8 @@
 - Valerius cannot look at his father without apology; Merrow: "He carries a war... he was not made for it. His father was." Merrow also: "I saw a boy who could not win against his father" and Hollen as "a good judge of a locked door."
 - Valerius admitted the duel touch was timed on the bell and that he hated Eden never needing him. Merrow steered him to Ball security: four hundred people, a hundred lanterns, one band; if anything goes wrong the prince's name is on the paper.
 - Hook: Merrow, mildly, asked which hall the Ball's lanterns hang in. Valerius answered "The glass atrium" and thought nothing of it.
+
+## Mon 7 Dec (ch 21)
+- Invitation week: Seraphine asked Eden "as a joke, mostly"; he said no quickly. The cream envelope had a broken-crown seal cracked at one point; he kept the envelope but did not use it as a bookmark (the Ashen card is). Lysette wrote Seraphine up for a crooked collar and did not know why; Felix counted four seconds of looking.
+- Roof: Lysette has no partner. She took out the silver locket for the year: shut, hairline scratch, mended link, and she closed her hand over it when an office clerk mentioned the Black Thirteen. C1/C2 D rung delivered in her words: her brother came home from court in autumn, stood at the edge of the hall, could not dance, and stopped coming; mother wrote that House Hollen would act as if it were not. Eden gave no useful answer and stayed until she was done. No name spoken, no locket opened, no confirm.
+- Hook: she decided to go "to prove I don't care", then invited Eden "as a joke, mostly".

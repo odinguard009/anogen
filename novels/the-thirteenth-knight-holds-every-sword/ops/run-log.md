@@ -62,4 +62,15 @@
 
 ### 2026-11-26 06:17 UTC (13:17 WIB) - audit - ok
 - notes: Audit through ch 20 (new draft): 3 proposals on word-count floor, authority-figure endings, and dialogue in duel chapters.
+- quota_note:
+
+### 2026-11-26 06:21 UTC (13:21 WIB) - tulis bab berikutnya - chapter 21 - ok
+- words: 1803
+- scores: tension 2, surprise 3, emotion 5, battle_clarity -, voice 4, freshness 4
+- notes: Locket first use; C1 D delivered by Lysette; Ball decision.
 - quota_note: 
+
+### self-review ch 21 - MEDIUM risk, same session, not independent
+- REVIEW ch 21: PASS. check_chapter OK (1803 words, mean 11.8, dialogue 48%). No confirm rung: the locket stays shut and the brother is never named; no locket decoded.
+- C1/C2 D delivered by Lysette's words as the outline demands; Eden gives no useful answer and stays. Locket first use described in scene and ledger.
+- Continuity: her cut arm from ch 4 is beneath the cuff; the Ashen card from ch 7 is still the bookmark; she decided to attend the Ball from this chapter onward.

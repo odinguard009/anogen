@@ -42,7 +42,7 @@ She cried in short, hard bursts, like a person who had given herself five minute
 
 "Stupid. Stupid, stupid, stupid."
 
-Eden knew her. Everyone in his year knew her, the way a village knows where the wasp nest is. Lysette Hollen was fourth on the Ladder, the list that ranked every student by skill. She was also vice-chair of the Discipline Committee, the students who checked the rules. In her second year she had written a report about a boy who whistled on purpose.
+Eden knew her. Everyone in his year knew her, the way everyone knows which stair has the broken step. Lysette Hollen was fourth on the Ladder, the list that ranked every student by skill. She was also vice-chair of the Discipline Committee, the students who checked the rules. In her second year she had written a report about a boy who whistled on purpose.
 
 She had not seen him, which was normal. Eden kept his mana small and flat and still, and he had done it for so long that he did not think about it. People passed him in the halls and said sorry to the wall afterward.
 
@@ -108,7 +108,7 @@ Eden looked at the watering can.
 
 "Is the thyme breaking a rule?"
 
-Two spots of colour came up on her cheeks, and Eden understood that she was the gardener. She had only the early morning and a few stolen hours for it, and she never had the heart to cut the messy plants back. There was dirt under her nails, and two nails were broken short.
+Two spots of colour came up on her cheeks, and Eden understood that she was the gardener. She had only the early morning and a few stolen hours for it. The mint had run along the wall and the sage stood knee high. There was dirt under her nails, and two nails were broken short.
 
 "Here is what happens," she said. "You saw nothing. I did not see you. You go down those stairs and never come back, and I don't report you for being in a closed building. That is kind of me. You should know it is kind."
 

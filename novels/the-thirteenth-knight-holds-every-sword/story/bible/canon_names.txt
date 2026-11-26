@@ -677,3 +677,6 @@ veinspear
 veinspears
 Ulrike
 Mistress Ulrike
+
+# Months (calendar.md)
+November

@@ -216,7 +216,7 @@ Okoru rose and came to stand in front of Eden. "The shield."
 
 He turned away before Eden could answer, and Lysette watched him go with her one whole baton held across her body.
 
-"Who signed the requisition?" she asked.
+"Who signed the order?" she asked.
 
 "That is not today's lesson," Okoru said.
 

@@ -104,3 +104,12 @@
 - First use of [Latch] in scene with look, body use, effect and cost; Door needs a light edge and two knocks; Exa folds with the ring; the construct, tag, doubled plate and Felix's bow all described.
 - Fixed a sight-line error: Rowan was behind the closed false wall during the Door, so the question now belongs to Lysette, who is beside it.
 - Battle beats: setup in one line, then baton strikes, arm breaks, wall trap, doubled plate, Latch and result. Rowan and Clara stay across the maze; Felix does not shoot. Hook is the grey dust object only.
+
+### critic pass ch 1-5 - 2026-11-26 - same session, not independent
+- Cold read against the outline lines and canon rows; prepass and check_chapter on all five. No canon or event changes.
+- ch 1 - scores 3,3,4,-,4,4. Two patches: cut the archived wasp-nest simile ("the way a village knows where the wasp nest is" -> "which stair has the broken step", profile section 4); removed a head-hop into Lysette's feelings ("she never had the heart to cut the messy plants back" -> visible mint and sage). Registered November in canon_names.txt.
+- ch 2 - scores 3,3,4,-,4,4. No finding that could be quoted. "Eaten today" and "Nobody" stay inside the checker caps.
+- ch 3 - scores 4,3,4,4,4,4. No finding that could be quoted. First-use set (Umra, Exa, door-shield, Inead, Veil tells) is described in scene and in first-use.md. Dialogue 14% is a warning only; no lines added.
+- ch 4 - scores 3,3,4,3,4,4. No finding that could be quoted. Batons first use now matches the ledger.
+- ch 5 - scores 4,4,4,4,4,4. One patch: "requisition" -> "order" (plain English; LEVEL section 1). [Latch] has look, body use, effect and cost in scene. Dialogue 20% is a warning only; no lines added.
+- Recurring weakness for the next batch: three of five chapters sit under the 25% dialogue guide, and the same session wrote and critiqued, so there is no fresh pair of eyes.

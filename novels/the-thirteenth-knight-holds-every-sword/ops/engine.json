@@ -17,7 +17,7 @@
     "status": "stopped",
     "stop_reason": "max chapters for this batch reached before the arc ended"
   },
-  "critic_through": 10,
+  "critic_through": 20,
   "audit_through": 10,
   "reviewed": {
     "1": "2e932f4856acd49e",
@@ -29,7 +29,17 @@
     "7": "5eee495bd63f4fad",
     "8": "6d75cd234b050e48",
     "9": "aef859d0c91a6e17",
-    "10": "4030afdb2a177732"
+    "10": "4030afdb2a177732",
+    "11": "82909295f25667ee",
+    "12": "234b3f61180c08ec",
+    "13": "2d7ff3e1eead0a34",
+    "14": "e8a4546d4dc58b0d",
+    "15": "c6ce9754676ac89f",
+    "16": "981bd63997dfe7c2",
+    "17": "93be50ecaf2beda8",
+    "18": "a55d216382b2368c",
+    "19": "52665ea5aa9e4e46",
+    "20": "486f83d6da571d4b"
   },
   "hold": {
     "active": false,

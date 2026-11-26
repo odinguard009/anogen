@@ -83,3 +83,21 @@ Scores ch 1-10: tension never above 4, surprise 3-4, voice/freshness steady at 4
 - What: ch 7, 9 and 10 are 1801-1807 words.
 - Why: expansions late in drafting tend to be dialogue, which pushes the share up while the count stays near the floor.
 - Fix: when a chapter is short, add one concrete action or object beat before adding another line of talk.
+
+## Audit through chapter 20 (2026-11-26 new draft, same session, not independent)
+Scores ch 11-20: tension 2-4, emotion 3-5, voice and freshness 4, no score below 2. Debts: Corwen paid in ch 18; Dragon's promise planted in ch 15 is not due until 420-425; locket and Seraphine's story are still planned for 21 and 35. No auto-append to banned.md or variety_menu.json this round.
+
+### A1. Word-count floor is becoming a habit
+- What: eight of ten chapters are between 1800 and 1818 words.
+- Why: chapters are being trimmed to the floor by late dialogue cuts instead of gaining one concrete action beat.
+- Fix: in ch 21-30, add one visible object or movement beat before accepting a chapter at 1800 words.
+
+### A2. Authority figures keep the last line
+- What: ch 17 Valerius, ch 18 Ysolde, ch 19 Seraphine and ch 20 Merrow all close chapters with a spoken line.
+- Why: four in a row makes endings sound the same even when the words differ.
+- Fix: let at least two chapters in ch 21-30 end on an action or an object where the outline allows it.
+
+### A3. Low dialogue in the duel chapters
+- What: prepass reports 17-19% for ch 16-18 (warning only).
+- Why: fight prose takes the space that dialogue would have used; the speakers are still distinct.
+- Fix: plan the real exchanges before drafting the next battle, never add filler to move the number.

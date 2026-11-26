@@ -51,3 +51,9 @@
 - "Two seconds," Lysette said. "Again." Then: "I didn't need that." / "I know." Her hands shook once and she hid them behind her back.
 - Okoru: "That hold again. Not by feel." / "That was not a drill." Lysette asked who signed the requisition. Okoru: "You will not like the answer."
 - The cracked core was packed with grey dust, pressed so tight it kept the shape of the plate. Plant for 22-23, 95.
+
+## Fri 6 Nov (ch 6)
+- Okoru formed the Year 5 Lances. Lance Nine: Lysette (4), Rowan (2), Clara (3), Felix (19), Eden (8); Okoru called it the strongest mix on paper, not the most comfortable. Lysette's sheet says "supervise", not "advise"; Rowan asked to learn Eden's shield hold and was told to use his spear.
+- Chapel corridor: Rowan's gold palm light matches the hands in the Lirenne fresco exactly ("The same colour." / "The same hands."). The wilted lilies near Clara lift and open; she does not notice and says it has happened for years. Eden tells her he has seen "that field" near her home. Rowan is easy to like; Lysette watches both Rowan and Eden and writes three lines.
+- Lysette checked Eden's medical exemption: "It says rest. It does not say where." / "The roof is quiet." She put the slip back without writing on it.
+- Stores office: the new drill core order is signed "Master Sorn", a forge master who died last year, and dated in the first week of November. A girl with a red band (Lysette) had already asked for the same line the day before and wrote the date down. Eden copied the date onto the back of his form.

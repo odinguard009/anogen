@@ -5,17 +5,17 @@
       "end": 50,
       "name": "The Rooftop",
       "max": 50,
-      "status": "planned"
+      "status": "writing"
     }
   },
   "batch": {
-    "mode": "n",
-    "target": 5,
-    "arc": null,
-    "max": null,
-    "start_chapter": 1,
-    "status": "done",
-    "stop_reason": "batch complete (5/5)"
+    "mode": "arc",
+    "target": 0,
+    "arc": 1,
+    "max": 5,
+    "start_chapter": 6,
+    "status": "running",
+    "stop_reason": ""
   },
   "critic_through": 5,
   "audit_through": 0,

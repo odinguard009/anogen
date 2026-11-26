@@ -680,3 +680,7 @@ Mistress Ulrike
 
 # Months (calendar.md)
 November
+
+# Names added in ch 6
+Master Sorn
+Sorn

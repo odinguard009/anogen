@@ -113,3 +113,15 @@
 - ch 4 - scores 3,3,4,3,4,4. No finding that could be quoted. Batons first use now matches the ledger.
 - ch 5 - scores 4,4,4,4,4,4. One patch: "requisition" -> "order" (plain English; LEVEL section 1). [Latch] has look, body use, effect and cost in scene. Dialogue 20% is a warning only; no lines added.
 - Recurring weakness for the next batch: three of five chapters sit under the 25% dialogue guide, and the same session wrote and critiqued, so there is no fresh pair of eyes.
+
+### 2026-11-26 05:28 UTC (12:28 WIB) - tulis bab berikutnya - chapter 6 - ok
+- words: 1833
+- scores: tension 3, surprise 3, emotion 4, battle_clarity -, voice 4, freshness 4
+- notes: Lance Nine formed; Rowan's light and Clara's flowers first uses; dead master's signature dated after his death.
+- quota_note: 
+
+### self-review ch 6 - HIGH risk, same session, not independent
+- REVIEW ch 6: PASS. check_chapter OK (1833 words, mean 8.6, dialogue 35%). prepass clean after varying the repeated one-arm description and cutting "forgemaster".
+- Read twice. No death, power change or confirm rung: the fresco match and the flowers are H plants only; the dead signature is a debt plant (ch 5-6 -> 22-23, 95).
+- Continuity: Lysette's "I will ask the office" from ch 5 pays into the clerk's "a girl with a red band, yesterday"; her arm injury is not contradicted; Eden's Form 13-B from ch 4 is on him.
+- First-use ledger updated for Rowan's light and Clara's flowers; both described in scene with range/cost noted.

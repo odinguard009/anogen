@@ -50,5 +50,18 @@
       "pacing_shape": "slow build to a sharp spike",
       "hook_type": "a reveal that reframes the chapter"
     }
+  },
+  {
+    "chapter": 6,
+    "picks": {
+      "opening_type": "concrete setting detail",
+      "scene_shape": "three linked scenes",
+      "tension_type": "quiet scrutiny",
+      "emotional_tone": "warm with an edge",
+      "comic_device": "rank numbers treated as a bad sum",
+      "conflict_type": "assignment and paperwork",
+      "pacing_shape": "small scenes building to one hard fact",
+      "hook_type": "an object with a wrong date"
+    }
   }
 ]

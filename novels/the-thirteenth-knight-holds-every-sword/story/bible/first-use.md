@@ -40,3 +40,6 @@ Add one line per first use as each chapter is written: `name | owner | first on 
 On the page: [Latch] ch 5, [Sile] ch 8. Planned first appearances of labelled attacks from the outline: [Injunction] ch 16, [Hinge] ch 16, [Mott] ch 22, [Draught] ch 22, [Lintel] ch 25, [Hrak] ch 25, [Brunn] ch 8 (label from arc 2).
 Planned: [Tavu] ch 32, [Switcheroo] ch 35, [Osk] ch 44, [Citation] ch 45, [Ithe] ch 46, [Wyl] ch 46, [Grask] ch 48, [Lampwick] ch 49; later ones in power-system.md.
 Unbind (none on page; first: Lysette's Auda ch 141, Duke's Durn ch 193, Valerius's Esk ch 194, Clara's Ressa ch 226, Rowan's Tirra ch 230, Felix's Vant ch 238, Eden's Evrin ch 590).
+
+- Rowan's light (gold glow in his palms, apple-sized, warms the air and pushes shadows; comes with an open look) | Rowan | ch 6 | yes | no (no limit yet)
+- Clara's effect on flowers (lilies lift and open near her, brown edges go green; she does not notice) | Clara | ch 6 | yes | no (range: only plants near her)

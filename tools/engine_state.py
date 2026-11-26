@@ -52,8 +52,21 @@ def missing_chapters(arc):
     return [n for n in range(arc["start"], arc["end"] + 1) if not chapter_path(n).exists()]
 
 
+def hold_info(d):
+    h = d.get("hold") or {}
+    return h.get("reason", "") if h.get("active") else ""
+
+
 def compute_next(apply=False):
     d = load()
+    hold = hold_info(d)
+    if hold:
+        # HOLD (owner order): nothing may be written or reviewed until the owner clears it
+        return {"next_chapter": next_chapter_number(), "continue": False, "reason": "HOLD: " + hold,
+                "hold": True, "batch": d["batch"], "arc": None, "writer_range": None, "gap_note": "",
+                "critic_pending": None, "critic_waiting": None, "critic_changed_after_review": [],
+                "rereview_pending": [], "rereview_blocks_writing": False,
+                "audit_with_critic": False, "audit_due_at": None}
     n = next_chapter_number()
     b = d["batch"]
     arc = None
@@ -157,6 +170,9 @@ def main():
     p.add_argument("--arc", type=int, default=None)
     p.add_argument("--max", type=int, default=None)
     sub.add_parser("batch-resume")
+    p = sub.add_parser("hold")
+    p.add_argument("action", choices=["set", "clear", "show"])
+    p.add_argument("--reason", default="")
     p = sub.add_parser("mark")
     p.add_argument("what", choices=["critic", "audit"])
     p.add_argument("chapter", type=int)
@@ -213,6 +229,21 @@ def main():
         arc["status"] = "complete"
         save(d)
         print(f"Arc {a.arc} marked complete (release gate open).")
+    elif a.cmd == "hold":
+        if a.action == "set":
+            if not a.reason:
+                sys.exit("--reason is required")
+            d["hold"] = {"active": True, "reason": a.reason}
+            save(d)
+            print("HOLD set:", a.reason)
+        elif a.action == "clear":
+            d["hold"] = {"active": False, "reason": ""}
+            save(d)
+            print("HOLD cleared (only the owner may do this).")
+        else:
+            print(json.dumps(d.get("hold") or {"active": False}))
+    elif a.cmd in ("batch-start", "batch-resume", "arc-plan") and hold_info(d):
+        sys.exit("HOLD is set: " + hold_info(d) + ". Write nothing. Only the owner can clear it (engine_state.py hold clear).")
     elif a.cmd == "batch-start":
         n = next_chapter_number()
         if a.mode == "n":

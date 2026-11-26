@@ -1,4 +1,4 @@
-# Arc roadmap, part 2 (arcs 8-12 and 16-17; arcs 13-15 in arcs-4.md). Romance: romance.md. Light chapters: comedy.md. Same victory rule as part 1: Eden wins; the tension is the path and the price.
+# Arc roadmap, part 2 (arcs 8-12 and 16-17; arcs 13-15 in arcs-4.md). Romance: romance.md. Light chapters: comedy.md. Same victory rule as part 1: Eden wins; the tension is the path and the price. ALL DATES: bible/calendar.md (wins).
 
 ## Arc 8 The Grey Sea (351-400) naval monster war + Volkhovar sabotage.
 Q: can the sea hold when the land cannot? Enemy: Hush raft-fleets from Ruhnmara; Volkhovar and the Isthmus Company trying to buy or seize Admiral Kirana (Thalos's host); Nihl.

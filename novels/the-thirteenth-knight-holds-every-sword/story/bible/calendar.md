@@ -6,11 +6,12 @@ PR = Pale Reckoning year. Months are the ordinary twelve (the story may say "the
 - Autumn term: 1 Sept to 19 Dec. Bell Assessment first week of Sept. Lantern Ball: Saturday 12 Dec (the term's last big night). Finals 14-18 Dec.
 - Winter break: 19 Dec to 3 Jan. Year 5 only: the Winter Rotation on the Southern Wall, 4 Jan to 1 Feb (four weeks, live Hushborn, supervised).
 - Spring term: 8 Feb to 25 June. Silver Lists tourney in March. Founders' Day (the school's founding, PR 9): Saturday 12 June, parade through Solmarch. Finals 21-25 June.
-- Summer: July and August. Every student from Year 3 up serves a three-week Summer Posting on the Wall or an escort route (this is where the circle got real combat experience; see power-system.md section 17).
-- Year 6 autumn: 1 Sept. The Concord of Solmarch sits 12 Oct to 20 Nov. Graduation Day: Saturday 26 June of Year 6; postings start 1 July.
+- Summer: July and August. Every student serves a three-week Summer Posting on the Wall or an escort route in the summers before Years 3, 4 and 5 (PR 110, 111, 112), so each Year 5 student has three Postings behind them at ch 1. They are where the circle got real combat experience (power-system.md section 17). A fourth Posting follows Year 5 (summer PR 113, told in passing).
+- Year 6 autumn: 1 Sept. The Concord of Solmarch sits 12 Oct to 20 Nov. Graduation Day: 26 June of Year 6 (PR 114); postings start 1 July.
 
 ## Eden
 - Born 3 March PR 94. Age 18 when the story opens (turned 18 on 3 March PR 112). Turns 19 on 3 March PR 113 (ch ~58). Turns 20 on 3 March PR 114 (ch ~165). Graduates at 20.
+- Corentin Hollen is executed by the Thirteenth Vigil in October PR 110 (Eden 16, Year 2), after the first Summer Posting and before the second. Eden and Lysette (both 16) have just begun Year 3.
 - Entered Hallowcrest autumn PR 108 at 14. Year 1 PR 108-109, Year 2 109-110, Year 3 110-111, Year 4 111-112, Year 5 112-113 (arcs 1-2), Year 6 113-114 (arcs 3-4).
 - The Twentieth Rule (expelled on the 21st birthday) never touches him: he graduates at 20.
 
@@ -21,7 +22,7 @@ PR = Pale Reckoning year. Months are the ordinary twelve (the story may say "the
 | 2 Lanterns and Ledgers | 51-100 | 8 Feb to Sat 12 June PR 113 | 125 | 51-57 Feb; 58 Eden turns 19 (3 Mar); 60-68 Silver Lists (March); 69-95 April to May; 96-100 Founders' Day, 12 June |
 | (summer) | n/a | July-Aug PR 113 | 62 | Summer Posting on the Wall (three weeks) and the Argentine household at Silverfell; told in passing in 101-102, never a full arc |
 | 3 The Concord | 101-150 | 1 Sept to 20 Dec PR 113 | 111 | Year 6 begins; 105 first delegate killed (mid Oct); 125 exhibition duel; 140 Lysette proves it (mid Nov); 146-150 hall seized (19-20 Nov, last Concord days); Dec: aftermath, Lantern Ball of Year 6 skipped by the plot |
-| 4 Argentine | 151-200 | 4 Jan to Wed 30 June PR 114 | 178 | 155 the letter; 160 declaration; 165 Eden turns 20 (3 Mar); 176 seal breaks; 190-199 graduation coup, 24-26 June; 200 Sat 26 June graduation, then 30 June |
+| 4 Argentine | 151-200 | 4 Jan to 30 June PR 114 | 178 | 155 the letter; 160 declaration; 165 Eden turns 20 (3 Mar); 176 seal breaks; 190-199 graduation coup, 24-26 June; 200 Sat 26 June graduation, then 30 June |
 | 5 The Teeth | 201-250 | July to Dec PR 114 | ~180 | Graduates posted 1 July |
 | 6 Across the Middle Sea | 251-300 | Jan to Aug PR 115 | | |
 | 7 The Void's Son | 301-350 | Sept PR 115 to Mar PR 116 | | |

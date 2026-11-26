@@ -105,7 +105,7 @@ def phase_two_tests():
     root = mkroot()
     try:
         c, o = run(root, "context_pack.py", "--part", "static", "--peek")
-        check("pack keeps Human feel and Protagonist voice", c == 0 and "Human feel" in o and "Protagonist voice" in o and "TRUNCATED" not in o, o[-300:])
+        check("pack keeps Human feel, Eden flat and the dialogue model", c == 0 and "HUMAN FEEL" in o and "EDEN IS FLAT" in o and "DIALOGUE MODEL" in o and "TRUNCATED" not in o, o[-300:])
         write(root / "story/style/profile.md", "# P\n\n## A\n" + "word " * 5000)
         c, o = run(root, "context_pack.py", "--part", "static", "--peek")
         check("pack truncation exits 4 and names the section", c == 4 and "PACK WARNING" in o and "Style profile" in o, o[-300:])
@@ -187,6 +187,18 @@ def phase_two_tests():
         d2 = json.loads(run(root, "engine_state.py", "next")[1])
         d3 = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
         check("re-review pending survives interruption and resume", d1["rereview_pending"] == d2["rereview_pending"] == d3["rereview_pending"] == [5], str(d3))
+        # HOLD (owner order): nothing may be planned, started or resumed while it is set
+        c, o = run(root, "engine_state.py", "hold", "set", "--reason", "owner wait")
+        check("hold set", c == 0, o)
+        d = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
+        check("hold: next returns no writer range, no critic, continue false", d["writer_range"] is None and d["critic_pending"] is None and d["continue"] is False and d.get("hold") is True, str(d))
+        c, o = run(root, "engine_state.py", "batch-resume")
+        check("hold: batch-resume refused", c != 0 and "HOLD" in o, o)
+        c, o = run(root, "engine_state.py", "batch-start", "--mode", "n", "--target", "3")
+        check("hold: batch-start refused", c != 0 and "HOLD" in o, o)
+        c, o = run(root, "engine_state.py", "hold", "clear")
+        d = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
+        check("hold cleared: planning works again", c == 0 and d.get("hold") is None, str(d))
     finally:
         shutil.rmtree(root, ignore_errors=True)
 
@@ -535,11 +547,11 @@ def policy_tests():
 def stage2_tests():
     """Context engine: style split, dedup, budget, fingerprint (tools/context_pack.py)."""
     import context_pack as cp
-    prof = ("## LEVEL\nalways\n\n## SPECIAL ATTACK LABEL (x)\nlabel rules\n\n## SCENE FEEL AND ARMOR (x)\nSCENE FEEL (mood):\n- mood\n"
-            "ARMOR (follow armor.md):\n- armor rule\nHUMAN FEEL (at simple level):\n- human\n\n## Battles and aura\n- battle rule\n\n## Voice\nvoice\n")
+    prof = ("## 1. LEVEL\nalways\n\n## 9. SCENE FEEL AND ARMOR (x)\n- mood\n"
+            "- ARMOR (story/bible/armor.md; invent nothing): whenever\n- armor rule\n\n## 10. BATTLES AND AURA\n- battle rule\n\n## 11. NATURAL\n- human\nvoice\n")
     quiet, loud = "Ch 5: they cook soup and talk.", "Ch 5: a duel in the yard."
     s, om = cp.style_for(prof, quiet)
-    check("ctx style: quiet outline stubs the three situational blocks", len(om) == 3 and "label rules" not in s and "armor rule" not in s and "battle rule" not in s, str(om))
+    check("ctx style: quiet outline stubs the situational blocks", len(om) == 2 and "armor rule" not in s and "battle rule" not in s, str(om))
     check("ctx style: always-on rules stay", all(k in s for k in ("always", "- mood", "- human", "voice")))
     check("ctx style: stub names what was omitted", "STYLE NOTE" in s and "--style full" in s)
     check("ctx style: fight outline keeps everything", cp.style_for(prof, loud) == (prof, []))

@@ -11,7 +11,7 @@ Goals: series arc, arc outlines, twists with early foreshadowing, romance beats,
 2. Research (WebSearch, at most once per arc planning): find narrative devices, structure ideas, worldbuilding techniques. Save short notes to story/research/arc-K.md. You may observe, imitate and modify what you find (owner order 2026-11-25: the old no-copying rule is removed).
 3. New story: write story/bible/premise.md (world hook, rules, tone), story/bible/characters.md, story/bible/world.md (short), story/outline/series.md (ending direction, 3-5 major twists with planted-by chapters, romance arc), story/names.md (names by culture), story/bible/canon_names.txt (one name per line).
 4. Arc plan: story/outline/arc-K.md with one line per chapter in exactly this format:
-   `Ch N | goal: ... | conflict: ... | payoff: ... | hook: ... | pov: first|third | type: battle|emotional|mystery|comic|quiet|twist`
+   `Ch N | goal: ... | conflict: ... | payoff: ... | hook: ... | pov: eden|<character name> | type: battle|emotional|mystery|comic|quiet|twist`
    Rules: arc must finish within the max chapters given; every chapter has a different hook type from its neighbours; at least one emotional beat every 3-4 chapters; a battle with a new tactical idea each time; a third-person interlude about every 8-10 chapters; each twist foreshadowed at least 10 chapters ahead (and add the debt below).
 5. story/outline/pacing.md: one line per chapter `Ch N: tense|calm|emotional|comic`; avoid 3 equal in a row.
 6. story/bible/debts.md: `- [open] <promise or planted clue> | planted: ch X | due: ch Y-Z`.

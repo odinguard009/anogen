@@ -1,4 +1,4 @@
-# Arc roadmap, part 1b (arcs 5-7, ch 201-350). Same rules as arcs-1.md.
+# Arc roadmap, part 1b (arcs 5-7, ch 201-350). Same rules as arcs-1.md. ALL DATES: bible/calendar.md (wins).
 
 ## Arc 5 The Teeth (201-250) monster war, siege. Graduates posted.
 Q: can they hold the narrowest place on Elysmar? Enemy: Hierarch the Tidewright, who drains the strait to make a land bridge.

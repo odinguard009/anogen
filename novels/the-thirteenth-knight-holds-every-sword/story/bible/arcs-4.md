@@ -1,4 +1,4 @@
-# Arc roadmap, part 4 (arcs 13-15, ch 601-750): room for titans, retainers, the Ledger and the Void
+# Arc roadmap, part 4 (arcs 13-15, ch 601-750): room for titans, retainers, the Ledger and the Void ALL DATES: bible/calendar.md (wins).
 Same rules: Eden wins; tension is path and price; battle mix ~30/35/25/10; 2-4 aura moments; a light chapter every 5-8; every fight debuts a trick. Adjustable: these arcs can shrink or grow.
 
 ## Arc 13 Titanfall (601-650) monster war on every continent, retainer-led fronts.

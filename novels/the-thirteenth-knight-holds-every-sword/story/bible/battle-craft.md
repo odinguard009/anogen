@@ -92,7 +92,7 @@ SUPERSEDED where it conflicts by story/bible/power-system.md (owner order 2026-1
 68. A garden planted in nothing as a foothold (742)
 
 ## Set-piece geometry (vary every arc)
-- Arc 1: market chase, maze, ballroom with glass roof, battlement in silence, night camp.
+- Arc 1: silent telephone-exchange kill, rigged construct in the maze, lit ballroom with a glass roof, battlement in silence, night camp.
 - Arc 2: tourney arena, burning warehouse, rooftops, parade street.
 - Arc 3: summit halls, funicular, poisoned banquet, siege of a hall.
 - Arc 4: palace without lamps, kitchen, mirror hall, throne room.

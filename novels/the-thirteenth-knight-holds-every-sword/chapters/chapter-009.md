@@ -128,9 +128,9 @@ A page in a blue coat was polishing the handle of the king's door when Eden came
 
 "You know why." Ysolde put the pen down. "The call list is the Ball guest list. Someone is making a list of people to collect on the night of lights."
 
-"Nine days."
+"Thirty days."
 
-"Nine days." She folded a sheet into three and put it in a drawer, then took out an old envelope and held it for a moment before she put that in the drawer too. The envelope was grey and sealed, and the wax had been pressed with a ring with a flaw in one point of its crown. Eden did not read the writing on the front.
+"Thirty days." She folded a sheet into three and put it in a drawer, then took out an old envelope and held it for a moment before she put that in the drawer too. The envelope was grey and sealed, and the wax had been pressed with a ring with a flaw in one point of its crown. Eden did not read the writing on the front.
 
 "Is that about me?" he asked.
 

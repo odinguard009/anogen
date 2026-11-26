@@ -79,7 +79,7 @@
 - Exchange call list is the Ball guest list; Rowan Tallis circled twice in two different pencils. Ysolde: watch him without watching him; report anyone asking about his birth or offering him a cell.
 - Ysolde slid a grey sealed envelope into a drawer: "Orders you haven't earned." Do not tell the king. Plant for ch 155.
 - New target: Ember cell in the lower city dye-works, moving dust through the water lanes; children (Cinders) in the cell, do not touch them; no kill without proof. Come back by the bridge, not the ferry. "Watch the boy with the light as well as Tallis."
-- Nine days to the Ball.
+- Thirty days to the Ball (12 Nov to 12 Dec).
 
 ## Fri 13 Nov (ch 10) - Lysette POV
 - Committee rounds: one hour and ten minutes; three crooked collars, a stolen spoon returned with "please", a late slip signed on the back. Her mother's letter came with the morning bread: "House Hollen has had enough of public matters. We will act as if it were not." C1 H rung; no name, no locket.
@@ -116,3 +116,4 @@
 - Eden went into the lower city to look at the dye-works from a distance, as Ysolde ordered in ch 9. Lysette followed on a Committee-off-campus form; he counted her eleven steps back and changed route at the canal so a grey-coat watcher under an awning saw no meeting.
 - Harmless tour: laundry steps, map on a ward board, then a refugee bakery where the children know him as "mister" and the baker keeps "the usual". He paid for bread and carried it uneaten. Lysette wrote nothing about the hill and let him walk on the other side of the square. Small truce: "You came back. That is the whole form."
 - Dream: the Tutor set nine pawns with no tower. The Dragon complained about mint and Sunday walking, then said: "I have asked for one thing, and I meant to take it when—" and went quiet. Eden asked what he promised; no answer. Debt planted (due 420-425).
+

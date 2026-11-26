@@ -118,3 +118,6 @@
 - REVIEW ch 15: PASS. check_chapter OK (1806 words, mean 10.8, dialogue 37%). Fixed a joined-word typo ("stonesslapped") and a duplicated Tutor exchange in the dream.
 - Continuity: the scouting order comes from ch 9; the grey-coat watcher stays unnamed; the children knowing his name and the uneaten bread are plants, not explanations. The Dragon's "I promised someone" is the H plant for the 420-425 debt; no answer is given.
 - Lysette's truce is shown in actions (no form for the hill, other side of the square) rather than a declared feeling. No chase, no crowd scene.
+
+### critic re-review ch 9 - same session, not independent
+- Re-review only: ch 9 was changed after its critic pass. Fixed the Ball countdown from "Nine days" to "Thirty days" (12 Nov to 12 Dec); state.md and summaries.md updated to match. check_chapter still OK (1806 words), prepass unchanged. No other line changed.

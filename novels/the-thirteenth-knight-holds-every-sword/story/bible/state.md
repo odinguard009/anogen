@@ -237,3 +237,10 @@
 - Eden overheard Ysolde: "the second envelope is still in the safe... You asked me not to open it." Plant for the letter thread.
 - Lysette gave him her grey-green scarf with red threads as equipment "so I am not stuck with your paperwork"; he wore it for the rest of the winter. She wrote that it was cold, not that he was.
 - Hook: the king stopped at "Cadet Wren" only: "Your mother would have hated the cold." Then cars down the hill and the bellwire cut by a clerk.
+
+## Sat 9 Jan (ch 34)
+- Choir node found in the cistern under the Wall: the silence came out of the drain at noon and back at dusk; a swollen shadow on the curved wall and a current under a half-submerged slab.
+- Felix's Trail read the current, not boot tracks. Rowan used **[Dawnbreak]** for one breath, gold as noon with no warmth, which froze the shadow's edge and showed the seam under the slab. Eden cut a Door in the Choir's own shadow, dropped the slab and the node into deep water, and the sound came back in a rush.
+- Okoru from the stair: "Do not practice it. Not yet." Rowan's hands cold, Clara did not heal; Eden noted privately that the light made doors easier and kept it to himself (Unbind hint only).
+- Sergeant's report: ONE CLEAN CUT, NO DAMAGE TO THE STONE. The rest not written down.
+- Hook: on the southern horizon a shape taller than the clouds moved once and was still; Eden counted eleven towers and had no twelfth to compare.

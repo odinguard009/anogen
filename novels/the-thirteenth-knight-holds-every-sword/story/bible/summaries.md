@@ -40,3 +40,6 @@ A Choir silence falls over the Wall and Lance Nine holds its stretch without voi
 
 ## Ch 33 - The Second Envelope
 After the Choir silence, a bellwire announces the king's inspection of the Wall. Okoru notices Lysette's cold hand while Eden only records that her pencil slips. The king questions the sergeant and Rowan, and Eden hears Ysolde say the second envelope is still in the safe. Lysette gives him a grey-green scarf as equipment so she will not be stuck with his paperwork, and he wears it all winter. As the king leaves he stops only at Cadet Wren: "Your mother would have hated the cold."
+
+## Ch 34 - The Cistern
+Lance Nine descends into the cistern beneath the Wall to end the Choir before its next song. Felix's Trail reads the current under a submerged slab, and Rowan's first **[Dawnbreak]** floods the dark with gold for one breath, freezing the Choir's shadow edge long enough for Eden to cut a Door and drop the node into deep water. Sound returns. Okoru tells Rowan not to practice the light, and Eden keeps to himself that it made his doors easier. On the horizon a shape taller than the clouds moves once and is still.

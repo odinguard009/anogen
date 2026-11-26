@@ -96,3 +96,14 @@
 - REVIEW ch 33: PASS. check_chapter OK (1805 words, mean 12.9, dialogue 39%). Bellwire explained in plain words; no new power or reveal.
 - Continuity: scarf given here and worn all winter (registered in debts for ch 50/600); second envelope plant does not open it; Lysette's cold hands follow her procedure habit and Eden's flat observation.
 - Eden not recognised on the page; the king's line is the outline's exact hook. The king's mother comment is not explained by anyone.
+
+### 2026-11-26 07:30 UTC (14:30 WIB) - tulis bab berikutnya - chapter 34 - ok
+- words: 1804
+- scores: tension 5, surprise 4, emotion 4, battle_clarity 5, voice 4, freshness 4
+- notes: First [Dawnbreak]; Choir node ended; silhouette and door-ease hints planted.
+- quota_note: 
+
+### self-review ch 34 - HIGH risk, same session, not independent
+- REVIEW ch 34: PASS. check_chapter OK (1804 words, mean 12.0, dialogue 24% warning only). Read twice; no Unbind or reveal confirm, only hints.
+- First use of [Dawnbreak] has look, body use, effect, duration and cost; Okoru forbids practice, so the power does not become a habit. The Door works on the Choir's own shadow with a stated light edge.
+- Continuity: Choir pull from ch 32, groundskeeper and Wall from ch 31, bellwire from ch 33. No one narrates Eden's feelings; he notes the door-ease as a private fact.

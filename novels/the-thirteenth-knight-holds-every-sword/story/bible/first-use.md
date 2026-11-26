@@ -71,3 +71,5 @@ Note: Witness first use moved from planned ch 13 to ch 11 because the outline's 
 - Ward-plate | Wall sergeant | ch 31 | yes (broad steel plate with a worn dent; ball slides off when aura is raised) | yes (heavy; useless if the wearer cannot move in it)
 
 - Okoru's [Tavu] | Okoru | ch 32 | yes (threads of force, thin and pale, from one hand; binds a climbing Husk's leg to a brass bracket like a knot) | yes (needs touch or a near thing; one arm, one knot at a time)
+
+- Rowan's [Dawnbreak] | Rowan | ch 34 | yes (gold light from both palms fills a space in one breath, bright as noon, no warmth, makes hard shadow edges and hard lines; leaves cold afterward) | yes (one breath, then cold in the face; Okoru tells him not to practice it yet)

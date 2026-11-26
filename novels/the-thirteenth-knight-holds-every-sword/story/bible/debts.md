@@ -57,3 +57,6 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 
 - [open] King asked Ysolde to bring "the second envelope" when they returned; it is still in the safe | planted: ch 33 | due: 40, 155
 - [open] Lysette's grey-green scarf with red threads, given as equipment, worn by Eden all winter | planted: ch 33 | due: 50, 600
+
+- [open] Silhouette taller than the clouds on the southern horizon, moves once | planted: ch 34 | due: 250, 270
+- [open] Rowan's light makes Eden's Doors easier while it burns | planted: ch 34 | due: 470, 499

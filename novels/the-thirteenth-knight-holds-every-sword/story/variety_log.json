@@ -362,5 +362,18 @@
       "pacing_shape": "short talk, long silence, small object",
       "hook_type": "a crown missing its centre"
     }
+  },
+  {
+    "chapter": 30,
+    "picks": {
+      "opening_type": "an epigraph about ballads and truth",
+      "scene_shape": "two papers, one chapel hour",
+      "tension_type": "a question in a clerk's hand",
+      "emotional_tone": "quiet and controlled",
+      "comic_device": "four copies of a confiscated ballad",
+      "conflict_type": "a father reading a file about his son",
+      "pacing_shape": "slow questions, one long silence",
+      "hook_type": "a horse asked for without a reason"
+    }
   }
 ]

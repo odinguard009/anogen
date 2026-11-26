@@ -209,3 +209,9 @@
 - Lake: Duke tried to tell Eden about Liora four times in eleven years and could not finish; she was making something for him in the workshop and the Duke promised to give it when he was old enough, then burnt the paper he wrote about it. Father and son fished in silence for an hour; the Duke caught one small fish and put it back. "That was practice."
 - Bertram waited at the jetty with a dry cloth and did not mention the boots again. The third oar has only "ma" left of its painted name.
 - Dream: Tutor said "I once set a test for a king. He failed it. Do not fail yours." A crown with no centre stood on the edge of the board; Eden did not touch it, and the nine pawns stayed in line.
+
+## Wed 23 Dec (ch 30) - Duke POV
+- After the boys left, the Duke read the bandits' half-sheet: stop the north-road carriage, do not hurt the boy, search for letters, wait for the signal; signed with a gate missing one post and a price. Someone knew his carriage road and his hour.
+- Academy absence form signed by Halvard Strent; the total was wrong by four; the last line asked "whether the boy's late mother left any papers with you." The Wren file lists no mother. D rung for the Tailor thread, no name and no confirmation.
+- Duke went into the chapel, took Sevar's helm from its case (silver, lake-blue, feather veins) and "checked the fit" for one hour. Only four notes of humming were heard, then quiet. Bertram waited in the corridor, sent away a servant and a tea tray, and did not count the minutes. No weeping shown on the page. Epigraph from outline/epigraphs.md.
+- Hook: the Duke asked Bertram for a horse, not the grey, and told him to say he had gone away to be useful and not to put it in a ballad.

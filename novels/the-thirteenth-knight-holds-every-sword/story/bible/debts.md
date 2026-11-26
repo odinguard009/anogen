@@ -48,3 +48,6 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [open] Tutor set a test for a king and the king failed it; "Do not fail yours" | planted: ch 29 | due: 170, 340
 - [open] A crown with no centre on the edge of the Tutor's dream board | planted: ch 29 | due: 340
 - [open] Duke tried four times in eleven years to say what Liora was making for Eden, and burnt the paper | planted: ch 29 | due: 170-176
+
+- [open] Strent's academy letter asks after "the boy's late mother" though the Wren file lists none | planted: ch 30 | due: 40, 99, 185
+- [open] Bandit orders use a gate-with-one-post mark and say not to hurt the boy; someone knew the carriage road | planted: ch 28, 30 | due: 40, 163

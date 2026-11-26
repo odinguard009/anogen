@@ -162,3 +162,14 @@
 - REVIEW ch 29: PASS. check_chapter OK (1800 words, mean 12.6, dialogue 45%). No reveal: Liora's work stays unnamed, the king's test and the crown are H plants for 170/340.
 - Eden stays flat: rods give his hands a job, water and boots are data, no feelings narrated. The Duke's unfinished sentences are dialogue, not an info dump.
 - Continuity: answers ch 28's "which one is the act"; third oar and Bertram's boots follow ch 28; Felix stays with his book and jokes.
+
+### 2026-11-26 07:08 UTC (14:08 WIB) - tulis bab berikutnya - chapter 30 - ok
+- words: 1800
+- scores: tension 3, surprise 3, emotion 4, battle_clarity -, voice 4, freshness 4
+- notes: Duke interlude; Tailor D plant; Sevar helm hour; ballad epigraph.
+- quota_note: 
+
+### self-review ch 30 - LOW risk, same session, not independent
+- REVIEW ch 30: PASS. check_chapter OK (1800 words, mean 12.2, dialogue 32%). Epigraph from outline/epigraphs.md. Split several long sentences to stay under the mean cap.
+- Duke POV allows his feelings; no head-hop into Bertram (corrected one line to an observable action during drafting). No Unbind occurs; the helm is only fitted, and four notes of humming are heard.
+- Tailor thread at D only: the letter asks about late mother with no name and no answer. The bandit mark and the signed form are plants, not reveals.

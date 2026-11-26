@@ -80,3 +80,6 @@ Eden and Felix take the veinline train to Silverfell, where the Argentine househ
 
 ## Ch 29 - The Crown with No Centre
 Felix presses Eden for the truth about his quietness and gets a half-truth he can live with. On the lake the Duke tries again to speak about Liora and something she was making for Eden, but cannot finish; they fish in silence and he puts his one catch back. That night the Tutor sets a board with nine pawns and tells Eden that a king once failed his test. On the edge of the board sits a crown with no centre.
+
+## Ch 30 - The Boy's Late Mother
+With the boys gone, the Duke studies the bandits' orders and notices they were paid by someone who knew his carriage road. An academy letter signed by Halvard Strent has a wrong total and asks after "the boy's late mother", though the Wren file lists none. He takes Sevar's helm into the chapel for an hour of humming and says nothing about what happens inside. At the door he asks Bertram for a horse and tells him not to put it in a ballad.

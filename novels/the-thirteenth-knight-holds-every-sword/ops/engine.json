@@ -17,9 +17,15 @@
     "status": "done",
     "stop_reason": "batch complete (5/5)"
   },
-  "critic_through": 0,
+  "critic_through": 5,
   "audit_through": 0,
-  "reviewed": {},
+  "reviewed": {
+    "1": "2e932f4856acd49e",
+    "2": "c4daa6f9065d72f0",
+    "3": "002eaca6d88be218",
+    "4": "92cc08fc3c32569f",
+    "5": "824ba4d2b370e693"
+  },
   "hold": {
     "active": false,
     "reason": ""

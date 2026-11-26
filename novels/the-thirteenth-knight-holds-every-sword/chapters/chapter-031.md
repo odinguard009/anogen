@@ -1,6 +1,6 @@
 # Chapter 31: The Cold Here
 
-The Southern Wall had no grass on its battlements and no smell of school anywhere on it. The wind came over the parapet from the grey country beyond with dust in it that stuck to the teeth, and the snow that had fallen in the night had gone brown by morning. The camp lay behind the wall in rows of low stone huts Smoke from the cook-fires did not rise but lay along the ground in long grey ropes, as if the sky above had been lowered by a hand and the camp pressed flat beneath it. with no windows on the north side, and the bunks inside were two boards and a blanket, and a peg for a coat. Felix looked at his bunk for a while and said that it was less comfortable than the stable bench, which was the first honest thing anyone had said about the Rotation.
+The Southern Wall had no grass on its battlements and no smell of school anywhere on it. The wind came over the parapet from the grey country beyond with dust in it that stuck to the teeth, and the snow that had fallen in the night had gone brown by morning. The camp lay behind the wall in rows of low stone huts with no windows on the north side. Smoke from the cook-fires did not rise. It lay along the ground in long grey ropes, as if the sky had been lowered by a hand. The bunks inside were two boards and a blanket, and a peg for a coat. Felix looked at his bunk for a while and said that it was less comfortable than the stable bench, which was the first honest thing anyone had said about the Rotation.
 
 Lance Nine was posted to a stretch of wall with four other Lances on either side, and for the first time it stood as its own unit. Okoru had written the order himself and read it aloud before they climbed the stair: Nine holds the middle, Nine reports to the Wall sergeant, Nine does not attach itself to anyone else.
 
@@ -10,7 +10,7 @@ Lance Nine was posted to a stretch of wall with four other Lances on either side
 
 Felix looked down at the snow on his boots. "That is a worrying answer."
 
-"It is an honest one." Okoru's one arm was behind his back as usual, and the empty sleeve was pinned at the shoulder. "You have three Summer Postings each. That was rear work and escort roads with veterans in front of you. This is a front battlement in Choir season. Watch the sergeant and learn what is different." He waited until they were all looking at him. "In the summers the Wall was a place you visited. Now it is a place you hold. If you cannot tell the difference by the end of the week, I will tell you again."
+"It is an honest one." Okoru's one arm was behind his back as usual, and the empty sleeve was pinned at the shoulder. "You have three Summer Postings each. That was rear work and escort roads with veterans in front of you. This is a front battlement in the middle of winter. Watch the sergeant and learn what is different." He waited until they were all looking at him. "In the summers the Wall was a place you visited. Now it is a place you hold. If you cannot tell the difference by the end of the week, I will tell you again."
 
 The sergeant waited for them on the wall with a board under one arm and a rifle in his hand. He was a broad man in a grey coat with a scar through one eyebrow, and he had the particular stillness of a soldier who had stopped being surprised by the Wall.
 
@@ -18,7 +18,7 @@ The sergeant waited for them on the wall with a board under one arm and a rifle 
 
 He lifted the rifle. It was a long gun with a glass tube set into the stock and a brass ring at the breech, and a thin blue line ran along the tube where the mana sat.
 
-"Mana-lock," he said. "The tube holds a small spell that pushes the ball out when you pull. It is quicker than powder and it works in rain. People think a gun with a mana-lock is the answer to anything past the parapet. It is not." He pointed to a post at the far end of the wall. "Husk comes up at night. You shoot it in the chest, and the ball goes in and stops. It keeps coming. You need something that cuts, and you need an arm behind the cut."
+"Mana-lock," he said. "The tube holds a small spell that pushes the ball out when you pull. It is quicker than powder and it works in rain. People think a gun with a mana-lock is the answer to anything past the parapet. It is not." He pointed to a post at the far end of the wall. "The Husk comes up at night. A Husk is one of the smallest Hushborn, the grey monsters of the wasteland. You shoot it in the chest, and the ball goes in and stops. It keeps coming. You need something that cuts, and you need an arm behind the cut."
 
 A conscript beside him said, "Sir, the Ward-plate stops a ball. Why does the plate not stop the Husk?"
 
@@ -50,7 +50,7 @@ The sergeant looked at her for three breaths, then at the board in his own hand,
 
 * * *
 
-The Husk came at the second watch, when the light had gone and the wall had become a line of dark shapes with snow between them. It climbed the outer face where the stone had a ledge, moving slowly and without noise, and the two soldiers on the parapet at that end saw it before the Lantern call went.
+The Husk came at the second watch, when the light had gone and the wall had become a line of dark shapes with snow between them. It climbed the outer face where the stone had a ledge, moving slowly and without noise, and the two soldiers on the parapet at that end saw it before the alarm bell rang.
 
 Eden watched from Lance Nine's stretch, twenty steps away. He could see enough: a grey body with too many joints, a head that hung down, and fingers that kept finding holds where no holds should be. A soldier fired the mana-lock twice, and the balls went into the grey flesh and stopped there, and the thing kept climbing.
 
@@ -84,7 +84,7 @@ A man came up the stair with a sack over his shoulder and a thermos in his hand.
 
 "Tea," he said, to no one. "Hot tea. Two sugars for the tall one. I do not know his name."
 
-"That is Tallis," a soldier said.
+"That is Rowan Tallis," a soldier said.
 
 "Then I will learn it." The groundskeeper went on humming, wrong at the same note, and did not look up at anyone.
 

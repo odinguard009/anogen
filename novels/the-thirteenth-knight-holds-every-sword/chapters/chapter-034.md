@@ -26,7 +26,7 @@ Okoru had written the order, so Lance Nine went down first. The cistern was narr
 
 The water was cold enough that it went through the boots and into the knees in ten steps. It did not feel like water. It felt like a hand, a large careful one, closing around each leg in turn. Clara's teeth began to click, and she clamped her jaw to stop them. The sound of her not clicking was nearly as loud. Rowan counted under his breath, his lips moving. Felix put a hand on his shoulder and Rowan stopped, because the rule was no sounds and counting was a sound even when it was only breath. A ledge at the bottom of the stair led to the deep part. Curved stone walls rose around it with old lime in the joints. Eden saw the Choir's shadow before he saw the Choir: a great swollen shape on the wall with a slow pull to it, like something breathing under water. Its edge was clean where the lantern light touched it.
 
-"Stop," he said, quietly, and the others stopped.
+"Stop," Eden said, quietly, and the others stopped.
 
 He tried the shadow first with the lantern half open. A thin bar of light went across the water and up the curved wall. The swollen shape moved away from it like a thing that did not like being looked at. He shut the lantern again. The shape came back to the same place, but an inch lower. The water under it went on pulling toward the outlet.
 
@@ -34,9 +34,9 @@ Lysette put a hand on his arm and pointed at her own ear, then at the wall. She 
 
 In the cistern the silence had a weight it did not have on the wall. It pressed on the ears from every side at once. The water moved against their legs in time with a rhythm no one was making with their feet. Eden put his hand on the wall and felt the pull go through the stone. It was the same pull he had felt at the drain two days ago, only closer.
 
-He needed the node itself, not its shadow on the wall. Felix crouched in the shallow water beside him. Trail came as a thin line in the air, not boots this time but the path of a current running from the far wall toward the outlet. The line stopped at a stone slab half under water near the deep end.
+Eden needed the thing that made the song, not its shadow on the wall. Felix crouched in the shallow water beside him. His ability was **[Trail]**: it showed him where people and things had moved. Here it showed a thin line in the air, the path of the current running from the far wall toward the outlet. The line stopped at a stone slab half under water near the deep end.
 
-"Under that," he said, without speaking loudly. His eyes went wide. "It is not a thing that lives there. It is a thing that was put there."
+"Under that," Felix whispered. His eyes went wide. "It is not an animal. Someone put it there."
 
 The rope passed from hand to hand and came taut when the deep part pulled at them. Lysette tied hers with a knot Eden had not seen before, a fat loop with a tail that pulled free with one tug. When he looked at her she touched the corner of her mouth with a gloved finger, which meant she had learned it from a book and was proud of it. He nodded. It was a good knot. In a place where a rope might be the only thing between a person and the dark, a good knot was a way of saying that she planned to come out. Eden tied his end around his forearm and waited while the others closed the gaps. He listened to the water against their legs because it was the only sound the Choir had not taken. The slab lay six steps away with the current going under it. The surface above it had a smooth place where nothing floated, as if the water went down instead of across.
 

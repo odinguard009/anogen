@@ -22,11 +22,11 @@ Felix came up behind her with a roll in his hand. "Is he allowed to lose on purp
 
 "Then why is everyone watching?"
 
-"Because they cannot prove it." She folded the linen a second time. "That is the whole art of it."
+"Because nobody can prove it." She folded the linen a second time. "He is good at losing."
 
 "Will you write him up?"
 
-"If I can prove it." She looked at the strip in her hand. "I cannot."
+"Only if I can prove it." She looked at the strip in her hand. "I cannot."
 
 Rowan came down the wall steps and stood beside Felix. "He is going to win," he said.
 
@@ -56,7 +56,7 @@ The next cut went at his knee. Eden turned on his front foot and let it pass. Th
 
 "Yes."
 
-"Then it is not a surprise."
+"Then it is no surprise."
 
 "No."
 
@@ -64,29 +64,29 @@ The next cut went at his knee. Eden turned on his front foot and let it pass. Th
 
 "Yes."
 
-"Then use it before I make you."
+"Then use it."
 
-Eden used the same one again, half a step earlier. This time the butt went past Valerius's elbow and caught the back of his wrist. The prince's sword hand opened and closed, and he looked at it as if it had failed him.
+Eden used the same move again, half a step earlier. This time the butt caught the back of Valerius's wrist. The prince's sword hand opened and closed, and he looked at it as if it had failed him.
 
-"That was better," he said.
+"You used the same move," Valerius said.
 
-"It was the same move."
+"Yes."
 
-"That is what makes it better."
+"I knew it was coming, and I still could not stop it. That is a better move than a trick."
 
 He came again, and this time Eden had to take three steps back before he could set his feet. The shield rang twice, and the cold of it went through his arm into his fingers, and his left hand stopped closing properly. Valerius saw the hand change and came at it, low, with the point aimed at the knuckles.
 
 Eden could have struck then. The lance point was in the right place. Valerius's guard was open on the inside, because he had committed to the low cut. One push would have ended the duel with a touch to the prince's chest. Eden did not push. He turned the shield and let the blade pass a finger's width from his hand. It was close enough that Valerius's face changed when he saw how close.
 
-"Why?" Valerius said. His voice had dropped so low that only the nearest judge leaned in to hear it, and the judge wrote nothing.
+"Why did you not strike?" Valerius said. His voice had dropped so low that only the nearest judge leaned in to hear it. "You had the point and the opening."
 
-"Because you said try."
+"You told me to try."
 
-"This was not trying. That was standing still with a shield."
+"That was not trying. That was standing still with a shield."
 
-"It moved."
+"The shield moved."
 
-"It moved a finger." Valerius came again and stopped a pace short, watching the shield hand. "You are waiting for something."
+"It moved a finger." Valerius stopped a pace short, watching the shield hand. "You are waiting for something."
 
 "Yes."
 
@@ -94,19 +94,13 @@ Eden could have struck then. The lance point was in the right place. Valerius's 
 
 "No." Eden kept the shield where it was. "For the bell."
 
-Valerius's eyes went to the judges' table and back. "Ah."
+Valerius's eyes went to the judges' table and back. He understood, and he said nothing.
 
-Eden said nothing. He remembered Valerius at the top of the stairs in November, holding papers with the officers gone at a nod: "So you have finally stopped hiding?" There had been the same short breath before the last word then, and there was the same breath now. He had three marks on the timetable in his head: the speed of Valerius's fourth step, the breath before a ruling, and the exact moment the bell's sound began. A bell did not ring the instant the judge struck it. There was a beat of silence, then the sound. If the touch and the sound arrived together, the judges would write a loss by a finger's width, and no one would be able to say he had timed it.
+Eden had a plan, and it was simple. A bell does not ring the moment the judge strikes it. There is a short silence, and then the sound. If the prince's blade touched him at the same moment the bell began, the judges would write a loss by one finger's width, and nobody could say he had timed it.
 
 Valerius dragged a line. "This line is not crossed."
 
 **[Injunction]** rose, waist high and cold. Eden moved to its end before the prince could come through, and Valerius made a second wall on his other side, and a third in front of him. Three walls, three breaths, and the prince's sword point had dropped an inch.
-
-"You are still making doors," Eden said.
-
-"I am making walls."
-
-"Then why do you keep walking through them?"
 
 Valerius did not answer. He came through the gap between the second and third wall with the blade high, and Eden stepped inside the swing. The shield took it on the ring, and the whole arm went numb to the elbow. He let the numbness travel, and he counted one, two, three, and on three he moved his shield hand a finger's width to the left and kept it there.
 
@@ -121,6 +115,8 @@ The judges' bell rang at the same moment. Its sound began on the touch, so there
 The three judges wrote at the same time. The second one, who had watched Valerius's blade rather than Eden's shield, wrote a longer line and then crossed it out. Nothing in the yard carried the sound of the pencil except the judges' table, which had been built for exact noises.
 
 The yard went quiet in the way a room goes quiet when a result is not what people expected. Rowan started to say something and Clara put a hand on his sleeve. "He lost on the bell," Rowan said, very quietly, to nobody. "He lost on the exact bell." Felix, beside him, took the roll out of his mouth and put it in his pocket, which was the strongest sign of respect he had. Seraphine turned her card face down on the wall beside her. Okoru, at the west wall, put the strip of leaf back in his mouth and began to chew again, slowly, as if he had been waiting for permission.
+
+A loss to the first student on the Ladder was no shame. Many students had lost to him, and none had been asked to explain. Still, Eden had lost in a way that made people look twice, and he knew it.
 
 Valerius stepped back behind his line. He did not look at the judges. He looked at Eden's shield hand, which was hanging open at the side, and at the strip of linen in Lysette's pocket.
 
@@ -138,6 +134,12 @@ Valerius stepped back behind his line. He did not look at the judges. He looked 
 
 Valerius's jaw moved once. He was angry, and he kept the anger inside the square stance, so that it showed only in the way his thumb tightened on the sword grip and in the shortness of his breath after the third wall. He was a hard duellist and not a bully, and the crowd, which had expected him to make a scene, waited for one and did not get it.
 
+Felix reached him first, with his book under one arm. "You lost by one finger," he said. "I was watching your feet. You did not slip. You did not miss. You stood still and let it happen."
+
+"I slipped a little," Eden said.
+
+"No. I know what slipping looks like. I do it every day." Felix looked at the judges, who were still writing. "I will not tell anyone. But I will know, and I will not ask you why."
+
 Lysette came across the sand with the linen in her hand before either of them said anything more. She took Eden's left hand and pulled the glove off, and then she wrapped the strip around the knuckles. She pulled it too hard. The linen bit into the split skin, and Eden's fingers opened on their own, and he let them.
 
 "You could have used the point," she said.
@@ -148,24 +150,20 @@ Lysette came across the sand with the linen in her hand before either of them sa
 
 "I know you did."
 
-"Do not be pleasant about it." She pulled the second turn tighter and tied the knot at the outside of his hand, where it would not catch on the shield strap. "If you do that again I will write you up for wasting my linen."
+"Do not be kind about it." She pulled the second turn tighter and tied the knot on the outside of his hand, where it would not catch on the shield strap. "If you do that again, I will write you up for wasting my linen."
 
-"Is it still bleeding?"
+"Is it too tight?"
 
-"No." She tied the knot again, tighter, and the linen bit a second time. "It will do that."
+"Yes. It will hurt for an hour. That is how it stops the bleeding." She looked at his hand once more, then at Valerius, and shut her mouth on whatever she had been going to say.
 
-"Then why are you doing it?"
+Eden flexed his fingers inside the bandage. It held the split skin shut without stopping the blood from moving. It was a good bandage. He decided not to say so, because she would write the compliment down and then have to decide what it meant.
 
-"Because it is my linen." She looked at his hand once more, then at Valerius, then shut her mouth on whatever she had been going to say to him.
-
-The knot sat tight and square on the outside of his hand, the kind of knot that took a person three tries to learn and a lifetime to stop tying. Eden flexed his fingers inside it and found that it held the split skin shut without stopping the blood from moving. It was a good bandage. He thought he would not say so, because she would write the compliment down and then have to decide what it meant.
-
-Seraphine came down from the wall and took her brother's free arm for one second, then let it go. He did not look at her. Her lips moved on one word, and Eden, who was a bad lip-reader, still thought it was his name. It was not a word she should have known him by, and she had said it as if it were a very old habit. She went back to her place with the card still face down, and the crowd began to understand that the prince was not going to shout.
+Seraphine came down from the wall and took her brother's free arm for one second, then let it go. He did not look at her. She went back to her place with her card still face down, and the crowd began to understand that the prince was not going to shout.
 
 Valerius put his sword in its scabbard. He came closer than the crowd expected, and he spoke so that only the three of them could hear.
 
-"My father knows who you are," he said. "So do I."
+"My father knows who you are," he said. "I know too."
 
 Eden said nothing. Lysette's hands stopped on the bandage.
 
-"Next time," Valerius said, "I'll make you show them."
+"Next time," Valerius said, "I will make you show them."

@@ -24,15 +24,15 @@ Seraphine came past with a card in her hand. "I am in," she said. "Felix is in a
 
 "I am holding my book."
 
-"Same thing in this kitchen." She wrote on the card. "Forty-one."
+"Same thing in this kitchen." She wrote on her card. "That was joke forty-one. You did not laugh."
 
 "That was not a joke," Felix said.
 
-"It was forty-one attempts at one. The count is the joke." She looked at Eden. "You are in as well. You never say no to anything quietly."
+"It was my joke." She looked at Eden. "You are in as well. You never say no to anything quietly."
 
-"I am quiet when I say no."
+"I said no quietly."
 
-"Nobody heard it." She went down the table with the card, and Felix followed with the book he had not opened.
+"That is why nobody heard it." She went down the table with the card, and Felix followed with the book he had not opened.
 
 Lysette arrived with a form and a pencil. "Who is in charge of the oven?"
 
@@ -48,11 +48,11 @@ Lysette arrived with a form and a pencil. "Who is in charge of the oven?"
 
 Lysette's pencil stopped. "The apron is Committee property."
 
-"Of course." Seraphine wrote on her card. "Forty-two."
+"Of course." Seraphine wrote on her card. "Joke forty-two. Felix did not laugh at that either."
 
-"That was not a joke," Lysette said.
+"I did not hear a joke," Lysette said.
 
-"That is why it works." Seraphine took Felix by the sleeve and led him toward the east kitchen.
+"Neither did he." Seraphine took Felix by the sleeve and led him toward the east kitchen.
 
 * * *
 
@@ -90,21 +90,21 @@ Felix looked into the bowl. "It has not risen."
 
 "I am good at hearing things." Felix put the spoon down. "I am less good at knowing what to do after."
 
-"Stand there and look worried." Seraphine tied the cloth over his hair again. "You already look worried. Keep it."
+"Then stand there and look worried." Seraphine tied the cloth over his hair again. "You already do. Keep it."
 
-Rowan carried a sack of flour past them and spilled half of it on the stone. He looked at the spill, then at Clara, and did not ask her to mend it. "I will sweep it," he said.
+Rowan carried a sack of flour past them and spilled half of it on the stone. "I will sweep it," he said.
 
-"You cannot sweep flour with a spoon," Clara said.
+"With what?" Clara asked.
 
-"I can try."
+"With a spoon."
 
 Eden stood by the wall with a tray of rolls in his hands. He had put them there because Rowan had carried them over and handed them to him, and he had not decided to hold them. The tray was warm through the gloves. He could see the brass valve from where he stood, and the thin line of steam that came from its left side where the seal did not quite meet.
 
 Lysette came in with her form held out in front of her and read from it. "Seven people. One oven. One valve. The bell is on the shelf by the door."
 
-"It is not a bell," Rowan said. "It is a serving bell."
+"It is only a serving bell," Rowan said.
 
-"It is on the shelf by the door," Lysette said. "Ring it if the valve makes a noise."
+"It still stops the club," Lysette said. "Ring it if the valve makes a strange noise."
 
 "It always makes a noise."
 
@@ -126,9 +126,11 @@ Nobody saw the lance come out of his shadow, because everyone was looking at the
 
 Lysette rang the serving bell. It made a thin, useless sound under the noise of people moving away from the wall.
 
-"Everyone out," she said. "Names. Rowan, Clara, Felix, Seraphine, Wren, me. Six. I wrote seven because I counted the cooking club twice."
+"Everyone out," she said. "Count off. Rowan, Clara, Felix, Seraphine, Wren, me. Six. Good. I wrote seven on the form, so the form is wrong."
 
 Two prefects came down the stairs with the stone bucket and stopped in the doorway because there was nothing to put out. The smoke went up into the vent and left through the roof, and the kitchen began to smell of burnt sugar instead of fear. Lysette made them write their names on the back of the form, which was the only empty space left.
+
+Nobody was hurt. Eden looked once at the oven. The valve seal was old and cracked, and that was enough to explain the flame. It did not need a plot behind it. He had learned to check, all the same, and he was glad to find only an old seal.
 
 Nobody was hurt. Clara came last through the smoke and stopped beside Eden, with the flour still on her cheek. She did not say anything for a moment. Then she said, very low, "You told me to move the bowl before the door opened."
 
@@ -136,27 +138,25 @@ Nobody was hurt. Clara came last through the smoke and stopped beside Eden, with
 
 "Did it?" She looked at the valve, which had gone quiet, and then at him. "I did not see it change."
 
-"It was a small change."
+"It was small."
 
-"You see a lot of small changes." She picked a crust of dough off her sleeve. "I will not ask. I only wanted you to know that I noticed." She went to find Rowan, and Eden was left with the odd feeling of having been thanked and warned in the same breath. Clara had flour on one cheek and a small burn on her thumb that had already closed. Felix's hair cloth had come off and he was holding it in front of him as if it were evidence. Seraphine's soufflé had fallen flat inside its cloth, and she looked at it with real sadness.
+"You see a lot of small things." She picked a crust of dough off her sleeve. "I will not ask why. I only wanted you to know that I saw you ask me to move it." She went to find Rowan, and Eden was left with the odd feeling of having been thanked and warned in the same breath.
+
+Felix's hair cloth had come off and he was holding it in front of him as if it were evidence. Seraphine's soufflé had fallen flat inside its cloth, and she looked at it with real sadness.
 
 "It rose," she said. "For four seconds it rose."
 
 "That is longer than mine," Felix said.
 
-She turned the card around. "Forty-one failed. It failed in a new way. That is worth two."
+She turned the card around. "Joke forty-one failed, and so did the soufflé. That is two things that did not rise."
 
-"That is not how a count works."
+"The soufflé was not a joke," Felix said.
 
-"It is my count."
+"It was a very sad one."
 
 Rowan stood in the middle of the kitchen with dough up to his elbows and his apron white with flour. "Did I do the form wrong?" he asked.
 
-"No," Lysette said. "The valve changed its noise. I heard it after the flame. You should have rung sooner."
-
-"You said if the noise changes."
-
-"I said a thing and then I wrote a different thing." She crossed out a line on the form. "The form is wrong."
+"No," Lysette said. "The form is wrong. It said to ring if the valve makes a noise. It should have said to ring if the noise changes." She crossed out a line. "I will write a new one."
 
 Seraphine came past Eden with the flat soufflé in her hands and looked at the shield in his, which he had already folded back into **[Exa]** and put away. "That was luck," she said.
 
@@ -170,16 +170,16 @@ Seraphine came past Eden with the flat soufflé in her hands and looked at the s
 
 Lysette looked up from her form. "Yes?"
 
-"Ball week." Seraphine said it sweetly, with her hands full of fallen soufflé. "Who are you going with now?"
+"Ball week." Seraphine said it sweetly, with her hands full of fallen soufflé. "Last month you planned to go with someone. Who are you going with now?"
 
-Lysette's pencil touched the paper and stopped. Rowan, still covered in flour, turned his head toward them, and for one second his mouth opened on the question he had nearly asked. His eyes had gone to the green stain on the cuff of Lysette's Committee apron, then to her hands, which had soil under two nails. The question arrived whole and did not come out, because a boy from the cooking club dropped a tray of rolls at that moment and everyone looked at the floor instead.
+Lysette's pencil touched the paper and stopped. Rowan, still covered in flour, turned his head toward them. His eyes went to the green stain on the cuff of her apron, then to her hands, which had soil under two nails. He opened his mouth to ask something. Then a boy from the cooking club dropped a tray of rolls, and everyone looked at the floor.
 
-Rowan knelt to pick up a roll and handed it to Lysette, who took it without looking at it. "You have flour on your sleeve," she said.
+Rowan knelt, picked up a roll and handed it to Lysette. She took it without looking. "You have flour on your sleeve," she said.
 
-"It is from the flour."
+"So do you."
 
-"Yes." She put the roll on the table and turned the form over. "I am writing that down. And the answer to your question is no one." She wrote that down too. "Put it on your card as well."
+"Yes." She put the roll on the table. "To answer your question, Seraphine: no one. Write that on your card."
 
-"Nobody is worth forty-three," Seraphine said, and went out with Felix behind her. He carried the fallen soufflé on a plate and looked at it with the same attention he gave his book, and she held the door for him because her hands were full and his were not.
+"Nobody is worth a joke," Seraphine said, and went out with Felix behind her. He carried the fallen soufflé on a plate and looked at it as carefully as he looked at his books. She held the door for him because his hands were full.
 
 Lysette watched them go. Then she turned the form over and wrote one line at the bottom, where the paper had a greasy mark from the roll: KITCHEN, NO INJURY. She drew a square around the words and put the form in her book without reading it back.

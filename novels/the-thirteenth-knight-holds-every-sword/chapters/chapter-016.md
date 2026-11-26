@@ -10,23 +10,17 @@ The Ladder duel was posted on the north board at breakfast, in Valerius's own ha
 
 Lysette turned on him. "How do you know?"
 
-"Because he never does." Rowan looked at the board again. "He will fight and he will lose and he will not say why."
+"Because Wren never refuses anything. He just goes quiet and does it." Rowan looked at the board again. "He will fight Valerius, and he will lose, and he will not say why."
 
-"Write that he can choose any date," Felix said.
+"Why would he lose?" Felix asked.
 
-"He chose one. That is the point."
+"Because Valerius is first on the Ladder, and Wren is eighth."
 
-"Can I choose a date for someone else?" Rowan asked.
+"That is not a reason to lose."
 
-"No," Lysette said.
+"It is a reason to expect it." Lysette shut her book. "I will go to the yard early. If a duel is a rule, then I must write it down."
 
-"Then why ask?"
-
-"Because you are going to." She shut the book. "Do not ask me to stop you. I have tried."
-
-"Then I will ask anyway," Rowan said.
-
-"Then I will write it down," she said, and walked toward the arms hall with her book open.
+She walked toward the arms hall with her book open.
 
 * * *
 

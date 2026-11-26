@@ -2,29 +2,19 @@
 
 Sunday morning had a thin sun that did not warm the court, and the gate to the lower city stood open with a guard who looked bored enough to count the stones. Eden went through it with his hands in his pockets and his coat collar up. The guard did not ask where he was going, which meant the guard had been told not to ask, and had been told by someone who wrote things down.
 
-Behind him, eleven steps back, Lysette told the guard she was doing Committee rounds off campus.
+Eleven steps behind him, Lysette stopped at the gate. She told the guard she was doing Committee rounds outside the school.
 
-"Off campus rounds," the guard said.
+"Do you have a form?" the guard asked.
 
-"Yes."
+"I have a form for everything." She held out a paper, and the guard read it for a long time before he let her through. "You must be back by the tenth bell."
 
-"Do you have a form?"
+"I will be back when the form says." She folded the paper into three. She did not look at Eden. That was how she showed that she was following him.
 
-"I have a form for everything." She held out a paper, and the guard looked at it for a long time before he let her through. "Off campus, Miss Hollen. That means you are not on campus."
+Eden counted to twenty as he walked down the hill, then counted again. She kept the same distance. When he stopped to look at a shop window she stopped to read a notice on the same wall. When he crossed the road she waited for a cart to pass before she crossed after him. She was not good at it, and she knew it. That was why she had brought a form instead of a lie. When a tram went past with a bell, she closed four steps of the gap. When the tram was gone, she opened the gap again. A man selling hot chestnuts watched her do it and watched Eden watch her. He decided to sell his chestnuts somewhere else.
 
-"I am aware of that."
+At the bottom of the hill the air changed. The lower city smelled of dye and wet wool, and the canal that ran along the street had a skin of blue and grey on it that moved when no wind blew. A dog lay on a bridge with its chin on the stone and did not lift its head for either of them. Somewhere behind the walls a pump worked in short, tired strokes. A man in a grey coat stood under a striped awning with his hands in his sleeves. He was watching the mouth of a lane. Eden had seen that coat before, in the dining hall. The man limped on his left foot, and his boot left a mud mark on the dry paving. Eden counted the seconds the man stayed there: forty, then fifty. The man wrote nothing down.
 
-"You will be back by the tenth bell?"
-
-"I will be back when the form says." She took the paper back and folded it into three. She did not look at Eden, which was how she said she was following him.
-
-The guard watched her go and then went back to counting the stones, or pretending to, which was the same thing when a guard had been told to look busy.
-
-Eden counted to twenty as he walked down the hill, then counted again. She kept the same distance. When he stopped to look at a shop window she stopped to read a notice on the same wall. When he crossed the road she waited for a cart to pass before she crossed after him. She was not good at it, and she knew she was not good at it, which was why she had chosen a pretext instead of lying. When a tram went past with a bell, she used the noise to close four steps, and when the tram was gone she opened them again, as if that would make the closing unseen. A man selling hot chestnuts watched her do it and watched Eden watch her do it, and decided to sell his chestnuts somewhere else.
-
-At the bottom of the hill the air changed. The lower city smelled of dye and wet wool, and the canal that ran along the street had a skin of blue and grey on it that moved when no wind blew. A dog lay on a bridge with its chin on the stone and did not lift its head for either of them. Somewhere behind the walls a pump worked in short, tired strokes. A man in a grey coat stood under a striped awning with his hands in his sleeves, watching the mouth of a lane. Eden had seen the coat before, in the dining hall and in the workshop under the school. Eden counted the seconds the man stayed under the awning: forty, then fifty. The man had a limp on the left, and his boot left a mud mark on the paving that did not match the dry day. Eden filed the mark with the other one, and the two together began to look like a pattern he would have preferred to be a coincidence. The watcher wrote nothing, which meant either he had seen nothing worth writing or he had been told not to write in public. Eden hoped it was the first. He did not stop. He turned left at the canal instead, toward the laundry steps, and took Lysette two streets away from the dye works.
-
-He needed her to see ordinary things. A man who watched a lane would not follow a boy who was looking at laundry.
+Eden did not stop. He turned left at the canal toward the laundry steps. That led away from the dye works, where the Ember cell was. He wanted Lysette to see only ordinary things. A man who watches a lane would not bother a boy who is looking at laundry.
 
 * * *
 
@@ -44,9 +34,9 @@ The laundry steps ran down to the water where women beat clothes on flat stones,
 
 "Because it is Sunday?"
 
-"Because you are here."
+"Because you are here. If I went, you would see what I do there."
 
-That was true enough, and she heard the truth of it and did not write anything down.
+That was true. She heard that it was true, and she did not write it down.
 
 "Do you come to the laundry often?" she asked.
 
@@ -54,17 +44,15 @@ That was true enough, and she heard the truth of it and did not write anything d
 
 "Then why did you know which street to take?"
 
-"I looked at the map at the gate."
+"There is a board at the gate with the street names on it. I read it on the way in."
 
-"There is no map at the gate."
+He did not add that he also knew which alley fed which canal, and which bridge was too narrow for a cart. He had learned it over two winters, one night at a time. None of it was written on any board.
 
-"There is a board with the wards on it." Eden pointed up the street. "I read the names." He did not add that he also knew where each ward ended, which alley fed which canal, and which of the bridges was too narrow for a cart. He had learned it over two winters, one night at a time, and none of it had ever been written on a board.
+She looked at him for a moment. "So you remember a board you passed once."
 
-She looked at the board, which was three streets away and turned so that nobody could read it from where they stood. "You read it from here?"
+"Yes."
 
-"No. I read it on the way in."
-
-"Ah." She put the pencil behind her ear. "That is worse than knowing the laundry." A woman at the stones slapped a sheet flat and shouted at a child to move her feet, and the child moved them and then put them back. Lysette watched the child instead of Eden, and for a moment her face did its odd thing, going soft and then hard again before anyone could call it either.
+"That is odd, but it is not a crime." She put the pencil behind her ear. A woman at the stones slapped a sheet flat and shouted at a child to move her feet, and the child moved them and then put them back. Lysette watched the child instead of Eden, and for a moment her face did its odd thing, going soft and then hard again before anyone could call it either.
 
 Eden turned up a narrow street that led away from the canal and into a square where a bakery stood with its door propped open. The smell of bread came out into the square and met the smell of dye and won. Three children sat on the step with a bowl between them, tearing a loaf into pieces and putting the pieces into smaller hands. The bowl had a crack from rim to base and had been mended with a copper staple, and the smallest child kept dropping pieces into it and taking them out again to count them.
 
@@ -96,17 +84,23 @@ Eden put coins on the step. The woman took two and left the rest. "That is too m
 
 He took it. He did not eat it. He put it in his coat pocket and thanked the child, who went back to the step and told the others that he had done it, and the others asked him what it felt like to be thanked by a mister. The bakery woman came out with a second loaf and put it on the step without being asked, and she did not look at Eden when she did it. The loaf was dark and heavy, the kind that would last a week in a cold room. One of the children whispered something to the others, and all of them turned to look at the coat pocket with the piece of bread in it, as if the bread might say thank you too.
 
+The bakery woman stopped beside Lysette on her way back in. "He pays for three loaves and takes none," she said, in the low voice of someone who had decided to speak. "Last winter these children slept in the canal sheds. Now they sleep above my ovens. I do not say who pays for the room."
+
+"I did not ask," Lysette said.
+
+"No. But you are writing it." The woman nodded at the closed book, and went in.
+
 Lysette stood three steps away with her book closed. "They know your name," she said.
 
 "The baker does."
 
-"No. The children do. One of them called you mister before you said anything." She looked at the loaf in his pocket. "You paid for bread and did not eat it."
+"No. The children do. One of them called you mister before you said anything." She looked at the loaf in his pocket. "You paid for bread, and you gave it away."
 
-"It is for the walk back."
+"The bread is for the children."
 
-"You do not eat on the walk back. I have written the walks down."
+"Then why did the woman say 'the usual'? How long have you done this?"
 
-"Then write that I gave it away."
+"Since last winter."
 
 She did not write anything. Instead she looked at the smallest child, who was holding the last torn piece up to the light as if it might have a picture inside. "How old is he?" she asked.
 
@@ -122,15 +116,15 @@ She did not write anything. Instead she looked at the smallest child, who was ho
 
 "Then why?"
 
-"I like to look at the water lanes." Eden kept his voice flat. "I do not go near the dye works. That is the whole answer."
+"I come because they are hungry. That is the whole answer."
 
-"It is a clean answer."
+"It is a short answer."
 
 "It is a true one."
 
-"Those are not the same thing." She shut the book. "But I will write it down as both." She started back up the street, then stopped. "You may walk behind me if you like. I will not write that down either."
+"Short and true can both be wrong." She shut the book. "But I will not write the bakery in my report. I will write that you walked by the water." She started back up the street, then stopped. "You may walk with me, if you like. I will not write that down either."
 
-Eden walked behind her for four steps and then took the other side of the square, so that anyone watching the bakery would see two separate people who had never spoken. Lysette did not turn around. At the corner she put the gate form in her book without looking back. "I am not writing the hill," she said. "You came back. That is the whole form." That was the truce, and it lasted until the school was in sight.
+Eden walked beside her for four steps. Then he took the other side of the square, so that anyone watching would see two people who had never spoken. Lysette did not turn around. At the corner she said, without looking back, "I am not writing the hill. You came back with me. That is all the form needs." That was the truce, and it lasted until the school was in sight.
 
 * * *
 
@@ -146,12 +140,14 @@ From the door behind him came a long, grumpy sigh, the way an old church settles
 
 "You have been awake all day," Eden said, and moved a pawn back to the tower's old place.
 
-"I am the rent. I am always awake." The voice dropped a little. "I kept you breathing for nine years. I have asked for nothing. Well. I have asked for one thing, and I meant to take it when—"
+"I am the rent, and I never sleep." The voice dropped a little. "I kept you breathing for nine years. I asked for nothing. Not even thanks. I did it because I promised someone, and—"
 
-It stopped in the middle of the word. The white floor went quiet, and even the Tutor's hand stayed where it was.
+It stopped in the middle of the sentence. The white floor went quiet, and even the Tutor's hand stayed where it was.
 
-"What did you promise?" Eden asked.
+"Who did you promise?" Eden asked.
 
 No answer came from the door. The Dragon had gone quiet the way a house goes quiet when someone closes a door inside it, and the board's nine pawns stood in a line with no tower to guard them.
 
-Eden waited. Then he moved the first pawn, and the Tutor said, "Again," and the dream went on without the other voice.
+Eden waited a long time. He had lived with that voice for nine years, and in all that time it had never stopped halfway through a sentence. It had complained, joked and sneered, but it had always finished. He wanted to ask again, but he did not, because he knew that a question pushed too hard would close the door for good.
+
+Then he moved the first pawn, and the Tutor said, "Again," and the dream went on without the other voice.

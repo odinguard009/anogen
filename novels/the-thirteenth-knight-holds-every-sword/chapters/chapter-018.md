@@ -1,6 +1,6 @@
 # Chapter 18: Alive, on the Night of Lights
 
-Ysolde's courier found Eden behind the stables on Friday with a note folded in three. The boy waited, because Ysolde's couriers were paid by the wait.
+Ysolde's courier found Eden behind the stables with a note folded in three. The boy waited, because Ysolde's couriers were paid by the wait.
 
 Eden unfolded it. WATCH TALLIS. DO NOT LET HIM SEE YOU.
 
@@ -16,29 +16,25 @@ Eden turned it over. "Thirteen."
 
 "She writes everything else." The courier put his cap back on and pulled it down. "She said you would ask."
 
-Eden put the note in the same pocket as the Ashen card, which he had stopped calling a bookmark. The two papers lay together in the dark of the pocket like two halves of a sentence, and he kept his hand away from them for the rest of the morning, so that he would not be tempted to try to read them as one.
+Eden put the note in the same pocket as the Ashen card, which he had stopped calling a bookmark. Ysolde's order was to watch Rowan and not be seen. The card said "Remember Thornmere." He did not know yet if they belonged together.
 
-Rowan noticed everything except danger. That was the trouble with him. On the walk into the lower city on Friday he stopped to look at a dog with one ear. He asked the baker why the shutters were painted blue. He remembered the name of the boy who swept the crossing. He did not see the man in the grey coat who took the same three turns behind him.
+Rowan noticed everything except danger. That was the trouble with him. For six days Eden followed him through the lower city, and Rowan stopped to look at a dog with one ear. He asked the baker why the shutters were painted blue. He remembered the name of the boy who swept the crossing. He did not see the man in the grey coat who took the same three turns behind him.
 
 "Do you know what this is?" Rowan asked at a fruit stall.
 
 "An apple."
 
-"Not that one. It is a quince." Rowan held it up. "I thought it was an apple for two years."
+"No, it is a quince." Rowan held it up. "I thought it was an apple for two years. A woman told me. I hate being wrong twice about the same fruit."
 
-"What changed?"
+Eden kept half a street behind the grey coat, not behind Rowan. A watcher was watching the watcher. It was slow work, and it asked for a kind of patience that nobody had ever praised him for. The man in the grey coat never hurried and never looked back. He took a different doorway each day. He kept his weight on his right foot, so that his left foot, the bad one, could rest. By the third day Eden could have picked him out of a crowd by the sound of his steps alone.
 
-"A woman told me." He put it back. "I hate being wrong twice about the same fruit."
-
-Eden walked half a street behind the man, not behind Rowan. A watcher watched the watcher. It was slow work, and it asked for a kind of patience that nobody had ever praised him for. The grey coat never hurried and never looked back. He took a different doorway each day, wore the same boots, and had a way of standing with his weight on his right foot so that the left could lie still in the mud. Eden learned the boots first, then the stance, and by the third day he could have picked the man out of a crowd by the sound of his steps alone. When the grey coat stopped at a window, Eden stopped at the same window. When the grey coat moved on, he moved.
-
-By Thursday the tail had become a habit. Rowan went to the dye market on Monday and the bell foundry on Tuesday. On both days the grey coat came out of a different doorway and kept six paces behind his left shoulder.
+One day Rowan went to the dye market. The next day he went to the bell foundry. On both days the grey coat came out of a different doorway and kept six paces behind Rowan's left shoulder.
 
 "You are quiet today," Rowan said at the foundry.
 
 "Yes."
 
-"Is it because of the duel?"
+"Is it because you lost the duel?"
 
 "No."
 
@@ -46,33 +42,31 @@ By Thursday the tail had become a habit. Rowan went to the dye market on Monday 
 
 He waved at a child on the foundry step and called her by name. The grey coat looked at the child's hands, not at her face, and wrote something in a small book.
 
-On Wednesday Lysette stopped Eden at the gate with a form. "Off campus?"
+One evening Lysette stopped Eden at the gate with a form. "Going off campus again?"
 
 "Yes."
 
-"For what?"
+"The form needs a reason."
 
 "Watching."
 
-"Watching who?"
+"Watching what?"
 
-"No one." She wrote the word down and underlined it twice. "This is the worst form I have written."
+"I cannot say."
 
-"Put thirteen."
+She wrote "watching" and then crossed it out. "This is the worst form I have ever written." She looked at the number he had put in the corner of the paper. "What is thirteen?"
 
-"Thirteen is not a person."
+"The number on my order."
 
-"It is the number on the order."
+"I do not like that number," she said, and went back to the Committee bench with the form.
 
-She looked at him for a moment, wrote thirteen in the corner, and put the form in her book. "I do not like that number," she said, and went to the Committee bench.
-
-Eden counted the days and kept his own book in his head. Four walks, one watcher, no approach. That was a report with nothing in it, and Ysolde would want nothing in writing, so he would have to make something happen.
+By the sixth night Eden had a report with nothing in it: six walks, one watcher, no approach. Ysolde would not be pleased with that. So on the seventh day he decided to make something happen.
 
 * * *
 
 The lane was unlit because the lamp at its mouth had been taken down a week earlier and not replaced. Eden had walked it twice before, once at noon and once after dark, and he knew that the wall on the north side threw a clean shadow from the last lamp on the main street. The shadow had an edge. That was enough.
 
-On Thursday evening Rowan went down the lane with his collar up and a loaf in his hand. "The grip is too thin," he said to himself. "I wrapped it. It is still thin. Two wraps, then." He went on, satisfied, and did not look back. The grey coat came behind him, and behind the grey coat came Eden, with his hands in his pockets and his shoulders hunched like a boy going home in the rain.
+That evening Rowan went down the lane with his collar up and a loaf in his hand. "The grip is too thin," he said to himself. "I wrapped it. It is still thin. Two wraps, then." He went on, satisfied, and did not look back. The grey coat came behind him, and behind the grey coat came Eden, with his hands in his pockets and his shoulders hunched like a boy going home in the rain.
 
 The lane ended at a door set into the north wall. Rowan stopped at the door and knocked, because someone inside was expecting him, and the grey coat stopped ten steps back and pretended to examine the wall.
 
@@ -86,6 +80,8 @@ Eden took his wrist before the man could make a sound. He turned it behind the m
 
 The man went down without landing on the stone. Eden caught him at the waist and took him through the Door into the cellar, and laid him on the dry floor under the low beam. The black rectangle closed behind them with no more sound than a breath.
 
+Eden had chosen this cellar for three reasons. It was empty. It had one door, and that door could be locked from the outside. And nobody on the lane would think to look for a man inside a shop that had been closed since spring. A fight in the lane would have been seen. A man who simply stopped following Rowan would be forgotten by morning.
+
 The coat had a tear at the elbow where the wall had caught it. Eden did not mend it. A torn coat was a thing people would remember on the street, and he wanted them to.
 
 Eden searched the coat. There was a small book with three lines in it, all of them about Rowan: the foundry, the market, a note about a boy who carried a spear. There was a folded paper in the inside pocket, thicker than the book, and he opened it under the beam.
@@ -96,9 +92,9 @@ Alive. Night of lights.
 
 The small book had a name on the flyleaf, written carefully in the same hand: Corwen. Under it, one word: bagman. Eden said both words out loud in the empty cellar, because a name said in a room was a thing he could remember exactly. Vesk would know it too, and Vesk would want the coat.
 
-Eden read the two lines twice. The list was the Ball guest list, and someone had written what they wanted from it in the space above the names. He put the paper back, took the man's belt knife and the small book, and left him asleep under the beam with his coat buttoned. When the man woke he would be in a closed cellar with no lamp and no memory of the last four seconds, and the door had no handle on the inside. That was a message as well as a safe place to put him.
+Eden read the two lines twice. He knew this list. It was the guest list for the Ball, the school's big dance on the twelfth. The call list at the exchange and the guest list were the same names. Someone had copied them, and above the names they had written what they wanted: Rowan, alive, on the night of lights. He put the paper back, took the man's belt knife and the small book, and left him asleep under the beam with his coat buttoned. When the man woke he would be in a closed cellar with no lamp and no memory of the last four seconds, and the door had no handle on the inside. That was a message as well as a safe place to put him.
 
-As he stepped back through the Door he heard the man breathing in his sleep, slow and ordinary, and for a moment he wondered what the bagman had been before he was a bagman. A clerk, perhaps. A clerk who had been told that the work was small. Eden did not wonder long. A name on a flyleaf was a name, and a man who carried a book about a boy with a spear was not a clerk any more.
+As he stepped back through the Door he heard the man breathing in his sleep, slow and ordinary, and for a moment he wondered what the bagman had been before he was a bagman. He said the name again, so he would not lose it. A name on a flyleaf was a name, and Corwen would be easy to find now. Eden did not wonder long about him. A man who followed a boy with a spear for six days was not a clerk any more.
 
 * * *
 
@@ -136,20 +132,20 @@ Eden waited until the lane was empty, then went the other way.
 
 He went to the palace that night with the report in his head. Ysolde was still at her desk. She read nothing; she listened, with her pen on the desk and her fingers around it.
 
-"A man named Corwen," she said when he finished. "Bag man. Good."
+"A man named Corwen," she said when he finished. "A bagman, the one who carries messages and money for the Embers. Good."
 
 "He has a copy of the exchange list."
 
-"Yes." She wrote one word and put the paper aside. "The list is the guest list for the Ball. I told you that on the twelfth."
+"Yes." She wrote one word and put the paper aside. "The Embers took the names of Year 5 families to make a guest list for the Ball. They want those children in one place on one night."
 
-"You said someone was making a list of people to collect."
+"You did not tell me that."
 
-"I said more than that." Ysolde looked at him over the top of her glasses. "You heard what you wanted."
+"I did not know it." Ysolde looked at him over the top of her glasses. "Now I do. Thank you."
 
-"Alive. Night of lights."
+"Alive. Night of lights," Eden said.
 
-"Yes." She put the cap on the pen. "Write it in your own book and do not give me a form. I have enough forms." The pen had a chip in it, and when she wrote Corwen the chip caught and left a small mark, and she did not try to smooth it.
+"Yes." She put the cap on the pen. "Keep the book you took. Do not give me a form. I have enough forms."
 
 On the walk back he stopped under the last lamp and wrote the report again in his head: four walks, one watcher, a copy of the call list, and two words that said what the Embers wanted. Alive. Night of lights.
 
-The note in his pocket gave the date of the Ball, and he counted from Thursday to Saturday the twelfth. Nine days. He folded Ysolde's order into three and put it back beside the Ashen card, and walked toward the school with his collar up against the rain that had not started yet.
+He counted from the third to the twelfth. Nine days. He folded Ysolde's order into three and put it back beside the Ashen card, and walked toward the school with his collar up against the rain that had not started yet.

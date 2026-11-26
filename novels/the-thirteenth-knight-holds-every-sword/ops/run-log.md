@@ -173,3 +173,17 @@
 - REVIEW ch 30: PASS. check_chapter OK (1800 words, mean 12.2, dialogue 32%). Epigraph from outline/epigraphs.md. Split several long sentences to stay under the mean cap.
 - Duke POV allows his feelings; no head-hop into Bertram (corrected one line to an observable action during drafting). No Unbind occurs; the helm is only fitted, and four notes of humming are heard.
 - Tailor thread at D only: the letter asks about late mother with no name and no answer. The bandit mark and the signed form are plants, not reveals.
+
+### critic pass ch 21-30 - 2026-11-26 - same session, not independent
+- Cold read of the manuscript against the outline lines and canon rows; verify_batch 21-30 OK; prepass and check_chapter on all ten. No event or canon changed; no targeted patches needed.
+- ch 21 - 2,3,5,-,4,4. No concrete line-level finding. Locket first use and C1 D delivered in Lysette's words only.
+- ch 22 - 4,4,4,4,4,4. No concrete finding. [Mott] and [Draught] have look, effect and limit; children leave unhurt.
+- ch 23 - 4,4,4,4,4,4. No concrete finding. [Knock and Answer] first use; feather stamp and wrong-night plan are plants.
+- ch 24 - 4,4,4,4,4,4. No concrete finding. Chandelier caught in a Door with a light edge; no [Lintel].
+- ch 25 - 5,4,4,5,4,4. No concrete finding. First [Lintel] and [Hrak]; aura reactions include Valerius and Seraphine; Ilsabet spared. "Tapestry" replaced with "wall hanging" for the banned-phrase cap.
+- ch 26 - 2,3,5,-,4,5. No concrete finding. "No." given as asked; smile is physical and brief; dreamless sleep and washed handkerchief on the page.
+- ch 27 - 3,4,5,-,4,4. No concrete finding. C1 E stays evidence; reading labels appear once and are registered.
+- ch 28 - 2,4,4,-,4,4. No concrete finding. Epigraph correct; bell hint only; pistol misfires twice and decides nothing.
+- ch 29 - 2,3,5,-,4,4. No concrete finding. Half-truth to Felix; Liora's work stays unnamed; crown with no centre is a plant.
+- ch 30 - 3,3,4,-,4,4. No concrete finding. Epigraph correct; Tailor thread at D only; helm hour has only humming.
+- Recurring weakness: every chapter in this range sits at 1800-1820 words, and dialogue is low by the prepass count in ch 21, 26, 27 and 28. Both are warnings only; no filler added.

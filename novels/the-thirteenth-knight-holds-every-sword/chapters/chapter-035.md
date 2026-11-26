@@ -34,15 +34,11 @@ Eden did not answer him out loud. Gorrath's voice was low and tired and came fro
 
 Seraphine arrived with a card in her hand and a scarf over her hair, which she had tied under her chin against the cold. She had been on the wall for two days with Lance One and had come down to trade posts with someone, which was something she did often enough that the prefects no longer asked her why.
 
-"Seventy-six," she said to Felix.
+"Joke seventy-six," she said to Felix. "The bread is so hard it could be a door."
 
-"I have not laughed at anything."
+"I did not laugh."
 
-"Seventy-six is a thing I said, not a thing you did." She wrote on the card. "You did not laugh at the bread. That is one."
-
-"That was not a joke. The bread is a physical fact."
-
-"Seventy-seven is a physical fact as well." She snapped her fingers and winked at him, and she was suddenly standing two steps to his left with her back to the wall and Felix sitting where she had been. **[Switcheroo]** had moved them within ten steps without either of them walking, and the snow under Felix's boots had not been disturbed. It worked when nobody was looking straight at the light; in the honest glare of a lamp it failed, and Seraphine had once swapped herself with a post and been stuck beside it for a minute. A candle on the table flickered backward once as she landed, and then burned normally.
+"I know. That is why I count it." She wrote on her card. "Joke seventy-seven." She snapped her fingers and winked at him, and she was suddenly standing two steps to his left with her back to the wall and Felix sitting where she had been. **[Switcheroo]** had moved them within ten steps without either of them walking, and the snow under Felix's boots had not been disturbed. It worked when nobody was looking straight at the light; in the honest glare of a lamp it failed, and Seraphine had once swapped herself with a post and been stuck beside it for a minute. A candle on the table flickered backward once as she landed, and then burned normally.
 
 Felix looked at the card in his own hand, then at Seraphine's empty seat, then at Seraphine. "I am going to be sick."
 
@@ -76,7 +72,7 @@ Felix looked at her. "Four minutes?"
 
 "Four." Eden said it before he had decided to, with his pencil still on the form.
 
-Seraphine's eyes came to him and went back to Felix. "Yes. Four." She went on. "He counted us as we went out and he made us go in a line with the smallest first. I was not the smallest. I was fourth from the end, and I remember because I kept turning round to see if the last one was still there."
+Seraphine's eyes came to him and went back to Felix. "Yes, four minutes. He knew it exactly." She went on. "He counted us as we went out and he made us go in a line with the smallest first. I was not the smallest. I was fourth from the end, and I remember because I kept turning round to see if the last one was still there."
 
 "Was he?" Rowan asked.
 
@@ -84,25 +80,25 @@ Seraphine's eyes came to him and went back to Felix. "Yes. Four." She went on. "
 
 Lysette's pencil moved at the next table. She wrote one word and then crossed it out.
 
-"How many were there?" Eden asked.
+"How many children were there?" Eden asked.
 
 "Nine," Seraphine said.
 
 "Eleven."
 
-"No." She turned to him, and her smile came back for one second and was gone. "Nine came into the hall. I counted them."
+"No." She turned to him, and her smile came back for one second and was gone. "Nine children came into the hall. I counted them."
 
-"Nine came in," Eden said. The number arrived with a picture of a hall under a table and a line of children moving toward a door. He said the next number before he could put the picture in the box of things that were none of his business. "Eleven went out."
+"Nine came in," Eden said. The number arrived with a picture of a hall under a table and a line of people moving toward a door. He said the next number before he could put the picture away. "Eleven went out."
 
-Seraphine looked at him without moving, with the card in her hand. Then she said, "Yes. Eleven went out. I had forgotten the two by the door." She put the card in her glove and stood up. "That is the whole story. Tell me I did not tell it badly."
+Seraphine looked at him without moving, with the card in her hand. Then she said, "Yes. Eleven went out. Two soldiers were standing by the door, and they came out with us. I had forgotten them." She put the card in her glove and stood up. "That is the whole story. Tell me I did not tell it badly."
 
-"You told it badly," Felix said. "You left out two people."
+"You left out two people," Felix said.
 
-"Seventy-nine." She wrote it down and walked away toward the stair with her scarf over her hair, and Felix went after her with his book under his arm.
+"Joke seventy-nine." She wrote it down and walked away toward the stair with her scarf over her hair, and Felix went after her with his book under his arm.
 
 The camp went back to its noise. Gorrath said, in Eden's head, "You should not have corrected her number." The Dragon said, "He was never good at leaving a thing alone." Eden filled in the first box on Form 13-B and did not answer either of them.
 
-At the table beside the stores, Lysette finished writing on a fresh form. Her hand shook once at the wrist, and she held it still with the other until the ink dried. The form was headed DISCIPLINE COMMITTEE: IMPROPER POST SWAP, and the name on the line was Seraphine Aurenmark.
+At the table beside the stores, Lysette finished writing on a fresh form. Her hand shook once at the wrist, and she held it still with the other until the ink dried. The form was headed DISCIPLINE COMMITTEE: IMPROPER POST SWAP, and the name on the line was Seraphine's.
 
 Rowan went back to the bread table and broke his frozen loaf against the bench, and it split with a crack like a small shot, and half of it flew across the stores and hit the groundskeeper, who was sorting fuses by the wall. He looked at the bread, looked at Rowan, and said, "That is a good arm, young man. Tea for the tall one, two sugars." He hummed his four wrong notes and went on sorting, and Rowan, delighted, took the piece of bread to him with an apology.
 
@@ -110,6 +106,6 @@ Felix stood where Seraphine had left him with her card still in his hand and did
 
 She did not look up when Eden came to put his own form in the folder. "I have to write her up again," she said. "I do not know why my hand is doing that."
 
-"Yes."
+"It is cold," Eden said.
 
-"Do not be pleasant about it." She held the form at the corner and the paper shook in the cold wind coming off the wall. "There were eleven of them. I have written nine in three places and I cannot change it now."
+"It is not that cold." She held the form at the corner, and the paper shook in the wind coming off the wall. She did not say what else it might be.

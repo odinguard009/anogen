@@ -86,3 +86,7 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 - [paid ch 45] C2: Corentin was a Veil and Eden killed it — reader confirm by short past-tense memory scene (court stairs PR 110, grey under the face, one cut, confirm mark), no feeling words
 - [open] Camp believes the dead groundskeeper was the mastermind of the whole attack | planted: ch 45 | due: 50, 185
 - [open] Oil lines lit by Eden make edges at night; three Doors over tunnel mouth, cold-store crack and supply passage | planted: ch 39, 45 | due: 46, 50
+
+- [open] Grass greens under Clara's knees for one second during [Wyl] | planted: ch 46 | due: 480
+- [open] Valerius's wall of frost appears for one breath when he sees the camp burn | planted: ch 46 | due: 545
+- [open] Felix saw the unexplained light and did not write it down | planted: ch 43, 46 | due: 49, 50

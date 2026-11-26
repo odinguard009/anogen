@@ -570,5 +570,18 @@
       "pacing_shape": "slow proof, short memory, sudden opening",
       "hook_type": "the wrong side of a fire"
     }
+  },
+  {
+    "chapter": 46,
+    "picks": {
+      "opening_type": "a count of forty in a burning yard",
+      "scene_shape": "evacuation, wagon Door, two first attacks",
+      "tension_type": "forty people and one open gate",
+      "emotional_tone": "urgent and exact",
+      "comic_device": "muskets fouling in a mana haze",
+      "conflict_type": "Husks and Embers moving together",
+      "pacing_shape": "one order, one long crossing, one run",
+      "hook_type": "a rescuer becoming the exposed one"
+    }
   }
 ]

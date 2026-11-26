@@ -46,3 +46,6 @@ In the dream the Dragon teaches Eden the round shield **[Thessa]** and refuses t
 
 ## Ch 45 - The Wrong Mastermind
 Eden exposes the camp groundskeeper as a Veil at night and ends it in front of the soldiers who loved him. Lysette's first [Citation] shows the exact wound, at a cost of a headache, and she insists the soldiers write only what they know. A short memory scene confirms for the reader that the young man on the court stairs in PR 110 was a Veil and that Eden killed him; Lysette does not know. The camp wrongly decides the dead groundskeeper was the mastermind. Eden lights the oil lines and the Mawgate opens under the camp. The barracks are on the wrong side of the fire.
+
+## Ch 46 - The Wrong Side
+Forty people must cross a burning yard while the Mawgate opens. Eden cuts a Door in a supply wagon's moving shadow and drops the Husks into the gate's throat. Rowan's first [Ithe] clears the children; Clara's first [Wyl] holds a crack, and the grass greens under her knees for one second. Valerius arrives late with frost on his shoulder. When a conscript is exposed on the kitchen step, Clara runs past her own line and Rowan follows her.

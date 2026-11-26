@@ -319,3 +319,10 @@
 - Misdirection: the camp turned the dead Veil into the mastermind by the time the story reached the mess hut, and Lysette did not correct the sheet because a correction would have been a question.
 - Eden lit the oil lines from the stores end, one marker at a time, and opened three Doors over the tunnel mouth, the cold-store crack and the supply passage. Mawgate tore open at the fourth bell with Husks and grafted Embers together; all hut lamps went out.
 - Hook: the barracks were on the wrong side of the fire.
+
+## Wed 27 Jan (ch 46)
+- Forty people counted out of the burning barracks: 23 soldiers, 6 cooks, 4 prefects, 2 messengers, a physician and 4 lower-city children. Okoru ordered one line, no running, and the other door because the gate burned.
+- Embers' muskets fouled in the fire's mana haze; one barrel bent inward. Eden cut a Door in the moving shadow of a supply wagon and dropped the Husks pouring through it into the Mawgate's throat. The wagon's horse was stopped for the cut.
+- First [Ithe]: Rowan's gold burst from the spear head drove Hushborn off the children; he staggered and Clara caught him. First [Wyl]: Clara's green line held Husks at a crack and the blows came back into her face; snow under her knees went green for one second.
+- Valerius's Lance arrived late, ordered by the king to hold until dawn; a wall of frost showed on his shoulder for one breath and melted. Felix saw the light and did not write it down.
+- Hook: the conscript whose fingers Clara healed stood on the kitchen step with Husks turning toward him; Clara ran out past the green line and Rowan went after her.

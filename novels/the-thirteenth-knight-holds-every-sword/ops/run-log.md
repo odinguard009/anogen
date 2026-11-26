@@ -113,3 +113,14 @@
 - REVIEW ch 45: PASS. check_chapter OK (1805 words, mean 13.4, dialogue 19% warning only). Read twice. First [Citation] described with cost; 2 new labels total in this chapter ([Citation] plus repeats).
 - C2 C delivered as a short past-tense memory scene with no feeling words, as the ladder demands. Lysette is not given the knowledge; she writes only what can be said. Misdirection is explicit but not confirmed by the reader's narrator beyond the dead Veil's identity.
 - No kill without proof: grey shown under honest light before the cut. The Mawgate opening follows the oil-line and warm-floor plants.
+
+### 2026-11-26 08:46 UTC (15:46 WIB) - tulis bab berikutnya - chapter 46 - ok
+- words: 1804
+- scores: tension 5, surprise 4, emotion 4, battle_clarity 5, voice 4, freshness 4
+- notes: First [Ithe] and [Wyl]; forty evacuated; wagon shadow Door; Clara runs back.
+- quota_note: 
+
+### self-review ch 46 - HIGH risk, same session, not independent
+- REVIEW ch 46: PASS. check_chapter OK (1804 words, mean 13.2, dialogue 29%). Two new labels only ([Ithe], [Wyl]), both described in scene and ledger. No Unbind: frost and grass are reaction hints and never explained.
+- The circle acts at its standing: forty evacuated, a wagon Door used as terrain, veterans and prince's Lance arriving late. Power use has visible cost (Rowan cold, Clara bleeding).
+- Continuity: hand-sign and Door geometry from ch 32/39, Clara's frostbite patient from ch 43, oil line from ch 45, Valerius's frost hint from ch 28 bell/Unbind ladder.

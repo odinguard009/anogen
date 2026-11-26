@@ -84,3 +84,6 @@ Note: Witness first use moved from planned ch 13 to ch 11 because the outline's 
 - [Thessa] in the dream Vault | Dragon shows Eden | ch 44 | yes (round iron-faced shield, worn strap, lighter than it looks, covers chin to knee; small feather mark under the strap) | no limit shown in the dream; first loan on the page ch 47
 
 - Lysette's [Citation] | Lysette | ch 45 | yes (ghost-light replay held over the snow showing where the Veil was hurt, one baton strike placed on the exact inch; headache at the temples) | yes (short duration; costs her a headache; needs a still place)
+
+- Rowan's [Ithe] | Rowan | ch 46 | yes (gold light up the arms and a short hard burst from the spear head; drives Hushborn back; leaves him cold and one hand not answering) | yes (one burst, then cold; he must be caught afterward)
+- Clara's [Wyl] | Clara | ch 46 | yes (staff to ground, green line runs out along a crack and holds Husks on the far side; every blow on the line comes back into her face) | yes (she feels each blow, bleeds under the nose; must move the staff to cover a new group)

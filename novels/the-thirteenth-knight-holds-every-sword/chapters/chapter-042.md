@@ -36,7 +36,7 @@ Lysette came up the path with her book open and her red band pinned straight, an
 
 "Roll," she said.
 
-"Nine present, sir," the prefect said. "One asleep in a boot."
+"Nine present, miss," the prefect said. "One asleep in a boot."
 
 "I can see the boot." Lysette walked down the line of tents with her pencil moving. She stopped at the third tent and listened. "That voice is too calm."
 
@@ -56,6 +56,14 @@ There was a silence in which a man dropped a bucket. Then a deep voice said, "Pr
 
 Lysette shut her book. "I am too tired for this," she said, and walked away with the pillow still in her hand.
 
+The log sat still for a long minute after she had gone. Then the bark on one side peeled away like a loose door and Gorrath unfolded out of the wood with twigs in his beard and his shield still on his arm. He looked at the pillow Lysette had dropped on the path, picked it up, and brushed the snow off it as if it were a wounded bird.
+
+"She counted me," he said. "Twelve. I was the twelfth."
+
+"You were the thirteenth," Eden said. "You were still wrong about which one."
+
+"I will practise." Gorrath put the pillow on the woodpile where it could be found. "I am sorry about the boot."
+
 Eden woke in the supply tent with the scarf over his face and snow on his coat, and he had no memory of how he had got there. Felix sat beside him with a bun in his hand.
 
 "You were in the roll call," Felix said.
@@ -71,6 +79,8 @@ Eden woke in the supply tent with the scarf over his face and snow on his coat, 
 "Here."
 
 "That is not true either." Felix went back to his book. "I am not writing it down. Do not ask me why."
+
+He turned a page and did not read it. A little later he said, to the book, "If a man tells you the same lie every night, it stops being a lie and starts being his address." Then he held out the other half of the bun again, because Eden had not yet eaten the first.
 
 By the second bell the camp had turned the roll call into a game. Seraphine declared a snow-fort war on Lance One and built a wall of packed snow around the north table with her own hands, and Valerius's men built a taller one with a bank of ice and a flag made from a towel. Felix was pulled in because he was standing near the north table with a roll in his hand, and he was given the job of counting ammunition, which in this war meant snowballs. He counted them into a sack and counted them out again and wrote the number on his book, and then Seraphine took six for a surprise attack and he had to begin again. The wall on the north side grew to the height of a man's waist and then to his chest, and two soldiers from Lance Three joined because they had nothing better to do on a day off, and Valerius sent an officer over to say that a snow fort built on the council path was a matter for the council, which made the war twice as good.
 
@@ -115,6 +125,8 @@ By the third bell Rowan and Clara had stopped fighting the snow war and were sit
 "I know they were looking at the blanket." Rowan pulled it higher over both their knees. "I do not understand why that is interesting. It is a blanket. It is cold."
 
 Clara put her hand on the blanket and left it there. "It is a blanket," she said. Then she looked at the wall and did not say anything else for a while, and Rowan, who could not bear a silence when he was sitting next to someone, filled it with a story about a snow fort he had built when he was nine that had melted in an hour.
+
+The fort in the story had had a door, a chimney made of a rolled-up sock, and a sign that said KEEP OUT. The neighbour's dog had come in anyway, through the wall, and the whole thing had fallen on both of them. Clara listened to every word of it and did not move her hand off the blanket.
 
 Rowan thought about the looking for another minute and then went back to talking, and the three soldiers went away with the expressions of people who had seen something they would tell their friends about at dinner. Eden sat on the step of the stores with the scarf over his mouth and watched Okoru walk past with his stick, and Okoru did not stop and did not chew anything, which meant he had noticed the blanket as well.
 

@@ -4,6 +4,8 @@ Eden got back to the roof before the hall had finished counting. He came up the 
 
 He counted the sounds that came up through the glass. It was an old habit, older than the Vigil. Sounds told him what a room was doing when he could not see it, and a room that was frightened sounded different from a room that was merely loud. This one had been frightened for an hour, and now, slowly, with a dropped glass and a laugh and a prefect telling someone to mind the step, it was learning how to be loud again. Violins, a drum, thirty or forty people talking at once, a glass dropped somewhere near the west door. No shouting. That was a good sign, and he put it in the box of things that were none of his business. A prefect crossed the glass below with a broom and stopped to sweep up a drift of broken lantern glass, and another prefect followed with a dustpan and held it wrong side up, and neither of them looked at the roof.
 
+A broken lantern lay in two pieces by the rail, its brass frame bent, its wick still curled in the oil. Eden stepped around it and did not touch it. Anyone who picked it up would be asked where it had fallen from.
+
 The roof door opened. Lysette came out with her gown gathered in one hand and her gloves in the other, and she was shaking hard enough that the chain at her collar moved against the button. She stood in the doorway until her breath came back, then crossed to the rail and looked down into the hall.
 
 "Are they all out?" she asked.

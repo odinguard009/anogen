@@ -46,7 +46,7 @@ Lysette was the last up the stair. She had a roll of paper under her arm and a p
 
 "It has a lamp-bracket. I can see the bracket." She wrote it down. "That is an item for the stores form."
 
-The sergeant looked at her for a long moment, then at the board in his own hand, and Eden saw him decide not to explain that the sixth tower's lamp had been taken down on purpose. Whatever the reason was, it was not one a sergeant told a girl with two pencils.
+The sergeant looked at her for three breaths, then at the board in his own hand, and Eden saw him decide not to explain that the sixth tower's lamp had been taken down on purpose. Whatever the reason was, it was not one a sergeant told a girl with two pencils.
 
 * * *
 

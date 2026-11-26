@@ -20,21 +20,21 @@ Felix looked at him for a while, then took a piece of bread and broke it in two.
 
 "You should not."
 
-"I am." He put the larger half on Eden's plate. Eden looked at the bread for a while without touching it. It was a small thing, half a roll, and every instinct he owned said to count what it would cost to take it. He took it. He ate it slowly, and it was warm, and it tasted of nothing except bread, which was the whole point. "I do not need the whole thing. I need to know that you are not lying to me, and you just told me you were."
+"I am." He put the larger half on Eden's plate. Eden looked at the bread for a while without touching it. It was a small thing, half a roll, and every instinct he owned said to count what it would cost to take it. He took it. He ate it slowly, and it was warm, and it tasted of nothing except bread, which was the whole point. "I do not need the whole story. I need to know that you are not lying to me, and you just told me you were."
 
 Greta came in with a basket of rolls and put it between them. "Two halves of one piece is not two breakfasts," she said.
 
-"I am sharing," Felix said. "You are making a mess," Greta said, and brushed three crumbs off the cloth with the side of her hand, then put the basket nearer to Eden than to Felix, where everyone could see she had done it.
+"I am sharing," Felix said.
 
-"With a boy who does not eat." Greta looked at Eden. "Eat the bread now."
+"You are making a mess," Greta said, and brushed three crumbs off the cloth with the side of her hand, then put the basket nearer to Eden than to Felix, where everyone could see she had done it. "With a boy who does not eat." She looked at Eden. "Eat the bread now."
 
 "Yes, ma'am."
 
 * * *
 
-The lake lay behind the house with a wooden jetty that had one loose board near the end, and the Duke had insisted on taking them out before the snow came again. The path down to the water was icy under the trees, and Felix slipped once and caught the Duke's sleeve, and the Duke pretended to have been waiting for him to do it. The third oar was wedged under the back seat and had a name painted on it in white letters that had worn away except for the last two, which were "ma". No one had ever explained that, and no one ever asked.
+The lake lay behind the house with a wooden jetty that had one loose board near the end, and the Duke had insisted on taking them out before the snow came again. The path down to the water was icy under the trees, and Felix slipped once and caught the Duke's sleeve, and the Duke pretended to have been waiting for him to do it.
 
-There was a flat boat with two oars and that third oar nobody used, and Bertram carried the basket down to the jetty without being asked and set it where the Duke could reach it.
+There was a flat boat with two oars, and a third oar wedged under the back seat that nobody used. It had a name painted on it in white letters that had worn away except for the last two, which were "ma". No one had ever explained that, and no one ever asked. Bertram carried the basket down to the jetty without being asked and set it where the Duke could reach it.
 
 "Your mother liked this boat," the Duke said, as they pushed off. He sat in the middle with an oar in each hand and pulled too hard on the left, so the boat turned in a slow circle. "She called it the bathtub. She said a bathtub had more room for her feet."
 

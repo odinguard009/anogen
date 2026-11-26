@@ -118,4 +118,4 @@ When he looked back, Lysette had shut the locket and was holding it flat in both
 
 Eden said nothing. A bell rang somewhere below, and from the direction of the north staircase a prefect began pinning a new notice to the board outside the hall door, where anyone passing could read it. Lysette saw it first and turned her head.
 
-The notice said that the Justiciar Seal had opened an inquiry into the Ball night's unknown knight, and that all students would give statements on Tuesday. A prefect held the top of the paper down with two fingers while the pin went through the bottom corner, and the paper flapped once in the wind before it lay flat against the stone. The words "unknown knight" were printed larger than the rest.
+The notice said that the Justiciar Seal had opened an inquiry into the Ball night's unknown knight, and that all students would give statements within the week. A prefect held the top of the paper down with two fingers while the pin went through the bottom corner, and the paper flapped once in the wind before it lay flat against the stone. The words "unknown knight" were printed larger than the rest.

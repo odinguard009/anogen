@@ -8,7 +8,7 @@ Eden had walked the palace corridor twice before he found the door without a gua
 
 Eden sat. Her office had one window, a desk with two stacks of paper, and a clock that clicked too loudly. There was a cup of cold tea on the corner of the desk with a stain under it in the shape of a ring. The clock's second hand jumped instead of moving, and Eden watched it jump twice before he looked at her.
 
-"Form 13-B," she said. "You sent it on Tuesday. I have read it twice and I still do not know what it is."
+"Form 13-B," she said. "You sent it two days ago. I have read it twice and I still do not know what it is."
 
 "It is a report."
 
@@ -44,7 +44,7 @@ Eden took out the folded paper from the workshops and laid it on the desk. Ysold
 
 "I know."
 
-"The order was dated in November."
+"The order was dated last autumn."
 
 "I know." She put the paper under a weight on the desk. "That is the reason you are here and not in the offices downstairs."
 
@@ -150,7 +150,7 @@ A page in a blue coat was polishing the handle of the king's door when Eden came
 
 Eden waited. She did not look up.
 
-"There is one more thing," she said. "The lower city. An Ember cell is buying dye-works and moving dust through the water lanes. The king wants it gone before the Ball. You will go tonight or tomorrow night, whichever the streets allow."
+"There is one more thing," she said. "The lower city. A cell is buying dye-works and moving dust through the water lanes. The king wants it gone before the Ball. You will go tonight or tomorrow night, whichever the streets allow."
 
 "How many?"
 

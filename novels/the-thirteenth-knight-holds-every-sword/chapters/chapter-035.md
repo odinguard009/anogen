@@ -2,6 +2,8 @@
 
 Rations week began with bread that had frozen hard enough to ring when it was set on the table, and a lottery to decide who got the two loaves that were not frozen. The lottery was run by a prefect with a tin cup and forty slips of paper, and he shook the cup for a full minute because Rowan had accused him of stacking it the week before. Frost had got into the camp stores and turned the sacks of flour grey at the edges, and the tea at breakfast had a skin of ice on it before anyone could drink it. Felix drew a number and read it upside down.
 
+He held the paper up to the lamp to check it, and the number was the same either way, which Felix said was the only luck he had had all winter.
+
 "Fourteen," he said. "Is that good?"
 
 "There are forty of us," Rowan said. "So no."

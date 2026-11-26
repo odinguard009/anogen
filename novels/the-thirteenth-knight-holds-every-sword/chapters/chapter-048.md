@@ -2,6 +2,8 @@
 
 Eden went through the tents looking for the grafted Crown and found the vice-headmaster first.
 
+The fire had reached the third row of tents and the canvas was lit from inside like paper lanterns. Smoke lay along the snow at knee height and the heat made the cold air shiver above it. A bell somewhere was ringing a count nobody was following.
+
 Strent stood in the middle of the east rows with a list in his hand and his coat buttoned wrong, directing teachers and prefects with the calm of a man who had been expecting this particular fire all week. He was apologising as he worked.
 
 "I am sorry," he said to a sergeant. "No, the west store first. I know it is burning. I am sorry. Send two people to the well and tell them to take the long way round the coal pile."
@@ -50,7 +52,9 @@ Eden did not answer. He got his foot under the man's knee and pushed while the s
 
 Harrow's second grab went into the Door up to the elbow. The far side was the Mawgate's throat, warm and grey and full of the sound. He tried to pull back and could not, because the grey hand was caught in a place with no room for it. Eden shut the Door on the arm. The arm came off at the shoulder with a sound that was not loud. Harrow staggered back into the smoke with his right side dark and his coat hanging open. Grey showed at the stump in a ring that kept spreading.
 
-He did not fall. He reached inside his coat with his left hand and brought out a knife. A conscript had been carrying a bucket of water between the tents and had stopped to stare at the fight, and now he stood face to face with a one-armed Crown and a blade at his throat. Water went over the edge of the bucket and ran across the snow until it reached the fire and made a small white hiss.
+He did not fall. He reached inside his coat with his left hand and brought out a knife.
+
+He did not look at the stump. A man who had spent his arm like that had a minute left in him, perhaps two, and he knew it, and it showed in the way he stood: loosely, all weight on the back foot, a man spending the last of a purse. A conscript had been carrying a bucket of water between the tents and had stopped to stare at the fight, and now he stood face to face with a one-armed Crown and a blade at his throat. Water went over the edge of the bucket and ran across the snow until it reached the fire and made a small white hiss.
 
 The boy was young. A red band circled one sleeve because he had been helping the prefects. Both his hands were full of the bucket handle, so he could not put them up without dropping it. He looked at Eden with his mouth shut and did not make a sound. Harrow held the knife with his left hand. His grip was steady, which was worse than if it had shaken. He had stopped smiling now that the arm was gone, and the grey in his neck kept climbing while he stood there.
 
@@ -70,4 +74,8 @@ Strent's voice came from the gap between the tents, calm and apologetic and loud
 
 Harrow turned his head toward the voice, and the knife moved half an inch across the boy's throat. Eden could not see whether the skin had broken. The boy's eyes were shut and his lips were moving. Eden could not hear what he was saying over the fire and the hum of the grey under the snow.
 
+He tried the angles again, one after another, as he would have worked a sum on a board. Over the boy's head, the knife hand was too close. Under the arm, the knife hand was closer. The tent shadow behind Harrow was a Door, but a Door opened on a throat of the Mawgate, and the boy would go through it with the man. He tried a fourth angle and a fifth. None of them left a boy alive, and he did not pretend that one of them would.
+
 Behind Harrow the infirmary tent flapped in the heat, and a line of soldiers came out of the smoke with their blades down because they had seen the knife and did not know what to do. Strent stood among them with his list held against his coat, and he said something quietly to the nearest soldier, and the soldier put his blade away. That was the right order, and Eden noted it even with Harrow's knife at a boy's throat: Strent had chosen not to make the moment louder.
+
+The fire cracked behind the infirmary and a section of canvas came down in a long slow fold. The boy flinched at the sound. Harrow's grip tightened on his collar, and the knife stayed where it was. Nobody breathed.

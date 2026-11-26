@@ -2,6 +2,8 @@
 
 The roof above the glass atrium had a low iron rail and a view down into the dance through two panels of cloudy glass. The glass had been cleaned that morning and then clouded again by the breath of four hundred people below, so the dancers moved like figures seen through a mist. The iron rail was cold enough that Eden had put his gloves back on, and a fold of his coat had frozen to the stone where he lay. Eden lay on his coat with his chin on his arm and watched the lanterns move below him like a second, slower crowd. The band played in the north corner, and the sound came up through the glass thin enough that he could count the beats of the drum without listening.
 
+A waiter went by below with a tray of glasses and stopped to straighten one, then another, as if the lamps might judge him. Eden watched the man for the length of three beats and marked that he came from the east door each time and never once looked up.
+
 He had not gone down into the hall. Ysolde had told him not to attend, and the roof was not the hall, and the distinction was the kind that mattered to him.
 
 A door opened on the roof stair. Lysette came out in a dark blue gown with a white collar, and her long white hair was pinned up with the thin braid laid across the top like a crown. One strand had come loose at her forehead and she had not pushed it back. She stood in the doorway for a breath with her hands closed at her sides, then walked to the rail two steps from him and looked down through the glass.

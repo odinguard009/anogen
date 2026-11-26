@@ -2,6 +2,8 @@
 
 The courier came from Ysolde at the second bell. He carried a flat envelope and a face that had been cold for the whole walk. Eden met him at the camp gate because the courier refused to come inside the wire, and the two of them stood with the snow coming between them while the man held the envelope out.
 
+The courier's boots were wet to the shins and his cap had a line of frost along the brim. He did not say who had sent it. He only said that it had been handed to him at the second bell and that he had been told to wait for a signature.
+
 "She says you asked for the file and she has sent it," the courier said.
 
 "I did not ask."

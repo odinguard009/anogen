@@ -4,7 +4,7 @@
 
 The palace offices at midnight had one lamp lit and a clock that clicked too loudly. Ysolde had worked there for twelve years and had never once turned the clock around. A clock that faced the wall was a clock nobody could trust.
 
-A clerk put his head round the outer door at nine. "Can I put the lamp out, ma'am?"
+A clerk put his head round the outer door at half past eleven. "Can I put the lamp out, ma'am?"
 
 "Not yet."
 
@@ -32,6 +32,8 @@ Eden's PR 110 file lay on the desk with the paper clip removed and the pages in 
 
 She drew a line under the index and wrote one word in the margin: EARLY.
 
+She checked it against the page numbers. They ran from one to forty, then jumped to forty-two, and the clerk who had copied them had written the forty-two in a slightly different pen. The stamp on the last page was a day older than the stamp on the first, which meant the file had been closed before the events it described had finished happening. Ysolde laid a ruler under the stamp, saw that it sat a hair too low, and wrote the measurement in pencil where she could rub it out. A pencil mark could be denied. A pen mark became a fact, and she did not yet know whose fact it would be.
+
 The courier's envelope held the report from the garrison, two pages of clean handwriting and one line that had been crossed out and rewritten. It said that a Veil wearing a sergeant had been ended in the roll room. A mirror had been broken. No soldier had seen how. The space marked WITNESSES held a long dash, and the space marked DAMAGE held the price of a mirror. Ysolde wrote the price into the accounts book in the column for school damage. She put the coin in the petty cash drawer. The boy would try to pay for the mirror himself if she did not.
 
 There was a form for the Veil, because everything that had once been a person got a form. There was a form for the mirror. There was a form for the Wall's silence. It had lasted twenty-six hours and been entered as thirty-one touches, because the office preferred the bigger number. Ysolde filled in the boxes in her small flat hand. When she came to the box marked DECEASED she stopped, as she always did, and read the line again.
@@ -39,6 +41,10 @@ There was a form for the Veil, because everything that had once been a person go
 Every form had a box for the dead. She had never once been allowed to leave it empty. In her first year she had left one blank by mistake and the office had returned it twice and then sent a clerk to stand at her desk until she filled it. She had learned the lesson and had never forgotten it, which was how a person learned most things in that office.
 
 She wrote Storems, sergeant, garrison, and put the form in the middle stack. Then she wrote a second form for a man whose name had been on a different file for eleven years. That one went in the bottom drawer with the seal turned face down. The dead were easier to file when they were in separate drawers.
+
+She sharpened the pencil with a small knife and swept the shavings into her palm and then into the bin, because the clerk had once found a curl of wood on the floor and written a note about it. A tidy office was an honest one. She believed that most days. Tonight she believed it a little less, because the file in the bottom drawer was tidy too, and tidy was exactly what the missing tenth sheet looked like from outside.
+
+She set the pencil down square to the edge of the blotter. In the morning she would send for the stamp clerk and ask him, as if idly, who had held the key to the closing seal in the week of the file. She would not write the question down.
 
 * * *
 
@@ -68,7 +74,7 @@ The old file of Wendell was in the third drawer under a bundle of sealed school 
 
 Ysolde read the line twice and put the file back exactly where it had been, with the sealed reports on top. She had pulled it out four times in eleven years and had never found a tenth sheet. There were no tenth sheets in any file in her office, which was a fact she had stopped trying to explain.
 
-The safe held one more thing behind the grey envelope, wrapped in cloth and folded into a square. Liora's letter had her name on the outside in a hand that pressed hard into the paper. Ysolde lifted the cloth and looked at the writing for three breaths. Then she folded the cloth back over it and shut the safe. She did not open letters that had been left for someone else. That rule had kept her useful for twelve years, and she had no wish to become the kind of secretary who could not be trusted with a seal. The king had once asked her to open a sealed packet from a foreign court in front of him, and she had put it on the table and asked for a witness, and he had laughed and told her to put it away. He had not been angry. He had trusted her more after that, in the way a man trusts a locked door.
+The safe held one more thing behind the grey envelope, wrapped in cloth and folded into a square. Liora's letter had one name on the outside, written in a hand that pressed hard into the paper. Ysolde lifted the cloth and looked at the writing for three breaths. Then she folded the cloth back over it and shut the safe. She did not open letters that had been left for someone else. That rule had kept her useful for twelve years, and she had no wish to become the kind of secretary who could not be trusted with a seal. The king had once asked her to open a sealed packet from a foreign court in front of him, and she had put it on the table and asked for a witness, and he had laughed and told her to put it away. He had not been angry. He had trusted her more after that, in the way a man trusts a locked door.
 
 At the end of the desk lay a pair of wool socks left by a quarter-master that afternoon. They were thick and grey with the toe mended. She wrote a Form 13-B to go with them. The reason box said cold. The description box said extra warmth, two, not a gift. She folded the form into three and put it in the outgoing tray with the socks under it. The night courier came in quiet as always and waited with his cap in his hands.
 

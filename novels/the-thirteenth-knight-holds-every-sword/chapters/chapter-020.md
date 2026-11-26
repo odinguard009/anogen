@@ -46,7 +46,7 @@ The young minister wrote it down. Valerius went back to the map.
 
 * * *
 
-The cord that marked the front ran north to south and then, past Verandel, bent east for three inches before it went north again. Valerius had looked at that bend for four years. Nobody had ever explained it to him. The manuals said the line followed the high ground, and the bend crossed a low valley where the river ran, which meant the manuals were wrong or the valley was not as low as it looked.
+The cord that marked the front ran north to south and then, past Verandel, bent east for three inches before it went north again. Valerius had looked at that bend for four years. No one had ever explained it to him. The manuals said the line followed the high ground, and the bend crossed a low valley where the river ran, which meant the manuals were wrong or the valley was not as low as it looked.
 
 "What is here?" he asked, and put one finger on the bend.
 

@@ -32,7 +32,7 @@ Okoru tapped the sheet with his stick. "Lance Nine. Clara, Rowan, Lysette, Felix
 
 "It is the best sum I can make," Okoru said. "You fight at the back. Hollen keeps you alive. Tallis hits hard. Belmont knows when to stop. Wren reads the ground." He looked at the crowd. "I am not building a comfortable Lance. I am building one that can stand."
 
-He handed each of them a small card with a duty roster on it. Eden's card had his name, a gate number, and four lines in Okoru's hand. Two were for the Wall in January. The other two said only: Stay close to Hollen. Eden read the last line twice. Nobody had ever written that on a card for him, and he could not tell if it was an order or a kindness. With Okoru those were the same thing.
+He handed each of them a small card with a duty roster on it. Eden's card had his name, a gate number, and four lines in Okoru's hand. Two were for the Wall in midwinter. The other two said only that he should keep close to Hollen. Eden read the last line twice. Nobody had ever written that on a card for him, and he could not tell if it was an order or a kindness. With Okoru those were the same thing.
 
 Rowan slapped the board with his hand. "We can stand."
 
@@ -42,11 +42,11 @@ Rowan slapped the board with his hand. "We can stand."
 
 "Twice, and the second time you knocked a wall down."
 
-"That was the wall's fault." Rowan turned to the crowd and found three people from other Lances looking at him, so he raised his chin. "It was a heavy wall."
+"That was the wall's fault." Rowan turned to the crowd and found three people from other squads looking at him, so he raised his chin. "It was a heavy wall."
 
 "Tallis," Okoru said, and Rowan's chin went down.
 
-"In one hour the Lances go to the chapel for the blessing. Hollen."
+"In one hour every Lance goes to the chapel for the blessing. Hollen."
 
 "Sir."
 
@@ -198,7 +198,7 @@ The room smelled of ink and old paper, and a small stove ticked in the corner. A
 
 Eden read down the column of dates and names. Most lines were short: one plate, two straps, a box of brass pins. The prices were written small and neat, and the signatures were not. Then he found the line for a drill core, with a price in the next column and a wide, careful hand at the end.
 
-"Who is Master Sorn?" Eden asked.
+"Who is Sorn?" Eden asked.
 
 The clerk looked at the name, then at the date beside it. "A master of the forge. He made the gate plates before they changed the design."
 

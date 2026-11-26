@@ -2,6 +2,8 @@
 
 The duel resumed on Wednesday morning because Valerius had said again and the judges had written it down. The sand in the yard had been swept in the night, and the faint second chalk line was gone. Rain had got into the west corner and left a dark patch there the size of a shield, and the judges had moved their table two steps east to keep the paper dry. The morning sun came in low and put every mark on the sand into relief. Lysette stood near the west wall with a strip of clean linen in her hand and her red band pinned straight, and she had not once asked Eden why he wanted to lose.
 
+The sand had been raked that morning into long straight lines, and the lines were already broken by a dozen boots. Somebody had left a water jug by the east post, and it sweated in the cold. Eden noted where it stood. A jug was a thing a man could trip on.
+
 "Hands," she said, before he went in.
 
 Eden held them out. The knuckles of his left hand were split in two places from the shield ring, and the skin around them had gone pale at the edges.

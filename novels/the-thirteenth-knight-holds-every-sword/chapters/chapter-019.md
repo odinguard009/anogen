@@ -58,7 +58,7 @@ Lysette's pencil stopped. "The apron is Committee property."
 
 The east kitchen had a low ceiling, a stone floor, and an oven built into the wall with a brass valve the size of a plate. Six burners stood in a row, and the room was already hot enough that the windows had run with steam. A row of copper pans hung above the table, and each pan had a dent in a different place, as if the kitchen had been hit by a hundred small stones over the years. The floor was washed every evening, and the soap smell sat under the flour and the hot sugar. The cooking club had hung a banner that said BALL WEEK in crooked letters, and someone had corrected the second L with a pencil.
 
-Rowan put on an apron and immediately got flour on it. The apron was one of three the club owned, and it had been made for someone half his size, so the strings did not meet at the back and the whole thing hung from his neck like a bib. Nobody told him. Felix looked at it for a long moment and then, with great kindness, looked away. "I will make the bread," he said.
+Rowan put on an apron and immediately got flour on it. The apron was one of three the club owned, and it had been made for someone half his size, so the strings did not meet at the back and the whole thing hung from his neck like a bib. Nobody told him. Felix looked at it for a while and then, with great kindness, looked away. "I will make the bread," he said.
 
 "You cannot make bread," Clara said.
 
@@ -178,7 +178,7 @@ Rowan knelt to pick up a roll and handed it to Lysette, who took it without look
 
 "It is from the flour."
 
-"Yes." She put the roll on the table and turned the form over. "I am writing that down. And the answer to your question is nobody." She wrote that down too. "Put it on your card as well."
+"Yes." She put the roll on the table and turned the form over. "I am writing that down. And the answer to your question is no one." She wrote that down too. "Put it on your card as well."
 
 "Nobody is worth forty-three," Seraphine said, and went out with Felix behind her. He carried the fallen soufflé on a plate and looked at it with the same attention he gave his book, and she held the door for him because her hands were full and his were not.
 

@@ -15,7 +15,7 @@ Principles: attraction shows in small behaviour before anyone names it. Misunder
 How it should feel: stolen glances, the one who looks away first, things said sideways, jealousy swallowed, care disguised as irritation (her), care disguised as indifference (him), hands that almost touch.
 - 1 Handkerchief. She says she'll wash and return it. She never does.
 - 5 He blocks the construct for her. "I didn't need that." Her hands shake. "I know."
-- 12 Two lunches, "Committee efficiency. You're a flight risk."
+- 12 Two lunches, "Committee efficiency. I'm not losing track of you."
 - 17 After the Valerius duel she bandages his knuckles too hard, scolding; he lets her.
 - 21 Seraphine teases him; Lysette writes Seraphine up for a crooked collar (jealousy swallowed).
 - 26 Roof dance to the band below. "You're on my foot." "On purpose." He sleeps without the war dream that night.

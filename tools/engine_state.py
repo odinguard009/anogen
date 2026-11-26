@@ -19,7 +19,7 @@ import copy
 import json
 import sys
 
-from common import OPS, chapter_files, chapter_path, file_hash, load_json, next_chapter_number, save_json, setting_int
+from common import CHAPTERS, OPS, ROOT, STORY, chapter_files, chapter_path, file_hash, load_json, next_chapter_number, save_json, setting_int
 
 PATH = OPS / "engine.json"
 DEFAULT = {
@@ -170,6 +170,9 @@ def main():
     p.add_argument("--arc", type=int, default=None)
     p.add_argument("--max", type=int, default=None)
     sub.add_parser("batch-resume")
+    p = sub.add_parser("reset-draft")
+    p.add_argument("--confirm", action="store_true")
+    p.add_argument("--date", default="")
     p = sub.add_parser("hold")
     p.add_argument("action", choices=["set", "clear", "show"])
     p.add_argument("--reason", default="")
@@ -242,6 +245,37 @@ def main():
             print("HOLD cleared (only the owner may do this).")
         else:
             print(json.dumps(d.get("hold") or {"active": False}))
+    elif a.cmd == "reset-draft":
+        # owner ordered a full rewrite: archive every written chapter and reset all draft-progress state in one step
+        import datetime
+        import shutil
+        if hold_info(d):
+            sys.exit("HOLD is set: clear it first (only on the owner's explicit writing order).")
+        if not a.confirm:
+            sys.exit("reset-draft moves every chapter to archive/ and resets review state; add --confirm")
+        day = a.date or datetime.date.today().isoformat()
+        dest = ROOT / "archive" / f"superseded-{day}" / "chapters"
+        dest.mkdir(parents=True, exist_ok=True)
+        moved = 0
+        for n, path in chapter_files():
+            target = dest / path.name
+            if target.exists():
+                path.unlink()
+            else:
+                shutil.move(str(path), str(target))
+            moved += 1
+        d["critic_through"], d["audit_through"], d["reviewed"] = 0, 0, {}
+        d["batch"] = copy.deepcopy(DEFAULT["batch"])
+        for arc in d["arcs"].values():
+            arc["status"] = "planned"
+        save(d)
+        (OPS / "scores.csv").write_text("chapter,tension,surprise,emotion,battle_clarity,voice,freshness\n", encoding="utf-8")
+        (STORY / "variety_log.json").write_text("[]\n", encoding="utf-8")
+        for name in ("ctx-cache.json", "memory.sqlite"):
+            f = OPS / name
+            if f.exists():
+                f.unlink()
+        print(f"Draft reset: {moved} chapter file(s) archived to {dest}; review state, scores, variety log and caches cleared. Next: batch-start from chapter 1.")
     elif a.cmd in ("batch-start", "batch-resume", "arc-plan") and hold_info(d):
         sys.exit("HOLD is set: " + hold_info(d) + ". Write nothing. Only the owner can clear it (engine_state.py hold clear).")
     elif a.cmd == "batch-start":

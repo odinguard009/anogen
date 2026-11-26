@@ -296,14 +296,16 @@ Standing ladder (informational, never named as a rank on the page):
 Year 5 top ten (the Ten) = line-knight standard already; the top five are at the senior-knight edge in one respect each:
 | Person | Bells | Standing | Real combat history before ch 1 |
 |---|---|---|---|
-| Valerius (1) | 5 | senior edge: Verdict holds a wall that stops a charge; aura 35 min | three Summer Postings; led a squad in the last one; killed 20+ Husks; faced one Choir |
+| Valerius (1) | 5 | senior edge: Verdict holds a wall that stops a charge; aura 35 min | three Summer Postings; led a squad in the last one; killed 20+ Husks from rear lines and sorties; has never held a front battlement inside a Choir's silence |
 | Rowan (2) | 5 | senior edge in output: Dawnbreak burns Husks in a ring; aura 25 min, reckless | frontier-fort boy: lived a garrison childhood, stood a gate at 15 beside soldiers; three Summer Postings |
 | Clara (3) | 4 | line knight as healer: keeps six wounded alive in a fight | three Postings on a Wall hospital line; has lost patients |
-| Lysette (4) | 4 | line knight plus: aura 20 min; Witness gives her reads no line knight has; batons end a Husk | three Postings (the third, summer PR 112, on the Choir sector at her own request after the Hollen shame); a convoy escort fight at 17 (Year 4) where she held a wagon with two soldiers down; has killed. Her weakness is not skill: she needs still time and a clean read |
+| Lysette (4) | 4 | line knight plus: aura 20 min; Witness gives her reads no line knight has; batons end a Husk | three Postings, all rear or escort duty (the third, summer PR 112, on a hospital-convoy line behind the Choir sector, at her own request after the Hollen shame); a convoy escort fight at 17 (Year 4) where she held a wagon with two soldiers down; has killed. Her weakness is not skill: she needs still time and a clean read |
 | Seraphine (6) | 3 | line knight in misdirection; small tank | three Postings; the lodge kidnapping at 12 (story) |
 | Felix (19 on the Ladder) | 3 | line knight with a bow: out-ranged anything he could see | his father is a scout-captain; three Postings as scout |
 | Eden (8) | 3 rung (faint 4th hidden) | public: line knight, "average of the Ten". True: far past every row above, hidden on purpose (Bells 3 shown) | since age 12: Vigil kills |
 So the cast is competent on the page: they read a fight, take cover, work as a team, win ordinary fights alone. The Ladder is the Ten out of 400, not a joke.
+
+Summers are rear and escort duty behind rows of veterans; nobody in Year 5 has yet held a front battlement in Choir season. That is what the Winter Rotation adds (arc 1, ch 31-50).
 
 What outclasses them (so Eden's hidden help still matters and no one is stupid):
 - Veils: aura and speed above a senior knight when they drop the face; they are built to kill knights (invaders.md). A line knight facing a Veil in the open dies.

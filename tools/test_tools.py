@@ -199,6 +199,16 @@ def phase_two_tests():
         c, o = run(root, "engine_state.py", "hold", "clear")
         d = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
         check("hold cleared: planning works again", c == 0 and d.get("hold") is None, str(d))
+        # reset-draft: one deterministic step when the owner orders a full rewrite
+        run(root, "engine_state.py", "hold", "set", "--reason", "wait")
+        c, o = run(root, "engine_state.py", "reset-draft", "--confirm")
+        check("reset-draft refused while HOLD is set", c != 0 and "HOLD" in o, o)
+        run(root, "engine_state.py", "hold", "clear")
+        c, o = run(root, "engine_state.py", "reset-draft")
+        check("reset-draft needs --confirm", c != 0 and "--confirm" in o, o)
+        c, o = run(root, "engine_state.py", "reset-draft", "--confirm", "--date", "2000-01-01")
+        d = json.loads(run(root, "engine_state.py", "next", "--no-apply")[1])
+        check("reset-draft archives chapters and resets review state", c == 0 and not list((root / "chapters").glob("chapter-*.md")) and (root / "archive/superseded-2000-01-01/chapters/chapter-001.md").exists() and d["next_chapter"] == 1 and d["critic_pending"] is None, o + str(d))
     finally:
         shutil.rmtree(root, ignore_errors=True)
 

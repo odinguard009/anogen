@@ -20,8 +20,8 @@ Split into two reveals.
 ## Table: twists-1 (T1) and twists-2 (T2)
 | Reveal | H | D | E | C | Status |
 |---|---|---|---|---|---|
-| T1-1a C1 Thirteenth Vigil executed Corentin | 4 | 13 | 27 | 36 | replanned |
-| T1-1b C2 Corentin was a Veil (reader) | 4 | 21 | 37 | 45 | replanned (was 38) |
+| T1-1a C1 Thirteenth Vigil executed Corentin | 10, 13 | 21 | 27 | 36 | replanned |
+| T1-1b C2 Corentin was a Veil (reader) | 13 | 21 | 27, 37 | 45 | replanned |
 | T1-1c Lysette learns | 13 | 50 | 101, 133 | 140 | ok |
 | S1 Eden saved Seraphine | 2, 4 | 10 | 25 | 35 | replanned |
 | T1-2 Tailor knows "Liora's boy" | 3, 8 | 30 | 40 | 50 | ok |
@@ -109,4 +109,4 @@ Small twists (gap 3+; D and E to be placed at their arc's planning): Brandmeier 
 | 23 | **[Knock and Answer]** (Gorrath's voices) | team trick |
 | 25 | **[Lintel]**, **[Hrak]** (Ilsabet) | the glass walk |
 | 27 | **[Knight]**, **[Black Lancer]** (first reading on the page) | bracket format, once |
-Chapter text must never quote or imitate any superseded draft.
+Chapter text must not quote or imitate any superseded draft, with ONE owner exception: the two model scenes named in profile.md section 4 (ch 1 roof, ch 2 stairs).

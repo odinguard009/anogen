@@ -65,3 +65,93 @@ Auto-applied: banned.md (+caps: "eaten today" 1, "very" 8, "like a" 6, "nobody" 
 1. Dialogue share: ch 8, 9, 10 first drafts came out at 17-21% and needed several patch rounds. Suggest the writer plans at least 6 dialogue exchanges per chapter before drafting. No engine change made.
 2. Repeated device: Gorrath holds a door in ch 8 and again in ch 9. Suggest a different use of the retainers before ch 20 (Mirelle or Vesk carry the next action beat).
 3. Ledger: the debt "Seal seeks hooded door-shield; Beatrix" says planted ch 10 but ch 10 (Lysette POV) does not plant it. Plant it by ch 13 or move the date; owner/planner to decide.
+
+## Audit through chapter 10 (2026-11-26 new draft, same session, not independent)
+Scores ch 1-10: tension never above 4, surprise 3-4, voice/freshness steady at 4, one 5 for emotion in ch 10 (Lysette POV). No debt is past due. Chapters 8/9/10 sit 21-24% dialogue by prepass (warning only); no filler added. No auto-append to banned.md or variety_menu.json this round.
+
+### A1. Too many object endings
+- What: ch 6-10 each end on a paper or small object (wrong date, card, written line, envelope, handkerchief).
+- Why: the profile asks for varied action/object/line endings; five in a row reads as a habit.
+- Fix: in ch 11-15, end at least two chapters on a line of dialogue or an action, unless the outline line itself names an object hook.
+
+### A2. Low tension in the quiet chapters
+- What: tension scored 3 in ch 6, 7, 9 and 10.
+- Why: these chapters follow the outline, but four quiet chapters in a row slow the run before the Ball clock starts.
+- Fix: where the outline already gives a clock (ch 11 graded run, ch 12-15 Ball week), state the clock in the first scene; do not add danger the outline lacks.
+
+### A3. Several chapters sit on the word-count floor
+- What: ch 7, 9 and 10 are 1801-1807 words.
+- Why: expansions late in drafting tend to be dialogue, which pushes the share up while the count stays near the floor.
+- Fix: when a chapter is short, add one concrete action or object beat before adding another line of talk.
+
+## Audit through chapter 20 (2026-11-26 new draft, same session, not independent)
+Scores ch 11-20: tension 2-4, emotion 3-5, voice and freshness 4, no score below 2. Debts: Corwen paid in ch 18; Dragon's promise planted in ch 15 is not due until 420-425; locket and Seraphine's story are still planned for 21 and 35. No auto-append to banned.md or variety_menu.json this round.
+
+### A1. Word-count floor is becoming a habit
+- What: eight of ten chapters are between 1800 and 1818 words.
+- Why: chapters are being trimmed to the floor by late dialogue cuts instead of gaining one concrete action beat.
+- Fix: in ch 21-30, add one visible object or movement beat before accepting a chapter at 1800 words.
+
+### A2. Authority figures keep the last line
+- What: ch 17 Valerius, ch 18 Ysolde, ch 19 Seraphine and ch 20 Merrow all close chapters with a spoken line.
+- Why: four in a row makes endings sound the same even when the words differ.
+- Fix: let at least two chapters in ch 21-30 end on an action or an object where the outline allows it.
+
+### A3. Low dialogue in the duel chapters
+- What: prepass reports 17-19% for ch 16-18 (warning only).
+- Why: fight prose takes the space that dialogue would have used; the speakers are still distinct.
+- Fix: plan the real exchanges before drafting the next battle, never add filler to move the number.
+
+## Audit through chapter 30 (2026-11-26 new draft, same session, not independent)
+Scores ch 21-30: one 2 (ch 21 and 29 emotion/tension), several 5s for battle clarity and emotion; no score below 2. Debts paid: Corwen (18), Ilsabet (25). New plants are open and not due yet. No auto-append to banned.md or variety_menu.json this round.
+
+### A1. Word-count floor persists (repeat of audit 20 A1)
+- What: all ten chapters are 1800-1820 words.
+- Why: the fix suggested at ch 20 was not applied; chapters still reach the floor by late dialogue rather than one extra action beat.
+- Fix: in ch 31-40, draft one concrete object or movement beat per chapter before the word-count check, not one more line of talk.
+
+### A2. Quiet chapters outnumber fights
+- What: ch 21, 26, 27, 29 and 30 are calm or emotional, and tension scored 2-3 in four of them.
+- Why: the outline builds toward the Wall, but five still chapters in a row slow the run after the Ball.
+- Fix: make the existing clocks visible in the first scene of each quiet chapter (Seal statements, exams, travel, the Duke's letter) instead of adding danger the outline does not have.
+
+### A3. Repeated hand/object phrasing
+- What: prepass tracks "with his hands in his", "did not look at the" and "with the back of her" across recent chapters.
+- Why: small physical beats are doing the same work in different scenes.
+- Fix: vary the reaction beat: a foot on a loose board, a pencil on a string, a cup moved an inch, rather than another hand gesture.
+
+## Audit through chapter 40 (2026-11-26 new draft, same session, not independent)
+Scores ch 31-40: one 2 in ch 33, 37, 38, 39 for tension; battle clarity 4-5 in 31, 32, 34, 36. Debts paid: S1 (35), C1 C at the level of a veteran's accusation (36); C2 remains E, due 45. Locket, scarf, oil line and missing boots are open and not due. No auto-append to banned.md or variety_menu.json this round.
+
+### A1. Word floor for the third audit in a row
+- What: all ten chapters are 1800-1822 words.
+- Why: A1 in audits 20 and 30 was not applied; late dialogue cuts keep returning the text to the floor.
+- Fix: for ch 41-50, write the extra action beat into the first draft rather than adding lines after the check fails.
+
+### A2. Four reveal chapters in a row
+- What: ch 35-38 carry S1 confirm, C1 C, C2 E and the fire conversation about Corentin.
+- Why: the rungs are in the right order and gaps, but the reader is given four heavy chapters without a comic or battle breather between them.
+- Fix: keep ch 41-44 sparse on new evidence; let the action in ch 45-50 carry the payoff instead.
+
+### A3. Repeated reaction phrasing
+- What: prepass tracks "did not look at the", "and he did not say", and "she did not look up" across recent chapters.
+- Why: restraint is Eden's habit, but the same physical beats are used in other POVs too.
+- Fix: give other characters a different tell: a cup moved, a pencil capped, a boot turned on the stair.
+
+## Audit through chapter 50 (2026-11-26 new draft, same session, not independent; arc-end audit)
+Scores ch 41-50: several 5s in the climax chapters (45, 46, 47, 48, 49, 50); the quiet chapters carry the intended 2-3. Reveals landed in order: C1 C (36), C2 C (45), S1 C (35), with the Lysette-side D left open at ch 50. Debts paid: Corwen (18), Ilsabet (25), S1 (35), C1 public (36), C2 reader (45), Perrin (47), nest (50). Open: Tailor's message (51-55/185), Lysette's proof (101/140), Eden's want (101/140). No auto-append to banned.md or variety_menu.json this round.
+
+### A1. Word floor for the fifth audit in a row
+- What: all ten chapters are 1800-1813 words.
+- Why: repeated across audits 20, 30, 40 and 50; late dialogue cuts keep returning every chapter to the floor.
+- Fix: for arc 2, draft the extra action beat into the first version instead of patching after the check.
+
+### A2. Aura and Unbind hints are dense in the last six chapters
+- What: frost (46), grass (46), [Thessa] answering a name (47), false Unbind (49), still dust (49/50), white light (49/50).
+- Why: the rungs are spaced correctly, but a reader new to the series may read the hints as confirmations.
+- Fix: keep later hints as reaction or object beats only; do not explain any of them before their ladder chapter.
+
+### A3. Same-session critic limitation
+- What: the writer and critic are the same session across all fifty chapters.
+- Why: prepass and verify catch mechanics, not the feel of a cold read.
+- Fix: when the owner has a fresh reader available, ask for one read of the climax (45-50) before arc 2 begins. No engine change made.

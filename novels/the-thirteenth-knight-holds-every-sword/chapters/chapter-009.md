@@ -1,235 +1,163 @@
-# Chapter 9: Orders I Have Not Earned
+# Chapter 9: Orders You Haven't Earned
 
-"Left, not right," said Vesk. "Right goes past the bakery, and you will stop at the bakery."
+The palace had a side door for people who did not need a guard to open it, and Ysolde used it every month without slowing down. She was a thin woman in a grey dress with a narrow face and a pen held ready in one hand, and she folded every paper she touched into three before she put it away.
 
-"I will not stop."
+Eden had walked the palace corridor twice before he found the door without a guard, and on the second pass he noticed that the servants used it too. The door opened onto a passage of pale stone that smelled of floor polish and cold iron. Two guards at the far end looked at Ysolde's pen rather than her face, then looked away. A bell rang somewhere above them, once, and the sound went up into a high roof and stayed there.
 
-"You stopped yesterday. You stood there for four minutes and looked at a loaf."
+"Twelve noon," she said. "You are five minutes early. Sit down."
 
-"I was thinking."
+Eden sat. Her office had one window, a desk with two stacks of paper, and a clock that clicked too loudly. There was a cup of cold tea on the corner of the desk with a stain under it in the shape of a ring. The clock's second hand jumped instead of moving, and Eden watched it jump twice before he looked at her.
 
-"You were *hungry*, and you call it thinking because it sounds better." His voice came out of my shadow, thin and dry. "Go left."
+"Form 13-B," she said. "You sent it on Tuesday. I have read it twice and I still do not know what it is."
 
-I went left. The lower city was getting dark, and the shops on Wick Street were pulling down their shutters one by one with a long iron rattle. It was the first evening of the month, and on that evening I walked to the palace, to sit in a small room and tell a tired woman what I had done. I wore my plain school coat and carried nothing. A boy with a bad habit of sleeping on roofs is allowed to walk where he likes, and no guard has ever looked at me twice.
+"It is a report."
 
-I liked the walk. It was the one hour of the month when no one asked me for anything. The air smelled of coal smoke and hot oil, and a motor-car rattled past with its horn going, scaring a cart horse. From an upstairs window a woman was singing about a lost goat. The late sun lay red on the chimney pots. I noted that I was comfortable, which happens to me about twice a month.
+"It is a report about a Veil. You have written 'one drill construct, not technically a Veil' in the space marked HOSTILE PERSON."
 
-Then I came to the corner, and I heard the first blow.
+"It was hostile."
 
-It was a deep wooden thud, like a drum under a floor. A pause. Then another, and a crack, and the thin sound of a child crying.
+"The form says person."
 
-"Eden," said Vesk, quietly. "Not our business."
+"It moved on its own and it had a cut wire in it." Eden looked at the paper on her desk. "I did not know which box to use."
 
-"No."
+Ysolde took the form and read the next line. "You have written 'no witness, no trace' and then crossed out 'no trace'."
 
-"We are late already."
+"There was dust."
+
+"The box is small." She turned the form around and drew a line under the crossed-out words. "Write 'trace: dust, grey, in core'. Do not write a sentence. The office reads the boxes and not the sentences."
+
+"Yes."
+
+"And do not write 'not technically' again. It makes the clerk want to argue."
+
+"What should I write?"
+
+"A construct with a cut wire."
+
+"That is a sentence."
+
+"Then write it smaller." She drew a box around nothing. "The clerk will put it in the wrong pile whatever you write. This is the only box with a mark on it today." She put the form in the middle stack. "That is your whole report for the exchange."
+
+Eden took out the folded paper from the workshops and laid it on the desk. Ysolde unfolded it, read the names, and folded it into three.
+
+"Master Sorn died last year," he said.
 
 "I know."
 
-I walked on three more steps, and then I stopped, because the crying did not.
+"The order was dated in November."
+
+"I know." She put the paper under a weight on the desk. "That is the reason you are here and not in the offices downstairs."
+
+The passage to the king's room had three tall windows and no guards, and the floor boards creaked under Eden's boots. He stopped at the last window to look at the court below. A groundskeeper was sweeping leaves into a pile and stopping too often to lean on his broom. Eden counted four stops before he went on.
 
 * * *
 
-The shop was a narrow one, painted green, with a brass key hung over the door and a sign that said it cut keys and mended locks. Three men stood in front of it. They had a long iron post between them, the kind used to hold up a market stall, and they were using it as a ram. The door shook each time they hit it. A strip of the wood along the top had already split.
+The king received him in a small room with a table and two chairs, which was smaller than the room Eden had expected and colder. A brazier stood unlit by the wall, and there was no fire though the day was cold. Theodric sat with a stack of papers beside him and a sword leaning against his chair, a plain sword with a worn grip and a gold line down the blade. He had a broad face with tired eyes, and he rubbed his thumb over the edge of the table while he looked at Eden.
 
-A fourth man stood back in the road with his arms folded, watching, and he was the one I did not like.
+"Eden Wren," he said. "Sit. No, not there. That chair has a bad leg."
 
-He wore a clerk's grey coat. His skin was the colour of paper, and he smiled a polite, fixed smile that never moved. The mana-lamp on the corner lit him as it lit everyone. But the shadow on the cobbles at his feet was flat and thin, and it lagged a beat behind him when he shifted his weight, like a hole cut in paper.
+Eden moved to the other chair. The king waited until he was sitting before he spoke again. That was a habit of his, Eden thought. Everything he did waited for something else.
 
-"Veil," whispered Vesk. "Same kind as the exchange."
-
-"I see it."
-
-"You are in a school coat. You are walking to a meeting. You are *late*."
-
-"I know that too."
-
-The door cracked again. From inside, an old woman's voice shouted, hoarse and angry, "Go home, you thieves! There is nothing here! There is nothing here but keys!"
-
-"Open the door, Mistress Ulrike," said the clerk, mildly, over the noise. "We only want the one you didn't cut."
-
-"I never cut it!"
-
-"Then it will be easy to give us."
-
-I stood still at the corner. Here is what I knew. I could not use my armor in the open street, because the Thirteenth Vigil was a rumour, and every rumour needs a long time to die. I could not blow a whistle for the city watch, because the watch would ask a boy in a school coat what he was doing on Wick Street, and a boy who sleeps on roofs does not have good answers. I could walk away. That was the easy thing, and it was the sensible thing, and I had done it before, many times, and I had never liked myself afterward.
-
-"Gorrath," I whispered.
-
-The shadow at my feet went dark and deep.
-
-"Boy," said a voice, as soft as a lullaby. "Is it time?"
-
-"The green shop. The door. Hold it."
-
-"Oh, I will hold it so well," said Gorrath, and he sounded happy.
-
-* * *
-
-I stepped into the alley beside the shop and knocked once on the wall, where the shade was deepest.
-
-A black door opened in the brick, the height of a man, and through it, on the other side, I saw the inside of the shop, a small dim room full of hanging keys. A girl of about six sat under the counter with both hands over her ears. The old woman stood at the door with a poker in her fist, her whole body shaking with fear and with rage.
-
-Gorrath came through.
-
-He had to turn sideways to fit. He walked across the shop floor in his black plate, nine feet of him, and the keys rang on their hooks as he passed. The old woman made a sound like a hen. Then he planted the tower shield flat against the door, from the inside, just as the ram came down again.
-
-*Boom.*
-
-The whole shop shook. The shield did not. A cloud of dust fell from the ceiling onto the old woman's hair.
-
-"Ma'am," said Gorrath, kindly, over his shoulder. "You may sit down. I am only the door."
-
-"Am I dreaming?" said the old woman.
-
-"Probably," said Gorrath. "It is better if you say yes."
-
-*Boom.* Outside, a man swore. The ram bounced. I closed my black door behind Gorrath and the alley went quiet, and I stepped out into the road with my hands in my pockets and my head down, the way a boy walks who has no idea what is happening.
-
-The three men looked round at me with the ram halfway up. The clerk turned slowly.
-
-"Move along, young man," he said, in his polite voice. "This is a private matter."
-
-"Sorry," I said. "I'm only looking for the palace road. I think I'm lost."
-
-"It is that way."
-
-"Thank you. I'm bad with streets."
-
-I walked toward him, and I did not look at the shadow on the ground. I only looked at his face, and I smiled the foolish smile I use for teachers. He did not see my left hand, down by my coat, open a small black door in the shade of his own flat shadow.
-
-"What is your middle name, sir?" I said.
-
-He opened his mouth. Nothing came out.
-
-Then the flat shape on the ground twitched, and the clerk dropped through the door in the road like a coin in a slot.
-
-* * *
-
-The three men with the ram did not understand what they had just seen, but they understood that the man who paid them was gone, and that was enough. One dropped the post. It landed on another's foot. They ran in three different directions, and the one with the sore foot ran slowest and said a word I will not write here.
-
-I closed the black door. It shut with a soft click. Somewhere under the city, I knew, there was a cellar with a grey flat man in it, and Ysolde would want to know about him by morning, and that meant one more form.
-
-I was looking up at the green shop when the door opened. Gorrath had gone back through the shadows, and the old woman stood in the doorway alone, holding the poker, and looked at me for a long time.
-
-"Was it you?" she said.
-
-"I don't know what you mean, ma'am."
-
-"There was a tall man. A tall man, taller than the door." She shook her head. "Never mind. I'm old. I see things." She held out her hand. In the palm lay a key, small and plain, worn smooth with use. "Take it. It opens nothing. My husband made it when we were young, and it never fit anything."
-
-"I can't take that."
-
-"You can. A shop that gets saved should pay."
-
-"Ma'am, I did nothing. I was lost."
-
-"Of course you were," said Mistress Ulrike, and put it in my pocket anyway. "Go on. You'll be late."
-
-I was already late, so I ran.
-
-* * *
-
-Ysolde Lisle sat behind a desk the size of a small boat, in a room with no windows, and she did not look up when I came in.
-
-She was a tall, thin woman of thirty-eight, in a grey coat buttoned to the throat. She had a long pale face and ink on her fingers. In front of her lay a stack of forms, each one squared exactly with the edge of the table. She wrote in a small, sharp hand, and she kept writing until she had finished the line.
-
-"You are forty-one minutes late," she said.
-
-"Wick Street. A shop was being attacked."
-
-"By whom?"
-
-"Three hired men and a Veil in a clerk's coat."
-
-"Where is the Veil now?"
-
-"In a cellar. I did not have time to ask him anything."
-
-"Of course not." She turned a page. "Form 13-B, then. Three copies."
-
-"He is not dead."
-
-"Then 13-C, for a capture. I must invent it." She wrote something. "While I am inventing, tell me about the construct in the Undercroft. The one with a heart of dust."
-
-"It was a training warden. Not a Veil."
-
-"The Veil made it run wild, so it is Veil by association."
-
-"Technically it is stone."
-
-"Then it is a Veil by association with stone, and I need a form that says so." She did not smile. She never did. But the corner of her mouth moved a little. "There is such a thing as 13-B-two. I wrote it last night in anticipation of you."
-
-"You wrote a form for me before I had done it?"
-
-"I know you, Eden."
-
-She finally looked up at me. Her eyes were grey and steady, and I felt the old feeling, the one I had at ten years old when the headmaster asked who had broken the window.
-
-"Now," said Ysolde. "The vice-headmaster."
-
-I kept my face still.
-
-"Strent signs the Undercroft key log. He signed the order for the construct's repair last spring. He has been at Hallowcrest for twenty-two years, and he is the only man there who has never been seen under a lamp." She tapped the paper. "I would like you to tell me what you have noticed about him."
-
-My mouth had gone dry. I thought of a small, soft hum in a dark room. I thought of a round kind face, bent over a page in the moonlight.
-
-"Nothing," I said.
-
-"Nothing."
-
-"He is kind. He gives out sweets. He forgets nobody's name."
-
-"That is a great deal to say for a man you have noticed nothing about."
-
-"There is nothing to report."
-
-She watched me. I made myself meet her eyes. It was a silly kind of pride, I know that now. I did not want to say it aloud, not to her, not to anyone, because if I said it, it would be true, and I would have to do something about it. For one more week, I wanted it to be a thing I had only heard in the dark.
-
-"Very well," said Ysolde. She opened a drawer.
-
-It was a deep drawer, and inside it, on top of a pile of papers, lay an envelope, old and cream-coloured, sealed in grey wax. She looked at it. Then she looked at me, and slid it back under the papers with one finger and shut the drawer.
-
-"What was that?" I said.
-
-"Orders you have not earned," said Ysolde.
-
-* * *
-
-The king came in at the end.
-
-He did not knock. He rarely does. King Theodric was forty-nine years old, a big man gone soft in the shoulders, with a grey beard cut short and tired brown eyes. He wore a plain dark robe with ink on the cuff, and he stood in the doorway with one hand on the frame, as if he wanted to come in and was not sure he was allowed.
-
-"Eden," he said.
-
-"Your Majesty."
-
-"Sit, sit. Don't stand for me." He waved a big hand. He did not come closer. He never did. "Are you well?"
+"Ysolde says you filed a form about a construct," the king said.
 
 "Yes, sir."
 
-"Are you eating?"
+"And that you are not eating."
 
-"Yes, sir. Through the mouth."
+"Felix says that." Eden kept his hands on his knees. "I ate two rolls on Wednesday."
 
-Ysolde made a very small sound.
+"Wednesday was six days ago."
 
-"I meant," said the king, patiently, "are you getting enough to eat."
+"I have breakfast on Thursday."
 
-"Three times today, sir. One of them was a sweet."
+"You have a form that says you do not."
 
-The king laughed, a short, warm, unhappy laugh. "Good. Good. You were so thin, when you were small." He stopped. He looked at me for a moment longer than he had to, as a man looks at something he would like to say sorry to. "Well. Good. Ysolde will see to you. I only wanted to see your face."
+"The form is wrong."
 
-He went out again. He closed the door with great care.
+"Everything is wrong today," the king said. "Brandmeier wrote to me about a ward with no subject. Is that true?"
 
-Ysolde waited until his steps had gone. Then she pulled a fresh sheet toward her and wrote three words on it, and turned it round so I could read.
+"It was smoking."
 
-*Ember. Lower city.*
+"She said you fixed it in six words."
 
-"There is a cell," she said. "Six or seven. They hide in the old tanneries, near the river. They have grown bold this month, and they have been asking about a student at Hallowcrest."
+"I did not fix it. I said what was wrong."
 
-"Which student?"
+"Yes, sir."
 
-She did not answer at once. She put down her pen.
+The king looked at the papers and did not read them. "When I was your age I could eat a whole ham before supper and still be hungry at bed. My father said it was a sign of a healthy soldier." He stopped and rubbed the table again. "He was a difficult man."
 
-"Rowan Tallis," said Ysolde. "Watch the Tallis boy, Eden. Not as an assignment. As a promise. If anything comes for him, you will be there first, and I will write the form myself."
+"Yes, sir."
+
+"Do not agree with me so quickly. It makes me feel old." The king smiled, and the smile did not reach the tired part of his eyes. "Are you eating now? Truly."
+
+"Yes, sir."
+
+"Good." He wrote something on a paper and pushed it across the table. "That is for the stores. It says you are to be given breakfast in your classroom when you have an early drill. Do not look at it as if it were a trap."
+
+"Thank you, sir."
+
+"I am not doing you a favour." The king's hand went to the sword's grip and stayed there. "I am doing it because Ysolde shouted at me in a corridor. She does that once a year."
+
+"She did shout?"
+
+"She said the boy was a ghost and I had to feed him." The king's mouth moved. "She used other words as well."
+
+Eden did not ask which ones. The king put the paper aside and took up a different one, and for a moment the room had only the sound of the clock in the next office. Eden watched the sword instead of the king. It looked like a sword that had been used and cleaned and used again, not a sword kept for show. The king saw him looking and put a hand on the grip.
+
+"It is heavy," he said. "I have never got used to it."
+
+He did not say where it came from, and Eden did not ask.
+
+"Your mother had a hand like yours," the king said, and then he looked down at the paper in his hand. "Steady. I remember that. Eat your breakfast, Wren. That is all."
+
+"Yes, sir."
+
+The king lifted two fingers toward him and stopped before he reached the shoulder, and the two fingers went back to the papers. Eden stood and went to the door.
+
+* * *
+
+A page in a blue coat was polishing the handle of the king's door when Eden came out, and he stopped polishing to stare at the worn grip of the sword through the opening. Then he went back to his work. Ysolde was still at her desk when he came back. She had moved the exchange list to the top of the middle stack, and one name on it had a circle drawn twice, hard enough to tear the paper. She did not cover the circle, but she did not point at it either. The columns held dates and addresses. Half the names had a small mark beside them, the kind a clerk makes when a bill is paid. Rowan's had a circle, and inside it someone had drawn a second, lighter circle with a different pencil.
+
+"Rowan Tallis," she said. "Your Lance."
+
+"Yes."
+
+"The exchange called his family first. Then the school." She took a pen and made a mark on a blank sheet. "You will watch him without watching him. Report if anyone follows him, asks about his birth, or offers him a place in a cell. Nothing else."
+
+"Why him?"
+
+"You know why." Ysolde put the pen down. "The call list is the Ball guest list. Someone is making a list of people to collect on the night of lights."
+
+"Thirty days."
+
+"Thirty days." She folded a sheet into three and put it in a drawer, then took out an old envelope and held it for a moment before she put that in the drawer too. The envelope was grey and sealed, and the wax had been pressed with a ring with a flaw in one point of its crown. Eden did not read the writing on the front.
+
+"Is that about me?" he asked.
+
+"No." Ysolde shut the drawer. "It is about someone you have not earned the right to ask about yet."
+
+"Orders you haven't earned?"
+
+"Orders you haven't earned." She said it flat, without any heat, and turned back to her stacks. "Do not repeat it to the king. He would want to know what is in it, and then he would have to be told."
+
+Eden waited. She did not look up.
+
+"There is one more thing," she said. "The lower city. An Ember cell is buying dye-works and moving dust through the water lanes. The king wants it gone before the Ball. You will go tonight or tomorrow night, whichever the streets allow."
+
+"How many?"
+
+"Enough that you should not go alone." She took Form 13-B out of the middle stack and set it on top. "And Vesk says there are children in it. Cinders. You do not touch the children."
+
+"If they hold a knife?" Eden asked.
+
+"Then get the knife away and leave the child." Ysolde looked at the form in his hand. "You know the rule."
+
+"No kill without proof."
+
+"No kill without proof." She wrote a number on a corner of the paper. "That is the address of the dye-works. It is on the wrong side of the water lane, so come back by the bridge and not the ferry."
+
+Eden took the form. "Yes."
+
+Ysolde picked up her pen and drew a line under a word on a different paper. "One last thing. Watch the boy with the light as well as Tallis. If the Ashen Crowns want one guest for the Ball, they will want the one who shines."
+
+Eden folded the form into three, the way she did, and put it in his coat. The clock jumped twice more while he stood there, and each jump made the second hand look as if it had changed its mind. The circle on the exchange list still showed through the paper when he looked down at the desk.

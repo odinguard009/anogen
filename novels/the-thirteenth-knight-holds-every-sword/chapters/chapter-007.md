@@ -1,209 +1,203 @@
-# Chapter 7: A Very Small Warrant
+# Chapter 7: Remember Thornmere
 
-By ten in the morning I had a pink paper pinned to my coat, a boy's arm around my neck, and a princess asking my best friend whether he had ever been struck by lightning. It was an ordinary day, and here is how it happened.
+A bird had made a nest in the broken telescope, and Eden could not lie in his usual place without it pecking at his sleeve. He moved two steps left, put his gloved arm over his face, and was asleep before he finished counting the leaves on the apple tree.
 
-* * *
+Boots came up the stair four at a time. "Wren!" Rowan's voice went across the roof garden and off the wall. "I found you."
 
-It began on the roof, at dawn, with a pink paper.
+The loaf was still warm, and its crust cracked when he broke it.
 
-Lysette climbed the Observatory stairs at six with her black book under one arm. She pushed the sticking door open with her shoulder as if she had done it all her life, and the morning wind pulled at her white crown braid. Far below, the first tram of the day rang its bell. I was lying under the apple tree with my coat over my face. Pretending to be asleep was the only defence I had.
+Eden did not move his arm. "It is a roof. There are not many other places."
 
-"Wren," she said. "Get up."
+"There you are." Rowan came round the herb bed with a spear in one hand and a loaf in the other, and he sat down three feet away as if that were a short distance. "I want to be friends."
 
-"I'm asleep."
+"Yes."
 
-"You are talking."
+"That was fast. You did not even ask why."
 
-"I'm talking in my sleep."
+"You said why."
 
-"Then you are an intelligent sleeper." She stood over me, and a shadow fell across my coat. "Sit up. I have something for you."
+"I said I want to be friends. That is not a why. That is the thing itself." Rowan broke the loaf in two and held out the bigger piece. "Felix says you do not like people asking where you go."
 
-Up I sat. She held out a sheet of paper, thick and cream-coloured, with small neat writing. At the bottom was a round red stamp, the seal of the Discipline Committee, and the seal was pale pink.
+"Then why?"
 
-We both looked at it, and for a second neither of us said anything.
+"Because you keep coming back when I say no."
 
-"The ink pad is dry," said Lysette, in a stiff voice. "I have requested a new one. These things take time."
+"That is what friends do."
 
-"It looks like a flower."
+"It is what dogs do."
 
-"It is a seal."
+Rowan laughed at that, loud enough to disturb the bird in the telescope, and took it as praise.
 
-"It's a nice pink."
+"I did not tell him that."
 
-"It is an *official warrant*," she said, with great dignity, "for repeated absence. It is the first of its kind. I have waited two years to issue one." She pressed it into my hand. "You will carry it at all times. If you are late again, I will issue a second."
+"He worked it out. He is like that."
 
-"What does it do?"
+Eden took the bread because it was there and because Rowan would have held it all morning. "What do you want from a friend?"
 
-"It makes you responsible."
+"Someone to tell me when I am wrong." Rowan said it with a straight face. "Everyone else laughs and then tells me. Clara just looks at me. I want the first kind."
 
-"For what?"
+"Lysette already does that."
 
-"For *being on time*." She seemed to run out of words, and her cheeks went a little red. "Read the paper, Wren."
+"Not the same." Rowan leaned back on his hands. "She writes it down."
 
-The paper was official, and it had a great many long words that all meant *you are in trouble*. At the bottom she had added, in small letters, *Please be punctual.* She had written *please* in a different ink. I think she had added it later.
+The bird in the telescope kicked its nest into shape, and Eden watched it from under his arm and counted three twigs falling to the stone. The apple tree's one white flower had shut during the night and opened again.
 
-I folded the warrant and pinned it to my coat, because it seemed to matter to her, and she watched me do it with the quiet look of someone who is not sure she has won.
+"What did she write about you?" Rowan asked.
 
-* * *
+"Sixty-one absences."
 
-I had one weapon against all this, and I brought it out at breakfast.
+"Is that a lot?"
 
-"I have a medical exemption," I told her, in the corridor, as she walked half a step behind me. "From the headmistress."
+"Yes."
 
-"Yes. 'See headmistress.'" Lysette gave a small, tight smile. "I saw her. At seven. Before you were awake."
+"Then she will write today as well." Rowan pointed at the stair door with the loaf. "She is coming. I heard her pencil."
 
-I stopped walking. "You did?"
+A key turned in the lock, and the door opened. Lysette stood in the frame with her black book in one hand and a paper warrant in the other, and a red band clean enough to have been changed that morning around her sleeve. The warrant had a red bell stamped in one corner and three boxes printed across it, and she held it with two fingers as if it were a wet leaf.
 
-"I asked what the exemption covered. I wrote down her answer." She opened her black book and read from it in a flat voice, the way you read a bill. "'Mr Wren's condition requires him to rest on the roof of the Old Observatory. The roof is a medical matter. The floor, the stairs, the classroom and the dining hall are not.'"
+"Monday, ninth of November," she said. "Third bell. Strategy class. You were not there."
 
-Not smiling took work, and I was bad at it.
+"I am on the roof."
 
-"She said that?"
+"That is where you are, not why you were absent." She read from the warrant. "The office wants a reason in one word. I have written 'rest' four times. They want a place now."
 
-"She said it while eating toast." Lysette shut the book. "So your loophole is a roof, Wren. A single roof. If your feet touch anything else, you owe the Committee an explanation."
+"Roof."
 
-"That's exact."
+She wrote it. Then she looked at the word and shut one eye, the way she did when a sum was wrong. "There is no roof on the form."
 
-"I am an exact person."
+"It is where I am."
 
-"I'm starting to notice."
+"You cannot put where you are on a form about where you were."
 
-She gave me a look that was almost, but not quite, a smile, and walked on. I followed her, and I realised that for the first time in two years I had lost an argument, and I checked myself for annoyance and found none.
+"Why not?"
 
-"One more thing," I said. "If I go to every morning class, may I use the roof at lunch?"
+"Because then every absent student would write 'bed'." She turned the warrant so he could see the boxes. "There is a box for class, a box for drill, a box for meals. There is no box for roof."
 
-"You may use it for fifteen minutes."
+"Put it in the sixth box."
 
-"Forty."
+"There is no sixth box."
 
-"Twenty. And you will be at the dining hall door when the bell rings, with your shoes on."
+"Then the form is wrong."
 
-"Thirty, and I'll bring you an apple."
+"The form is printed by the office." She wrote in the small space at the bottom, where there was no box at all. "There. That is a fifth box I made myself. Do not tell anyone." She put the warrant in her book. "You have one more week before the Committee sends these to the headmistress."
 
-She stopped. She looked at me with real suspicion, as if I had offered her poison. "From the roof tree?"
+Rowan raised his hand without looking up. "Put me down as a witness. I was standing outside."
 
-"It's the only tree I know."
+"Outside where?"
 
-"The tree is not mine to give away," said Lysette. Then she added, after a pause, "Twenty-five. No apple. The apple is a bribe."
+"On the stairs."
 
-"It's a gift."
+"Were you on the stairs at the third bell?"
 
-"It is a bribe in a gift's coat." She wrote *25* in her book and underlined it. "Agreed."
+"Yes. Well. No. I came up after."
 
-I had not planned to win a negotiation, but five minutes of roof are better than none, and I took them.
-
-* * *
-
-"Eden! *Eden!*"
-
-The voice came across the whole courtyard. Forty students turned their heads.
-
-Rowan was coming at me from the far gate at a full run, with both arms in the air and a loaf of bread in one hand. He did not slow down. He hit me with a hug that lifted me off my feet, and the pink warrant on my coat crinkled between us.
-
-"Rowan," I said, into his shoulder. "Put me down."
-
-"I can't! I'm so happy!" He put me down, held me by the shoulders, and beamed. "We're friends, right? Lance mates! I decided last night. I'm going to say good morning to you every single day."
-
-"You're saying it now."
-
-"Good morning!"
-
-"Good morning," I said, because there was nothing else to say.
-
-"It's a *great* morning!" He turned to the courtyard and shouted, "THIS IS EDEN! HE'S MY FRIEND!" and forty heads turned again.
-
-A little way off, Lysette closed her eyes and breathed in slowly. When she opened them, she was looking at the sky, hoping for help.
-
-Because I needed something to do with my face, I took the bread from his hand and broke off a piece.
-
-"This is good," I said.
-
-"I know! Clara's mum sends it from home!" Rowan watched me eat with open happiness, as if I had done something clever. "Eat the whole loaf if you want. I've got another one."
-
-"You have two loaves of bread?"
-
-"I have *four*," said Rowan.
-
-* * *
-
-Spell Grammar was the first test of my new life. I sat at the back and propped my head on my hand behind an open book, which is the oldest trick in the world. For ten minutes it worked.
-
-Then my elbow slid, and my forehead followed, and it hit the desk with a bang that rang around the cold room.
-
-Everyone turned. Brandmeier stopped in the middle of a sentence about verbs.
-
-"Mister Wren," she said. "Is the desk comfortable?"
-
-"No, Professor."
-
-"Then perhaps you will stay awake."
-
-"I'll try."
-
-"Trying is the beginning of failing," said Brandmeier, and went back to the verbs.
-
-"That was a good bang," whispered Felix.
+Lysette looked from him to Eden and back. "Your testimony is useless, Tallis."
 
 "Thank you."
 
-"Eight out of ten."
+"That was not a compliment."
 
-"What did I lose points for?"
+"I know." Rowan stood and brushed crumbs off his coat. "I am going to lunch. Both of you should come."
 
-"The elbow," said Felix. "It was a weak elbow."
+Lysette stayed where she was, with her pencil on the page. Eden sat up. The bird in the telescope watched him with one black eye.
+
+"Are you coming?" Rowan asked.
+
+"He is," Lysette said. "I have to write it down if he is not."
 
 * * *
 
-At lunch, the dining hall was a crush. Sunlight came through the tall windows in dusty bars, the air smelled of onions and wet wool, and a hundred spoons clattered at once. Every table was full, every bench was packed, and a long, noisy line wound toward the soup pot. I stood in it with a tray and the pink warrant on my coat, and for once I did not mind, because a line is the only place where no one expects you to talk.
+The dining hall at lunch had the noise of a mill and the smell of hot grease. Steam over the pots rose in a grey sheet, and the windows were wet enough that the court outside had no edges. The Line ran along the west wall, past the soup pots and the bread baskets, and moved in stops and starts because the servers argued about every spoon.
 
-Felix stood in front of me. Behind him, a princess had taken his sleeve.
+Felix was in the Line with his book open against his chest, reading one page and then reading it again. Seraphine came up behind him and reached past him for a roll.
 
-"You know," said Seraphine, in a bright, thoughtful voice, "I've been wondering. Have you ever been struck by lightning?"
+"You always read here," she said.
 
-Felix did not turn his head. "No."
+"It is quiet here."
 
-"Not even a little?"
+"It is not quiet here."
+
+"It is quieter in my book."
+
+Seraphine took the book out of his hands and shut it, then put it back. "That is a joke. You are supposed to laugh."
+
+Felix considered it. "I will think about it."
+
+"That is worse than not laughing." She moved down the Line with his book still in her hand, and Felix followed her with his eyes and then with his feet, because he had not finished his roll.
+
+Rowan was at the head of the Line arguing with a server. "Seraphine, tell him about the ladle."
+
+"It is a small ladle," she said.
+
+"It is a soup ladle. It should be bigger."
+
+"I have measured it."
+
+"You measured a ladle?"
+
+"I measured three." She turned to the server. "He measured them yesterday and they still gave you this one."
+
+The server gave Rowan a bigger ladle, and Rowan thanked her as if he had won a case in court.
+
+Eden came into the Line behind them. A girl in a rough grey coat was ahead of him, so thin that the coat hung from her shoulders like a sack. She had ash on the cuff of one glove, the grey of a coal cellar rather than the black of a kitchen hearth, and her hands were red at the knuckles. She did not take a tray and did not once look at the food. She turned as the Line moved, put something flat into the open book under Eden's arm, and was gone through the door before he could see her face.
+
+Felix came back with his book. "What was that?"
+
+"That was a girl."
+
+"I saw the girl. What did she give you?"
+
+Eden opened the book. A card lay between the pages. It was black card, thick and soft at the edges, with a pressed ash-rose in one corner and a broken crown drawn in grey in the other. Four words were printed in the middle.
+
+Remember Thornmere.
+
+The rose was pressed so thin that only its outline remained, and one edge of the card had gone soft where a thumb had rubbed it. The letters had been pressed into the paper so deep that they showed on the back. The book was a strategy book Eden had never read past the twelfth page, so the card went in at page twelve, where it lay flat and made a corner.
+
+"That is a strange bookmark," Felix said.
+
+"It is not a bookmark."
+
+"Then what is it?"
+
+Eden read the back of the card. There was nothing on the back. He put it between the pages again, at the place where he had been reading, and closed the book on it. His thumb went to the corner twice after that, and he stopped it the second time.
+
+"Is it yours?" Felix asked.
 
 "No."
 
-"That's a pity. I think you would look good with a burn mark. Right here." She tapped her own collarbone. "You have a serious face, Felix. A serious face needs a scar."
+"Then give it to the office."
 
-"Thank you," said Felix, after a long time. "I will think about it."
+"It was given to me."
 
-"Do." Seraphine beamed at him. "Our sleeper is at a table, by the way. I noticed. Go and sit with him. I'll bring the soup."
+Felix looked at him. "That is not an answer."
 
-"I can carry my own soup."
+"It is the only one I have."
 
-"I know. That's why I want to carry it for you."
+Lysette came down the Line with a tray holding one roll and a cup of tea. She stopped beside Eden and looked at his hands rather than his face. "You are in the Line."
 
-Felix stood still. Slowly, his ears turned red, and he stared at the soup pot.
+"I am."
 
-Around them I stepped with my tray, because it was not my business, and I had learned long ago that the safest place in a room is directly behind someone else's problem.
+"That is the second thing today I did not have to write twice." She put the cup on his tray. "Drink it before it goes cold. I have a form that says you do not eat."
 
-That was when someone bumped into me.
+"That form is wrong."
 
-It was a hard, quick bump from the side, and a small hand brushed my coat. I turned. A boy of about fifteen, with a thin face and a grey scarf, stared at me for exactly one second, and then he was gone, pushed back by the crowd, and I saw only his scarf vanish into the line. He did not look like a student. His shoes were too old, and his hands were too red.
+"The forms are all wrong today." She walked to the Committee bench with her book under her arm.
 
-Something stiff lay in my pocket.
+Seraphine came back with two rolls and put one on Felix's book. "What are you two discussing?"
 
-I carried my tray to the table, sat next to Felix and ate three spoonfuls of soup. Only when everyone's attention was on Seraphine's story about a goat did I let my fingers go into the pocket.
+"A card," Felix said.
 
-It was a card, thick and black, about the size of my palm. In the middle, pressed flat and dry, was a single rose, the colour of ash. Under it, in small white letters, were three words.
+"Let me see." She held out her hand, and Eden gave her the book, and she read the card without taking it out. Her face did not change. "Oh."
 
-*Remember Thornmere. Remember.*
+"You know it?" Felix asked.
 
-I knew the name. It was the place on my papers, the place of my mother's cover. A house with that surname had died there once, a long time ago, and I was supposed to have come from its ashes.
+"I know the shape of it." She gave the book back. "People get these at fairs. Put it in a drawer and forget it."
 
-It was an odd thing to give a stranger at lunch. It was an odder thing to give *me*.
+"It is in my book."
 
-I put the card inside the book I carried in my coat, as a bookmark, and closed the cover.
+"Then forget it in your book."
 
-That was when I felt the look.
+She said it too fast, and Felix looked at her, but she was already asking Rowan about the ladle.
 
-It came from across the hall, quietly, through the noise. I raised my head. A man sat at the far table, alone, in a long grey coat with the collar turned up. He was perhaps thirty, with a broad flat face and thick hands, and the skin on one thumb was stained a dark brown, like old tea. He did not look at the soup, or the lines, or the princess. He looked at me.
+She went back to the head of the Line, where Rowan was arguing with a server about the size of a ladle, and Felix went after her with his one roll. Eden stood at the counter with the book under his arm and let the Line move past him.
 
-He watched me put the book away.
-
-Then, with one thick finger, he took a small notebook from his coat, wrote one line in it, and closed it again, as calmly as a man paying a bill.
-
-My spoon was still in my hand, and the soup had gone cold.
+Across the hall, a man in a grey coat stood by the wall with a small book open in his hand. The coat had no school badge and no guild mark, and the book was the kind prefects used for counts. He kept his left hand inside his sleeve. He was not eating, and his tray had never left the counter. He had watched Eden from the moment the card went into the book, and now he wrote one line, shut the book, and set his back against the wall under the prefect's notice board, where the light was poor and no one looked twice at him. The line was short. Eden could not read it from where he stood, and the man did not write a second.

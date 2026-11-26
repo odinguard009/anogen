@@ -1,208 +1,273 @@
 # Chapter 2: The Timetable
 
-*EDEN WREN. Corrected schedule, effective at once.*
-*First bell: Spell Grammar. Front half of the room.*
-*Midday: lunch. Attendance will be checked.*
-*Afternoon: arms practice, training yard.*
-*Any absence will be treated as a flight risk and pursued.*
-*L. Hollen, Discipline Committee.*
+The board was already losing when Eden sat down at it. The white floor ran forty steps in every direction and then stopped. Past the edge there was nothing. Not dark, not a drop. If you looked at it too long, your eyes watered.
 
-She had written each line in a different colour of ink, and the handwriting was so straight that it looked angry. She pushed the paper into my hand at six in the morning, at my own door, before I was awake enough to say no.
+The Tutor sat on the far side with his face turned away. He had taught Eden since Eden was ten, and Eden still could not say what his nose looked like. Tall, thin, two fingers on the pieces.
 
-But the night came first, and the night began with a board.
+"Your tower," he said.
 
-* * *
+The tower was a small stone piece with nine pawns around it. The east road had held for an hour of dream time. The west road was gone.
 
-It was the same dark room as always, and there was no wall, no roof and no floor, only a long white table and a lamp that lit nothing else. On the table lay a siege board. It had ten squares on each side, and little carved towers stood on it, and a castle on the left with a gold flag.
+"I see it," Eden said.
 
-My castle. I was losing it.
+"You saw it four moves ago. You moved toward the noise anyway."
 
-Across the board sat the Tutor, and I never saw his face, because he sat with his head turned away, as if the wall he could not see held something more interesting. Only his hands came into the light. They were thin and very calm, and they moved a small black knight across the board without a sound.
+"The noise was a knight."
 
-"Your left gate is open," he said. His voice was kind. That was always the problem with him.
+"It was a knight that could not reach you." The Tutor set a thin black piece behind the tower. "You guard a place as if the place is the point. It never is. Again."
 
-"I know."
+A long grumpy sigh came from behind Eden, from a door he never looked at straight. It sounded like an old church settling at night.
 
-"Then why did you leave it?"
+"Some of us," said the Dragon, "are trying to sleep."
 
-"I thought you wouldn't see it."
+"You live in me," Eden said. "Pay rent."
 
-"I see everything on this board." The black knight stopped, and a tiny wall fell over. "You may try again."
+"I am the rent. Every morning you wake up breathing, that is the rent." The voice was deep enough to shake his back teeth and fussy as a rich old lady. "And that was good linen. You gave it to a crying stranger like old paper."
 
-I moved a tower, and he moved a knight, and my castle lost two more walls. A small crack ran across the board with a sound of ice breaking. I leaned back, because the game had ended the way it always did, and the Tutor did not seem to mind.
+"She was using her armband."
 
-From the dark behind me came a long, loud sigh.
+"Whatever that means."
 
-"You gave it away," said a second voice. It was deep and old and much too big for the room. It did not come from any one place. It came from everywhere, the way heat comes from a stone wall. "The cloth. The soft one. Your mother's."
+The Tutor did not look up. The two of them never spoke to each other. They spoke past each other, through Eden, like neighbours who share a wall and complain about the noise.
 
-"It was only a handkerchief."
+Eden set the pieces up again.
 
-"It was the *only* one. I looked after that cloth for eight years, and the first thing you do is hand it to a crying girl." The voice rumbled. "Don't think I did not notice. I notice everything in this house. I am the Landlord, and the rent is paid in being sensible."
+"You are slow tonight," the Tutor said.
 
-I had called him the Landlord since I was ten. He had never objected, and he had never told me what he really was, and he only complained about the cold, the noise and my sleeping habits.
+"I am tired."
 
-"She needed it more than I did," I said.
+"You are always tired. Look at the edge instead."
 
-"Hmph," said the Landlord, which was the same as agreeing.
+That was when Eden saw the doors. They stood along the edge of the board, where the white met the nothing. Their number changed, so he had stopped counting. Tonight one was locked, with a hairpin in the keyhole. The pin was thin and silver, and its flat head was shaped like a seed. Someone had started to pick the lock and been called away.
 
-I turned to look for him, but there was only the dark. And in the dark, at the far end of the table, stood a door.
+"Tutor," Eden said. "Who was here?"
 
-I had never seen it there before.
+No answer. He stood to look closer, and the floor under his left foot went soft.
 
-It was a plain wooden door, old and a little crooked, with an iron handle, and it was shut. In the keyhole, something thin and silver was stuck in at an angle, like a pin that someone had pushed in on purpose and left. I knew that shape, because it was a hairpin with a small flat end, like a leaf.
+There was no other way to say it. The edge had moved while he was not looking, and the white under his heel had gone thin as spring ice. Past it was the nothing, and the nothing pulled. It did not feel like falling. It felt like being rubbed out, starting from the feet, and the cold climbed from his ankle to his knee before he could turn.
 
-My stomach went tight, and I did not know why, but I walked toward the door, and the white table slid away behind me, and the Tutor's hands stopped moving.
+He threw his weight back and caught the doorframe beside the hairpin. The silver head was an inch from his knuckles, and he could not look at anything else.
 
-"Not yet," he said, very softly.
+"Not that one," said the Tutor.
 
-Someone began to knock.
+He had not moved. He set a white pawn on the board, and the floor under Eden was hard again.
 
-* * *
+"Not yet," he said. "Again."
 
-It was a hard, quick knock, the kind that comes from a person who has already decided you will answer, so I opened my eyes. The ceiling of my room was grey with early light. The knock came again.
-
-"Wren!" Lysette's voice came through the wood. "I know you are in there. Your shoes are outside."
-
-I got up and opened the door. She stood in the corridor in full uniform, with her pin straight and her white hair brushed smooth under its thin crown braid. She looked as if she had slept eight hours and eaten a sensible breakfast, and she held a sheet of paper in front of her as a shield.
-
-"It is six," I said.
-
-"It is six," she agreed. "Class begins at seven. You will need an hour to wake up, and since you cannot, I have come to help."
-
-"Thank you, but I'm fine."
-
-"You are standing in a doorway with your eyes closed."
-
-"I am thinking."
-
-"Think while you walk." She pushed the paper into my hand. "This is your timetable. Read it. Do not lose it. I have a copy, and the teachers have a copy, and the committee has a copy."
-
-"Why does the committee have a copy?"
-
-"So that you cannot say you did not know."
-
-I looked at the timetable. Underlined twice. She had even drawn a small clock beside reading hour.
-
-"You wrote this in four colours," I said.
-
-"Red is for rooms. Blue is for time. Green is for the books you need." She tapped the page. "Black is for a warning. There is only one."
-
-"Which one?"
-
-"Read it."
-
-I read it. Beside the words *arms practice*, in black ink, she had written: *Do not sleep in the yard.*
-
-"That's not fair," I said. "Everyone sleeps in the yard sometimes."
-
-"Nobody sleeps in the yard sixty-one times," said Lysette, and walked away down the corridor with her head high.
-
-I stood there in my socks, holding the timetable. From the far end of the hall, somebody laughed.
+Eden woke with his left leg asleep to the hip. A sheet of paper lay on the floor by the door.
 
 * * *
 
-Spell Grammar was taught in a cold room, because Brandmeier believed warm rooms made lazy minds. She was a tall, narrow woman with grey hair pulled back so tightly that it seemed to give her a headache, and she wore black gloves, even indoors. She taught Spell Grammar the way other people fought wars.
+She knocked an hour before the first bell, three times, evenly spaced. The hall outside his room was grey and cold and smelled of wet stone. Lysette stood there with a clean red band on her sleeve and her white hair pinned a little tighter than yesterday.
 
-I sat at the back. Felix slid into the seat beside me a moment later. He was a quiet boy with brown hair and ink on two of his fingers, and he carried a long wooden bow-case that never left his shoulder. We had sat together for three years. I could not remember who had started it.
+"I put a timetable under your door," she said. "Did you read it?"
 
-He looked at me, then at the timetable on my desk, then at me again.
+"Twice."
+
+"Good. I brought another one, in case you lost yours in the last forty minutes."
+
+She held it out, then looked past him at his room. Bed, desk, chair, nothing on the walls.
+
+"You're dressed," she said, as if he had cheated.
+
+"I sleep dressed."
+
+"That's—" She let it go. "South tables. Walk."
+
+They walked with her half a step ahead, so she had to look back every eleven steps to check he was still there. Two second-years saw them coming and pressed themselves against the wall.
+
+"Do they always do that?" Eden asked.
+
+"Do what?"
+
+"Never mind."
+
+She did not mention the handkerchief. Her left jacket pocket stayed buttoned.
+
+"Seven steps," she said, without turning. "You stopped to look at a pigeon."
+
+"It looked at me first."
+
+"Walk."
+
+* * *
+
+The dining hall at breakfast was as loud as a mill. Plates banged, benches scraped, and the whole room smelled of hot porridge and burnt toast. Lysette took Eden to the south tables, looked at him once more as if to remember where she had put him, then went to the Committee bench by the windows.
+
+"Two rolls," she called across the hall. "At least."
+
+"Yes, ma'am," Eden said, too quietly for her to hear.
+
+Felix sat at the end of the usual table, a round-faced boy with brown hair that never lay flat. He had porridge in front of him and a book propped against the salt. He did not look up when Eden sat down, because Felix never did for the first minute. That was how he said hello.
 
 "Eaten today?" he said.
 
 "Technically."
 
-"That means no."
+He turned a page. "What does technically mean today?"
 
-"It means I looked at some bread."
+"A peppermint."
 
-Felix nodded. He seemed to find that reasonable. He did not ask more, and that was why I liked him. He took out a pen and said nothing for a full minute.
+"That's not food."
 
-"Lysette Hollen walked you here," he said at last.
+"It's in the food family."
 
-"She walked behind me."
+Felix pushed the bread basket two inches toward him, his eyes still on the book. Then he looked up over Eden's shoulder at the Committee bench.
 
-"For ten minutes."
+"Ah," he said. "She's watching you eat."
 
-"She walked close behind me."
+"She's making sure I eat."
 
-"Everyone saw." He cleaned his pen on his sleeve. "Rowan waved at you."
+"Eden. What did you do?"
 
-"I know."
+"I offered someone a handkerchief."
 
-"You didn't wave back."
+Felix put the book down, which he only did for fires and test results. He had sat next to Eden since their first week, when he walked up to the only empty seat in the hall and asked if it was taken. Then he sat before Eden could answer. In five years he had never asked where Eden went at night. He just pushed the bread over.
 
-"I was busy being walked."
+His tea had gone cold while he read, so Eden took the pot and filled the cup to one finger below the top. He added half a spoon of honey and pushed it back. Felix drank it too sweet for a boy his size and was shy about it.
 
-Felix almost smiled. Then Brandmeier's voice hit the room, flat and hard, like a ruler on a desk.
+"Thanks," Felix said, and picked up the book again. He did not ask about the handkerchief.
 
-"Wren."
+"You're eating," he said after a while.
 
-Every head turned. I did not move.
+"She's watching."
 
-"I see that you have joined us," she said. She walked down the aisle slowly, tapping a black glove against her palm. "After so many empty chairs, I had begun to think the room was cursed. Perhaps you will honour us with a small answer."
+"Keep going, then."
 
-A few students grinned. Brandmeier always did this. She picked one student who did not know the answer, and she asked a question that took ten minutes to answer badly, and then she let the room watch.
+That was the whole talk, and Eden ate two rolls.
 
-"In spell grammar," she said, "there are two kinds of speech. The command and the request. Explain the difference, Wren, and take your time. We have a whole hour."
+The doors at the north end banged open. Rowan Tallis came in with Clara beside him, both of them still in their drill coats. Clay dust greyed Rowan's sleeves, and a red practice-blade mark crossed the back of his hand. Clara had a posting ribbon on her collar and a streak of dust on her cheek, and she walked the way people walk when they have already been awake for three hours.
 
-She was being kind in the way a cat is kind to a mouse. I looked at her. I looked at the board. I looked at Lysette, who sat in the front row with her book open and her pen ready, and who was not looking at me at all.
+Rowan saw the table and came over, because Rowan came over to every table.
 
-I could have said nothing. I could have said, *I don't know*. That was my usual answer. It was a good one. Nobody remembered it afterward.
+"Wren," he said. "You're awake."
 
-But my handkerchief was in Lysette's pocket, and my chest felt oddly tight. I assumed it was the cold room. I did not feel like being a mouse today.
+"It happens."
 
-"A command gives," I said. "A request asks."
+"Clara, this is Wren. He's eighth."
 
-It was six words, and every one of them was right.
+"I know who he is," Clara said, and sat down across from Felix.
 
-The room went quiet. Brandmeier stopped tapping her glove. For a moment I thought she was going to say something rude, and then she did something worse. She nodded. Once. Slowly.
+Rowan took the bench beside her, and the bench complained. He put three rolls on his plate before he put down his bag. "Morning drill. Okoru made us run the east stairs with shields. My arms are dead."
 
-"Correct," she said. "Sit."
+"You said that yesterday," Clara said.
 
-I was already sitting. Somebody behind me hissed. Somebody else muttered, "Show-off." A boy in the second row turned all the way around to look at me as if I had insulted his mother. Whatever the room had felt about me before, which was nothing at all, it now felt something much hotter.
+"Yesterday it was the west stairs."
 
-"Eden," Felix said, softly.
+Lysette's voice came across the hall. "Tallis. Sit down or leave."
 
-"Yes?"
+Rowan sat down so fast that his knee hit the table. Clara's mouth moved, almost a smile, and she pulled her plate out of the way.
 
-"You're a genius."
-
-"No. I read one book."
-
-"No one read that book."
-
-I did not answer. Up front, Lysette had turned her head. For half a second our eyes met. She did not smile. She looked at me, then at her own page, and wrote something small.
-
-I did not want to know what.
+Eden watched the room instead of the table. Three tables over, a boy in a grey coat watched Rowan and then looked away. A prefect by the door counted heads with a pencil. Lysette wrote something in her black book without looking at the page.
 
 * * *
 
-At midday I escaped to the long corridor outside the dining hall. The floor was stone, and the walls were hung with old flags. I had planned to walk to the stairs, find a quiet corner, and eat the bread I had looked at earlier.
+Spell Grammar was taught in a steep half-bowl of benches that faced a big slate wall. Professor Brandmeier stood at the bottom, a short woman with grey hair in a tight knot, and looked as if she had fallen into a pit and was waiting for the class to climb down.
 
-I got three steps.
+Eden had planned to sit in the back third. Lysette had a seat ready in the front half, exactly as written. Her bag was on it, and she moved the bag when he came, without looking at him.
 
-"Wren."
+Brandmeier called the names. When she reached his, Eden said, "Here." The room went quiet in a way he did not like.
 
-It was a voice I knew. It was clear and even and carried without effort. I turned.
+"Who?" someone said behind him, much too loud.
 
-Crown Prince Valerius stood in the middle of the hall, with the afternoon light on his fair hair. He wore the blue sash of the student council over his uniform and nothing else that said *prince*. He did not need to. Every student in the corridor had stopped to watch, and a younger girl by the wall had gone so still she was holding her breath.
+Brandmeier took off her glasses and looked at him over the place where they had been. Then she put them back on and made a mark.
 
-Beside him, a step behind, stood Lysette. She had arrived from nowhere, as she always did, with her little black book in her hand.
+"How nice," she said. "A sighting."
 
-"Your Highness," I said.
+The lesson was about siege wards. A ward was a spell that guarded a place, a lock made of words. She wrote a sentence on the slate as she talked, the kind of guard-ward carved into gate towers. It had a subject, a verb, and a long part that named what the ward protected. Her chalk was mixed with stone dust, so each finished line pulled a little mana out of the air and lifted off the slate with a faint blue glow.
 
-"I heard about Spell Grammar." He looked at me as if I were a hard problem he had been waiting to meet. His eyes were the cold, clear blue of a lake in winter. "Six words. Brandmeier has never been answered in six words, not in all the years I have sat in that room."
+"Listen," she said. "Wards are sentences. A sentence with a mistake is a lie, and a gatehouse built on a lie falls on the people inside." She drew the last line. "This one has a mistake. A small one."
 
-"It was a short question."
+The letters began to hum, a low sound felt in the back teeth. A thin curl of smoke rose from the third line. The front row leaned back together, and someone's inkpot slid an inch along the bench by itself.
 
-"It was not." He smiled slightly. It was not an unfriendly smile, which made it worse. "In three years, you have never once shown me anything. And in one morning, with Lysette beside you, you suddenly answer like a scholar."
+Brandmeier did not turn. She looked up into the benches, all the way to the top, the way a hawk checks a field. Then she found Eden in the front half, where he had never sat.
 
-"I read a book."
+"Mr. Wren," she said. "You have been away so often this year that the office asked if you had died. So tell me, where is the mistake?"
 
-"Of course." He stepped a little closer. When he spoke again, he used the same calm voice, but I felt the whole hall lean in to listen. "So you have finally stopped hiding."
+Eden said nothing, and the smoke kept rising.
 
-No one laughed, and no one moved.
+"Is he asleep?" someone whispered. "He looks asleep."
 
-The timetable was still in my hand. Lysette's pen had stopped above her page, and at the end of the corridor Felix put down his bow-case very slowly.
+"Mr. Wren," said Brandmeier, louder. "I am waiting."
 
-I had a hundred answers, and not one of them was safe. So I said nothing, and after a few seconds Lysette's pen began to move again.
+She knew what she was doing. She would let it run until he panicked, then fix it with one stroke and let the room enjoy him. A safe answer sat ready in his mouth. The verb tense, Professor. Nobody remembers a safe answer.
+
+Next to him, Lysette had gone still, her pencil above her page.
+
+He looked at the ward again. The sentence said keep, and guard, and hold, but it never said what. A ward like that had nothing to point at, so it pointed at itself. He did not want to say so. But if he stayed quiet, the smoke would reach the second line and the front row would be hurt.
+
+"The ward has no subject, Professor."
+
+Six words, and they were true. Brandmeier stared at him.
+
+"Who taught you that?" she asked.
+
+"A book."
+
+"Which book?"
+
+"I don't remember. It was boring."
+
+She did not answer that. Without turning, she reached back and drew one short word into the gap at the front of the sentence. The hum stopped, the smoke thinned and was gone, and the inkpot stayed where it was.
+
+"Yes," she said, and she sounded annoyed. "Write that down, all of you. Mr. Wren will not say it again."
+
+A room can decide it dislikes you. The air changes. For five years Eden had never been the boy in class who knew the answer, and in four seconds he became him. Nobody near him looked his way for the rest of the hour.
+
+Lysette underlined something with her ruler, so hard that the page tore.
+
+"You knew that," she whispered.
+
+"I guessed."
+
+"You do not guess. You sleep."
+
+"Both."
+
+* * *
+
+After the last class, the hall outside the west classrooms was full, as it always was at that hour. Eden's bag hung off one shoulder. Lysette walked half a step ahead and a little to the left, pulling him toward the stairs.
+
+Valerius stood at the top of them. He was not waiting for Eden. He was talking to two officers of the school council, with a stack of papers in his hand. He was tall, with fair hair and a straight back, and a small bronze pin shone on his collar. Nothing else on him said crown prince, except the empty space people kept around him without being told.
+
+He heard about the class. Eden saw it land when Valerius turned his head and found him. He sent the officers away with a nod, and they went.
+
+"Lysette," he said, politely. She answered with a small bow.
+
+Then he looked at Eden, the way he always did, as if he were reading a contract and had just found the part he feared.
+
+"Brandmeier," he said. "A ward with no subject."
+
+"It was smoking."
+
+"I know it was smoking. Half the year is talking about it." He stepped closer, but it was not a threat, because he did not make threats. "Six words, in front of a hundred and twenty people."
+
+"You two know each other?" Lysette asked.
+
+"No," Eden said.
+
+"Yes," said Valerius, at the same time.
+
+Eden could feel Lysette looking from him to Valerius and back. She was doing a sum, and she did not have all the numbers.
+
+"So," Valerius said quietly, so only the three of them could hear. "You have finally stopped hiding?"
+
+There were a few honest answers. Each one cost something he would not pay in a crowded hall, with the Committee vice-chair at his elbow and her pencil already out.
+
+"I'm on a timetable," Eden said.
+
+Something closed in Valerius's face, and he looked tired. He held Eden's eyes one more second.
+
+"Pity," he said.
+
+He stepped aside to let them pass, and he was back to his papers before they reached the second step.
+
+"What was that about?" Lysette asked on the stairs.
+
+"He's a prince. He talks to everyone."
+
+"He does not talk to everyone."
+
+Eden kept walking. At the bottom she stopped and opened her black book. She wrote one line and tilted the book so he could not read it, though not quite enough.
+
+Why does the Prince know him?

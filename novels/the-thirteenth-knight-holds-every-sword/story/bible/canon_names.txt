@@ -677,3 +677,38 @@ veinspear
 veinspears
 Ulrike
 Mistress Ulrike
+
+# Months (calendar.md)
+November
+
+# Names added in ch 6
+Master Sorn
+Sorn
+
+# Titles
+Mr
+
+# Lances
+Lance One
+One
+
+# Days
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+
+# Titles and offices
+War Minister
+Minister
+
+# Garrison
+Storems
+
+# Months
+September
+December
+January

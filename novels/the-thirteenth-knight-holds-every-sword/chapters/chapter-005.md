@@ -1,211 +1,237 @@
-# Chapter 5: Latch
+# Chapter 5: The Thing in the Circle
 
-The construct reached Lysette before I reached the stairs.
+The Undercroft maze had no lamps in its passages. Pale stones were set into the floor every ten steps, and their light came up from below, so faces looked like masks and the walls were never quite there. Four passages crossed at the middle of the maze, and a circle of smooth stone had been swept clean at the crossing. A smell of wet lime clung to everything down there, even to the straps on a bag.
 
-It was eight steps from her when I saw it move. It was a training warden, a man-shaped machine of grey stone with brass joints and a wooden practice blade in its right hand, and for the last hour it had walked slowly up and down the drill maze, as bored as a night watchman. Now its two glass eyes had turned from green to red. It ran. Its stone feet hit the floor like falling bricks, and the sound bounced back and forth between the walls.
+Eden came down the south stair with the others. Felix walked beside him with a bow across his chest, and he kept running his thumb along the string. The bow was plain black wood with a short pull and a leather grip, made for a fast shot in a wood, not for a room of stone. He did not draw it. He only checked the string twice and looked at the circle.
 
-Lysette did not see it. Her back was to the corridor, and her eyes were on a gap in the wall, where Rowan's team was working through the next maze. She had been watching Rowan for ten minutes. She had no idea anything was behind her.
+Okoru stood at the south gate with his one arm behind his back. "Field drill," he said. "One construct, one student, three minutes."
 
-"Hollen!" I shouted.
+"Why just one?" Rowan asked.
 
-She turned. The construct was already there.
+"Because four of you would break it in ten seconds."
 
-* * *
+"That is a good thing," Felix said.
 
-An hour before, the drill had looked ordinary.
+"It belongs to someone," Okoru said. "That is the bad part."
 
-The Undercroft lay under the academy, a maze of old stone halls with iron grilles in the walls and mana-lamps in glass jars hung every ten steps. The teachers used it for drills. Okoru had split Year 5 into groups of three, and each group had to walk its own maze from the entrance to a wooden door at the far end. Some halls had false walls. Some had small stone constructs that walked and swung at the students, slowly, with wooden blades. No one ever got hurt.
+He pointed into the box with his stick. "What is wrong with it?"
 
-My group was Felix, me, and Lysette, who had written herself into it on her own. She said it was Committee duty.
+"Everything," Rowan said.
 
-"I have to observe you," she said when Okoru read the list. "The vice-chair must see how a problem student behaves in a team."
+"More useful than that."
 
-"I'm not a problem," I said.
+Felix leaned on his bow. "The tag says thirty per cent."
 
-"You are sixty-one absences long."
+"And it walks as if it is angry," Clara said.
 
-"Sixty-one," said Felix quietly. "But he is here today. That has to count for something."
+"The wire is cut," Eden said.
 
-I turned to him. "Whose side are you on?"
+"Say the rest."
 
-"Mine," said Felix, and checked the string of his bow.
+"It was cut from this side. The ends are clean."
 
-Now we walked down the long hall with our lamp held high. The air was cold, and it smelled of old rain and stone. Every few steps Lysette stopped, wrote a line in her black book, and walked on. Every few steps she also looked through a gap in the wall to see what the next maze was doing.
+Okoru looked at him for a beat. "Then we are all watching the same thing."
 
-"Rowan's team is at the third door," she said, to the air. "Clara is carrying the lamp. That is a bad idea. She will drop it."
+The four passages had names cut into the stone at the crossing, and the letters had been worn smooth by boots. The false walls ran on brass wheels that someone oiled too well. The one that would close on Lysette had made no sound until it was already moving.
 
-"She won't drop it," said Felix.
+Rowan shifted his spear from one hand to the other. "I'll go first."
 
-"You don't know that."
+"No," Lysette said.
 
-"I've seen her carry a lamp."
+"You went first last time."
 
-I walked behind them and kept my mouth shut. It is my best skill.
+"I won last time."
 
-* * *
+"That is not a reason."
 
-The construct hit her before she could finish turning.
+"It is today." She walked past him into the passage, and Rowan let her go with his mouth shut.
 
-I was still five steps away, running as fast as a bored boy can run without looking like he is trying. The wooden blade came down in a wide, fast arc, and Lysette raised both batons across her chest. They were two short black sticks, as long as her forearms, that she carried at her belt for Committee work. She held them close to her body, with the left one tilted slightly higher, in the way of someone who had trained for it every day.
-
-The blade struck the first baton. It split down the middle.
-
-The second baton held. For one half second, the blade stopped against it, and Lysette's face went white. She was strong. She had been trained. But a stone arm swings with the weight of a wall, and she had nothing left to stop the next blow.
-
-The construct raised its arm again.
-
-I did not decide. My body did, and my hands were already at the case on my back.
-
-Exa came out into my hand, cold and black. I had no time to plan, so I did the only thing that I was sure could not look strange. I ran straight at the construct, and I thrust the lance at its chest, short and ugly, the thrust of a boy who has panicked.
-
-The point hit the stone and did nothing. The construct turned its head. Red eyes found me.
-
-Then its blade came down toward my face.
-
-I stopped thinking and knocked.
-
-* * *
-
-*One knock turns the lance into a door.* It was the first thing I had learned about Exa and the first rule I had broken, and I had not used it in front of other people in two years.
-
-The shaft folded in my hands. Black metal went flat and wide with a small ringing sound, like a gate swinging, and a door-shield opened around my left arm. It was the size of a tray, matte black, with an iron ring set in the middle of it, the knocker. It was cold, and it was only as strong as my arm and my aura, but it was the one door I owned that could do what I needed.
-
-The wooden blade came down onto the shield, and the ring caught it.
-
-I turned my wrist. The blade slid sideways into the iron ring, and the ring closed on it with a clank, and it held. The blade could not go up. It could not go down. The stone arm pushed, and the whole construct leaned on me, and I felt my feet slide an inch on the floor.
-
-**[Latch]**
-
-That was its name. It was a trick I had made at thirteen, in a cellar, out of boredom, and it was one of the few that I could show a crowd. The shield did not break the blade. It only caught it, and the one who caught it decided where the blade went next.
-
-I decided. I pulled the blade left, and the construct went with it, off balance. Then I drove the edge of the shield into the seam under its arm, at the joint where stone met brass, with every ounce of my weight.
-
-Something cracked deep inside it. It was not a loud sound. It was small and dry, like a pebble in a cup.
-
-The red eyes went out. The stone arm dropped. The construct stood a second longer, and then it fell sideways onto the floor with a crash that shook dust out of the ceiling, and it did not move again.
-
-* * *
-
-For a while, nothing happened. The echoes died. Somewhere far down the hall, a student shouted, "What was that?" and somebody else laughed.
-
-I stood still with the shield on my arm. I knocked once on the iron ring, and the shield folded back into a short black lance. I put it in the case and slung it on my back as if nothing had happened.
-
-Felix reached us at a run, with his bow in his hand and an arrow half-drawn. He looked at the stone body, then at me.
-
-"Eden. What did you do?"
-
-"I hit it," I said. "It was already broken."
-
-"It was *running*."
-
-"It was running badly."
-
-Felix looked at me, and the silence went on. Then he put the arrow back in his quiver, slowly, and said nothing at all. I noted that this was the kindest thing a friend could do.
-
-Lysette had not moved.
-
-She stood with her back against the stone wall, with the one good baton still in her hand and the broken one on the floor at her feet. Her face was pale. Her chest rose and fell quickly. She looked at the construct, and at the crack in its arm, and then at me.
-
-Her hands were shaking.
-
-She saw me see it. She pressed the baton against her leg, hard, as if that would make the shaking stop, and lifted her chin.
-
-"I didn't need that," she said.
+Clara touched his sleeve. "You hit her arm yesterday."
 
 "I know."
 
-"I had it. I was going to block the next one."
+"Then let her have this one."
 
-"I know."
+Okoru pointed with his stick, and the hall's small noise died. Rowan went west with Clara, and their boots faded into the passage. Rowan's spear scraped once on a corner. Clara's posting ribbon showed pale for a moment and then was gone.
 
-"You didn't have to... get in the way."
+Felix stood beside the gate. "I can shoot through the gap if the wall slides."
 
-"I know."
+"You can shoot a wooden blade," Okoru said. "It will not care."
 
-She looked at me for a few more seconds. Her voice came out smaller than before. "Stop saying *I know*."
+"I know. I like the string."
 
-"Okay."
+"Keep it ready."
 
-"Okay," said Lysette. She took a long breath, in and out. Then, quietly, she added, "Thank you."
+Lysette stepped into the circle alone. She had her batons out, left one tilted higher, and she nodded once to Okoru.
 
-My stomach had gone cold again. That made twice in two days. I looked at the broken baton on the floor instead. After a moment, I bent down, picked up both halves, and held them out to her.
-
-She took them. For half a second, our hands touched. Hers were cold.
-
-"Lysette!"
-
-Rowan came around the corner at a run, with his wooden spear in one hand and Clara close behind him. His gold hair stuck up on one side. He skidded to a stop and looked at the broken construct, then at the broken baton, then at Lysette's white face.
-
-"Whoa," he said. "I heard a crash. Is everybody okay? Did it hit you? Are you hurt?"
-
-"I am perfectly well," said Lysette.
-
-"You're shaking."
-
-"I am not."
-
-"Your hands are," said Clara gently. She stepped forward with her basket of bandages and held out one small hand, palm up. "Can I look? It only takes a moment."
-
-"There is nothing to look at." Lysette hid both hands behind her back, which made the broken baton clatter again. Her ears had gone pink. "Rowan, please do not stare at me."
-
-"I'm not staring. I'm worried." Rowan frowned in his honest, puzzled way, as if worry were a simple problem with a simple answer. "Did Eden save you? Eden, did you save her?"
-
-"I hit a machine," I said.
-
-"That's what saving is!" said Rowan, delighted, and clapped me on the back so hard that my teeth clicked. "You're a hero. A lazy hero, but a hero."
-
-"Please don't call me that."
-
-"Why not?"
-
-"It's a lot of paperwork."
-
-Clara laughed. Lysette did not. She looked at Rowan, and for a second her face was soft and open and young. Then she saw me watching, and it closed.
-
-"Return to your maze," she told him. "All of you. This is a Committee matter."
+"Begin," he said.
 
 * * *
 
-Okoru came a few minutes later, walking in his slow way, with his hand behind his back. He had already used the wall telephone at the maze door to send for a cart. He did not shout. He studied the construct without a word. Then he knelt next to it, which looked odd for a man with one arm, and put his palm against the crack in its side.
+It came out of the wall.
 
-"This should not run," he said, to the stone. "It should not run at all. These things have a leash in the core. They walk, they swing, they stop." He looked up at me. "Wren. How did you stop it?"
+The construct was cut from grey stone and stood as tall as a man, with brass rings at the shoulders and knees and a wooden practice blade in its right hand. Two red beads sat in glass in its face. A leather tag hung from its wrist with THIRTY PER CENT written on it in black. The wire that should have held that limit had been cut, and the cut end swung loose as it moved.
 
-"I hit it, sir."
+"Thirty per cent," Felix said from the gate.
 
-"With what?"
+Eden watched it cross the circle. "It is not running at thirty per cent."
 
-"A lance."
+"I was afraid you would say that."
 
-"A lance." He said it slowly, as if the word were new. "A lance does not crack a drill-warden."
+A drill construct moved like a tired man doing a job. This one crossed the circle in three long steps with its blade already high.
 
-"It was already cracked."
+Lysette went in under the blade. Her left baton caught the wooden edge, and her right came across into the brass ring at the elbow. The ring bent. The arm hung, and the wooden blade dropped from fingers that had not been told to let go.
 
-"So I hear." He turned the crack toward the lamp. "Then it will not mind if I look."
+"One," she said.
 
-He worked a thin knife into the seam, and the crack widened with a small click. Inside the chest there was a hollow, and in the hollow lay a round glass core the size of a fist, split down the middle. It should have been full of soft green light. It was not. It was packed tight with something grey, fine and dry, like old ash.
+The thing did not stop. It took the stump of its arm and swung it like a club. Lysette stepped inside the swing, where the short reach of her batons was an advantage, and struck the other arm at the shoulder. Stone cracked. The arm came away at the brass joint and slid across the floor into the dark.
 
-Okoru did not touch it. He studied it, and when he spoke, he spoke to the room.
+"Two."
 
-"Dust does not get into a sealed core by itself," he said. "Someone put it in. Someone who knew the core was there."
+Two arms gone, and it was still coming.
 
-"Could it be a mistake?" said Felix. "A bad batch?"
+It used its head. The glass face with its red beads drove into her chest and pushed her back, one step, two steps, until her shoulders hit the north wall. There was a sound of stone on stone behind her, and a false wall slid across the passage with a grind that filled the whole maze.
 
-"A bad batch has bubbles," said Okoru. "This has been packed. Pressed down with a finger, like tea in a tin." He turned his head toward me, slowly. "Wren."
+"Lysette!" Rowan's voice came from the other side of the wall.
 
-"Sir?"
+"I can hear you," she said.
 
-"Keep your mouth shut about this. All of you." His one hand closed the chest plate. "If it was one of the staff, I want to see who is surprised when I say nothing."
+"Can you get out?"
 
-"Yes, sir," said Felix.
+"I am busy."
 
-"Yes, sir," I said, and meant it for once.
+Clara's hand appeared in the gap for one second, pale against the dark, and then the gap was gone.
 
-I looked too. I could not help it. The dust was grey, and it was fine, and it did not look like anything a drill-warden should have in its chest.
+Rowan put his spear into the seam of the wall and bore down with his shoulder. It did not move. "It is pinned on this side too," he said.
 
-I had seen dust like that two nights ago, on the floor of a switchboard room. It was only dust, I told myself. All dust looks the same in bad light.
+Clara set her hand flat on the stone. "It came down when she had her back to it. Someone set it to close on her."
 
-"Sir?" said Felix. "What is it?"
+"Who?"
 
-"I do not know," said Okoru.
+"Someone who knew the drill."
 
-No one spoke. The lamp swung a little on its hook. Inside the cracked glass, the grey dust slid, and settled, and lay still.
+Lysette struck the glass face with both batons. The sound went up into the dark and came back thin. The core sat behind a doubled plate of brass, and the plate did not move.
+
+She struck it again. "Doubled," she said.
+
+One of her batons split down the middle and fell in two pieces at her feet. She kept fighting with the other one.
+
+"Two minutes," Okoru said.
+
+From the gate, Felix lifted the bow and then lowered it. "No angle."
+
+"I know," Okoru said.
+
+Rowan's spear hit the false wall once, hard enough to ring the brass in its seam. "Open it."
+
+"It opens at three minutes," Okoru said.
+
+"She does not have three minutes."
+
+"I know."
+
+The construct pushed again. Its head went into Lysette's shoulder and her feet slid on the smooth stone. She brought the last baton down on the glass and the glass held. Her breath was loud enough to hear from the gate.
+
+Under the pale floor light, the thing cast a shadow on the north wall. Eden looked at the shadow and at the thing that made it. The stump of its arm was rising again, and Lysette had nowhere left to step.
+
+* * *
+
+Eden walked into the edge of the light and reached into the shadow for **[Exa]**. The lance came out of the dark case on his back with its cold matte body and its iron ring-knocker, a little longer than his arm. He knocked once on the ring, and **[Exa]** folded with a sound like a box lid shutting into the tray-sized door-shield, black and quiet under his hand.
+
+He did not put himself between them. He put himself beside the arm.
+
+**[Latch]** was a matter of timing. The iron ring caught the wooden stump on its way down, and Eden steered it instead of stopping it. His arm took the whole weight. The shield rang once, and his fingers went numb around the strap.
+
+The Door opened behind the construct, where its shadow met the wall: two knocks on the air, a black rectangle with an edge of pale light along one side. The stump went through the opening. Eden shut the Door on it, and the stone arm was held in a place that had no room for it.
+
+The construct lurched against its own trapped arm. For half a second the brass joint at its shoulder stood open.
+
+Eden drove the shield's edge into the joint.
+
+Lysette stared at the place where the opening had been. "Where did it go?"
+
+"Nowhere," Eden said.
+
+"That is not an answer."
+
+"It is the only one."
+
+Something cracked that was not stone. The red eyes went out one at a time, first the left, then the right, and the construct came down on its knees and then flat, with the broken arm still caught in a Door that was no longer there.
+
+The shield unfolded back into **[Exa]** with a ring and a cold ache behind Eden's eyes. He put the lance away. His arm felt as if it had been struck by a hammer, and he flexed the fingers until they answered.
+
+Lysette stood against the wall with one whole baton and one empty hand.
+
+"Two seconds," she said. "Again."
+
+Eden said nothing.
+
+She looked at his arm, then at the thing on the floor. "I didn't need that."
+
+"I know."
+
+Her hands shook once. She put them behind her back before anyone else could see.
+
+The false wall slid open. Rowan came through first with his spear low, and Clara behind him, and Okoru last of all with his wooden stick.
+
+"You were supposed to take the wall apart," Rowan said to Okoru.
+
+"You were supposed to hold three minutes," Okoru said.
+
+Rowan looked at Lysette's split baton. "I did that to you yesterday."
+
+"Today as well," she said.
+
+"I know."
+
+Clara went to her and took the arm without asking. Lysette let her, which surprised them both. "It is a scratch."
+
+"It is the same scratch," Clara said. "It has had a busy day."
+
+Felix came up behind them with the bow still unstrung across his chest. "I never shot."
+
+"No," Eden said.
+
+"I had the string ready."
+
+"I know."
+
+Okoru was not listening. He crouched by the construct and set his stick across his knees. "Three minutes," he said. "She held it three minutes."
+
+Nobody answered him. The pale stones hummed under the floor, and the small hall went quiet in the way a room goes quiet when someone has found a thing that should not be there.
+
+Okoru rose and came to stand in front of Eden. "The shield."
+
+"Sir."
+
+"That hold again. Not by feel."
+
+"It was a drill."
+
+"That was not a drill." He looked at the construct, then at Eden's arm. "Somebody taught you to catch a blade like that."
+
+"Nobody taught me anything," Eden said.
+
+"Somebody did."
+
+He turned away before Eden could answer, and Lysette watched him go with her one whole baton held across her body.
+
+"Who signed the order?" she asked.
+
+"That is not today's lesson," Okoru said.
+
+"I will ask the office."
+
+"You will not like the answer."
+
+"Was the tag cut here?"
+
+He did not answer. He moved the stick aside and put a finger on the broken plate.
+
+Eden knelt to look. The cracked plate had opened along the shield's cut. Lysette crouched beside him and stopped.
+
+"That is not in the drill," she said.
+
+"No," Okoru said.
+
+Inside, where glass should have been, there was grey dust packed so tight that it kept the shape of the plate.

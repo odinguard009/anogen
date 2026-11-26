@@ -1,327 +1,639 @@
 [
   {
-    "chapter": 1,
-    "picks": {
-      "opening_type": "a countdown or deadline",
-      "scene_shape": "negotiation with hidden leverage",
-      "tension_type": "moral dilemma",
-      "emotional_tone": "relief with a catch",
-      "comic_device": "literal-minded reply",
-      "conflict_type": "battle of wits",
-      "pacing_shape": "fast start, slows into consequence",
-      "hook_type": "unexpected arrival"
-    }
-  },
-  {
     "chapter": 2,
     "picks": {
-      "opening_type": "a document, notice or letter",
-      "scene_shape": "quiet scene that turns sharply",
-      "tension_type": "physical danger",
-      "emotional_tone": "bittersweet gratitude",
-      "comic_device": "deadpan understatement",
-      "conflict_type": "siege or defence of a place",
-      "pacing_shape": "two spikes with a breather",
-      "hook_type": "decision with a price"
+      "opening_type": "action already in progress",
+      "scene_shape": "ensemble scene with conflicting goals",
+      "tension_type": "resource shortage",
+      "emotional_tone": "fear held in check",
+      "comic_device": "physical comedy with no food and no forms",
+      "conflict_type": "hunt against a creature",
+      "pacing_shape": "interrupted scene: cut away at the peak, return later",
+      "hook_type": "a promise or threat"
     }
   },
   {
     "chapter": 3,
     "picks": {
-      "opening_type": "an odd small observation",
-      "scene_shape": "preparation then execution",
+      "opening_type": "concrete setting detail",
+      "scene_shape": "cold open in action",
       "tension_type": "betrayal suspected",
-      "emotional_tone": "bitter irony",
-      "comic_device": "comic timing in the middle of a plan",
-      "conflict_type": "duel with a technical twist",
+      "emotional_tone": "relief with a catch",
+      "comic_device": "banter between allies",
+      "conflict_type": "ambush",
       "pacing_shape": "slow build to a sharp spike",
-      "hook_type": "a promise or threat"
+      "hook_type": "reveal that reframes the chapter"
     }
   },
   {
     "chapter": 4,
     "picks": {
       "opening_type": "concrete setting detail",
-      "scene_shape": "investigation that reveals a wrong assumption",
-      "tension_type": "hidden information",
-      "emotional_tone": "loneliness",
-      "comic_device": "dry self-deprecation",
-      "conflict_type": "losing fight with a costly exit",
-      "pacing_shape": "flat surface, tension underneath",
-      "hook_type": "emotional gut-punch"
+      "scene_shape": "two linked scenes with conflicting goals",
+      "tension_type": "social scrutiny",
+      "emotional_tone": "wary and teasing",
+      "comic_device": "an uninvited princess steals food",
+      "conflict_type": "sparring bout",
+      "pacing_shape": "quiet build into a sharp accident",
+      "hook_type": "a judgment that lands wrong"
     }
   },
   {
     "chapter": 5,
     "picks": {
-      "opening_type": "action already in progress",
-      "scene_shape": "cold open in action",
-      "tension_type": "outmatched opponent",
-      "emotional_tone": "awkward tenderness",
-      "comic_device": "a running gag, lightly touched",
-      "conflict_type": "ambush",
-      "pacing_shape": "mosaic of short scenes",
-      "hook_type": "question left open"
+      "opening_type": "concrete setting detail",
+      "scene_shape": "trapped fighter with three witnesses",
+      "tension_type": "equipment out of spec",
+      "emotional_tone": "fear held in check",
+      "comic_device": "dry banter at the gate",
+      "conflict_type": "out-of-spec construct",
+      "pacing_shape": "slow build to a sharp spike",
+      "hook_type": "a reveal that reframes the chapter"
     }
   },
   {
     "chapter": 6,
     "picks": {
-      "opening_type": "internal thought of the narrator",
-      "scene_shape": "two-person dialogue duel",
-      "tension_type": "social exposure",
-      "emotional_tone": "restrained grief",
-      "comic_device": "mismatched expectations",
-      "conflict_type": "escape under pressure",
-      "pacing_shape": "single long scene",
-      "hook_type": "quiet line that changes the stakes"
+      "opening_type": "concrete setting detail",
+      "scene_shape": "three linked scenes",
+      "tension_type": "quiet scrutiny",
+      "emotional_tone": "warm with an edge",
+      "comic_device": "rank numbers treated as a bad sum",
+      "conflict_type": "assignment and paperwork",
+      "pacing_shape": "small scenes building to one hard fact",
+      "hook_type": "an object with a wrong date"
     }
   },
   {
     "chapter": 7,
     "picks": {
-      "opening_type": "aftermath of an event, then back-fill",
-      "scene_shape": "negotiation with hidden leverage",
-      "tension_type": "unknown rules of a situation",
-      "emotional_tone": "relief with a catch",
-      "comic_device": "a character failing at a small task",
-      "conflict_type": "no combat: interpersonal conflict",
-      "pacing_shape": "fast start, slows into consequence",
-      "hook_type": "unexpected arrival"
+      "opening_type": "odd concrete object (bird in a telescope)",
+      "scene_shape": "three short scenes",
+      "tension_type": "routine interrupted",
+      "emotional_tone": "warm and funny",
+      "comic_device": "a ladle measured three times",
+      "conflict_type": "attendance paperwork",
+      "pacing_shape": "small scenes with a sharp last beat",
+      "hook_type": "someone writes him down"
     }
   },
   {
     "chapter": 8,
     "picks": {
-      "opening_type": "a countdown or deadline",
-      "scene_shape": "ensemble scene with conflicting goals",
-      "tension_type": "promise at risk",
-      "emotional_tone": "quiet warmth",
-      "comic_device": "deadpan understatement",
-      "conflict_type": "team fight with roles",
-      "pacing_shape": "two spikes with a breather",
-      "hook_type": "danger arrives"
+      "opening_type": "odd concrete detail (numbered doors)",
+      "scene_shape": "prep, dark room, classroom",
+      "tension_type": "someone else in the dark",
+      "emotional_tone": "quiet before trouble",
+      "comic_device": "a giant apologising to stone",
+      "conflict_type": "silent intruder in a dark room",
+      "pacing_shape": "slow build to one clean pin",
+      "hook_type": "a name he never gave"
     }
   },
   {
     "chapter": 9,
     "picks": {
-      "opening_type": "line of dialogue",
-      "scene_shape": "journey with one hard interruption",
-      "tension_type": "physical danger",
-      "emotional_tone": "pride that costs something",
-      "comic_device": "literal-minded reply",
-      "conflict_type": "siege or defence of a place",
-      "pacing_shape": "slow build to a sharp spike",
-      "hook_type": "a promise or threat"
+      "opening_type": "odd concrete detail (jumping clock hand)",
+      "scene_shape": "three rooms",
+      "tension_type": "bureaucratic pressure",
+      "emotional_tone": "warm but distant",
+      "comic_device": "a form with the wrong box",
+      "conflict_type": "official questioning",
+      "pacing_shape": "quiet scenes, last line lands",
+      "hook_type": "a document kept out of sight"
     }
   },
   {
     "chapter": 10,
     "picks": {
-      "opening_type": "an odd small observation",
-      "scene_shape": "preparation then execution",
-      "tension_type": "resource shortage",
-      "emotional_tone": "bitter irony",
-      "comic_device": "none this chapter",
-      "conflict_type": "duel with a technical twist",
-      "pacing_shape": "flat surface, tension underneath",
-      "hook_type": "emotional gut-punch"
+      "opening_type": "catalogue of small objects",
+      "scene_shape": "three rooms, one point of view",
+      "tension_type": "quiet self-examination",
+      "emotional_tone": "guarded and aching",
+      "comic_device": "a spoon returned with please",
+      "conflict_type": "paperwork and memory",
+      "pacing_shape": "slow turns, one last object",
+      "hook_type": "an object that was not washed"
     }
   },
   {
     "chapter": 11,
     "picks": {
-      "opening_type": "a direct question or order",
-      "scene_shape": "escape or pursuit",
-      "tension_type": "hidden information",
-      "emotional_tone": "awkward tenderness",
-      "comic_device": "banter between allies",
-      "conflict_type": "hunt against a creature",
-      "pacing_shape": "steady climb ending on a drop",
-      "hook_type": "reversal of fortune"
+      "opening_type": "lamp-lit concrete detail",
+      "scene_shape": "briefing then maze",
+      "tension_type": "graded clock",
+      "emotional_tone": "competitive and steady",
+      "comic_device": "counting a line as a door",
+      "conflict_type": "maze puzzle with constructs",
+      "pacing_shape": "alternating puzzle and fight",
+      "hook_type": "someone vanishes from a gallery"
     }
   },
   {
     "chapter": 12,
     "picks": {
-      "opening_type": "internal thought of the narrator",
-      "scene_shape": "cold open in action",
-      "tension_type": "moral dilemma",
-      "emotional_tone": "loneliness",
-      "comic_device": "a running gag, lightly touched",
-      "conflict_type": "losing fight with a costly exit",
-      "pacing_shape": "interrupted scene: cut away at the peak, return later",
-      "hook_type": "quiet line that changes the stakes"
+      "opening_type": "warm concrete object (a sun-warmed bench)",
+      "scene_shape": "two long talks and a short arrival",
+      "tension_type": "an honest question with no answer",
+      "emotional_tone": "quiet and trusting",
+      "comic_device": "a bun that is not a technically",
+      "conflict_type": "friendship without a trade",
+      "pacing_shape": "slow talk, small turn at the end",
+      "hook_type": "a second lunch and a line not looked at"
     }
   },
   {
     "chapter": 13,
     "picks": {
-      "opening_type": "concrete setting detail",
-      "scene_shape": "negotiation with hidden leverage",
-      "tension_type": "social exposure",
-      "emotional_tone": "dread under ordinary routine",
-      "comic_device": "comic timing in the middle of a plan",
-      "conflict_type": "no combat: interpersonal conflict",
-      "pacing_shape": "mosaic of short scenes",
-      "hook_type": "reveal that reframes the chapter"
+      "opening_type": "lamps and shadows in a small room",
+      "scene_shape": "silent kill then public inquiry",
+      "tension_type": "a witness who gets it almost right",
+      "emotional_tone": "cold and precise",
+      "comic_device": "a prefect correcting the hour twice",
+      "conflict_type": "Veil in a lamp-house",
+      "pacing_shape": "night spike, slow morning",
+      "hook_type": "a promise said to the wrong listener"
     }
   },
   {
     "chapter": 14,
     "picks": {
-      "opening_type": "action already in progress",
-      "scene_shape": "investigation that reveals a wrong assumption",
-      "tension_type": "promise at risk",
-      "emotional_tone": "bittersweet gratitude",
-      "comic_device": "dry self-deprecation",
-      "conflict_type": "battle of wits",
-      "pacing_shape": "single long scene",
-      "hook_type": "an action shown with no explanation"
+      "opening_type": "an object with a handwritten score",
+      "scene_shape": "campaign montage then one quiet discovery",
+      "tension_type": "paperwork closing in",
+      "emotional_tone": "funny turning gentle",
+      "comic_device": "runners charging each other for news",
+      "conflict_type": "attendance raid",
+      "pacing_shape": "fast middle, still ending",
+      "hook_type": "a secret kept without being asked"
     }
   },
   {
     "chapter": 15,
     "picks": {
-      "opening_type": "line of dialogue",
-      "scene_shape": "slow reveal in a single location",
-      "tension_type": "unknown rules of a situation",
-      "emotional_tone": "relief with a catch",
-      "comic_device": "the straight man loses his composure once",
-      "conflict_type": "trial or exam with rules",
-      "pacing_shape": "fast start, slows into consequence",
-      "hook_type": "unexpected arrival"
+      "opening_type": "thin sun on a stone court",
+      "scene_shape": "walk, bakery, dream",
+      "tension_type": "someone following at a known distance",
+      "emotional_tone": "guarded truce",
+      "comic_device": "runners charging each other for news",
+      "conflict_type": "quiet surveillance",
+      "pacing_shape": "slow walk ending on a cut-off voice",
+      "hook_type": "an unfinished sentence"
     }
   },
   {
     "chapter": 16,
     "picks": {
-      "opening_type": "a countdown or deadline",
-      "scene_shape": "quiet scene that turns sharply",
-      "tension_type": "physical danger",
-      "emotional_tone": "fierce resolve",
-      "comic_device": "none this chapter: humor only in narration",
-      "conflict_type": "ambush",
-      "pacing_shape": "flat surface, tension underneath",
-      "hook_type": "question left open"
+      "opening_type": "a posted challenge with seven words",
+      "scene_shape": "briefing then one long round",
+      "tension_type": "restraint under a public clock",
+      "emotional_tone": "formal and strained",
+      "comic_device": "a prefect adding the hour Valerius never writes",
+      "conflict_type": "formal Ladder duel",
+      "pacing_shape": "measured build with one ring at the end",
+      "hook_type": "a blade dropped on the chalk"
     }
   },
   {
     "chapter": 17,
     "picks": {
-      "opening_type": "a document, notice or letter",
-      "scene_shape": "escape or pursuit",
-      "tension_type": "outmatched opponent",
-      "emotional_tone": "pride that costs something",
-      "comic_device": "a character failing at a small task",
-      "conflict_type": "political maneuver",
-      "pacing_shape": "slow build to a sharp spike",
-      "hook_type": "a promise or threat"
+      "opening_type": "wet sand in a swept yard",
+      "scene_shape": "duel then bandage",
+      "tension_type": "timing a loss to a bell",
+      "emotional_tone": "controlled anger",
+      "comic_device": "linen pulled too tight on purpose",
+      "conflict_type": "rematch under judges",
+      "pacing_shape": "one long exchange ending on a bell",
+      "hook_type": "a quiet threat from a prince"
     }
   },
   {
     "chapter": 18,
     "picks": {
-      "opening_type": "an odd small observation",
-      "scene_shape": "two-person dialogue duel",
-      "tension_type": "moral dilemma",
-      "emotional_tone": "restrained grief",
-      "comic_device": "banter between allies",
-      "conflict_type": "team fight with roles",
-      "pacing_shape": "two spikes with a breather",
-      "hook_type": "quiet line that changes the stakes"
+      "opening_type": "folded note with a number said aloud",
+      "scene_shape": "four walks then one lane",
+      "tension_type": "a watcher who does not know he is watched",
+      "emotional_tone": "quiet and professional",
+      "comic_device": "a quince mistaken for an apple twice",
+      "conflict_type": "surveillance and silent takedown",
+      "pacing_shape": "repetition then one clean catch",
+      "hook_type": "a countdown to a masked night"
     }
   },
   {
     "chapter": 19,
     "picks": {
-      "opening_type": "concrete setting detail",
-      "scene_shape": "journey with one hard interruption",
-      "tension_type": "resource shortage",
-      "emotional_tone": "bitter irony",
-      "comic_device": "comic timing in the middle of a plan",
-      "conflict_type": "escape under pressure",
-      "pacing_shape": "mosaic of short scenes",
-      "hook_type": "a physical cost that arrives late"
+      "opening_type": "epigraph then a sign-up sheet",
+      "scene_shape": "lunch, kitchen, near-miss, door",
+      "tension_type": "a valve that changes its noise",
+      "emotional_tone": "loud comedy with a clean catch",
+      "comic_device": "a joke count that fails in a new way",
+      "conflict_type": "kitchen fire with no injury",
+      "pacing_shape": "steady mess, one fast beat, slow exit",
+      "hook_type": "a question written down as nobody"
     }
   },
   {
     "chapter": 20,
     "picks": {
-      "opening_type": "internal thought of the narrator",
-      "scene_shape": "investigation that reveals a wrong assumption",
-      "tension_type": "social exposure",
-      "emotional_tone": "fear held in check",
-      "comic_device": "literal-minded reply",
-      "conflict_type": "siege or defence of a place",
-      "pacing_shape": "uneven: a racing run-on, then one-line fragments",
-      "hook_type": "reveal that reframes the chapter"
+      "opening_type": "a room with no windows",
+      "scene_shape": "one council table, one slow exit",
+      "tension_type": "a question nobody wants to answer",
+      "emotional_tone": "dutiful and tired",
+      "comic_device": "three flags in one inch of map",
+      "conflict_type": "war council politics",
+      "pacing_shape": "quiet questions, one mild last line",
+      "hook_type": "a harmless question about lanterns"
     }
   },
   {
     "chapter": 21,
     "picks": {
-      "opening_type": "line of dialogue",
-      "scene_shape": "ensemble scene with conflicting goals",
-      "tension_type": "betrayal suspected",
-      "emotional_tone": "a loud character caught quiet and off-key",
-      "comic_device": "a side character steals the scene",
-      "conflict_type": "losing fight with a costly exit",
-      "pacing_shape": "single long scene",
-      "hook_type": "an action shown with no explanation"
+      "opening_type": "paperwork proliferation",
+      "scene_shape": "invitation then roof conversation",
+      "tension_type": "an honest memory with no answer",
+      "emotional_tone": "sad and restrained",
+      "comic_device": "four seconds of looking at a collar",
+      "conflict_type": "a secret kept in front of a friend",
+      "pacing_shape": "busy morning, long still evening",
+      "hook_type": "a decision said as a joke"
     }
   },
   {
     "chapter": 22,
     "picks": {
-      "opening_type": "a direct question or order",
-      "scene_shape": "slow reveal in a single location",
-      "tension_type": "unknown rules of a situation",
-      "emotional_tone": "dread under ordinary routine",
-      "comic_device": "deadpan understatement",
-      "conflict_type": "battle of wits",
-      "pacing_shape": "steady climb ending on a drop",
-      "hook_type": "unexpected arrival"
+      "opening_type": "a borrowed shadow carried like a coat",
+      "scene_shape": "lane briefing then three-room cellar",
+      "tension_type": "children in the next room",
+      "emotional_tone": "cold and exact",
+      "comic_device": "a dead man's voice giving drill orders",
+      "conflict_type": "armed cell cleared one leader at a time",
+      "pacing_shape": "slow entry, three clean beats, one last line",
+      "hook_type": "an enemy already ahead of the hero"
     }
   },
   {
     "chapter": 23,
     "picks": {
-      "opening_type": "a document, notice or letter",
-      "scene_shape": "escape or pursuit",
-      "tension_type": "outmatched opponent",
-      "emotional_tone": "pride that costs something",
-      "comic_device": "physical comedy with no food and no forms",
-      "conflict_type": "ambush",
-      "pacing_shape": "fast start, slows into consequence",
-      "hook_type": "decision with a price"
+      "opening_type": "boarded windows and a boy with a bell",
+      "scene_shape": "street armor-up, silent surrender, two small objects",
+      "tension_type": "an expected visit turned around",
+      "emotional_tone": "cold and certain",
+      "comic_device": "Gorrath counting wrong out of thirteen shadows",
+      "conflict_type": "locked-house raid without a fight",
+      "pacing_shape": "set piece, quick room, slow pocket",
+      "hook_type": "an order not to attend"
     }
   },
   {
     "chapter": 24,
     "picks": {
-      "opening_type": "a countdown or deadline",
-      "scene_shape": "preparation then execution",
-      "tension_type": "a secret one slip from being said aloud",
-      "emotional_tone": "loneliness",
-      "comic_device": "the straight man loses his composure once",
-      "conflict_type": "hunt against a creature",
-      "pacing_shape": "flat surface, tension underneath",
-      "hook_type": "danger arrives"
+      "opening_type": "clouded glass and a cold rail",
+      "scene_shape": "roof conversation then hall siege",
+      "tension_type": "forty hostages and no knife moved",
+      "emotional_tone": "sad turning urgent",
+      "comic_device": "Rowan trying to sit down in front of Clara",
+      "conflict_type": "lit hall seized from the galleries",
+      "pacing_shape": "long still talk, one fast catch, hard stop",
+      "hook_type": "a name shouted for the wrong reason"
     }
   },
   {
     "chapter": 25,
     "picks": {
-      "opening_type": "aftermath of an event, then back-fill",
-      "scene_shape": "quiet scene that turns sharply",
-      "tension_type": "hidden information",
-      "emotional_tone": "irritation that hides worry",
-      "comic_device": "mismatched expectations",
-      "conflict_type": "team fight with roles",
-      "pacing_shape": "fast dialogue sprint, then one slow paragraph",
-      "hook_type": "a small lie gets caught by the wrong person"
+      "opening_type": "a guard described before he appears",
+      "scene_shape": "hostage hall with one moving shadow",
+      "tension_type": "a knife at every third throat",
+      "emotional_tone": "tense and exact",
+      "comic_device": "Merrow checking a blade like a button",
+      "conflict_type": "lit hall with grafted Crowns",
+      "pacing_shape": "setup, first use, then a chain of small moves",
+      "hook_type": "a witness with too little to write"
+    }
+  },
+  {
+    "chapter": 26,
+    "picks": {
+      "opening_type": "soot on a cuff after a siege",
+      "scene_shape": "one long rooftop conversation and a silent dawn",
+      "tension_type": "a question with two words and one answer",
+      "emotional_tone": "tender without being named",
+      "comic_device": "standing on a foot on purpose",
+      "conflict_type": "what to say and what not to say",
+      "pacing_shape": "slow talk, small smile, long sleep",
+      "hook_type": "a handkerchief washed and put back"
+    }
+  },
+  {
+    "chapter": 27,
+    "picks": {
+      "opening_type": "damp ink on a steam-press paper",
+      "scene_shape": "paper, board, locket",
+      "tension_type": "a year printed where a friend can see it",
+      "emotional_tone": "quiet and dated",
+      "comic_device": "Felix framing rank nineteen",
+      "conflict_type": "public ranking and private evidence",
+      "pacing_shape": "three objects, one held look",
+      "hook_type": "an inquiry pinned to a board"
+    }
+  },
+  {
+    "chapter": 28,
+    "picks": {
+      "opening_type": "a quiet train explained by its rails",
+      "scene_shape": "arrival, family, road, dinner",
+      "tension_type": "polite violence at the table",
+      "emotional_tone": "loud and warm",
+      "comic_device": "a pistol that misfires twice at the same man",
+      "conflict_type": "bandits handled between courses",
+      "pacing_shape": "steady comedy with one unexplained bell",
+      "hook_type": "a question about which one is acting"
+    }
+  },
+  {
+    "chapter": 29,
+    "picks": {
+      "opening_type": "a tea spoon standing in a cup",
+      "scene_shape": "breakfast, lake, dream board",
+      "tension_type": "a truth cut short by love",
+      "emotional_tone": "warm and unfinished",
+      "comic_device": "fish for breakfast as a personal insult",
+      "conflict_type": "what a father cannot say",
+      "pacing_shape": "short talk, long silence, small object",
+      "hook_type": "a crown missing its centre"
+    }
+  },
+  {
+    "chapter": 30,
+    "picks": {
+      "opening_type": "an epigraph about ballads and truth",
+      "scene_shape": "two papers, one chapel hour",
+      "tension_type": "a question in a clerk's hand",
+      "emotional_tone": "quiet and controlled",
+      "comic_device": "four copies of a confiscated ballad",
+      "conflict_type": "a father reading a file about his son",
+      "pacing_shape": "slow questions, one long silence",
+      "hook_type": "a horse asked for without a reason"
+    }
+  },
+  {
+    "chapter": 31,
+    "picks": {
+      "opening_type": "brown snow and dust on the teeth",
+      "scene_shape": "arrival, lesson, probe, birds",
+      "tension_type": "a different kind of war",
+      "emotional_tone": "cold and watchful",
+      "comic_device": "Felix comparing a bunk to a stable bench",
+      "conflict_type": "a Husk probe handled by veterans",
+      "pacing_shape": "quiet lesson, short fight, one silent flight",
+      "hook_type": "all the birds leave together"
+    }
+  },
+  {
+    "chapter": 32,
+    "picks": {
+      "opening_type": "three signs drawn in the air",
+      "scene_shape": "briefing then silent battle then long quiet",
+      "tension_type": "no voices allowed",
+      "emotional_tone": "focused and cold",
+      "comic_device": "pointing declared a full language",
+      "conflict_type": "Husks climbing in a Choir silence",
+      "pacing_shape": "short beats in long quiet",
+      "hook_type": "something breathing under the drain"
+    }
+  },
+  {
+    "chapter": 33,
+    "picks": {
+      "opening_type": "four strikes and a pause on a wire",
+      "scene_shape": "inspection, overheard line, scarf",
+      "tension_type": "not being recognised in plain sight",
+      "emotional_tone": "warm line in cold weather",
+      "comic_device": "pointing at a ladle measured on rope",
+      "conflict_type": "royal inspection",
+      "pacing_shape": "public day, one private object",
+      "hook_type": "a mother named by a king"
+    }
+  },
+  {
+    "chapter": 34,
+    "picks": {
+      "opening_type": "a tank under the Wall that holds a voice",
+      "scene_shape": "briefing, descent in water, short hard light",
+      "tension_type": "a shadow that will not hold still",
+      "emotional_tone": "tight and cold",
+      "comic_device": "a report with two lines and a refusal",
+      "conflict_type": "Choir node in a cistern",
+      "pacing_shape": "slow search, one bright breath, long look",
+      "hook_type": "something taller than the clouds"
+    }
+  },
+  {
+    "chapter": 35,
+    "picks": {
+      "opening_type": "bread ringing on a table",
+      "scene_shape": "camp comedy turning into one told story",
+      "tension_type": "a number corrected in public",
+      "emotional_tone": "funny then still",
+      "comic_device": "a joke count reaching seventy-nine",
+      "conflict_type": "a secret told sideways",
+      "pacing_shape": "many small jokes, one long memory",
+      "hook_type": "a form that will not stop shaking"
+    }
+  },
+  {
+    "chapter": 36,
+    "picks": {
+      "opening_type": "a smell carried in a report",
+      "scene_shape": "street warning, lit roll room, dark exit",
+      "tension_type": "the whole room would defend the target",
+      "emotional_tone": "exact and quick",
+      "comic_device": "making a line for a boy off every roll",
+      "conflict_type": "Veil in a garrison roll room",
+      "pacing_shape": "quiet entry, one bright trick, hard walk",
+      "hook_type": "a name spoken by a veteran"
+    }
+  },
+  {
+    "chapter": 37,
+    "picks": {
+      "opening_type": "a courier who refuses to sit down",
+      "scene_shape": "five sheets in an empty hut",
+      "tension_type": "a document that knows more than the man",
+      "emotional_tone": "flat and careful",
+      "comic_device": "a bun does not count as lunch",
+      "conflict_type": "reading a file about yourself",
+      "pacing_shape": "slow pages, one missing ending",
+      "hook_type": "pages removed before the copy"
+    }
+  },
+  {
+    "chapter": 38,
+    "picks": {
+      "opening_type": "a curtain catching in a brazier's heat",
+      "scene_shape": "fire then one long confession then a week",
+      "tension_type": "four answers and none said",
+      "emotional_tone": "held and sad",
+      "comic_device": "Rowan counting trees that do not grow sand",
+      "conflict_type": "a secret kept inside arm's reach",
+      "pacing_shape": "fast alarm, still story, slow week",
+      "hook_type": "a threat made gentle"
+    }
+  },
+  {
+    "chapter": 39,
+    "picks": {
+      "opening_type": "bottles knocking in an oil crate",
+      "scene_shape": "stair question, wall conversation, under-camp line",
+      "tension_type": "a truth given sideways",
+      "emotional_tone": "steady with one quiet turn",
+      "comic_device": "writing a face no one can read",
+      "conflict_type": "friendship explained by a third person",
+      "pacing_shape": "talk, story, small physical task",
+      "hook_type": "a distance measured in one word"
+    }
+  },
+  {
+    "chapter": 40,
+    "picks": {
+      "opening_type": "an epigraph about boxes for the dead",
+      "scene_shape": "night office with four stacks of paper",
+      "tension_type": "what a secretary refuses to fetch",
+      "emotional_tone": "dry and careful",
+      "comic_device": "socks logged as equipment, not a gift",
+      "conflict_type": "filing what cannot be said",
+      "pacing_shape": "one page at a time to a last click",
+      "hook_type": "a pair of boots reported missing"
+    }
+  },
+  {
+    "chapter": 41,
+    "picks": {
+      "opening_type": "a roll call with a sleeping boy",
+      "scene_shape": "days above, nights below",
+      "tension_type": "a tunnel that breathes under the camp",
+      "emotional_tone": "quiet and cold",
+      "comic_device": "a pillow thrown at Rowan, first ever",
+      "conflict_type": "scouting a living tunnel",
+      "pacing_shape": "short surface scenes, long crawl",
+      "hook_type": "a boot print pointing inward"
+    }
+  },
+  {
+    "chapter": 42,
+    "picks": {
+      "opening_type": "a voice answering from a boot",
+      "scene_shape": "roll call, snow war, blanket, question",
+      "tension_type": "a trick almost caught",
+      "emotional_tone": "funny then quiet",
+      "comic_device": "eating a snow fort as a snack",
+      "conflict_type": "an attendance raid against thirteen voices",
+      "pacing_shape": "many small jokes, one still last page",
+      "hook_type": "a place that does not exist"
+    }
+  },
+  {
+    "chapter": 43,
+    "picks": {
+      "opening_type": "snow moving sideways at the corner",
+      "scene_shape": "storm watch with four small conversations",
+      "tension_type": "a truth said quietly in the cold",
+      "emotional_tone": "tender and restrained",
+      "comic_device": "Rowan asking the same three questions",
+      "conflict_type": "what a friend will not write down",
+      "pacing_shape": "cold outside, one warm moment, cold again",
+      "hook_type": "a shadow that ignores the breath"
+    }
+  },
+  {
+    "chapter": 44,
+    "picks": {
+      "opening_type": "a shield named in a dream",
+      "scene_shape": "dream lesson then dark tunnel",
+      "tension_type": "watcher behind a man who notices everything",
+      "emotional_tone": "quiet and exact",
+      "comic_device": "sneezing into a sleeve on orders",
+      "conflict_type": "one arrow in total silence",
+      "pacing_shape": "two lessons, one shot, one warm floor",
+      "hook_type": "heat running toward a sleeping camp"
+    }
+  },
+  {
+    "chapter": 45,
+    "picks": {
+      "opening_type": "a question asked at a lamp bracket",
+      "scene_shape": "quiet exposure, replay, memory, fire",
+      "tension_type": "a beloved man who is not a man",
+      "emotional_tone": "cold then catastrophic",
+      "comic_device": "nobody answering the man who asks about the brackets",
+      "conflict_type": "Veil exposed before an army opens",
+      "pacing_shape": "slow proof, short memory, sudden opening",
+      "hook_type": "the wrong side of a fire"
+    }
+  },
+  {
+    "chapter": 46,
+    "picks": {
+      "opening_type": "a count of forty in a burning yard",
+      "scene_shape": "evacuation, wagon Door, two first attacks",
+      "tension_type": "forty people and one open gate",
+      "emotional_tone": "urgent and exact",
+      "comic_device": "muskets fouling in a mana haze",
+      "conflict_type": "Husks and Embers moving together",
+      "pacing_shape": "one order, one long crossing, one run",
+      "hook_type": "a rescuer becoming the exposed one"
+    }
+  },
+  {
+    "chapter": 47,
+    "picks": {
+      "opening_type": "a corridor measured in paces and doors",
+      "scene_shape": "two defenders, one loan, one count",
+      "tension_type": "one man cannot hold both doors",
+      "emotional_tone": "held and urgent",
+      "comic_device": "a shield that comes like a dog to a whistle",
+      "conflict_type": "holding a corridor while the fire closes",
+      "pacing_shape": "steady strikes ending on a count",
+      "hook_type": "a friend asking only for orders"
+    }
+  },
+  {
+    "chapter": 48,
+    "picks": {
+      "opening_type": "a vice-headmaster apologising to a fire",
+      "scene_shape": "search, grapple, sudden hostage",
+      "tension_type": "a knife at a throat in plain view",
+      "emotional_tone": "hard and hot",
+      "comic_device": "apologising to a fallen board",
+      "conflict_type": "grafted Crown in the tent rows",
+      "pacing_shape": "calm first, long fight, one stop",
+      "hook_type": "a question asked at knife point"
+    }
+  },
+  {
+    "chapter": 49,
+    "picks": {
+      "opening_type": "a hostage who has stopped shaking",
+      "scene_shape": "false awakening, look, seam, replay",
+      "tension_type": "a name shouted at a silent bell tower",
+      "emotional_tone": "cold and terrible",
+      "comic_device": "an apologetic order not to shoot",
+      "conflict_type": "hostage at knife point with a dying Crown",
+      "pacing_shape": "long hold, one look, one cut, one replay",
+      "hook_type": "dust that refuses to fall"
+    }
+  },
+  {
+    "chapter": 50,
+    "picks": {
+      "opening_type": "a count written twice on damp paper",
+      "scene_shape": "morning count, descent, deathbed, gate",
+      "tension_type": "a mother's name carried by a dying stranger",
+      "emotional_tone": "quiet after catastrophe",
+      "comic_device": "carrying someone four steps because four was offered",
+      "conflict_type": "closing a nest under a camp",
+      "pacing_shape": "long morning ending on a small question",
+      "hook_type": "a question asked for no answer"
     }
   }
 ]

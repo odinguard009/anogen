@@ -26,15 +26,11 @@ She sat down on the iron rail with her gown held away from the stone, the blue s
 
 "No."
 
-Her mouth moved at that, almost a smile, and then it did not. She looked through the glass at the dance floor, and her hands went still on the rail. "Did they light?" she asked. "The lanterns."
+Her mouth moved at that, almost a smile, and then it did not. She looked through the glass at the dance floor, and her hands went still on the rail. "Did the lanterns all light?" she asked. "I helped hang them."
 
-"Yes."
+"Yes. All of them."
 
-"All of them. From the first bell." She wiped one cheek with the back of her wrist and was careful not to touch her face where the powder might come off. "You asked me that once about Rowan's lantern. I have been waiting to ask it back."
-
-"Yes. They lit."
-
-"Then that is something." The band below began a fast tune, and two prefects moved through the crowd carrying trays of cups, and a girl in a yellow dress turned in a circle by herself until a boy laughed and took her hand. Lysette watched all of it through the glass. "Why are you up here?"
+"Then that is something." She wiped one cheek with the back of her wrist, careful not to touch her face where the powder might come off. The band below began a fast tune, and two prefects moved through the crowd carrying trays of cups, and a girl in a yellow dress turned in a circle by herself until a boy laughed and took her hand. Lysette watched all of it through the glass. "Why are you up here?"
 
 "It is quiet."
 
@@ -42,15 +38,11 @@ Her mouth moved at that, almost a smile, and then it did not. She looked through
 
 "I am seeing it from here."
 
-"From a roof." She said it without heat, which was worse. "I am going to ask you one question and you may answer it badly."
+"From a roof." She said it without heat, which was worse. "I wanted to ask you something tonight." She opened her mouth, shut it, and put her hands flat on the rail. "No. Not tonight."
 
-"Yes."
+She turned her head and looked along the roof rather than at him. "Everyone is down there, even the Committee. I am up here. I do not know which of us is in the worse place."
 
-She opened her mouth, shut it, and put her hands flat on the rail. "No. Not tonight."
-
-The band stopped for a second time and the room below clapped. Lysette did not ask the lantern question again. She turned her head and looked along the roof rather than at him, which was how she said the next part. "Everyone is down there. The Committee is down there, and I am up here, and I am not sure which of those is worse."
-
-"The band is better from here."
+"The band sounds better from here."
 
 "That is a stupid thing to say."
 
@@ -86,9 +78,9 @@ One of them put a short blade to a prefect's neck and told the room, loudly and 
 
 For a moment nobody in the hall understood what they had seen. A woman near the south door began to scream. The man beside her put a hand over her mouth, not unkindly, because a blade was already at the next throat.
 
-Eden stayed on his stomach with his hand flat on the cold glass, and the roof was very quiet. He could not go down. Fourteen blades were in the room, and he had one Door that had already cost him an arm. Ysolde's order still held: not seen, not yet. What he could do was count, and he counted.
+Eden stayed on his stomach with his hand flat on the cold glass, and the roof was very quiet. He thought it through once, plainly. If he went down in armor, four hundred people would see the Thirteenth Vigil, and every student would tell the story by morning. If he stayed, fourteen armed men held the room, but they had come for two guests, not a massacre. They would not kill before they had what they came for. That gave him a little time, and he meant to use it. He could not go down yet. Fourteen blades were in the room, and he had one Door that had already cost him an arm. Ysolde's order still held: not seen, not yet. What he could do was count, and he counted.
 
-The band stopped. Two hundred people stood still under the roof glass. The only thing moving in the hall was the chain end of the chandelier, swinging over an empty floor.
+The band stopped. Four hundred people stood still under the roof glass. The only thing moving in the hall was the chain end of the chandelier, swinging over an empty floor.
 
 Lysette was on her feet at the rail with both hands on the iron. "The Ashen Crowns," she said. "They are in the hall."
 
@@ -104,15 +96,15 @@ Lysette was on her feet at the rail with both hands on the iron. "The Ashen Crow
 
 "Then why is her hand shaking?" Lysette asked.
 
-"It was shaking before."
+"She is afraid."
 
-Lysette looked at him once, hard, through the clouded glass. "You knew the chandelier would fall."
+Lysette looked at him once, hard, through the clouded glass. "You looked at the chandelier before it moved."
 
-"I knew where its shadow was."
+"I watch things."
 
-"That is not an answer."
+"That is all you will say."
 
-"It is the one I have." She did not ask again, which was the thing she had promised herself not to do.
+"Yes." She did not ask again, which was what she had promised herself.
 
 "Rowan is by the band." Lysette's fingers went white on the rail. "Clara is with him."
 

@@ -42,7 +42,7 @@ Clara understood sooner. She sat on the wall with a needle and thread, mending a
 
 Rowan sat down on the stone. For once he did not say anything quickly. "I thought she did not like me."
 
-"She likes you. She likes all of us. She does not know where to put it." Clara put the needle in the spool. "You can help. Do not argue when she writes you up. Just say, 'Yes, I was late,' and go on. It gives her one thing that is easy."
+"She likes you. She likes all of us. And she watches you more than anyone else, which is why she notices when you are late. She does not know where to put it." Clara put the needle in the spool. "You can help. Do not argue when she writes you up. Just say, 'Yes, I was late,' and go on. It gives her one thing that is easy."
 
 "That is a lot to ask of me."
 
@@ -132,7 +132,7 @@ When he came up, Vesk was sitting on the step outside the stores with his coat p
 
 "Tell me."
 
-"The Mawgate is closer than the maps say." Vesk stood and brushed the dust off his coat, and not all of it came off. "The maps put it past the far ditch, a long walk away. It is not. I smelled it in the water. It is under this camp."
+"The Mawgate is closer than the maps say." Vesk stood and brushed the dust off his coat, and not all of it came off. "The maps put it past the far ditch, a long walk away. It is not. I smelled it in the water. It is under this camp. A Mawgate is warm before it opens, Eden. Put your hand on the ground. If it is warm, it is close."
 
 Eden looked at the dark line of the ditch where he had laid his oil. The cold had come through his gloves without his noticing. He thought of the two hollow places under his heel. "How far under?"
 

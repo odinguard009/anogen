@@ -42,9 +42,9 @@ Rowan shifted his spear from one hand to the other. "I'll go first."
 
 "I won last time."
 
-"That is not a reason."
+"Winning once does not give you the next turn."
 
-"It is today." She walked past him into the passage, and Rowan let her go with his mouth shut.
+"Today it does." She walked past him into the passage, and Rowan let her go with his mouth shut.
 
 Clara touched his sleeve. "You hit her arm yesterday."
 
@@ -168,7 +168,7 @@ Clara came to Eden first, not to Lysette. She took his left wrist and turned the
 
 "I can hold a spoon."
 
-"That is not the test." She pressed two fingers into the heel of his palm, and a warm thread ran up into the wrist and stopped at the elbow, as if it had met a closed door. Clara frowned at her own hand. "Odd. It does not want to go further."
+"Holding a spoon proves nothing." She pressed two fingers into the heel of his palm, and a warm thread ran up into the wrist and stopped at the elbow, as if it had met a closed door. Clara frowned at her own hand. "Odd. It does not want to go further."
 
 "It is only a bruise."
 

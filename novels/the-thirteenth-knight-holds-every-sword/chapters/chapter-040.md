@@ -16,7 +16,7 @@ He went. The clock went on clicking.
 
 The file on her desk was Eden's PR 110 file. She had read it twice. The first time she looked for what it said. The second time she looked for what it did not say. That was the better way to read a file, and it told her something the first reading had not.
 
-The last page was missing. The list of pages was still there at the end, and it named a witness statement, a note about the dead man's family, and a note about the result. Someone had taken those pages out before the file was copied. They had left the list behind on purpose, so that a clerk would think the file was complete. Ysolde put a finger on the list. The paper there was newer than the rest. The numbers on the pages ran from one to forty, then jumped to forty-two. Page forty-one was gone.
+The last page was missing. The list of pages was still there at the end, and it named six items, from the cover sheet down to the outcome of the case. The last two lines, next of kin and outcome, had been struck out, and the pages for them were not in the file. Someone had taken those pages out before the file was copied. They had left the list behind on purpose, so that a clerk would think the file was complete. Ysolde put a finger on the list. The paper there was newer than the rest. The file held five sheets, and the page numbers on them ran one, two, three, four, and then six. Number five was gone.
 
 The stamp on the last page was a day older than the stamp on the first. That meant the file had been closed before the events in it were finished. Ysolde laid a ruler under the stamp and saw that it sat a little too low. Someone had stamped it by hand, in a hurry, with the seal turned the wrong way.
 

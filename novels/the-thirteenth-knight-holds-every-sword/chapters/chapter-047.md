@@ -44,7 +44,7 @@ The Dragon spoke in his head, dry and quick. *You are about to lend what is not 
 
 *It will answer to him only if he gives you his middle name. Names cannot be taken. They can only be given.* A pause. *Do you want it badly enough to ask?*
 
-Eden had asked Felix for it once, in the autumn, over a bun, in a plain voice. Felix had said it without asking why. That was how it stood now.
+Felix had said his middle name aloud once, in the autumn, to Lysette and Eden. Eden had kept it. That was how it stood now.
 
 He knocked three times on the stone with the iron ring.
 
@@ -52,7 +52,7 @@ He knocked three times on the stone with the iron ring.
 
 Three knocks was not a sound anyone made by accident in a fight. Felix turned. He put out his hand and said, in a clear voice, "Perrin."
 
-It was his middle name. Eden had known it for years. A name could only be given. Nobody had taken it from him, and he had given it freely, because Eden had asked.
+It was Felix's middle name. He had said it aloud once, in the autumn, and Eden had kept it. A name could only be given. Nobody had taken it from him, and now he gave it again, freely, to a shield.
 
 A second shield rose out of the shadow at Eden's feet, and crossed the corridor in a blink, and was in Felix's hand in the time it takes to turn. It was a round shield with a plain iron face and a strap worn smooth by someone else's hand. **[Thessa]** came when called, the way a dog comes to a whistle, and it always went back to its owner in the end. For now, because Eden had lent it, it stayed with Felix.
 
@@ -154,7 +154,7 @@ From the stone behind the turn Clara spoke without lifting her head. "Eden."
 
 "We can hold twenty," Rowan agreed, as if he had thought of it.
 
-Eden looked at the three of them, at a shield he had lent and a girl whose arm was marked and a boy who would not stop smiling because he did not know how. He had no right to be proud of them. He was, and he put it away where he kept the rest.
+Eden looked at the three of them, at a shield he had lent and a girl whose arm was marked and a boy who would not stop smiling because he did not know how. He looked at them one breath longer than he needed to, and then he went to the near door.
 
 Eden put the ring against the near door and heard the next blow coming before it arrived. Behind him, through the stone, something much larger than a Husk was walking in the yard. The walls carried each step into his boots. It was not hurrying.
 

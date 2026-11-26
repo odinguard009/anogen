@@ -48,7 +48,7 @@ Halvard Strent met him at the stairs with a cup of tea and a sheet of paper. "I 
 
 "Then I will leave it." Strent looked at the grey on Eden's sleeves and did not ask about it. "You should sleep. I will write the rest."
 
-By the fourth bell the camp was making its ordinary noises again. A cook shouted about bread. Two prefects argued about a form. The lower-city children sat in the sun by the kitchen door with two blankets and a heap of loaves between them. The smallest one counted the loaves over and over. Nobody had given him anything else to do.
+By the fourth bell the camp was making its ordinary noises again. A cook shouted about bread. Two prefects argued about a form. The lower-city children sat in the sun by the kitchen door with two blankets and a heap of loaves between them. The smallest one counted the loaves over and over. Nobody had given him anything else to do. Eden stopped beside him and told him there were nine loaves, and the boy said thank you and counted them again to check.
 
 Felix stood at the gate with a roll in his hand and a face that had not changed all night. "Eaten today?" he asked, when Eden came by.
 
@@ -66,7 +66,7 @@ Vesk waited at the side of the stores, where the light was poor. He lifted his n
 
 "It is good for the camp." Vesk's yellow eyes did not leave Eden's face. "It means you know how to cut one. Someone will ask how you learned." He pulled his coat tight. "I will not ask. I only say it, so that you hear it from me first."
 
-Eden nodded. He had not yet thought about who might ask. Okoru stood at the infirmary door with his stick, listening to none of it, and looked at Eden's left glove for a moment. "Wear it," he said, quietly, "until you are somewhere safe." Eden did not know whether he meant the glove or something else. He said that he would, and Okoru nodded, and went back to counting the sleepers on the cots, one by one, as if that were all he had come to do.
+Eden nodded. He had not yet thought about who might ask, or what he would say if the question came from someone he could not refuse. Okoru stood at the infirmary door with his stick, listening to none of it. He looked at Eden's left glove for a moment and said nothing. Then he went back to counting the sleepers on the cots, one by one, as if that were all he had come to do.
 
 A soldier called from the infirmary door.
 
@@ -114,7 +114,7 @@ She stopped at the gate without turning round.
 
 "Did you sleep?"
 
-He did not need the answer. He asked it because she was standing with her back to him, and because his thumb had found the worn place in the scarf where her hand had held it. It was the first time he had wanted one person to see him, and he was afraid of it.
+He did not need the answer. He asked it because she was standing with her back to him, and because his thumb had found the worn place in the scarf where her hand had held it. His hand stayed closed on the scarf.
 
 "No," she said. She did not turn. "Did you?"
 

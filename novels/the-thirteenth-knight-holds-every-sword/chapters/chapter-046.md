@@ -102,7 +102,7 @@ Felix stood at the step with an arrow on the string. He had no clean shot throug
 
 * * *
 
-The main gate burst open, and a Lance came over the burning timbers, late and furious. Valerius was at the head of them with his sword drawn and his coat scorched down one side. He was a prince's son, and he had come from the north camp when he saw the sky.
+The main gate burst open, and a Lance came over the burning timbers, late and furious. Valerius was at the head of them with his sword drawn and his coat scorched down one side. He was the crown prince, and he had come as soon as he saw the sky.
 
 He stopped when he saw the yard. For one breath a thin skin of frost ran across the wall beside him, white and sudden, and then it melted into water. He looked at the frost, then at his own hand, which shook once. He looked at Eden. Eden's face showed nothing, and Valerius, who had expected a question, said nothing either. Behind him the Lance came through the gate in a tight line with their shields up. None of them mentioned the frost. They had been taught to ignore what their officers did not mention, and tonight that training was worth more to Valerius than a second sword.
 

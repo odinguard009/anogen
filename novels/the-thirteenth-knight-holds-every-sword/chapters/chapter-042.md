@@ -111,7 +111,7 @@ Seraphine came past Eden with a card and a pencil. On the card she kept a number
 
 Felix turned a page in his book and did not read it. The corner of his mouth moved once. Eden noticed. He did not say so.
 
-Seraphine stopped by the stores step on her way back to the fort. She was Eden's twin, and she was the only person at the Wall who spoke to him like a sister. She sat beside him, brushed snow off her knee, and spoke without looking.
+Seraphine stopped by the stores step on her way back to the fort. She was Valerius's twin, and an old friend of Eden's from the school, and she was the only person at the Wall who spoke to him without care for rank. She sat beside him, brushed snow off her knee, and spoke without looking.
 
 "You look terrible."
 

@@ -20,7 +20,7 @@ Clara passed with a basin, saw the mud on the bottom of Eden's blanket, and took
 
 Felix noticed the grey on his boots at breakfast. He looked at it and said, "That is not snow mud." Then he looked at Eden's face, and chose a different sentence. "You should oil those. They will crack." He passed the oil tin across the table with his book open on his knee, and he did not ask where the boots had been.
 
-On the third day Rowan tried to wake him for drill and got a pillow in the face. Eden had thrown it before he was fully awake. It was the first time he had thrown anything at anyone. Rowan stood with the pillow in both hands, looked at it, and grinned. "Good arm," he said. "Sleep, then." He went away happy, and Eden lay awake a while, surprised at himself.
+On the third day Rowan tried to wake him for drill and got a pillow in the face. Eden had thrown it before he was fully awake. Rowan stood with the pillow in both hands, looked at it, and grinned. "Good arm," he said. "Sleep, then." He went away happy, and Eden lay awake a while, looking at the ceiling.
 
 By day he slept. At roll call Lysette wrote *Wren, tired* each morning. She did not argue about it any more.
 
@@ -60,7 +60,7 @@ On the second night he found the mouth.
 
 It lay under the stores, almost beneath the oil line he had laid. A crack ran across the floor of the tunnel. Water went into it and did not come out anywhere that he could see. Eden put his hand in the water and felt it pull toward the crack with no slope to explain it. Around the rim of the crack ran a line of grey dust, fine as flour, packed into the stone joints. It was the same dust he had seen in the exchange and in the construct.
 
-The floor was warm. Warmer than the snow above it, and the warmth came from below, not from the camp. He put his bare palm on the stone and it stayed warm. Vesk had said at the fire that a Mawgate was warm before it opened. Eden wrote that on the back of a Form 13-B, with the measurements, in pencil.
+The floor was warm. Warmer than the snow above it, and the warmth came from below, not from the camp. He put his bare palm on the stone and it stayed warm. Vesk had said on the stair that a Mawgate was warm before it opened. Eden wrote that on the back of a Form 13-B, with the measurements, in pencil.
 
 Deep in the tunnel, with the lamp shut, his reading went blank for one heartbeat.
 

@@ -32,7 +32,7 @@ When the bowls were empty, Clara stood and took Eden's sleeve between two finger
 
 "Then do it after. Please, Eden."
 
-He did not want to sit with a girl whose brother he had cut down. He did not know that it was true. That was the problem. He had a form request in a courier's pocket, and it would tell him whether it was true, and he had asked for it three nights ago and was no longer sure he wanted the answer. He said, "I will come after the third bell."
+He did not know whether he had cut down this girl's brother. That was the problem. He had a form request in a courier's pocket, and it would tell him whether it was true, and he had asked for it three nights ago and was no longer sure he wanted the answer. He said, "I will come after the third bell."
 
 "Thank you." Clara let go of his sleeve. She did not smile. She went back into the tent and sat down beside Lysette without a word.
 
@@ -40,7 +40,7 @@ He did not want to sit with a girl whose brother he had cut down. He did not kno
 
 There was an empty store hut behind the wall, with a bench and no window on the north side. It had held lamp oil in the autumn and still smelled of it. Eden went there at the third bell and sat with his back to the door. He opened the envelope with a pencil so that he would not tear the paper with his gloves.
 
-The file held five sheets. The first was a cover, stamped PR 110. The second named the house and the date, and beside a name it said CONFIRMED. The name was Corentin, Lysette's brother. The sheet gave it in full: Corentin Hollen, age sixteen. Eden had seen that name's owner a month ago, in a locket, as a young man's face.
+The file held five sheets. The first was a cover, stamped PR 110. The second named the house and the date, and beside a name it said CONFIRMED. The name was Corentin, Lysette's brother. The sheet gave it in full: Corentin Hollen. Eden had seen that name's owner a month ago, in a locket, as a young man's face.
 
 The third sheet was a list of times and places: the hour, the street, the room, the grey, the cut. It was written in a hand that he knew, because the hand was his. Two lines had a smudge where a glove had brushed wet ink. One number had been crossed out and written again, smaller.
 

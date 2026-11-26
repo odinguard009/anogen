@@ -24,15 +24,11 @@ He went up the stair, and by the top he was no longer a shape against the wall.
 
 The place was the yard behind the stores. A stone step led to the lamp bracket where the groundskeeper worked at night. Left of the step ran the ditch where Eden had laid his oil line. The ditch was dark, with a flat stone every ten paces. Right of the step stood the hut where the groundskeeper kept his cloths. Behind Eden, forty steps off, Lance Nine stood by the stair in the dark. He had asked them to wait there, and they had come without questions. Okoru stood beside them.
 
-The foe was a Veil. It wore the groundskeeper's face and coat, and it could not be killed with an ordinary blade. Eden had to find the grey underneath and cut it once. The danger was larger than the man. If the Veil died, something under the camp would open. Eden did not yet know what, only that Vesk had smelled the warm stone and said it was close.
+The foe was a Veil. It wore the groundskeeper's face and coat, and it hid its weak place well. Eden had to find the grey underneath and cut it once, at the right spot. The danger was larger than the man. If the Veil died, something under the camp would open. Eden did not yet know what, only that Vesk had smelled the warm stone and said it was close.
 
 Before he walked out, he had said four sentences to Okoru, who stood with the Lance at the stair. "Do not come into the light unless I call. Watch his shadow. If it does not follow him, he is not a man. After that, stay behind the stone."
 
-Okoru had looked at him for a while. "You have done this before."
-
-"Yes."
-
-"I will ask you about it later." Okoru put a hand on Rowan's shoulder, because Rowan had started to move. "Not tonight."
+Okoru looked at him for a while and did not ask a question. He put a hand on Rowan's shoulder, because Rowan had started to move. "Hold," he said. "Not yet."
 
 The groundskeeper was alone at the bracket, with a cloth in his hand and a cup of tea on the step.
 
@@ -72,7 +68,7 @@ The yard came back. The Veil's bar was coming down.
 
 * * *
 
-Eden cut across the Veil's shoulder as he turned, and the blade went in. The Veil screamed with a woman's voice, then a man's, then a child's, and leapt backward out of the light. The cut had not killed it. The grey healed over the wound as he watched, and the wound closed.
+Eden cut across the Veil's shoulder as he turned, and the blade went in. The Veil screamed with a woman's voice, then a man's, then a child's, and leapt backward out of the light. The cut had not killed it. The blade had glanced off the bar the Veil raised, and had struck the shoulder only, not the core.
 
 That was the problem. The Veil knew where the blade had gone, and it guarded the place. Eden's next cuts met only the bar.
 
@@ -84,7 +80,7 @@ She had come forward without his seeing. Her book was under her arm and her bato
 
 Lysette had a gift called **[Witness]**, a pale ghost-light that replayed what had just happened, like a picture on glass. Eden had seen it before. Tonight she was using it in a new way, which she would later call **[Citation]**. While the picture lasted, she could point at any part of it and strike that exact spot. Then the light faded, and her head ached.
 
-She set her feet and held up her left hand, and the pale ghost-light spread over the snow in a thin sheet. The replay would last four breaths, no more. It showed the last moments in the yard. The Veil turned. The sword went in at the left shoulder. The grey healed over, as fast as water closing. Lysette put the tip of her baton on one place in the replay, the exact inch where the grey had been thinnest, and held it there. A headache took her at the temples, and she shut her eyes, but the ghost-light stayed.
+She set her feet and held up her left hand, and the pale ghost-light spread over the snow in a thin sheet. The replay would last four breaths, no more. It showed the last moments in the yard. The Veil turned. The sword went in at the left shoulder. Lysette put the tip of her baton on one place in the replay, the exact inch where the grey had been thinnest, and held it there. A headache took her at the temples, and she shut her eyes, but the ghost-light stayed.
 
 "There," she said, through her teeth. "That is the only place it can be hurt. I cannot hold it long. Strike now."
 

@@ -142,7 +142,7 @@ Felix knelt and laid his hand where Eden's had been. "That is not right."
 
 "No."
 
-"A Mawgate is warm before it opens." Felix said it like a rule he wished he did not know. "Vesk told us at the fire. I did not sleep that night."
+"A Mawgate is warm before it opens." Felix said it like a rule he had read once and wished he had not. "It is in the Breach histories. I did not sleep the night I read it."
 
 Okoru had come up and put his own palm to the floor. His face did not change, but he stayed down longer than a man does who is only checking. "Nobody says that word in camp tonight," he said, getting up. "Not to the sergeant, not at the mess. We tell him in the morning, in his office, with the door shut and a drawing. Felix, you will draw it, exactly where the warm line runs."
 

@@ -8,7 +8,7 @@ Rowan had brought a pan of chestnuts and a plan to burn none of them. Clara sat 
 
 Lysette sat across the fire from him. She had not spoken since the veteran at the garrison door had spoken of "the Hollen boy". That was her brother, and the whole camp had heard. That was one day ago. Today she had done her duties, written in her book, and eaten alone. Tonight she had come to the fire because Clara had asked her. She held her book closed on her lap and looked at the flames.
 
-Eden did not want to be there. He had a reason that he did not say: the file he had read that morning was in his coat, and Lysette's brother was in the file. But Clara had asked him to stay near her, and he had said yes the day before. So he sat, and he said nothing.
+Eden did not say why he was uneasy. The file he had read the day before was already on its way back to Ysolde, and Lysette's brother was in it. But Clara had asked him to stay near her, and he had said yes the day before. So he sat, and he said nothing.
 
 "The chestnuts are ready," Rowan said, and held one up. It was black and split. "These are the good ones. They are just dark."
 
@@ -22,15 +22,15 @@ Felix laughed, short and quiet. Then he stopped, because Lysette had moved.
 
 Nobody asked what. They waited.
 
-"He made a face when he ate something bad, and then he said it was good. Every time. He said it so well that you believed him until you tried it." She looked at the fire, not at them. "His name was Corentin. He was two years older than me."
+"He made a face when he ate something bad, and then he said it was good. Every time. He said it so well that you believed him until you tried it." She looked at the fire, not at them. "His name was Corentin. He was older than me."
 
 Rowan swallowed his chestnut and put the pan down. Clara's hands went still in her lap. Felix closed his book.
 
-"I will say this once," Lysette said, "because I would rather say it to you than have you hear it from a soldier. He had a loud laugh. It was the kind that makes the whole table turn around. My mother told him to be quiet in church, and he laughed in church. He did not mean any harm. He was the only person who could make my father smile at dinner."
+"I will say this once," Lysette said, "because I would rather say it to you than have you hear it from a soldier. He had a loud laugh. It was the kind that makes the whole table turn around. My mother told him to be quiet in church, and he laughed in church. He did not mean any harm."
 
 She stopped. The wood cracked, and a few sparks went up and went out.
 
-"Then he went to the court to serve, when he was fifteen. He came home in the second year. He did not laugh. He stood in the hall and watched us as if we were people he had once met. I asked him to dance with me at my birthday, and he said, 'I have forgotten how.' He was sixteen."
+"Then he went to serve at the court. He came home for a visit in his last year. He did not laugh. He stood in the hall and watched us as if we were people he had once met. I asked him to dance with me at my birthday, and he said, 'I have forgotten how.'"
 
 "What happened?" Clara asked, very softly.
 
@@ -114,7 +114,7 @@ On the sixth night Felix sat on the edge of his bunk with the book shut. He had 
 
 "Then why do you sit with your back to the door?" Felix went back down the hut. He did not wait for an answer, because he did not expect one.
 
-By the seventh day he had counted eleven times that he looked away. He had not once given her a reason. He knew that the reason was in his coat, in a file she would never be shown.
+By the seventh day he had counted eleven times that he looked away. He had not once given her a reason. He knew that the reason was in his coat, in a file she had never seen.
 
 That evening he went to the stores for linen, and she was there, at the door with her book. There was only one way out, and she stood in it. The lamp over the door put two shadows on the snow, and hers did not move away from his.
 

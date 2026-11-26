@@ -23,7 +23,24 @@ Critic `plain_reading` score: below 8/10 = FAIL, rewrite the scene.
 Finds only: riddle replies (more than 1), surnames used before narration links them, runs of 8+ bare short dialogue lines. It cannot tell whether a scene makes sense; the self-test is the real check. WARNING for chapters 1-50, ERROR from chapter 51.
 
 ## Reference standard (owner order 2026-11-26: "Bab 6 dan 7 sudah lumayan bisa dimengerti. Tetapkan penulisan seperti ini jadi aturan permanen")
-The owner read chapters 6 and 7 of `the-thirteenth-knight-holds-every-sword` after the repair and said he could follow them. They are the calibration sample for ANY novel and ANY AI: before writing or judging a chapter, read one scene of ch 6 or ch 7 and match its level. What made them readable:
+The owner read chapters 6 and 7 of his first novel after the repair and said he could follow them. That level is the calibration sample for ANY novel and ANY AI. Do not open another novel to see it (each novel stays closed to the others); the excerpts below ARE the sample. Match this level before writing or judging any chapter.
+
+EXCERPT 1 (opening a scene with where, who, what; defining a word at first use):
+> On Friday morning the school put the Year 5 students into teams of five. Each team was called a Lance. ... The number was the student's place on the Ladder, the school's list of the best students in the year.
+
+EXCERPT 2 (a joke that gets a plain beat):
+> "We have the second, the third and the fourth. This is the best team in the school." / "On paper," Lysette said. / "What is wrong with paper?" / "Paper does not fall over in a maze."
+
+EXCERPT 3 (a rule explained once, then used lightly):
+> "This is a warrant. When a student misses too many classes, we send one to the headmistress. You have missed sixty-one. The office wants a reason, in one word." ... "There is no roof on the form. There is a box for class, a box for drill, a box for meals." / "Then use another box."
+
+EXCERPT 4 (a clue given its reason in the hero's flat voice):
+> A man who had died last spring could not sign an order this autumn. Someone had written Master Sorn's name on it, or someone had found a way to use his stamp.
+
+EXCERPT 5 (a dodge named by narration):
+> She said it too fast. Felix looked at her, but she was already asking Rowan about the soup. Seraphine had not told the truth. Eden did not know which part was false.
+
+What made them readable:
 - Each scene opens with where, who, what is wanted (ch 6: "On Friday morning the school put the Year 5 students into teams of five. Each team was called a Lance.").
 - A new word is defined at its first use, in the same sentence or the next ("the Ladder, the school's list of the best students in the year"; "The red band meant the Discipline Committee").
 - A paper or rule is explained in one plain sentence, then used (ch 7: the warrant is sent to the headmistress after too many missed classes; the form has no box for a roof, so Lysette writes it in the margin).

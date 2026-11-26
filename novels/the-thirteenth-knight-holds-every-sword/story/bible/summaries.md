@@ -29,3 +29,6 @@ Ysolde corrects Eden's Form 13-B and files the report on the exchange. King Theo
 
 ## Ch 10 - The Handkerchief
 Lysette does Committee rounds and reads her mother's letter, which says House Hollen will act as if the family's shame were not. She studies Eden's file: sixty-one absences, ordinary marks, a medical permit, and no punishments. Felix notes that he has practised being boring. At lunch Seraphine asks Eden, half joking, "You'd save me, right?" and he says "Probably." Seraphine starts a joke count on Felix. Lysette realises she has not thought of Rowan for an hour, then finds the handkerchief she meant to wash still folded in her pocket.
+
+## Ch 11 - The Direction of Shadows
+In the first graded field run, Okoru sends the five Lances through the Undercroft maze with lamps, false walls and two timed constructs. Lance Nine works as a unit for the first time: Felix's Trail reads dragged stone, Lysette's Witness replays the hands that moved a wall, Rowan and Clara handle the constructs, and Eden reads the lamp shadows to find a gap over the exit without taking credit. They finish third in eleven minutes. A man in a staff coat watches Rowan from the dark gallery and vanishes when Eden looks up.

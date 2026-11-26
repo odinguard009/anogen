@@ -62,4 +62,15 @@
 
 ### 2026-11-26 05:40 UTC (12:40 WIB) - audit - ok
 - notes: Audit through ch 10 (new draft): 3 proposals on object endings, low tension in quiet chapters, word-count floor. No banned/variety auto-append.
+- quota_note:
+
+### 2026-11-26 05:44 UTC (12:44 WIB) - tulis bab berikutnya - chapter 11 - ok
+- words: 1827
+- scores: tension 4, surprise 4, emotion 4, battle_clarity 4, voice 4, freshness 4
+- notes: First graded run; first Trail and Witness; staff-coat watcher planted.
 - quota_note: 
+
+### self-review ch 11 - LOW risk, same session, not independent
+- REVIEW ch 11: PASS. check_chapter OK (1827 words, mean 8.6, dialogue 34%). Names trimmed to budget; "One" registered.
+- First uses of Trail and Witness described in scene and ledger; Witness first use moved to ch 11 from planned ch 13 because the outline's graded run calls for it.
+- Puzzle is visible: lamp shadows show a gap above the wall; Eden had seen it at entry and lets Lysette announce the way out. Eden never strikes a construct; the circle wins at its own standing and places third.

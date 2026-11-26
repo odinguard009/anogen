@@ -43,3 +43,8 @@ Unbind (none on page; first: Lysette's Auda ch 141, Duke's Durn ch 193, Valerius
 
 - Rowan's light (gold glow in his palms, apple-sized, warms the air and pushes shadows; comes with an open look) | Rowan | ch 6 | yes | no (no limit yet)
 - Clara's effect on flowers (lilies lift and open near her, brown edges go green; she does not notice) | Clara | ch 6 | yes | no (range: only plants near her)
+
+- Felix's Trail | Felix | ch 11 | yes (thin pale line of light in the air showing where boots passed and stone was dragged; fades where tracks are swept) | yes (needs the ground and fresh marks; stops on clean stone)
+- Lysette's Witness | Lysette | ch 11 | yes (ghost-light replay in the air behind her of what happened minutes ago, faint as moonlight on water; shows where hands were and how far a wall travelled) | yes (needs a still place and a quiet moment; she cannot move while it runs)
+
+Note: Witness first use moved from planned ch 13 to ch 11 because the outline's graded run calls for it; ch 13 is a later use with a new detail.

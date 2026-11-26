@@ -86,3 +86,9 @@
 - Eden's file: sixty-one absences, ordinary marks, a permit signed by Ostwald. The absences cluster on afternoons with a free hour. Lysette: "Nobody is that clean. Someone has been filling these in for him." Felix: "He has practised." Lysette said "I like him too" before she chose to.
 - Seraphine sat with Eden, started a joke count on Felix (joke one: reading at lunch), and asked Eden, "You'd save me, right?" He answered "Probably." S1 D rung; no explanation of how they know each other.
 - Lysette realised she had not thought of Rowan for a full hour. She went to file the forms and found the handkerchief still in her jacket pocket, folded as his hands had left it, the feather caught on a thread.
+
+## Sat 14 to Mon 16 Nov (ch 11)
+- First graded field run in the Undercroft, Year 5 spec, with shoulder-height lamps, false walls and two timed constructs. Okoru marks time, touches and whether the Lance listens.
+- Lance Nine came third in eleven minutes behind the top Lance and the fourth. Okoru's order: Felix, Lysette, Wren, Clara, Rowan.
+- First uses: Felix's Trail (pale line of boot tracks; faded where someone sweeps the floor nightly) and Lysette's Witness (ghost-light replay of a hand pushing a wall; needs stillness). Rowan's spear and Clara's healing closed the construct's brass joint; Eden only blocked and read the lamp shadows to find a gap above the wall. He had seen the exit when they came in and let Lysette announce it.
+- A man in a staff coat with a narrow face and a pen watched Rowan from the unlit gallery, wrote on a paper on his wrist, and was gone when Eden looked again. Do not name him yet.

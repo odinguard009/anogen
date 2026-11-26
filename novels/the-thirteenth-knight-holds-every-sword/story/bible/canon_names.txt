@@ -687,3 +687,7 @@ Sorn
 
 # Titles
 Mr
+
+# Lances
+Lance One
+One

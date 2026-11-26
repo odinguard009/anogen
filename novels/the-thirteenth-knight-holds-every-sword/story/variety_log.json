@@ -115,5 +115,18 @@
       "pacing_shape": "slow turns, one last object",
       "hook_type": "an object that was not washed"
     }
+  },
+  {
+    "chapter": 11,
+    "picks": {
+      "opening_type": "lamp-lit concrete detail",
+      "scene_shape": "briefing then maze",
+      "tension_type": "graded clock",
+      "emotional_tone": "competitive and steady",
+      "comic_device": "counting a line as a door",
+      "conflict_type": "maze puzzle with constructs",
+      "pacing_shape": "alternating puzzle and fight",
+      "hook_type": "someone vanishes from a gallery"
+    }
   }
 ]

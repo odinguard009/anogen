@@ -52,3 +52,6 @@ A Veil is wearing Storems, a popular garrison sergeant, and soldiers would defen
 
 ## Ch 37 - The Last Page
 Ysolde sends Eden the PR 110 file after he unknowingly requested it on a form. It carries his own confirm mark beside Corentin Hollen's name, but he cannot bring the face into focus, only a collar, a stair and a voice stopping. Felix tells him he has made a list of Eden's habits and offers help; Eden refuses. Lysette asks him back to the watch, and Clara brings tea. The last page is an index whose final two lines were crossed out before the file was copied.
+
+## Ch 38 - Make Him Tell Me Why
+A small fire in a barracks hut brings the Lance together. Beside the burnt curtain Lysette tells them about her brother's cart-wheel laugh, the paper that called him a traitor, and how he came home colder and could not dance. Eden says nothing: he repeats his rule that he always confirms the grey, but cannot bring the face back to prove it. For a week he is the one who looks away first. She tells him that if she ever finds the one who did it, she will not kill him but make him explain.

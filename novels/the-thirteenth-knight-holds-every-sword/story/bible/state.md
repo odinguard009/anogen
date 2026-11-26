@@ -263,3 +263,10 @@
 - File: cover PR 110, name Corentin Hollen, times in Eden's own hand, his own confirm mark (small circle with a line through it, pen dry at the edge). He never marks without seeing grey, but could not remember the face clearly: coat collar, worn stair, a voice stopping. C2 E delivered, deniable; no grey shown, no memory scene.
 - Felix made a list of four habits and said he would help if asked; Eden said no. Lysette arrived at the end and asked only that he come back to the watch, not what was in the envelope. Clara brought sweet tea with honey.
 - Last page is an index with the final two lines crossed out so hard the paper tore; supporting pages removed before the copy was made. Hook: the file ends where it should have begun.
+
+## Fri 15 Jan (ch 38)
+- Night fire in the second hut from a brazier and a dry linen curtain. Lance Nine handled buckets and sand; Clara closed two burns and went grey; nobody hurt. Eden noted causes in order like a list.
+- Lysette told the Lance about her brother by the fire: the cart-wheel laugh, the paper that called it treason, his mother's drawer, coming home in his last year colder and standing in the hall, not sitting on the step, refusing dance. NO reveal: Eden gave four possible answers and none of them. He repeated the confirm rule in his head and could not produce a face, so could not prove the rule even to himself.
+- Lysette: "You always... Stay until I have said everything and then say nothing. It is not comfort... but it is not nothing either."
+- For the next week Eden looked away first: eleven times in seven days; moved bunk, took long way to wall, answered an old question. Lysette began looking at the ground when they met.
+- Hook: "If I ever find the one who did it... I'll make him tell me why."

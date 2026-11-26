@@ -140,3 +140,14 @@
 - REVIEW ch 37: PASS. check_chapter OK (1801 words, mean 13.4, dialogue 27%). No reveal: C2 stays at E, no grey shown and no memory scene (that belongs to ch 45).
 - Eden's flat rule holds: body data, palms on paper, crease as fact; no feeling narrated. His claim that he cannot recall the face is deniable, and the chapter does not confirm a mistake.
 - Continuity: PR 110 from ch 27, confirm mark from ch 36's reading, scarf and courier from ch 33/35, joke about buns from ch 9/12.
+
+### 2026-11-26 07:47 UTC (14:47 WIB) - tulis bab berikutnya - chapter 38 - ok
+- words: 1801
+- scores: tension 2, surprise 3, emotion 5, battle_clarity -, voice 4, freshness 4
+- notes: Lysette's brother story; no reveal; week of looking away; hook line.
+- quota_note: 
+
+### self-review ch 38 - HIGH risk, same session, not independent
+- REVIEW ch 38: PASS. check_chapter OK (1801 words, mean 13.4, dialogue 27%). Read twice; no reveal confirm occurs here (C2 stays E, due ch 45).
+- Eden gives none of his four answers, and his inability to prove the rule to himself is stated as a problem, not solved. No feeling narrated for him; Lysette's grief is delivered in her own words.
+- Continuity: Corentin's laugh and "treason" from the mother's letter in ch 10/21, "came home colder" from ch 21, the week of avoidance follows ch 37's file.

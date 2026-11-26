@@ -66,3 +66,6 @@ Plants ch 1-60 (arc-1.md; twists-1/2.md).
 
 - [open] PR 110 file's last two index lines crossed out and the supporting pages removed before copying | planted: ch 37 | due: 45, 163
 - [open] Felix's list of Eden's habits (never asks, never says where he goes, late to everything but danger, pays with food) | planted: ch 37 | due: 47, 236
+
+- [open] Lysette: "If I ever find the one who did it, I won't kill him. I'll make him tell me why." | planted: ch 38 | due: 140, 145
+- [open] Eden looked away first eleven times in the week after the fire; cannot prove his own confirm rule to himself | planted: ch 38 | due: 45, 140

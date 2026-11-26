@@ -466,5 +466,18 @@
       "pacing_shape": "slow pages, one missing ending",
       "hook_type": "pages removed before the copy"
     }
+  },
+  {
+    "chapter": 38,
+    "picks": {
+      "opening_type": "a curtain catching in a brazier's heat",
+      "scene_shape": "fire then one long confession then a week",
+      "tension_type": "four answers and none said",
+      "emotional_tone": "held and sad",
+      "comic_device": "Rowan counting trees that do not grow sand",
+      "conflict_type": "a secret kept inside arm's reach",
+      "pacing_shape": "fast alarm, still story, slow week",
+      "hook_type": "a threat made gentle"
+    }
   }
 ]

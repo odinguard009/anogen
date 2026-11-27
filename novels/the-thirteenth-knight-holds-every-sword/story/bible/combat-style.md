@@ -1,3 +1,4 @@
+successfully downloaded text file (SHA: f83cec22a02d20ed98e30977ecb6432e9d05f251)
 SUPERSEDED where it conflicts by story/bible/power-system.md (owner order 2026-11-25; includes the removal of ranking levels: Bells = tank size only, Tenet tiers = stages of use, not ranks)
 # Eden's combat style: "Lintel and Lamp" (reference)
 
@@ -71,3 +72,15 @@ Slow blink before he finishes. One tap on the knocker ring when he decides. "Fin
 - 398: he commands the First Legion against Nihl's half while duelling Nihl.
 - 560: all legions and all retainers, thirteen nations watching.
 - 596: Open House at the pole.
+
+
+---
+
+## REVISION NOTE (2026-11-27)
+- Era: 1990s feel; invasion 500-600 years; scale 3x Earth; population 80% of Earth.
+- Battle system: FFXIV-inspired jobs + mana + per-job aura/gauge. See tech.md for armor/weapons per job. Job list uses proper unique names (Silent Assassin, Dragon Knight, etc.).
+- Spirit contracts: main knights bond with spirits/beasts; great spirit origin. See spirits.md.
+- Mother truth delayed to ~ch 425; romance confession delayed to ~ch 637.
+- 13 Knights + Tutor wear black armor; armor labels always written.
+- Power reconfigured: Year 5 = active knight level. See characters.md for job assignments.
+- Scale/population consistency required in all measurements.

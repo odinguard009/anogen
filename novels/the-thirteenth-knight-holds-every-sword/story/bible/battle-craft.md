@@ -1,3 +1,4 @@
+successfully downloaded text file (SHA: f4d87bea24d5dbe07f407897f4371d6846f2c1f6)
 SUPERSEDED where it conflicts by story/bible/power-system.md (owner order 2026-11-25; includes the removal of ranking levels: Bells = tank size only, Tenet tiers = stages of use, not ranks)
 # Battle craft: toolkit for the Lead Writer (reference)
 
@@ -107,3 +108,15 @@ SUPERSEDED where it conflicts by story/bible/power-system.md (owner order 2026-1
 - Arcs 13-15: see arcs-4.md.
 - Arc 16: the Throne of Nothing, the Wound, inside a god.
 - Arc 17: festival grounds.
+
+
+---
+
+## REVISION NOTE (2026-11-27)
+- Era: 1990s feel; invasion 500-600 years; scale 3x Earth; population 80% of Earth.
+- Battle system: FFXIV-inspired jobs + mana + per-job aura/gauge. See tech.md for armor/weapons per job. Job list uses proper unique names (Silent Assassin, Dragon Knight, etc.).
+- Spirit contracts: main knights bond with spirits/beasts; great spirit origin. See spirits.md.
+- Mother truth delayed to ~ch 425; romance confession delayed to ~ch 637.
+- 13 Knights + Tutor wear black armor; armor labels always written.
+- Power reconfigured: Year 5 = active knight level. See characters.md for job assignments.
+- Scale/population consistency required in all measurements.

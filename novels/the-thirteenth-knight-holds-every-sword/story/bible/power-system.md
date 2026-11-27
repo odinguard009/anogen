@@ -1,3 +1,4 @@
+successfully downloaded text file (SHA: 7da83bca299b1c20aa29bc7b43cba12c695f8d72)
 # Power system: the authoritative primer (owner orders 2026-11-25)
 This file wins over powers.md, mana.md, combat-style.md and battle-craft.md where they conflict. Tech: tech.md. Reveals: reveal-ladder.md. The planet-mind secret: mother.md.
 
@@ -314,3 +315,15 @@ What outclasses them (so Eden's hidden help still matters and no one is stupid):
 - Numbers and surprise at the Ball: forty hostages stop skilled people.
 Rule for writers: a student character may lose only to something out of spec, or to a trap, or by choice; never to a plain drill. When a drill-warden or instructor beats a Year 5 student, the student fights back well and loses by experience, not by helplessness.
 Eden's cover: he acts "good, tired, unambitious". He wins the way a Year 5 rank 8 could (reading, positioning), and the circle sees the gap only in slivers.
+
+
+---
+
+## REVISION NOTE (2026-11-27)
+- Era: 1990s feel; invasion 500-600 years; scale 3x Earth; population 80% of Earth.
+- Battle system: FFXIV-inspired jobs + mana + per-job aura/gauge. See tech.md for armor/weapons per job. Job list uses proper unique names (Silent Assassin, Dragon Knight, etc.).
+- Spirit contracts: main knights bond with spirits/beasts; great spirit origin. See spirits.md.
+- Mother truth delayed to ~ch 425; romance confession delayed to ~ch 637.
+- 13 Knights + Tutor wear black armor; armor labels always written.
+- Power reconfigured: Year 5 = active knight level. See characters.md for job assignments.
+- Scale/population consistency required in all measurements.

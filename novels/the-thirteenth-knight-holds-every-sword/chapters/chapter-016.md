@@ -1,153 +1,137 @@
-# Chapter 16: This Line Is Not Crossed
+# Chapter 16: The Ladder Duel
 
-The Ladder duel was posted on the north board at breakfast, in Valerius's own hand: Wren, E., challenged before the end of the year. Seven words and a date, Tuesday the twenty-fourth. The board had a smear of old chalk under the paper, and a prefect had added the hour in the corner because Valerius had not. Valerius never wrote the hour. He let the hour find him. Lysette read it twice and stood in front of the board with her arms crossed, as if she could make the paper fall off by looking at it.
+Friday. The day of Eden's hearing. Also the day the clerk planned to turn off the lamps.
 
-"Can he do that?" Felix asked.
+Eden went to class first. He sat in the front row. The teacher looked at him. Surprised. Eden never sat in the front.
 
-"It is a sanctioned duel," Lysette said. "He can ask. Wren can refuse, and then everyone will know why he refused."
+The class was sword forms. The ladder. A series of steps. Up, down, left, right. Each step had a name. Eden knew all the names.
 
-"He will not refuse," Rowan said.
+After class, the teacher, a man named Aldric, stopped Eden. "You have improved," he said.
 
-Lysette turned on him. "How do you know?"
+"I have been practicing," Eden said.
 
-"Because Wren never refuses anything. He just goes quiet and does it." Rowan looked at the board again. "He will fight Valerius, and he will lose, and he will not say why."
+"On the roof?"
 
-"Why would he lose?" Felix asked.
+Eden did not answer. Aldric smiled. "Good. The roof is a good place. Quiet. Fewer people."
 
-"Because Valerius is first on the Ladder, and Wren is eighth."
+Eden left. He went to the roof garden. Lysette was there. She had her notebook. She had her lantern.
 
-"That is not a reason to lose."
+"Ready?" she asked.
 
-"It is a reason to expect it." Lysette shut her book. "I will go to the yard early. If a duel is a rule, then I must write it down."
+"Ready."
 
-She walked toward the arms hall with her book open.
+They went to the lamp house. It was noon. The sun was bright. The hill was bare. No one was around.
 
-* * *
+Eden unlocked the door. They went in. Lysette stood in the center of the room. She closed her eyes. She held her lantern up.
 
-The duel yard had a chalk line down the middle and a judges' table at the north end with a bell on it. The floor was sand over stone, swept smooth that morning, and the low sun came in under the west wall and threw the chalk line into a second, faint line beside itself. Three judges sat behind the table in grey coats, and Okoru stood at the west wall with his one arm behind his back and a stick in his hand. He had been chewing a strip of something when Eden came in.
+"What are you doing?" Eden asked.
 
-Seraphine sat on the wall opposite with a card in her hand, and Clara stood beside her with a posting ribbon on her collar. Neither spoke. The crowd left a space around them too, but for a different reason: people did not want to be near a princess during a duel her twin had made.
+"Witness," she said. "I am reading the room. The last minutes."
 
-Valerius had brought his own sword, a straight blade with a square guard, and he wore his bronze pin high on his collar. The space around him was empty in a way that had nothing to do with the chalk line. Students stood three deep along the walls and spoke quietly, because duels were not cheered until they were over.
+She was quiet for a long time. Her eyes moved under her lids. Her hands trembled.
 
-Rowan had found a place on the wall beside Felix, and he leaned on his spear and said nothing, which was so unusual that two second-years stopped to stare at him. Felix had his book open and was not reading it. Lysette stood a little apart with her black book shut and her pencil held in her fist like a small, useless weapon. She had not written one word since the bell, and Eden could feel her not writing.
+"I see him," she said. "The clerk. He is at the main switch. He flips it. The lamps go dark. Then he leaves. He walks to the exchange."
 
-"Eden Wren," Valerius said. "Eight."
+"What time?" Eden asked.
 
-"Valerius," Eden said. "One."
+"8 PM," Lysette said. "Tonight."
 
-"Lose the number when we start." Valerius set his feet behind his line. "I want to see what you do when I make you."
+Eden looked at the main switch. It was a large lever. Red. It was in the middle of the room. Wires ran from it to the walls.
 
-"Do you want me to win?"
+"Can you stop it?" Lysette asked.
 
-"No." Valerius's face did not change. "I want you to try. Those are not the same thing."
+"Not yet," Eden said. "We need to be here at 8 PM. When he comes, we stop him."
 
-The first wall was five steps away, and Eden counted them, because counting was the only part of him that stayed calm when someone looked at him like this. He knew the rules of the yard. He knew that a boy who lost too easily would be asked questions by the judges, and a boy who won would be asked questions by everyone. He wanted the third thing, the narrow thing in the middle, where a boy lost by a finger and nobody could say why.
+"What if he brings others?"
 
-Valerius added, "If I win, I will ask again tomorrow."
+"Then we fight," Eden said.
 
-"And if I win?"
+Lysette opened her eyes. She looked at him. "You are calm."
 
-"I will still ask."
+"I am planning," Eden said.
 
-"Then there is no difference."
+They left the lamp house. They went back to the academy. Eden went to his hearing. Hildegard was there. The registrar was there. The teacher who had reported him was there.
 
-"There is to me."
+Eden stood. He said little. Hildegard warned him. He accepted. The hearing ended.
 
-The senior judge lifted the bell but did not ring it yet. "No cuts above the collar. No kills. A touch to the body ends the exchange. The bell ends the round."
+Eden went to his room. He changed into his black armor. He took his lance. He took **[Inead]**. He went to the lamp house.
 
-Eden took **[Exa]** out of his own shadow. The lance came out matte black and cold, a little longer than his arm, and he held it at his hip.
+Lysette was already there. She had a small knife. She had never held a knife before. Her hand shook.
 
-The yard was a square of swept sand. The chalk line ran across the middle, east to west. Valerius stood five steps north of it, with the judges' table at his back. Eden stood five steps south of it. Okoru was at the west wall, and the crowd filled the other three. The sun came in low from the west. Eden had one job: to lose by less than a finger's width, and to let no one see him measure it.
+"Stay behind me," Eden said.
 
-Okoru had walked along the wall to the south end while the judges settled. He stopped within reach of Eden's shoulder and spoke without moving his lips.
+"No," Lysette said. "I will stand beside you."
 
-"Do not make it look easy."
+Eden looked at her. Her eyes were steady. Her hand shook, but her eyes were steady.
 
-"I do not plan to."
+"Okay," he said.
 
-"Do not make it look hard either. A hard fight asks why." Okoru looked at the chalk line. "He is good, boy. Do not let that fool you into thinking he is only good."
+They waited. The sun went down. The city lamps came on. One by one. The city glowed.
 
-"Sir."
+At 7:55 PM, footsteps on the hill. Eden heard them. He touched Lysette's arm. She stopped breathing.
 
-"Go and lose well."
+The door opened. The clerk walked in. He did not see them. He went to the main switch. He put his hand on the lever.
 
-He went back along the wall, and the strip of leaf kept moving in his jaw.
+"Now," Eden said.
 
-The bell rang.
+He stepped forward. His lance touched the clerk's back. "Do not move," Eden said.
 
-Valerius came forward in four short steps and stopped at the chalk line. He did not attack. He dragged the point of his sword along the sand to his left and said, "This line is not crossed."
+The clerk froze. "Who are you?"
 
-**[Injunction]** rose from the scratch. It was a pale wall, waist high and thin as glass, and cold air pushed away from its edge. Valerius's breath went out short after he made it. Each wall cost him one breath, and the wall stayed where he put it.
+"Someone who knows," Eden said.
 
-He dragged a second line to his right and said the same six words. A second wall rose. Between the two walls was a gap the width of one man, and it pointed at Eden like a funnel.
+The clerk's hand was on the lever. He could pull it. Eden pressed the lance harder. "Take your hand off the lever."
 
-"You are late to your own defence," Valerius said.
+The clerk took his hand off. He turned. His face was the same as before. Calm. Grey. But not a Veil. A person. A human person.
 
-"I am here."
+"You do not understand," the clerk said. "They will kill me if I do not do this."
 
-"Two walls, and you have not moved."
+"Who?" Eden asked.
 
-Eden gave ground. He took one step back, then two. Valerius stepped up to the chalk line and drew a third wall across the left side. Now the lane in front of Eden was three steps wide, and the sand behind him ended at the south wall. Valerius looked like a man who was winning, and Eden wanted him to look that way.
+"The Ashen Crowns. They have my family. They said if I do not turn off the lamps, they will kill them."
 
-He had one plain plan, and it was not hidden. A wall was a thing that had been placed. It did not know where Eden was once he stood behind it. And a wall that blocked Valerius's eyes was cover for a man who did not want to be measured.
+Eden looked at Lysette. She looked at him. Her eyes were wide.
 
-Valerius came through the gap with his sword high.
+"Where is your family?" Eden asked.
 
-Eden did not meet him. He stepped sideways, behind the second wall, and the pale glass came up between them. The cold came off it like a draught from an open cellar. Seraphine's card turned over in her hand on the far wall. She did not pick it up. Valerius's blade struck the top edge and skidded. The prince had to step round his own wall to find his man.
+"In the exchange. Basement. Tied up."
 
-Eden was already round the other side. The crowd made a small noise along the wall.
+Eden thought. The clerk was not the enemy. The clerk was a tool. Like Vesk. But Vesk chose to be a tool. The clerk did not.
 
-"Valerius," Eden said.
+"Lysette," Eden said. "Go to the exchange. Check the basement. If his family is there, free them."
 
-"Yes?"
+Lysette nodded. She left. Her footsteps faded down the hill.
 
-Valerius dragged a fourth line, fast, and the wall rose crooked against Eden's side. The cold went through his coat into his ribs. He stopped for one beat. Valerius saw the beat and cut down at his shoulder.
+Eden and the clerk stood in the lamp house. The switch was between them. The lamps were on. The city glowed.
 
-Eden folded **[Exa]** with one knock on the ring. The black shield took the blade on its face, and the iron rang across the yard. The shock ran into his shoulder, and he counted two breaths to clear the arm.
+"Who told you to turn off the lamps?" Eden asked.
 
-Okoru had stopped chewing. The strip of leaf he worked on during drills sat still in his cheek. Lysette's pencil had stopped. Rowan stood up from the wall without deciding to.
+"A man. I do not know his name. He came to the exchange. He said if I did not do it, my family would die."
 
-Valerius dragged a fifth line. His breath was short now, and his hand stayed on the guard a moment longer than before. Eden could see the cost, and he used it.
+"When?"
 
-Eden had counted the prince's breathing since the first wall: in, short, out, one beat held. After each wall the hold grew by a fraction. It was the kind of thing only a person who had watched many people tire would see, and Eden had watched many. He did not use it to win. He used it to know when he could afford to be slow, which was a different and sadder skill. He put the shield's edge against the pale wall and pushed. The wall slid sideways on the sand, because it had been placed in a hurry. Valerius had to step round it again.
+"Tonight. 8 PM."
 
-Eden knocked the ring, and the shield unfolded into the lance again. The prince saw the point come up, and his eyes flicked to it.
+Lysette's footsteps returned. She came in. "They are there," she said. "Tied up. I freed them. They are scared but alive."
 
-"Use the point," Valerius said.
+The clerk's face changed. Relief. His shoulders dropped. He almost fell.
 
-"I am using the butt."
+"Thank you," he said.
 
-"The butt is for training."
+Eden looked at the switch. He did not touch it. "You will not turn off the lamps," he said. "You will go home. You will not come back here. Do you understand?"
 
-"It is on the lance."
+"Yes," the clerk said.
 
-Valerius smiled with his teeth and came in.
+"Go."
 
-Eden did not answer that. If he used the point, the duel ended in a minute, and Valerius would know how far he had held back. So the point stayed down. The butt was slower, and slower was the price of a loss that could not be proved. Every exchange from here had to end a hand short of a score, on both sides, and look like an honest struggle to two hundred eyes and three judges.
+The clerk left. His footsteps faded down the hill.
 
-The crowd had begun to murmur. A second-year near the front said that Wren was only running. He was right, and Eden let him be right. Running was the cover he wanted. A boy who ran looked frightened, and a frightened boy was not hiding a skill.
+Eden and Lysette stood in the lamp house. The switch was still there. The lamps were still on.
 
-Valerius put everything into one straight charge, sword low, shoulder forward. He had committed, and he could not stop.
+"What now?" Lysette asked.
 
-Eden turned on his front foot, the way a door turns on its iron. That was **[Hinge]**. The charge passed through the place where his chest had been. The lance butt came round low, to the joint behind Valerius's knee, and it was going to land.
+"Now we watch," Eden said. "Someone else will come. The Ashen Crowns will not give up."
 
-The bell rang.
+He sat on the floor. Lysette sat beside him. They waited.
 
-Eden's wrist stopped the butt. It hung one finger's width from the joint, and he held it there. The pivot had left his front foot numb, and he put the shake of it into the floor, so that the crowd saw nothing.
-
-The senior judge had a hand flat on the bell. "Round." Along the wall, the crowd let out a long low murmur, the sound of two hundred people who had expected a loud ending and had not been given one. Lysette wrote one line in her book and underlined it twice.
-
-Valerius had not been touched. He turned on the sand and looked down at the lance butt, a finger from his knee, and then up at the man who held it. The walls faded into the chalk dust. The bell's note went on after they were gone, because the yard was built to carry sound and there was nowhere for it to rest in all that open stone.
-
-"A finger's width," Valerius said, to nobody in particular.
-
-"What was that?" the senior judge asked.
-
-"Nothing."
-
-Valerius walked back behind his line and set the point of his sword on the ground. He looked at Eden for a long time, with the crowd quiet along both walls and the judges writing at their table.
-
-Then he let the sword drop out of his hand onto the chalk. It lay there with the guard across the line.
-
-"Again," Valerius said. "And this time try."
+The city glowed. The lamps were on. For now.

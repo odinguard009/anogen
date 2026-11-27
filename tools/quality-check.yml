@@ -1,0 +1,23 @@
+name: Quality Check
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run chapter checks
+        run: |
+          cd novels/the-thirteenth-knight-holds-every-sword
+          for f in chapters/chapter-*.md; do
+            python ../../../tools/check_chapter.py --strict "$f" || exit 1
+          done
+      - name: Run milestone check
+        run: python tools/milestone_check.py

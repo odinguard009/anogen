@@ -8,7 +8,7 @@ Eden did not move the coat. "I am sleeping, and you are standing in my sun."
 
 "You are talking, so you are awake," Rowan said, and he sat on the bench.
 
-Rowan put a paper bag on the bench. "Lance Nine ate breakfast apart today. Clara sat with the healers, Felix sat with the archers, and Lysette sat with her book. That is not how a Lance eats."
+Rowan put a paper bag on the bench. "spear Nine ate breakfast apart today. Clara sat with the healers, Felix sat with the archers, and Lysette sat with her book. That is not how a spear eats."
 
 "It is how this one eats."
 
@@ -170,7 +170,7 @@ Rowan stayed on the bench for another minute, and then he stood with a sigh. "Lu
 
 "Good luck," Eden said, and he closed his eyes.
 
-"I do not need luck. I have a Lance." Rowan walked to the stairs, and then he came back. "The Lance has a practice slot. It is the one before dawn, on the east yard."
+"I do not need luck. I have a spear." Rowan walked to the stairs, and then he came back. "The spear has a practice slot. It is the one before dawn, on the east yard."
 
 "Before dawn," Eden said.
 

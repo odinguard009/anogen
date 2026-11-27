@@ -1,6 +1,6 @@
 # Chapter 11: The Graded Run
 
-Lance Nine formed up in the dark east yard, and frost broke under their boots on the flagstones. Okoru stood by the gate with a slate in his hand and a watch hanging from his coat, and he did not look at the cold. A cold wind came over the wall and made the five of them stand closer than they had all week.
+spear Nine formed up in the dark east yard, and frost broke under their boots on the flagstones. Okoru stood by the gate with a slate in his hand and a watch hanging from his coat, and he did not look at the cold. A cold wind came over the wall and made the five of them stand closer than they had all week.
 
 "You are late," Okoru said.
 
@@ -8,13 +8,13 @@ Lance Nine formed up in the dark east yard, and frost broke under their boots on
 
 "You are late in your heads." Okoru turned the slate around. "Read it once."
 
-Five lines of chalk covered the slate, and Rowan read them out loud because he read everything out loud. "Place: the Undercroft maze. Foe: constructs set to Year 5 spec, and Lance One is already inside. Stakes: your team mark, and mine. Clock: three bells, and the third bell ends the run."
+Five lines of chalk covered the slate, and Rowan read them out loud because he read everything out loud. "Place: the Undercroft maze. Foe: constructs set to Year 5 spec, and spear One is already inside. Stakes: your team mark, and mine. Clock: three bells, and the third bell ends the run."
 
 "Good," Okoru said. "One more rule. Wren fights plain today, and he uses nothing that is not on the equipment list. No tricks, no shadow, no gold."
 
 Eden nodded once, and he kept his face still.
 
-School drill armor stood on a rack by the gate, with a label on the rail: **[Crest Harness]**. Dark grey cloth covered steel plates at the chest and shoulders. Brass buckles ran down the front, and a small white crest sat on the left breast. That metal was so cold it hurt through the cloth when Eden lifted it. He put the coat on first. Small sounds came from the buckles as he pulled them tight, one after another. Shoulder plates settled with a dull click. Bracers locked at the wrist. These boots were heavier than his own by half. Last came the helm. It was a plain steel cap with a bar across the eyes, and it smelled of oil and old sweat. He stood still for one breath inside it. Inside, the world narrowed to a strip of grey light. Then he took one step. That harness pulled at his shoulders as if a hand held him back.
+School drill plate stood on a rack by the gate, with a label on the rail: **[Crest Harness]**. Dark grey cloth covered steel plates at the chest and shoulders. Brass buckles ran down the front, and a small white crest sat on the left chest. That metal was so cold it hurt through the cloth when Eden lifted it. He put the coat on first. Small sounds came from the buckles as he pulled them tight, one after another. Shoulder plates settled with a dull click. Bracers locked at the wrist. These boots were heavier than his own by half. Last came the helm. It was a plain steel cap with a bar across the eyes, and it smelled of oil and old sweat. He stood still for one breath inside it. Inside, the world narrowed to a strip of grey light. Then he took one step. That harness pulled at his shoulders as if a hand held him back.
 
 "Walk to the gate and back," Okoru said.
 
@@ -26,11 +26,11 @@ Eden walked, and the plates did not move with him. They hung on his body and wai
 
 "You have a shield as well."
 
-Ash wood made the **[Drill Lance]**, with a blunted iron cap and a grip wrapped in old leather darkened by other hands. Plain oak made the shield, with an iron rim and a strap wide enough for a forearm, and it weighed more than the lance. Felix carried no shield at all, and his bow lay in a cloth case across his back. Clara had a short staff and a white band on her arm, and Lysette carried her twin batons in a flat case on her belt.
+Ash wood made the **[Drill spear]**, with a blunted iron cap and a grip wrapped in old leather darkened by other hands. Plain oak made the shield, with an iron rim and a strap wide enough for a forearm, and it weighed more than the spear. Felix carried no shield at all, and his bow lay in a cloth case across his back. Clara had a short staff and a white band on her arm, and Lysette carried her twin batons in a flat case on her belt.
 
 * * *
 
-In the Undercroft, the entry corridor was wide enough for four people, and the lamps there burned low and yellow. Okoru stopped the Lance at the first turn and told them to look at the floor.
+In the Undercroft, the entry corridor was wide enough for four people, and the lamps there burned low and yellow. Okoru stopped the spear at the first turn and told them to look at the floor.
 
 Felix knelt and put one hand flat on the stone. "**[Trail]**," he said, and a thin pale line came up out of the floor. It ran along the stones toward the first chamber and faded where a cart had been dragged over it and then swept. Faint as a scratch on glass, the line showed every place a boot had pressed.
 
@@ -42,7 +42,7 @@ Felix knelt and put one hand flat on the stone. "**[Trail]**," he said, and a th
 
 "The maze will break it," Felix said.
 
-Okoru tapped the wall with his stick. "You have three bells. Lance One went in four minutes ago." He looked at each of them once. "You are five strong people who have never worked as one unit. Today you learn what that costs."
+Okoru tapped the wall with his stick. "You have three bells. spear One went in four minutes ago." He looked at each of them once. "You are five strong people who have never worked as one unit. Today you learn what that costs."
 
 When the gate opened, they went in.
 
@@ -50,7 +50,7 @@ When the gate opened, they went in.
 
 After the first chamber, the maze changed. Smooth grey stone made the walls, with no seams, and lamps hung at shoulder height in iron brackets, each throwing a shadow across the floor in the shape of a dark bar. False walls moved on a slow clock, and their passing was quiet until the stone met the floor with a soft knock.
 
-Lance Nine went in a column with Rowan at the front and Clara behind him, and Eden took the third place because Okoru had put him there. Across the passage, the first false wall came down while they watched, and Rowan stopped so fast that Clara walked into his back.
+spear Nine went in a column with Rowan at the front and Clara behind him, and Eden took the third place because Okoru had put him there. Across the passage, the first false wall came down while they watched, and Rowan stopped so fast that Clara walked into his back.
 
 "Left," Rowan said.
 
@@ -62,7 +62,7 @@ Lance Nine went in a column with Rowan at the front and Clara behind him, and Ed
 
 They stood in the dark and argued about a passage, and the clock above the gate turned. Eden listened to the stone and said nothing, and the small hand on his own doubt moved forward.
 
-"Lance One is ahead," Felix said. He had his ear against the wall and his eyes shut. "I can hear their boots through the stone."
+"spear One is ahead," Felix said. He had his ear against the wall and his eyes shut. "I can hear their boots through the stone."
 
 "Then we go now," Rowan said.
 
@@ -106,7 +106,7 @@ They went left, and the passage turned twice. Then it opened into a long hall, a
 
 "Six," Felix said. "That is not a Year 5 number."
 
-"It is a Year 5 number if you are Lance One," Lysette said, and she looked back the way they had come. "We are behind, and the bell is close."
+"It is a Year 5 number if you are spear One," Lysette said, and she looked back the way they had come. "We are behind, and the bell is close."
 
 Rowan put his shield up and his spear down. "I will take the middle."
 
@@ -118,7 +118,7 @@ Rowan put his shield up and his spear down. "I will take the middle."
 
 All at once, the constructs came forward. Their feet made a flat sound on the stone. Rowan met the first one with his shield and turned its blade aside. Wood scraped along the iron rim and threw sparks. He put his spear into the joint at its knee. It folded forward and fell into the second one. Felix ran along the wall with his head down and his bow on his back. He was looking for the door, not the fight.
 
-A blade came at Eden's shoulder. He put the drill shield in its way and let it hit. That blow went up his arm and into his teeth. His harness took the rest, and the plates moved a finger's width and settled again. He stepped back, set his feet, and put the lance into the construct's elbow joint. Its arm stopped. A second blow came low, and he blocked it and pushed. It went back one step and came on again.
+A blade came at Eden's shoulder. He put the drill shield in its way and let it hit. That blow went up his arm and into his teeth. His harness took the rest, and the plates moved a finger's width and settled again. He stepped back, set his feet, and put the spear into the construct's elbow joint. Its arm stopped. A second blow came low, and he blocked it and pushed. It went back one step and came on again.
 
 "Clara!" Rowan shouted, and his voice cracked on the name.
 
@@ -130,7 +130,7 @@ They backed to the wall, and the constructs came on in a line. Rowan's shield to
 
 "**[Witness]**," she said.
 
-Behind her, the air went pale, and a ghost-light replay opened like a sheet of thin rain. It showed the hall four minutes ago. Lance One ran through it, and the far door was open. A construct pulled the door shut behind them. Faint and cold, the picture shook at the edges.
+Behind her, the air went pale, and a ghost-light replay opened like a sheet of thin rain. It showed the hall four minutes ago. spear One ran through it, and the far door was open. A construct pulled the door shut behind them. Faint and cold, the picture shook at the edges.
 
 "The far door is on the left," Lysette said through her teeth. "It is open for four breaths, and then the wall closes it."
 
@@ -140,7 +140,7 @@ They went. Felix reached the door first and put his shoulder into it, and the wo
 
 As they came out into the entry corridor, the third bell rang, and Okoru stood there with his slate and did not smile.
 
-"Third," he said. "Lance One took the first mark by forty seconds. You lost the second mark in the hall of six, and you lost the third at the first wall, when you stood and argued."
+"Third," he said. "spear One took the first mark by forty seconds. You lost the second mark in the hall of six, and you lost the third at the first wall, when you stood and argued."
 
 Rowan's face fell. "We finished."
 
@@ -168,4 +168,4 @@ Felix came over with his bow case on his shoulder. "The man in the grey coat was
 
 "You did not ask."
 
-Eden looked at the empty arch for a moment longer. Then he picked up his drill lance, and he carried it back to the rack with the others, and he did not stop thinking about the man who watched Rowan and not the fight.
+Eden looked at the empty arch for a moment longer. Then he picked up his drill spear, and he carried it back to the rack with the others, and he did not stop thinking about the man who watched Rowan and not the fight.

@@ -32,11 +32,11 @@ The tunnel was not a tunnel in the way a cellar was a tunnel. It had walls that 
 
 Eden had laid the lines two days before the first night. Painting dark oil under beams and along the sill of empty stores. The lamp men had walked past them without looking twice. The lines held shadows in the morning light. The shadows were Doors waiting for a knock. He marked the mouth of the tunnel on a piece of paper with a pencil. He marked the turn where the stone breathed hardest. He put the paper in his boot because the camp was searched in the mornings.
 
-Eden marked the turn where the wall breathed hardest. He put a small scratch on the stone with his lance point so that he would find it in the dark. And Vesk watched him do it and said that a mark was a promise to come back. That some promises were better not made. Eden said nothing, and he wrote the turn in his notebook, and he put the notebook inside his coat where the sweat would not reach it.
+Eden marked the turn where the wall breathed hardest. He put a small scratch on the stone with his spear point so that he would find it in the dark. And Vesk watched him do it and said that a mark was a promise to come back. That some promises were better not made. Eden said nothing, and he wrote the turn in his notebook, and he put the notebook inside his coat where the sweat would not reach it.
 
 On the second night he found gloves.
 
-They lay on a flat stone in a side passage. They were grey work gloves with the fingers curled as if a hand had just taken them off. There were grey veins on the leather where the skin had touched it. Eden picked one up with the tip of his lance and turned it over. The inside was warm.
+They lay on a flat stone in a side passage. They were grey work gloves with the fingers curled as if a hand had just taken them off. There were grey veins on the leather where the skin had touched it. Eden picked one up with the tip of his spear and turned it over. The inside was warm.
 
 "Grafted," Vesk said. "Not a Veil. A person wearing Hush under the skin. Doing it recently, because the leather has not gone hard yet."
 
@@ -54,7 +54,7 @@ A groundskeeper's boot, he thought, and he did not write it down.
 
 Felix looked at the grey in the tin when Eden showed it to him. He did not ask where it had come from. He said that the grey had been on the glove in a thin line. Like a man had touched it and then taken his hand away quickly. That was a different thing from a Husk mark, and Eden said that he knew. Felix said that if Eden ever wanted a second pair of eyes down there he should ask. And Eden said that he would. And Felix said that he knew he would not. That he would come anyway if the third night turned into a fourth.
 
-Before the fourth night Okoru called Lance Nine to the stores and handed out sealed gloves and hoods. The gloves were ward-plate with taped joints and a folded second cuff. The hoods covered the neck and fastened under the chin. No skin showed anywhere when they were done.
+Before the fourth night Okoru called spear Nine to the stores and handed out sealed gloves and hoods. The gloves were ward-plate with taped joints and a folded second cuff. The hoods covered the neck and fastened under the chin. No skin showed anywhere when they were done.
 
 "A drop of Husk blood on an unsealed cuff will grey the leather along the seam in a few hours," Okoru said. He held up a strip of leather with a grey line running through it to show them. "Dead grey stays active for four hours. Do not touch it, and do not let it touch you. The nest is under this camp, and you are going to look at it sealed."
 

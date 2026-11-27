@@ -92,7 +92,7 @@ Okoru took the notice down and folded it. "Put it in the staff room instead. The
 
 "Because you are the vice-chair and you look serious." He walked off, and Lysette followed with the folded notice in her hand. A second-year stopped Eden in the corridor and asked him to sign a sheet that said he had been present at a class he had not attended. Eden signed it in the wrong place, and the boy ran off with the paper, and Lysette tore it up an hour later.
 
-On Tuesday Lysette caught Felix coming out of the library with two trays balanced on one arm. "Felix Ashgrove," she said. "Why are you carrying lunch for two?"
+On Tuesday Lysette caught Felix coming out of the library with two trays baspeard on one arm. "Felix Ashgrove," she said. "Why are you carrying lunch for two?"
 
 "Committee business," Felix said.
 

@@ -118,7 +118,7 @@ The wind moved the string of her braid, and she did not put her book down, and s
 
 "No," Eden said, and it was true, and it was not the answer he would have given if he had been choosing one.
 
-"Thirteen knights in black armor. They came back with the king after the last war, and nobody knows their names, and nobody knows whose orders they take." Her hand went to her throat, and her fingers closed over the locket under the collar, and they stayed there. "My brother came home from court and could not dance after that. He stood at the edge of the room all night, and he told my mother it was the heat. It was December."
+"Thirteen knights in black plate. They came back with the king after the last war, and nobody knows their names, and nobody knows whose orders they take." Her hand went to her throat, and her fingers closed over the locket under the collar, and they stayed there. "My brother came home from court and could not dance after that. He stood at the edge of the room all night, and he told my mother it was the heat. It was December."
 
 "He was twenty when he came back from court," Lysette said. "He had been at the capital for six months, and he had learned to dance, and my mother had ordered a coat for him with silver buttons. He came home in that coat and stood by the wall at every party, and when the music started he turned the button on his cuff round and round with his thumb."
 
@@ -152,8 +152,8 @@ Eden looked at her hand and then at the city. There were three true sentences he
 
 "I will wear the locket." Her fingers went to her throat again, and then she took them away. "It is the only thing in this school that was mine before I was old enough to argue."
 
-She went down the stair, and Eden stayed on the bench until the roof door had stopped moving. Above him the sky was clear and cold, and below him the city kept its yellow windows, and he thought about the black armor and the man who could not dance, and he wrote nothing in his notebook.
+She went down the stair, and Eden stayed on the bench until the roof door had stopped moving. Above him the sky was clear and cold, and below him the city kept its yellow windows, and he thought about the black plate and the man who could not dance, and he wrote nothing in his notebook.
 
 He went down the stair at last, and the hall was dark, and the green poster on the board showed its gold lanterns in the half light. He stopped in front of it for a while, and he read the line about formal dress, and then he walked past it to the store room where his coat hung, and he took the key from his pocket and opened the door.
 
-The store room was cold and empty, and his drill lance stood in its rack with dust on the blunted cap. He put his coat on a hook and sat on the crate by the door, and he listened to the pipes in the wall until the evening bell rang over the court.
+The store room was cold and empty, and his drill spear stood in its rack with dust on the blunted cap. He put his coat on a hook and sat on the crate by the door, and he listened to the pipes in the wall until the evening bell rang over the court.

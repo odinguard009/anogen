@@ -136,7 +136,7 @@ The guardian line had one word in it: "Household." Not a name, not a title, and 
 
 Lysette put the file back in the drawer and locked it. Then she wrote one line in her book: "Ask Wren why the palace pays for his bread." She looked at the line for a while and drew a small question mark beside it.
 
-The afternoon round took her past the practice yard, where Lance Nine was working with wooden swords. Rowan was on the ground with his arms out and his feet in the air. Clara stood over him with a wooden blade and a straight face. Felix was laughing behind his hand, and Eden was watching from the wall with no expression at all.
+The afternoon round took her past the practice yard, where spear Nine was working with wooden blades. Rowan was on the ground with his arms out and his feet in the air. Clara stood over him with a wooden blade and a straight face. Felix was laughing behind his hand, and Eden was watching from the wall with no expression at all.
 
 Lysette stopped at the fence for a moment.
 

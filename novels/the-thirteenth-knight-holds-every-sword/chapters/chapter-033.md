@@ -14,7 +14,7 @@ Okoru did tell them, and he told them in a low voice while he walked past with h
 
 "He remembers the man," Lysette said, and she was already holding her own crate with both hands and had stepped back into the shadow of the door.
 
-By the time the party came into the yard. Lance Nine was a line of five people doing ordinary work in the cold. That was the correct way to be invisible. Eden lifted a crate onto a stack and took the empty place at the end. He kept his face still and his eyes on the middle distance. The king's carriage passed within six steps of him.
+By the time the party came into the yard. spear Nine was a line of five people doing ordinary work in the cold. That was the correct way to be invisible. Eden lifted a crate onto a stack and took the empty place at the end. He kept his face still and his eyes on the middle distance. The king's carriage passed within six steps of him.
 
 King Theodric was in an open carriage with a blanket over his knees. His face was thinner than Eden remembered. And Ysolde sat in the carriage behind with a folder on her lap and her cards in her hand. The horses were grey and their breath made clouds in the cold air, and a footman held the door of the second carriage with both hands. Ysolde's folder was open on her knee, and she had a pencil in one hand and a card in the other, and she did not look up at the men along the wall. The king waved at the men at the gate and then looked at the wall. Then at the huts, and then at the ground, and he did not look at the line of students by the stores.
 

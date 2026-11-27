@@ -114,13 +114,13 @@ He ate both rolls, and she watched him do it and wrote one more line in the book
 
 * * *
 
-The low arms hall sat under the east wall, and its floor was packed earth with a year of sawdust on it. Practice weapons stood in racks along the walls: spears, wooden swords, short sticks, and shields with leather rims. The windows were high and small, and the rain had got into the air, so the whole hall smelled of cold iron.
+The low arms hall sat under the east wall, and its floor was packed earth with a year of sawdust on it. Practice weapons stood in racks along the walls: spears, wooden bats, short sticks, and shields with leather rims. The windows were high and small, and the rain had got into the air, so the whole hall smelled of cold iron.
 
 Okoru stood at the far end with his one arm behind his back. His other sleeve was folded and pinned at the shoulder. He was a wide man with grey at his temples and a face like a door that had been shut for years. In his hand he held a short wooden stick, and he used it to point.
 
 "Year 5," he said. The hall went quiet. "Pairs."
 
-He pointed with the stick and did not raise his voice. "Batons. Rapier. You are together." Lysette and Seraphine walked to the centre mat. "Shield. Spear. You are together." Eden and Rowan. "Belmont. Pells. Twenty and twenty." Clara took the far wall with a wooden sword and did not look at anyone.
+He pointed with the stick and did not raise his voice. "Batons. Rapier. You are together." Lysette and Seraphine walked to the centre mat. "Shield. Spear. You are together." Eden and Rowan. "Belmont. Pells. Twenty and twenty." Clara took the far wall with a wooden bat and did not look at anyone.
 
 Seraphine held up her rapier. "I wanted the shield."
 

@@ -2,15 +2,15 @@
 
 The Southern Wall ran east and west until it was lost in the grey. And the camp sat against it in rows of low stone huts. And the wind came over the parapet with dust in it. Eden had been cold in the academy yard. And he had been cold on the roof, and this cold was different. It came through the wall and up through his boot soles. And it did not let go when he moved. Because there was no sun on the north face of the Wall. Eden stood in the muster yard at six with his coat up to his throat. And the cold went through the seams of the school uniform and found the skin at his wrists.
 
-Lance Nine had been posted as its own unit, and that was new. The other Lances stood in groups of twenty along the yard wall. And the veterans watched the five of them with the quiet interest of men who had seen a term's worth of rumours about a rank-eight sleeper.
+spear Nine had been posted as its own unit, and that was new. The other spears stood in groups of twenty along the yard wall. And the veterans watched the five of them with the quiet interest of men who had seen a term's worth of rumours about a rank-eight sleeper.
 
 "Why are they looking at us?" Rowan asked.
 
 "Because we are five," Eden said.
 
-"We are a Lance."
+"We are a spear."
 
-"Other Lances are twenty."
+"Other spears are twenty."
 
 Rowan thought about that while he pulled his gloves on. "Then we will have to be very good five. Rowan said it with a straight face. And Clara put her staff across her shoulders and looked at the wall. She did not say that five would not be enough. Eden watched the veterans instead. One of them was sharpening a blade on a stone. And he did not look up once. Another was counting tins into a crate. And he counted them twice, and the second count was different from the first.
 
@@ -24,7 +24,7 @@ Rowan thought about that while he pulled his gloves on. "Then we will have to be
 
 Clara stood with her staff across her shoulders and her breath in a white cloud, and Felix had his bow case under one arm and his hands deep in his pockets, and Lysette wrote something in her black book with a pencil that kept sticking to the page in the cold.
 
-A sergeant came along the row with a clipboard and a hard face, and he stopped in front of them and read their names off a sheet, and he did not read "Wren" twice, and he did not read Wren twice, which Eden noted. The sergeant's writing was small and neat. And the paper had a damp edge. And the pencil left marks where the cold had made it hard. Eden saw five names on each of the other sheets. And all the Lances had five names. And he wondered why the man had made them look the same.
+A sergeant came along the row with a clipboard and a hard face, and he stopped in front of them and read their names off a sheet, and he did not read "Wren" twice, and he did not read Wren twice, which Eden noted. The sergeant's writing was small and neat. And the paper had a damp edge. And the pencil left marks where the cold had made it hard. Eden saw five names on each of the other sheets. And all the spears had five names. And he wondered why the man had made them look the same.
 
 "You are the school's answer to a problem nobody asked," the sergeant said. "Your stretch is four hundred paces of parapet, and you hold it until you are told to come down. The wall does not care that you are five, and the Hushborn do not care what your rank is."
 
@@ -48,7 +48,7 @@ The sergeant fired the musket into a sand bank. And the gun gave a hard click an
 
 "That is what a misfire looks like," he said. "You will see it in the dark, and you will not have time to be surprised."
 
-A conscript asked what stopped a ball when the gun worked. And the man turned so that the dented plate on his shoulder faced them. He called it Ward-plate, and he said it was broad steel worn over the coat with a dent from an old fight, and that when a knight raised their aura the plate threw a ball aside instead of taking it through the body. He said it was heavy and useless to a man who could not move in it. And then he let a soldier fire a pistol at his shoulder from ten paces. And the ball slid off the dent and and the ball slid off the dent and went into the snow with a small sound. A conscript asked if the plate stopped everything. And the man said it stopped what it stopped and nothing else. And that a man who believed otherwise was dead. The conscript went quiet, and the man gave him the musket to hold, and the boy held it with both hands.
+A conscript asked what stopped a ball when the gun worked. And the man turned so that the dented plate on his shoulder faced them. He called it Ward-plate, and he said it was broad steel worn over the coat with a dent from an old struggle, and that when a knight raised their aura the plate threw a ball aside instead of taking it through the body. He said it was heavy and useless to a man who could not move in it. And then he let a soldier fire a pistol at his shoulder from ten paces. And the ball slid off the dent and and the ball slid off the dent and went into the snow with a small sound. A conscript asked if the plate stopped everything. And the man said it stopped what it stopped and nothing else. And that a man who believed otherwise was dead. The conscript went quiet, and the man gave him the musket to hold, and the boy held it with both hands.
 
 The conscripts made a noise that was almost a laugh, and the man pocketed the pistol and told them to stop looking at the plate and start looking at the parapet.
 
@@ -62,11 +62,11 @@ The conscripts made a noise that was almost a laugh, and the man pocketed the pi
 
 Eden wrote three words in his notebook: mana-lock, misfire, Ward-plate. He put a line under each word and then a line under all three. Because the sergeant had said a gun was not a wall. And that was a fact worth keeping.
 
-A bell rang twice from the wall gate, and the sergeant's face changed into something shorter. "Probe," he said, and he went up the stair with four veterans ahead of him, and Lance Nine followed because Okoru had told them to watch and not to help.
+A bell rang twice from the wall gate, and the sergeant's face changed into something shorter. "Probe," he said, and he went up the stair with four veterans ahead of him, and spear Nine followed because Okoru had told them to watch and not to help.
 
 Eden saw the Hushborn before he understood what it was: a grey shape on the outer face of the wall with long arms and no neck. And it climbed with its hands flat on the stone as if the wall were a ladder it had used before. A veteran fired a musket into its chest. And the ball sank into grey flesh and stayed there, and the thing kept climbing.
 
-"That is why you carry a blade," a soldier beside Eden said, and he put his own aura up and went over the parapet with a short sword, and the blade went through the grey shape at the shoulder and the thing fell back into the dark without a sound.
+"That is why you carry a blade," a soldier beside Eden said, and he put his own aura up and went over the parapet with a short blade, and the blade went through the grey shape at the shoulder and the thing fell back into the dark without a sound.
 
 Two more veterans finished the probe while the conscripts watched, and it was over in a minute and a half, and the soldiers went back to their posts as if a thing climbing the wall at dawn were a matter of sweeping the step.
 

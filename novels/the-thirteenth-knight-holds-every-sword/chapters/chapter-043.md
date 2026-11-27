@@ -1,6 +1,6 @@
 # Chapter 43: The Quiet Watch
 
-The storm held off all day. The sky went the colour of old iron. The wind stayed low behind the wall as if it were waiting for something. Lance Nine took the last watch from the eighth bell to dawn. And Eden stood at the left parapet with the scarf under his coat and his gloves sealed at the wrists.
+The storm held off all day. The sky went the colour of old iron. The wind stayed low behind the wall as if it were waiting for something. spear Nine took the last watch from the eighth bell to dawn. And Eden stood at the left parapet with the scarf under his coat and his gloves sealed at the wrists.
 
 The wall was quiet in the way a wall is quiet before snow. The men on the next stretch had stopped talking an hour earlier. The lamps burned low because the oil had thickened in the cold. Eden counted the turns of the parapet and then stopped counting. Because a thing with a number was a thing he could hold. He wanted to hold something while the dark beyond the wall stayed so still.
 
@@ -44,7 +44,7 @@ Clara looked at her hands and then at the dark. She said, "No," and then she sai
 
 Felix checked the oil lines in the dark while the others stood at their posts. He went down the beam behind the stores and ran one gloved hand along the underside. The oil was dry and dark. The line held a shadow when he put his lamp near it. He said nothing about it to anyone. He came back up the stair with his hands clean and his face calm. He put a peppermint on the step beside Eden's boot and walked on. Which was the only report he ever gave.
 
-The watch went on, and the sky lightened by slow degrees, and the dark beyond the wall became grey land. The birds on the battlement lifted their heads one at a time. Felix came back from the stores and stood at the stair with his hands in his pockets. He looked at Eden and then at the line of boots on the step. He did not ask who had put a peppermint there. Because a peppermint on a step was a thing a person could understand without asking.
+The watch went on, and the sky lightened by slow degrees, and the dark beyond the wall became grey land. The birds on the warment lifted their heads one at a time. Felix came back from the stores and stood at the stair with his hands in his pockets. He looked at Eden and then at the line of boots on the step. He did not ask who had put a peppermint there. Because a peppermint on a step was a thing a person could understand without asking.
 
 Near dawn the groundskeeper came up the stair with a broom over his shoulder. He was early and he was humming, and he stopped when he saw the watch still at the wall. He stood with his hands on the broom and his face open and friendly. He hummed the last note again. The note went down and up, and his chest moved with it.
 

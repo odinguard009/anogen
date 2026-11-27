@@ -1,57 +1,51 @@
-# Chapter 49: The Look
+# Chapter 49: The Seam
 
-Eden stood on the Wall. Dawn. The Pale was grey. The sky was grey. Everything was grey.
+The night had been long. The fire had burned down to lines of red in the ash. The men who had been on watch stood in groups with their hands under their arms. Their faces grey with smoke. Lysette had written the number of the living on a fresh page. Then had crossed it out and written a question mark. Because one of the forty was a boy with a knife at his throat. A question mark was the only honest mark she had. She said this to FelixHe said that a question mark was a good mark when a person did not know the answer. She said that she did know the answer. Did not like it. He said nothing to that because there was nothing to say.
 
-But something was different. The Pale was moving. Not the Hushborn. The Pale itself. It was shifting. Growing. Slowly. Like a tide.
+The dawn came grey and cold over the camp. The snow that had fallen in the night lay in patches on the ash. The Lance stood in a half circle with the smoke drifting between them. Harrow ten steps away with the knife at the boy's throat.
 
-Eden watched. He used his telescope. The Pale was advancing. Not fast. But steady. It was eating the ground. The ground was turning grey. Turning silent. Turning dead.
+Lysette had her batons down and her Witness ready. She had not moved since the smoke cleared. She was waiting for the one still moment when a replay would hold. Felix had the round shield on his arm. His last arrow in his coat. He was not using either. Because a knife at a throat was not a thing a bow could answer. Rowan stood with his hands wrapped in cloth and his spear low. And Clara was behind him with her staff planted in the snow. Her face pale under the cold.
 
-He flashed a signal. "Pale advancing. South."
+Strent stood at the table with his sheet in his hand. His pen down. He said the Crown's name once. And Harrow looked at him. And Strent said that a man who had come a long way should say what he wanted before he took it. Harrow said that he wanted a name. And Strent said that names were kept in records. That records were kept by clerks. And Harrow laughed and said that he had met clerks before and that their records had always burned well. And Strent put the pen down very carefully and did not answer. And Lysette watched him do it. Wrote one line in her own book.
 
-The tower flashed back. "How fast?"
+Harrow shouted a name into the yard. It was a man's middle name. He shouted it with his grey arm up. His face turned toward the Lance. The word went across the snow. Into the tents and came back as an echo.
 
-Eden watched. He measured. "One step per hour. Slow. But steady."
+Nothing rang.
 
-The tower flashed: "We will watch."
+No bell sounded in the camp or in the palace or anywhere under the sky. The air did not change. The grey in Harrow's neck kept the same shape. The boy's throat showed a red line where the blade sat. Harrow shouted the name again. Louder, and the echo came back, and there was still no bell, and his face changed because he had expected one.
 
-Eden put down the mirror. He looked at the Pale. It was coming. Slow. But it was coming. And nothing could stop it. Not the Wall. Not the soldiers. Not the wards.
+Eden watched his face and counted the pulse under his own collar. He thought that a bell would not ring for a thing like him. That this was a fact of a kind. He put the thought away because the knife was still at the boy's throat.
 
-Only one thing could stop it. Closing the Wound. At the south pole. Where the Hush came from.
+He went polite and quiet. Which was the way he went when a thing had to be done without a witness. He took off his left glove one finger at a time. Put it in his coat. The cold went into his hand at once. Made it pale. He drew **[Inead]** with the bare hand. The gold sword made one clear note in the yard. The light from it laid itself along the grey line at Harrow's neck where the graft met the skin. The seam showed: a hairline. Dark at one end, running under the collar. Out again near the jaw.
 
-Eden thought about this. The Wound. The south pole. The Hush. Aiwa. The planet. The mother.
+Harrow's knife moved a fraction, and the boy's eyes shut.
 
-He needed to go to the south pole. He needed to close the Wound. He needed to end the invasion.
+Eden looked at Harrow, and he did not say a word, and he did not raise the sword, and he simply looked, and the knife stopped moving, and the grey in the Crown's face went still, and the yard went quiet enough that a man could hear the snow settling on the ash.
 
-But he could not go alone. He needed an army. He needed allies. He needed the circle.
+Valerius had his blade down and his hand open. He said that the boy would live. Nobody answered him, because a man with a knife at a throat can still cut. The yard was full of people who knew it. Rowan's hands were wrapped in cloth. He held his spear with his elbows at his sides. He said in a low voice that he could not do it. And Clara said that he did not have to. He said that he was the one with the light. She said that the light had gone out of him at the step. That he had held the line anyway. He said nothing after that because it was true.
 
-He thought about Lysette. She was strong. She was smart. She could help.
+Felix saw it and said nothing. His hand went to his coat where the last arrow was. Then came away.
 
-He thought about Rowan. He was kind. He was powerful. He could help.
+Eden took one step and then another. The gold light went along the seam under Harrow's jaw. The blade found the hairline where the skin met the grey. It went through without sound. The **[Lampwick]** was a sword following a seam its own light had shown. It needed light and a seam, and it had both.
 
-He thought about Felix. He was loyal. He was fast. He could help.
+The knife fell from Harrow's hand and struck the snow without bouncing. The boy dropped forward onto his hands. Crawled away with his hands over his throat. And Valerius was there in three steps with his blade at the Crown's chest. The grey arm came up once and stopped. The grey in Harrow's neck spread to his jaw. Then to his mouth. He said a word that was not a word. Fell to his knees.
 
-He thought about Valerius. He was smart. He was powerful. He could help.
+Lance Nine saw only white light. A dark shape near the ground. The light went out. The shape was gone from the place where it had been. And Eden stood flat against the wall of the stores with his hand on the seam of the shadow under the eaves. His bare hand closed around nothing. He put the glove back on because the cold had begun to hurt.
 
-He thought about Seraphine. She was playful. She was diplomatic. She could help.
+Lysette dropped to her knees in the snow beside the water barrel. She put both hands flat on the ground. Closed her eyes. The Witness came up around her in pale ghost-light. It showed the yard as it had been ten breaths earlier: the knife at the boy's throat. The Crown's grey arm, the Lance in a half circle,. A place where the snow had been pressed flat by a boot that was not there now. The light held, and the dust in the replay hung still for one breath above the pressed snow instead of falling, and then the picture thinned and was gone, and Lysette opened her eyes and looked at the empty place where the boot had been.
 
-He needed all of them. He needed the circle. He needed to build it.
+She stayed on her knees for a while with her hands in the snow. Then she wrote one line in her book. Did not look at it. She got up and went to the boy who was sitting in the snow with his hands on his throat. She put a blanket around him. Said that he was safe. He nodded and did not make a sound. She looked over his head at the place where the light had been. Kept looking at it after the others had moved on.
 
-He would build it. He had time. The Pale was slow. He had time.
+When the boy was wrapped in the blanket. Taken to the infirmary with a soldier on each side. The yard began to make its ordinary sounds again: men kicking ash over the last of the fires. The cook calling for a pot. A prefect counting tins and then counting them again because the first count was wrong. Valerius stood over the kneeling body of the Crown with his blade still in his hand. He said that the man was dying. That it was a slow death because the grey had reached his jaw. And Strent wrote that down as if it were a note on a late essay. Then put his pen in his coat. Walked away without another word.
 
-He looked at the Pale. It was grey. It was silent. It was patient.
+Felix came and stood beside Eden at the wall. He held out the round shield so that the feather mark showed. He said that he had seen the light. The dark shape and that he had also seen a bare hand. That a man who took off a glove in a fight was a man who wanted a seam for a blade. And Eden said nothing, and Felix said that he would not ask and that he had already decided not to tell, and he put the shield back on his arm and went to help the cook with a pot, which was the strangest answer Eden had heard that winter and the one he understood best.
 
-But Eden was more patient. He would outlast it. He would outthink it. He would end it.
+Rowan sat on the step with his hands in his lap. His spear across his knees. And Clara sat beside him with her staff planted in the snow. Her shoulder bound in a clean cloth. She said that he had done well. He said that he had done nothing. And she said that holding a line while a girl went after a boy was not nothing. And he looked at her for a while. Then said that he would have gone himself if his hands had answered. And she said that she knew. And he said that she had known and had gone anyway. And she said that this was what friends were for, and he put one cloth-wrapped hand over hers and left it there, and neither of them said anything else.
 
-He looked at the reading stone in his hand. Aiwa. The planet. The mother. She was there. She was sad. She was waiting.
+Lysette came out of the infirmary with her book under her arm. Her round sheet in her hand. And she stopped at the place where the snow had been pressed flat. And she looked at it for a long time. And then she wrote a line in the book. Tore the page out and folded it into her pocket. And she walked past Eden without looking at him. And he stood with his back to the wall. Watched her go. And the snow began to fall again over the yard. And the dust on the ground stayed still where it had fallen. And he counted five flakes before he lost the count.
 
-Eden would not make her wait forever. He would end it. For her. For the world. For everyone.
+The snow came down slowly over the yard. And it lay on the ash in white patches. Melted where the fires had been. And the cook came out of the kitchen with a pot of water. Put it on the step for anyone who wanted a drink. A soldier took the boy from the infirmary a short time later. Carried him to the south gate on a stretcher made from two spears. A coat. And the boy held the blanket with both hands. Looked at the sky as he went. And Lysette walked beside the stretcher and did not write anything down.
 
-He put the stone in his pocket. He walked down from the Wall. He went to the barracks. He sat by the fire.
+Strent came to stand beside Eden at the wall. And he said that the Crown was dying. That a dying man sometimes says things that are true. And that he had heard Harrow shout a middle name at the sky. Had heard no answer. And Eden said that he had heard it too. Strent said that a bell was a heavy thing. That it was strange that one should fail to ring when a man called for it. And Eden said that some bells were like that. And Strent looked at him for a moment. Then said that he had always thought Eden Wren was a boy who understood machines. And he walked away to his table. And Eden stayed at the wall with his gloved hand on the cold stone and his bare hand hidden in his coat.
 
-He wrote in his notebook: "Pale advancing. One step per hour. Need to close Wound. Need circle. Need allies. Need time. Have time."
-
-He closed the notebook. He looked at the fire. The flames were warm. The fire was light. Light was good.
-
-He would bring light to the Pale. He would bring light to the Wound. He would bring light to the world.
-
-He slept. No dreams.
+Felix came back from the south gate with the round shield on his arm. His hands in his pockets. And he said that the boy was alive. That he had asked for tea. And that this was a thing a person could be glad about without writing a form. And Eden said that it was. And Felix said that he was going to have tea whether anyone wrote a form or not, and he went into the kitchen, and Eden heard him ask the cook for a cup, and her answer came back loud enough to carry across the yard, and it was yes.

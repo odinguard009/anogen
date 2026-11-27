@@ -146,7 +146,7 @@ She opened her mouth and shut it again. Eden thought she could not tell if he wa
 
 "He does it standing up. He eats standing up too." She almost smiled, and then she remembered not to.
 
-"He made her a lantern," she said. "Out of paper, by himself. He's terrible at folding. He's terrible at anything with his hands unless it's a sword. It was all crooked, and everyone said aww, like it was a puppy."
+"He made her a lantern," she said. "Out of paper, by himself. He's terrible at folding. He's terrible at anything with his hands unless it's a practice blade. It was all crooked, and everyone said aww, like it was a puppy."
 
 Her voice cracked, and she stopped and waited for it to pass.
 
@@ -200,13 +200,13 @@ She walked to the door and turned halfway through it.
 
 "About the thyme?"
 
-She gave him the look she kept for duelists who forgot to bow. Then the door shut, and her steps went down the first stairs fast, slowed on the second set, and faded.
+She gave him the look she kept for students who forgot to bow. Then the door shut, and her steps went down the first stairs fast, slowed on the second set, and faded.
 
 * * *
 
 Downstairs, Brandmeier would be reading his name into a quiet room about now.
 
-Eden lay down again in the shade. Far below, a groundskeeper was shouting at a wheelbarrow. He closed his eyes and waited for the field. It did not come, and he could not sleep either, which annoyed him. He put his hand on his breast pocket. It was empty, and a minute later he checked again anyway.
+Eden lay down again in the shade. Far below, a groundskeeper was shouting at a wheelbarrow. He closed his eyes and waited for the field. It did not come, and he could not sleep either, which annoyed him. He put his hand on his coat pocket. It was empty, and a minute later he checked again anyway.
 
 So she watered the beds. That explained the thyme and the sage, and why the mint had not taken over the wall. It did not explain the grass, because nobody waters grass until it looks like summer in November. It did not explain the apple tree either. He looked up from underneath and saw one white flower on the highest twig, small, silly, and out of season.
 

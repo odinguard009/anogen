@@ -144,7 +144,7 @@ Felix looked at the wall and then at the fire.
 
 "Because you will eat it anyway. Felix walked away, and Eden ate the bun, and it was burned, and it was warm in the middle, and he did not say anything about either of those facts.
 
-The wall went on with its ordinary work. And the men checked the parapet and counted the tins and cleaned the lamps. And the silence did not come back that week. And every morning the birds on the battlement called at dawn as if nothing had happened. And Eden counted them because they were a thing with a number.
+The wall went on with its ordinary work. And the men checked the parapet and counted the tins and cleaned the lamps. And the silence did not come back that week. And every morning the birds on the warment called at dawn as if nothing had happened. And Eden counted them because they were a thing with a number.
 
 "Did you sleep? Felix asked Eden at the end of the week.
 

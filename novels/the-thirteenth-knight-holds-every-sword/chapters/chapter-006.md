@@ -1,4 +1,4 @@
-# Chapter 6: Lance Nine
+# Chapter 6: spear Nine
 
 Okoru poured the grey dust onto a sheet of paper, and he folded the paper twice before he spoke. "This was inside the core," he said. "It kept the shape of the plate, so it was packed there before the plate cracked."
 
@@ -16,7 +16,7 @@ Clara read her sheet without any change on her face, and she said, "Three."
 
 "Eight," Eden said, and he did not look up from his sheet.
 
-Okoru tapped the fourth sheet with his stick. "Lance Nine," he said, and he read the five names in a flat voice. "Clara, Rowan, Lysette, Felix, Eden." He read the numbers again in the same order, as if the list were a sum. "Three, two, four, nineteen, eight."
+Okoru tapped the fourth sheet with his stick. "spear Nine," he said, and he read the five names in a flat voice. "Clara, Rowan, Lysette, Felix, Eden." He read the numbers again in the same order, as if the list were a sum. "Three, two, four, nineteen, eight."
 
 "Why is Felix on it?" Rowan asked.
 
@@ -32,7 +32,7 @@ Okoru tapped the fourth sheet with his stick. "Lance Nine," he said, and he read
 
 "That is not a good sum," Felix said.
 
-"It is the best sum I can make today," Okoru said. "You fight at the back, and Hollen keeps you alive. Rowan hits hard, Belmont knows when to stop, and Wren reads the ground." He turned to the crowd. "I am not building a comfortable Lance. I am building one that can stand."
+"It is the best sum I can make today," Okoru said. "You stand at the back, and Hollen keeps you alive. Rowan hits hard, Belmont knows when to stop, and Wren reads the ground." He turned to the crowd. "I am not building a comfortable spear. I am building one that can stand."
 
 Rowan hit the board with the flat of his hand. "We can stand," he said, and he kept his hand on the board.
 
@@ -52,7 +52,7 @@ Rowan's chin came down.
 
 Lysette Hollen's pencil stopped on the page, and she looked at the number beside her name. "It says advise," she said, and she turned the page toward him.
 
-"It says supervise." Okoru set the stick on the board. "That means you watch him and write what he does. You wanted to know where he goes at night, and now you know where he stands in a fight. Both are your job."
+"It says supervise." Okoru set the stick on the board. "That means you watch him and write what he does. You wanted to know where he goes at night, and now you know where he stands in a trial. Both are your job."
 
 Rowan leaned across the board. "Does that mean she tells me where to stand as well?"
 
@@ -90,7 +90,7 @@ Lysette closed her book and walked beside him toward the door. "The dust," she s
 
 The chapel corridor ran along the north side of the school, and its tall windows looked out on the wet court. The windows were narrow, and the grey court beyond them made the gold paint look warmer than it should. Between two windows, a long fresco covered the wall: a knight in a pale cloak held out both hands, and gold light had been painted in the palms. The paint had worn thin in places, so the stone showed through the knight's face, but the hands were still bright.
 
-Lance Nine stood in front of the fresco while a chaplain said the short blessing. The chaplain was an old man with a shaking hand, and he lost his place twice, so the blessing took longer than it should. Rowan shifted from foot to foot, Clara stood with her hands folded, and Lysette stood half a step behind Eden with her book open. She was close enough to watch him and too polite to read over his shoulder.
+spear Nine stood in front of the fresco while a chaplain said the short blessing. The chaplain was an old man with a shaking hand, and he lost his place twice, so the blessing took longer than it should. Rowan shifted from foot to foot, Clara stood with her hands folded, and Lysette stood half a step behind Eden with her book open. She was close enough to watch him and too polite to read over his shoulder.
 
 When the blessing ended, the chaplain walked away, and Rowan stayed under the fresco with his hands up. He stared at the painted palms for a moment. "I can do that," he said.
 

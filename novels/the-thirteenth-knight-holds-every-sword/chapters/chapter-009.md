@@ -128,7 +128,7 @@ She took a stamped copy of the form from the tray and put it in his hand. "Take 
 
 * * *
 
-A guard opened the door to the inner hall, and the walk to the study took four minutes. Portraits of old kings hung on both walls, and their faces had gone dark with age. The king's study was warm, and a fire burned in a grate of black iron. A map of the southern border covered one wall, and a plate of small cakes stood on the table beside a pot of tea. King Theodric IV sat in a deep chair with a blanket over his knees, and a sword hung above the fire in an old plain scabbard.
+A guard opened the door to the inner hall, and the walk to the study took four minutes. Portraits of old kings hung on both walls, and their faces had gone dark with age. The king's study was warm, and a fire burned in a grate of black iron. A map of the southern border covered one wall, and a plate of small cakes stood on the table beside a pot of tea. King Theodric IV sat in a deep chair with a blanket over his knees, and a blade hung above the fire in an old plain scabbard.
 
 "Wren," he said. "Sit, and eat something."
 
@@ -172,9 +172,9 @@ The king looked at him, and the firelight moved across his face. "You are a stra
 
 "I know."
 
-The king laughed once, and the laugh turned into a cough. He covered his mouth with a cloth, and when he put it down, his face looked older than it had at the start. "I hear you have a Lance now."
+The king laughed once, and the laugh turned into a cough. He covered his mouth with a cloth, and when he put it down, his face looked older than it had at the start. "I hear you have a spear now."
 
-"Lance Nine."
+"spear Nine."
 
 "Are they good people?"
 

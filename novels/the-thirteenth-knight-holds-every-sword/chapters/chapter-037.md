@@ -64,7 +64,7 @@ Felix found him there. He came up the stair with his bow case on his shoulder an
 
 "Noticed what?"
 
-"You fight like a man who needs no help and never asks for any, and you read a file twice as if the second reading could change a mark you made six years ago." Felix looked at him and did not blink. "If you ever want help, you know where I am."
+"You struggle like a man who needs no help and never asks for any, and you read a file twice as if the second reading could change a mark you made six years ago." Felix looked at him and did not blink. "If you ever want help, you know where I am."
 
 Eden said nothing, and Felix stood beside him for a while. Then he said one more thing in the flat way he said facts about bows and roads. "I do not think you did anything wrong," he said. "I think you are afraid that you did, and that is a different thing, and it is the first time I have seen you be afraid of anything." Eden looked at him, and Felix looked at the wall. "Do not ask me how I know," he said. "You stand too still."
 

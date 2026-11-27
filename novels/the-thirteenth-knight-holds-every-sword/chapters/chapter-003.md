@@ -52,7 +52,7 @@ Eden took off his coat and folded it on the coal. He stood where his shadow was 
 
 The lamp above the stair dimmed, as if it were holding its breath. His shadow spread under him in a clean round pool, edge sharp as a drawn line. He stepped backward into it, and the cold came up through his boots to his knees.
 
-The plates rose from the pool from the feet up. Sabatons first, a soft click. Greaves, knee wings, thigh plates, the faulds. Each one closed cold for one heartbeat and then turned warm. The breastplate sealed with a deep sound, the way a vault door seals. Pauldrons, one and then the other. Vambraces. Gauntlets last, the fingers closing one by one.
+The plates rose from the pool from the feet up. Sabatons first, a soft click. Greaves, knee wings, thigh plates, the faulds. Each one closed cold for one heartbeat and then turned warm. The chest plate sealed with a deep sound, the way a vault door seals. Pauldrons, one and then the other. Vambraces. Gauntlets last, the fingers closing one by one.
 
 The helm came up smooth and black, with no face and one narrow slit of white light. It closed over his head, and every sound in the world dropped away except his own breath.
 

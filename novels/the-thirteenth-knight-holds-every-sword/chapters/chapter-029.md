@@ -16,7 +16,7 @@ Felix buttered his bread and put the knife back on the plate. "You were not here
 
 "No."
 
-"Does he know you fight?"
+"Does he know you struggle?"
 
 "No."
 

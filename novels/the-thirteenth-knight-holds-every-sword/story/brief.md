@@ -1,4 +1,3 @@
-successfully downloaded text file (SHA: 560503e7c827f7420949299f484a7bda82fa9849)
 # Story brief (LOCKED - owner order 2026-11-27)
 # All settings locked. No rule may be waived without owner approval.
 

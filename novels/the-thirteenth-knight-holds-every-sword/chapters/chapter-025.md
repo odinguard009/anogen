@@ -1,115 +1,183 @@
-# Chapter 25: The Atrium
+# Chapter 25: The Gold Glint
 
-The atrium was the center of the academy. It was a large hall. Glass roof. Stone floor. Plants. A fountain in the center.
+The kitchen stair had a narrow window that looked across the palace yard, and Eden stood at it while he tied the black case to his belt. Below, the east hall doors were shut, and two Seal guards stood at each one, and the yard lamps showed the grey coats of the men who had come in as servants an hour earlier.
 
-Eden walked through it every day. He did not stop. Today, he stopped.
+A kitchen boy came up the stair with a stack of plates and stopped when he saw the case.
 
-There was a crowd. Students. Teachers. They stood around the fountain. They were looking up.
+"Are you a guard?"
 
-Eden looked up. The glass roof was broken. A stone had fallen through. It lay on the floor. It was large. The size of a man's head.
+"No."
 
-"Where did it come from?" a student asked.
+"Then you cannot go in the hall."
 
-"The roof," another said.
+"I have to take a message."
 
-Eden looked at the roof. He saw a figure. On the roof. Moving. Fast. The figure ran along the glass. Then it jumped. It landed on the other side. It was gone.
+"To who?"
 
-Eden ran. He went up the stairs. To the roof. He looked around. The figure was gone. But there were footprints. In the dust. On the roof. Large. Booted.
+Eden looked at the boy, and the boy looked back, and then he stepped aside. "The pantry door is open," he said. "Do not tell them I saw you."
 
-He followed the footprints. They went to the edge of the roof. They stopped. The figure had jumped. Down to the street. Or to another building.
+"Thank you."
 
-Eden looked over the edge. The street was three floors below. No one could jump that far. Unless they were not human.
+"Do not thank me. I have to work here tomorrow."
 
-He went back inside. The crowd was still there. Okoru was there. He looked at the stone. He picked it up. It was heavy.
+The yard clock said ten, and the hall doors had been shut since the eighth bell, and the top plate in the boy's stack had a crack that he had not noticed.
 
-"Someone dropped this on purpose," Okoru said.
+The boy went back to his plates, and Eden watched him stack them in twos, and he thought about the count of spoons in the pantry and the count of men in the hall, and which of the two was easier to trust.
 
-"Why?" a student asked.
+Forty people sat on the boards of the atrium with their backs to the stage, and four Embers watched the doors with short blades at their sides. Smoke from the broken chandelier chain hung in the air, and every lamp the Crowns had brought threw a hard black shadow under a table.
 
-"To scare us," Okoru said. "Or to kill someone."
+Eden eased down through the east lattice where the glass had gone. **[Exa]** was folded across his forearm, and he turned the shield edge-on so no lamp could catch it. A shadow band from a broken lamp frame ran along the iron, and he used it as a path.
 
-Eden thought about this. The stone had fallen near the fountain. Not near any person. It had fallen in an empty spot. If it had been meant to kill, it would have fallen on someone.
+Below him a Cinder kept a blade under a hostage boy's chin, and the boy's hands lay flat on the table edge. Eden stopped on the bar and waited, because a blade at a throat was a clock he could not slow.
 
-It was a warning. Someone was telling the academy: I can reach you. I can drop things on you. I can break your glass.
+"Crown," the Cinder called, and her voice was thin. "They will send the black knights."
 
-Eden went to the roof garden. He sat on the bench. He wrote in his notebook: "Stone. Glass roof. Atrium. Warning. Not a kill. A message."
+"Let them come," Ilsabet Rorke said from the stage.
 
-He closed the notebook. He thought about the message. Who was sending it? The Ashen Crowns? The Veils? Someone else?
+She stood with her coat collar raised, and her right arm was larger than her left, and grey veins climbed her neck into the skin below her jaw. The veins moved when she spoke.
 
-He did not know. But he would find out.
+"Nobody moves," she said, and her voice reached the four doors without effort. "Stories do not walk into rooms with knives already drawn."
 
-He always found out.
+A man in the front row coughed, and the Cinder pressed the blade in, and a red line showed under the boy's chin.
 
----
+"Stop," a woman said from the front row. "He is only a boy."
 
-After the incident, Eden went to the roof garden. He sat on the bench. He looked at the city. The lamps glowed. The trams ran. The city was normal.
+"He is a hostage," Ilsabet said. "That is what makes him useful. Sit down."
 
-But the city was not safe. The stone in the atrium proved that. Someone could reach the academy. Someone could break the glass. Someone could drop stones on students.
+The man sat down, and the woman beside him took his hand, and the Cinder moved the blade away by an inch, and that was the only kindness in the room.
 
-Eden thought about who. The Ashen Crowns. The Veils. The clerk. The teacher. Someone else.
+"Check the glass," Ilsabet said.
 
-He did not know. But he would find out.
+Two Embers lifted their lanterns toward the east lattice. Eden went into the deep shadow of a lamp frame and held his breath, and the light slid over the iron two feet above his head.
 
-He opened his notebook. He wrote: "Atrium stone. Warning. Someone can reach the academy. Find who."
+""Dust," one of them said, and they turned back.
 
-He closed the notebook. He lay back on the bench. He looked at the sky.
+"I saw a shadow move."
 
-The wind moved the plants. The city hummed. The sun went down.
+"It is smoke."
 
-Eden thought about the stone. It was heavy. It was large. It was the size of a man's head. Someone had carried it to the roof. Someone had dropped it through the glass.
+"Smoke does not have shoulders."
 
-That took strength. That took planning. That took someone who knew the academy. Someone who knew the roof. Someone who knew the atrium.
+The Ember with the lantern looked again, and then he laughed, and he walked back to his door. The other stayed a moment longer, and then he went too.
 
-Eden thought about this. He would check the roof. He would check the glass. He would check the atrium.
+"Where is the boy with the light?" Ilsabet asked, and she pointed at the hostages with her grey hand. "The list said he would be here."
 
-He would find out. He always found out.
+A man at the north door answered. "Not here, Crown. The list was wrong."
 
-He slept on the roof. No dreams.
+""Then we take the girl and we go."
 
----
+"Which girl?" a man at the stage asked.
 
-The next morning, Eden went to the arms yard. He trained alone. He practiced the hinge. Pivot. Swing. The lance moved like a door.
+"The one who was under the chandelier." Ilsabet looked at her list again. "Rowan Tallis is missing as well, but the Crown only wants the girl."
 
-He thought about the stone. Who had dropped it? Why? What was the message?
+Seraphine sat near the north wall with Felix beside her, and her hand had been shaking on a cup. Felix had covered her hand with his own, and she had not pulled away.
 
-He practiced the Latch. The shield catches a blade and locks it against the knocker ring. He did it ten times.
+"Are you cold?" he asked.
 
-He thought about the roof. The figure. The jump. Three floors. No one could jump that far. Unless they were not human.
+"No," Seraphine said.
 
-He practiced the Draught. The lance through the narrow gap in a guard, like wind through a door. He did it ten times.
+"Your hand is shaking."
 
-He was sweating. His shirt was wet. He did not stop.
+"It is the room. Not me."
 
-He thought about the Veil. The Veil that spoke. The Veil that waited. The Veil that was not normal.
+"You told me the room was too loud," Felix said.
 
-He stopped. He put down his lance. He sat on the bench. He breathed.
+"It was."
 
-He thought about the clerk. The clerk who was scared. The clerk who had a family. The clerk who let them pass.
+"Then why are you still here?"
 
-He thought about the teacher. The teacher who reported him. The teacher who smiled. The teacher who was with the Ashen Crowns.
+Seraphine looked at him for a moment, and then she put her hand under his and held it. "Because I wanted to see what you would do," she said. "You did not do anything."
 
-He had a lot to do. He always had a lot to do.
+"There was nothing to do."
 
-He picked up his lance. He practiced one more time. Then he stopped. He went to the dining hall.
+Felix looked at her hand under his, and he did not say anything, and the band in the gallery began a tune that nobody was listening to.
 
-He ate lunch. He sat alone. He did not taste the food. He thought about the stone. He thought about the message. He thought about the figure on the roof.
+Eden counted the Embers between himself and them: three at the north door, two by the stage, one beside the Cinder with the blade.
 
-After lunch, he went to the library. He looked for books about the academy. About the roof. About the atrium.
+Ilsabet's grey arm swung up and came down on the stage edge with a sound like wet wood splitting.
 
-He found a book. It was old. The cover was blue. The title was "A History of Hallowcrest Academy."
+"**[Hrak]**," she said, and the word came through her teeth.
 
-He opened it. The pages were yellow. The writing was small. He read.
+The **[Hrak]** was her graft grown from shoulder to fist until the coat seam split, and every use spent her and pushed the grey higher. It needed reach, and nothing more.
 
-"The academy was built in PR 50. The atrium was added in PR 60. The glass roof was installed in PR 70. The roof is accessible from the fourth floor. The glass is reinforced. It cannot be broken by hand."
+Eden knocked once on the hard edge where a lamp threw its light across a fallen chair. An opening showed under the chair, and he stepped in and came out behind the stage where its shadow met the brick. No one saw him cross the floor, because the opening never showed where it led.
 
-Eden read this. The glass could not be broken by hand. But a stone had broken it. A stone the size of a man's head. That meant someone had dropped it from height. Or someone had thrown it with force.
+"Where did he go?" a hostage whispered.
 
-He closed the book. He put it back. He would check the roof later.
+"Quiet," the Cinder said.
 
-He went to the roof garden. He sat on the bench. He looked at the city. The lamps glowed. The trams ran. The city was normal.
+Eden stepped out with **[Exa]** flat over his head. The grey arm came at him, and he took it on the shield, and the force ran down his arm into his shoulder, and his boots slid a foot on the boards. The shield rang once, and three faces turned toward the sound.
 
-But the city was not safe. Eden knew that. He would make it safe. Somehow. Someday.
+He had taken the blow where the shield could take it, and his feet were still under him. Then he drew **[Inead]** from under the cover in one motion, and gold light rose under the black like a strip of morning.
 
-He would find a way. He always found a way.
+"**[Lintel]**," he said.
 
-He slept on the roof. No dreams.
+The **[Lintel]** was the shield flat overhead with a blade drawn from under it in the same motion. It needed the first blow on the shield before the cut came. The gold light made a graft honest: it showed the grey for what it was, and it gave one cut from the shield's edge, with no second swing in it.
+
+Ilsabet's face went glassy, and the grey showed under her pale coat, and her arm stopped in the air. Eden cut once from the shield edge. The arm went still, and the veins at her jaw stopped moving. She sat down on the stage as if someone had asked her to.
+
+"She is down," a man said, and the hall changed in one breath.
+
+At the north door two Embers stepped back without knowing why, and their blades dipped. The gold light stood between them and the stage, and the shadow under it had no face for an order to reach.
+
+Through the smoke and the broken lamplight nobody saw plate or features. They saw a dark figure under a gold glint, and the figure moved where the light moved.
+
+Eden walked over the broken glass, and the hostages pulled their feet back.
+
+"Do not look at it," a father said, and he covered his daughter's eyes with one hand.
+
+The Cinder let the blade fall, and the boy pushed away from her with both hands on the floor. A woman began to cry without a sound, and another told her to be quiet, and neither of them looked up.
+
+Felix kept his hand over Seraphine's, and her fingers had gone still. She looked at the bare patch above the floor where the chandelier had hung, and then at the stage, and she kept her eyes there.
+
+"Are you hurt?" Felix asked.
+
+"No," Seraphine said, and her voice was steady. "I am not hurt."
+
+A staff-coated man stood among the hostages near the west wall with his hands folded, and he was studying a green and gold hanging on the wall with hounds in the grass.
+
+"Good hunting in that one," he said to a prefect beside him, and he tilted his head as if he had all the time in the world.
+
+Merrow. The gold passed over his face for half a beat, and he looked at it and then away, and he did not move.
+
+Near the north door a broad-shouldered man stood with his chin up, and he had a cut on his cheek that had not been there at dinner. Valerius watched the dark figure cross the boards, and his hand went to his scabbard and stopped there. He did not draw, and he did not call out a name.
+
+Eden passed within four steps of him with the shield overhead and the sword bare.
+
+"Well fought," Valerius said, low, and he said it to the smoke rather than to a person.
+
+"Who are you?" Valerius asked, and there was nobody left in the smoke to answer. He looked at the stage, and at the grey arm that no longer moved, and then at the empty boards where the dark figure had stood. He put his sword back in its scabbard with two fingers and did not look away from the place.
+
+The Embers put down their blades one by one, and the hostages stood in pairs, and the hall began to make the small noises of a room that was alive again. The hall smelled of hot wax and smoke, and the boards under the tables had been scored by iron shoes, and every face had turned toward the stage when Ilsabet spoke.
+
+A prefect found the boy with the cut under his chin and led him to a chair, and a healer came down from the gallery with a cloth, and the boy kept his hands on the table edge even after he was told to let go.
+
+"Is it over?" a girl asked.
+
+"Yes," her father said, and he held her with both arms.
+
+Eden folded **[Exa]** into its ring and put both weapons away, and the gold went out of the hall, and the dark figure went with it.
+
+At the east door Lysette stood with a Seal guard at her shoulder and a round sheet in her hand. She had seen too much smoke and too little of him, and she was looking at every shadow in the room as if one might become an answer.
+
+"Nobody came through this door," the guard said.
+
+"Then where did he go?" Lysette asked.
+
+"You saw nothing," the guard said.
+
+"I saw a light."
+
+"Lots of lights. Lamps, lanterns, the chandelier before it went." The guard wrote on his sheet. "Write one line and go home."
+
+Lysette wrote one line. It said: "A dark shape and a gold light, near the stage." She crossed out the word dark and wrote nothing in its place.
+
+The guard did not answer. She wrote a line on her sheet, and she kept looking at the shadows. The sheet had four lines now, and none of them had a name on it, and she kept looking at the shadows. The hall was emptying in groups, and the Seal guards kept their posts, and the smoke went up through the broken glass into the cold night.
+
+"Will you write my name?" Lysette asked.
+
+"There is no name to write," the guard said.
+
+"Then write none."
+
+She wrote none. The sheet went into the guard's folder, and the folder went under his arm, and he walked away without another word.

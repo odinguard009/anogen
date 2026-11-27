@@ -1,4 +1,3 @@
-successfully downloaded text file (SHA: f83cec22a02d20ed98e30977ecb6432e9d05f251)
 SUPERSEDED where it conflicts by story/bible/power-system.md (owner order 2026-11-25; includes the removal of ranking levels: Bells = tank size only, Tenet tiers = stages of use, not ranks)
 # Eden's combat style: "Lintel and Lamp" (reference)
 

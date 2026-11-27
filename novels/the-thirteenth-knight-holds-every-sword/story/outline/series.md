@@ -1,4 +1,3 @@
-successfully downloaded text file (SHA: 46d896771368418df2f150696e3e55e51285f045)
 # Series roadmap: 17 arcs, ~850 ch (max 1000; arcs adjustable). Detail: bible/arcs-1,1b,2,3,4
 
 ## REVISION (2026-11-27)

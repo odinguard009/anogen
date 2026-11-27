@@ -1,4 +1,3 @@
-successfully downloaded text file (SHA: 0bdfa78198963546e1aedca2d533cdc5ac789c8d)
 # Arc 1: The Rooftop (chapters 1-50; Year 5 autumn term and Winter Rotation, Mon 2 Nov PR 112 to Mon 1 Feb PR 113). Rewritten whole 2026-11-26 (owner replan). Dates: bible/calendar.md (wins). POV: close third person (profile.md sections 3-4). Old drafts of ch 1-10 are superseded; nothing here refers to them.
 
 Central question: can Eden stay unseen once someone insists on seeing him?

@@ -1,7 +1,7 @@
 # Quality Contract (PERMANENT — locked)
 
 ## Rule 1: No chapter may be published without passing all gates.
-Every chapter must pass check_chapter.py --strict (exit 0), word count 2000-3000, sentence length mean >= 8.5, opener variety (no word >22%), no banned phrases exceeded, no repeated 5-grams, no shared 6-grams with previous 5 chapters, "not X but Y" <= 2, rule-of-three lists <= 1, no em-dashes, capitalized names <= 16 (target 12), dialogue share >= 20%, armor labels in battle chapters, weapon labels in battle chapters, first-use descriptions, no sexual/ecchi/harem content.
+Every chapter must pass check_chapter.py --strict (exit 0), word count 2000-3000, sentence length mean >= 8.5, opener variety (no word >22%), no banned phrases exceeded, no repeated 5-grams, no shared 6-grams with previous 5 chapters, "not X but Y" <= 2, rule-of-three lists <= 1, no em-dashes, capitalized names <= 16 (target 12), dialogue share 25-40%, armor labels in battle chapters, weapon labels in battle chapters, first-use descriptions, no sexual/ecchi/harem content.
 
 ## Rule 2: No rule may be waived without owner approval in writing.
 

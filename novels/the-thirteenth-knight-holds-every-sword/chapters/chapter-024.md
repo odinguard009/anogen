@@ -1,137 +1,173 @@
-# Chapter 24: The Ball
+# Chapter 24: The Lanterns
 
-The Lantern Ball was on Saturday. One week after Friday. The lamp crisis was over. The clerk had left. The switches were safe. Vesk had stopped two men at the other lamp houses. No lamps went dark.
+The palace east hall had been open since six. Eden came through the kitchen door at half past eight with a tray in his hands and a cap pulled low, and nobody looked at a second servant on a Ball night. The Duke's carriage had come through the gate at dusk, and the palace had put out new lamps along the drive, and the kitchen smelled of hot oil and flowers all evening.
 
-But the Ball was still on. It was the biggest event of the year. Students, teachers, and guests. The headmistress would be there. The mayor would be there. The king might be there.
+"Pass," a Seal guard said at the kitchen door.
 
-Eden did not want to go. But Lysette insisted.
+Eden held out the tray. "Soup for the east hall."
 
-"You have to go," she said. "It is tradition."
+The guard looked at the tray and then at his cap. "You are new."
 
-"I do not like tradition," Eden said.
+"The cook is short of hands tonight."
 
-"You do not like people," Lysette said. "But you will go."
+"Go quickly, and do not come back this way."
 
-Eden went. He wore a dark suit. No armor. His lance was in his room. **[Inead]** was wrapped in cloth under his bed.
+He left the tray in the pantry, took his coat from under a pile of cloth, and went up the service stair. The Justiciar Seal guards stood at the four hall doors in pairs, wearing half-plate with seal-shaped buckles. They checked every servant who went in and out. Eden had no paper for the roof, so he did not use a door. He went up the outside of the kitchen chimney on a ladder left there for the lamp men. The cold wind took his breath away at the top.
 
-The Ball was in the great hall. It was large. Stone walls. High ceiling. Chandeliers. Lamps. The floor was polished wood. Students danced. Music played. A string quartet.
+The roof above the glass atrium sloped in two directions. Eden lay on the high side with his coat pulled tight and his boots on the lead ridge. Below him the east hall was full of light. The band played a slow tune that came up through the glass in pieces, and he heard the scrape of chairs when people stood.
 
-Eden stood by the wall. He watched. Lysette stood beside him. She wore a dark blue dress. Her hair was loose. The braid was there. The strand fell over her forehead.
+He had come up at the first bell and found the rail where the gallery joined the roof, and then he had waited. The plan in his coat said the Crowns would take the hall on the thirteenth, and the hall was full on the twelfth. He had not been able to stay away. Ysolde's order had said to stay away from the Ball, and he had kept it until the sun went down.
 
-"You should dance," Lysette said.
+The atrium glass was a grid of iron bars under a layer of dust. The chandelier hung fifteen steps below him at the centre of the hall. Its shadow lay on the roof glass to the east because the lamps burned on the west wall. The shadow had the shape of a dark flower with a long stem. Eden watched the shadow move when people passed below. He kept one hand on the iron bar and the other on the black case at his back.
 
-"I do not dance," Eden said.
+A door opened in the roof, and Lysette came out onto the glass in a pale gown with her hair pinned up. Her white collar had been replaced by a thin silver chain. She saw him and stopped, and then she walked along the lead ridge with her skirts held up in one hand. She sat on the bench two steps from him.
 
-"Everyone dances."
+"They are dancing," she said.
 
-"Not me."
+"I heard."
 
-Lysette looked at the dance floor. Students moved. Some were good. Some were bad. A boy stepped on a girl's foot. She winced.
+"You heard, and you came up here instead of going down."
 
-"See?" Eden said. "Dangerous."
+"It is quiet up here."
 
-Lysette almost smiled. Almost.
+"It was quiet on the roof in November as well," she said, and she sat down before she said anything else.
+"Yes," Eden said.
 
-The music changed. Slower. A waltz. Couples moved closer. The lights dimmed.
+"Rowan is dancing with Clara, and he is laughing so hard that the prefects are looking."
 
-Lysette looked at Eden. "Dance with me."
+"Good."
 
-"I cannot."
+She looked at him then, and there was colour under her eyes that had not been there in the afternoon. "I came up to cry, and now I am sitting next to you, and I do not know which is worse."
 
-"You can. I will teach you."
+""What do you want me to do?" she asked.
 
-Eden looked at the dance floor. Then at Lysette. Her blue-violet eyes were steady. She was not asking. She was telling.
+"Cry," Eden said, and he looked at the band through the glass. "I will not watch."
 
-"Okay," he said.
+She took two breaths and did not use them, and then she began again, and the words came out in short pieces. "He looked at Clara the whole time, and she looked back, and I have known since the summer and it still surprised me tonight. That is a stupid thing, and I know it is stupid."
 
-They walked to the floor. Lysette put her hand on his shoulder. Eden put his hand on her waist. She was warm. He was cold.
+"It is not stupid."
 
-"Follow me," she said.
+"It is useless."
 
-She moved. Eden followed. One step. Two. Three. He stepped on her foot.
+"Those are different."
 
-"Sorry," he said.
+"That is a very careful answer."
 
-"Again," she said.
+"I have no other."
 
-They moved again. This time, Eden did not step on her foot. They moved in a circle. Slow. The music was soft.
+The band below changed to a faster tune, and the glass carried the sound up in a thin line. Lysette put her hands in her lap and looked down at the hall, and Eden could see the silver locket at her throat, shut and still. She had put it on over the gown, and the chain lay on the pale cloth, and the oval had gone dark against her skin. She had said she wore it once a year, and she had chosen this night for the second time. She had worn it once a year, and she had worn it tonight, and he did not ask her why.
 
-Lysette looked at him. "You are not bad."
+"My mother would be angry if she knew I wore this to a dance," she said.
 
-"I am terrible," Eden said.
+"Then she will not know."
 
-"You are not terrible. You are just stiff."
+"She reads the paper."
 
-"I am always stiff."
+"The paper does not say what a girl wears."
 
-Lysette almost smiled again. This time, she did smile. Small. But real.
+"You are wrong about that, but I will take it." Lysette brushed her hand across her eyes, and then she put her hand back in her lap, and she did not make a sound. "Tell me something that is true and not useful."
 
-They danced. The music played. The lamps glowed. The other students watched. Some whispered. Eden and Lysette. The quiet one and the Discipline Committee vice-chair. Dancing.
+Eden thought about it. "The roof is cold."
 
-Eden did not care. He was focused on Lysette's hand. It was warm. Her shoulder was warm. She smelled like flowers. He had not noticed before.
+"That is useful."
 
-The music ended. They stopped. Lysette let go.
+"No," he said. "It is true, and it is not useful."
 
-"Thank you," she said.
+She laughed once, and the laugh came out small, and and the eleventh bell rang somewhere below them, and the lanterns in the atrium went out. The band kept the same tune for four bars after the lights died, and then a drum stopped, and the rest of the music fell apart.
 
-"You are welcome," Eden said.
+The hall went dark in one step, and the band kept playing because the musicians could not see their own sheets. A woman screamed, and then twenty people did, and the sound came up through the glass in a dull wave. Eden rolled onto his stomach and looked down at the chandelier.
 
-They stood on the floor. The other students danced around them. Eden looked at the hall. The lamps. The chandeliers. Everything was bright. Everything was safe.
+Eden counted the lamps in the frame: six, all dark, with bent iron between them where the chain had pulled. The hall below was a dark square with forty pale faces in it. The faces turned up all at once when the chandelier moved.
 
-For now.
+A chain above the chandelier had broken at one link. The frame swung on the remaining chain, and its lamps had gone dark. It swung toward the north edge of the hall, where Seraphine sat with Felix. The iron frame described an arc through the dark with a low grinding sound.
 
----
+Eden put his hand on the iron bar and pushed himself up. Lysette caught his sleeve.
 
-After the Ball, Eden went to the roof garden. He sat on the bench. He thought about the dance. Lysette's hand. Her shoulder. The warmth.
+"What is it?"
 
-He did not name the feeling. He did not need to.
+"A chain."
 
-He wrote in his notebook: "Ball. Danced with Lysette. She taught me. I stepped on her foot. She smiled."
+"Why are you looking at a chain?"
 
-He closed the notebook. He lay back on the bench. He looked at the stars.
+"Because it is moving toward your friend."
 
-The city was quiet. The lamps glowed. The trams were still. The motor-cars were gone.
+The chandelier came around again, and the broken link gave a sharp tug. The frame swung wider. Below, Seraphine looked up at the sound, and Felix pulled her chair back. Both were under the north edge of the chandelier when the second link began to go.
 
-But the city was not safe. The Veils were in the walls. The lamps were their eyes. The clerk was watching. The teacher was watching. The Ashen Crowns were watching.
+Eden drew **[Exa]** from his shadow and knocked twice on the iron bar beside the chandelier's own shadow. The lamps had cut a hard edge there. A black Door opened in the dark flower on the roof glass. The chandelier's shadow went into the opening as the frame swung under it. The frame went with the shadow, and the hall lost its chandelier in one beat. There was no crash and no sound of iron on stone. The dark flower on the roof glass kept its shape for a moment, and then it was only a shadow again. The iron bar under Eden's hand was cold.
 
-Eden watched back. He always watched back.
+The chain end swung over an empty patch of floor and struck the boards where nobody stood. The broken link rang once and was still.
 
-He slept on the roof. No dreams.
+Eden put the lance away and lay flat on the glass again. Lysette was very close to him, and her hand was still on his sleeve, and her fingers had gone cold through the cloth.
 
----
+"Where did it go?" she asked.
 
-The next morning, Eden went to the kitchen. Maren was there. She was chopping vegetables. Thack. Thack. Thack.
+"Into the dark."
 
-"Good morning," Eden said.
+"Where is the dark?"
 
-Maren looked at him. "You are early."
+"I do not know," Eden said, and it was true, and it was the most useful thing he had said all night.
 
-"I could not sleep."
+Below them, the hall doors opened, and fourteen people walked in with grey bands on their sleeves. They carried short blades and lanterns of their own. The hostages in the middle of the hall began to move away from them, and the band stopped, and the new lanterns showed the tables and the pale walls and the streaks of dust on the glass roof. The hostages were herded toward the middle of the floor, and a woman with a grey band at her cuff held a knife at a boy's throat, and the boy sat with his hands on his knees. A man in a pale coat stood on the stage at the far end, with frost-white lines at his neck where a graft had climbed, and he watched the doors rather than the hostages.
 
-Maren nodded. She put a bowl of soup in front of him. "Eat."
+"Who is that on the stage?" Lysette whispered.
 
-Eden ate. The soup was warm. It was good.
+"I do not know."
 
-"Thank you, Maren," Eden said.
+"He has grey on his neck."
 
-Maren went back to chopping. "You are welcome. Come back tomorrow."
+"I saw it."
 
-Eden left. He went to the roof garden. He sat on the bench. He thought about the Ball. He thought about Lysette. He thought about the warmth in his chest.
+"Is that a Veil?"
 
-He did not name it. He did not need to.
+"No," Eden said. "It is a graft, and it is worse in a way, because it is a person who will not stop."
+A man in a grey staff coat shouted up at the gallery, "Nobody leaves this hall, and nobody opens a door." Then he shouted a name, and it carried up through the glass with the rest. "Find the Thornmere boy. Find Wren."
 
-He thought about Friday. The hearing. Hildegard. The registrar. The teacher.
+Eden did not move. Lysette's hand tightened on his sleeve, and then she let go, and she sat back on the bench with her face turned toward the hall.
 
-He thought about the clerk. The clerk who was scared. The clerk who had a family. The clerk who let them pass.
+"He said your name," she said.
 
-He thought about the Ashen Crowns. The teacher. The dye-works. The lamp houses.
+"Yes."
 
-He had a lot to do. He always had a lot to do.
+"Wren is not your name, is it?"
 
-He opened his notebook. He wrote: "Ball done. Danced with Lysette. Maren gave soup. Friday hearing. Clerk scared. Ashen Crowns active."
+Eden looked at the fourteen Embers below and at the dark square of floor where the chandelier had been. Then he looked at the locket at her throat. He had given her three answers that night, and none had been useful, and he had no fourth.
 
-He closed the notebook. He looked at the city. The lamps glowed. The trams ran. The city was normal.
+"Wren is the name on my papers," he said.
 
-But the city was not safe. Eden knew that. He would make it safe. Somehow. Someday.
+"That is not a name. That is a sentence someone wrote on a form," Lysette said. "Where were you born?"
 
-He would find a way. He always found a way.
+"Here."
+
+"That is not what I asked."
+
+"It is the answer I have."
+
+Lysette did not ask the next question. She looked down at the hall, and her hands were folded in her lap, and the Embers' lanterns moved across the glass below them in fourteen small circles of light. "The card in the lunch line," Lysette said. "Remember Thornmere."
+
+Eden said nothing.
+
+"You kept it."
+
+"Yes."
+
+"And you never told me."
+
+"No."
+
+"Then they came for you," she said.
+
+"No," Eden said. "They came for the boy with the light, and they think I am him."
+
+He looked at the hall once more, then turned toward the roof stair and put one hand on the iron bar. He began to move along the ridge without a sound. The roof stair was on the far side, and the glass creaked under his knee when he shifted, and below them the Embers were still shouting for a name that belonged to him and did not.
+
+Lysette stayed on the bench, and he saw her hand close over the locket as he went, and the band below began the slow tune again with nobody conducting it.
+
+"You are going down," she said.
+
+"Yes."
+
+"Then be careful."
+
+"I am always careful."
+
+The ridge ran east, and the lamps below came back in ones and twos as the staff found the switches. By the time he reached the stair, the east hall was half lit and the Embers were still reading names from their list. He took the stair without making a sound, and he waited. He did not look back.

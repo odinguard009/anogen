@@ -1,4 +1,3 @@
-successfully downloaded text file (SHA: 7da83bca299b1c20aa29bc7b43cba12c695f8d72)
 # Power system: the authoritative primer (owner orders 2026-11-25)
 This file wins over powers.md, mana.md, combat-style.md and battle-craft.md where they conflict. Tech: tech.md. Reveals: reveal-ladder.md. The planet-mind secret: mother.md.
 

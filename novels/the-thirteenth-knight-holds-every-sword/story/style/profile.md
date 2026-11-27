@@ -2,7 +2,6 @@
 # This profile is locked. No rule may be waived without owner approval.
 # All rules are enforced by tools/check_chapter.py --strict
 
-successfully downloaded text file (SHA: d234f2ee637666dc3c32d16db0922587cc4d4327)
 # Style profile (swappable; engine reads only this file for style). Rewritten whole 2026-11-26 (owner orders 2026-11-25 and 2026-11-26 merged; no older rule is left standing against a newer one).
 
 ## 1. LEVEL: simple English for learners (permanent; wins every conflict)

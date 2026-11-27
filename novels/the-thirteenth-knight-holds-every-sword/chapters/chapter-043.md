@@ -1,35 +1,33 @@
-# Chapter 43: The Watch
+# Chapter 43: The Dark Tunnels
 
-Night. Eden was on watch. Again. He stood on the Wall. The lamp was beside him. The light was yellow. The edges were clear.
+The tunnels were under the Wall. They were old. Stone. Dark. They connected the Wall to the cistern. They connected the cistern to the barracks. They were escape routes. If the Wall fell, the soldiers could run.
 
-He watched the Pale. The shapes were closer. He could see them better now. They were small. Grey. They moved on four legs. Like dogs. But not dogs. They had no eyes. They had no mouths. They were just grey shapes. Moving.
+Eden went into the tunnels. He had a lamp. The light was yellow. The tunnels were narrow. The ceiling was low. He had to duck.
 
-Eden counted. Forty. More than thirty. They were growing. Or more were coming.
+He walked. The tunnels were quiet. Drip. Drip. Drip. Water from the cistern. The same water that held the Hush.
 
-He flashed a signal. "Forty. Closer. Two days."
+He followed the tunnel. It went down. Then up. Then left. Then right. It was a maze.
 
-The tower flashed back. "Understood."
+He found something. In the wall. Scratches. The Thirteenth Vigil code. He read them.
 
-Eden put down the mirror. He looked at the shapes. They moved slowly. They did not hurry. They did not need to. They were patient. The Hush was patient.
+"The tunnels are doors. The doors are traps. The traps are for the Hush. When the Hush comes, open the doors. The Hush will fall."
 
-He thought about the doors. He could open a door in the shadow of a Hushborn. Drop it. Into the cistern. Into the void. But there were forty. He could not drop forty. Not alone.
+Eden read it again. "The tunnels are doors." The tunnels were not just tunnels. They were doors. They could be opened. They could drop things. Into the void.
 
-He needed the soldiers. The soldiers could fight. They had weapons. They had mana. They could hold the Wall.
+He looked at the tunnel. The floor was stone. The walls were stone. The ceiling was stone. But there were lines in the stone. Thin lines. Like cracks. But not cracks. They were seams. The stone was cut. It could be moved.
 
-But the Hushborn were fast. Faster than soldiers. They would reach the Wall before the soldiers could react.
+Eden pushed the wall. It moved. Slowly. A section of the wall slid away. Behind it was a shaft. Dark. Deep. He could not see the bottom.
 
-Eden needed a trap. A door that would catch them all. A big door. But big doors needed big edges. And big edges needed big light.
+A door. A trap door. For the Hush.
 
-He thought about the oil lines. He had used oil lines before. At the Ball. He had laid oil lines on the roof. He had lit them. The fire had created edges. Doors had opened.
+Eden closed the wall. He marked the spot. He would tell the commander. The tunnels were doors. The doors were traps. They could be used.
 
-He could do the same here. Lay oil lines along the Wall. Light them. The fire would create edges. Doors would open. The Hushborn would fall.
+He went back up. He told the commander. The commander listened. He did not understand. But he ordered the tunnels checked.
 
-But oil was dangerous. Fire was dangerous. The Wall was stone. The stone would hold. But the soldiers might not.
+Eden went to his room. He sat on his bed. He wrote in his notebook: "Tunnels are doors. Doors are traps. For the Hush. Can drop them. Need to mark all doors."
 
-Eden thought about this. He would lay the oil lines at night. When the soldiers were inside. He would light them when the Hushborn came. The soldiers would be safe behind the Wall. The Hushborn would be on the outside. The fire would be between them.
+He closed the notebook. He lay back. He thought about the doors. He could open them. He could drop the Hushborn. But he needed to be in the tunnels. And the tunnels were dark. And the Hush was in the water.
 
-It was a good plan. Eden wrote it in his notebook. He would tell the commander in the morning.
+He would need light. He would need a lamp. He would need to be fast.
 
-He watched the Pale. The shapes moved. Slow. Steady.
-
-Two days.
+He slept. No dreams.

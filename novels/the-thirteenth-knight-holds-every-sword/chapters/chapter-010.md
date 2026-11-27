@@ -1,99 +1,171 @@
 # Chapter 10: Lysette's Day
 
-Lysette woke early on a Tuesday morning, and the dormitory was quiet around her while her roommate still slept. She dressed in silence and brushed her platinum hair carefully, then made the braid from her left temple to the back of her head. She checked the mirror. The loose strand fell over her forehead. Good.
+The Committee room was cold at seven in the morning, and Lysette Hollen had the window open because the stove smoked. She stood at the long table with a clipboard in one hand and read the night report to the two prefects on duty. "Two lamps broken on the east stair, one window left open in the library, and a first-year asleep in the linen closet."
 
-She went to the dining hall. It was empty. She sat at her usual table and opened her notebook, then wrote: "Eden. Sixty-one absences. Warrant. Who reported?"
+"Which first-year?" the taller prefect asked.
 
-She thought about the registrar. He was a thin man with glasses, and he sat behind papers. He did not like students. He liked rules.
+"Bram. He says the closet is warmer than his dormitory."
 
-She went to the registrar's office. It was open. The registrar sat at his desk, and he looked up when she entered.
+"It is."
 
-"Excuse me," Lysette said. "I have a question about a warrant."
+"That is not the point." Lysette wrote the name in her book and drew one line under it. "The point is that the closet has no fire door, and I will not explain a burned boy to the headmistress."
 
-The registrar looked up. "Which warrant?"
+The prefects left with their coats half on, and Lysette stayed behind to finish the round sheet. Three floors, forty-one rooms, and one name beside each room. She had walked that round every morning for two years, and she could tell from the sound of a corridor whether the night had gone well.
 
-"Eden Wren. Absences."
+At nine she stood in the small hearing room with Eden Wren and a folder of papers. The panel was the headmistress, the deputy of studies, and a clerk with a stack of forms. The headmistress sat with her hands folded and her eyes half closed, and she looked like a woman asleep in a warm chair. Lysette knew better than to believe it.
 
-The registrar pulled a file and read it. "Reported by a teacher. Name withheld."
+"Sixty-one absences," the clerk read out. "Unexcused."
 
-"Whose name?" Lysette asked.
+"Fifty-nine," Lysette said. "Two were illness, and I have the notes."
 
-"I cannot say," the registrar said.
+The headmistress opened one eye. "You keep his notes?"
 
-Lysette looked at him. She was tall. She stood straight. "I am the Discipline Committee vice-chair. I have the right to know."
+"I keep the notes of every student in my year, madam."
 
-The registrar looked at her. He was thin and small behind his desk. "The name is in the file. I cannot give it to a student."
+"That is either diligence or a hobby."
 
-Lysette leaned forward. "I am not asking as a student. I am asking as an officer of the committee."
+"It is the rule."
 
-The registrar sighed. He wrote a name on a piece of paper. He slid it across the desk.
+Eden said nothing. He stood with his hands behind his back and his eyes on the far wall, and he had agreed in the corridor to let her talk. Lysette had asked him for one word, and he had given her one word.
 
-Lysette read it. She folded the paper and put it in her pocket. "Thank you," she said.
+"Wren," the headmistress said. "Do you have anything to say?"
 
-She left. She walked to the roof garden and sat on the bench. She took out the paper and read the name again.
+"He has a medical exemption," Lysette said. "It says rest in open air, and it includes roofs."
 
-It was a teacher she knew. A teacher she trusted. A teacher who had smiled at her last week.
+"It says rest, not sleep through Grammar."
 
-Lysette felt something cold in her stomach. She had eaten breakfast. It was not hunger. It was anger.
+"He does not sleep through Grammar. He scores highest in Grammar."
 
-She wrote in her notebook: "Reported by a trusted teacher. Why?"
+The headmistress looked at the folder for a while and turned a page. "That is true, and it is the only reason we are having a conversation instead of a suspension. Two conditions." She held up one finger. "He attends every class for the rest of the term."
 
-She closed the notebook. She looked at the city. Motor-cars. Trams. Lamps. The city did not care about her anger.
+"And if he is ill?" Lysette asked.
 
-She thought about Eden. He was on the roof. He was always on the roof. She had dragged him to class. She had made him eat. She had made him sleep. She had done all of this. And someone was trying to push him out.
+"Then he brings a note from a doctor." The headmistress held up a second finger. "And you sign his attendance sheet each week. If a class is missing, the sheet comes back to me with your name on it."
 
-She would not let that happen. She would find out why.
+Lysette's pen stopped above the paper. "Yes, madam."
 
-She went to class. She sat in the front row. She took notes. She did not think about Eden. She thought about the teacher who had reported him.
+"And Wren. Eat something at lunch. You are thin, and thin students fall over in drill."
 
-After class, she went to the teacher's office. The door was open. The teacher sat at a desk. He looked up when she entered.
+"Yes," Eden said, and it was the only word he said in the room.
 
-"Lysette. What can I do for you?"
+Outside, in the corridor, Lysette wrote the two conditions in her book and made him wait until she finished. "You have one job now," she said. "Attend class."
 
-"I need to ask you something," Lysette said.
+"I do attend."
 
-"Of course."
+"You attend the ones you like." She closed the book. "I will sign the sheet each week, and you will not make me write a bad line."
 
-"Why did you report Eden Wren?"
+"I will try."
 
-The teacher's face changed. It went from warm to cold in one second. "I do not know what you mean."
+"Try is not a promise."
 
-"The warrant. Sixty-one absences. Your name is on the report."
+"It is not," Eden said, and he walked away before she could ask him for one.
 
-The teacher stood. "I must go. I have a class."
+* * *
 
-He left. Lysette stood in the empty office. She looked at his desk. There was a paper. She did not touch it. She left.
+The rest of the morning went to the west corridor. A teacher had left his class alone for twenty minutes, and the class had used the time to draw a horse on the blackboard. Lysette found him in the staff room with a cup of tea and a newspaper, and she stood in front of him until he put the cup down.
 
-She went to the roof garden. Eden was there. He sat on the bench. He looked at her.
+"The class is yours," she said. "The horse is not."
 
-"You found out," he said.
+He followed her back and erased the horse himself, and Lysette wrote his name in her book with a short note beside it. At the study hall she checked the door lists against the attendance sheets. Three names were missing, and all three boys were in the linen closet, which was warm. She sent them to their desks and stood at the back of the hall until the scratching of pens was steady.
 
-"Yes."
+* * *
 
-"Who?"
+Her room was at the end of the third-year corridor, and the letter was on the bed when she came back at noon. The envelope was thick and cream, and her mother's hand was small and straight on the front. Lysette sat on the bed and read the letter twice.
 
-Lysette told him. Eden listened. He did not change expression. He looked at the city.
+"My dear Lysette. The winter assembly will not carry your brother's name. The order has decided that the memorial list will hold only officers who died in service, and your father agrees with the wording. We will act as if it were not. Do not write to your cousin, and do not speak of it at school. Your rank is good and your conduct is good, and I will not have this house dragged through the mud a second time. Study hard. Your mother."
 
-"He smiled at me last week," Lysette said. "He said I was a good student."
+Lysette folded the letter along its old lines and put it in the wooden box under her bed. The box held six letters, and all six said the same thing in different words. She did not cry. She had done her crying in the first winter after the execution, and she did not plan to do it again.
 
-"People smile," Eden said. "It does not mean they are kind."
+She took out a sheet of paper and a pen and wrote "Dear Mother" at the top. Then she sat with the pen in her hand for a while and wrote nothing else. No sentence would change the list, and she did not want to send a letter that only said she was angry. She put the paper in the box with the six letters and put the lid back on.
 
-Lysette was quiet. Then she said, "What do we do?"
+At lunch the hall was full, and the rain had made every coat smell of wet wool. Lysette carried her tray to the Committee table by the window, and two tables away Rowan Tallis was telling a story with both hands. Clara Belmont laughed so hard that she put her forehead on the table, and Rowan laughed at her laughing, and the sound carried across the room.
 
-"Nothing," Eden said. "He reported absences. That is all. He did not report a crime. He reported a rule."
+Lysette watched them for a moment and waited for the old ache under her ribs. It came slowly, and it was smaller than she expected, and then it went away while Rowan was still talking.
 
-"But why?"
+She ate her soup and read the round sheet again.
 
-"Because someone told him to. Or because he wanted to. Either way, he is not the problem. The problem is why someone wants me noticed."
+Seraphine arrived with a tray and sat down across from her without being asked. Her red coat was open at the neck, and her hair was still wet from the rain. "Wren," she called across the hall. "Come here, I have a question."
 
-Lysette was quiet. Then she said, "I will watch him."
+Eden came with a bowl of soup and sat at the end of the table.
 
-"Okay," Eden said.
+"You would save me, right?" Seraphine asked, and she smiled as if the question were a joke. "If a Veil came through that door, you would save me first."
 
-They sat in silence. The wind moved the plants. The city hummed.
+"Probably," Eden said.
 
-Lysette thought about the teacher's face. The change. Warm to cold. Like a door closing.
+The table went quiet, and Seraphine's smile stayed where it was. "Probably?"
 
-She would watch. She would wait. She would find out.
+"You are behind Felix, and he is faster."
 
-That was her job. She was a witness.
+"Felix is not a princess."
+
+"No," Eden said. "He is closer to the door."
+
+Seraphine laughed, one short note, and she looked at him with her head on one side. "You are a terrible man, Wren."
+
+"I am a literal one."
+
+Felix arrived with his own tray and set it down beside Seraphine. "What did I miss?"
+
+"Nothing," Seraphine said, and she took a small notebook from her pocket. "You are at four."
+
+"Four what?"
+
+"Four jokes. I am counting the times you make me laugh."
+
+"I have not said anything."
+
+"That is the joke," Seraphine said, and she wrote another mark in the notebook.
+
+Felix looked at Lysette for help, and Lysette looked at her soup.
+
+* * *
+
+The records room was under the library, and the Committee kept student files in long wooden drawers. Lysette had a key because she was vice-chair, and she told herself she needed Eden's file for the attendance sheet.
+
+His file was thin.
+
+Most files in the drawer were thick with reports, letters, and notes from teachers. Eden's file held four pages: a scholarship letter, one page of marks, a medical exemption, and a form with a palace stamp in the corner. The family page was blank, and the page for his previous school was blank too.
+
+Lysette turned the pages twice. "Where were you before this?" she said to the paper, and the paper did not answer.
+
+She read the scholarship letter again. It was signed by a clerk, and the money came from a fund kept by the palace office. The address on the letter was a street she knew, because the tram stopped there: a row of cheap rooms behind the depot, with one pump and a broken step.
+
+"Nobody pays for this school from that street," she said.
+
+The guardian line had one word in it: "Household." Not a name, not a title, and not a street. Just the word, typed by a machine that did not care what it meant.
+
+Lysette put the file back in the drawer and locked it. Then she wrote one line in her book: "Ask Wren why the palace pays for his bread." She looked at the line for a while and drew a small question mark beside it.
+
+The afternoon round took her past the practice yard, where Lance Nine was working with wooden swords. Rowan was on the ground with his arms out and his feet in the air, and Clara stood over him with a wooden blade and a straight face. Felix was laughing behind his hand, and Eden was watching from the wall with no expression at all.
+
+Lysette stopped at the fence for a moment.
+
+She had not thought about Rowan in an hour. She turned that fact over the way she turned over a strange coin, and she could not find the worry that used to come with it. The yard was loud, and the light was grey, and she was late for the west corridor.
+
+She walked on.
+
+* * *
+
+The roof door was locked, and Lysette had a key for the Committee round. She climbed the last stair at dusk with her coat buttoned to the throat and her book under one arm, and she told herself she was checking her herbs before the frost.
+
+The roof garden was quiet, and the beds had been covered with straw for the winter. Her herb bed was at the far end, and the thyme had come through the cold better than she expected. She pulled two dead stems and put them in her pocket.
+
+Behind the water tank, out of the wind, someone had made a bed. It was a flat board laid across two crates, a blanket roll on top, a folded coat for a pillow, and a small tin box with a candle end inside it. The board had been swept clean, and the blanket was rolled tight and even.
+
+Lysette stood over it and looked at the city beyond the wall. From up there the trams were lines of light, and the palace was a dark shape with a few windows still awake.
+
+"So this is where you sleep," she said.
+
+The blanket had a name tag sewn into one corner, and the tag was blank. She touched the wool with one finger and found it dry. Either he had not slept there for a day, or he had folded it before the rain.
+
+She wrote three lines in her book and went back down. At the bottom of the stair she read what she had written: "Roof bed, dry. Blanket folded, no name. Water tank blocks the wind." Then she crossed out the last line, because it was not a fact about the boy, and she did not want to admire him on paper.
+
+* * *
+
+That evening she emptied her coat pockets onto the bed: two pencils, a tram ticket, a key, and a folded square of white cloth.
+
+The handkerchief was still folded the way he had given it to her on the roof, and the silver feather in one corner had gone a little grey at the edge. She had meant to wash it that same week. She had washed her gloves twice since then, and her collar three times, and she had forgotten the handkerchief entirely.
+
+Lysette sat on the bed with the cloth in her hands. The room was quiet, and the rain had stopped, and somewhere below a door opened and closed.
+
+She did not wash it that night either.

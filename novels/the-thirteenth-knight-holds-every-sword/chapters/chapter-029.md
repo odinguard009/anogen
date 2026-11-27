@@ -1,113 +1,73 @@
-# Chapter 29: The Crown with No Centre
+# Chapter 29: The Lake
 
-Felix asked the question again at breakfast, while the Duke was arguing with Greta about whether fish for breakfast counted as fish or as a personal insult. They ate in the small room with the bad tea and the good bread, and the dogs lay under the table with their noses on the Duke's boots, and a servant kept coming in to ask whether anyone wanted more of anything, which in this house meant that someone always did.
+The lake was outside the city. It was large. Still. The water was dark. Trees around it. Quiet.
 
-"Which one is the act?" Felix said. "Last night you said you did not know yet. That is not an answer you give a friend."
+Eden went with Rowan. Rowan was cheerful. He was always hungry. He talked as they walked.
 
-Eden put down his cup. The tea at Silverfell was strong enough to stand a spoon in, and he had been drinking it because Bertram kept filling the cup and taking it away before he could say no.
+"I heard you danced with Lysette," Rowan said.
 
-"I learned to be quiet in a house where people talked a lot," he said. "That is true."
+"I danced," Eden said. "Lysette taught me."
 
-"That is the half-truth," Felix said. "I can hear it."
+"She is good at teaching. She taught me to read. When I was young. I could not read. She taught me."
+
+Eden did not know this. He looked at Rowan. Rowan was tall. He had broad shoulders. He was strong. But he was kind. He did not use his strength to hurt.
+
+"Rowan," Eden said. "Why do you trust people?"
+
+Rowan looked at him. "Because most people are good. Not all. But most."
+
+"That is dangerous," Eden said.
+
+"Maybe. But it is also true."
+
+They reached the lake. Rowan sat on a rock. He took out bread. He ate. He offered some to Eden. Eden took it.
+
+They sat in silence. The water was still. The trees were quiet. A bird sang. Far away.
+
+"Eden," Rowan said. "Can I ask you something?"
 
 "Yes."
 
-"Give me the other half."
+"Why are you always alone?"
 
-"I cannot."
+Eden ate the bread. "I am not always alone. I have Felix. I have Lysette."
 
-Felix looked at him for a while, then took a piece of bread and broke it in two. "That is a better answer than 'I do not know'. I will take it."
+"You are alone even when you are with them," Rowan said. "You are there, but you are not there. You are thinking. Always thinking."
 
-"You should not."
+Eden looked at the lake. "Thinking keeps me safe."
 
-"I am." He put the larger half on Eden's plate. "I do not need the whole story. I need to know that you are not lying to me. You just told me you had a half you cannot give, and that is honest."
+"From what?"
 
-Eden looked at the bread for a while without touching it. It was half a roll, and every instinct he owned said to count what it would cost to take it. He took it and ate it slowly. It was warm, and it tasted of nothing except bread.
+"From everything."
 
-Greta came in with a basket of rolls and put it between them. "That is not sharing," she said. "That is crumbs."
+Rowan was quiet. Then he said, "You know, you do not have to be safe all the time. You can be unsafe sometimes. With friends."
 
-"I am sharing," Felix said.
+Eden did not answer. He ate the bread. The lake was still. The bird sang.
 
-Greta brushed the crumbs off the cloth with the side of her hand. Then she put the basket nearer to Eden than to Felix, where everyone could see she had done it. "That boy does not eat enough." She looked at Eden. "Eat the bread now."
+He thought about Rowan's words. "You can be unsafe sometimes. With friends." He did not know what that meant. He had never been unsafe. He had always been careful. Always planning. Always watching.
 
-"Yes, ma'am."
+Maybe Rowan was right. Maybe he could be unsafe. Just for a moment. Just with friends.
 
-* * *
+But not now. Not yet. The Ashen Crowns were still out there. The Veils were still in the walls. The lamps were still eyes.
 
-The lake lay behind the house with a wooden jetty that had one loose board near the end, and the Duke had insisted on taking them out before the snow came again. The path down to the water was icy under the trees, and Felix slipped once and caught the Duke's sleeve, and the Duke pretended to have been waiting for him to do it.
+He would be unsafe later. When it was safe to be unsafe.
 
-There was a flat boat with two oars, and a third oar wedged under the back seat that nobody used. It had a name painted on it in white letters that had worn away except for the last two, which were "ma". No one had ever explained that, and no one ever asked. Bertram carried the basket down to the jetty without being asked and set it where the Duke could reach it.
+He did not say this to Rowan. Rowan would not understand. Rowan trusted people. Eden did not.
 
-"Your mother liked this boat," the Duke said, as they pushed off. He sat in the middle with an oar in each hand and pulled too hard on the left, so the boat turned in a slow circle. "She called it the bathtub. She said a bathtub had more room for her feet."
+They sat by the lake. The water was still. The bird sang. The bread was stale. Eden ate it anyway.
 
-Eden sat in the bow with his hands in his pockets. Felix sat behind the Duke with a rug over his knees and his book shut, which meant he was listening.
+He thought about the Tutor. He had not seen the Tutor in weeks. The Tutor came in dreams. Eden had not dreamed in weeks. He did not miss it. Dreams were not real.
 
-"She used to sit where you are," the Duke said to Eden. "She would put her feet on the seat and I would tell her to take them off, and she would put them on my lap instead." He laughed once, then stopped. "She was good at that kind of thing."
+But the Tutor was real. In a way. The Tutor was the last echo of the Emperor of Void. He lived in Eden's mind. He taught Eden things. Things about mana. About doors. About shadows.
 
-"At putting her feet on your lap?"
+Eden had not needed the Tutor lately. He had been busy. Veils. Lamps. The Ashen Crowns. But he would need the Tutor again. He always did.
 
-"At making a thing ordinary when it was not." The Duke pulled the left oar again and the boat turned another inch. "There is something I should tell you. I have started this sentence four times in eleven years and I have never finished it."
+He looked at the lake. The water was dark. Like a door. A door to somewhere else.
 
-Eden said nothing. A thin ice had formed at the edge of the lake near the reeds, and the water in the middle was black and still.
+He did not open it. Not now. Not here. Rowan was beside him. Rowan must not see.
 
-"When she died," the Duke said, "they brought me a..." He stopped. He put the oars down across his knees and looked at the reeds. "No. That is not how to start it."
+He closed his eyes. He breathed. In. Out. In. Out.
 
-"Start anywhere," Felix said.
+The lake was still. The bird sang. Rowan ate bread.
 
-"That is the trouble. There is no anywhere. There is only the day she died and the day before it." The Duke looked at his own hands on the oars, big and scarred across the knuckles, and then at Eden's. "You have her hands," he said, in a different voice, as if he had been caught saying it. "I always forget until I see you holding something." The Duke's hands tightened on the oars, then loosened. "She was making something for you. In the workshop. I was supposed to—" He stopped again and swallowed. "I promised her I would give it to you when you were old enough. I was a coward about it. I am still a coward about it."
-
-Eden watched a bird stand on a post at the far end of the lake and flap its wings once without flying. The Duke's hands stayed on the oars with the ends resting in the water, and the boat moved by itself for two feet and then stopped against a reed bed, and he did not seem to notice that they were no longer rowing.
-
-"Old enough for what?" Felix asked.
-
-"For a great many things." The Duke picked up the oars and pulled them both at once, which moved the boat straight for three strokes. "I tried again in the summer. I wrote it down on a paper and left it in my desk for three days, and then I burnt the paper because I had written it wrong." He scrubbed one hand over his face. "I cannot say it today. I am sorry." He looked at Eden with tired eyes and a face that wanted a laugh and did not get one. "Can we fish?"
-
-"Yes," Eden said. He took the rod because it gave his hands a job and a reason to look at the black water rather than at the Duke's tired face.
-
-They fished. The Duke had brought three rods and rigged them with the patience of a man who had done it a thousand times, and he showed Felix how to hold his line without gripping it. Eden took his rod and let the line out, and the boat stopped turning because nobody was rowing and the water had gone calm.
-
-For an hour they did not talk. The ice at the reeds made a thin sound when the boat moved close to it, and the bird on the post flew to a second post and watched them from there. A fish took Felix's bait and got away, and the Duke said "Ah" in a small voice and did not say anything else. Felix looked at his empty line and then at Eden, and put the rod down on his knees without asking for help. Eden's line stayed still. It was the only quiet he had that day that did not have a purpose. On the roof there was always the nap record; in the Vigil there was always the count. Here there was a line in the water and nothing to do with it, and he found that his hands did not know what to do with an empty hour. He held the rod the way he held a lance, and then, when he saw the Duke notice, he loosened his grip and tried to hold it like a boy. He watched the reeds and the thin ice and the bird on the post, and counted the seconds between the small sounds the boat made, and he could feel the cold coming up through the floor of the boat into his boots.
-
-The Duke caught a fish at the end of the hour, a small pale thing that flapped in the bottom of the boat. He unhooked it carefully and put it back in the water without showing anyone how he did it.
-
-"Was that lunch?" Felix asked.
-
-"No," the Duke said. "That was practice."
-
-He rowed them back himself, and this time the boat went straight. Bertram was waiting at the jetty with the basket and a dry cloth, and he took the fish rod from the Duke before the Duke could hand it to him.
-
-"Any catch, my lord?"
-
-"One," the Duke said. "It is still in the lake."
-
-"Very wise of it." Bertram held out the folded cloth and looked at the jetty rather than at the lake. "Your boots are wet, my lord."
-
-"They always are." The Duke took the cloth and wiped his hands, not his boots, and went up toward the house with his arm around Felix's shoulders, telling him a story about a winter when the lake had frozen all the way through and he had tried to walk across it in his shirtsleeves.
-
-Eden walked behind them with the rod in his hand. The Duke's story ran on without a break, and Felix's laugh came in at the right places because he had learned the shape of the stories in one day. Bertram walked a step behind the boy with the basket over one arm and the dry cloth folded over the other, and he did not look at the Duke's boots again. The loose board on the jetty knocked once against its nail as Eden stepped off it.
-
-* * *
-
-That night the dream came with the white floor and the Tutor sitting at the far side of the board with his face turned away. Nine pawns stood in a line, and a tower stood behind them, and the east road held for four moves before it went.
-
-"You are slow," the Tutor said.
-
-"I am tired."
-
-"You are always tired. Look at the edge." Eden looked, and the doors stood along the edge as they always did, their number changing while he watched. One of them was not a door. It was a crown set on its side in the white, with no centre where the centre of a crown should be. The board's edge ran on around it, and the doors kept their number changing on either side, so the crown had been there for some time and was not going to move. Eden did not touch it. He had learned that the Tutor put things on the board for a reason and took them away when the lesson was done, and he had never once seen the Tutor put down a crown.
-
-From behind him came a long, grumpy sigh like an old church settling at night. "Is this going to take all night?" the Dragon said. "He has had a day of fish and silence. I have had a day of listening to him think about fish."
-
-"I am not thinking about fish," Eden said.
-
-"You have thought about it six times."
-
-The Tutor moved a pawn. "I once set a test for a king," he said. "He failed it. Do not fail yours."
-
-"Which king?"
-
-"One who was a boy when I set it." The Tutor put a second pawn down and said nothing more. Eden did not know which king he meant. He knew only that the Tutor never explained a lesson before it was over.
-
-The Dragon made a sound like a door closing in a distant house and said nothing more, and the nine pawns stayed in their line without anyone moving them, which was another thing that had not happened before. Eden looked at the crown on the edge of the board, and when he looked again it had rolled half a turn so that the empty centre faced him.
-
-"Again," the Tutor said.
+Eden was safe. For now.

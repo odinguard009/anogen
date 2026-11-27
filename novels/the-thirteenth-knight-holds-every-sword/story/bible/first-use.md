@@ -163,3 +163,13 @@ Note: Witness first use moved from planned ch 13 to ch 11 because the outline's 
 - Desmond Harrow's [Grask] | Crown of Gallowmarch | ch 48 | yes (grafted right arm swells grey until the coat seam splits, hand spans a man's chest and crushes; each use spreads grey up the neck; no blade or spell needed) | yes (needs the arm and reach; each use spends him; arm can be trapped in a Door)
 
 - Eden's [Lampwick] | Eden | ch 49 | yes ([Inead] follows a seam its own light shows: a hairline where the graft meets skin at the neck; needs light and a seam) | yes (no seam, no cut; uses the fire behind him and the gold from the sword)
+
+## Arc 1 end, on the page (ch 46-50)
+
+- [Osk] (Felix kneels with eyes shut and one arrow down the path Trail hears; total quiet; one arrow only) | Felix | ch 44 | yes (5 sentences) | yes (one arrow; noise breaks it)
+- [Thessa] (round iron-faced shield, worn strap, lighter than it looks, covers chin to knee, small feather mark under the strap, returns to the arm that holds it) | Eden, loaned to Felix | ch 47 | yes (5 sentences) | yes (three knocks and the middle name Perrin as answer; one borrower at a time)
+- [Ithe] (gold burst from Rowan's spear head filling a space in one breath, bright as noon, hard shadows, leaves cold and hands not answering) | Rowan | ch 46 | yes (4 sentences) | yes (one burst, then cold)
+- [Wyl] (green line along a crack holding Hushborn back; every blow comes back into her face) | Clara | ch 46 | yes (4 sentences) | yes (she feels each blow, bleeds under the nose)
+- [Grask] (grafted arm swells grey until the coat splits, crushes; each use spreads grey up the neck) | Desmond Harrow | ch 48 | yes (4 sentences) | yes (spends him; grey reached the jaw)
+- [Citation] (ghost-light replay held over the snow showing where the Veil was hurt, one baton strike on the exact inch; headache) | Lysette | ch 45 and ch 49 | yes (4 sentences) | yes (short duration; needs a still place; her wrist shakes)
+- [Lampwick] (Inead follows a seam its own light shows: a hairline where graft meets skin; needs light and a seam) | Eden | ch 49 | yes (4 sentences) | yes (no seam, no cut)

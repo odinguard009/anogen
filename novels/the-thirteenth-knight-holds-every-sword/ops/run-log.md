@@ -85,3 +85,21 @@
 - Battle check: ch 11, 16, 17 all keep action sentences at or under the supporting guard after splitting; fight cards in the outline are followed (maze, wall, bell). No Door overuse.
 - Date check: ch 11 14-16 Nov, ch 12 17 Nov, ch 13 19 Nov, ch 14 21 Nov, ch 15 22 Nov, ch 16 24 Nov, ch 17 25 Nov, ch 18 27 Nov-3 Dec, ch 19 4 Dec, ch 20 5 Dec — all match the outline date lines. The Ball is 12 Dec, nine days after 3 Dec.
 - POV check: ch 10 and 20 are the only non-Eden viewpoints; ch 20 stays on Valerius and never enters the king's or Merrow's feelings. "Eaten today" is a character tell, not filler. Scores.csv unchanged.
+
+
+### critic pass ch 21-30 - 2026-11-27 - same session, not independent
+- Cold read against outline lines and canon rows only; check_chapter --strict and milestone_check clean; no event or canon changed.
+- Concrete findings: ch 24 door-in-own-shadow and ch 25 Lintel described with limits; ch 27 reading printed once; ch 28 household beats and ch 29 dream crown present; ch 30 letter and missing Wren mother line present. Long-sentence warnings fixed in each chapter; no padding added for low dialogue in silence/quiet chapters.
+
+### critic pass ch 31-40 - 2026-11-27 - same session, not independent
+- Cold read; check_chapter --strict and milestone_check clean. First-use entries for aura, mana-lock musket, Ward-plate, Tavu, Door-in-own-shadow, Dawnbreak logged in first-use.md.
+- Concrete findings: ch 36 second reading [Void Heir] present; ch 37 PR 110 confirm mark with missing page; ch 38 fire scene with no reveal; ch 39 oil line; ch 40 Ysolde's file and bellwire hook. No event or canon changed.
+
+### critic pass ch 41-50 - 2026-11-27 - same session, not independent
+- Cold read; check_chapter --strict and milestone_check clean; all first-use labels (Osk, Thessa, Ithe, Wyl, Grask, Citation, Lampwick) logged.
+- Concrete findings: ch 45 memory scene is short past tense with no feeling words and Lysette does not know; ch 47 Thessa answers Perrin; ch 49 false Unbind has no bell; ch 50 hook delivered in a question Eden does not need answered; mother truth still behind ch 400. No independent review: same session wrote and judged.
+
+### audit through chapter 50 - 2026-11-27 - arc 1 complete
+- Arc 1 closed: all 50 chapters pass check_chapter --strict; milestone_check passes all five checks; validate 1-50 has no ERROR.
+- Proposals: 1) several quiet chapters sit at the word floor with low dialogue, warnings only; 2) the silent chapters in the Choir arc carry plot in narration, so dialogue share is below the guide by design; 3) same-session critic is a known limit, disclosed in every critic pass.
+- No rule changes made; no canon overwritten. EPUB gate: arc complete.

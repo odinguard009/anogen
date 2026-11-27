@@ -2,7 +2,7 @@
 
 The arms yard was empty after class. The sun was going down. The stone walls turned orange. The air was cold. Eden stayed.
 
-He held his lance. He moved it slowly. Left, right, up, down. Each move was small. He did not swing. He placed the lance where he wanted it. The tip touched the same spot in the air every time. He was checking his aim. He did this every day. After class. When the yard was empty. When no one watched.
+He held his lance and moved it slowly: left, right, up, down. Each move was small. He did not swing. He placed the lance where he wanted it, and the tip touched the same spot in the air every time. He was checking his aim. He did this every day, after class, when the yard was empty and no one watched.
 
 A shadow moved at the gate. Vesk. He was small and thin. His eyes were bright, like lamps. He wore a dark coat with holes in it. He leaned on the wall and watched. He ate an apple. He chewed slowly.
 

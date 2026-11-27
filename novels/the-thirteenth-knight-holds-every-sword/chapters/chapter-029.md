@@ -71,3 +71,55 @@ He closed his eyes. He breathed. In. Out. In. Out.
 The lake was still. The bird sang. Rowan ate bread.
 
 Eden was safe. For now.
+
+---
+
+After the lake, Eden went to the arms yard. He trained alone. He practiced the hinge. Pivot. Swing. The lance moved like a door.
+
+He thought about Rowan. Rowan trusted people. Eden did not. But Rowan was not stupid. Rowan was kind. Kindness was not stupidity.
+
+Eden practiced the Latch. The shield catches a blade and locks it against the knocker ring. He did it ten times.
+
+He thought about trust. He trusted Felix. He trusted Lysette. He did not trust anyone else. Not yet.
+
+He practiced the Draught. The lance through the narrow gap in a guard, like wind through a door. He did it ten times.
+
+He was sweating. His shirt was wet. He did not stop.
+
+He thought about the Veil. The Veil that spoke. The Veil that waited. The Veil that was not normal.
+
+He stopped. He put down his lance. He sat on the bench. He breathed.
+
+He thought about the clerk. The clerk who was scared. The clerk who had a family. The clerk who let them pass.
+
+He thought about the teacher. The teacher who reported him. The teacher who smiled. The teacher who was with the Ashen Crowns.
+
+He had a lot to do. He always had a lot to do.
+
+He picked up his lance. He practiced one more time. Then he stopped. He went to the dining hall.
+
+He ate lunch. He sat alone. He did not taste the food. He thought about Rowan. He thought about trust. He thought about the Veil.
+
+After lunch, he went to the library. He looked for books about the Ashen Crowns. He found one. It was old. The cover was red.
+
+He opened it. The pages were yellow. The writing was small. He read.
+
+"The Ashen Crowns are a terror network. They are the heirs of the eleven kingdoms conquered by the Iron King. They seek revenge. They use Veils. They use bombs. They use fear."
+
+Eden read this. He knew about the Ashen Crowns. But the book gave him details. Dates. Names. Places.
+
+He wrote in his notebook: "Ashen Crowns. Heirs of conquered kingdoms. Revenge. Use Veils, bombs, fear. Read more."
+
+He closed the book. He put it back. He would come back tomorrow.
+
+He went to the roof garden. He sat on the bench. He looked at the city. The lamps glowed. The trams ran. The city was normal.
+
+But the city was not safe. The Veils were in the walls. The lamps were their eyes. The clerk was watching. The teacher was watching. The Ashen Crowns were watching.
+
+Eden watched back. He always watched back.
+
+He closed his notebook. He lay back on the bench. He looked at the sky. The clouds moved. The wind blew.
+
+He thought about Rowan. Trust. Kindness. Safety.
+
+He slept on the roof. No dreams.

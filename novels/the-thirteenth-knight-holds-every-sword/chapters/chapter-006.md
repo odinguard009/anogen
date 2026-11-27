@@ -1,8 +1,8 @@
 # Chapter 6: Lance Nine
 
-The arms yard was empty after class. The sun was going down, and the stone walls turned orange in the fading light, while the air grew cold. Eden stayed.
+The arms yard stood empty after class, and the sun was going down while the stone walls turned orange in the fading light. The air was cold, but Eden stayed.
 
-He held his lance and moved it slowly: left, right, up, down. Each move was small, and he did not swing. He placed the lance where he wanted it, and the tip touched the same spot in the air every time. He was checking his aim, which he did every day after class, when the yard was empty and no one watched.
+He held his lance and moved it slowly: left, right, up, down. Each move was small, and he did not swing, but placed the lance where he wanted it so the tip touched the same spot in the air every time. He was checking his aim, which he did every day after class when the yard was empty and no one watched.
 
 A shadow moved at the gate. Vesk was small and thin, with bright eyes like lamps, and he wore a dark coat with holes in it. He leaned on the wall and watched, eating an apple and chewing slowly.
 
@@ -14,7 +14,7 @@ A shadow moved at the gate. Vesk was small and thin, with bright eyes like lamps
 
 Eden did not answer. He placed the lance again, left and right, and the tip touched the same spot.
 
-Vesk walked closer. His steps were quiet, and he moved like a cat. "I heard about the exchange. The Veil. You did it alone."
+Vesk walked closer, his steps quiet, and he moved like a cat. "I heard about the exchange. The Veil. You did it alone."
 
 "I was not alone. Lysette was there."
 
@@ -64,13 +64,15 @@ Vesk finished his apple and threw the core over the wall. He moved like a shadow
 
 Eden stood alone. The yard was dark now. The lamps were on. He picked up his lance and left.
 
-He walked to the dormitory. The hall was empty. His steps were quiet. He went to his room, sat on his bed, and opened his notebook. Inside he wrote: "Clerk. Exchange. Smiled. Knows. Not a Veil. Has family. Real. But he let us pass. Why? Check."
+He walked to the dormitory. The hall was empty. His steps were quiet. He went to his room and sat on his bed. He opened his notebook.
+
+He wrote: "Clerk. Exchange. Smiled. Knows. Not a Veil. Has family. Real. But he let us pass. Why? Check."
 
 He closed the notebook and lay back. He thought about the clerk: a man with a family, a man who smiled, a man who let a Veil hunter walk into a trap.
 
 Maybe the clerk was not the trap. Maybe the clerk was the bait. Someone wanted Eden to go to the exchange. Someone wanted Eden to find the Veil. Why?
 
-Eden did not know yet, but he would learn the truth. He always did.
+Eden did not know. He would find out. He always found out.
 
 He thought about Vesk. Vesk was not a friend. Vesk was a tool. But tools were useful. Eden kept tools. He paid Vesk. Vesk watched. It was a good arrangement.
 
@@ -90,7 +92,7 @@ But the Veil had known their names. "I do not have one." She had answered Eden's
 
 What did that mean? A thing without a soul that could speak? A thing without a soul that could think?
 
-Eden did not know yet, but he would learn the truth. He always did.
+Eden did not know. He would find out. He always found out.
 
 He opened his eyes. The room was dark. The moon was out. The window was open. The curtain moved. The wind was cold.
 
@@ -250,9 +252,7 @@ The crack in the corner looked like a river. It always looked like a river.
 
 He slept. No dreams.
 `;
-// copy to local clone
+// check locally first
 const fs = require('fs');
-fs.writeFileSync('C:/Users/guardino.fahmi.EMTEKGROUP/AppData/Local/Temp/opencode/anogen-build/novels/the-thirteenth-knight-holds-every-sword/chapters/chapter-006.md', content);
-// also save locally
-fs.writeFileSync('C:/Users/guardino.fahmi.EMTEKGROUP/chapter-006-final.md', content);
+fs.writeFileSync('C:/Users/guardino.fahmi.EMTEKGROUP/ch6-good.md', content);
 return "written";

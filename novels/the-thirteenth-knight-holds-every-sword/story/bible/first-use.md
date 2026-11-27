@@ -93,6 +93,9 @@ Unbind (none on page; first: Lysette's Auda ch 141, Duke's Durn ch 193, Valerius
 
 Note: Witness first use moved from planned ch 13 to ch 11 because the outline's graded run calls for it; ch 13 is a later use with a new detail.
 
+- **[Crest Harness]** (school-issue drill armor: dark grey coat, steel plates at chest and shoulders, brass buckles, white crest on the left breast, plain steel helm with an eye bar) | Lance Nine, school issue | ch 11 | yes (3 sentences; buckles, helm last, first breath, first step) | yes (plates hang a half beat behind the body; weight in the knees)
+- **[Drill Lance]** (ash shaft, blunted iron cap, old leather grip; paired with a plain oak drill shield, iron rim, wide forearm strap) | Eden, school issue | ch 11 | yes (2 sentences) | yes (blunted cap; the shield weighs more than the lance)
+
 
 - Lysette's Testimony | Lysette | ch 13 | yes (holds a Witness replay in the air for others to see; bright ghost-light, needs a still place and nobody moving through it, about six breaths) | yes (short duration; her wrist shakes and she must let it go)
 

@@ -32,6 +32,40 @@ But she knew enough. For now.
 
 Eden closed the file. He put it under his bed. He lay back. He stared at the ceiling.
 
-The crack in the corner looked like a river. It always looked like a river. He had not fixed it. He did not need to. The crack was fine. It was just a crack.
+The crack in the corner looked like a river. It always looked like a river.
 
 He slept. No dreams.
+
+---
+
+The next morning, Eden went to the roof garden. He sat on the bench. He thought about the file. The members. The methods. The map.
+
+He thought about the Thirteenth Vigil. It was a secret order. Most people did not know it existed. The ordinary people had never seen the black armor.
+
+Eden was the only active member. He hunted Veils. He protected the academy. He protected the city. He did it alone.
+
+But he was not alone. He had Lysette. He had Felix. He had Vesk. They did not know about the Thirteenth Vigil. But they helped him. In their own way.
+
+Lysette watched. Felix was loyal. Vesk saw things. They were his tools. His friends. His circle.
+
+He needed to build the circle. He needed more people. He needed allies.
+
+He thought about Rowan. Rowan was kind. Rowan was strong. Rowan could help. But Rowan did not know about Veils. Rowan did not know about the Thirteenth Vigil. Rowan did not know about the Hush in the veins.
+
+Eden would tell him. Someday. Not now. Not yet.
+
+He thought about Valerius. Valerius was smart. Valerius was powerful. Valerius could help. But Valerius was suspicious. Valerius was watching Eden. Valerius might be an enemy.
+
+Eden would watch Valerius. Valerius would watch Eden. They would both pretend. That was how it worked.
+
+He thought about Seraphine. Seraphine was playful. Seraphine was diplomatic. Seraphine could help. But Seraphine was a princess. She had her own problems.
+
+Eden would not tell her. Not yet.
+
+He looked at the city. The lamps glowed. The trams ran. The city was normal.
+
+But the city was not safe. Eden knew that. He would make it safe. Somehow. Someday.
+
+He would find a way. He always found a way.
+
+He slept on the roof. No dreams.

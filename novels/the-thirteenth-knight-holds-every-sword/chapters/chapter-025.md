@@ -39,3 +39,29 @@ He closed the notebook. He thought about the message. Who was sending it? The As
 He did not know. But he would find out.
 
 He always found out.
+
+---
+
+After the incident, Eden went to the roof garden. He sat on the bench. He looked at the city. The lamps glowed. The trams ran. The city was normal.
+
+But the city was not safe. The stone in the atrium proved that. Someone could reach the academy. Someone could break the glass. Someone could drop stones on students.
+
+Eden thought about who. The Ashen Crowns. The Veils. The clerk. The teacher. Someone else.
+
+He did not know. But he would find out.
+
+He opened his notebook. He wrote: "Atrium stone. Warning. Someone can reach the academy. Find who."
+
+He closed the notebook. He lay back on the bench. He looked at the sky.
+
+The wind moved the plants. The city hummed. The sun went down.
+
+Eden thought about the stone. It was heavy. It was large. It was the size of a man's head. Someone had carried it to the roof. Someone had dropped it through the glass.
+
+That took strength. That took planning. That took someone who knew the academy. Someone who knew the roof. Someone who knew the atrium.
+
+Eden thought about this. He would check the roof. He would check the glass. He would check the atrium.
+
+He would find out. He always found out.
+
+He slept on the roof. No dreams.

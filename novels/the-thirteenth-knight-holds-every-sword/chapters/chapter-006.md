@@ -1,6 +1,6 @@
 # Chapter 6: Lance Nine
 
-The arms yard stood empty after class, and the sun was going down while the stone walls turned orange in the fading light. The air was cold, but Eden stayed.
+The arms yard stood empty after class, and the sun was going down while the stone walls turned orange in the fading light. The cold air settled over the yard, but Eden stayed.
 
 He held his lance and moved it slowly: left, right, up, down. Each move was small, and he did not swing, but placed the lance where he wanted it so the tip touched the same spot in the air every time. He was checking his aim, which he did every day after class when the yard was empty and no one watched.
 
@@ -251,8 +251,3 @@ He closed the notebook and lay back. He stared at the ceiling.
 The crack in the corner looked like a river. It always looked like a river.
 
 He slept. No dreams.
-`;
-// check locally first
-const fs = require('fs');
-fs.writeFileSync('C:/Users/guardino.fahmi.EMTEKGROUP/ch6-good.md', content);
-return "written";

@@ -77,3 +77,11 @@
 - First-use check: ch 6 Rowan's light and Clara's flowers have look, use and limit; ch 7 ash-rose card described; ch 8 [Sile] has look, stroke and the Door limit. No unlabelled first use in ch 9-10; no reveal ladder steps skipped.
 - Date check: ch 6 Fri 6 Nov, ch 7 Mon 9 Nov, ch 8 Monday night, ch 9 Thu 12 Nov, ch 10 Fri 13 Nov — all match the outline date lines. The ch 10 hearing closes the warrant promised in ch 7.
 - POV and voice: ch 10 stays on Lysette; Eden's answers stay literal; no "Eden felt" line. Weak chapters for the next batch: ch 1-3 (low dialogue, kept by owner order) and ch 10 (long sentences, now split). Scores.csv unchanged.
+
+### critic pass ch 11-20 - 2026-11-27 - same session, not independent
+- Cold read against the outline lines and canon rows only; prepass 11-20, check_chapter --strict and verify_batch 11-20 clean. No event or canon changed.
+- Concrete findings left for the writer, not patched: prepass lists more than 25-word sentences in every chapter (worst ch 13 with 17 and ch 15 with 14); recurring 5-word runs "at the end of the", "looked at him for a", "put it in his coat", "book under her arm" across chapters. These are warnings, not 6-gram failures; patching every one would force rewrites of already-checked prose.
+- First-use check: ch 11 [Crest Harness] and [Drill Lance] have look, feel and cost; [Trail] has look, limit and sweep break; [Witness] has still-place limit. Ch 13 [Testimony] has six-breath limit and wrist shake. Ch 16 [Injunction] and [Hinge] have look, effect and cost in the ledger and on the page. No unlabelled named mechanic found.
+- Battle check: ch 11, 16, 17 all keep action sentences at or under the supporting guard after splitting; fight cards in the outline are followed (maze, wall, bell). No Door overuse.
+- Date check: ch 11 14-16 Nov, ch 12 17 Nov, ch 13 19 Nov, ch 14 21 Nov, ch 15 22 Nov, ch 16 24 Nov, ch 17 25 Nov, ch 18 27 Nov-3 Dec, ch 19 4 Dec, ch 20 5 Dec — all match the outline date lines. The Ball is 12 Dec, nine days after 3 Dec.
+- POV check: ch 10 and 20 are the only non-Eden viewpoints; ch 20 stays on Valerius and never enters the king's or Merrow's feelings. "Eaten today" is a character tell, not filler. Scores.csv unchanged.

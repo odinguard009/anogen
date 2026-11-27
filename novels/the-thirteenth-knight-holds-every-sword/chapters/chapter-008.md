@@ -10,7 +10,7 @@ He worked slowly. His hands were steady. Each gear went in its place. Each screw
 
 The clock was old. It had been on the bench for weeks. No one had claimed it. Eden had found it in a drawer. It was broken. The mainspring was snapped. The gears were dirty. The face was cracked.
 
-He cleaned the gears first. He used a cloth and oil. The oil smelled like metal. The gears shone when they were clean. He checked each one. Two were bent. He straightened them with pliers. They clicked when they were straight.
+He cleaned the gears first, using a cloth and oil. The oil smelled like metal, and the gears shone when they were clean. He checked each one. Two were bent, so he straightened them with pliers, and they clicked when they were straight.
 
 The mainspring was harder. He did not have a new one. He would have to fix the old one. He held it up to the lamp. It was thin. It was cracked in two places. He could solder it. But solder was weak. It would break again.
 
@@ -225,67 +225,3 @@ He closed the notebook and lay back. He stared at the ceiling.
 The crack in the corner looked like a river. It always looked like a river.
 
 He slept. No dreams.
-
----
-
-Eden woke before dawn. He went to the lamp house on the hill. The air was cold. The streets were empty. The lamps were on. They glowed yellow.
-
-He unlocked the door. The machines were running. The switch was untouched. But there were new papers on the table. Eden read them. They were lists. Names. Addresses. Times.
-
-He took the papers. He locked the door. He went home.
-
-He sat on his bed. He read the papers again. Three lamp houses. Three switches. Three parts of the city would go dark.
-
-He needed help. He did not want help. But he needed it.
-
-He went to Vesk. Vesk was on his usual roof. Eating an apple.
-
-"I need you," Eden said.
-
-Vesk looked at him. "Pay me first."
-
-Eden gave him a coin. Vesk took it. "What do you need?"
-
-"I need you to watch two lamp houses. Friday. 8 PM. If anyone comes to turn off the switch, stop them."
-
-"How?" Vesk asked.
-
-"Knife. Rope. Whatever you need. Do not kill. Just stop."
-
-Vesk nodded. "And you?"
-
-"I will take Lamp House 7."
-
-"Alone?"
-
-"Lysette will be with me."
-
-Vesk smiled. "The girl with the notebook."
-
-"Yes."
-
-Vesk finished his apple. "Okay. I will be there."
-
-Eden left. He went to Lysette. He told her the plan. She listened. She wrote in her notebook.
-
-"Three lamp houses," she said. "Three switches."
-
-"Yes."
-
-"I will use Witness at Lamp House 7. You stop the clerk. Vesk stops the others."
-
-"What if Vesk fails?"
-
-"He will not fail," Eden said. "He is good at watching."
-
-Lysette looked at him. "You trust him?"
-
-"I trust him to do what I pay him to do."
-
-Lysette nodded. She did not argue.
-
-Eden went to his room. He sat on his bed. He opened his notebook. He wrote: "Friday. 3 lamp houses. Vesk: 3 and 9. Me + Lysette: 7. Stop the switches."
-
-He closed the notebook. He lay back. He thought about Friday. Three places. Three switches. Three chances to fail.
-
-He would not fail. He planned. He always planned.

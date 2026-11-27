@@ -1,125 +1,135 @@
-# Chapter 29: The Lake
+# Chapter 29: The Crown With No Centre
 
-The lake was outside the city. It was large. Still. The water was dark. Trees around it. Quiet.
+Felix asked the question again in the morning, over honey-rye bread and a cup of tea. Bertram had poured it, and the Duke had tried to pour it first and failed.
 
-Eden went with Rowan. Rowan was cheerful. He was always hungry. He talked as they walked.
+"Which one is the act?" Felix asked. "Your family being loud, or you being quiet?"
 
-"I heard you danced with Lysette," Rowan said.
+Eden put his knife down and thought about it, and the thought took longer than Felix expected. Felix waited because he was good at waiting.
 
-"I danced," Eden said. "Lysette taught me."
+"I am quiet everywhere," Eden said. "The house is loud everywhere. Neither of us is acting."
 
-"She is good at teaching. She taught me to read. When I was young. I could not read. She taught me."
+"That is an answer a careful man gives."
 
-Eden did not know this. He looked at Rowan. Rowan was tall. He had broad shoulders. He was strong. But he was kind. He did not use his strength to hurt.
+"It is the answer I have."
 
-"Rowan," Eden said. "Why do you trust people?"
+Felix buttered his bread and put the knife back on the plate. "You were not here for most of it. I know that much. The house knows you, and you know the house, but you stand at the edge of it like a guest who has learned the door number." He looked at the Duke, who was reading a ballad about a boy who slept through a siege and humming the tune under his breath. "Does he know where you sleep at school?"
 
-Rowan looked at him. "Because most people are good. Not all. But most."
+"No."
 
-"That is dangerous," Eden said.
+"Does he know you fight?"
 
-"Maybe. But it is also true."
+"No."
 
-They reached the lake. Rowan sat on a rock. He took out bread. He ate. He offered some to Eden. Eden took it.
+"Then you are not his guest, and you are not his son in the way he thinks you are his son." Felix said it quietly and plainly, and he did not look sorry for asking. "I am not asking for the whole thing. Give me a piece I can live with."
 
-They sat in silence. The water was still. The trees were quiet. A bird sang. Far away.
+Eden looked at the bread, and at the lake beyond the window, and then at his friend.
 
-"Eden," Rowan said. "Can I ask you something?"
+"I am here under another name because there is a reason I cannot use mine yet," he said. "The reason is mine, and it is not a crime, and it is not a danger to anyone in this house. My father knows part of it and does not know the rest. That is all I can say, and it is true."
+
+Felix ate his bread and considered the answer for a while. "That is half of a thing," he said. "It is a whole half, and I will take it." He pushed his plate away and looked at the Duke, who was singing the third verse under his breath and beating time on the table with his spoon. "He does not know you were on the roof at the Ball, either."
+
+"No."
+
+"But he knows the bell rang."
+
+"He heard it."
+
+"And he did not ask." Felix looked at the spoon. "That is the strangest thing about this house. Everyone hears everything and nobody asks."
+
+"It is more than I gave you in November."
+
+"It is enough to go on. They finished breakfast in a quieter way after that, and the Duke put down his spoon twice to write a line on a paper napkin, and Greta took the napkin away before he could sing any of it, and Eden watched them without saying anything." Felix took the last piece of bread from Eden's plate before Eden could reach it, and then he gave it back, because that was a separate matter. "Eaten today?"
+
+"Yes," Eden said, and he took the bread.
+
+* * *
+
+The Duke had arranged the morning on a sheet of paper with three lines on it, and he read from it at the door of the boathouse. "One, the lake. Two, the fish. Three, no talk of school."
+
+"There are no fish in this lake," Bertram said from behind him.
+
+"There are fish in every lake," the Duke said, and he folded the paper and put it in his coat. "I have arranged it with the keeper."
+
+The boat was a flat wooden thing with two seats and a pair of oars, and the Duke took one seat. Bertram pushed them off from the bank with one foot and did not get in. The lake was grey and still, and the boathouse got smaller behind them, and the Duke rowed badly and did not seem to mind. He told Eden that rowing was a matter of will rather than skill, and then he admitted that his left oar had a bent shaft and that Bertram had told him so every summer since Eden was born.
+
+Eden had expected a question about Liora, and he had prepared one true sentence and two false ones, and he had decided which to use. The Duke shipped the oars and looked at the water for a long time. Then he took a cloth from his pocket, cleaned an eyelash from his thumb, and said nothing.
+
+A kingfisher went along the reeds and vanished under a tree, and a frog said one note and stopped. The boat turned slowly because only one oar was working.
+
+"Your mother used to sit here and complain about the noise of the birds," the Duke said.
+
+"Yes," Eden said.
+
+"She said the lake was the only place in the house where a person could think without being interrupted by a relative." He looked at the reeds. "I wanted to tell you about her. I have wanted to tell you for eleven years, and every time I open my mouth I remember my promise to her."
+
+Eden kept his hands in his lap and said nothing.
+
+"I am a man who talks for a living," the Duke said. "I have written songs about curtains and boot polish and my own beard, and I can make a speech last an hour. I cannot find six words about your mother that are both true and mine to say." He put the cloth back in his pocket and picked up an oar. "So I will wait, and you can ask when you want to, and I will try again then."
+
+"Yes," Eden said.
+
+"That is all you are going to say?"
+
+"It is the only answer I have."
+
+The Duke laughed once, and the sound went across the water and came back off the trees. A bell rang once up the hill at Silverfell, and he stopped laughing.
+
+"Did you hear that?" he asked.
 
 "Yes."
 
-"Why are you always alone?"
+"It rings when I laugh."
 
-Eden ate the bread. "I am not always alone. I have Felix. I have Lysette."
+"I know," Eden said. "Bertram told me."
 
-"You are alone even when you are with them," Rowan said. "You are there, but you are not there. You are thinking. Always thinking."
+The Duke looked at him for a while, and then he went back to the oar. He pulled hard enough to send the boat across the water in three strokes and said nothing else about the bell. They fished for an hour, and the Duke lost two hooks in the reeds and one on his own coat. He told Eden about a summer when he had caught a fish the size of his forearm. Greta made him throw it back because it was the last of its kind in the lake.
 
-Eden looked at the lake. "Thinking keeps me safe."
+"She keeps a list of the fish," he said. "There is a book in the kitchen with their names in it."
 
-"From what?"
+"Does she name them?"
 
-"From everything."
+"Several." The Duke looked at the water. "I have never dared to ask which ones she has crossed out." He took the oar again and pulled twice, and the boat went straight, and then he stopped. They fished in silence, which was what the Duke had planned. Eden had not expected to like it. The Duke waited with the oar across his knees. He was not a man who was good at waiting, but he managed a full minute before he began to hum under his breath. Felix asked whether it was the same answer he had given in November, and Eden said that it was the same answer with one more true piece in it. Felix said that he could hear the difference.
 
-Rowan was quiet. Then he said, "You know, you do not have to be safe all the time. You can be unsafe sometimes. With friends."
+At the end of the morning they had one fish between them, and the Duke insisted that it was two because you could count head and tail separately. Bertram met them at the bank with a basket, and the Duke told him that the fish had caught them. He walked up to the house with his oar over his shoulder and sang two lines of the ballad before Greta told him from a window to stop. Bertram walked behind him with the basket and the spare oars, and Greta came to the door with a towel. She told the Duke that if he sang in the kitchen she would put the ladle down again, and he promised her that he would not.
 
-Eden did not answer. He ate the bread. The lake was still. The bird sang.
+* * *
 
-He thought about Rowan's words. "You can be unsafe sometimes. With friends." He did not know what that meant. He had never been unsafe. He had always been careful. Always planning. Always watching.
+In the afternoon Eden walked to the stables with Bertram, and the old man showed him a new horseshoe nail left in the yard and put it in a box with four others like it.
 
-Maybe Rowan was right. Maybe he could be unsafe. Just for a moment. Just with friends.
+"They come from the village road," Bertram said. "Someone is paying for news of the trains, and a shoe leaves itself behind." Eden thought of the man in the grey staff coat at the academy, and he said nothing, and Bertram shut the box.
 
-But not now. Not yet. The Ashen Crowns were still out there. The Veils were still in the walls. The lamps were still eyes.
+That night Eden slept in the east room with the lake window open, and the dream came with the board at the edge of nothing and the small man writing on it in chalk. The board held one line: "A test for a king." There were three older lines in chalk that Eden had learned not to read, because they changed when he looked at them, and the small man at the board wrote with a hand that did not seem to belong to him. He wrote three more lines and rubbed one out with his sleeve, and the Tutor watched him without turning his head.
 
-He would be unsafe later. When it was safe to be unsafe.
+The Tutor stood with his back to the board and his hands in his sleeves. He was not a large man, and the nothing around him had no wind or smell, and the chalk never seemed to grow shorter.
 
-He did not say this to Rowan. Rowan would not understand. Rowan trusted people. Eden did not.
+Eden said, "You said something to me before. About a king."
 
-They sat by the lake. The water was still. The bird sang. The bread was stale. Eden ate it anyway.
+"I set a test for a king," the Tutor said. "He failed it."
 
-He thought about the Tutor. He had not seen the Tutor in weeks. The Tutor came in dreams. Eden had not dreamed in weeks. He did not miss it. Dreams were not real.
+"Which king?"
 
-But the Tutor was real. In a way. The Tutor was the last echo of the Emperor of Void. He lived in Eden's mind. He taught Eden things. Things about mana. About doors. About shadows.
+"That is not the part to remember." The Tutor turned, and his face was ordinary and calm, and he looked tired in the way a man looks tired after a long examination. "Do not fail yours."
 
-Eden had not needed the Tutor lately. He had been busy. Veils. Lamps. The Ashen Crowns. But he would need the Tutor again. He always did.
+"Fail what?" Eden asked.
 
-He looked at the lake. The water was dark. Like a door. A door to somewhere else.
+"The test."
 
-He did not open it. Not now. Not here. Rowan was beside him. Rowan must not see.
+"I do not know that I am taking one."
 
-He closed his eyes. He breathed. In. Out. In. Out.
+"You are the only one in this room who does not know it." The Tutor put the chalk down on the board's ledge, and it made a small white sound.
 
-The lake was still. The bird sang. Rowan ate bread.
+Eden waited, because the Tutor usually stopped after a line like that and let the silence do the work. This time the Tutor went to a small table that had not been there before, and he moved a piece across it with one finger.
 
-Eden was safe. For now.
+Eden had seen the pieces on that table many times: a thin white horse, a red tower, a grey dog, a flat black square with no name, a glass bead that rolled when the table moved, and a board with a line down the middle. He had never seen the piece the Tutor moved now.
 
----
+It was a crown, small and dark, with a gap where the centre should have been. Light from the board went through it and made a ring on the table below. The Tutor set it down on the far square and took his finger away, and the ring of light stayed where it was for a moment after the piece stopped moving. Eden looked at the gap and at the ring, and he wanted to put a finger through it, and he did not, because the Tutor was watching his hand.
 
-After the lake, Eden went to the arms yard. He trained alone. He practiced the hinge. Pivot. Swing. The lance moved like a door.
+"Why no centre?" he asked.
 
-He thought about Rowan. Rowan trusted people. Eden did not. But Rowan was not stupid. Rowan was kind. Kindness was not stupidity.
+"A crown with a centre is worn by a king who is still certain," the Tutor said. "This one is carried by someone who has learned to leave a space."
 
-Eden practiced the Latch. The shield catches a blade and locks it against the knocker ring. He did it ten times.
+"What is it?" Eden asked.
 
-He thought about trust. He trusted Felix. He trusted Lysette. He did not trust anyone else. Not yet.
+"An ending," the Tutor said, and the board went white and the table went white and the nothing went white. Eden woke with the lake window open and cold air coming in over the sill.
 
-He practiced the Draught. The lance through the narrow gap in a guard, like wind through a door. He did it ten times.
-
-He was sweating. His shirt was wet. He did not stop.
-
-He thought about the Veil. The Veil that spoke. The Veil that waited. The Veil that was not normal.
-
-He stopped. He put down his lance. He sat on the bench. He breathed.
-
-He thought about the clerk. The clerk who was scared. The clerk who had a family. The clerk who let them pass.
-
-He thought about the teacher. The teacher who reported him. The teacher who smiled. The teacher who was with the Ashen Crowns.
-
-He had a lot to do. He always had a lot to do.
-
-He picked up his lance. He practiced one more time. Then he stopped. He went to the dining hall.
-
-He ate lunch. He sat alone. He did not taste the food. He thought about Rowan. He thought about trust. He thought about the Veil.
-
-After lunch, he went to the library. He looked for books about the Ashen Crowns. He found one. It was old. The cover was red.
-
-He opened it. The pages were yellow. The writing was small. He read.
-
-"The Ashen Crowns are a terror network. They are the heirs of the eleven kingdoms conquered by the Iron King. They seek revenge. They use Veils. They use bombs. They use fear."
-
-Eden read this. He knew about the Ashen Crowns. But the book gave him details. Dates. Names. Places.
-
-He wrote in his notebook: "Ashen Crowns. Heirs of conquered kingdoms. Revenge. Use Veils, bombs, fear. Read more."
-
-He closed the book. He put it back. He would come back tomorrow.
-
-He went to the roof garden. He sat on the bench. He looked at the city. The lamps glowed. The trams ran. The city was normal.
-
-But the city was not safe. The Veils were in the walls. The lamps were their eyes. The clerk was watching. The teacher was watching. The Ashen Crowns were watching.
-
-Eden watched back. He always watched back.
-
-He closed his notebook. He lay back on the bench. He looked at the sky. The clouds moved. The wind blew.
-
-He thought about Rowan. Trust. Kindness. Safety.
-
-He slept on the roof. No dreams.
+He lay still for a while with the sheet pulled up, and then he got dressed and went down to breakfast, and the house was already loud.

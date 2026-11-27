@@ -63,3 +63,8 @@
 ### 2026-11-26 09:21 UTC (16:21 WIB) - audit - ok
 - notes: Arc-end audit through ch 50: 3 proposals on word floor, dense hints, same-session critic.
 - quota_note: 
+
+### cold read ch 45-50 - 2026-11-27, same session, not independent
+- Read 45-50 against the outline lines and canon rows only. check_chapter --strict OK on all five; no riddle replies; plain_check clean except dialogue-share warnings, which are allowed for battle chapters.
+- No concrete line-level finding that could be quoted. The memory scene in ch 45 stays 150 words with no feeling words; the aura in ch 49 is delivered by reaction shots; ch 50's want-to-be-seen is delivered by an unneeded question and the scarf.
+- Recommendation for arc 2: keep the cold-read self-test in the writer prompt and fail any chapter with a plain_check warning.

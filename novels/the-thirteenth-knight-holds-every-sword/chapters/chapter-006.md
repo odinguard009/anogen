@@ -1,10 +1,10 @@
 # Chapter 6: Lance Nine
 
-The arms yard was empty after class. The sun was going down. The stone walls turned orange. The air was cold. Eden stayed.
+The arms yard was empty after class. The sun was going down, and the stone walls turned orange in the fading light. The air was cold. Eden stayed.
 
 He held his lance and moved it slowly: left, right, up, down. Each move was small. He did not swing. He placed the lance where he wanted it, and the tip touched the same spot in the air every time. He was checking his aim. He did this every day, after class, when the yard was empty and no one watched.
 
-A shadow moved at the gate. Vesk. He was small and thin. His eyes were bright, like lamps. He wore a dark coat with holes in it. He leaned on the wall and watched. He ate an apple. He chewed slowly.
+A shadow moved at the gate. Vesk was small and thin, with bright eyes like lamps. He wore a dark coat with holes in it. He leaned on the wall and watched, eating an apple and chewing slowly.
 
 "You are slow," Vesk said.
 
@@ -14,7 +14,7 @@ A shadow moved at the gate. Vesk. He was small and thin. His eyes were bright, l
 
 Eden did not answer. He placed the lance again, left and right, and the tip touched the same spot.
 
-Vesk walked closer. His steps were quiet. He moved like a cat. "I heard about the exchange. The Veil. You did it alone."
+Vesk walked closer. His steps were quiet, and he moved like a cat. "I heard about the exchange. The Veil. You did it alone."
 
 "I was not alone. Lysette was there."
 
@@ -22,27 +22,27 @@ Vesk walked closer. His steps were quiet. He moved like a cat. "I heard about th
 
 "She held the door," Eden said. "She held it for ten minutes. Without her, I could not have done it."
 
-Vesk smiled. It was not a kind smile. It was a sharp smile. "I know. I was on the roof. I saw."
+Vesk smiled. It was not a kind smile. It was sharp. "I know. I was on the roof. I saw."
 
-Eden stopped. He looked at Vesk. "You were there?"
+Eden stopped and looked at Vesk. "You were there?"
 
 "I am always there," Vesk said. "That is my job. I see. I hear. I tell you. You act."
 
-Eden put down the lance. He sat on a stone bench. The stone was cold. "Then tell me. What else did you see?"
+Eden put down the lance and sat on a stone bench. The stone was cold. "Then tell me. What else did you see?"
 
 Vesk's eyes narrowed. "The clerk at the desk. He was not asleep. He was watching you. He let you pass on purpose."
 
 Eden looked at the ground. He thought about this. "Why?"
 
-"I do not know. But he smiled when you left. A small smile. Not a happy smile. A knowing smile. Like he knew what you would find upstairs."
+"I do not know. But he smiled when you left. A small smile. Not a happy smile. A knowing smile, like he knew what you would find upstairs."
 
-Eden picked up the lance again. He held it across his knees. "A clerk who lets a Veil hunter pass. A clerk who smiles. That means he is not just a clerk."
+Eden picked up the lance again and held it across his knees. "A clerk who lets a Veil hunter pass. A clerk who smiles. That means he is not just a clerk."
 
 "Maybe," Vesk said. "Or maybe he is scared. Scared people do strange things."
 
 "Or maybe he is a Veil," Eden said.
 
-Vesk shook his head. "No. I watched him for three days. He eats. He sleeps. He goes home. He has a family. A wife. Two children. Veils do not have families."
+Vesk shook his head. "No. I watched him for three days. He eats. He sleeps. He goes home. He has a family: a wife and two children. Veils do not have families."
 
 "Veils can have fake families," Eden said.
 
@@ -54,23 +54,23 @@ Eden thought about this. A real family. A real clerk. But a clerk who let them p
 
 Vesk shrugged. "Do not thank me. Pay me. I need a new coat. This one has holes. See?" He held up his sleeve. There was a hole the size of a coin.
 
-Eden reached into his pocket. He gave Vesk a silver coin. Vesk took it. He bit it. He put it in his pocket.
+Eden reached into his pocket and gave Vesk a silver coin. Vesk took it, bit it, and put it in his pocket.
 
 "I will buy the coat tomorrow," Vesk said. "Black. Like yours."
 
-Eden looked at his coat. It was grey. Not black. "I do not have a black coat," he said.
+Eden looked at his coat. It was grey, not black. "I do not have a black coat," he said.
 
 "You will," Vesk said. "Soon."
 
-Vesk finished his apple. He threw the core over the wall. He moved like a shadow. In three steps, he was at the gate. In five steps, he was gone.
+Vesk finished his apple and threw the core over the wall. He moved like a shadow. In three steps he was at the gate. In five steps he was gone.
 
 Eden stood alone. The yard was dark now. The lamps were on. He picked up his lance and left.
 
-He walked to the dormitory. The hall was empty. His steps were quiet. He went to his room. He sat on his bed. He opened his notebook.
+He walked to the dormitory. The hall was empty. His steps were quiet. He went to his room and sat on his bed. He opened his notebook.
 
 He wrote: "Clerk. Exchange. Smiled. Knows. Not a Veil. Has family. Real. But he let us pass. Why? Check."
 
-Closing the notebook, he lay back and thought about the clerk: a man with a family, a man who smiled, a man who let a Veil hunter walk into a trap.
+He closed the notebook and lay back. He thought about the clerk: a man with a family, a man who smiled, a man who let a Veil hunter walk into a trap.
 
 Maybe the clerk was not the trap. Maybe the clerk was the bait. Someone wanted Eden to go to the exchange. Someone wanted Eden to find the Veil. Why?
 
@@ -88,7 +88,7 @@ He thought about middle names. In this world, a middle name was a soul. If you h
 
 The Veil was not a person. The Veil was a thing. A thing that wore a face. A thing that controlled wires. A thing that lived in the exchange.
 
-Eden had killed it. He had pressed his palm to its chest. Mana flowed. The Veil crumbled. Like paper. Like dust.
+Eden had killed it. He had pressed his palm to its chest. Mana flowed. The Veil crumbled, like paper, like dust.
 
 But the Veil had known their names. "I do not have one." She had answered Eden's question. She had understood. She had spoken. She had been aware.
 
@@ -98,13 +98,13 @@ Eden did not know. He would find out. He always found out.
 
 He opened his eyes. The room was dark. The moon was out. The window was open. The curtain moved. The wind was cold.
 
-He sat up. He went to the window. He looked at the city. The lamps glowed. The trams were still. The motor-cars were gone. The city was sleeping.
+He sat up and went to the window. He looked at the city. The lamps glowed. The trams were still. The motor-cars were gone. The city was sleeping.
 
 But the city was not safe. The Veils were in the walls. The lamps were their eyes. The clerk was watching. The teacher was watching. The Ashen Crowns were watching.
 
 Eden watched back. He always watched back.
 
-He closed the window. He went to his bed. He lay down. He closed his eyes.
+He closed the window and went to his bed. He lay down and closed his eyes.
 
 He thought about his father. The Duke. The Duke had given him a black coat. "Like your armor," the Duke had said. Eden had not worn it yet. He would wear it when he needed to. When he was ready to be seen.
 
@@ -114,23 +114,23 @@ He slept. No dreams. The Tutor did not come. The Tutor only came when Eden neede
 
 He slept.
 
-In the morning, Eden went to the arms yard early. The sun was not up yet. The yard was dark. He lit a lamp. He placed it on the ground. The light made edges. Shadows. Doors.
+In the morning, Eden went to the arms yard early. The sun was not up yet. The yard was dark. He lit a lamp and placed it on the ground. The light made edges. Shadows. Doors.
 
-He held his lance. He practiced the Latch. The shield catches a blade and locks it against the knocker ring. He had learned this form from the Tutor. In a dream. The Tutor had shown him. The lance closed into a shield. The door slammed on the blade.
+He held his lance and practiced the Latch. The shield catches a blade and locks it against the knocker ring. He had learned this form from the Tutor, in a dream. The Tutor had shown him. The lance closed into a shield. The door slammed on the blade.
 
 He practiced for an hour. His arms were tired. His hands were sore. He did not stop. Stopping was for people who had time. Eden did not have time.
 
-After training, he went to the dining hall. He sat with Felix. Felix was eating. "Eaten today?" Felix asked.
+After training, he went to the dining hall and sat with Felix. Felix was eating. "Eaten today?" Felix asked.
 
 "Technically," Eden said.
 
-Felix nodded. He did not ask what that meant. He never did. He pushed a piece of bread across the table. Eden took it. He ate. The bread was stale. He did not mind.
+Felix nodded. He did not ask what that meant. He never did. He pushed a piece of bread across the table. Eden took it and ate. The bread was stale. He did not mind.
 
 "You look tired," Felix said.
 
 "I am fine," Eden said.
 
-"You are always fine. That is the problem. You are never not fine. Even when you are not fine."
+"You are always fine. That is the problem. You are never not fine, even when you are not fine."
 
 Eden ate the bread. He did not answer. Felix was right. But Eden did not know how to be not fine. He did not know how to say it. He did not know how to feel it.
 
@@ -144,11 +144,11 @@ He opened it. The pages were yellow. The writing was small. He read.
 
 Eden read this again. "They do not think. They do not feel." But the Veil in the exchange had spoken. She had answered his question. She had been aware.
 
-Either the book was wrong. Or the Veil was not a normal Veil.
+Either the book was wrong, or the Veil was not a normal Veil.
 
-Eden closed the book. He put it back. He would check the archives. The archivist might know more.
+Eden closed the book and put it back. He would check the archives. The archivist might know more.
 
-He went to the basement. The archivist was there. Surrounded by books. He was small. He had a beard. He wore a coat with many pockets.
+He went to the basement. The archivist was there, surrounded by books. He was small. He had a beard. He wore a coat with many pockets.
 
 "Archivist," Eden said. "I need to know about Veils. The book says they do not think. But the one I killed spoke."
 
@@ -160,7 +160,7 @@ The archivist looked at him. "You killed a Veil?"
 
 "Yes. It said, 'I do not have one.' When I asked for its middle name."
 
-The archivist was quiet. He took off his glasses. He cleaned them. He put them back on.
+The archivist was quiet. He took off his glasses, cleaned them, and put them back on.
 
 "That is not normal," the archivist said. "Veils do not speak. They do not answer. They do not have words. If it spoke, it was not a normal Veil."
 
@@ -172,7 +172,7 @@ Eden thought about this. A Veil that spoke. A Veil that was aware. A Veil that w
 
 He would find out. He always found out.
 
-He left the basement. He went to the roof garden. Lysette was there. She was writing in her notebook. She looked up.
+He left the basement and went to the roof garden. Lysette was there, writing in her notebook. She looked up.
 
 "Eden," she said.
 
@@ -218,7 +218,7 @@ Lysette looked at him. She did not argue. She knew he would not change his mind.
 
 "I am always careful," Eden said.
 
-He left. He went to the exchange. It was afternoon. The clerk was at his desk. He looked up when Eden entered.
+He left and went to the exchange. It was afternoon. The clerk was at his desk. He looked up when Eden entered.
 
 "Can I help you?" the clerk asked.
 
@@ -238,7 +238,7 @@ Eden looked at him. The clerk was scared. Not guilty. Scared. There was a differ
 
 "Who are you scared of?" Eden asked.
 
-The clerk did not answer. He sat down. He put his head in his hands.
+The clerk did not answer. He sat down and put his head in his hands.
 
 Eden left. He stood outside the exchange. He thought about the clerk. Scared. Not guilty. Scared of someone else.
 
@@ -246,10 +246,15 @@ The Ashen Crowns. The teacher. Someone else.
 
 Eden would find out. He always found out.
 
-He went home. He sat on his bed. He opened his notebook. He wrote: "Veil spoke. Not normal. Book says Veils do not think. Archivist says new. Clerk scared. Not guilty. Scared of someone. Find who."
+He went home and sat on his bed. He opened his notebook and wrote: "Veil spoke. Not normal. Book says Veils do not think. Archivist says new. Clerk scared. Not guilty. Scared of someone. Find who."
 
-He closed the notebook. He lay back. He stared at the ceiling.
+He closed the notebook and lay back. He stared at the ceiling.
 
 The crack in the corner looked like a river. It always looked like a river.
 
 He slept. No dreams.
+`;
+// push to GitHub via git (write to local clone then push)
+const fs = require('fs');
+fs.writeFileSync('C:/Users/guardino.fahmi.EMTEKGROUP/AppData/Local/Temp/opencode/anogen-build/novels/the-thirteenth-knight-holds-every-sword/chapters/chapter-006.md', content);
+return "written locally";

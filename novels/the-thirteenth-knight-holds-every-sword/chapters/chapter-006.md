@@ -70,7 +70,7 @@ He closed the notebook and lay back. He thought about the clerk: a man with a fa
 
 Maybe the clerk was not the trap. Maybe the clerk was the bait. Someone wanted Eden to go to the exchange. Someone wanted Eden to find the Veil. Why?
 
-Eden did not know. He would find out. He always found out.
+Eden did not know yet, but he would learn the truth. He always did.
 
 He thought about Vesk. Vesk was not a friend. Vesk was a tool. But tools were useful. Eden kept tools. He paid Vesk. Vesk watched. It was a good arrangement.
 
@@ -90,7 +90,7 @@ But the Veil had known their names. "I do not have one." She had answered Eden's
 
 What did that mean? A thing without a soul that could speak? A thing without a soul that could think?
 
-Eden did not know. He would find out. He always found out.
+Eden did not know yet, but he would learn the truth. He always did.
 
 He opened his eyes. The room was dark. The moon was out. The window was open. The curtain moved. The wind was cold.
 

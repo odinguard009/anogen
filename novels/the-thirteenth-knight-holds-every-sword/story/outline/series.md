@@ -1,4 +1,14 @@
+successfully downloaded text file (SHA: 46d896771368418df2f150696e3e55e51285f045)
 # Series roadmap: 17 arcs, ~850 ch (max 1000; arcs adjustable). Detail: bible/arcs-1,1b,2,3,4
+
+## REVISION (2026-11-27)
+- Mother's death reveal moved to ~ch 425 (Arc 9, 50% total). Hints only before.
+- Eden x Lysette confession moved to ~ch 637 (Arc 13, 75% total).
+- Graduation ball closes Arc 4 (~ch 200), megah.
+- Invasion age 500-600 years; scale 3x Earth; population 80% Earth.
+- Battle system FFXIV-inspired; spirit contracts; black armor for 13 Knights + Tutor.
+- Job names proper/unik (Silent Assassin, Dragon Knight, etc.).
+
 
 1. 1-50 The Rooftop (school, terror): can Eden stay unseen once someone insists on seeing him?
 2. 51-100 Lanterns and Ledgers (economic, court): who profits from the fear?

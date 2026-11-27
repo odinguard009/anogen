@@ -65,3 +65,51 @@ Eden thought about this. He would check the roof. He would check the glass. He w
 He would find out. He always found out.
 
 He slept on the roof. No dreams.
+
+---
+
+The next morning, Eden went to the arms yard. He trained alone. He practiced the hinge. Pivot. Swing. The lance moved like a door.
+
+He thought about the stone. Who had dropped it? Why? What was the message?
+
+He practiced the Latch. The shield catches a blade and locks it against the knocker ring. He did it ten times.
+
+He thought about the roof. The figure. The jump. Three floors. No one could jump that far. Unless they were not human.
+
+He practiced the Draught. The lance through the narrow gap in a guard, like wind through a door. He did it ten times.
+
+He was sweating. His shirt was wet. He did not stop.
+
+He thought about the Veil. The Veil that spoke. The Veil that waited. The Veil that was not normal.
+
+He stopped. He put down his lance. He sat on the bench. He breathed.
+
+He thought about the clerk. The clerk who was scared. The clerk who had a family. The clerk who let them pass.
+
+He thought about the teacher. The teacher who reported him. The teacher who smiled. The teacher who was with the Ashen Crowns.
+
+He had a lot to do. He always had a lot to do.
+
+He picked up his lance. He practiced one more time. Then he stopped. He went to the dining hall.
+
+He ate lunch. He sat alone. He did not taste the food. He thought about the stone. He thought about the message. He thought about the figure on the roof.
+
+After lunch, he went to the library. He looked for books about the academy. About the roof. About the atrium.
+
+He found a book. It was old. The cover was blue. The title was "A History of Hallowcrest Academy."
+
+He opened it. The pages were yellow. The writing was small. He read.
+
+"The academy was built in PR 50. The atrium was added in PR 60. The glass roof was installed in PR 70. The roof is accessible from the fourth floor. The glass is reinforced. It cannot be broken by hand."
+
+Eden read this. The glass could not be broken by hand. But a stone had broken it. A stone the size of a man's head. That meant someone had dropped it from height. Or someone had thrown it with force.
+
+He closed the book. He put it back. He would check the roof later.
+
+He went to the roof garden. He sat on the bench. He looked at the city. The lamps glowed. The trams ran. The city was normal.
+
+But the city was not safe. Eden knew that. He would make it safe. Somehow. Someday.
+
+He would find a way. He always found a way.
+
+He slept on the roof. No dreams.

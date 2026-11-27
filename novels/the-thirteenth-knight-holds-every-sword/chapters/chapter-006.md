@@ -12,7 +12,7 @@ A shadow moved at the gate. Vesk. He was small and thin. His eyes were bright, l
 
 "Careful is slow," Vesk said. "Slow is dead."
 
-Eden did not answer. He placed the lance again. Left. Right. The tip touched the same spot.
+Eden did not answer. He placed the lance again, left and right, and the tip touched the same spot.
 
 Vesk walked closer. His steps were quiet. He moved like a cat. "I heard about the exchange. The Veil. You did it alone."
 

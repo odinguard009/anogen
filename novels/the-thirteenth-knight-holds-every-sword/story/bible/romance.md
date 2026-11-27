@@ -1,7 +1,7 @@
 # Romance (pure slow-burn; no sexual content; no ecchi; no harem)
 
 ## Three couples
-- Eden and Lysette (aching slow-burn; handkerchief): roof dance (26), rupture (140), names (198), forgetting (420-445), confessions (637), proposal (600? adjust), wedding (845). NOTE: confession moved to ~ch 637 (75% of total story). Yearning throughout; pure feelings only.
+- Eden and Lysette (aching slow-burn; handkerchief): roof dance (26), rupture (140), names (198), forgetting (420-445), confessions (500), proposal (600? adjust), wedding (845). NOTE: confession moved to ~ch 500 (75% of total story). Yearning throughout; pure feelings only.
 - Valerius and Ishani (banter rivals; the lamp): meet (115), clauses (520), dream war (550-585), wedding (840).
 - Felix and Seraphine (oblivious-earnest; "Eaten today?"): first laugh (147), lost at sea (382-397), confession (466), wedding (835).
 - Support: Rowan and Clara.

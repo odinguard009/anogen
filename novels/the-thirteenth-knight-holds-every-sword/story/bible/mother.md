@@ -21,7 +21,7 @@ Nobody. The Dragon suspects (it kept the Covenant's records). The Tutor knows an
 - HINT (already on page): ch 1 grass green out of season where he sleeps; ch 3 the Bell's tones and the faint fourth; the Kindling.
 - HINT (planned, arc 1): ch 27 the first reading on the page; ch 31 a Wall veteran: "The ground's cold here. Like she turned her back."; ch 41 in the Mawgate tunnel Eden's reading goes blank for a heartbeat; ch 47 Felix: "Something said my name back."; ch 50 dying Harrow: "She stopped reading me."
 - DOUBT: ch 230 the Tutor: "Who do you think writes your name in your head?"
-- EVIDENCE: ch 425 (Arc 9) Myrrhen through Clara: "I am not the oldest. I am her eldest." (mother truth revealed here, 50% of total story)
+- EVIDENCE: ch 400 (Arc 9) Myrrhen through Clara: "I am not the oldest. I am her eldest." (mother truth revealed here, 50% of total story)
 - EVIDENCE: ch 601 Lament's fall is the Wound's alarm; the whole world's readings flicker at once.
 - CONFIRM: ch 770 Aiwa speaks to Eden inside the Wound (before the god of Want, 790).
 

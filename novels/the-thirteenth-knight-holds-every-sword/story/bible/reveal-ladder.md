@@ -5,7 +5,7 @@ Hint, doubt, evidence, confirm, in order, with gaps; never early. Unbind never a
 - HINT (already on page): ch 1 grass green out of season; ch 3 Bell tones and faint fourth; the Kindling.
 - HINT (planned, arc 1): ch 27 first reading on page; ch 31 Wall veteran; ch 41 Mawgate tunnel blank; ch 47 Felix; ch 50 dying Harrow.
 - DOUBT: ch 230 the Tutor.
-- EVIDENCE/REVEAL: ch 425 (Arc 9, 50% total): Myrrhen through Clara. (Moved from old ch 175.)
+- EVIDENCE/REVEAL: ch 400 (Arc 9, 50% total): Myrrhen through Clara. (Moved from old ch 175.)
 - EVIDENCE: ch 601 Lament's fall; readings flicker.
 - CONFIRM: ch 770 Aiwa speaks to Eden inside the Wound.
 

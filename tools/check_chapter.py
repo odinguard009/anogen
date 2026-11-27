@@ -137,7 +137,7 @@ def plain_check(num, body):
 
 
 def main():
-    strict = "--strict" in sys.argv[1:]
+    strict = True  # LOCKED: always strict (owner order 2026-11-27)
     args = [x for x in sys.argv[1:] if x != "--strict"]
     if len(args) != 1:
         sys.exit(__doc__)

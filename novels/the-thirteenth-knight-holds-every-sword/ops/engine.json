@@ -15,64 +15,321 @@
     "max": 5,
     "start_chapter": 46,
     "status": "done",
-    "stop_reason": "arc 1 fully written"
+    "stop_reason": "arc 1 fully written",
+    "checker": "pending"
   },
   "critic_through": 50,
   "audit_through": 50,
   "reviewed": {
-    "1": "2e932f4856acd49e",
-    "2": "c4daa6f9065d72f0",
-    "3": "bdcc1d5084af1391",
-    "4": "92cc08fc3c32569f",
-    "5": "703edfab6c8c9b9d",
-    "6": "f51ad6a0947b7e9a",
-    "7": "f4ac5d8e9b83f15c",
-    "8": "feda468ff1ad9144",
-    "9": "3ef3b22eb5d85201",
-    "10": "5f4f973493c9a820",
-    "11": "f2199934736abb3a",
-    "12": "577ad5aa1b6fc133",
-    "13": "2f648a6de97b6e7b",
-    "14": "ec2c2d79b509db2d",
-    "15": "e45a6d2d3c1ceb31",
-    "16": "a2513d3d6e406aab",
-    "17": "193997e92e507486",
-    "18": "d3a7b3fa4c8034e3",
-    "19": "20fcc8c6b1080a3f",
-    "20": "2bd2b4b291aebc6d",
-    "21": "384b006d1ea93915",
-    "22": "625c8efbaee3aa8b",
-    "23": "03af302dd400b530",
-    "24": "7b471981ba5c08b5",
-    "25": "67e0ff5a0d383679",
-    "26": "ebe2f4db4a247d80",
-    "27": "dfd4658a3f3b5e3a",
-    "28": "0754cad70040582f",
-    "29": "4ebc5bf009257c77",
-    "30": "db1683e1e7f55428",
-    "31": "62351d37f1941986",
-    "32": "0ee2e74fd57c2b53",
-    "33": "f672c6e69a257336",
-    "34": "0c723a77e53e464b",
-    "35": "fac5df8bd9bdcf7a",
-    "36": "1e1084ec38eb710b",
-    "37": "f395f9a73a3ca13e",
-    "38": "ec45b182c1d3301e",
-    "39": "0a45c4eae20db281",
-    "40": "3092df04e4ef0404",
-    "41": "75183b7d6db5f48f",
-    "42": "4e2d38b7488352e9",
-    "43": "a4ca85ab655e9718",
-    "44": "92472b7f22b73e0c",
-    "45": "836e2a24d689261e",
-    "46": "56641531e33304c0",
-    "47": "916bdf7cb867fe4c",
-    "48": "f44d0a2d619d7f67",
-    "49": "cba413d254c2fc62",
-    "50": "fea6047dcb30d9c3"
+    "1": {
+      "hash": "2e932f4856acd49e",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "2": {
+      "hash": "c4daa6f9065d72f0",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "3": {
+      "hash": "bdcc1d5084af1391",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "4": {
+      "hash": "92cc08fc3c32569f",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "5": {
+      "hash": "703edfab6c8c9b9d",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "6": {
+      "hash": "f51ad6a0947b7e9a",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "7": {
+      "hash": "f4ac5d8e9b83f15c",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "8": {
+      "hash": "feda468ff1ad9144",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "9": {
+      "hash": "3ef3b22eb5d85201",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "10": {
+      "hash": "5f4f973493c9a820",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "11": {
+      "hash": "f2199934736abb3a",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "12": {
+      "hash": "577ad5aa1b6fc133",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "13": {
+      "hash": "2f648a6de97b6e7b",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "14": {
+      "hash": "ec2c2d79b509db2d",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "15": {
+      "hash": "e45a6d2d3c1ceb31",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "16": {
+      "hash": "a2513d3d6e406aab",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "17": {
+      "hash": "193997e92e507486",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "18": {
+      "hash": "d3a7b3fa4c8034e3",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "19": {
+      "hash": "20fcc8c6b1080a3f",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "20": {
+      "hash": "2bd2b4b291aebc6d",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "21": {
+      "hash": "384b006d1ea93915",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "22": {
+      "hash": "625c8efbaee3aa8b",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "23": {
+      "hash": "03af302dd400b530",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "24": {
+      "hash": "7b471981ba5c08b5",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "25": {
+      "hash": "67e0ff5a0d383679",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "26": {
+      "hash": "ebe2f4db4a247d80",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "27": {
+      "hash": "dfd4658a3f3b5e3a",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "28": {
+      "hash": "0754cad70040582f",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "29": {
+      "hash": "4ebc5bf009257c77",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "30": {
+      "hash": "db1683e1e7f55428",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "31": {
+      "hash": "62351d37f1941986",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "32": {
+      "hash": "0ee2e74fd57c2b53",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "33": {
+      "hash": "f672c6e69a257336",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "34": {
+      "hash": "0c723a77e53e464b",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "35": {
+      "hash": "fac5df8bd9bdcf7a",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "36": {
+      "hash": "1e1084ec38eb710b",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "37": {
+      "hash": "f395f9a73a3ca13e",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "38": {
+      "hash": "ec45b182c1d3301e",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "39": {
+      "hash": "0a45c4eae20db281",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "40": {
+      "hash": "3092df04e4ef0404",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "41": {
+      "hash": "75183b7d6db5f48f",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "42": {
+      "hash": "4e2d38b7488352e9",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "43": {
+      "hash": "a4ca85ab655e9718",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "44": {
+      "hash": "92472b7f22b73e0c",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "45": {
+      "hash": "836e2a24d689261e",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "46": {
+      "hash": "56641531e33304c0",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "47": {
+      "hash": "916bdf7cb867fe4c",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "48": {
+      "hash": "f44d0a2d619d7f67",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "49": {
+      "hash": "cba413d254c2fc62",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    },
+    "50": {
+      "hash": "fea6047dcb30d9c3",
+      "checker": "pending",
+      "critic": "pending",
+      "audit": "pending"
+    }
   },
   "hold": {
     "active": false,
     "reason": ""
+  },
+  "quality_gate": {
+    "strict": true,
+    "min_words": 2000,
+    "max_words": 3000,
+    "min_sentence_mean": 8.5
   }
 }

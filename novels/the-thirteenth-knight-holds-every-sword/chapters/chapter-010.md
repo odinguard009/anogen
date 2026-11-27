@@ -10,7 +10,7 @@ The Committee room was cold at seven in the morning, and Lysette Hollen had the 
 
 "That is not the point." Lysette wrote the name in her book and drew one line under it. "The point is that the closet has no fire door, and I will not explain a burned boy to the headmistress."
 
-The prefects left with their coats half on, and Lysette stayed behind to finish the round sheet. Three floors, forty-one rooms, and one name beside each room. She had walked that round every morning for two years, and she could tell from the sound of a corridor whether the night had gone well.
+The prefects left with their coats half on, and Lysette stayed behind to finish the round sheet. Three floors, forty-one rooms, and one name beside each room. She had walked that round every morning for two years. She could tell from the sound of a corridor whether the night had gone well.
 
 At nine she stood in the small hearing room with Eden Wren and a folder of papers. The panel was the headmistress, the deputy of studies, and a clerk with a stack of forms. The headmistress sat with her hands folded and her eyes half closed, and she looked like a woman asleep in a warm chair. Lysette knew better than to believe it.
 
@@ -26,7 +26,7 @@ The headmistress opened one eye. "You keep his notes?"
 
 "It is the rule."
 
-Eden said nothing. He stood with his hands behind his back and his eyes on the far wall, and he had agreed in the corridor to let her talk. Lysette had asked him for one word, and he had given her one word.
+Eden said nothing. He stood with his hands behind his back and his eyes on the far wall. In the corridor he had agreed to let her talk. Lysette had asked him for one word, and he had given her one word.
 
 "Wren," the headmistress said. "Do you have anything to say?"
 
@@ -62,7 +62,7 @@ Outside, in the corridor, Lysette wrote the two conditions in her book and made 
 
 * * *
 
-The rest of the morning went to the west corridor. A teacher had left his class alone for twenty minutes, and the class had used the time to draw a horse on the blackboard. Lysette found him in the staff room with a cup of tea and a newspaper, and she stood in front of him until he put the cup down.
+The rest of the morning went to the west corridor. A teacher had left his class alone for twenty minutes, and the class had used the time to draw a horse on the blackboard. Lysette found him in the staff room with a cup of tea and a newspaper. She stood in front of him until he put the cup down.
 
 "The class is yours," she said. "The horse is not."
 
@@ -78,7 +78,7 @@ Lysette folded the letter along its old lines and put it in the wooden box under
 
 She took out a sheet of paper and a pen and wrote "Dear Mother" at the top. Then she sat with the pen in her hand for a while and wrote nothing else. No sentence would change the list, and she did not want to send a letter that only said she was angry. She put the paper in the box with the six letters and put the lid back on.
 
-At lunch the hall was full, and the rain had made every coat smell of wet wool. Lysette carried her tray to the Committee table by the window, and two tables away Rowan Tallis was telling a story with both hands. Clara Belmont laughed so hard that she put her forehead on the table, and Rowan laughed at her laughing, and the sound carried across the room.
+At lunch the hall was full, and the rain had made every coat smell of wet wool. Lysette carried her tray to the Committee table by the window, and two tables away Rowan Tallis was telling a story with both hands. Clara Belmont laughed so hard that she put her forehead on the table. Rowan laughed at her laughing, and the sound carried across the room.
 
 Lysette watched them for a moment and waited for the old ache under her ribs. It came slowly, and it was smaller than she expected, and then it went away while Rowan was still talking.
 
@@ -128,7 +128,7 @@ Most files in the drawer were thick with reports, letters, and notes from teache
 
 Lysette turned the pages twice. "Where were you before this?" she said to the paper, and the paper did not answer.
 
-She read the scholarship letter again. It was signed by a clerk, and the money came from a fund kept by the palace office. The address on the letter was a street she knew, because the tram stopped there: a row of cheap rooms behind the depot, with one pump and a broken step.
+She read the scholarship letter again. It was signed by a clerk, and the money came from a fund kept by the palace office. The address was a street she knew, because the tram stopped there. It was a row of cheap rooms behind the depot, with one pump and a broken step.
 
 "Nobody pays for this school from that street," she said.
 
@@ -136,21 +136,21 @@ The guardian line had one word in it: "Household." Not a name, not a title, and 
 
 Lysette put the file back in the drawer and locked it. Then she wrote one line in her book: "Ask Wren why the palace pays for his bread." She looked at the line for a while and drew a small question mark beside it.
 
-The afternoon round took her past the practice yard, where Lance Nine was working with wooden swords. Rowan was on the ground with his arms out and his feet in the air, and Clara stood over him with a wooden blade and a straight face. Felix was laughing behind his hand, and Eden was watching from the wall with no expression at all.
+The afternoon round took her past the practice yard, where Lance Nine was working with wooden swords. Rowan was on the ground with his arms out and his feet in the air. Clara stood over him with a wooden blade and a straight face. Felix was laughing behind his hand, and Eden was watching from the wall with no expression at all.
 
 Lysette stopped at the fence for a moment.
 
-She had not thought about Rowan in an hour. She turned that fact over the way she turned over a strange coin, and she could not find the worry that used to come with it. The yard was loud, and the light was grey, and she was late for the west corridor.
+She had not thought about Rowan in an hour. She turned that fact over like a strange coin. She could not find the worry that used to come with it. The yard was loud, and the light was grey, and she was late for the west corridor.
 
 She walked on.
 
 * * *
 
-The roof door was locked, and Lysette had a key for the Committee round. She climbed the last stair at dusk with her coat buttoned to the throat and her book under one arm, and she told herself she was checking her herbs before the frost.
+The roof door was locked, and Lysette had a key for the Committee round. She climbed the last stair at dusk with her coat buttoned to the throat. She carried her book under one arm and told herself she was checking her herbs before the frost.
 
 The roof garden was quiet, and the beds had been covered with straw for the winter. Her herb bed was at the far end, and the thyme had come through the cold better than she expected. She pulled two dead stems and put them in her pocket.
 
-Behind the water tank, out of the wind, someone had made a bed. It was a flat board laid across two crates, a blanket roll on top, a folded coat for a pillow, and a small tin box with a candle end inside it. The board had been swept clean, and the blanket was rolled tight and even.
+Behind the water tank, out of the wind, someone had made a bed. A flat board lay across two crates. A blanket roll lay on top, and a folded coat served as a pillow. A small tin box held a candle end. The board had been swept clean, and the blanket was rolled tight and even.
 
 Lysette stood over it and looked at the city beyond the wall. From up there the trams were lines of light, and the palace was a dark shape with a few windows still awake.
 
@@ -158,13 +158,13 @@ Lysette stood over it and looked at the city beyond the wall. From up there the 
 
 The blanket had a name tag sewn into one corner, and the tag was blank. She touched the wool with one finger and found it dry. Either he had not slept there for a day, or he had folded it before the rain.
 
-She wrote three lines in her book and went back down. At the bottom of the stair she read what she had written: "Roof bed, dry. Blanket folded, no name. Water tank blocks the wind." Then she crossed out the last line, because it was not a fact about the boy, and she did not want to admire him on paper.
+She wrote three lines in her book and went back down. At the bottom of the stair she read what she had written: "Roof bed, dry. Blanket folded, no name. Water tank blocks the wind." Then she crossed out the last line, because it was not a fact about the boy. She did not want to admire him on paper.
 
 * * *
 
 That evening she emptied her coat pockets onto the bed: two pencils, a tram ticket, a key, and a folded square of white cloth.
 
-The handkerchief was still folded the way he had given it to her on the roof, and the silver feather in one corner had gone a little grey at the edge. She had meant to wash it that same week. She had washed her gloves twice since then, and her collar three times, and she had forgotten the handkerchief entirely.
+The handkerchief was still folded the way he had given it to her on the roof. The silver feather in one corner had gone a little grey at the edge. She had meant to wash it that same week. She had washed her gloves twice since then, and her collar three times, and she had forgotten the handkerchief entirely.
 
 Lysette sat on the bed with the cloth in her hands. The room was quiet, and the rain had stopped, and somewhere below a door opened and closed.
 

@@ -1,6 +1,6 @@
 # Chapter 9: The Debrief
 
-The palace had a side door for people who did not want to be seen, and Eden used it on Thursday at ten in the morning. The tram had stopped two streets away because of a broken rail, so he walked the rest of the way with his collar up against the cold. The palace wall was grey and very long, and the gate guard read his pass twice before he let him through. A clerk in the gatehouse wrote his name in a book, and the pen scratched at the paper like a small animal.
+The palace had a side door for people who did not want to be seen. Eden used it on Thursday at ten in the morning. The tram had stopped two streets away because of a broken rail, so he walked the rest of the way with his collar up against the cold. The palace wall was grey and very long, and the gate guard read his pass twice before he let him through. A clerk in the gatehouse wrote his name in a book, and the pen scratched at the paper like a small animal.
 
 A footman took his coat and led him up a back stair to the third floor. The carpets up there were thin, and the lamps were turned low, and the air smelled of paper and cold tea. At the end of the hall a clock ticked behind a closed door, and the sound was louder than a clock should be.
 
@@ -214,4 +214,4 @@ Eden looked up from the file. "Which boy?"
 
 She left, and the door closed behind her without a sound. Eden stood in the narrow corridor with the file in his hand and read the three pages inside it. The first page was a map of the lower city, and the second was a list of names he did not know. The third page was a drawing of a boy with a lamp in his hand, and the boy's face had been scratched out with a pen.
 
-Eden put the file in his coat and went out into the street. The tram was waiting at the corner, and the morning was grey and cold, and he did not open the file again until he was back at the academy. By then he had thought of the gold light in the chapel, and of the boy who had held it in both hands.
+Eden put the file in his coat and went out into the street. The tram was waiting at the corner, and the morning was grey and cold. He did not open the file again until he was back at the academy. By then he had thought of the gold light in the chapel, and of the boy who had held it in both hands.

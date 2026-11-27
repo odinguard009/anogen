@@ -69,18 +69,8 @@
       "critic": "pending",
       "audit": "pending"
     },
-    "9": {
-      "hash": "3ef3b22eb5d85201",
-      "checker": "pending",
-      "critic": "pending",
-      "audit": "pending"
-    },
-    "10": {
-      "hash": "5f4f973493c9a820",
-      "checker": "pending",
-      "critic": "pending",
-      "audit": "pending"
-    },
+    "9": "52ebd4dffb2db955",
+    "10": "ea52af3610ded2e3",
     "11": {
       "hash": "f2199934736abb3a",
       "checker": "pending",

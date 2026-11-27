@@ -68,3 +68,12 @@
 - Read 45-50 against the outline lines and canon rows only. check_chapter --strict OK on all five; no riddle replies; plain_check clean except dialogue-share warnings, which are allowed for battle chapters.
 - No concrete line-level finding that could be quoted. The memory scene in ch 45 stays 150 words with no feeling words; the aura in ch 49 is delivered by reaction shots; ch 50's want-to-be-seen is delivered by an unneeded question and the scarf.
 - Recommendation for arc 2: keep the cold-read self-test in the writer prompt and fail any chapter with a plain_check warning.
+
+### critic pass ch 1-10 - 2026-11-27 - same session, not independent
+- Cold read of the rewritten text against the outline lines and canon rows only; prepass 1-10, check_chapter --strict and verify_batch 1-10 OK. No event or canon changed.
+- Fixed concrete readability findings: ch 9 "The palace had a side door for people who did not want to be seen, and Eden used it on Thursday at ten in the morning." and "The tram was waiting at the corner, and the morning was grey and cold, and he did not open the file again..." were split at the conjunction; ch 10 had eleven sentences over 25 words (e.g. "She had walked that round every morning for two years, and she could tell from the sound...", "The address on the letter was a street she knew, because the tram stopped there: a row of cheap rooms..."), all split at the conjunction. Re-check: ch 9 2113 words / mean 9.6, ch 10 2123 words / mean 11.1, both SUMMARY OK.
+- Finding left in place: ch 3 dialogue 13%, ch 1-2 about 20-23% (prepass), below the 25-40% guide; no filler added, as ordered. Ch 9 dialogue 44% stays because the Form 13-B scene needs the spoken questions.
+- Repeated 5-word run "at the end of the" appears in ch 7-10 (prepass). It is not a 6-gram fail and no concrete line was worth patching.
+- First-use check: ch 6 Rowan's light and Clara's flowers have look, use and limit; ch 7 ash-rose card described; ch 8 [Sile] has look, stroke and the Door limit. No unlabelled first use in ch 9-10; no reveal ladder steps skipped.
+- Date check: ch 6 Fri 6 Nov, ch 7 Mon 9 Nov, ch 8 Monday night, ch 9 Thu 12 Nov, ch 10 Fri 13 Nov — all match the outline date lines. The ch 10 hearing closes the warrant promised in ch 7.
+- POV and voice: ch 10 stays on Lysette; Eden's answers stay literal; no "Eden felt" line. Weak chapters for the next batch: ch 1-3 (low dialogue, kept by owner order) and ch 10 (long sentences, now split). Scores.csv unchanged.

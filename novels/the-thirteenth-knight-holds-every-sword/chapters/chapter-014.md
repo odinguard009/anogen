@@ -34,7 +34,7 @@ Eden left. He went home. He sat on his bed. He wrote in his notebook: "Clerk. Ex
 
 He closed the notebook. He lay back. He thought about the clerk. A clerk who controlled wires. A clerk who controlled lamps. A clerk who was not a Veil but worked with Veils.
 
-Eden did not sleep. He planned. Friday was three days away. He had three days to stop them.
+Eden did not sleep. He planned. Friday was three days away. He had three days to plan.
 
 He would need help. He did not want help. But he would need it.
 

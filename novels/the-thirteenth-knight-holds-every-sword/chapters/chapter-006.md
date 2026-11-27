@@ -70,7 +70,7 @@ He walked to the dormitory. The hall was empty. His steps were quiet. He went to
 
 He wrote: "Clerk. Exchange. Smiled. Knows. Not a Veil. Has family. Real. But he let us pass. Why? Check."
 
-He closed the notebook. He lay back. He thought about the clerk. A man with a family. A man who smiled. A man who let a Veil hunter walk into a trap.
+Closing the notebook, he lay back and thought about the clerk: a man with a family, a man who smiled, a man who let a Veil hunter walk into a trap.
 
 Maybe the clerk was not the trap. Maybe the clerk was the bait. Someone wanted Eden to go to the exchange. Someone wanted Eden to find the Veil. Why?
 

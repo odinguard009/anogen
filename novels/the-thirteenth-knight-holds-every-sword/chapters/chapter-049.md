@@ -2,7 +2,7 @@
 
 The camp had been burning for hours, and dawn was coming. The sky over the Wall had gone from black to the colour of old iron.
 
-The place was the lane between the tents, ten steps wide and open at both ends. Lance Nine stood on the left, with Okoru behind them. Strent and a line of soldiers stood on the right. Desmond Harrow stood ten steps ahead of Eden in the snow. He had one arm. His coat hung open, and the grey had climbed to his jaw. In his left hand he held a knife against the throat of a conscript boy with a red band on his sleeve.
+The place was the lane between the tents, ten steps wide and open at both ends. Lance Nine stood on the left, with Okoru behind them. Halvard Strent, the vice-headmaster, and a line of soldiers stood on the right. Desmond Harrow stood ten steps ahead of Eden in the snow. He had one arm. His coat hung open, and the grey had climbed to his jaw. In his left hand he held a knife against the throat of a conscript boy with a red band on his sleeve.
 
 The foe was a dying man. That was what made him dangerous. He had nothing left to lose. The stake was the boy. The clock was the knife, which was half an inch from the skin, and the fall of a single hand.
 

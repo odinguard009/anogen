@@ -36,7 +36,7 @@ Eden picked up the envelope and turned it over. The seal showed a broken crown p
 
 "Quickly," Seraphine said, to no one. "Thank you." She took the envelope back, then left it on the table. "Keep it. The seal is still good."
 
-Lysette came past with a form in her hand and stopped beside the table. She looked at Seraphine's collar, where the silver thread had slipped half an inch out of line, and her pencil moved before she had decided to move it.
+Lysette Hollen came past with a form in her hand and stopped beside the table. She looked at Seraphine's collar, where the silver thread had slipped half an inch out of line, and her pencil moved before she had decided to move it.
 
 "Your collar," she said.
 
@@ -102,7 +102,7 @@ Lysette's hand went to the collar of her coat and came back with a silver locket
 
 Eden waited.
 
-"He had been away for two years. He came home in the autumn and he walked into the hall and everyone was glad, and he stood on the edge of the floor and watched. The band played four tunes that night, and the second one was slow enough for a court dance. My mother had made him a coat with a high collar, and he kept pulling at it because it was new." Her thumb moved over the scratch on the locket. "Someone asked him to dance, and he said no. He said he had forgotten how. But he had been a good dancer. Everyone knew it." She stopped and took a breath that did not help. "After that he stopped coming to the hall at all. He ate in his room and walked in the court with his collar up. My mother wrote that House Hollen would act as if it had not happened. I was fourteen. I thought she meant the dancing."
+"He had been away for two years. He came home in the autumn and he walked into the hall and everyone was glad, and he stood on the edge of the floor and watched. The band played four tunes that night, and the second one was slow enough for a court dance. My mother had made him a coat with a high collar, and he kept pulling at it because it was new." Her thumb moved over the scratch on the locket. "Someone asked him to dance, and he said no. He said he had forgotten how. But he had been a good dancer. Everyone knew it." She stopped and took a breath that did not help. "After that he stopped coming to the hall at all. He ate in his room and walked in the court with his collar up. My mother wrote that House Hollen, our own family, would act as if it had not happened. I was fourteen. I thought she meant the dancing."
 
 Eden did not say that it had not been the dancing. He had honest answers ready in his mouth, and every one of them opened a door he had kept shut for five years. He had no useful sentence, so he stayed where he was. Below the roof, the school band practised one slow tune with the windows closed. He did not leave until she had finished speaking, and then he stayed a little longer.
 

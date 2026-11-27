@@ -94,15 +94,37 @@ def plain_check(num, body):
     if rid > 1:
         found.append(f"plain: {rid} riddle replies ('That is not an answer.' type; max 1): say the meaning in plain words")
     chars = read(STORY / "bible" / "characters.md")
+    # Titles and role words are not surnames; a surname is fine once it has been linked
+    # to a first name anywhere in the chapter, including inside a letter or a list.
+    TITLE_WORDS = {"The", "A", "An", "Lord", "Dame", "Sir", "Lady", "Count", "Prince", "Princess", "King", "Queen", "Master", "Doctor"}
     for m in re.finditer(r"\*\*([A-Z][a-z]+)(?: [A-Z][a-z]+)* ([A-Z][a-z]+)\*\*", chars):
         first, last = m.group(1), m.group(2)
+        if first in TITLE_WORDS or last in TITLE_WORDS or first == "Eden" or last == "Okoru":
+            continue
         uses = [x.start() for x in re.finditer(rf"\b{last}\b", body)]
         if not uses:
             continue
-        linked = re.search(rf"\b{first}(?: [A-Z][a-z]+)? {last}\b", body)
-        if not linked or linked.start() > uses[0]:
-            if first != "Eden" and last != "Okoru":
-                found.append(f"plain: surname '{last}' used before narration links it to {first}: use '{first}', or link them once")
+        linked = re.search(rf"\b{first}(?: [A-Z][a-z]+)* {last}\b", body)
+        if not linked:
+            found.append(f"plain: surname '{last}' is never linked to '{first}' in this chapter: write '{first} {last}' once")
+    # Readability grade (Flesch-Kincaid, approximate). For a low-level learner target, grade 6 is the ceiling.
+    def _syllables(w):
+        w = w.lower().strip(".,;:!?\"'()-")
+        if not w:
+            return 0
+        groups = re.findall(r"[aeiouy]+", w)
+        n = len(groups)
+        if w.endswith("e") and n > 1:
+            n -= 1
+        return max(1, n)
+    _words = words(body)
+    _sents = sentences(body)
+    if _words and _sents:
+        _syll = sum(_syllables(w) for w in _words)
+        _grade = 0.39 * (len(_words) / len(_sents)) + 11.8 * (_syll / len(_words)) - 15.59
+        if _grade > 6:
+            msg = f"plain: reading grade {_grade:.1f} is above 6 (low-level learner target): shorten sentences and use commoner words"
+            found.append(msg)
     run = best = 0
     for para in body.split("\n\n"):
         if para.lstrip().startswith('"') and para.count('"') == 2 and len(para.split()) < 14:

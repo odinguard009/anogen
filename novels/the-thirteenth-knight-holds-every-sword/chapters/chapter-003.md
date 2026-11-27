@@ -170,7 +170,7 @@ Calls, dates, addresses. The last column held names. Not the callers. The people
 
 He read down the page. Most of the names were ordinary: a solicitor, a dressmaker, a retired sergeant. Then, halfway down, one name had a circle around it, drawn twice, so hard that the pencil had torn the paper.
 
-Tallis.
+Rowan Tallis. His family name.
 
 Eden read the address beside it. Then he read the next line, and the next. All of them were Hallowcrest families. All of them had a child in Year 5.
 

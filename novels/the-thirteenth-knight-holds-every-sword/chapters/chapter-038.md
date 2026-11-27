@@ -6,7 +6,7 @@ The week had been hard in a quiet way. Lance Nine had walked the wall at night, 
 
 Rowan had brought a pan of chestnuts and a plan to burn none of them. Clara sat beside him and took the pan away after the first one went black. Felix held a book open on his knee and did not turn a page. Eden sat on the crate with his back to the dark, where he could see everyone's hands.
 
-Lysette sat across the fire from him. She had not spoken since the veteran at the garrison door had spoken of "the Hollen boy". That was her brother, and the whole camp had heard. That was one day ago. Today she had done her duties, written in her book, and eaten alone. Tonight she had come to the fire because Clara had asked her. She held her book closed on her lap and looked at the flames.
+Lysette Hollen sat across the fire from him, and the surname she carried was the one the veteran had used. She had not spoken since the veteran at the garrison door had spoken of "the Hollen boy". That was her brother, and the whole camp had heard. That was one day ago. Today she had done her duties, written in her book, and eaten alone. Tonight she had come to the fire because Clara had asked her. She held her book closed on her lap and looked at the flames.
 
 Eden did not say why he was uneasy. The file he had read the day before was already on its way back to Ysolde, and Lysette's brother was in it. But Clara had asked him to stay near her, and he had said yes the day before. So he sat, and he said nothing.
 

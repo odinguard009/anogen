@@ -92,7 +92,7 @@ Eden pulled the scarf up over his mouth and went past him into the cold. The sme
 
 The path down from the garrison had ice in the ruts and the snow at its edges was dirty from a week of boots. Eden kept to the middle where the ice was thinnest. Vesk walked in the dark under the wall without making a sound. Eden, who had not yet said thank you for the warning, said it now, in four words, at the end of the path. "Thank you for the smell." Vesk looked at him as if he had been handed a coin of an unfamiliar country, turned it over, and decided to keep it. After that neither of them spoke until they were past the second lamp. A bugle went somewhere in the camp and was answered by another. The camp was easing back into its ordinary sounds, and no one on the path looked at the two of them twice. A soldier on the parapet above them began to sing because the silence had been lifted and singing was allowed again.
 
-A veteran stood at the garrison door with a cup in his hand, watching the two of them go down the path. He had a face like a boot and a grey moustache. He spat into the snow at the side of the step.
+Lysette Hollen's family name was Hollen, and the veteran knew it. A veteran stood at the garrison door with a cup in his hand, watching the two of them go down the path. He had a face like a boot and a grey moustache. He spat into the snow at the side of the step.
 
 "Thirteenth Vigil work," he said, loud enough for the men behind him to hear. "Like the Hollen boy."
 

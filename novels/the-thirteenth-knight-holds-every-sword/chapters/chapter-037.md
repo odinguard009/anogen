@@ -16,7 +16,7 @@ He went down the path. Eden stood at the gate with the envelope in his coat. He 
 
 * * *
 
-The Lance ate breakfast in the long mess tent, at the table nearest the stove. Lysette sat at the end with her bowl untouched. She had not said a word since the veteran spat at the garrison door the night before. She did not write in her book. That was the strange part. Eden had never seen the book closed for a whole meal.
+The Lance ate breakfast in the long mess tent, at the table nearest the stove. Lysette Hollen sat at the end with her bowl untouched, and the name on the file had been her brother's name. She had not said a word since the veteran spat at the garrison door the night before. She did not write in her book. That was the strange part. Eden had never seen the book closed for a whole meal.
 
 Rowan tried first. He told a story about a goat that had eaten a sentry's boot. He told it well, with the voice of the sentry and the voice of the goat. Nobody laughed, and Rowan let the story run down like a clock. "I will stop," he said, and he looked at his spoon.
 

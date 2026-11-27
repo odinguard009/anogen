@@ -2,7 +2,7 @@
 
 > "Rules are for people who intend to keep their promises." - Lysette Hollen, Discipline Committee handbook, margin note
 
-Friday began with three collars and a stolen spoon, and Lysette wrote all four things down before the first bell had finished ringing. The collars belonged to second-years who had decided that the red band could be worn at any angle. The spoon belonged to a boy in the west dorm who said he had borrowed it for tea, though there was no tea in the dorm.
+Lysette Hollen began Friday with three collars and a stolen spoon, and she wrote all four things down before the first bell had finished ringing. The collars belonged to second-years who had decided that the red band could be worn at any angle. The spoon belonged to a boy in the west dorm who said he had borrowed it for tea, though there was no tea in the dorm.
 
 "Name," she said.
 
@@ -40,7 +40,7 @@ The Committee rounds took an hour and ten minutes. Lysette counted the minutes b
 
 The letter had come with the morning bread, carried by a servant who would not meet her eye. Her mother's hand was small and slanted, and each line leaned a little further than the one before it.
 
-*Your cousin asks after you. House Hollen has had enough of public matters. We will act as if it were not. That is the only kindness left to us. You are a Hollen before you are a student, and you must learn to keep your face still.*
+*Your cousin asks after you. House Hollen, your own family, has had enough of public matters. We will act as if it were not. That is the only kindness left to us. You are a Hollen before you are a student, and you must learn to keep your face still.*
 
 Lysette read the last line twice. She knew what the letter did not say. Her brother had been the loud one in the family. His name had been cut out of the family papers, so now only Lysette was left to keep the house quiet. Her mother never wrote his name, and Lysette never asked her to. Lysette did not write back, and not writing back was as near to arguing as the two of them came. Her mother wrote as if a name could be folded away with the paper. Lysette had spent five years learning that it could not. She folded the letter into three and put it back in her pocket, then took out her book and wrote the spoon down again because the first line had a smudge on it.
 

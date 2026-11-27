@@ -3,7 +3,8 @@
 ## 1. LEVEL: simple English for learners (permanent; wins every conflict)
 Write for readers who recently learned English (about CEFR A2-B1). The story stays exciting; only the language is simple.
 - Most common everyday words (about the 2,000-3,000 most common). Replace rare, formal, literary or old words ("stairs" not "flights"; "went quiet" not "fell silent"; "hide" not "conceal"). Avoid phrasal verbs when one plain verb works.
-- Idioms: at most ONE easy one per chapter, only where the sentence makes the meaning clear, never inside fights, plans, key emotions or clues. No slang that needs culture ("flight risk", "break the ice").
+- Idioms: at most ONE easy one per chapter, only where the sentence makes the meaning clear, never inside fights, plans, key emotions or clues. No slang that needs culture ("flight risk", "break the ice"). If the owner says the chapters are still too hard, use zero idioms and cut the target to A1-A2 (owner order needed).
+- Plain reading wins over the dialogue model. If a line only makes sense after a guess, rewrite it so a reader who knows only the page can say what it means (engine/plain-reading.md, locked setting 19).
 - One idea per sentence. Mostly 6-14 words, mean 9-12; link ideas with and, but, because, so, then, when, after. No more than 3 short (under 6 words) sentences in a row except in a fast fight. Simple past, active voice. No semicolons, no parentheses, no sentence over 30 words, at most one which/that/who clause.
 - Concrete nouns (door, rope, knife, bread). Numbers and distances said clearly (in steps).
 - Figurative language: at most one simple comparison per page, taken from this world (lamps, ink, locks, bells, motor-cars), never a stock simile ("like a hen"). Jokes work from plain words.

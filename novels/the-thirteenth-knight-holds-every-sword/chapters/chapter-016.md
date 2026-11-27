@@ -34,7 +34,7 @@ Rowan had found a place on the wall beside Felix, and he leaned on his spear and
 
 "Eden Wren," Valerius said. "Eight."
 
-"Valerius Aurenmark," Eden said. "One."
+"Valerius," Eden said. "One."
 
 "Lose the number when we start." Valerius set his feet behind his line. "I want to see what you do when I make you."
 

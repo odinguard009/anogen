@@ -68,7 +68,7 @@ She looked up then. Her pencil stayed where it was. "You are not going to argue?
 
 "I am trying something." Rowan looked over at Clara, who was far down the wall and pretending to check a lamp. "It is hard."
 
-Lysette's mouth twitched. It was the first time that week Eden had seen her face do anything on its own. She wrote one line and showed it to him: *R. Tallis, late, agrees.* Rowan read it with great care. "That is the nicest thing you have ever written about me."
+Lysette's mouth twitched. It was the first time that week Eden had seen her face do anything on its own. She wrote one line and showed it to him: *Rowan Tallis, late, agrees.* Rowan Tallis was the only person in the camp who could make her write a line that fast. Rowan read it with great care. "That is the nicest thing you have ever written about me."
 
 "It is a fact," she said, and she turned the page.
 

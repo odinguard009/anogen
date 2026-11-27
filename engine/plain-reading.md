@@ -50,3 +50,16 @@ What made them readable:
 
 Patterns to REMOVE when found (all were found and cut in arc 1): replies that answer a different question and are left unexplained; a repeated one-line gag across scenes; "That is not an answer." / "It is the only one." (rule 2 allows it at most once, with a plain beat); paperwork talk that never says what the form is for; an object or mark mentioned once and never explained; two names for one person; a number with no noun.
 Do not fix this by padding. Add a real beat (an action, a reason, a decision) or cut. Keep 2000-2500 words.
+
+## Stricter rules for low-level learners (owner complaint, 2026-11-27)
+The owner (an Indonesian learner of English) said the repaired chapters were still hard. The rules above are the floor, not the ceiling. Apply these on top:
+
+1. TARGET A1-A2 WHEN THE OWNER SAYS "level rendah". If the owner complains of difficulty, lower the chapter_words target (story/brief.md) to 1200-1500 and aim at CEFR A1-A2, not A2-B1. Change only on the owner's order.
+2. NO RIDDLE REPLIES. Rule 2 already allows at most one per chapter; for chapters where the owner has asked for plain reading, use zero. Every reply answers the line before it in plain words; a dodge is named by narration in the same sentence ("She did not tell the truth. Eden did not know which part was false.").
+3. DEFINE EVERY SURNAME ON THE SAME LINE IT FIRST APPEARS. "Rowan Tallis" before any bare "Tallis", even in dialogue and in letters. The guard now treats a missing link as an ERROR from chapter 51 and as a WARNING before that; do not ship a chapter with the warning.
+4. MAXIMUM TWO CLAUSES PER SENTENCE. One main clause and one "and/but/because/when" clause. No "which/that/who" chains. Split anything longer.
+5. NO CULTURE-BOUND IDIOMS OR SARCASM THAT NEEDS A GUESS. "Probably" is fine; "It is the only one I have" is not, unless the next sentence says what "it" is.
+6. EVERY NEW WORD GETS A PLAIN GLOSS IN THE SAME OR NEXT SENTENCE. Prefer words a learner meets in the first 1000 of English. Avoid "requisition", "physician", "atrium" unless glossed.
+7. SHORTER CHAPTERS FOR LOW LEVEL. 1500-1800 words is easier to hold than 2000-2500. Change chapter_words_min/max in story/brief.md only on the owner's order.
+8. THE SELF-TEST IS MANDATORY. The writer must print `PLAIN ch N: PASS` with a score out of 10 before the chapter is saved; the critic must fail any chapter below 8/10 and rewrite the scene, not patch one line.
+9. THE GUARD IS AN ERROR FROM CHAPTER 51. `tools/check_chapter.py` now returns ERROR (exit 1 with --strict) for any plain_check finding at ch 51 and above. Treat a WARNING in ch 1-50 as if it were an error.

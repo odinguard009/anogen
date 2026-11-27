@@ -1,3 +1,4 @@
+successfully downloaded text file (SHA: d234f2ee637666dc3c32d16db0922587cc4d4327)
 # Style profile (swappable; engine reads only this file for style). Rewritten whole 2026-11-26 (owner orders 2026-11-25 and 2026-11-26 merged; no older rule is left standing against a newer one).
 
 ## 1. LEVEL: simple English for learners (permanent; wins every conflict)
@@ -18,7 +19,7 @@ Write for readers who recently learned English (target CEFR A1-A2, owner order 2
 4. PICTURE RULE: every scene opens with 2-3 short sentences: where, when, the light, one sound or smell, who is there. Each named person gets 2 visible traits (face, hair, clothes, size) and one way of moving or talking on first appearance. In long scenes, say again where people stand. Monsters get size, color and shape compared to a thing everyone knows.
 5. FIGHT PICTURE: before action, say where each person stands, how far (in steps) and what is around. Then one clear move per sentence. In the dark, say how the hero knows (sound, touch, a match).
 6. SAY THE PLAN: when Eden does something clever, one plain sentence says what he wants and why, before or right after, as observed action or a flat thought ("Eden needed light. Light makes edges. Edges make doors.").
-7. Chapter length 2000-2500 words (owner order 2026-11-26; aim 2150-2350). Description replaces side details, never story events.
+7. Chapter length 2000-3000 words (owner order 2026-11-27; aim 2150-2350, hard max 3000). Description replaces side details, never story events.
 
 ## 3. POV AND VOICE (owner order 2026-11-26: CLOSE THIRD PERSON; replaces first person everywhere)
 - Close third person, past tense, one point of view per scene, no head-hopping inside a scene. The camera follows Eden from OUTSIDE: what he does, looks at, counts, says, and what others do and say about him.

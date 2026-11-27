@@ -1,10 +1,11 @@
+successfully downloaded text file (SHA: 560503e7c827f7420949299f484a7bda82fa9849)
 # Story brief (owner's editable choices)
 
 ## Machine settings
 title: The Thirteenth Knight Holds Every Sword
 author: Anogen
 chapter_words_min: 2000
-chapter_words_max: 2500
+chapter_words_max: 3000
 context_pack_max_chars: 48000
 repeat_window: 5
 arc_default_max: 50

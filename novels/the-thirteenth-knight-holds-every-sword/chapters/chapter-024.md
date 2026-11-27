@@ -79,3 +79,21 @@ The music ended. They stopped. Lysette let go.
 They stood on the floor. The other students danced around them. Eden looked at the hall. The lamps. The chandeliers. Everything was bright. Everything was safe.
 
 For now.
+
+---
+
+After the Ball, Eden went to the roof garden. He sat on the bench. He thought about the dance. Lysette's hand. Her shoulder. The warmth.
+
+He did not name the feeling. He did not need to.
+
+He wrote in his notebook: "Ball. Danced with Lysette. She taught me. I stepped on her foot. She smiled."
+
+He closed the notebook. He lay back on the bench. He looked at the stars.
+
+The city was quiet. The lamps glowed. The trams were still. The motor-cars were gone.
+
+But the city was not safe. The Veils were in the walls. The lamps were their eyes. The clerk was watching. The teacher was watching. The Ashen Crowns were watching.
+
+Eden watched back. He always watched back.
+
+He slept on the roof. No dreams.

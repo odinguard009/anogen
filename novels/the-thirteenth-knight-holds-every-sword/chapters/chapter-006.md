@@ -1,253 +1,231 @@
 # Chapter 6: Lance Nine
 
-The arms yard stood empty after class, and the sun was going down while the stone walls turned orange in the fading light. The cold air settled over the yard, but Eden stayed behind because he wanted to practice.
+Okoru poured the grey dust onto a sheet of paper, and he folded the paper twice before he spoke. "This was inside the core," he said. "It kept the shape of the plate, so it was packed there before the plate cracked."
 
-He held his lance and moved it slowly to the left, then to the right, then up, then down. Each move was small, and he did not swing, but placed the lance where he wanted it so the tip touched the same spot in the air every time. He was checking his aim, which he did every day after class when the yard was empty and no one watched.
+The arms hall smelled of oil and cold stone, and the board behind Okoru was old oak. Nine sheets of paper hung from it on brass pins that had bent under years of use. Each sheet held four or five names, and a number stood after every name in his heavy hand. Students stood in a loose half-circle with their bags at their feet, and no one stood close to the first three sheets.
 
-A shadow moved at the gate, and vesk was small and thin, with bright eyes like lamps, and he wore a dark coat with holes in it. He leaned on the wall and watched, eating an apple and chewing slowly.
+"Read your number and find your sheet," Okoru said. "Do not ask me to change it, because the numbers are already written."
 
-"You are slow," Vesk said.
+Rowan found his name on the fourth sheet and said his number before anyone asked him. "Two," he said, and he held up two fingers.
 
-"I am careful," Eden said.
+"Nineteen," Felix said, and then he looked again at the sheet. "No, that is not a number I wanted."
 
-"Careful is slow," Vesk said. "Slow is dead."
+Clara read her sheet without any change on her face, and she said, "Three."
 
-Eden did not answer, and he placed the lance again, left and right, and the tip touched the same spot.
+"Four," Lysette said, and her eyes were already on the next name. "Wren is here."
 
-Vesk walked closer, his steps quiet, and he moved like a cat. "I heard about the exchange. The Veil. You did it alone."
+"Eight," Eden said, and he did not look up from his sheet.
 
-"I was not alone. Lysette was there."
+Okoru tapped the fourth sheet with his stick. "Lance Nine," he said, and he read the five names in a flat voice. "Clara, Rowan, Lysette, Felix, Eden." He read the numbers again in the same order, as if the list were a sum. "Three, two, four, nineteen, eight."
 
-"Lysette is not a fighter," Vesk said. "She is a witness. She watches. She does not kill."
+"Why is Felix on it?" Rowan asked.
 
-"She held the door," Eden said. "She held it for ten minutes. Without her, I could not have done it."
+"He finds things," Okoru said.
 
-Vesk smiled. It was not a kind smile but a sharp one. "I know. I was on the roof. I saw."
+"Peppermints," Felix said.
 
-Eden stopped and looked at Vesk, who was watching him with narrowed eyes. "You were there?"
+"Paths," Okoru said, and he looked at Felix for a beat. "You will learn the difference before the winter posting."
 
-"I am always there," Vesk said. "That is my job. I see. I hear. I tell you. You act."
+"Will there be peppermints at the border?"
 
-Eden put down the lance and sat on a stone bench, which was cold. "Then tell me. What else did you see?"
+"Bring your own, and keep them out of the ranks."
 
-Vesk's eyes narrowed. "The clerk at the desk. He was not asleep. He was watching you. He let you pass on purpose."
+"That is not a good sum," Felix said.
 
-Eden looked at the ground. He thought about this. "Why?"
+"It is the best sum I can make today," Okoru said. "You fight at the back, and Hollen keeps you alive. Rowan hits hard, Belmont knows when to stop, and Wren reads the ground." He turned to the crowd. "I am not building a comfortable Lance. I am building one that can stand."
 
-"I do not know. But he smiled when you left. A small smile, not a happy smile. A knowing smile, like he knew what you would find upstairs."
+Rowan hit the board with the flat of his hand. "We can stand," he said, and he kept his hand on the board.
 
-Eden picked up the lance again and held it across his knees. "A clerk who lets a Veil hunter pass. A clerk who smiles. That means he is not just a clerk."
+"You fell over in the maze," Lysette said.
 
-"Maybe," Vesk said. "Or maybe he is scared. Scared people do strange things."
+"I fell once," Rowan said, and he held up one finger.
 
-"Or maybe he is a Veil," Eden said.
+"Twice, and the second time you knocked a wall down."
 
-Vesk shook his head. "No. I watched him for three days. He eats. He sleeps. He goes home. He has a family: a wife and two children. Veils do not have families."
+"That was the wall's fault." Rowan turned to the crowd, found three people from other groups watching, and raised his chin. "It was a heavy wall."
 
-"Veils can have fake families," Eden said.
+"Rowan," Okoru said.
 
-"Not like this. The children cry. The wife argues. It is real. I know real. I watch people for a living."
+Rowan's chin came down.
 
-Eden thought about this: a real family, a real clerk, but a clerk who let them pass and smiled. "Thank you," Eden said.
+"In one hour the groups go to the chapel for the blessing." Okoru turned his stick over. "Hollen. Your sheet says supervise."
 
-Vesk shrugged. "Do not thank me. Pay me. I need a new coat. This one has holes. See?" He held up his sleeve, where there was a hole the size of a coin.
+Lysette Hollen's pencil stopped on the page, and she looked at the number beside her name. "It says advise," she said, and she turned the page toward him.
 
-Eden reached into his pocket and gave Vesk a silver coin. Vesk took it, bit it, and put it in his pocket.
+"It says supervise." Okoru set the stick on the board. "That means you watch him and write what he does. You wanted to know where he goes at night, and now you know where he stands in a fight. Both are your job."
 
-"I will buy the coat tomorrow," Vesk said. "Black. Like yours."
+Rowan leaned across the board. "Does that mean she tells me where to stand as well?"
 
-Eden looked at his coat. It was grey, not black. "I do not have a black coat," he said.
+"Only if you fall down," Lysette said.
 
-"You will," Vesk said. "Soon."
+"I am standing," Rowan said, and he stood straight.
 
-Vesk finished his apple and threw the core over the wall. He moved like a shadow, and in three steps he was at the gate, and in five steps he was gone.
+"You were not in the maze."
 
-Eden stood alone, and the yard was dark now. The lamps were on, and he picked up his lance and left.
+Rowan looked at the floor instead of answering, and the crowd laughed once, short and surprised. Lysette shut her mouth and wrote a line in her black book with more force than the page needed.
 
-He walked to the dormitory, and the hall was empty. His steps were quiet, and he went to his room and sat on his bed. He opened his notebook.
+"Is that all, sir?" Rowan asked.
 
-He wrote: "Clerk. Exchange. Smiled. Knows. Not a Veil. Has family. Real. But he let us pass. Why? Check."
+"No," Okoru said, and then he pointed his stick at Felix. "Felix, stop eating in the ranks."
 
-He closed the notebook and lay back, and he thought about the clerk: a man with a family, a man who smiled, a man who let a Veil hunter walk into a trap.
+Felix took his hand out of his pocket. "It was a peppermint."
 
-Maybe the clerk was not the trap, and maybe the clerk was the bait. Someone wanted Eden to go to the exchange, and someone wanted Eden to find the Veil. Why?
+"That is food," Okoru said.
 
-Eden did not know, and he would find out. He always found out.
+"Not technically," Felix said, and he put the sweet back in his pocket.
 
-He thought about Vesk, and vesk was not a friend. Vesk was a tool, and but tools were useful. Eden kept tools, and he paid Vesk. Vesk watched, and it was a good arrangement.
+"Walk to the chapel."
 
-But Vesk knew too much, and vesk knew about the Veil. Vesk knew about the exchange, and vesk knew Eden was Thirteenth Vigil. That was dangerous, and if Vesk talked, Eden was exposed.
+Okoru folded the grey dust into his coat and left the hall with his stick under his arm. Eden looked at the paper disappearing into the black cloth, and he kept his own face still. A cracked core had come from stores, and every core in the school had an order behind it. The thought sat in his mind like a stone in a boot.
 
-But Vesk would not talk, and vesk liked money. Vesk liked being useful, and vesk was a survivor. Survivors do not talk, and they watch. They wait, and they collect coins.
+Lysette closed her book and walked beside him toward the door. "The dust," she said. "You looked at it before he folded the paper."
 
-Eden closed his eyes. He did not sleep. He thought about the clerk. He thought about the smile. He thought about the Veil's words. "I do not have one." No middle name.
+"It was packed tight," Eden said. "The plate cracked around it, so the dust was there first."
 
-He thought about middle names, and in this world, a middle name was a soul. If you had no middle name, you had no soul, and if you had no soul, you were not a person.
+"Someone filled the core before the drill." She stopped at the door and wrote another line. "That is two lines today."
 
-The Veil was not a person, and the Veil was a thing that wore a face, that controlled wires, that lived in the exchange.
+"Yes," Eden said.
 
-Eden had killed it, and he had pressed his palm to its chest. Mana flowed, and the Veil crumbled, like paper, like dust.
+* * *
 
-But the Veil had known their names. "I do not have one." She had answered Eden's question. She had understood. She had spoken. She had been aware.
+The chapel corridor ran along the north side of the school, and its tall windows looked out on the wet court. The windows were narrow, and the grey court beyond them made the gold paint look warmer than it should. Between two windows, a long fresco covered the wall: a knight in a pale cloak held out both hands, and gold light had been painted in the palms. The paint had worn thin in places, so the stone showed through the knight's face, but the hands were still bright.
 
-What did that mean?, and a thing without a soul that could speak? A thing without a soul that could think?
+Lance Nine stood in front of the fresco while a chaplain said the short blessing. The chaplain was an old man with a shaking hand, and he lost his place twice, so the blessing took longer than it should. Rowan shifted from foot to foot, Clara stood with her hands folded, and Lysette stood half a step behind Eden with her book open. She was close enough to watch him and too polite to read over his shoulder.
 
-Eden did not know, and he would find out. He always found out.
+When the blessing ended, the chaplain walked away, and Rowan stayed under the fresco with his hands up. He stared at the painted palms for a moment. "I can do that," he said.
 
-He opened his eyes, and the room was dark. The moon was out, and the window was open. The curtain moved, and the wind was cold.
+"Can you do it now?" Clara asked, and she looked at the painted wall.
 
-He sat up and went to the window, and he looked at the city. The lamps glowed, and the trams were still. The motor-cars were gone, and the city was sleeping.
+Rowan held out both palms. Gold light came into them, soft and small, no bigger than an apple, and it pushed the corridor's shadows back one step. The air near his sleeves grew warm, and his face changed while the light burned, open and a little surprised, as if someone had given him a warm cup. The light came with his feeling, and it faded when his hands dropped.
 
-But the city was not safe, and the Veils were in the walls. The lamps were their eyes, and the clerk was watching. The teacher was watching, and the Ashen Crowns were watching.
+Clara looked from his hands to the wall. "The same colour as the wall," she said, and she pointed at it.
 
-Eden watched back, and he always watched back.
+"The same hands," a voice said behind them. Eden did not turn to see who had spoken.
 
-He closed the window and went to his bed, and he lay down and closed his eyes.
+Rowan studied the painted hands above him. "The knight has no face."
 
-He thought about his father. The Duke. The Duke had given him a black coat. "Like your armor," the Duke had said. Eden had not worn it yet. He would wear it when he needed to. When he was ready to be seen.
+"The paint is worn off," Clara said.
 
-Not yet, and not yet.
+"I know it is odd," Rowan said.
 
-He slept, and no dreams. The Tutor did not come, and the Tutor only came when Eden needed him. Eden did not need him tonight, and he needed sleep.
+"He has good hands," Felix said.
 
-He slept.
+"Better than mine," Rowan said, and he flexed his fingers. "Mine are always cold."
 
-In the morning, Eden went to the arms yard early, and the sun was not up yet. The yard was dark, and he lit a lamp and placed it on the ground. The light made edges, and shadows. Doors.
+The light went out, and the corridor turned grey again. "My mother used to say I was born facing the sun," Rowan said. "I thought she meant I was cheerful."
 
-He held his lance and practiced the Latch, and the shield catches a blade and locks it against the knocker ring. He had learned this form from the Tutor, in a dream. The Tutor had shown him, and the lance closed into a shield. The door slammed on the blade.
+"You are cheerful," Clara said.
 
-He practiced for an hour, and his arms were tired. His hands were sore, and he did not stop. Stopping was for people who had time, and eden did not have time.
+"That is what I thought she meant."
 
-After training, he went to the dining hall and sat with Felix. Felix was eating. "Eaten today?" Felix asked.
+He said it so plainly that the others laughed, and he laughed with them, one beat late and glad of it. A senior prefect stopped at the corner to ask about drill, and Rowan told him a story about a snow-covered boot. Felix listened with his whole face.
 
-"Technically," Eden said.
+Clara watched Rowan watch the prefect, and something in her face went still, the way a lamp goes still before someone switches it off. Lysette watched Rowan too, and then she watched Eden watching him, and she wrote another line.
 
-Felix nodded, and he did not ask what that meant. He never did, and he pushed a piece of bread across the table. Eden took it and ate, and the bread was stale. He did not mind.
+A row of stone pots stood under the fresco's last window. The lilies in them had drooped all week, brown at the edges, with their heads down over the rim. Clara moved one pot an inch to make room for her bag, then sat on the bench beside it.
 
-"You look tired," Felix said.
+The nearest lily lifted its head.
 
-"I am fine," Eden said.
+Eden watched the stem straighten and the leaf turn over. A second flower opened where the petal had been shut tight, and the brown edge went green from the stem up. Clara pulled a thread from her sleeve and did not look at the pot.
 
-"You are always fine. That is the problem. You are never not fine, even when you are not fine."
+"Your flower," Eden said.
 
-Eden ate the bread, and he did not answer. Felix was right, and but Eden did not know how to be not fine. He did not know how to say it, and he did not know how to feel it.
+"Which one is my flower?" Clara asked, and she looked down.
 
-He knew facts, and he knew plans. He knew numbers, and he did not know feelings. Feelings were for other people.
+"The one by your knee."
 
-After breakfast, Eden went to the library. He looked for books about Veils. He found one. It was old. The cover was torn. The title was "On the Nature of the Unborn."
+Clara looked down, and the flower looked back at her, open and pale. She put her hand on the pot and left it there. "It was like that when I sat down."
 
-He opened it, and the pages were yellow. The writing was small, and he read.
+"Yes," Eden said, and he pointed at the stem.
 
-"Veils are not born. They are made. They are shaped from Hush matter. They are given a face. They are given a name. They are given a purpose. They are tools. They do not think. They do not feel. They follow orders."
+"You are the second person to tell me that."
 
-Eden read this again. "They do not think. They do not feel." But the Veil in the exchange had spoken. She had answered Eden's question. She had been aware.
+"Who was the first to tell you?" Eden asked.
 
-Either the book was wrong, or the Veil was not a normal Veil.
+"My sister, and she said it about a field." Clara took her hand away. "She was joking."
 
-Eden closed the book and put it back, and he would check the archives. The archivist might know more.
+"No," Eden said. "You sit down."
 
-He went to the basement, and the archivist was there, surrounded by books. He was small, and he had a beard. He wore a coat with many pockets.
+Clara's mouth moved, and she did not answer. Lysette leaned across Eden to look at the pot. "Are the others doing it?"
 
-"Archivist," Eden said. "I need to know about Veils. The book says they do not think. But the one I killed spoke."
+"Only the ones near me," Clara said. "It has been happening for years, and I do not do anything."
 
-The archivist looked at him. "You killed a Veil?"
+"I have seen that field," Eden said. "It was near your home."
 
-"Yes."
+"Then you have seen more than I have." Clara picked up her bag. "Do not tell Rowan."
 
-"And it spoke?"
+Eden said nothing. Lysette leaned back with her book on her knee and looked at the fresco instead of the flowers. Then she held out a paper slip. "Your paper says rest. It does not say where."
 
-"Yes. It said, 'I do not have one.' When I asked for its middle name."
+"The roof is quiet," Eden said, and he looked at the window.
 
-The archivist was quiet, and he took off his glasses, cleaned them, and put them back on.
+"The infirmary is quieter."
 
-"That is not normal," the archivist said. "Veils do not speak. They do not answer. They do not have words. If it spoke, it was not a normal Veil."
+"The infirmary has beds with sheets. I sleep dressed."
 
-"What was it?"
+She looked at the slip for a while, and then she put it back in her book without writing on it. "You are the quietest person in this group," she said. "Quiet does not make you safe."
 
-"I do not know. But it was something else. Something new. Or something old. Something we have not seen before."
+"Supervise me, then."
 
-Eden thought about this, and a Veil that spoke. A Veil that was aware, and a Veil that was not normal.
+"I am." She put a finger on the page. "You answered me. That is one line I did not have to write twice."
 
-He would find out, and he always found out.
+Rowan came over with his spear and set it against the wall. "Wren. Teach me that hold you used in the maze."
 
-He left the basement and went to the roof garden, and lysette was there, writing in her notebook. She looked up.
+"It was only a practice shield," Eden said.
 
-"Eden," she said.
+"Teach me anyway," Rowan said, and he held the spear out.
 
-"Lysette."
+"You have a spear. Use it."
 
-She looked at him. Her blue-violet eyes were steady. "You are worried."
+"I can hold a shield as well." Rowan held up an empty hand. "Show me where your elbow goes."
 
-"I am not worried. I am thinking."
+Eden looked at the hand, and then at the painted hands above them. "Behind the shield," he said, and he walked toward the stairs before Rowan could ask the next question.
 
-"About what?"
+A bell rang somewhere over the court, and the students in the corridor began to move. Clara lifted her bag, and Rowan took it from her hand before she could stop him. She said one word, he said two, and then she let him carry it.
 
-"The Veil. It spoke. That is not normal."
+* * *
 
-Lysette put down her notebook. "I know. I was there. It spoke. It answered you."
+The stores office sat behind the kitchens, with a counter of scarred wood and a long shelf of order books. The books went back twenty years, and their spines had faded from black to a soft brown. Eden waited while a clerk with ink on her cuffs found the right book, and he kept a folded form in his coat. The form gave him a reason to be there, because the grey office wanted drill numbers entered against it.
 
-"What did you see? With Witness?"
+The clerk turned pages until she found the year at the back. "Construct stores," she said. "If you want the core line, it is near the back."
 
-Lysette was quiet. Then she said, "I saw the Veil. Before you killed it. It was standing at the switchboard. It was not doing anything. It was just standing there. Waiting."
+"I want the order for the core," Eden said.
 
-"Waiting for what?"
+"Same thing," she said, and she turned the book around so he could read it. "They keep asking for this one. It is a poor system."
 
-"For us. For you. It knew you were coming."
+"Did anyone else ask for the core line?"
 
-Eden looked at her. "How could it know?"
+"A girl with a red band, yesterday." The clerk turned a page. "She wrote the date down. I told her it was a mistake."
 
-"I do not know. But it knew. It was waiting. It did not try to run. It did not try to fight. It waited."
+"What did she say?"
 
-Eden thought about this, and a Veil that waited. A Veil that spoke, and a Veil that was not normal.
+"She said nothing, and then she wrote it down again," the clerk said.
 
-"Lysette," Eden said. "I need to check the exchange again. The clerk. I need to know what he knows."
+Eden read down the column of dates and names. Most lines were short: one plate, two straps, a box of brass pins. The prices were written small and neat, and the signatures were not. Then he found the line for a drill core, with a price in the next column and a wide, careful hand at the end.
 
-"I will come with you," Lysette said.
+"Who is Master Sorn?" Eden asked.
 
-"No. I go alone."
+The clerk looked at the name, then at the date beside it. "A master of the forge. He made the gate plates before they changed the design."
 
-"You always go alone."
+"Is Master Sorn here now?" Eden asked.
 
-"Yes."
+"No, he died last year." She wiped the counter with her sleeve and left the book open. "Winter, I think, or maybe early spring," the clerk said.
 
-Lysette looked at him, and she did not argue. She knew he would not change his mind.
+Eden kept his finger on the line. "The date is after winter."
 
-"Be careful," she said.
+"So it is," the clerk said, and she leaned in until her ink-stained cuff touched the page. "That is the first week of November."
 
-"I am always careful," Eden said.
+Eden read the line again: a new core, a price, and the careful hand of a dead man. He copied the date onto the back of his form, and the pencil left a mark on the counter.
 
-He left and went to the exchange, and it was afternoon. The clerk was at his desk, and he looked up when Eden entered.
+"Who brought the order in?" he asked.
 
-"Can I help you?" the clerk asked.
+"A man in a staff coat." The clerk closed the book. "He said Master Sorn signed it before he died, and the office had lost the paper."
 
-"I want to ask you something," Eden said.
+"Did he pay for it?" Eden asked.
 
-The clerk looked nervous. "What?"
+"Old coins," the clerk said. "He did not ask for a receipt."
 
-"The Veil. Upstairs. Did you know she was there?"
+"Did you believe the man in the staff coat?" Eden asked.
 
-The clerk's face went white. "I... I do not know what you mean."
+The clerk looked at the counter, and then she looked at the door. "I am just a clerk," she said. "I write what they bring me."
 
-"You do. You let us pass. You smiled. You knew."
-
-The clerk stood. "I do not know anything. I am just a clerk. Please leave."
-
-Eden looked at him, and the clerk was scared. Not guilty, and scared. There was a difference.
-
-"Who are you scared of?" Eden asked.
-
-The clerk did not answer, and he sat down and put his head in his hands.
-
-Eden left, and he stood outside the exchange. He thought about the clerk, and scared. Not guilty, and scared of someone else.
-
-The Ashen Crowns, and the teacher. Someone else.
-
-Eden would find out, and he always found out.
-
-He went home and sat on his bed. He opened his notebook and wrote: "Veil spoke. Not normal. Book says Veils do not think. Archivist says new. Clerk scared. Not guilty. Scared of someone. Find who."
-
-He closed the notebook and lay back, and he stared at the ceiling.
-
-The crack in the corner looked like a river, and it always looked like a river.
-
-He slept, and no dreams. 
+Eden put the form in his coat, and under the date he wrote one word: "Dead."

@@ -1,33 +1,71 @@
-# Chapter 44: The Dark Tunnels
+# Chapter 44: The Groundskeeper
 
-The tunnels were under the Wall. They were old. Stone. Dark. They connected the Wall to the cistern. They connected the cistern to the barracks. They were escape routes. If the Wall fell, the soldiers could run.
+The groundskeeper was an old man. His name was Osk. He worked on the Wall. He fixed things. Stones. Gates. Wards. He had been there for forty years.
 
-Eden went into the tunnels. He had a lamp. The light was yellow. The tunnels were narrow. The ceiling was low. He had to duck.
+Eden found him in the yard. He was fixing a stone. He used a hammer and a chisel. Tap. Tap. Tap.
 
-He walked. The tunnels were quiet. Drip. Drip. Drip. Water from the cistern. The same water that held the Hush.
+"Osk," Eden said.
 
-He followed the tunnel. It went down. Then up. Then left. Then right. It was a maze.
+The old man looked up. "You are the student."
 
-He found something. In the wall. Scratches. The Thirteenth Vigil code. He read them.
+"Yes."
 
-"The tunnels are doors. The doors are traps. The traps are for the Hush. When the Hush comes, open the doors. The Hush will fall."
+"The one who sees things."
 
-Eden read it again. "The tunnels are doors." The tunnels were not just tunnels. They were doors. They could be opened. They could drop things. Into the void.
+"Yes."
 
-He looked at the tunnel. The floor was stone. The walls were stone. The ceiling was stone. But there were lines in the stone. Thin lines. Like cracks. But not cracks. They were seams. The stone was cut. It could be moved.
+Osk put down his hammer. He sat on a stone. He looked at Eden. "What do you want?"
 
-Eden pushed the wall. It moved. Slowly. A section of the wall slid away. Behind it was a shaft. Dark. Deep. He could not see the bottom.
+"The tunnels. Under the Wall. They are doors. They can drop the Hushborn."
 
-A door. A trap door. For the Hush.
+Osk looked at him. "I know."
 
-Eden closed the wall. He marked the spot. He would tell the commander. The tunnels were doors. The doors were traps. They could be used.
+"You know?"
 
-He went back up. He told the commander. The commander listened. He did not understand. But he ordered the tunnels checked.
+"I have been here forty years. I know everything about this Wall. I know about the tunnels. I know about the doors. I know about the traps."
 
-Eden went to his room. He sat on his bed. He wrote in his notebook: "Tunnels are doors. Doors are traps. For the Hush. Can drop them. Need to mark all doors."
+"Why did you not tell anyone?"
 
-He closed the notebook. He lay back. He thought about the doors. He could open them. He could drop the Hushborn. But he needed to be in the tunnels. And the tunnels were dark. And the Hush was in the water.
+Osk looked at the Wall. "Because no one asked. And because the doors are dangerous. If you open them wrong, they drop you. Not the Hushborn. You."
 
-He would need light. He would need a lamp. He would need to be fast.
+Eden sat beside him. "Can you show me how to open them right?"
 
-He slept. No dreams.
+Osk looked at him. His eyes were old. But sharp. "Why do you want to know?"
+
+"Because the Hushborn are coming. Forty. In two days. I need to drop them."
+
+Osk was quiet. Then he said, "Come. I will show you."
+
+They went to the tunnels. Osk showed Eden the doors. How to open them. How to close them. Which ones were safe. Which ones were not.
+
+"The safe ones are marked," Osk said. "A circle. With a line. The Thirteenth Vigil marked them. Long ago."
+
+Eden saw the marks. The same code. The same circle. The same line.
+
+"Who were they?" Eden asked. "The Thirteenth Vigil?"
+
+Osk looked at him. "They were knights. Secret knights. They hunted Veils. They protected the Wall. They are gone now. All dead. Except you."
+
+Eden looked at him. "How do you know I am Thirteenth Vigil?"
+
+Osk smiled. It was a small smile. "I am old, boy. I am not blind. I see the black armor. I see the lance. I see the way you move. You are Thirteenth Vigil."
+
+Eden did not deny it. "Will you help me?"
+
+"Yes," Osk said. "I have been waiting for someone like you. For forty years. I thought no one would come."
+
+"I came," Eden said.
+
+"You came," Osk said. "Good. Now let us prepare the doors."
+
+They worked. All night. Osk showed Eden every door. Every trap. Every mark. Eden learned. He learned fast.
+
+By morning, Eden knew the tunnels. He knew the doors. He knew the traps. He was ready.
+
+He thanked Osk. Osk nodded. "Be careful, boy. The doors are old. They may not hold."
+
+"They will hold," Eden said.
+
+He went to the barracks. He slept. Two hours. Then he woke. The Hushborn were coming tomorrow.
+
+He was ready. Or as ready as he could be.

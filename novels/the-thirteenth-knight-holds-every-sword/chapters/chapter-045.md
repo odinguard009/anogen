@@ -1,71 +1,73 @@
 # Chapter 45: The Groundskeeper
 
-The groundskeeper was an old man. His name was Osk. He worked on the Wall. He fixed things. Stones. Gates. Wards. He had been there for forty years.
+The Hushborn came at dawn. Not thirty. Not forty. Sixty. They came from the south. Grey shapes. Moving on four legs. No eyes. No mouths. Just grey.
 
-Eden found him in the yard. He was fixing a stone. He used a hammer and a chisel. Tap. Tap. Tap.
+The alarm sounded. The Wall came alive. Soldiers. Weapons. Wards. Lamps.
 
-"Osk," Eden said.
+Eden stood on the Wall. He wore his black armor. His lance was short. **[Inead]** was on his back. He carried a lamp.
 
-The old man looked up. "You are the student."
+The Hushborn reached the Wall. They climbed. Fast. Their grey bodies stuck to the stone. Like spiders.
 
-"Yes."
+The soldiers fought. Lances thrust. Arrows flew. Wards flashed. Blue light.
 
-"The one who sees things."
+Eden watched. He waited. The Hushborn were on the outside of the Wall. The soldiers were on the inside. The fire would be between them.
 
-"Yes."
+"Now," Eden said.
 
-Osk put down his hammer. He sat on a stone. He looked at Eden. "What do you want?"
+He lit the oil lines. They ran along the Wall. The fire spread. Fast. Bright. The edges appeared. Shadows. Doors.
 
-"The tunnels. Under the Wall. They are doors. They can drop the Hushborn."
+Eden opened the first door. In the tunnel. The floor slid away. Three Hushborn fell. Into the shaft. Into the dark.
 
-Osk looked at him. "I know."
+He opened the second door. Five more fell. The third door. Seven more.
 
-"You know?"
+The soldiers saw. They fought harder. The Hushborn were confused. The fire. The doors. The light.
 
-"I have been here forty years. I know everything about this Wall. I know about the tunnels. I know about the doors. I know about the traps."
+Eden moved along the Wall. Opening doors. Dropping Hushborn. The soldiers held the line.
 
-"Why did you not tell anyone?"
+But the Hushborn kept coming. More. From the south. The Pale was alive with grey shapes.
 
-Osk looked at the Wall. "Because no one asked. And because the doors are dangerous. If you open them wrong, they drop you. Not the Hushborn. You."
+Eden opened door after door. The tunnels were old. Some doors stuck. He forced them. His hands bled. He did not care.
 
-Eden sat beside him. "Can you show me how to open them right?"
+Lysette was there. She fought beside him. Her knife was small. But she was fast. She killed two Hushborn that got through.
 
-Osk looked at him. His eyes were old. But sharp. "Why do you want to know?"
+"Eden!" she shouted. "There are too many!"
 
-"Because the Hushborn are coming. Forty. In two days. I need to drop them."
+"I know!" Eden shouted back. "Keep fighting!"
 
-Osk was quiet. Then he said, "Come. I will show you."
+The fire burned. The doors opened. The Hushborn fell.
 
-They went to the tunnels. Osk showed Eden the doors. How to open them. How to close them. Which ones were safe. Which ones were not.
+But the camp below was on fire. The oil lines had spread. The tents burned. The supplies burned.
 
-"The safe ones are marked," Osk said. "A circle. With a line. The Thirteenth Vigil marked them. Long ago."
+Eden looked down. The camp was burning. Soldiers ran. The fire was out of control.
 
-Eden saw the marks. The same code. The same circle. The same line.
+"We need to put out the fire!" Lysette said.
 
-"Who were they?" Eden asked. "The Thirteenth Vigil?"
+"We cannot," Eden said. "The doors are working. The Hushborn are falling. The fire is the cost."
 
-Osk looked at him. "They were knights. Secret knights. They hunted Veils. They protected the Wall. They are gone now. All dead. Except you."
+Lysette looked at him. Her face was red from the heat. Her eyes were wide.
 
-Eden looked at him. "How do you know I am Thirteenth Vigil?"
+"The cost?" she said.
 
-Osk smiled. It was a small smile. "I am old, boy. I am not blind. I see the black armor. I see the lance. I see the way you move. You are Thirteenth Vigil."
+"The cost," Eden said.
 
-Eden did not deny it. "Will you help me?"
+They kept fighting. The Hushborn kept coming. The doors kept opening. The fire kept burning.
 
-"Yes," Osk said. "I have been waiting for someone like you. For forty years. I thought no one would come."
+By dawn, it was over. The Hushborn were gone. Dead. Fallen. Burned. The camp was destroyed. The Wall held.
 
-"I came," Eden said.
+Eden stood on the Wall. He was covered in ash. His hands were burned. His armor was black with soot.
 
-"You came," Osk said. "Good. Now let us prepare the doors."
+Lysette stood beside him. She was shaking. Her hair was singed. Her coat was torn.
 
-They worked. All night. Osk showed Eden every door. Every trap. Every mark. Eden learned. He learned fast.
+"We won," she said.
 
-By morning, Eden knew the tunnels. He knew the doors. He knew the traps. He was ready.
+"We won," Eden said.
 
-He thanked Osk. Osk nodded. "Be careful, boy. The doors are old. They may not hold."
+But the cost was high. The camp was gone. The supplies were gone. The soldiers were tired. And the Pale was still there. Grey. Silent. Waiting.
 
-"They will hold," Eden said.
+Eden looked at the Pale. It was not finished. It would never be finished. Not until someone closed the Wound.
 
-He went to the barracks. He slept. Two hours. Then he woke. The Hushborn were coming tomorrow.
+He would close it. Someday. Not today. But someday.
 
-He was ready. Or as ready as he could be.
+He walked down from the Wall. He went to the barracks. He sat on a bed. He closed his eyes.
+
+He slept. No dreams.

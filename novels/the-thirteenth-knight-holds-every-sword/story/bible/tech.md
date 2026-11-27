@@ -1,51 +1,32 @@
-# Tech layer: the Meridian Age (owner order 2026-11-25)
-The world is not pure medieval. Technology is the late 1890s (owner order 2026-11-25): motor-cars, telephones, trams and veinline trains, steam presses, mana-lamps in every town street, mana engineering in daily life. Knights, swords and bells still matter. Add, never erase: horses, lanterns, bells and swords stay. Power rules: power-system.md.
+# Tech and military gear (Elysmar, PR 112 = 1990s feel)
 
-## Ringkasan untuk Odin
-Dunia setara tahun 1800-an: rel kereta, telegraf, lampu, mesin cetak, senapan, meriam, kapal besi. Tetapi senjata api tidak menghapus ksatria: medan mana merusak mesiu dan pemicu, aura menepis peluru, ward menahan meriam, dan Hush hanya bisa dilawan dengan aura, mantra, dan cahaya. Mesin mana besar menarik Hush, jadi kemajuan teknologi adalah dilema moral.
+**Era tech.** Motor-cars, telephones, trams, mana-lamps, steam presses, concrete sewers, steel-frame buildings, elevators, radio, printed newspapers, mana-engines, mana-stone batteries. At most 2 new tech terms per chapter.
 
-## What exists
-- Lamps: mana-lamps (a glowing stone in glass) in rich streets and the academy; oil lanterns everywhere else. Lantern Night stays.
-- Veinlines: railways on rails of vein-steel. Engines burn coal and draw a little mana from the rails. Solmarch to Hallowcrest takes half a day.
-- Bellwire: telegraph. Copper wire tuned to ring; clerks tap codes that arrive as bell tones. Cities and forts have it; villages do not.
-- Presses: steam printing presses. Daily papers in the capital; the Justiciar Seal reads them all.
-- Steam-and-mana engines: boilers with mana-stone cores. They pump wells, drive mills and lift ore.
-- Mana-lock guns: muskets and pistols that fire by a small mana-stone spark instead of flint. Single shot, slow to reload (about twenty breaths).
-- Cannon and mortars on walls and ships.
-- Ironclads: iron-hulled ships with vein-keels (keels of vein-stone) that draw mana for wards and engines.
-- Clocks, pocket watches, cameras that take a minute to make one grey picture.
+**Mana stone.** Renewable crystal: mined, rechargeable at wells. Used in engines, batteries, lamps, armor cores. Fuels industry and war.
 
-- Motor-cars ("cars"): steam-and-mana engines with a small mana-stone core; they rattle and honk, top speed about a galloping horse, rich towns have them, the poor still walk. Mana fields stall them near a raised aura (a knight can stop a car by standing in the road).
-- Telephones: copper lines tuned to ring like bells; exchanges with operators and switchboards in every city, a line in rich houses and offices. Calls can be tapped by anyone at an exchange.
-- Trams: mana-driven carriages on city rails.
-- Mana-lamps: now common in all city streets and the academy; oil lanterns remain in villages and for the Lantern festivals.
+**Military armor and weapons by job.** Each job has a signature armor set and weapon. Armor is named; weapon is named. Cool, goosebump-inducing. Armor-up set pieces follow armor.md rules.
 
-## What does not exist
-No radio, no flying machines (griffons fly), no repeating rifles, no electric power grid (mana does that work). Machines cannot copy a Tenet, a relic or a Raiment.
+- Paladin: heavy plate (white/silver), sword and shield, mana core in chest plate. Weapon: longsword + kite shield.
+- Warrior: heavy plate (red/iron), greataxe, mana core in back. Weapon: greataxe.
+- Dark Knight: black heavy plate, greatsword, mana core in helm. Weapon: greatsword.
+- Gunbreaker: medium plate (gunmetal), gunblade, mana core in barrel. Weapon: gunblade.
+- Dragon Knight: medium plate (blue/steel), lance, mana core in lance tip. Weapon: lance.
+- Silent Assassin: light armor (dark leather), twin daggers, mana core in bracers. Weapon: twin daggers.
+- Blade Dancer: light armor (red silk/steel), katana, mana core in blade. Weapon: katana.
+- Reaper: medium plate (purple), scythe, mana core in blade. Weapon: scythe.
+- Iron Fist: light armor (cloth/iron), fists, mana core in knuckles. Weapon: gauntlets.
+- Sharpshooter: light armor (green leather), bow, mana core in quiver. Weapon: bow.
+- Machinist: medium armor (brass/steel), gun, mana core in chamber. Weapon: rifle.
+- Wind Dancer: light armor (teal silk), chakrams, mana core in rings. Weapon: chakrams.
+- Storm Caller: light armor (dark blue robe), staff, mana core in staff head. Weapon: staff.
+- Summoner: light armor (purple robe), arcane focus, mana core in focus. Weapon: grimoire.
+- Red Blade: light armor (red/white), rapier, mana core in blade. Weapon: rapier.
+- Mind Eater: light armor (grey robe), learned spells, mana core in brain-band. Weapon: focus.
+- White Mage: light armor (white robe), cane, mana core in cane. Weapon: cane.
+- Scholar: light armor (green robe), book, mana core in book. Weapon: book.
+- Star Reader: light armor (indigo robe), cards, mana core in deck. Weapon: cards.
+- Sage: light armor (cyan robe), nouliths, mana core in floating orbs. Weapon: nouliths.
 
-## Why guns and cannon do not end knights (MUST USE)
-1. Mana fields foul powder: within about ten steps of a raised aura, black powder burns slow and weak, and a mana-lock's stone fires early or dies. Near a strong ward or a well, guns misfire often.
-2. Aura turns aside bullets (fast and light). Crossbow bolts are heavy and slow, so they still go in: knights fear crossbows more than pistols.
-3. Wards beat artillery: a city's ward-net catches shells, and powder inside the net burns badly.
-4. Knights move faster than a gun can be reloaded or a cannon can be aimed.
-5. The Hush: lead hardly hurts Husks (grey flesh closes around it), and Hushborn cold breaks untrained soldiers. Sieges and Hush fronts need aura-trained troops, spells and light.
-6. Guns are for conscripts, who have no aura; aura is for the front. A line of muskets protects a town from bandits, not from a Choir.
+Eden special: black armor (Umra/Aster), dark lance + Inead sword, mana core in knocker ring. Spirit: black mechanical horse in matching black armor.
 
-## Why Embers use crossbows
-Powder is licensed: every barrel carries a Crown stamp and the Justiciar Seal tracks sales. Hallowcrest and the capital's big halls are under ward-nets that foul powder. Crossbows are cheap, silent, and work under any ward. (This is why the Ball's Embers use crossbows and grafts, not pistols, in ch 24-25.)
-
-## The Hush and big machines (moral conflict)
-The Hush hunts mana. Big engines, wells pumped hard and veinline hubs shine to it like a lamp in a dark field. Towns that build more machines grow rich and draw the Hush faster. Every nation must choose between growth and safety, and the poor live closest to the engines.
-
-## National differences
-- Verandel: veinlines and lamp works; old nobles distrust the factories; the Sapper Forge makes the guns.
-- Volkhovar: the biggest boilers and gun foundries; conscript gun lines in front of the Ice Legions.
-- Qianlu: bellwire everywhere; a clerk state run on telegrams.
-- Lanternhouse Compact (Norhaven): mercenary engineers; Lantern rigs (armor frames with unstable mana-stone cores).
-- Aurelis See: the church bans engines in holy towns.
-- Others: mostly traditional; guns are rare and dear.
-
-## Writing tech
-- At most 2 new tech terms per chapter, explained in plain words the first time.
-- First gun on the page: describe it once (look, how it is loaded and fired, what it does, why it failed or worked).
-- Never let a gun decide a knight's fight unless the knight is tired, unaware or out of aura.
+**Scale note.** All weapon lengths and armor weights scale to Elysmar's 3x size; humans are same size, gear is heavier/longer accordingly.

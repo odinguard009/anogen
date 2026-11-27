@@ -1,165 +1,277 @@
 # Chapter 7: The Warrant
 
-Morning came with a knock on Eden's door, and he opened it to find a man in a dark coat standing there holding a paper. "Warrant," the man said. "For Eden Wren. To appear before the registrar." Eden took the paper and read it carefully, discovering that it listed sixty-one unexcused absences with a penalty of scholarship loss and a hearing scheduled for Friday.
+The roof garden bench was warm from the morning sun, and Eden had one hour before lunch. He put his coat over his face and folded his arms, and the city noise came up through the stone like water through a pipe. Below the low wall, the city was a grey grid of roofs and tram lines, and the morning bells had not rung yet.
 
-Eden looked at the man. "Who sent this?"
+Footsteps crossed the gravel, loud and fast. "Wren!" Rowan's voice carried across the whole roof, and a pigeon left the wall. "I brought bread, and I brought apples, and I have news."
 
-"The registrar," the man said. "By order of the headmistress."
+Eden did not move the coat. "I am sleeping, and you are standing in my sun."
 
-Eden closed the door, and he looked at the paper again. Sixty-one absences, and he had counted them himself, and he knew every one.
+"You are talking, so you are awake," Rowan said, and he sat on the bench.
 
-He went to breakfast, where Lysette was already sitting, and she saw his face. "What happened?" she asked. "Warrant," Eden said. "Absences." Lysette took the paper and read it. "Sixty-one. You have sixty-one absences." "I know." "You cannot fight a warrant with a lance," Lysette said. "I know." Lysette sat down and thought for a moment. "I will come with you. Friday." "You do not have to." "I know. I will come."
+Rowan put a paper bag on the bench. "Lance Nine ate breakfast apart today. Clara sat with the healers, Felix sat with the archers, and Lysette sat with her book. That is not how a Lance eats."
 
-Eden ate, but he did not taste the food. He thought about the warrant, and someone had reported him, and someone was watching his absences, which meant someone was watching him. He needed to find out who and why before Friday.
+"It is how this one eats."
 
-After breakfast, he went to the registrar's office. The registrar was a thin man with glasses, and he sat behind a desk covered with papers.
+"We should eat together at lunch, all five of us." Rowan opened the bag and took out a dark roll. "I saved you one. It has seeds on top."
 
-"Eden Wren," the registrar said. "Sixty-one absences. You are here to explain."
+Eden lifted one corner of the coat. The roll was large and dark, and the seeds were stuck to it in a careful line. "Why did you carry it up here?"
 
-"I was sick," Eden said.
+"Because you did not come to breakfast."
 
-"You were not sick. You were on the roof."
+"I was here."
 
-Eden did not answer, and the registrar was right. He had been on the roof, and but he could not say that. He could not say what he did on the roof, and he could not say anything about the Veils, the lamps, or the Thirteenth Vigil.
+"That is the problem," Rowan said, and he said it without any anger, as if he were reading a weather report. "You are always here, and no one is here with you."
 
-"Friday," the registrar said. "The headmistress will decide."
+The coat came down. Eden looked at the roll, then at Rowan's open face, and he took the roll. "Thank you," he said, and he took a bite.
 
-Eden left, and he walked to the roof garden and sat on the bench. He looked at the city, and the warrant was a problem. Not a big problem, but a problem, and someone was pushing him, and someone wanted him noticed.
+"You are welcome," Rowan said, and he watched Eden chew. "Is it good?"
 
-He thought about who, and the clerk at the exchange. The Veil, and the warrant. Maybe they were connected, and maybe not. He needed more information.
+"It is bread."
 
-He pulled out his notebook and wrote: "Warrant. Sixty-one absences. Friday. Who reported?"
+"That is not a yes," Rowan said, and he looked disappointed.
 
-He closed the notebook, and he would find out. He always found out.
+"It is a yes for bread," Eden said, and he took another bite.
 
-Felix found him on the roof. "Eaten today?" Felix asked.
+Rowan laughed once, loud enough to scare a second bird off the wall. Then he leaned forward. "Teach me the hold from the maze. The one with the ring."
 
-"Technically," Eden said.
+"No," Eden said, and he did not open his eyes.
 
-Felix sat beside him. "The warrant. I heard."
+"Why not?" Rowan asked, and he leaned over the bench.
 
-"Everyone heard," Eden said.
+"You have a spear."
 
-Felix was quiet. Then he said, "I can talk to my father. He knows the registrar."
+"I can learn both."
 
-"No," Eden said. "I will handle it."
+"Then learn both from Okoru."
 
-Felix nodded, and he did not push. That was why Eden liked him.
+"Okoru says I hold a spear like a man carrying a fence." Rowan held up his hands. "I want to learn the shield part."
 
-They sat in silence, and the wind moved the plants. The city hummed below them.
+Eden finished the roll and put the crust in the bag. "The shield part needs a shield."
 
-Eden thought about Friday, and he would go. He would stand, and he would say little. The headmistress would decide, and he would accept whatever she said.
+"I can get a shield."
 
-But he would also watch, and who was there. Who was watching him, and he would remember faces.
+"Then get one from the arms hall," Eden said.
 
-He always remembered faces.
+Rowan stood up, walked three steps, and came back. "You are making this hard on purpose."
 
----
+"Yes," Eden said.
 
-The next morning, Eden went to the registrar's office again. The registrar was not there, and a different clerk sat at the desk instead.
+"Why?" Rowan asked, and he sat down again.
 
-"Can I help you?" the clerk asked.
+"Because I am sleeping."
 
-"I want to see the warrant file," Eden said.
+The stair door opened before Rowan could answer, and Lysette came out with a black book under one arm. She wore her dark coat and her white collar, and her braid sat flat across the top of her head. She looked at the bench, at the bag, and at Eden with the coat half over his face.
 
-The clerk looked at him. "I cannot show you that."
+"Wren," Lysette said, and she stopped at the end of the bench. "You missed morning roll call again."
 
-"I am the student named in the warrant. I have a right to see it."
+"I was resting on the roof," Eden said, and he sat up.
 
-The clerk shook his head. "The registrar keeps those files. He is out today."
+She opened the book and turned it toward him. "Fourteen times," she said. "Fourteen unexcused absences since the term began, and the Committee issues a warrant at fifteen."
 
-Eden looked at the desk, and there were papers everywhere. Files, and folders. He could not find the warrant file among them.
+Eden sat up and asked, "A warrant for what?"
 
-"When will the registrar be back?" Eden asked.
+"For attendance," she said, and she held out a white slip. "This is a warning, not a warrant. It says attend or explain."
 
-"Tomorrow," the clerk said.
+Eden took the slip and read it twice. "I can explain," he said, and he reached into his coat.
 
-Eden left, and he walked to the roof garden. Lysette was there, sitting on the bench with her notebook.
+"Then explain it to me," Lysette said, and she waited.
 
-"I went to the registrar," Eden said. "He was not there."
+He gave her a folded paper. "Medical exemption," he said, and he kept his eyes on the roof.
 
-"What did you find?" Lysette asked.
+Lysette read it once, and then she read it again. Her mouth moved on one line. "This says rest in open air."
 
-"Nothing. The clerk would not show me the file."
+"Yes," Eden said, and he did not look away.
 
-Lysette wrote in her notebook. "I will try. I am on the Discipline Committee. I have access to student records."
+"It says including roofs."
 
-"Will that work?"
+"Yes," Eden said again, and his voice was flat.
 
-"It might. I will go this afternoon."
+"Who signed this paper?" Lysette asked, and she turned it over.
 
-Eden sat beside her. "Thank you, Lysette."
+"A doctor in the city," Eden said.
 
-"You do not have to thank me. I want to help."
+Lysette looked at the paper again, and then at him. "You make every answer into a door."
 
-Eden looked at the city, and the lamps were on. The trams were running, and the city was normal. But Eden knew it was not normal, and the clerk at the exchange. The Veil, and the warrant. Something was happening.
+"It is a useful shape."
 
-"Lysette," Eden said. "The Veil in the exchange. It spoke. That is not normal."
+"The Committee will hear about this."
 
-Lysette put down her notebook. "I know. I was there. It spoke. It answered you."
+"You are the Committee."
 
-"What did you see? With Witness?"
+"Then I will hear about it," she said, and she closed the book. "You still need to attend class."
 
-Lysette was quiet. Then she said, "I saw the Veil. Before you killed it. It was standing at the switchboard. It was not doing anything. It was just standing there. Waiting."
+"I do attend," Eden said, and he sat back against the wall.
 
-"Waiting for what?"
+"You attend the ones you like."
 
-"For us. For you. It knew you were coming."
+"That is most of them."
 
-Eden looked at her. "How could it know?"
+Rowan laughed again, and Lysette looked at him until he stopped. "You are not helping."
 
-"I do not know. But it knew. It was waiting. It did not try to run. It did not try to fight. It waited."
+"I brought bread," Rowan said.
 
-Eden thought about this, and a Veil that waited. A Veil that spoke, and a Veil that was not normal.
+"Of course you did."
 
-"Lysette," Eden said. "I need to check the exchange again. The clerk. I need to know what he knows."
+Lysette sat on the end of the bench and put the exemption on her knee. "This is the first warrant I have served," she said, and she did not sound happy about it. "I would like it to be the last."
 
-"I will come with you," Lysette said.
+"Then do not serve one."
 
-"No. I go alone."
+"That is not how a warrant works," she said. "You will attend the hearing on Friday, and you will bring this paper, and you will let me do the talking."
 
-"You always go alone."
+Eden asked, "You will do the talking?"
+
+"I know the Committee rules, and you do not."
+
+"You know the loopholes," she said, and she put the exemption in her book. "That is different."
+
+The stair door opened a third time, and Seraphine came out with a cup of tea. She looked at the three of them and smiled, and her red coat was open at the neck. "A meeting," she said. "Is this about the warrant?"
+
+"It is about bread," Rowan said.
+
+"Then I am late." She sat on the low wall beside Lysette. "Wren, you look like a man who slept on a bench."
+
+"I did sleep on a bench," Eden said, and he did not move the coat.
+
+"That was not a guess." She looked down at the court, where Felix Ashgrove was crossing with two trays. "Ashgrove! Are both of those for you?"
+
+"No," Felix said, and he held the two trays apart.
+
+"Then one is for me," she said. "Bring it up, and do not let the soup spill."
+
+"It is for Clara."
+
+"He is very loyal," Seraphine said.
+
+Lysette did not look up from her book. "He is loyal to Clara."
+
+"Then I will take the bread," she said. "Ashgrove, I am coming down."
+
+Felix looked at the trays, then at the stairs, and he walked faster. Seraphine went after him, and her laugh came back up the stairwell. At the foot of the stairs she took the top tray before he could turn, and she looked at the soup.
+
+"It is for Clara," Felix said, and he held the other tray against his chest.
+
+"Clara can have the bread," Seraphine said, and she took the bread too.
+
+Felix stood with one tray and no bread, and he looked at the ceiling. Seraphine walked away with both, and her red coat went through the door.
+
+Rowan asked, "Should we help him?"
+
+"No," Eden said.
+
+"She will take his bread."
+
+"She will give it back."
+
+"How do you know?"
+
+"Because she does not like bread," Eden said, and he put the coat over his face. "She likes the game."
+
+Rowan stayed on the bench for another minute, and then he stood with a sigh. "Lunch. All five of us. I will find a table."
+
+"Good luck," Eden said, and he closed his eyes.
+
+"I do not need luck. I have a Lance." Rowan walked to the stairs, and then he came back. "The Lance has a practice slot. It is the one before dawn, on the east yard."
+
+"Before dawn," Eden said.
+
+"Before dawn," Rowan said, and he smiled as if he had won something. "I took it for us."
+
+"Take it back."
+
+"I cannot. I wrote our names in the book."
+
+Eden pulled the coat over his face. "Then you can carry me there."
+
+"I will," Rowan said. "I will carry you and the shields."
+
+He left, and the roof went quiet. Lysette closed her book and looked at the coat over Eden's face. "You are not sleeping."
+
+"I am resting my eyes."
+
+"You are hiding."
+
+"That too."
+
+She did not answer, and after a moment the stair door opened and closed again. Eden lay still until the bell rang for lunch.
+
+* * *
+
+The dining hall was a long room of stone pillars and steam, and the noise came from every table at once. The line went out through the door and along the corridor. Eden stood between a girl with a bandaged hand and a boy who counted his coins twice, and the hall smelled of soup and wet wool.
+
+When Eden reached the bread, someone bumped his elbow. The boy was thin, with the grey cap of a cinder pulled low, and his hands were red from cold. "Sorry," the boy said, and he pressed something into Eden's palm.
+
+It was a black card, small and stiff, with a pressed grey flower in one corner. The petals were dry and papery. Under the flower, one line was written in silver ink: "Remember Thornmere."
+
+Eden looked up. The boy was already at the door, and his grey cap went out into the corridor. Eden turned the card over. The back was blank.
+
+The flower had five petals, and each petal had a dark vein down the middle. Eden had seen the shape before, in a book about old crowns, but he could not remember which crown.
+
+He put the card in his coat pocket and took his tray to a table by the wall. The soup was hot, and the bread was the same dark bread from the morning. He ate half and left the rest.
+
+Across the hall, a man in a grey staff coat stood by the kitchen door. He was not eating, and he was not talking to anyone. He watched Eden put the card away, and then he took a small black notebook from his pocket. He wrote one line with a short pencil and closed the book.
+
+The man knew what the card meant, or he would not be watching.
+
+Rowan arrived with a tray and set it down across the table. "I found a table. It took three tries, because Clara wanted the window and Felix wanted the door."
+
+Eden asked, "Where are Clara and Felix now?"
+
+"Clara is getting water, and Felix is hiding from Seraphine." Rowan sat down. "What is that in your pocket?"
+
+"A card," Eden said, and he put his hand over his pocket.
+
+"Can I see it?"
+
+"No," Eden said, and he did not take his hand away.
+
+Rowan nodded, and he did not ask again. He asked once, loudly, and then he let it go.
+
+Clara came with a jug of water and sat beside Rowan. Felix came last, and he looked over his shoulder twice before he sat down. "She took my bread," he said.
+
+Eden asked, "Did she give it back?"
 
 "Yes."
 
-Lysette looked at him, and she did not argue. She knew he would not change his mind.
+"Then it worked."
 
-"Be careful," she said.
+"It is not funny."
 
-"I am always careful," Eden said.
+"I did not laugh."
 
-He left and went to the exchange, and it was afternoon. The clerk was at his desk, and he looked up when Eden entered.
+Felix looked at him for a moment, and then he smiled behind his hand. Clara poured water for everyone, and Rowan talked about the winter posting, and the table was loud, and Eden ate his apple.
 
-"Can I help you?" the clerk asked.
+Rowan put an apple beside Eden's tray. "You ate half the bread and none of the soup."
 
-"I want to ask you something," Eden said.
+"I ate the bread," Eden said.
 
-The clerk looked nervous. "What?"
+"That is half a lunch."
 
-"The Veil. Upstairs. Did you know she was there?"
+"It is half a lunch for a small man."
 
-The clerk's face went white. "I... I do not know what you mean."
+"You are not small."
 
-"You do. You let us pass. You smiled. You knew."
+"I am small today."
 
-The clerk stood. "I do not know anything. I am just a clerk. Please leave."
+Felix laughed into his water, and Clara passed Eden the salt.
 
-Eden looked at him, and the clerk was scared. Not guilty, and scared. There was a difference.
+* * *
 
-"Who are you scared of?" Eden asked.
+The Spell Grammar room was warm and narrow, with a blackboard at the front and tall windows on the left. Eden sat at the back with his notebook open, and the teacher talked about the three parts of a simple spell. The lesson was slow, and his eyes grew heavy, so he wrote one line at the top of the page: "Thornmere."
 
-The clerk did not answer, and he sat down and put his head in his hands.
+He took the black card from his coat and looked at the pressed flower. The petals had been grey when they were fresh, and the silver ink had not faded. He put the card in the notebook as a bookmark and closed the book on it.
 
-Eden left, and he stood outside the exchange. He thought about the clerk, and scared. Not guilty, and scared of someone else.
+The card was an offer, and an offer had a sender. Eden wrote one more line under the name: "Who sends cards?"
 
-The Ashen Crowns, and the teacher. Someone else.
+The teacher asked, "What are the three parts of a simple spell?"
 
-Eden would find out, and he always found out.
+Eden looked up from his notebook. "Word, will, and shape," he said.
 
-He went home and sat on his bed. He opened his notebook and wrote: "Veil spoke. Not normal. Book says Veils do not think. Archivist says new. Clerk scared. Not guilty. Scared of someone. Find who."
+The teacher waited for more, and Eden gave him nothing else.
 
-He closed the notebook and lay back, and he stared at the ceiling.
+A folded note landed on his desk. Eden opened it under the desk lid. "Friday. Bring the paper. Do not argue with the headmistress." The writing was small and straight. Eden wrote under it: "I do not argue." He folded the note and sent it back along the bench, and Lysette read it without turning her head.
 
-The crack in the corner looked like a river. It always looked like a river.
+At the end of the lesson, Eden walked out with the notebook under his arm. The black card made a thin dark line between the pages, and he could feel its corner against his side.
 
-He slept, and no dreams. 
+The corridor was full of students changing rooms, and the grey light from the windows made every coat look the same. The man in the grey staff coat stood by the window with his black notebook open in one hand, and he was writing with the other. He looked at Eden, then at the notebook under Eden's arm, and he wrote one more line.
+
+Eden kept walking. Behind him, the pencil stopped, and the man in the grey coat closed his book.

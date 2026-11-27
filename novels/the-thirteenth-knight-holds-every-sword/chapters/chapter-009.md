@@ -1,183 +1,217 @@
 # Chapter 9: The Debrief
 
-The headmistress's office was on the top floor. It had one window. The view was of the city. Solmarch. The capital. Towers and trams and smoke.
+The palace had a side door for people who did not want to be seen, and Eden used it on Thursday at ten in the morning. The tram had stopped two streets away because of a broken rail, so he walked the rest of the way with his collar up against the cold. The palace wall was grey and very long, and the gate guard read his pass twice before he let him through. A clerk in the gatehouse wrote his name in a book, and the pen scratched at the paper like a small animal.
 
-Dame Hildegard Ostwald sat behind her desk. She was old. Her eyes were half-closed. She looked like she was asleep. She was not.
+A footman took his coat and led him up a back stair to the third floor. The carpets up there were thin, and the lamps were turned low, and the air smelled of paper and cold tea. At the end of the hall a clock ticked behind a closed door, and the sound was louder than a clock should be.
 
-Eden stood in front of her. Lysette stood beside him. She had come, as she said she would.
+Ysolde sat behind the desk with a deck of cards in one hand. She was thirty-eight, and her hair was pinned back, and her face gave nothing away. The office was small and neat, with files on one wall and ledgers on a shelf beside the window. She turned a card over, read it, and set it down without a word. Eden had asked about the cards once, and she had said they were a habit, not a prophecy.
 
-"Eden Wren," Hildegard said. "Sixty-one absences. Unexcused."
+"Wren," she said. "Sit down."
 
-"Yes," Eden said.
+Eden sat in a chair that was hard and straight. "You asked for a report."
 
-"Do you have a reason?"
+"I ask for one every month." She opened a folder. "Most months you give me three lines, and last month you gave me one line and a drawing of a door."
 
-"I was on the roof," Eden said.
+"The door was important."
 
-Hildegard opened one eye. "The roof. Every time?"
+"The door was a rectangle." She took out a form. "This month I have questions for you."
 
-"Yes."
+She set the form on the desk and turned it so he could read it. The form had a number at the top, 13-B, and a row of boxes with small words beside each one. Most of the boxes had been filled in with a typewriter, and one had been filled in by hand.
 
-"Why?"
+"Form 13-B," she said. "One for each incident, and you had an incident on the fifth."
 
-"I think better there."
+"The construct."
 
-Hildegard closed the eye. She was quiet. Then she said, "You are the top student in your year. You skip class and still score highest. That is not a reason to skip. That is a reason to attend and score even higher."
+"Yes." She read the boxes in a flat voice: was the entity a Veil, was it controlled, did it speak, did it have a middle name. Eden answered no to every box, and Ysolde made a small mark beside each answer. "Then it was not a Veil," she said, and she pressed a stamp on the form.
 
-Eden said nothing.
+"There is no box for 'not technically,'" Eden said.
 
-"I will not remove your scholarship," Hildegard said. "But you will attend class. Every class. For the rest of the year. If you miss one more, I will remove it. Do you understand?"
+"You could write it in the margin."
 
-"Yes," Eden said.
+"I did." She turned the form around. In the margin, in small letters, she had written: "Not technically a Veil. A construct with a cut limiter, packed with grey dust." She signed under it and set it in a tray. "The grey office will hate this."
 
-"Good. You may go."
+"Good."
 
-Eden turned. Lysette did not move. "Dame Hildegard," she said. "May I speak?"
+Ysolde looked at him over the cards. "You are not funny, and you know it."
 
-Hildegard opened both eyes. "Speak."
+"That is why it is funny," Eden said.
 
-"Eden is not lazy. He is working. He just does not work in class."
+She took out a second folder, thinner than the first, and laid a typed list on the desk. "The exchange call list," she said. "Forty-one names, and most of them belong to families with students in the fifth year."
 
-"I know," Hildegard said. "I have known for two years. But the rules are the rules. He attends, or he loses his place. That is not my choice. That is the academy's choice."
+Eden took the list and read down the columns. Some names had a small cross beside them, and some had a line drawn under the surname. Most of the names meant nothing to him, and then his finger stopped on one he knew.
 
-Lysette nodded. They left.
+"Rowan Tallis," he said. "Someone circled his name."
 
-In the hall, Lysette said, "She knows."
+"Yes. The Veil circled the names it called from the switchboard room."
 
-"She knows I am not lazy," Eden said. "She does not know what I do."
+"There are two circles on him."
 
-"Does she need to?"
+"The second one is pencil, not ink." Ysolde turned a card over. "Someone else marked him after the Veil did."
+
+The first circle was black and round, and the second was a thin grey line that crossed the name at an angle. The pencil had pressed hard enough to leave a groove, and the groove caught the light from the desk lamp.
+
+"Who marked him?" Eden asked.
+
+"That is a question for the office, not for me." She wrote a line in her book. "I will ask them, and they will not tell me."
+
+"Rowan is an orphan," Eden said. "Why would the Crowns want him?"
+
+"You tell me."
+
+"I cannot."
+
+"Then watch him." Ysolde closed the folder. "That is advice, and you may ignore it, but I do not think you will."
+
+"I will watch him."
+
+"I know." She wrote another line. "Tell me about the dust."
+
+"It was packed inside the core before the plate cracked, and it kept the shape of the plate when the core broke."
+
+"How much dust was there?"
+
+"One jar, and the jar was one third empty."
+
+"Where is the jar now?"
+
+"In my coat," Eden said, and he put it on the desk.
+
+Ysolde opened the jar and looked inside without touching the dust. "Grey dust is expensive, and one jar fills three cores. Someone is building a store, and a store means a plan."
+
+"Or a sale."
+
+"That too." She closed the jar and pushed it back across the desk. "Keep it, and do not show it to the grey office."
+
+"The clerk in stores asked me about the core line."
+
+"Of course she did." Ysolde wrote the word "clerk" and underlined it. "Lysette Hollen filed a witness note about the exchange, and she wrote that you counted the windows before you went in. She thinks you were afraid."
+
+"I was counting the ways out."
+
+"That is not what she wrote." Ysolde looked at him. "Now tell me about Strent."
+
+Eden did not ask how she knew about that night. "Halvard Strent is the vice-headmaster, and he grades papers by moonlight because lamps give him headaches."
+
+"Is that all?"
+
+"He knows my name, and he hums an old song."
+
+"Does he hum because he is happy?"
 
 "No."
 
-They walked in silence. At the stairs, Lysette stopped. "Eden. The warrant. Who reported you?"
+"Then there is something to report." Ysolde put her pen down. "You stopped on the stair, and you stopped for one verse. That is a long time for a boy who counts everything."
 
-"I do not know yet."
+"The stair was cold."
 
-"I will find out," Lysette said.
+"The stair is always cold." She took a folder from under the desk and slid a sealed envelope inside it, and the envelope disappeared under her hand.
 
-"You do not have to."
+The envelope was old, and the paper had gone brown at the edges, and a red wax seal held it shut. Eden saw a small bird with a long tail pressed into the wax before the folder closed on it.
 
-"I know. I will do it anyway."
+"What is that?" he asked.
 
-She left. Eden watched her go. She walked fast. Her braid swung. He thought about what she would find. Maybe nothing. Maybe something.
+"Orders you have not earned."
 
-He went to his room. He sat on his bed. He opened his notebook. He wrote: "Hildegard knows I am not lazy. She does not know what I do. Warrant: who reported? Lysette will check."
+"Whose orders?"
 
-He closed the notebook. He lay back. He stared at the ceiling. The ceiling was white. There was a crack in the corner. It looked like a river on a map.
+"Mine," Ysolde said. "Do not ask me again."
 
-He thought about Hildegard. She was old. She was half-blind. But she was not stupid. She had let him keep his scholarship. That meant she wanted him to stay. That meant she needed him. Or she needed what he could do.
+A knock came at the door, and a footman put his head into the room. "The king asks for Wren."
 
-He did not know what she knew. He would find out. He always found out.
+Ysolde stood and smoothed her coat. "Do not lie to him, because he is better at it than you are."
 
-He slept. No dreams.
+She took a stamped copy of the form from the tray and put it in his hand. "Take this to the school office, and give it to the clerk with the ink on her cuffs. The school keeps its own incident file, and they will ask you for a form."
 
----
+"I have a form."
 
-The next morning, Eden went to the registrar's office again. The registrar was not there. A different clerk sat at the desk instead.
+"You have a copy, and the school wants the copy with the stamp." She closed his fingers over the paper. "Do not lose it, because the grey office charges a silver coin for a second copy."
 
-"Can I help you?" the clerk asked.
+* * *
 
-"I want to see the warrant file," Eden said.
+A guard opened the door to the inner hall, and the walk to the study took four minutes. Portraits of old kings hung on both walls, and their faces had gone dark with age. The king's study was warm, and a fire burned in a grate of black iron. A map of the southern border covered one wall, and a plate of small cakes stood on the table beside a pot of tea. King Theodric IV sat in a deep chair with a blanket over his knees, and a sword hung above the fire in an old plain scabbard.
 
-The clerk looked at him. "I cannot show you that."
+"Wren," he said. "Sit, and eat something."
 
-"I am the student named in the warrant. I have a right to see it."
+Eden sat and took a cake, and he held it in his hand without eating it. The king poured tea into a second cup and pushed it across the table, and his hand shook when he set the pot down.
 
-The clerk shook his head. "The registrar keeps those files. He is out today."
+"You are not eating," the king said.
 
-Eden looked at the desk. There were papers everywhere. Files. Folders. He could not find the warrant file among them.
+"I am holding it."
 
-"When will the registrar be back?" Eden asked.
+"That is not eating." The king leaned back. "Are you eating at school?"
 
-"Tomorrow," the clerk said.
+"Sometimes."
 
-Eden left. He walked to the roof garden. Lysette was there, sitting on the bench with her notebook.
+"Sometimes is not a number."
 
-"I went to the registrar," Eden said. "He was not there."
+"Twice a day."
 
-"What did you find?" Lysette asked.
+"That is a number, and a bad one." The king smiled. "Sit closer to the fire, and stop counting the cakes."
 
-"Nothing. The clerk would not show me the file."
+Eden put the cake on the plate. "I am fine."
 
-Lysette wrote in her notebook. "I will try. I am on the Discipline Committee. I have access to student records."
+"You are always fine." The king said it without any edge, and he looked into the fire. "I was always fine at your age. It was a useful thing to be."
 
-"Will that work?"
+The room was quiet except for the fire, and the king picked up his cup and put it down without drinking. "I heard about the warrant, and the headmistress is fair. She will not take a scholarship away for a roof."
 
-"It might. I will go this afternoon."
+"She might."
 
-Eden sat beside her. "Thank you, Lysette."
+"Then come to me, and I will write her a letter."
 
-"You do not have to thank me. I want to help."
+"No," Eden said.
 
-Eden looked at the city. The lamps were on. The trams were running. The city was normal. But Eden knew it was not normal. The clerk at the exchange. The Veil. The warrant. Something was happening.
+"Why not?"
 
-"Lysette," Eden said. "The Veil in the exchange. It spoke. That is not normal."
+"Because then it would be politics." Eden looked at the map on the wall. "A king who saves a student makes one friend and one enemy, and I do not want either."
 
-Lysette put down her notebook. "I know. I was there. It spoke. It answered you."
-
-"What did you see? With Witness?"
-
-Lysette was quiet. Then she said, "I saw the Veil. Before you killed it. It was standing at the switchboard. It was not doing anything. It was just standing there. Waiting."
-
-"Waiting for what?"
-
-"For us. For you. It knew you were coming."
-
-Eden looked at her. "How could it know?"
-
-"I do not know. But it knew. It was waiting. It did not try to run. It did not try to fight. It waited."
-
-Eden thought about this. A Veil that waited. A Veil that spoke. A Veil that was not normal.
-
-"Lysette," Eden said. "I need to check the exchange again. The clerk. I need to know what he knows."
-
-"I will come with you," Lysette said.
-
-"No. I go alone."
-
-"You always go alone."
+The king looked at him, and the firelight moved across his face. "You are a strange boy."
 
 "Yes."
 
-Lysette looked at him. She did not argue. She knew he would not change his mind.
+"That was not a compliment."
 
-"Be careful," she said.
+"I know."
 
-"I am always careful," Eden said.
+The king laughed once, and the laugh turned into a cough. He covered his mouth with a cloth, and when he put it down, his face looked older than it had at the start. "I hear you have a Lance now."
 
-He left and went to the exchange. It was afternoon. The clerk was at his desk. He looked up when Eden entered.
+"Lance Nine."
 
-"Can I help you?" the clerk asked.
+"Are they good people?"
 
-"I want to ask you something," Eden said.
+"Two of them are."
 
-The clerk looked nervous. "What?"
+The king laughed again, and this time the laugh did not turn into a cough. "That is a better answer than most officers give me." He looked at the fire for a moment, and then he looked back at Eden. "You have your mother's way of not answering a question."
 
-"The Veil. Upstairs. Did you know she was there?"
+Eden looked at the fire. "I did not know her well."
 
-The clerk's face went white. "I... I do not know what you mean."
+"No," the king said. "You did not."
 
-"You do. You let us pass. You smiled. You knew."
+A log broke in the grate, and the fire sent a small shower of sparks up the chimney. The king folded his hands and watched them fall.
 
-The clerk stood. "I do not know anything. I am just a clerk. Please leave."
+"Go to your debrief, Wren, and eat the cake. It is a good cake, and the cook will be sad if you leave it on the plate."
 
-Eden looked at him. The clerk was scared. Not guilty. Scared. There was a difference.
+Eden took the cake and put it in his coat. "She will never know."
 
-"Who are you scared of?" Eden asked.
+"She knows everything that happens in this palace," the king said, and he smiled again. "So do I."
 
-The clerk did not answer. He sat down and put his head in his hands.
+* * *
 
-Eden left. He stood outside the exchange. He thought about the clerk. Scared. Not guilty. Scared of someone else.
+Ysolde waited in the corridor with a thin file under her arm, and her shoes made no sound on the stone. The corridor was empty, and the lamps had been turned down for the morning.
 
-The Ashen Crowns. The teacher. Someone else.
+"New target," she said. "An Ember cell in the lower city near the dye-works. They move at night, and they have been buying grey dust in small amounts."
 
-Eden would find out. He always found out.
+Eden took the file. "How many are there?"
 
-He went home and sat on his bed. He opened his notebook and wrote: "Veil spoke. Not normal. Book says Veils do not think. Archivist says new. Clerk scared. Not guilty. Scared of someone. Find who."
+"Four, maybe five." She stopped at the side door. "They meet in the old dye house on the north end of the row. The building has one door and a broken window on the roof."
 
-He closed the notebook and lay back. He stared at the ceiling.
+"And the orders?"
 
-The crack in the corner looked like a river. It always looked like a river.
+"Watch them, and do not touch them." She looked at him. "And watch the boy with the light."
 
-He slept. No dreams.
+Eden looked up from the file. "Which boy?"
+
+"You will know him when you see him," Ysolde said, and she opened the door.
+
+She left, and the door closed behind her without a sound. Eden stood in the narrow corridor with the file in his hand and read the three pages inside it. The first page was a map of the lower city, and the second was a list of names he did not know. The third page was a drawing of a boy with a lamp in his hand, and the boy's face had been scratched out with a pen.
+
+Eden put the file in his coat and went out into the street. The tram was waiting at the corner, and the morning was grey and cold, and he did not open the file again until he was back at the academy. By then he had thought of the gold light in the chapel, and of the boy who had held it in both hands.

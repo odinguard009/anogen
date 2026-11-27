@@ -1,227 +1,189 @@
 # Chapter 8: The Workshop
 
-The workshop was under the academy. Stone walls. Low ceiling. Smell of oil and metal. Students came here to build things. Small things. Boxes. Gears. Lamps.
+The Undercroft workshop corridor was dark, and the lamps in their glass cages had no oil. Eden counted the doors on the left: one, two, three, and the third door stood open an inch. A line of grey dust lay across the threshold, thin as salt on a table.
 
-Eden came here to be alone. It was quiet. No one came at night.
+The stores book had given him one mark beside the core order: W3, written in the same careful hand as the signature. He had copied the mark on the back of his form, waited for the night bell, and come down alone. A lantern carried by two people made two shadows, and two shadows made a story.
 
-He sat at a bench. He had a small lamp. He turned it on. The light was yellow and warm. He opened a box. Inside was a small device. It was a clock. He had taken it apart. He was putting it back together.
+The workshop level was the lowest floor of the Undercroft, and the air was colder there than in the maze. Water ran behind the wall, and the sound came through the stone as a low, steady note. The doors on the left were numbered in chalk, and the numbers had been rubbed by hands. At the second door, a black thread crossed the frame at knee height, and the thread was pulled tight. Eden stepped over it and put his hand on the wall. The third door had no thread, and the dust under it had been swept to one side.
 
-He worked slowly. His hands were steady. Each gear went in its place. Each screw was tight. He did not rush. Rushing made mistakes.
+He put his hand on the door and listened. Inside the room, a drawer closed with a soft click, and then a man breathed out through his nose. Eden counted two breaths and pushed the door with one finger.
 
-The clock was old. It had been on the bench for weeks. No one had claimed it. Eden had found it in a drawer. It was broken. The mainspring was snapped. The gears were dirty. The face was cracked.
+The room was black. A high window let in a square of moonlight, and the light fell on a bench of tools. A man stood at the bench with his back to the door, and his hands were in a glass jar. The jar was full of grey dust, and the dust caught the moon like ash. The bench under the window was Sorn's old bench, and a brass plate on the front still carried his name. Someone had scratched the plate with a nail, but the letters were clear. A row of tools hung above it on hooks, and each tool had a clean handle and a dusty head.
 
-He cleaned the gears first, using a cloth and oil. The oil smelled like metal, and the gears shone when they were clean. He checked each one. Two were bent, so he straightened them with pliers, and they clicked when they were straight.
+Eden needed light. He took the dark lantern from his coat and opened the shutter one finger wide. The beam made a thin edge between the door and the dark, and he knocked twice on the edge with his knuckle. The shadow split, and a black Door opened in the frame.
 
-The mainspring was harder. He did not have a new one. He would have to fix the old one. He held it up to the lamp. It was thin. It was cracked in two places. He could solder it. But solder was weak. It would break again.
+The man turned. He was thin, with a scarf over his mouth and a staff coat torn at one sleeve. He saw the Door, and he ran for the passage at the back of the room.
 
-He thought about this. A broken clock. A broken spring. He could not fix it with what he had. He needed a new spring. Or a new clock.
+A tower shield came down across the passage. It was black and as tall as a man, and it hit the stone with a low note that Eden felt in his teeth. Gorrath stood behind it, and his shoulders filled the passage from wall to wall.
 
-He put the clock back in the box. He would come back to it. He always came back to things.
+"Move," the man said.
 
-He opened another box. Inside was a small motor. It was from a tram. A broken tram part. He had taken it from the scrap yard. The motor was small. It could power a lamp. Or a clock. Or a door.
+"No," Gorrath said. "I am a wall."
 
-He turned it over in his hands. The wires were frayed. The casing was cracked. But the core was good. The mana core. It was still warm. It still held mana.
+The man kicked the shield. The shield did not move, and the kick came back up his leg. He turned toward the bench, and Mirelle stepped out of the shadow beside the Door. She was small and pale, with a thin braid and a blade no wider than a needle.
 
-He put the motor back. He would fix it later. He had time. Not much. But some.
+"**[Sile]**," she said, and the word was almost a breath. The long thin blade went up through the small Door, through the torn sleeve, and into the door frame behind it. The man's arm stopped in the air. The blade made no sound, and the sleeve did not tear any further. It was one stroke, and it held him like a pin in cloth. The limit was the Door: without an opening, the blade had nowhere to pass.
 
-The door opened. Lysette. She carried a candle. The candle flame was small and bright.
+The man looked at the blade, then at Eden. "I was looking for my gloves."
 
-"You are here late," she said.
+"You are the night cleaner," Gorrath said.
 
-"I am working," Eden said.
+"Do I look like a cleaner?"
 
-"On what?"
+"The cleaners have keys," Gorrath said. "You have dust on your cuffs."
 
-"A clock. And a motor."
+The man looked at his cuffs, and his face changed. He put his hand behind his back, and Gorrath moved the shield an inch. The man stopped.
 
-Lysette sat across from him. She put the candle on the bench. She watched his hands.
+"I work here," the man said.
 
-"Why a clock?" she asked.
+"Workshop Three is closed," Gorrath said.
 
-"Because it is broken. I am fixing it."
+"It was open."
 
-"And the motor?"
+"The door was locked, and you came in through the window."
 
-"Because it might be useful."
+The man looked at the high window, and his mouth moved.
 
-Lysette watched. She did not speak for a long time. Then she said, "You fix things. But you do not fix yourself."
+"Gloves," Mirelle said.
 
-Eden did not look up. "What do you mean?"
+"In a dust jar," Gorrath said, and he shook his head.
 
-"You do not eat. You do not sleep. You do not talk. You fix clocks and Veils and constructs. But who fixes you?"
+Eden walked to the bench and took the jar. The glass was cold, and the grey dust inside had been packed into a block. A leather tag lay beside it, and the tag had one word on it: "Nine."
 
-Eden placed a gear. It clicked into place. "I do not need fixing."
+"Whose order?" Eden asked.
 
-"Everyone needs fixing," Lysette said.
+The man said nothing. His eyes went to the bench, and Eden followed them. Under the bench lay a paper slip, half under a box of screws. Eden picked it up and held it to the lantern.
 
-Eden looked at her. Her face was serious. Her blue-violet eyes were steady. She was not joking.
+It was a delivery slip for one core, and the price was written in the next column. At the bottom, a wide and careful hand had signed the name "Sorn." The ink was dark and new. The letters leaned to the left, and they matched the line in the stores book, down to the small hook at the end of the name. Eden had copied that line onto his form, and he took the form out now and held the two papers side by side. The hook turned the same way on both.
 
-"I am fine," Eden said.
+"Sorn is dead," Eden said.
 
-"You are not fine. You are cold. Your stomach is empty. Your hands are steady, but your eyes are tired."
+The man looked at the wall. "I do not know any Sorn."
 
-Eden put down the clock. He looked at his hands. They were steady. She was right about the rest.
+"You brought his slip."
 
-"I will eat more," he said.
+"I found it."
 
-"You will eat breakfast tomorrow," Lysette said.
+"Where?"
 
-"Yes."
+"In the box."
 
-"And you will sleep tonight."
+Eden turned the slip over. The back was clean, and the date was the first week of November. Three more slips lay in the drawer, and each one had the same signature and a different date. The last date was yesterday. Eden put the slips in his coat with the first one and closed the drawer.
 
-"Yes."
+He looked at Mirelle. "No kill."
 
-Lysette stood. She picked up her candle. "Good. I will check."
+Mirelle looked at him, and her pale eyes did not move. "Proof is in the jar."
 
-She left. The door closed. The workshop was quiet again.
+"The jar is dust. Dust is not a name." Eden put the jar in his coat beside the slip. "We take the dust and the paper. He goes."
 
-Eden sat in the dark. The lamp was still on. He looked at the clock. It was almost done. One more gear.
+"He will run to his people."
 
-He placed the gear. It clicked. The clock ticked. Slow and steady. Like a heart.
+"Then his people will know we have the dust." Eden looked at the man. "Tell them a black shield took it."
 
-He turned off the lamp. He left the workshop. He went to his room. He lay on his bed. He closed his eyes.
+The man's face changed at the words, and he stopped breathing for a moment. Gorrath pulled the shield back from the passage, and the man ran. Mirelle pulled the blade from the frame, and the torn sleeve stayed behind, pinned to the wood by nothing at all.
 
-This time, he dreamed. A woman stood at a door. She did not knock. She waited. She had no face. Only a smooth grey surface where a face should be.
+Gorrath watched the passage and did not move. "He will go to the east gate."
 
-Eden woke. His heart was fast. He breathed. The dream was not real. The clock was real. The Veil was real. The dream was not.
+"Let him," Eden said. "A scared man runs to the person who sent him."
 
-He lay still. He did not sleep again.
+"And then?"
 
----
+"Then we watch the east gate."
 
-In the morning, Eden went to the arms yard. He trained with his lance. He practiced the Latch. The shield catches a blade and locks it against the knocker ring.
+Mirelle folded the torn sleeve and put it in her coat.
 
-After training, he went to the dining hall. He sat with Felix. "Eaten today?" Felix asked.
+* * *
 
-"Technically," Eden said.
+The workshop had four benches and a rack of cores along the back wall. Eden lit the lantern and walked the room with the jar in his hand. The cores stood in a row like eggs in a tray, and each one had a small brass plate with a number. Most of the cores were smooth and grey, and their plates carried the numbers one through six. The seventh plate was missing, and the wood under it was lighter than the wood around it. Eden put his finger on the pale square and felt a rough edge where a screw had been pulled out. The plate on the third core had been scraped clean, and the brass showed through the scratches.
 
-Felix pushed a piece of bread across the table. Eden took it and ate. The bread was stale. He did not mind.
+He opened the drawer under the bench. Inside were three more jars of grey dust, and a roll of leather tags with the word "Nine" stamped on each one. Beside the jars lay a wooden box of screws and a fresh candle with no wick.
 
-"You look tired," Felix said.
+Gorrath filled the doorway. "The passage is clear. He went up the east stair."
 
-"I am fine," Eden said.
+"Did he see your face?"
 
-"You are always fine. That is the problem. You are never not fine, even when you are not fine."
+"He saw the shield."
 
-Eden ate the bread. He did not answer. Felix was right. But Eden did not know how to be not fine. He did not know how to say it. He did not know how to feel it.
+Mirelle came to the bench and looked at the jars. "He came back for the dust. Why?"
 
-He knew facts. He knew plans. He knew numbers. He did not know feelings. Feelings were for other people.
+"Because the dust is heavy to make and easy to carry," Eden said. "One jar fills three cores."
 
-After breakfast, Eden went to the library. He looked for books about Veils. He found one. It was old. The cover was torn. The title was "On the Nature of the Unborn."
+"How do you know?"
 
-He opened it. The pages were yellow. The writing was small. He read.
+"The jar is one third empty, and there are three cores on the rack." Eden put the jar down. "He took one scoop and left the rest."
 
-"Veils are not born. They are made. They are shaped from Hush matter. They are given a face. They are given a name. They are given a purpose. They are tools. They do not think. They do not feel. They follow orders."
-
-Eden read this again. "They do not think. They do not feel." But the Veil in the exchange had spoken. She had answered Eden's question. She had been aware.
-
-Either the book was wrong, or the Veil was not a normal Veil.
-
-Eden closed the book and put it back. He would check the archives. The archivist might know more.
-
-He went to the basement. The archivist was there, surrounded by books. He was small. He had a beard. He wore a coat with many pockets.
-
-"Archivist," Eden said. "I need to know about Veils. The book says they do not think. But the one I killed spoke."
-
-The archivist looked at him. "You killed a Veil?"
+Mirelle looked at the cores, and then at Eden. "You counted."
 
 "Yes."
 
-"And it spoke?"
+Gorrath leaned on his shield. "What now?"
 
-"Yes. It said, 'I do not have one.' When I asked for its middle name."
+"We go up. We do not run, and we do not talk." Eden closed the lantern. "And we do not kill a man for a jar."
 
-The archivist was quiet. He took off his glasses, cleaned them, and put them back on.
+"He had a knife," Mirelle said.
 
-"That is not normal," the archivist said. "Veils do not speak. They do not answer. They do not have words. If it spoke, it was not a normal Veil."
+"He had a knife and no proof," Eden said. "We are not the Crowns. He had a jar."
 
-"What was it?"
+Gorrath nodded, and his shield rang once as he set it down.
 
-"I do not know. But it was something else. Something new. Or something old. Something we have not seen before."
+They went up the east stair in the dark, and the stone steps were cold through his boots. At the top, a door opened into the old classroom corridor. A line of moonlight lay across the floor, and a man sat in a chair by the window with a stack of papers on his knee.
 
-Eden thought about this. A Veil that spoke. A Veil that was aware. A Veil that was not normal.
+It was the vice-headmaster. Halvard Strent sat in a wooden chair with a blanket over his knees, and a cup of tea stood on the floor beside him. The cup had no steam. A plate of biscuits sat on the chair arm, and half of one biscuit was gone. He wore a grey coat with a pen in the pocket, and his hair was thin and white. He held a paper up to the moon and made a small mark with his pen.
 
-He would find out. He always found out.
+"Wren," Strent said, and he looked over the paper. "You are up late."
 
-He left the basement and went to the roof garden. Lysette was there, writing in her notebook. She looked up.
+"I was working," Eden said.
 
-"Eden," she said.
+"So was I." Strent held up the stack. "Essays on the Third Tenet. They are not good, but they are honest." He put the paper down and rubbed his eyes. "Lamps give me headaches, so I grade by the moon. It is slower, but the moon does not argue."
 
-"Lysette."
+"You should sleep," Eden said.
 
-She looked at him. Her blue-violet eyes were steady. "You are worried."
+"So should you. You should try the moon," Strent said. "The moon is a patient teacher, and it never asks for a lamp."
 
-"I am not worried. I am thinking."
+"I like lamps," Eden said.
 
-"About what?"
+"Most people do." Strent held out the plate. "Biscuit?"
 
-"The Veil. It spoke. That is not normal."
+Eden took one and put it in his coat.
 
-Lysette put down her notebook. "I know. I was there. It spoke. It answered you."
+"I heard about the warrant," Strent said. "Fourteen absences is a lot for a student who reads every book in the library."
 
-"What did you see? With Witness?"
+"I read the ones I need."
 
-Lysette was quiet. Then she said, "I saw the Veil. Before you killed it. It was standing at the switchboard. It was not doing anything. It was just standing there. Waiting."
+"Still." Strent put his pen down. "I can speak for you on Friday. The headmistress listens to me more than she admits."
 
-"Waiting for what?"
+"No," Eden said.
 
-"For us. For you. It knew you were coming."
+"You do not know what I would say."
 
-Eden looked at her. "How could it know?"
+"I know what the Committee would hear. A vice-headmaster spoke for me, so the case is important. Then they would look at me, and I do not want to be looked at."
 
-"I do not know. But it knew. It was waiting. It did not try to run. It did not try to fight. It waited."
+Strent looked at him for a moment. "That is a good answer, and a sad one."
 
-Eden thought about this. A Veil that waited. A Veil that spoke. A Veil that was not normal.
+Strent smiled, and the smile was kind and tired. "I heard the workshop door. The hinges are old, and the third door has a voice of its own. Did you find what you wanted?"
 
-"Lysette," Eden said. "I need to check the exchange again. The clerk. I need to know what he knows."
+"A jar of dust."
 
-"I will come with you," Lysette said.
+"That is not a thing I would want." Strent picked up his pen again, and he began to hum. The tune was low and slow, and it had four notes that went down and then one that went up.
 
-"No. I go alone."
+Eden stopped with one foot on the next stair. The tune was from a kitchen with a low fire, and a woman had sung it while she turned the pages of a book. Eden had been small, and the floor had been cold, and the song had stopped when the door opened. He had not heard it since. His hand closed on the rail, and the cold of the iron came through his glove. He counted the notes: one, two, three, four, and the one that went up. His mouth was dry.
 
-"You always go alone."
+Strent stopped humming. "You know that song."
 
-"Yes."
+"No," Eden said.
 
-Lysette looked at him. She did not argue. She knew he would not change his mind.
+"You stopped."
 
-"Be careful," she said.
+"I was listening to the stair."
 
-"I am always careful," Eden said.
+"To the stair." Strent looked at the dark steps, and then at Eden. "Wren. A Thornmere name. Your mother must have sung that to you too."
 
-He left and went to the exchange. It was afternoon. The clerk was at his desk. He looked up when Eden entered.
+The corridor was quiet. Eden did not move his foot. "I never told anyone she sang."
 
-"Can I help you?" the clerk asked.
+Strent's pen stopped above the paper. For a moment his face was still, and then he smiled again. "Then it is a lucky guess," he said, and he wrote another mark. "You should go to bed, Wren. Friday will come whether you sleep or not."
 
-"I want to ask you something," Eden said.
+"It always does."
 
-The clerk looked nervous. "What?"
+"That is the only thing it does on time," Strent said, and he smiled at the paper. "Good night, Wren."
 
-"The Veil. Upstairs. Did you know she was there?"
-
-The clerk's face went white. "I... I do not know what you mean."
-
-"You do. You let us pass. You smiled. You knew."
-
-The clerk stood. "I do not know anything. I am just a clerk. Please leave."
-
-Eden looked at him. The clerk was scared. Not guilty. Scared. There was a difference.
-
-"Who are you scared of?" Eden asked.
-
-The clerk did not answer. He sat down and put his head in his hands.
-
-Eden left. He stood outside the exchange. He thought about the clerk. Scared. Not guilty. Scared of someone else.
-
-The Ashen Crowns. The teacher. Someone else.
-
-Eden would find out. He always found out.
-
-He went home and sat on his bed. He opened his notebook and wrote: "Veil spoke. Not normal. Book says Veils do not think. Archivist says new. Clerk scared. Not guilty. Scared of someone. Find who."
-
-He closed the notebook and lay back. He stared at the ceiling.
-
-The crack in the corner looked like a river. It always looked like a river.
-
-He slept. No dreams.
+Eden went up the stair. Behind him, the humming began again, low and slow, and it followed him to the top of the steps.

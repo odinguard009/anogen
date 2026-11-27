@@ -6,7 +6,7 @@ Elysmar is alive. Its mind is Aiwa, the mother of every living thing on it, incl
 
 ## How it fits existing canon (no contradiction; a deeper layer)
 - The Ten (gods.md) believe they made worlds "before worlds". True: Aiwa dreamed them first, her ten first names. They went out and made other worlds on her pattern, and forgot where they came from.
-- Myrrhen, the Wellmother, is her eldest daughter. She came home and dissolved into her mother as mana. "Mana is Myrrhen's body" (T2-28, ch 495) stays true: Myrrhen is the current Aiwa's life runs through.
+- Myrrhen, the Wellmother, is her eldest daughter. She came home and dissolved into her mother as mana. "Mana is Myrrhen's body" stays true: Myrrhen is the current Aiwa's life runs through.
 - The Refusal is Aiwa's immune reaction: it unmakes what she did not birth (Valkyries, Void-born, Hushborn). Myrrhen softens it for those she loves; that is why she can accept Eden at ch 795.
 - The Hush is Kaurveth's body pushing up through her Wound at the south pole. The Pale is her dead flesh around the wound.
 - The Emperor's "nothing" wraps Eden. Aiwa cannot read nothing; she can read its shape. The reading is live: at his Assessment he stood as Eden Wren with only a lance and a sword, so she read "Black Lancer, White Swordsman". When he acts with the Door she names what wraps him: Void Heir.
@@ -17,10 +17,13 @@ Elysmar is alive. Its mind is Aiwa, the mother of every living thing on it, incl
 ## Who knows
 Nobody. The Dragon suspects (it kept the Covenant's records). The Tutor knows and will not say.
 
-## Reveal rungs (big; details in reveal-ladder.md)
+## Reveal rungs (REVISED: mother truth delayed to ~ch 425, 50% of total story)
 - HINT (already on page): ch 1 grass green out of season where he sleeps; ch 3 the Bell's tones and the faint fourth; the Kindling.
 - HINT (planned, arc 1): ch 27 the first reading on the page; ch 31 a Wall veteran: "The ground's cold here. Like she turned her back."; ch 41 in the Mawgate tunnel Eden's reading goes blank for a heartbeat; ch 47 Felix: "Something said my name back."; ch 50 dying Harrow: "She stopped reading me."
 - DOUBT: ch 230 the Tutor: "Who do you think writes your name in your head?"
-- EVIDENCE: ch 495 Myrrhen through Clara: "I am not the oldest. I am her eldest."
+- EVIDENCE: ch 425 (Arc 9) Myrrhen through Clara: "I am not the oldest. I am her eldest." (mother truth revealed here, 50% of total story)
 - EVIDENCE: ch 601 Lament's fall is the Wound's alarm; the whole world's readings flicker at once.
 - CONFIRM: ch 770 Aiwa speaks to Eden inside the Wound (before the god of Want, 790).
+
+## Note
+Remove any early mother-truth scenes (old ch 175). Hints only before ch 425.

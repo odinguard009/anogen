@@ -8,7 +8,7 @@ He went to the cistern. The water was still dark. Still cold. He did not touch i
 
 He went to the gate. The wards glowed. Blue. He touched them. They were strong.
 
-He went to the Pale. He stood on the Wall and looked south. The Pale was grey. Flat. Silent. But tonight, there was something else. Movement. Far away. In the grey.
+He went to the Pale. He stood on the Wall and looked south. The Pale was there. Grey. Flat. Silent. But tonight, there was something else. Movement. Far away. In the grey.
 
 Eden watched. He used his telescope. He saw shapes. Moving. Slow. They were not human. They were Hushborn. Small ones. Crawling. On the ground. Moving toward the Wall.
 

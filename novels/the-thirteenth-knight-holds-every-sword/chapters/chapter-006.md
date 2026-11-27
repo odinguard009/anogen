@@ -1,10 +1,10 @@
 # Chapter 6: Lance Nine
 
-The arms yard was empty after class. The sun was going down, and the stone walls turned orange in the fading light. The air was cold. Eden stayed.
+The arms yard was empty after class. The sun was going down, and the stone walls turned orange in the fading light, while the air grew cold. Eden stayed.
 
-He held his lance and moved it slowly: left, right, up, down. Each move was small. He did not swing. He placed the lance where he wanted it, and the tip touched the same spot in the air every time. He was checking his aim. He did this every day, after class, when the yard was empty and no one watched.
+He held his lance and moved it slowly: left, right, up, down. Each move was small, and he did not swing. He placed the lance where he wanted it, and the tip touched the same spot in the air every time. He was checking his aim, which he did every day after class, when the yard was empty and no one watched.
 
-A shadow moved at the gate. Vesk was small and thin, with bright eyes like lamps. He wore a dark coat with holes in it. He leaned on the wall and watched, eating an apple and chewing slowly.
+A shadow moved at the gate. Vesk was small and thin, with bright eyes like lamps, and he wore a dark coat with holes in it. He leaned on the wall and watched, eating an apple and chewing slowly.
 
 "You are slow," Vesk said.
 
@@ -22,19 +22,19 @@ Vesk walked closer. His steps were quiet, and he moved like a cat. "I heard abou
 
 "She held the door," Eden said. "She held it for ten minutes. Without her, I could not have done it."
 
-Vesk smiled. It was not a kind smile. It was sharp. "I know. I was on the roof. I saw."
+Vesk smiled. It was not a kind smile but a sharp one. "I know. I was on the roof. I saw."
 
 Eden stopped and looked at Vesk. "You were there?"
 
 "I am always there," Vesk said. "That is my job. I see. I hear. I tell you. You act."
 
-Eden put down the lance and sat on a stone bench. The stone was cold. "Then tell me. What else did you see?"
+Eden put down the lance and sat on a stone bench, which was cold. "Then tell me. What else did you see?"
 
 Vesk's eyes narrowed. "The clerk at the desk. He was not asleep. He was watching you. He let you pass on purpose."
 
 Eden looked at the ground. He thought about this. "Why?"
 
-"I do not know. But he smiled when you left. A small smile. Not a happy smile. A knowing smile, like he knew what you would find upstairs."
+"I do not know. But he smiled when you left. A small smile, not a happy smile. A knowing smile, like he knew what you would find upstairs."
 
 Eden picked up the lance again and held it across his knees. "A clerk who lets a Veil hunter pass. A clerk who smiles. That means he is not just a clerk."
 
@@ -48,11 +48,9 @@ Vesk shook his head. "No. I watched him for three days. He eats. He sleeps. He g
 
 "Not like this. The children cry. The wife argues. It is real. I know real. I watch people for a living."
 
-Eden thought about this. A real family. A real clerk. But a clerk who let them pass. A clerk who smiled.
+Eden thought about this: a real family, a real clerk, but a clerk who let them pass and smiled. "Thank you," Eden said.
 
-"Thank you," Eden said.
-
-Vesk shrugged. "Do not thank me. Pay me. I need a new coat. This one has holes. See?" He held up his sleeve. There was a hole the size of a coin.
+Vesk shrugged. "Do not thank me. Pay me. I need a new coat. This one has holes. See?" He held up his sleeve, where there was a hole the size of a coin.
 
 Eden reached into his pocket and gave Vesk a silver coin. Vesk took it, bit it, and put it in his pocket.
 
@@ -62,13 +60,11 @@ Eden looked at his coat. It was grey, not black. "I do not have a black coat," h
 
 "You will," Vesk said. "Soon."
 
-Vesk finished his apple and threw the core over the wall. He moved like a shadow. In three steps he was at the gate. In five steps he was gone.
+Vesk finished his apple and threw the core over the wall. He moved like a shadow. In three steps he was at the gate, and in five steps he was gone.
 
 Eden stood alone. The yard was dark now. The lamps were on. He picked up his lance and left.
 
-He walked to the dormitory. The hall was empty. His steps were quiet. He went to his room and sat on his bed. He opened his notebook.
-
-He wrote: "Clerk. Exchange. Smiled. Knows. Not a Veil. Has family. Real. But he let us pass. Why? Check."
+He walked to the dormitory. The hall was empty. His steps were quiet. He went to his room, sat on his bed, and opened his notebook. Inside he wrote: "Clerk. Exchange. Smiled. Knows. Not a Veil. Has family. Real. But he let us pass. Why? Check."
 
 He closed the notebook and lay back. He thought about the clerk: a man with a family, a man who smiled, a man who let a Veil hunter walk into a trap.
 
@@ -86,7 +82,7 @@ Eden closed his eyes. He did not sleep. He thought about the clerk. He thought a
 
 He thought about middle names. In this world, a middle name was a soul. If you had no middle name, you had no soul. If you had no soul, you were not a person.
 
-The Veil was not a person. The Veil was a thing. A thing that wore a face. A thing that controlled wires. A thing that lived in the exchange.
+The Veil was not a person. The Veil was a thing that wore a face, that controlled wires, that lived in the exchange.
 
 Eden had killed it. He had pressed his palm to its chest. Mana flowed. The Veil crumbled, like paper, like dust.
 
@@ -142,7 +138,7 @@ He opened it. The pages were yellow. The writing was small. He read.
 
 "Veils are not born. They are made. They are shaped from Hush matter. They are given a face. They are given a name. They are given a purpose. They are tools. They do not think. They do not feel. They follow orders."
 
-Eden read this again. "They do not think. They do not feel." But the Veil in the exchange had spoken. She had answered his question. She had been aware.
+Eden read this again. "They do not think. They do not feel." But the Veil in the exchange had spoken. She had answered Eden's question. She had been aware.
 
 Either the book was wrong, or the Veil was not a normal Veil.
 
@@ -254,7 +250,9 @@ The crack in the corner looked like a river. It always looked like a river.
 
 He slept. No dreams.
 `;
-// push to GitHub via git (write to local clone then push)
+// copy to local clone
 const fs = require('fs');
 fs.writeFileSync('C:/Users/guardino.fahmi.EMTEKGROUP/AppData/Local/Temp/opencode/anogen-build/novels/the-thirteenth-knight-holds-every-sword/chapters/chapter-006.md', content);
-return "written locally";
+// also save locally
+fs.writeFileSync('C:/Users/guardino.fahmi.EMTEKGROUP/chapter-006-final.md', content);
+return "written";

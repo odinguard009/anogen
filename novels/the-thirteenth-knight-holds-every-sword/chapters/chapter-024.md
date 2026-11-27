@@ -97,3 +97,41 @@ But the city was not safe. The Veils were in the walls. The lamps were their eye
 Eden watched back. He always watched back.
 
 He slept on the roof. No dreams.
+
+---
+
+The next morning, Eden went to the kitchen. Maren was there. She was chopping vegetables. Thack. Thack. Thack.
+
+"Good morning," Eden said.
+
+Maren looked at him. "You are early."
+
+"I could not sleep."
+
+Maren nodded. She put a bowl of soup in front of him. "Eat."
+
+Eden ate. The soup was warm. It was good.
+
+"Thank you, Maren," Eden said.
+
+Maren went back to chopping. "You are welcome. Come back tomorrow."
+
+Eden left. He went to the roof garden. He sat on the bench. He thought about the Ball. He thought about Lysette. He thought about the warmth in his chest.
+
+He did not name it. He did not need to.
+
+He thought about Friday. The hearing. Hildegard. The registrar. The teacher.
+
+He thought about the clerk. The clerk who was scared. The clerk who had a family. The clerk who let them pass.
+
+He thought about the Ashen Crowns. The teacher. The dye-works. The lamp houses.
+
+He had a lot to do. He always had a lot to do.
+
+He opened his notebook. He wrote: "Ball done. Danced with Lysette. Maren gave soup. Friday hearing. Clerk scared. Ashen Crowns active."
+
+He closed the notebook. He looked at the city. The lamps glowed. The trams ran. The city was normal.
+
+But the city was not safe. Eden knew that. He would make it safe. Somehow. Someday.
+
+He would find a way. He always found a way.

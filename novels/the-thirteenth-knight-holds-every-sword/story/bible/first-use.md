@@ -93,6 +93,15 @@ Unbind (none on page; first: Lysette's Auda ch 141, Duke's Durn ch 193, Valerius
 
 Note: Witness first use moved from planned ch 13 to ch 11 because the outline's graded run calls for it; ch 13 is a later use with a new detail.
 
+## Arc 1 winter rotation, on the page (ch 31-34)
+
+- Aura (as a knight's will: air thick near the raised arm, snow flattening, people stepping back) | Wall sergeant | ch 31 | yes (3 sentences) | no limit shown yet
+- Mana-lock musket (long gun with a glass tube holding a small spell, brass ring at the breech, mana line; works in rain; can misfire) | Wall sergeant | ch 31 | yes (4 sentences) | yes (the glass tube cracked on the second shot)
+- Ward-plate (broad dented steel plate worn over the coat; a ball slides off when aura is raised) | Wall sergeant | ch 31 | yes (3 sentences) | yes (heavy; useless if the wearer cannot move in it)
+- [Tavu] (pale threads of force from one hand, binding a climbing Husk's leg to a brass bracket with one knot) | Okoru | ch 32 | yes (3 sentences) | yes (needs touch or a near thing; one arm, one knot at a time)
+- Door in a thing's own shadow (knock on the hard shadow edge a hanging thing casts; the thing goes with its shadow; no splash, no crash) | Eden | ch 24 (chandelier), ch 34 (Choir node) | yes (2-3 sentences) | yes (needs a hard edge of light and dark)
+- [Dawnbreak] (gold light from both palms filling a space in one breath, bright as noon, hard edges, leaves cold and shaking) | Rowan | ch 34 | yes (4 sentences) | yes (one breath, then cold; Okoru warns against practice)
+
 - **[Crest Harness]** (school-issue drill armor: dark grey coat, steel plates at chest and shoulders, brass buckles, white crest on the left breast, plain steel helm with an eye bar) | Lance Nine, school issue | ch 11 | yes (3 sentences; buckles, helm last, first breath, first step) | yes (plates hang a half beat behind the body; weight in the knees)
 - **[Drill Lance]** (ash shaft, blunted iron cap, old leather grip; paired with a plain oak drill shield, iron rim, wide forearm strap) | Eden, school issue | ch 11 | yes (2 sentences) | yes (blunted cap; the shield weighs more than the lance)
 

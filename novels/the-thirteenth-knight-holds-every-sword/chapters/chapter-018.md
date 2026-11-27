@@ -22,54 +22,42 @@ He sat on his bed. He read the papers again. Three lamp houses. Three switches. 
 
 He needed help. He did not want help. But he needed it.
 
-He went to Vesk. Vesk was on the roof of a building near the exchange. He was eating an apple.
+He went to Vesk. Vesk was on his usual roof. Eating an apple.
 
-"I need you," Eden said.
+"I need more," Eden said.
 
-Vesk looked at him. "Pay me first."
+"You always need more," Vesk said.
 
-Eden gave him a coin. Vesk took it. "What do you need?"
+"The Ashen Crowns. Who is in charge? Here. In the city."
 
-"I need you to watch two lamp houses. Lamp House 3 and Lamp House 9. Friday. 8 PM. If anyone comes to turn off the switch, stop them."
+Vesk looked at him. His bright eyes narrowed. "You do not want to know."
 
-"How?" Vesk asked.
+"I do."
 
-"Knife. Rope. Whatever you need. Do not kill. Just stop."
+Vesk was quiet. He ate his apple. He looked at the city. Then he said, "A man named Mott. He runs the cell here. He is in the exchange. Second floor. Behind a door that does not open."
 
-Vesk nodded. "And you?"
+"How do you know?"
 
-"I will take Lamp House 7."
+"I watch. I listen. I see."
 
-"Alone?"
+"Can you get me in?"
 
-"Lysette will be with me."
+Vesk smiled. "For a price."
 
-Vesk smiled. "The girl with the notebook."
+Eden gave him a coin. Vesk took it. "Tomorrow night. I will leave the back door open. One minute. That is all you get."
 
-"Yes."
+"Thank you," Eden said.
 
-Vesk finished his apple. "Okay. I will be there."
+Vesk shrugged. "Do not thank me. I am a tool."
 
-Eden left. He went to Lysette. He told her the plan. She listened. She wrote in her notebook.
+"I know," Eden said. "Tools are useful."
 
-"Three lamp houses," she said. "Three switches."
+Vesk finished his apple. Eden left.
 
-"Yes."
+He went home. He sat on his bed. He planned. Tomorrow night. The exchange. Mott. One minute.
 
-"I will use Witness at Lamp House 7. You stop the clerk. Vesk stops the others."
+He would need to be fast. He would need to be quiet. He would need to see everything in one minute.
 
-"What if Vesk fails?"
+He could do it. He always did.
 
-"He will not fail," Eden said. "He is good at watching."
-
-Lysette looked at him. "You trust him?"
-
-"I trust him to do what I pay him to do."
-
-Lysette nodded. She did not argue.
-
-Eden went to his room. He sat on his bed. He opened his notebook. He wrote: "Friday. 3 lamp houses. Vesk: 3 and 9. Me + Lysette: 7. Stop the switches."
-
-He closed the notebook. He lay back. He thought about Friday. Three places. Three switches. Three chances to fail.
-
-He would not fail. He planned. He always planned.
+He slept. No dreams.

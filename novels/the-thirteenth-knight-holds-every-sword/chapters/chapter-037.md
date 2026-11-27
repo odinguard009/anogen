@@ -1,71 +1,99 @@
 # Chapter 37: The File
 
-The file was in the archivist's office. It was old. Dusty. The cover said: "Thirteenth Vigil. Classified."
+The courier came at noon with a grey envelope and a form, and he held them out to Eden in the yard beside the stores hut. "From the palace," he said. "Signed by the Seal."
 
-Eden opened it. The pages were yellow. The writing was old. He read.
+Eden took the envelope and put the form in his coat. He opened the envelope with a knife because the cold had made his fingers stiff. Inside was a thin file with a paper clip at the corner. The label on the front had two words typed on it: PR 110.
 
-The file was about the Thirteenth Vigil. The secret order. The order that hunted Veils. The order that Eden was part of.
+He stood still for a moment with the file in his hand, and the courier shifted his weight. The man said a receipt was needed, and Eden wrote his name on the form and gave it back.
 
-The file listed members. Past members. Names. Dates. Deaths. Most of them were dead. Killed by Veils. Killed by the Ashen Crowns. Killed by the Hush.
+"Is that everything?" the courier asked.
 
-The file also listed methods. How to kill a Veil. How to find a Veil. How to spot a shadow that does not breathe.
+"Yes."
 
-Eden read the methods. He already knew them. He had learned them from the Tutor. But seeing them in writing was different. It made them real.
+"Then I will be going." The courier did not go at once. "They said you would ask for it sooner or later."
 
-The file also had a map. The map showed the city. It showed the lamp houses. All twelve. It showed the exchange. It showed the dye-works. It showed the Records Office.
+"Who said?"
 
-The map was old. But the locations were the same. The Veils had been using the same places for years. Decades. Maybe longer.
+"The woman with the cards." The courier put his clipboard under his arm. "She said to give you this when you asked, and not before, and she said I was not to watch you read it." He looked at the file in Eden's hand. "That is what she said, so I will not watch."
 
-Eden took the file. He did not ask the archivist. He just took it. He would return it later.
+Rowan came across the yard and asked who the courier was. And Eden said he was from the palace. And Rowan asked what he had brought. And Eden said a file, and Rowan said that a file from the palace was either a promotion or a problem. Eden said it was a problem. And Rowan said that he had known that from the man's face. That the men with clipboards never brought good news to a wall in winter. Felix came past and looked at the grey envelope. He said nothing, and he did not ask to see the label.
 
-He went to his room. He read the file again. He wrote in his notebook: "Thirteenth Vigil file. Members dead. Methods known. Map of lamp houses and contacts. Veils use same places for decades."
+He walked away toward the gate, and Eden stood in the yard with the file and did not open it.
 
-He closed the notebook. He thought about the Thirteenth Vigil. It was a small order. Secret. Most people did not know it existed. The ordinary people had never seen the black armor.
+Lysette Hollen came out of the stores hut with a tin in her hand and saw him standing there. She saw the grey envelope, and she did not ask what it was. She set the tin down on the step and looked at the file. Then at the sky, and then at the gate where the courier had gone.
 
-Eden was the only active member. The others were dead. He was alone.
+"It came," she said.
 
-He did not mind. He worked alone. He had always worked alone. But sometimes, he wished he had someone to talk to. Someone who understood.
+"Yes."
 
-Lysette understood. A little. She knew about Veils. She knew about the lamps. She did not know about the Thirteenth Vigil. She did not know about the Tutor. She did not know about the Hush in the veins.
+"Are you going to read it here?"
 
-But she knew enough. For now.
+"No."
 
-Eden closed the file. He put it under his bed. He lay back. He stared at the ceiling.
+"Then take it somewhere else." Her voice was quiet, and it was not the voice she used on the round sheet. "I am going to be on the east stretch until the bell, and I do not want to be the person standing next to you when you read that."
 
-The crack in the corner looked like a river. It always looked like a river.
+They stood with the tin between them on the step. And Lysette said that the east stretch had a loose rail and that she was going to report it. And Eden said that a loose rail was a real thing and a good thing to report. She said she was going to write it down, because that was what she did when a man walked past her with a grey envelope and did not stop. Then she picked up the tin and went toward the stair. She did not turn around.
 
-He slept. No dreams.
+Eden put the file inside his coat and walked up to the wall. And he went past the third lamp and the fourth and stopped at a place where the parapet made a wind shadow behind a stack of stone. He opened the file with his gloves on and read the first page twice. Because the first reading did not give him anything he could hold.
 
----
+The file was a confirm. It named a Veil in the garrison at PR 110, the date, hour and place. The target had been a Justiciar traitor called Corentin Hollen, and the Thirteenth Vigil had ended him. At the bottom of the page was a mark in a small hand Eden knew because it was his own: a short line crossed by a shorter one, and the word "grey" in pencil.
 
-The next morning, Eden went to the roof garden. He sat on the bench. He thought about the file. The members. The methods. The map.
+He had marked it. He never marked a confirm without seeing the grey. And the rule was older than his time on the Wall. And he had kept it every time. And here was his own mark on his own page with the date beside it. He looked at the mark for a long time. And then he turned the file over. Because there was a fact on the other side that he wanted to find.
 
-He thought about the Thirteenth Vigil. It was a secret order. Most people did not know it existed. The ordinary people had never seen the black armor.
+The facts were there. The hour was right. The place was right. The dust report was right. The name was wrong in a way he could not explain. Because the name on the page was a man and the face in his mind was a shape with a hook in it. And the hook kept turning into the corner of a uniform when he tried to hold it. He had tried to recall that face for six years. And he had written once that he could not. And he had burned the page he wrote it on.
 
-Eden was the only active member. He hunted Veils. He protected the academy. He protected the city. He did it alone.
+He turned to the second page. Because a confirm had a witness column and he wanted to see whose name was in it. The column was empty. There was no witness and no second mark and no note about a face. A clerk whose name he did not know had signed the page. The third page had a list of the dust recovered from the scene. And the fourth had a bill for a uniform that had been destroyed. And the bill had been paid by the crown and dated three weeks after the event.
 
-But he was not alone. He had Lysette. He had Felix. He had Vesk. They did not know about the Thirteenth Vigil. But they helped him. In their own way.
+He shut the file and put it back in his coat. The wind came over the parapet and moved the loose stone dust. And he stood in the wind shadow with his hand on the file and his breath held. And he let the breath go when he had counted ten.
 
-Lysette watched. Felix was loyal. Vesk saw things. They were his tools. His friends. His circle.
+Felix found him there. He came up the stair with his bow case on his shoulder and stopped three paces away. And he did not ask to see the file.
 
-He needed to build the circle. He needed more people. He needed allies.
+"You got it," he said.
 
-He thought about Rowan. Rowan was kind. Rowan was strong. Rowan could help. But Rowan did not know about Veils. Rowan did not know about the Thirteenth Vigil. Rowan did not know about the Hush in the veins.
+"Yes."
 
-Eden would tell him. Someday. Not now. Not yet.
+"Do you want to talk about it?"
 
-He thought about Valerius. Valerius was smart. Valerius was powerful. Valerius could help. But Valerius was suspicious. Valerius was watching Eden. Valerius might be an enemy.
+"No."
 
-Eden would watch Valerius. Valerius would watch Eden. They would both pretend. That was how it worked.
+"Then I will stand here and not talk about it." Felix looked out at the dark land beyond the wall and then at the pale sky, and he said, "You read it twice, and the second time you held your breath. You do that when a thing does not fit your numbers."
 
-He thought about Seraphine. Seraphine was playful. Seraphine was diplomatic. Seraphine could help. But Seraphine was a princess. She had her own problems.
+"I do not hold my breath."
 
-Eden would not tell her. Not yet.
+"You did at the cistern, and you did in the yard with the mirror. You hold it when the register changes." Felix turned his head. "I cannot see the register, and I have never asked you what it says, and you have never told me. That is all right. I am only telling you that I notice."
 
-He looked at the city. The lamps glowed. The trams ran. The city was normal.
+"Noticed what?"
 
-But the city was not safe. Eden knew that. He would make it safe. Somehow. Someday.
+"You fight like a man who needs no help and never asks for any, and you read a file twice as if the second reading could change a mark you made six years ago." Felix looked at him and did not blink. "If you ever want help, you know where I am."
 
-He would find a way. He always found a way.
+Eden said nothing, and Felix stood beside him for a while. Then he said one more thing in the flat way he said facts about bows and roads. "I do not think you did anything wrong," he said. "I think you are afraid that you did, and that is a different thing, and it is the first time I have seen you be afraid of anything." Eden looked at him, and Felix looked at the wall. "Do not ask me how I know," he said. "You stand too still."
 
-He slept on the roof. No dreams.
+Eden said nothing, and Felix stood beside him for a while, then went down the stair, and Eden heard his boots all the way to the yard.
+
+Clara came up later with a cup of tea in both hands and gave it to him without asking. She sat beside him and looked at the file in his coat, then at the wall.
+
+"You should not hold a cup with gloves on," he said.
+
+"I know."
+
+"Your hands will burn."
+
+"They are cold." She gave him a spoon from her pocket so he could stir the tea, and he took it. She watched him stir four times, and then she said, "Rowan asked me why you are not speaking to Lysette, and I said I did not know, which was true, and then I said that you were speaking to nobody at all, which was also true."
+
+"I am speaking to you."
+
+"I know." Clara put her hands in her lap. "That is why I came up."
+
+He drank the tea with the spoon, because the cup was wrapped in her gloves and he did not want to take them, and when it was finished he handed the cup back.
+
+At the bottom of the file there was a last page. And the page had been torn out at the stitch. And the stitching holes were still there in the fold. Eden held the file up to the light from the lamp and counted the holes. And there had been five sheets and now there were four. And the missing sheet had gone cleanly. As if someone had wanted the file to be complete except for one thing.
+
+He wrote one line in his notebook and put it in his coat: "Last page missing. PR 110." Then he went down the stair, and he did not tell Ysolde's courier, and he did not tell Lysette, and he did not tell Felix, who had asked for nothing.
+
+That night Eden lay on his bed and took the file out of his coat and read the first page again. He read the mark with his finger because he could not see the pencil. The mark was his, and the pressure of it was the same pressure he used on every confirm, and he had never once put that mark on a thing he had not seen turn to grey. He had seen it. The page said he had seen it, and the page had been written by his own hand, and the hand had not shaken then because he had been ten years old and certain of everything a child could be certain of.
+
+Rowan came up the stair and asked whether he was coming to the fire, and Eden said in a minute. Rowan said a minute at this camp lasted until the next bell, and he sat on the step. He did not ask about the envelope, and he talked about a bird on the parapet that had stayed still for ten minutes, and he said it was either very cold or very clever. Eden said it was probably cold, and Rowan said he had wanted to say clever first.
+
+Lysette was at the fire when they came down, and she sat on the far side with her hands out to the heat and her book shut on her knee. She did not look up when Rowan sat down, and she did look up when Eden sat down, and then looked away. Clara handed Eden a cup of tea and said nothing, and he held the cup with both hands and watched the fire, and the file was in his coat above his heart, and he could feel the paper through the cloth every time he breathed.
+
+The fire went down to coals, and the men drifted off in twos, and Rowan fell asleep against the wall with his mouth open. Clara covered him with her coat, and Lysette got up and went to her bed, and she passed Eden without a word, and that was a kindness of a kind. Felix stayed until the last coal went out, and then he said that he was going to bed as well, and that he would be by the gate in the morning if Eden wanted to walk. Eden said that he would be there, and Felix nodded, and the yard went quiet.

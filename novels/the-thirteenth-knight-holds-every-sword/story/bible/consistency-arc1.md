@@ -10,8 +10,9 @@ A scan of chapters 1–50 found the same thing called by two names, and special 
 
 | Thing | Canonical word | Meaning, said plainly at first use | Do not use |
 |---|---|---|---|
-| Student unit | **Lance Nine** | "a group of five students" | numbered spear, "nine-lance" |
-| Other unit | **Lance One** | "another group of students" | numbered spear |
+| Student unit | **group** (official name: Lance Nine) | first use only: "Lance Nine, a group of five students"; after that "the group" | numbered spear, "lance" in narration |
+| Other unit | **group** (official name: Lance One) | "the other group" after first use | numbered spear |
+| Job name | **[Black Lancer]** | "a knight with a dark lance" — this is a job, not a group | using it to mean a team |
 | Black knights | **Thirteenth Vigil** | "knights in black armor, nobody knows their names" | "Black Thirteen" except as a rumor, and then explain it |
 | Grey foot soldier | **Husk** | "a dead body moved by grey magic" | Hushborn, Veil |
 | Grey living soldier | **Hushborn** | "a person whose grey graft has taken him" | Husk, Veil |
@@ -51,7 +52,7 @@ A scan of chapters 1–50 found the same thing called by two names, and special 
 
 1. "Black Thirteen" (ch 21) vs "Thirteenth Vigil" (ch 3, 13, 20, 36, 37) — one name, two labels. Keep "Thirteenth Vigil"; explain "Black Thirteen" as a rumor if used.
 2. "Hushborn" (ch 31, 46) vs "Husk" (9 chapters) — no plain difference given. Add a one-sentence definition at first use of each.
-3. **Lance Nine / Lance One** — no plain explanation at first use. Add "a group of five students" immediately.
+3. **Lance Nine / Lance One** — no plain explanation at first use. In the rewrite, say "the group" in narration; use "Lance Nine" only once as the official name, with "a group of five students" on the same line. Never use "lance" by itself to mean a team.
 4. "veinline" and "vein-steel" each appear once in ch 28 without explanation. Add a plain sentence there.
 5. "Halvard Strent" and "Strent" are mixed; give the full name at first use in each chapter.
 6. ch 27 says the summons came "on Saturday morning" although that chapter covers Mon–Fri 14–18 Dec. Check against `story/bible/calendar.md` when rewriting ch 27.

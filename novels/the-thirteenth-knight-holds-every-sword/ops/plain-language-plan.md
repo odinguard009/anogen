@@ -43,6 +43,26 @@ Rencana lama mengusulkan “rata-rata 8–10 kata dan maksimal 16 kata”. **Itu
 5. **Satu ide per giliran bicara**, tanda tanya dan seruan dipakai bebas, humor langsung terlihat.
 6. Daftar kemampuan ditulis datar: `[Resurrection of the Dead], [Mind's Eye]`.
 
+### 2b. Kenapa bab 3 ke atas terasa abstrak (data dari novel kita)
+
+Saya menghitung penanda kiasan/suasana per 10 bab:
+
+| Rentang | Penanda per 1000 kata | Penanda terbanyak |
+|---|---|---|
+| ch 1–2 | 5,91 | *as if, like a, the way* |
+| ch 3–10 | 6,85 | *cold* (28), *shadow* (24), *like a* (20), *as if* (17) |
+| ch 11–20 | 4,73 | *shadow* (24), *cold* (24), *came back* (10) |
+| ch 21–30 | 5,22 | *shadow* (43), *cold* (27) |
+| ch 31–40 | 5,84 | *cold* (44), *shadow* (25), *came back* (16) |
+| ch 41–50 | 6,64 | *shadow* (40), *came back* (21), *as if* (20) |
+
+Kata *cold* dan *shadow* sering dipakai bukan sebagai fakta, melainkan sebagai jalan pintas untuk menggambarkan suasana. Di bab 1–2 hampir tidak ada; di bab 3 ke atas meningkat. Itu sesuai dengan keluhan pemilik. Aturan baru: **jangan pakai kiasan untuk suasana.** Sebut apa yang terlihat dan apa yang dilakukan orang.
+
+Contoh penggantian gaya Holy Emperor:
+- Lama: "The cold air settled over the yard." → Baru: "The men stood in the yard and blew on their hands."
+- Lama: "A shadow moved at the gate." → Baru: "A man stepped out of the dark at the gate."
+- Lama: "The thought sat in his mind like a stone in a boot." → Baru: "He thought about the order. He could not put it away."
+
 Jadi fokus perbaikan bukan “memendekkan kalimat”, melainkan **mengganti kata abstrak/idiom dengan kata konkret, menjelaskan istilah di tempat, dan memakai suara yang berbicara langsung kepada pembaca**.
 
 ## 3. Setting yang sudah dipasang di repo (belum ada bab yang diubah)
@@ -65,9 +85,9 @@ Semua poin sudah diberikan aturan kanoniknya di `consistency-arc1.md`.
 
 ## 5. Aturan gaya yang direvisi (menunggu eksekusi)
 
-1. **Kata konkret.** Daftar kata umum dipakai. Kata berat dijelaskan atau diganti saat first use: *groundskeeper* → "the man who looks after the grounds"; *handkerchief* → "a small cloth"; *headmistress* → "the woman who runs the school"; *scholarship* → "a paid place at school"; *quartermaster* → "the man who keeps the stores"; *lamplighter* → "the lamp man".
+1. **Kata konkret, dan kata 'group' untuk tim.** Narasi memakai **group**, bukan *lance*, untuk unit siswa. "Lance Nine" hanya dipakai sekali sebagai nama resmi dengan penjelasan "a group of five students"; sesudah itu "the group". **[Black Lancer]** tetap dipakai sebagai nama job, bukan nama grup, dan dijelaskan "a knight with a dark lance". Kata umum lain dipakai seperti ini: *groundskeeper* → "the man who looks after the grounds"; *handkerchief* → "a small cloth"; *headmistress* → "the woman who runs the school"; *scholarship* → "a paid place at school"; *quartermaster* → "the man who keeps the stores"; *lamplighter* → "the lamp man".
 2. **Nama group/job/creature wajib dijelaskan.** Contoh: "Lance Nine, a group of five students, not a weapon." Kalau bisa disalahartikan, sebut juga apa BUKAN itu.
-3. **Tanpa perbandingan abstrak.** `like a` maksimal 1 per bab, `as if` = 0. Kata kabur (*went quiet, went still, came back, the way*) diganti kalimat konkret: "the birds stopped calling", "his hands did not move".
+3. **Tanpa kiasan untuk suasana atau aksi.** `like a` maksimal 1 per bab, `as if` = 0. Kata kabur (*went quiet, went still, came back, the way*) diganti kalimat konkret: "the birds stopped calling", "his hands did not move". Kata *cold* dan *shadow* hanya boleh bila benar-benar fakta fisik yang dibutuhkan cerita (misalnya Rotation di Wall), bukan sebagai pengganti "serius", "takut", atau "misterius". Suasana ditulis lewat tindakan: orang berhenti bicara, melihat ke pintu, meniup tangan, atau bersandar ke dinding.
 4. **Idiom hanya jika maknanya terlihat.** Kalau perlu diterjemahkan, hapus.
 5. **Satu ide per kalimat dan per giliran bicara.** Rata-rata 9–12 kata tetap dipertahankan, tetapi bukan target utama; yang utama adalah kata yang dimengerti.
 6. **Ulang kata yang sama untuk benda yang sama.** Jangan berganti sinonim agar terdengar sastra.
@@ -87,7 +107,8 @@ Semua poin sudah diberikan aturan kanoniknya di `consistency-arc1.md`.
 - Pembaca 15 tahun non-native bisa memahami kalimat tanpa kamus (uji baca oleh pemilik).
 - Istilah grup/job/creature punya penjelasan datar saat first use.
 - Tidak ada lagi dua nama untuk satu hal (Vigil/Black Thirteen, Husk/Hushborn).
-- `like a` ≤ 1/bab, `as if` = 0, idiom kabur = 0.
+- `like a` ≤ 1/bab, `as if` = 0, idiom kabur = 0, penanda kiasan suasana turun dari ±6/1000 kata menjadi ≤2/1000 kata.
+- Narasi memakai "group" untuk tim siswa; "lance" tidak dipakai lagi sebagai kata grup.
 - 50/50 bab tetap lolos `check_chapter.py --strict`, `validate`, `milestone_check`.
 
 ## 8. Status

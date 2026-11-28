@@ -19,6 +19,8 @@ This file is a setting, not a chapter edit. It applies to every future chapter u
 6. One idea per sentence. Prefer 8–13 words. A sentence over 18 words must be split.
 7. Dialogue carries one idea per line, with a plain tag: "he said", she asked", "Eden said".
 8. Repeat the same plain word for the same thing. Do not swap synonyms to avoid repetition.
+8b. When a canon word is harder than an everyday word, use the everyday word in narration. Example: write **group**, not *lance*, for a team of students. Keep the canon word only as a name on first use, with a plain explanation.
+8c. Do not describe a mood with a comparison. Say what a person sees, does, or says. Example: not "the air was thick with waiting", but "the men stopped talking and looked at the gate."
 9. No slang that needs cultural background. No wordplay that needs English grammar knowledge.
 10. Keep the story exciting. Simple language does not mean a simple plot.
 

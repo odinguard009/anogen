@@ -9,7 +9,7 @@ import sys
 from pathlib import Path
 
 from common import (STORY, TOOLS, body_text, canon_tokens, chapter_files, clean_body, heading_issue,
-                    read, sentences, setting_int, words)
+                     read, sentences, setting_int, settings, words)
 
 STOP = set("""a an the and or but if then so of to in on at by for with from as is are was were be been being
 it its he she they them his her their i me my we us our you your this that these those there here not no
@@ -136,6 +136,55 @@ def plain_check(num, body):
     return (found, []) if num <= 50 else ([], found)
 
 
+
+def audience_check(num, body):
+    """Owner order 2026-11-28: plain language for a 15-year-old non-native reader.
+
+    Returns (warnings, errors). While brief.md plain_language_strict is false the
+    findings are WARNINGS, so the old chapters are not blocked before the rewrite.
+    When the owner flips it to true the same findings become ERRORS.
+    """
+    conf = settings()
+    strict = str(conf.get("plain_language_strict", "false")).strip().lower() in ("1", "true", "yes")
+    low = body.lower()
+    found = []
+
+    asif = len(re.findall(r"\bas if\b", low))
+    if asif:
+        found.append(f"audience: 'as if' x{asif} (target 0): say what you see")
+    likea = len(re.findall(r"\blike a\b", low))
+    if likea > 1:
+        found.append(f"audience: 'like a' x{likea} (max 1): use one plain comparison or none")
+
+    caps = len(re.findall(r"\bDoors?\b", body))
+    labels = len(re.findall(r"\*\*\[Door\]\*\*", body))
+    if caps - labels > 0:
+        found.append(f"audience: capital Door x{caps - labels} in narration: write 'a black opening' for the power")
+
+    knock_magic = len(re.findall(r"\bknocked?\b[^.!?\n]{0,45}\bshadow|\bshadow[^.!?\n]{0,45}\bknocked?\b", low))
+    if knock_magic:
+        found.append(f"audience: 'knock' used for the power x{knock_magic}: write 'tap the shadow'")
+
+    bare_dust = len(re.findall(r"(?<!grey )(?<!stone )\bdust\b", low))
+    if bare_dust:
+        found.append(f"audience: bare 'dust' x{bare_dust}: say grey dust, dirt or stone dust")
+    ash_hits = len(re.findall(r"\bash\b", low))
+    if ash_hits and re.search(r"\b(veil|husk|ember|enemy|body)\b[^.!?\n]{0,40}\bash\b", low):
+        found.append("audience: 'ash' used for remains: write grey dust")
+
+    for m in re.finditer(r"\bLance (Nine|One)\b", body):
+        near = body[max(0, m.start() - 90): m.end() + 90].lower()
+        if "group" not in near:
+            found.append("audience: 'Lance Nine/One' without a plain 'group' gloss nearby: say 'a group of five students'")
+            break
+
+    mood = len(re.findall(r"\bwent quiet\b|\bwent still\b|\bthe air was thick\b|\bfrosted over\b|\bcold air\b|\bshadow moved\b", low))
+    if mood > 2:
+        found.append(f"audience: mood shortcuts x{mood}: say what people see, do or say")
+
+    return ([], found) if strict else (found, [])
+
+
 def main():
     strict = True  # LOCKED: always strict (owner order 2026-11-27)
     args = [x for x in sys.argv[1:] if x != "--strict"]
@@ -260,8 +309,9 @@ def main():
 
     bw, be = battle_check(int(mm.group(1)) if mm else None, body)
     pw, pe = plain_check(int(mm.group(1)) if mm else None, body)
-    notes += ["WARNING " + x for x in bw + pw]
-    issues += be + pe
+    aw, ae = audience_check(int(mm.group(1)) if mm else None, body)
+    notes += ["WARNING " + x for x in bw + pw + aw]
+    issues += be + pe + ae
     print(f"Words: {wc} (target {lo}-{hi})")
     for n in notes:
         print("note:", n)

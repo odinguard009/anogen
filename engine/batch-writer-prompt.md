@@ -22,3 +22,14 @@ FOR EACH CHAPTER N in your range, in order:
 WORD TARGET AND DATES (arc 1 lessons, 2026-11-26): aim for 2150-2350 words in the FIRST draft (hard range is the brief's min-max). Never reach the target with padding or dialogue filler: add one real action or object beat the scene needs. Do not chase words with long sentences. Before writing any date, weekday or "N days before X", read story/bible/calendar.md and the outline line `date:`; count the days. Before drafting read story/style/banned.md and the reveal-ladder rows for the chapter; run `check_chapter.py` and `prepass.py` once mid-draft, then proofread for glued words (e.g. "andbuttoned", "stood1") before the final save. state.md stays a SHORT current-state file (about 3000 chars, replace stale lines; per-chapter detail goes to summaries.md). In the same commit as the chapter update first-use.md and variety_log.json to match the outline line (the outline wins over a random variety pick).
 
 Then the next chapter. After the last chapter: stop and report in max 8 lines in English (words, avg sentence length, dialogue share, scores per chapter; outline deviations; problems). Do not edit tools/, roles/ or outline files. Do not publish anything.
+
+
+## Plain-language and consistency checklist (owner order 2026-11-28)
+
+Before writing or judging any chapter, open `story/style/audience.md`, `story/bible/consistency-arc1.md` (sections 6b and 6c) and `tools/check_chapter.py` audience_check. Check:
+- audience is age 15+, mostly non-native English speakers: common words only, no idiom that needs explaining;
+- "group" for student teams, not "lance"; "a black opening" for Eden's power, "tap" for the trigger, "grey dust" for remains;
+- no mood metaphors (cold/shadow/thick air/frosted over as feeling shortcuts); say what people see, do and say;
+- each power has one plain "what you see" sentence at first use, then its plain phrase; labels only on first use or in dialogue;
+- one name for one thing; check Thirteenth Vigil, Husk/Hushborn, handkerchief/scarf.
+Tool feedback is a WARNING while `brief.md plain_language_strict: false`; treat warnings as work to fix, not as permission to pad.

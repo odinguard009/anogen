@@ -80,3 +80,19 @@ Plain meaning first. Use the short word on the page; the bracketed name is only 
 - Frost = the cold that comes after wearing Umra.
 - Keeps = the memories stored in Liora's armor.
 - Unbind = a person's power waking fully; never spoken of before its chapter.
+
+## Plain-word glossary (owner order 2026-11-28)
+
+| Word | Plain meaning / use |
+|---|---|
+| group | a team of students, not a weapon; say "Lance Nine, a group of five students" once, then "the group" |
+| a black opening | Eden's "Door": a black gap in a shadow; he taps the dark edge twice to make it |
+| tap | the movement that triggers a power; "knock" is only for a real door |
+| grey dust | what is left when a Veil, Husk or grafted Ember dies |
+| dirt | ordinary dust on a floor |
+| stone dust | powder from broken stone |
+| ash | what is left after a fire; never used for an enemy |
+| black plates | Umra, Eden's black armor |
+| gold sword | Inead, the sword of gold light |
+| black lance | Exa, carried in a case on his back; one tap on its ring folds it into a small black shield |
+| pale wall | Valerius's line made real by his spoken sentence; one short breath each |

@@ -16,3 +16,14 @@ For each chapter N in your range, in order:
 7. After each chapter: `python3 tools/save.py "style rewrite v3 chapter N" --trailer "<TRAILER>" (the commit trailer lines the orchestrator gave you)`.
 
 After the last chapter in your range: edit ops/rewrite-queue.md (mark your range DONE with the date), save with the same trailer, and report in max 6 lines: per chapter words, mean sentence length, dialogue %, distinct names; anything you could not keep identical to canon.
+
+
+## Plain-language and consistency checklist (owner order 2026-11-28)
+
+Before writing or judging any chapter, open `story/style/audience.md`, `story/bible/consistency-arc1.md` (sections 6b and 6c) and `tools/check_chapter.py` audience_check. Check:
+- audience is age 15+, mostly non-native English speakers: common words only, no idiom that needs explaining;
+- "group" for student teams, not "lance"; "a black opening" for Eden's power, "tap" for the trigger, "grey dust" for remains;
+- no mood metaphors (cold/shadow/thick air/frosted over as feeling shortcuts); say what people see, do and say;
+- each power has one plain "what you see" sentence at first use, then its plain phrase; labels only on first use or in dialogue;
+- one name for one thing; check Thirteenth Vigil, Husk/Hushborn, handkerchief/scarf.
+Tool feedback is a WARNING while `brief.md plain_language_strict: false`; treat warnings as work to fix, not as permission to pad.

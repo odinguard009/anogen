@@ -22,6 +22,27 @@ Critic `plain_reading` score: below 8/10 = FAIL, rewrite the scene.
 ## Guard (tools/check_chapter.py `plain_check`)
 Finds only: riddle replies (more than 1), surnames used before narration links them, runs of 8+ bare short dialogue lines. It cannot tell whether a scene makes sense; the self-test is the real check. WARNING for chapters 1-50, ERROR from chapter 51.
 
+## Reference standard (owner order 2026-11-28: SUPERSEDES the 2026-11-26 sample)
+
+The owner ordered a wider style study: 50 chapters of *Holy Emperor's Grandson is a Necromancer* at NovelPhoenix. That novel is now the main style model for pace and clarity (observe, imitate, modify; never copy wording). The older ch 6/7 excerpts below are historical context only; do not use them as the target.
+
+What the 50-chapter study found:
+- The narrator speaks plainly and comments on what happens: short statements, then a direct reaction (*"Yup, being a gravekeeper is no picnic at all."*).
+- Every special thing is named in the same sentence: *"I was working as a Gravekeeper."* / *"the class I picked … became my current 'Profession'."*
+- Concrete nouns repeat: shovel, wagon, corpses, village, water, body, eyes, monastery. The reader never has to guess an abstract noun.
+- Comparisons are physical and immediate: *"My whole body felt heavy like a soaked sponge."* No layered metaphor for mood.
+- Skill names are listed flat: `[Resurrection of the Dead]`, `[Mind's Eye]`.
+- Dialogue is short, one idea per line, and often ends with a question or a blunt reaction.
+
+Apply to our close-third-person story: keep the plain voice and the immediate naming, but do not switch to first person. A sample beat in our voice: "The team had five students. They called it Lance Nine. It was a group, not a weapon. Eden stood at the back and read the ground."
+
+New rules on top of this section:
+1. No mood metaphor. Say what a person sees, does, or says. Words like cold, shadow, thick air, frosted over are facts only, never shortcuts for fear or tension.
+2. Group word is "group". Use the official name once with a gloss, then "the group".
+3. Power descriptions follow the cards in story/bible/consistency-arc1.md section 6c: what you see, what you do, what happens, what it costs. Use the plain phrase after first use.
+4. Doors, knocking, ash and dust follow the plain-word map in the same file section 6b.
+5. Tools/check_chapter.py audience_check gives WARNINGS now and ERRORS after the owner flips brief.md plain_language_strict to true.
+
 ## Reference standard (owner order 2026-11-26: "Bab 6 dan 7 sudah lumayan bisa dimengerti. Tetapkan penulisan seperti ini jadi aturan permanen")
 The owner read chapters 6 and 7 of his first novel after the repair and said he could follow them. That level is the calibration sample for ANY novel and ANY AI. Do not open another novel to see it (each novel stays closed to the others); the excerpts below ARE the sample. Match this level before writing or judging any chapter.
 

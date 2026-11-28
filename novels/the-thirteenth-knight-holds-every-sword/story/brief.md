@@ -8,12 +8,13 @@ chapter_words_min: 2000
 chapter_words_max: 3000
 context_pack_max_chars: 48000
 repeat_window: 5
+plain_language_strict: false
 arc_default_max: 50
 
 ## Genre and tone
 - Fantasy world that may imitate and modify ideas from existing works (owner order 2026-11-25).
 - Korean web-novel / Japanese light-novel feel. Language of the story: English.
-- Audience: teenagers and young adults. Simple, easy-to-read English (see READABILITY in story/style/profile.md).
+- Audience: minimum age 15. Most readers are not native English speakers, including readers with few English resources. Use common words only; see story/style/audience.md and profile.md.
 - Never boring: twists planted early, heartfelt moments, heart-pounding scenes.
 
 ## Protagonist

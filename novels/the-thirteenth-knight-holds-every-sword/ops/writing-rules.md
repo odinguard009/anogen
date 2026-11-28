@@ -57,3 +57,10 @@ No --force. No skipping. No "close enough." No exceptions.
 - tools/milestone_check.py: verifies milestones
 - ops/quality-contract.md: permanent rules
 - .github/workflows/quality-check.yml: CI blocks merge (fallback in tools/)
+
+## Rule 15: Plain language for a 15-year-old non-native reader (owner order 2026-11-28)
+- Use the common word: group, not lance; a black opening, not Door; tap, not knock; grey dust, not ash or bare dust.
+- No idiom that needs explaining. No mood metaphor: say what the person sees, does, or says.
+- Every new name, group, power and creature gets one plain sentence at first use (style/audience.md, bible/consistency-arc1.md).
+- Describe powers by visible object + movement + result + cost; then use the plain phrase, not the label.
+- `plain_language_strict` starts as false. Switch to true only after the 1-50 rewrite, on owner order.

@@ -110,3 +110,13 @@ Corrections after an advisor review of this change: the debts triage was re-chec
 - Known padding debt (real beats added, but some filler remains near the floor): ch 38, 39, 40, 41, 46, 49, 50 sit at 2000-2060 words; the advisor said to aim 2150-2350. Not fixed: the rewrites were already large.
 - Battle self-tests (same session; not independent): ch 45 positions: stores yard, ditch left of the step, hut right, Lance Nine 40 steps back; beats: bait (oil lit, shadow does not follow), ahead (Veil's bar drives Eden back), turn (Citation marks the weak place), finish (Lysette's baton strike), witness (soldiers, Okoru, tea cup). Ch 46: wagon lane, kitchen step, side gate, 40 counted; Door under the wagon's shadow; Ithe and Wyl in a separate scene. Ch 48: Harrow, boy, Strent; Grask; the fallen tent's shadow as a Door; hook knife at the boy's throat. Ch 49: Harrow and boy ten steps ahead; bait (Eden looks small), ahead (the grey whip), turn (one look loosens the knife), finish (Lampwick follows the seam), witness (Felix, Valerius, Lysette's replay).
 - Honest limits: the same session wrote and scored; scripts check length, names and riddle strings only. The advisor was consulted once before merging (after ch 37-50) and found nine continuity errors; all nine were fixed in the same pass.
+
+
+## 2026-11-28 — owner order: plain language and consistency settings applied (no chapters changed)
+
+- Research: 50 chapters of Holy Emperor's Grandson is a Necromancer read and measured; findings written to engine/plain-reading.md.
+- Audience: minimum age 15, mostly non-native English speakers; new file story/style/audience.md and profile.md section 12.
+- Plain-word map and power cards added to story/bible/consistency-arc1.md sections 6b/6c and glossary.md.
+- Conflicts resolved: old NAME LABELS rule (every use bracketed) changed to first-use label + plain phrase; old ch6/ch7 reference standard superseded by the 50-chapter study; prompts and roles got the new checklist.
+- Guard: tools/check_chapter.py audience_check added. brief.md plain_language_strict: false, so findings are WARNINGS until the owner orders the switch after the 1-50 rewrite.
+- No chapter file was edited in this change. validate 1-50 still reports 0 ERRORs.

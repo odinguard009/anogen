@@ -7,11 +7,13 @@
 ## 1. LEVEL: simple English for learners (permanent; wins every conflict)
 Write for readers who recently learned English (target CEFR A1-A2, owner order 2026-11-27). The story stays exciting; only the language is simple. A2-B1 is the ceiling, never the aim. Prefer the shortest common word; if a line cannot be paraphrased by a learner who knows only the page, rewrite it.
 - Most common everyday words (about the 2,000-3,000 most common). Replace rare, formal, literary or old words ("stairs" not "flights"; "went quiet" not "fell silent"; "hide" not "conceal"). Avoid phrasal verbs when one plain verb works.
-- Idioms: at most ONE easy one per chapter, only where the sentence makes the meaning clear, never inside fights, plans, key emotions or clues. No slang that needs culture ("flight risk", "break the ice"). If the owner says the chapters are still too hard, use zero idioms and cut the target to A1-A2 (owner order needed).
+- Idioms: ZERO unless the meaning is visible in the same sentence (owner order 2026-11-28). No slang that needs culture ("flight risk", "break the ice"). The reader is at least 15 and often not a native speaker; see story/style/audience.md.
 - Plain reading wins over the dialogue model. If a line only makes sense after a guess, rewrite it so a reader who knows only the page can say what it means (engine/plain-reading.md, locked setting 19).
 - New words: define them on the page at first use, and add them to story/bible/glossary.md. A reader who needs a word should find it in the glossary or in the same sentence.
 - One idea per sentence. Mostly 6-14 words, mean 9-12; link ideas with and, but, because, so, then, when, after. No more than 3 short (under 6 words) sentences in a row except in a fast fight. Simple past, active voice. No semicolons, no parentheses, no sentence over 30 words, at most one which/that/who clause.
 - Concrete nouns (door, rope, knife, bread). Numbers and distances said clearly (in steps).
+- PLAIN GROUP WORD: write "group", not "lance", for a team of students. Use the official name once with a plain gloss: "Lance Nine, a group of five students". **[Black Lancer]** is a job name, not a group.
+- NO MOOD METAPHORS (owner order 2026-11-28): do not use *cold*, *shadow*, *the air went thick*, *as if*, or *like a* to hint at a feeling. Say what the person sees, does or says. One plain comparison per chapter maximum.
 - Figurative language: at most one simple comparison per page, taken from this world (lamps, ink, locks, bells, motor-cars), never a stock simile ("like a hen"). Jokes work from plain words.
 - Keep paragraphs short (1-4 lines on a phone).
 
@@ -54,7 +56,7 @@ OWNER EXCEPTION: these two scenes are the only superseded text a writer may use.
 - Every NAMED weapon, ability, technique, signature or ultimate move, job and class is written in bold square brackets EVERY time it is named, in narration, in dialogue and in an on-page reading: **[Inead]**, **[Exa]**, **[Lintel]**, **[Witness]**, **[Black Lancer]**, **[Unbind: Evrin]**. Nameless things stay plain ("a sword", "a spell").
 - Class and job words are bracketed only when they mean the registered class or a reading: "his class, **[Black Lancer]**", "the reading said **[Knight]**". The ordinary noun stays plain: "a knight", "the Rampart Host's knights", "an archer".
 - In spoken dialogue the name is ALSO written **[Name]** (owner order 2026-11-26): "Draw **[Inead]**," Lysette said. The same holds when a character names a job, class or ultimate aloud. Ordinary nouns stay plain.
-- First use: the first-use description (look, body, effect, limit) in the SAME scene. Later uses: the label plus one fresh detail. The label never replaces description. At most 2 NEW labelled names per chapter; there is no cap on repeats or on how many known names appear in a big fight. Owners and names: power-system.md section 13; first uses: first-use.md.
+- First use: the first-use description (look, body, effect, limit) in the SAME scene, written as what the reader SEES. After first use, use the plain phrase from the power card in story/bible/consistency-arc1.md section 6c ("the black plates", "a black opening", "the gold sword"), not the label in every sentence. The label stays in dialogue when a character says the name. At most 2 NEW labelled names per chapter. Owners and names: power-system.md section 13; first uses: first-use.md.
 
 ## 7. FIRST USE OF A WEAPON, ARMOR OR ABILITY (permanent)
 The first time a named character uses a weapon, armor, relic or ability on the page, describe it in 2-4 plain sentences INSIDE the action: (1) what it looks like, (2) how the body uses it, (3) what it does to the target or space, (4) its limit or cost. Later uses add only what is new. Check story/bible/first-use.md before writing a use; add the line after a first use.
@@ -78,4 +80,4 @@ The first time a named character uses a weapon, armor, relic or ability on the p
 - Avoid: characters acting stupid to keep the plot going, power-ups without cost, info dumps (max 3 sentences of pure exposition in a row), contrived coincidences, repeated misunderstandings, a reveal everyone saw coming but the hero. Max 1-2 new world concepts per chapter, shown through action.
 
 ## 12. READER MODEL
-Teenagers and young adults reading web novels and light novels on a phone. Feel references (ideas of pace and clarity only; never copy): Holy Emperor's Grandson is a Necromancer, The Academy's Weapon Replicator, Mahouka, Bleach, Dandadan, Garo (armor scenes).
+Minimum age 15, mostly non-native English speakers, including readers with few English resources. Read story/style/audience.md before drafting. Feel references (pace and clarity only, never copy wording): Holy Emperor's Grandson is a Necromancer (the main style model), The Academy's Weapon Replicator, Mahouka, Bleach, Dandadan, Garo (armor scenes).

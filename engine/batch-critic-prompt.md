@@ -24,3 +24,14 @@ NATURAL-FLOW CHECK (owner order 2026-11-25): flag anything forced or rushed, any
 FIRST-USE CHECK (owner order 2026-11-25): for each chapter, list every weapon, armor, relic or ability used for the first time; flag any that was NOT described (look, how the body uses it, what it does, its limit) or that is missing from story/bible/first-use.md. Also flag any reveal that arrives without the earlier hint, doubt and evidence steps listed in story/bible/reveal-ladder.md.
 DATE CHECK (arc 1 lesson: ch 9 said "Nine days" before the 12 Dec Ball, which was 30 days away): for every date, weekday and "N days before/after" in the chapters, compute it from story/bible/calendar.md and the outline `date:` lines; list each with the result. Any chapter edited after its review needs `engine_state.py rereview`.
 NAME-LABEL CHECK (owner order 2026-11-26): every named weapon, ability, technique, signature move, job and class in narration is **[Name]** every time; also **[Name]** inside dialogue; at most 6 different labelled names and 2 new per chapter; first use has its first-use description. POV CHECK: close third person; flag any first-person narration, any 'Eden felt/was sad' line, head-hopping inside a scene. DIALOGUE CHECK: speakers have distinct habits; no filler lines added to reach the percentage (STYLE V3 DIALOGUE MODEL).
+
+
+## Plain-language and consistency checklist (owner order 2026-11-28)
+
+Before writing or judging any chapter, open `story/style/audience.md`, `story/bible/consistency-arc1.md` (sections 6b and 6c) and `tools/check_chapter.py` audience_check. Check:
+- audience is age 15+, mostly non-native English speakers: common words only, no idiom that needs explaining;
+- "group" for student teams, not "lance"; "a black opening" for Eden's power, "tap" for the trigger, "grey dust" for remains;
+- no mood metaphors (cold/shadow/thick air/frosted over as feeling shortcuts); say what people see, do and say;
+- each power has one plain "what you see" sentence at first use, then its plain phrase; labels only on first use or in dialogue;
+- one name for one thing; check Thirteenth Vigil, Husk/Hushborn, handkerchief/scarf.
+Tool feedback is a WARNING while `brief.md plain_language_strict: false`; treat warnings as work to fix, not as permission to pad.

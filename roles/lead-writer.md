@@ -12,3 +12,14 @@ Input: the output of `python3 tools/context_pack.py` (read it once, do not re-re
 5. Human realism: characters react proportionately and have believable motives and mixed feelings; antagonists are credible, never cartoonish. Avoid humiliate-and-reveal beats (mock, reveal, crowd gasps). For fights and politics use story/bible/combat-style.md, cast-combat-*.md, battle-craft.md and intrigue-craft.md (read only the part you need).
 6. If the context pack shows an epigraph for this chapter, place it as a `> ` blockquote right below the title.
 7. If the outline is missing for this chapter, STOP and run the Development Editor first.
+
+
+## Plain-language and consistency checklist (owner order 2026-11-28)
+
+Before writing or judging any chapter, open `story/style/audience.md`, `story/bible/consistency-arc1.md` (sections 6b and 6c) and `tools/check_chapter.py` audience_check. Check:
+- audience is age 15+, mostly non-native English speakers: common words only, no idiom that needs explaining;
+- "group" for student teams, not "lance"; "a black opening" for Eden's power, "tap" for the trigger, "grey dust" for remains;
+- no mood metaphors (cold/shadow/thick air/frosted over as feeling shortcuts); say what people see, do and say;
+- each power has one plain "what you see" sentence at first use, then its plain phrase; labels only on first use or in dialogue;
+- one name for one thing; check Thirteenth Vigil, Husk/Hushborn, handkerchief/scarf.
+Tool feedback is a WARNING while `brief.md plain_language_strict: false`; treat warnings as work to fix, not as permission to pad.

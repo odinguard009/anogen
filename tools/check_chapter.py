@@ -157,7 +157,7 @@ def audience_check(num, body):
         found.append(f"audience: 'like a' x{likea} (max 1): use one plain comparison or none")
 
     caps = len(re.findall(r"\bDoors?\b", body))
-    labels = len(re.findall(r"\*\*\[Door\]\*\*", body))
+    labels = len(re.findall(r"\[Door\]", body))
     if caps - labels > 0:
         found.append(f"audience: capital Door x{caps - labels} in narration: write 'a black opening' for the power")
 

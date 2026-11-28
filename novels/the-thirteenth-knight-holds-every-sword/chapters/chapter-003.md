@@ -14,11 +14,11 @@ Eden looked at the window too. "Did she?"
 
 "She has been dead eleven years." Vesk said it without any weight, the way he said everything.
 
-Vesk was a small man in grey, with eyes the yellow of a lamp wick. He wore black plate the way other men wore coats, and he spoke like a man who had already decided that the night would be long.
+Vesk was a small man in grey, with eyes the yellow of a lamp wick. He wore black plate the way other men wore coats, and he spoke slowly.
 
 "Who called?" Eden asked.
 
-"People with dead relatives. A widow, two clerks, a baker, a boy of nine." Vesk counted on his fingers, slowly, as if the numbers were heavy. "The voice on the line knows things. Names. Birthmarks. What a man said to his wife before he died."
+"People with dead relatives. A widow, two clerks, a baker, a boy of nine." Vesk counted on his fingers, one number at a time. "The voice on the line knows things. Names. Birthmarks. What a man said to his wife before he died."
 
 "And the supervisor?"
 
@@ -34,7 +34,7 @@ Eden looked at the lit window. One room. One kill. No trace. That was the rule, 
 
 "Stay on the street. Whistle once if someone comes."
 
-"Whistle. Like a bird." Vesk said it the way a man says a word he does not trust. Then he was gone, and the shadow under the awning was only a shadow.
+"Whistle. Short and high." Vesk said the word slowly and did not trust it. Then he was gone, and the shadow under the awning was only a shadow.
 
 * * *
 
@@ -46,11 +46,11 @@ Then one voice came clear through the floor.
 
 "Your mother rang. Come to the exchange."
 
-A woman's voice, warm, tired, kind. Then the same words in a man's voice, then a child's, all with the same slow patience, as if the mouth had practised.
+A woman's voice, warm, tired, kind. Then the same words in a man's voice, then a child's, all with the same slow patience, because the mouth had practised.
 
 Eden took off his coat and folded it on the coal. He stood where his shadow was long.
 
-The lamp above the stair dimmed, as if it were holding its breath. His shadow spread under him in a clean round pool, edge sharp as a drawn line. He stepped backward into it, and the cold came up through his boots to his knees.
+The lamp above the stair went dim. His shadow spread under him in a clean round pool, edge sharp as a drawn line. He stepped backward into it, and the cold came up through his boots to his knees.
 
 The plates rose from the pool from the feet up. Sabatons first, a soft click. Greaves, knee wings, thigh plates, the faulds. Each one closed cold for one heartbeat and then turned warm. The chest plate sealed with a deep sound, the way a vault door seals. Pauldrons, one and then the other. Vambraces. Gauntlets last, the fingers closing one by one.
 
@@ -86,9 +86,9 @@ She pulled a plug and pushed it into another hole. Somewhere in the city, a tele
 
 Eden counted the room. One door behind him. One window, painted shut. The lamp. The board's shadow, big enough. He had one clear thought, the way he always did before a fight. The voices came out of the board, and the board was her mouth. Stop the mouth.
 
-He crossed the carpet in six steps and stopped at the board's east end, at the edge of the lamp's light, six steps from her chair. Then he knocked twice on the wall inside the spilled shadow.
+He crossed the carpet in six steps and stopped at the board's east end, at the edge of the lamp's light, six steps from her chair. Then he tapped the wall inside the spilled shadow twice. **[Door]** opened: a black rectangle in the stone, taller than a man, with a pale edge on one side.
 
-The sound was small, like a knuckle on a door. A black rectangle opened in the wall, taller than a man, with an edge of pale light along one side. The cables' shadows leaned toward it. The hum dropped a little, and the lamp steadied.
+The sound was small and hard. The cables' shadows leaned toward the opening. The hum dropped a little, and the lamp steadied.
 
 The woman turned around.
 
@@ -104,7 +104,7 @@ Eden drew **[Exa]** from his own shadow. It came out of the black under his hand
 
 The Veil moved first. She took a copper bar off the wall, as long as a walking stick. She came at him in three long steps. The bar hit the air where his head had been. He turned on his front foot, and the second swing caught the lance.
 
-He knocked once on the iron ring at the lance's guard, and **[Exa]** folded. It became a black shield the size of a tea tray, with the ring on the outside. The bar struck the ring and rang like a bell. The shock ran up his arm to the elbow.
+He knocked once on the iron ring at the lance's guard, and **[Exa]** folded. It became a small flat black shield, with the ring on the outside. The bar struck the ring, and the ring rang once. The shock ran up his arm to the elbow.
 
 "Your mother," the Veil said, in a woman's voice, low and fond, "used to sing to you."
 
@@ -120,15 +120,15 @@ The Veil said a name. It was not his.
 
 He did remember a song. That was the trouble with Veils. They pulled the words out of the air and the air out of your chest. But a name had to be given, and nobody had given her his.
 
-She came again, fast and wrong-jointed, the bar low. Eden gave ground. One step back, then two, and the Veil followed him down the aisle, away from the board and the Door. She was winning, and she knew it. The corridor door was three steps behind him.
+She came again, fast and wrong-jointed, the bar low. Eden gave ground. One step back, then two, and the Veil followed him down the aisle, away from the board and the opening. She was winning, and she knew it. The corridor door was three steps behind him.
 
 Then she looked up at the lamp.
 
-She dropped the bar and reached for the cord. If the lamp went out, the board's shadow went with it, and the Door would close. Eden saw that at the same moment she did.
+She dropped the bar and reached for the cord. If the lamp went out, the board's shadow went with it, and the opening would close. Eden saw that at the same moment she did.
 
 He did not go for her hand. He went for the cord first. He caught the cord above her fingers and swung the lamp away.
 
-The lamp swung, and every shadow in the room moved. The cables' shadows slid across the ceiling and fell into the open Door, like rope paid out over a rail. The cables above the board went slack.
+The lamp swung, and every shadow in the room moved. The cables' shadows slid across the ceiling and fell into the opening. The cables above the board went slack.
 
 He put the shield's edge into her wrist. He drove her back along the aisle with his shoulder, until her back hit the end of the board. The hum stopped. The chord broke apart into single voices, thin and far: a man, a widow, a boy of nine.
 
@@ -136,13 +136,13 @@ She looked at him with her mouth open. Nothing came out that he had not already 
 
 Eden drew **[Inead]**.
 
-It came into his right hand as a thin cold line first, then as gold light made solid: a hand-and-a-half sword with a plain grey grip, shining like a low sun in a cellar. It rang once, one clear note, and the room turned honest. A small ache settled behind his eyes. The sword was cheap to hold, but it was not free.
+It came into his right hand as a thin cold line first, then as gold light made solid: a hand-and-a-half sword with a plain grey grip, and it lit the cellar. It rang once, one clear note, and the room turned honest. A small ache settled behind his eyes. The sword was cheap to hold, but it was not free.
 
 The supervisor's face went to glass. Under the skin, the grey body showed: long, thin, folded, with too many joints and a mouth that ran from ear to ear.
 
 Eden made one cut, from the shoulder down through the core.
 
-The grey body came apart like a coat falling off a hook. The voices stopped one by one: the man, the widow, the boy of nine. Last came the woman's warm tired voice, which said, quite clearly, "You smell like the bottom of the world."
+The grey body came apart and fell in a line. The voices stopped one by one: the man, the widow, the boy of nine. Last came the woman's warm tired voice, which said, quite clearly, "You smell like the bottom of the world."
 
 Then there was grey dust on the red carpet, and a headset swinging on its cord, and nothing else.
 
@@ -152,7 +152,7 @@ Far off, the tower clock began to ring. Three tones, slow and even.
 
 Eden stood still and counted. The third tone faded. Then a fourth came, so faint that he thought the bell had moved in its frame.
 
-"That was not the hour," said Vesk from the doorway. He had come up the service stair without a sound, and his yellow eyes went from the dust to the board. "Three tones. Not four."
+"That was not the hour," said Vesk from the doorway. He had come up the service stair without a sound, and his yellow eyes went from the grey dust to the board. "Three tones. Not four."
 
 "Not the hour," Eden said.
 

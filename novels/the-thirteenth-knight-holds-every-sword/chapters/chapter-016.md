@@ -162,7 +162,7 @@ Through the narrow strip of the helm, Eden saw Rowan stand up on the wall with b
 
 Okoru had stopped chewing. The strip of meat hung from his hand, and he looked at Eden's front foot, and then at the pale wall pushed aside on the stone, and then at the chalk line again.
 
-The judge stood up. He took the sheet from his clipboard and read it twice, and he looked at both fighters as if they had each done something wrong. "Touch to neither. The bell rules. A narrow loss to Valerius on points."
+The judge stood up. He took the sheet from his clipboard and read it twice, and he looked at both fighters and wrote one line on his sheet. "Touch to neither. The bell rules. A narrow loss to Valerius on points."
 
 Rowan's voice came from the wall. "Wren! He touched your knee!"
 

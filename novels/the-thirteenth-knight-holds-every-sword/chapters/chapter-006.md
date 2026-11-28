@@ -1,4 +1,4 @@
-# Chapter 6: spear Nine
+# Chapter 6: The Group
 
 Okoru poured the grey dust onto a sheet of paper, and he folded the paper twice before he spoke. "This was inside the core," he said. "It kept the shape of the plate, so it was packed there before the plate cracked."
 
@@ -16,7 +16,7 @@ Clara read her sheet without any change on her face, and she said, "Three."
 
 "Eight," Eden said, and he did not look up from his sheet.
 
-Okoru tapped the fourth sheet with his stick. "spear Nine," he said, and he read the five names in a flat voice. "Clara, Rowan, Lysette, Felix, Eden." He read the numbers again in the same order, as if the list were a sum. "Three, two, four, nineteen, eight."
+Okoru tapped the fourth sheet with his stick. "Lance Nine, a group of five students," he said. He read the names: Clara, Rowan, Lysette, Felix, Eden. He read the numbers again in the same order and called it a sum. "Three, two, four, nineteen, eight."
 
 "Why is Felix on it?" Rowan asked.
 
@@ -78,9 +78,9 @@ Felix took his hand out of his pocket. "It was a peppermint."
 
 Okoru folded the grey dust into his coat and left the hall with his stick under his arm. Eden looked at the paper disappearing into the black cloth, and he kept his own face still. A cracked core had come from stores, and every core in the school had an order behind it. The thought sat in his mind like a stone in a boot.
 
-Lysette closed her book and walked beside him toward the door. "The dust," she said. "You looked at it before he folded the paper."
+Lysette closed her book and walked beside him toward the door. "The grey dust," she said. "You looked at it before he folded the paper."
 
-"It was packed tight," Eden said. "The plate cracked around it, so the dust was there first."
+"It was packed tight," Eden said. "The plate cracked around it, so the grey dust was there first."
 
 "Someone filled the core before the drill." She stopped at the door and wrote another line. "That is two lines today."
 
@@ -90,13 +90,13 @@ Lysette closed her book and walked beside him toward the door. "The dust," she s
 
 The chapel corridor ran along the north side of the school, and its tall windows looked out on the wet court. The windows were narrow, and the grey court beyond them made the gold paint look warmer than it should. Between two windows, a long fresco covered the wall: a knight in a pale cloak held out both hands, and gold light had been painted in the palms. The paint had worn thin in places, so the stone showed through the knight's face, but the hands were still bright.
 
-spear Nine stood in front of the fresco while a chaplain said the short blessing. The chaplain was an old man with a shaking hand, and he lost his place twice, so the blessing took longer than it should. Rowan shifted from foot to foot, Clara stood with her hands folded, and Lysette stood half a step behind Eden with her book open. She was close enough to watch him and too polite to read over his shoulder.
+The group stood in front of the fresco while a chaplain said the short blessing. The chaplain was an old man with a shaking hand, and he lost his place twice, so the blessing took longer than it should. Rowan shifted from foot to foot, Clara stood with her hands folded, and Lysette stood half a step behind Eden with her book open. She was close enough to watch him and too polite to read over his shoulder.
 
 When the blessing ended, the chaplain walked away, and Rowan stayed under the fresco with his hands up. He stared at the painted palms for a moment. "I can do that," he said.
 
 "Can you do it now?" Clara asked, and she looked at the painted wall.
 
-Rowan held out both palms. Gold light came into them, soft and small, no bigger than an apple, and it pushed the corridor's shadows back one step. The air near his sleeves grew warm, and his face changed while the light burned, open and a little surprised, as if someone had given him a warm cup. The light came with his feeling, and it faded when his hands dropped.
+Rowan held out both palms. Gold light came into them, soft and small, no bigger than an apple, and it pushed the corridor's shadows back one step. The air near his sleeves grew warm, and his face changed while the light burned, open and a little surprised, and he looked pleased. The light came with his feeling, and it faded when his hands dropped.
 
 Clara looked from his hands to the wall. "The same colour as the wall," she said, and she pointed at it.
 

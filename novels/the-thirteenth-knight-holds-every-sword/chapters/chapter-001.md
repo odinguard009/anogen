@@ -1,54 +1,48 @@
 # Chapter 1: Forty Minutes of Grass
 
-> "Nobody looks up at a roof. That is why the wise sleep there." - Saying of the Hallowcrest groundskeepers
+Professor Brandmeier called the names twice in every grammar class. The first call came at the first bell and the second came forty minutes before the end.
 
-Professor Brandmeier checked the names twice in every Spell Grammar class. The first check came at the first bell. The second came forty minutes before the end.
+She thought students left in the middle of class and she was right. After the first call, Eden had eighty minutes before anyone knew he was gone. He took away the time for the stairs and that left seventy-six minutes.
 
-She believed that students ran away halfway through. She was right about that. Her second check gave Eden a plan. If he left after the first one, he had eighty minutes before anyone knew he was gone. Eighty minutes, minus the stairs.
+The Old Observatory stood at the top of the school hill. There were five floors of stairs and a locked door at the end. Eden had cut the key himself two winters ago. The lock was old and made a small sound when it turned.
 
-The Old Observatory stood on top of the school hill. Five floors of stairs, a locked door at the end, and a key that Eden had cut himself two winters ago. The lock opened with a small rusty cough. Cold air came out to meet him.
+The roof was flat and wide. Someone had made a garden there and then stopped caring for it. An apple tree grew in a cracked barrel and three beds of herbs ran along the wall. A brass telescope stood on an iron stand and it had no eyepiece. Eden had looked for one once and found nothing.
 
-The roof was flat and wide. Someone had made a garden up there long ago and then, Eden guessed, got bored. A small apple tree grew in a cracked barrel. Three herb beds ran along the wall, tall and untidy. A brass telescope stood on an iron stand, pointed at a piece of sky that had stopped being interesting eighty years ago. It had no eyepiece. He had looked for it once and found nothing.
+There was grass on the roof and it was long enough to hide a hand.
 
-And there was grass. Thick grass, long enough to hide a whole hand.
+It was the first week of November. In the court below, men raked red leaves into wet piles. On the roof the grass was green, and the apple tree still had all its leaves. Eden had seen this a month ago and he put the fact away. It was not his problem.
 
-It was the first week of November. Down in the court the maple leaves had gone dark red, and two men were raking them into wet piles. Up here the grass was green like summer, and the apple tree still held every leaf. Eden had seen this a month ago. He put it in the box in his head where he kept things that were none of his business.
+He lay down between the second herb bed and the wall. He put his gloves on his stomach and he was asleep before he finished deciding to sleep.
 
-Seventy-six minutes.
+The dream always began with the smell. Wet grey powder, the smell a town has after a fire and rain. Then the field came and it went on to every edge of the world. Black banners stood on black poles and there were thousands of them. Men waited in rows under each banner.
 
-He lay down in the shade between the second herb bed and the wall, with his gloved hands on his stomach. He was asleep before he finished deciding to sleep.
+Nobody breathed and eden looked at the soldier beside him. The man's chest did not move and his eyes did not blink. Then Eden understood that his own chest did not move either.
 
-The dream always started with the smell.
-
-Wet ash, the smell a town has after a fire and then rain. Then the field came, and it went on to every edge of the world. Banners stood in it, black cloth on black poles with no sign on any of them, thousands and thousands. Under each one, men waited in rows.
-
-Nobody breathed. That was where it went wrong. Eden looked at the soldier beside him. The man's chest did not move. His eyes did not blink. Then Eden understood that his own chest did not move either.
-
-He tried to breathe. Air came in thick and stopped behind his teeth. Ash, fine as flour, and each breath pulled more of it down. The banners pulled at a wind he could not feel. The whole field turned its head toward him at once. They were waiting for him to say a word. He did not know the word. His mouth was full.
+He tried to breathe and air came in and stopped behind his teeth. Each breath pulled more grey powder down. The banners pulled at a wind he could not feel. The whole field turned its head toward him at once. They were waiting for him to say a word and he did not know the word. His mouth was full.
 
 Something cried.
 
-Thin, wet, angry, it went through the field like a needle through cloth. Every banner went still.
+The sound was thin and sharp and angry and every banner went still.
 
 Air.
 
-Eden woke with air already in his lungs. That was the first wrong thing. Most days he woke up grabbing at the grass, with the taste in his mouth for an hour. Today he only felt cool grass on his cheek and smelled crushed thyme.
+Eden woke with air already in his lungs and that was the first wrong thing. Most days he woke grabbing at the grass, with the taste in his mouth for an hour. Today he felt cool grass on his cheek and he smelled crushed thyme.
 
 The second wrong thing sat one big step away.
 
-A girl sat against the telescope stand with her knees up and her face in her arm. A red band circled her left sleeve, two fingers below the shoulder seam. The rules said to wear it there, and almost nobody did. Her hair was long and white, almost silver, with one thin braid laid across the top of her head. It was pinned tight enough to look like a punishment. A tin watering can stood by her shoe and dripped on the stones.
+A girl sat against the telescope stand with her knees up and her face in her arm. A red band circled her left sleeve, two fingers below the shoulder seam. The rules said to wear it there and almost nobody did. Her hair was long and white, almost silver, with one thin braid across the top of her head. A tin watering can stood by her shoe and dripped on the stone.
 
-She cried in short, hard bursts, like a person who had given herself five minutes and not one more. Between bursts she spoke into her sleeve.
+She cried in short, hard bursts and between bursts she spoke into her sleeve.
 
 "Stupid. Stupid, stupid, stupid."
 
-Eden knew her. Everyone in his year knew her, the way everyone knows which stair has the broken step. Lysette Hollen was fourth on the Ladder, the list that ranked every student by skill. She was also vice-chair of the Discipline Committee, the students who checked the rules. In her second year she had written a report about a boy who whistled on purpose.
+Eden knew her and everyone in his year knew her. Lysette Hollen was fourth on the Ladder, the list that ranked every student by skill. She was also vice-chair of the Committee, the students who checked the rules. In her second year she had written a report about a boy who whistled on purpose.
 
-She had not seen him, which was normal. Eden kept his mana small and flat and still, and he had done it for so long that he did not think about it. People passed him in the halls and said sorry to the wall afterward.
+She had not seen him. Eden kept his mana small and still, and he had done it for so long that he did not think about it. People passed him in the halls and said sorry to the wall afterward.
 
-So he counted his choices, because that was what he did.
+So he counted his choices and that was what he did.
 
-One, lie still. She would finish, water her plants, and leave, and never know that he had watched her cry. That was probably the kind choice.
+One, lie still and she would finish, water her plants, and leave. She would never know that he had watched her cry. That was probably the kind choice.
 
 Two, sit up and cough. She would be so ashamed that she would make him pay, with something small and official that lasted all year.
 
@@ -56,17 +50,17 @@ There was no three, unless he counted the bushes four floors down. Eden lay stil
 
 "Stupid," she said again, softer. "Stupid, stupid girl."
 
-Then she lifted her head and wiped her nose on her red band. She saw what she had done. Her mouth went crooked, and she began to cry harder, looking at the band as if it had turned against her.
+Then she lifted her head and wiped her nose on her red band. She saw what she had done. Her mouth went crooked, and she began to cry harder. She looked at the band and began to cry harder.
 
-Eden's hand pulled the handkerchief out of his pocket before he decided anything. That was not how he did things. The cloth was old linen, washed thin as paper, with a small silver feather sewn crooked into one corner. His mother had made it while she argued with someone across the kitchen. He had never lent it to anyone. He only carried it.
+Eden's hand pulled the small cloth out of his pocket before he decided anything. That was not how he did things. The cloth was old and thin, with a small silver feather sewn crooked into one corner. His mother had made it while she argued with someone across the kitchen. He had never lent it to anyone and he only carried it.
 
 He held it out across the grass.
 
-For a second she did not see it, and then she did. She went from sitting to a crouch in one move, and a garden trowel appeared in her fist, point down along her arm. Her eyes were red and her face was blotchy. She looked ready to kill him.
+For a second she did not see it, and then she did. She went from sitting to a crouch in one move. A garden trowel appeared in her fist, point down along her arm. Her eyes were red and her face was blotchy and she looked ready to strike him.
 
 "How long," she said, "have you been there?"
 
-"Since a bit after the first check."
+"Since a bit after the first call."
 
 "That's an hour."
 
@@ -76,21 +70,21 @@ For a second she did not see it, and then she did. She went from sitting to a cr
 
 "I was awake for the last four."
 
-She stared at him. Eden stayed on his back and held up the handkerchief like a tiny white flag.
+She stared at him. Eden stayed on his back and held up the cloth.
 
 "Put that away."
 
 "You have some on your armband."
 
-Her eyes dropped to her sleeve. Her jaw moved once. She took the handkerchief by one corner, with two fingers, as if it were proof of a crime. Then she turned her back to him and used it.
+Her eyes dropped to her sleeve and her jaw moved once. She took the cloth by one corner, with two fingers. Then she turned her back to him and used it.
 
 Eden sat up slowly, so the trowel would stay where it was.
 
 * * *
 
-It took her a while, so he looked at the apple tree to give her privacy and counted the leaves on the nearest branch. Eleven.
+It took her a while. He looked at the apple tree to give her privacy and counted the leaves on the nearest branch. Eleven.
 
-When she turned around, her face was mostly her own again. She had folded the handkerchief into a neat square and held it in both hands, like a paper she had to give to a teacher.
+When she turned around, her face was calm again. She had folded the cloth into a square and held it in both hands.
 
 "This roof is closed to students," she said.
 
@@ -108,11 +102,11 @@ Eden looked at the watering can.
 
 "Is the thyme breaking a rule?"
 
-Two spots of colour came up on her cheeks, and Eden understood that she was the gardener. She had only the early morning and a few stolen hours for it. The mint had run along the wall and the sage stood knee high. There was dirt under her nails, and two nails were broken short.
+Two spots of colour came up on her cheeks and eden understood that she watered the beds herself. She had only the early morning and a few stolen hours for it. The mint had run along the wall and the sage stood knee high. There was dirt under her nails, and two nails were broken short.
 
 "Here is what happens," she said. "You saw nothing. I did not see you. You go down those stairs and never come back, and I don't report you for being in a closed building. That is kind of me. You should know it is kind."
 
-Eden did have a permit. It was in his desk, signed by the headmistress, and it said medical reasons. If he showed it to Lysette Hollen, she would ask what was medical about a roof. Then she would ask why the headmistress signed for a boy with a boring record. Because she was who she was, she would find out.
+Eden had a paper in his desk. The woman who ran the school had signed it, and it said he needed rest. If he showed it to Lysette Hollen, she would ask what was wrong with a roof. Then she would ask why the woman who ran the school had signed for a boy with a boring record. Because she was who she was, she would find out.
 
 "I can do the first two," he said.
 
@@ -128,13 +122,13 @@ Eden did have a permit. It was in his desk, signed by the headmistress, and it s
 
 "The stone is loud."
 
-She opened her mouth and shut it again. Eden thought she could not tell if he was making fun of her. He was not. A boy on the floor above him played the same wooden flute every night. It had eleven notes, and he played the ninth one wrong every time.
+She opened her mouth and shut it again. Eden thought she could not tell if he was making fun of her. He was not. A boy on the floor above him played a wooden flute every night. It had eleven notes, and he played the ninth one wrong every time.
 
 "Fine," she said. "Do the first two. And if one word of this gets out, I will know it was you, because you are the only one who—" She stopped. "Before you start making up reasons."
 
 "I wasn't going to."
 
-"Everyone makes up reasons. It's what people do." She looked at the folded cloth instead of him, and her thumb found the feather and stayed there. "Rowan Tallis asked Clara Belmont to the Lantern Ball. At lunch, in the middle of the big hall, in front of the whole year. That's the whole reason. So you don't have to invent one."
+"Everyone makes up reasons. It's what people do." She looked at the folded cloth instead of him, and her thumb found the feather and stayed there. "Rowan asked Clara to the Lantern Ball. At lunch, in the middle of the big hall, in front of the whole year. The Ball is the dance they hold in December. That's the whole reason. You don't have to invent one."
 
 "Do you know him?" she asked. "Rowan?"
 
@@ -142,7 +136,7 @@ She opened her mouth and shut it again. Eden thought she could not tell if he wa
 
 "Then you know he's happy before breakfast. It should be against the law."
 
-"He says hello to the groundskeepers by name."
+"He says hello to the men who look after the grounds by name."
 
 "He does it standing up. He eats standing up too." She almost smiled, and then she remembered not to.
 
@@ -154,7 +148,7 @@ Her voice cracked, and she stopped and waited for it to pass.
 
 She did not finish that one at all.
 
-Eden could have said that Rowan was an idiot and that there would be other balls. None of it would help her.
+Eden could have said that Rowan was an idiot and that there would be other dances. None of it would help her.
 
 "Did it light?" he said.
 
@@ -164,9 +158,9 @@ She blinked. "What?"
 
 "No," she said. "It caught fire. A little. On one side." Her mouth moved. "Clara put it out with her tea."
 
-Then she laughed, once, short and wet through her nose. She looked shocked at herself and pressed the back of her wrist to her mouth, as if she could push the laugh back in.
+Then she laughed, once, short and wet through her nose. She looked shocked at herself and pressed the back of her wrist to her mouth, and tried to push the laugh back in.
 
-Eden did not laugh. He did not, really. His hand went to his empty pocket and closed on nothing. He opened it again.
+Eden did not laugh. His hand went to his empty pocket and closed on nothing. He opened it again.
 
 "Don't tell anyone that part," she said.
 
@@ -174,9 +168,9 @@ Eden did not laugh. He did not, really. His hand went to his empty pocket and cl
 
 "Any of it. The tea. Especially the tea."
 
-She looked down at the handkerchief again, maybe for the first time, and ran her fingers along the edge.
+She looked down at the cloth again, maybe for the first time, and ran her fingers along the edge.
 
-"This is good linen."
+"This is good cloth."
 
 "It was my mother's."
 
@@ -200,19 +194,19 @@ She walked to the door and turned halfway through it.
 
 "About the thyme?"
 
-She gave him the look she kept for students who forgot to bow. Then the door shut, and her steps went down the first stairs fast, slowed on the second set, and faded.
+She looked at him for a moment and then shut the door. Her steps went down the first stairs fast, slowed on the second set, and faded.
 
 * * *
 
-Downstairs, Brandmeier would be reading his name into a quiet room about now.
+Downstairs, Brandmeier would be calling his name into a quiet room about now.
 
-Eden lay down again in the shade. Far below, a groundskeeper was shouting at a wheelbarrow. He closed his eyes and waited for the field. It did not come, and he could not sleep either, which annoyed him. He put his hand on his coat pocket. It was empty, and a minute later he checked again anyway.
+Eden lay down again in the shade. Far below, a man who looked after the grounds shouted at a wheelbarrow. He closed his eyes and waited for the field. It did not come, and he could not sleep either, which annoyed him. He put his hand on his coat pocket. It was empty, and a minute later he checked again anyway.
 
-So she watered the beds. That explained the thyme and the sage, and why the mint had not taken over the wall. It did not explain the grass, because nobody waters grass until it looks like summer in November. It did not explain the apple tree either. He looked up from underneath and saw one white flower on the highest twig, small, silly, and out of season.
+So she watered the beds. That explained the thyme and the sage, and why the mint had not taken over the wall. It did not explain the grass, because nobody waters grass until it looks like summer in November. It did not explain the apple tree either. He looked up from underneath and saw one white flower on the highest twig, small and silly and out of season.
 
 He was still looking at it when the stair door banged open.
 
-She was breathing hard, because she had gone down four floors and come back up. She held a thin black book with the Committee's bell stamped on the cover in red, and she had a pencil.
+She was breathing hard, because she had gone down four floors and come back up. She held a thin black book with the Committee's mark on the cover in red, and she had a pencil.
 
 "I didn't get your name," she said.
 
@@ -220,11 +214,11 @@ She was breathing hard, because she had gone down four floors and come back up. 
 
 "That wasn't a question."
 
-Eden thought about lying. She would find out by supper. He was starting to see that she was a person who found things out by supper.
+Eden thought about lying and she would find out by supper. He was starting to see that she was a person who found things out by supper.
 
 "Eden Wren."
 
-The pencil stopped in the air. "Wren," she said. "Eighth on the Ladder Wren?"
+The pencil stopped in the air. "Wren," she said. "Wren? Eighth on the Ladder?"
 
 "Most terms."
 
@@ -242,7 +236,7 @@ When she looked up, the crying girl was gone, and the person in her place had a 
 
 "Eden Wren," she said. "Sixty-one absences. Tomorrow, you come to class."
 
-"I have a permit."
+"I have a paper."
 
 "For a roof?"
 

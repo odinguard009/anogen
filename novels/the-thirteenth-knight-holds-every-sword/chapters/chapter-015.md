@@ -30,7 +30,7 @@ Lysette stopped a few steps away. "Do you know her?"
 
 "You said you were going to the library."
 
-"I went to the library yesterday." He stood up from the step and brushed the dust from his coat. "You said you were checking an address."
+"I went to the library yesterday." He stood up from the step and brushed the grey dust from his coat. "You said you were checking an address."
 
 "I am."
 
@@ -102,7 +102,7 @@ She wrote a word in her book and crossed it out. "Do you know what an Ember cell
 
 "If you liked it, I would have to stop."
 
-Lysette stopped walking, and Eden stopped with her, and a tram bell rang somewhere up the hill. She looked at him the way she looked at a page with a number that did not add up, and then she looked away.
+Lysette stopped walking, and Eden stopped with her, and a tram bell rang somewhere up the hill. She looked at him and she looked at a page with a number that did not add up, and then she looked away.
 
 "Where are we going?" she asked.
 
@@ -126,7 +126,7 @@ Rosa looked at Lysette and at the clipboard, and then she went back to the oven.
 
 "Everybody eats." Rosa pulled a flat loaf from the oven and set it on the counter. "The address is here, and it is not a thing you need to write."
 
-The children slid off the flour sack and came to stand beside Eden. One of them had flour on her sleeves up to the elbow, and she kept wiping her hands on her apron and making them dirty again. Rosa told her to stop, and the girl stopped for two seconds and then began again. The oven gave a small crack, and the children all turned to look at it as if it might speak. One of them, a boy with a missing front tooth, held out a small wooden horse with one wheel missing. "You fixed the cart last week," he said.
+The children slid off the flour sack and came to stand beside Eden. One of them had flour on her sleeves up to the elbow, and she kept wiping her hands on her apron and making them dirty again. Rosa told her to stop, and the girl stopped for two seconds and then began again. The oven gave a small crack, and the children all turned to look at it and it might speak. One of them, a boy with a missing front tooth, held out a small wooden horse with one wheel missing. "You fixed the cart last week," he said.
 
 "It was a wheel," Eden said. "Not a cart."
 

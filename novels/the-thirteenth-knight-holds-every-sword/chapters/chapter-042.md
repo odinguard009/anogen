@@ -4,11 +4,11 @@ The roll call bell rang at six. And Gorrath stood in the shadow of the tents wit
 
 "Present," said the voice.
 
-A prefect at the table wrote a mark and looked up. Because the voice had come from a tent where nobody had moved. He called the next name. Another voice answered from a different shadow. Tired and calm, and then a third voice answered high and quick from behind the stores, and a fourth from the water barrel, and a fifth from the knot of men at the gate.
+A older student at the table wrote a mark and looked up. Because the voice had come from a tent where nobody had moved. He called the next name. Another voice answered from a different shadow. Tired and calm, and then a third voice answered high and quick from behind the stores, and a fourth from the water barrel, and a fifth from the knot of men at the gate.
 
 Lysette stood at the end of the table with her round sheet in her hand. She counted the voices, and she wrote the number thirteen in the corner of the sheet, and then she wrote a second number under it, which was the number of students who had actually answered in her own voice.
 
-"Who is that? the prefect asked.
+"Who is that? the older student asked.
 
 "Nobody," Lysette said.
 
@@ -16,9 +16,9 @@ Lysette stood at the end of the table with her round sheet in her hand. She coun
 
 "It is one somebody with a talent. She shut her book. "Write it down as a disturbance and move on."
 
-Gorrath answered for the next eleven names in eleven different voices. Not one of them was the same. Two of them argued with each other about who was present. The prefect wrote both marks because he did not know what else to do. A voice from the lamp post said that it had been present since the fifth bell and had the cramp in its leg to prove itA voice from the coal heap said that the cramp was its own and had been there for years. The men in the tents began to wake up and listen because a roll call that argued with itself was better than a roll call in the cold.
+Gorrath answered for the next eleven names in eleven different voices. Not one of them was the same. Two of them argued with each other about who was present. The older student wrote both marks because he did not know what else to do. A voice from the lamp post said that it had been present since the fifth bell and had the cramp in its leg to prove itA voice from the coal heap said that the cramp was its own and had been there for years. The men in the tents began to wake up and listen because a roll call that argued with itself was better than a roll call in the cold.
 
-The prefect put his pen down and asked the next name. The voice that answered came from the water barrel. It had a different accent from the voice before it. The prefect said the name again because he thought he had misheard. The second voice answered again, lower this time, and the men in the tents began to put their boots on in the dark, because a roll call that went on too long meant someone was in trouble, and not one man wanted to be the one who was not dressed.
+The older student put his pen down and asked the next name. The voice that answered came from the water barrel. It had a different accent from the voice before it. The older student said the name again because he thought he had misheard. The second voice answered again, lower this time, and the men in the tents began to put their boots on in the dark, because a roll call that went on too long meant someone was in trouble, and not one man wanted to be the one who was not dressed.
 
 Lysette walked along the row of tents with her pencil out. She stopped at the tent where the tired voice had come from and lifted the flap. Four men slept inside, and none of them had spoken, and the voice came again from behind her, tired and calm, answering a name she had not called yet.
 

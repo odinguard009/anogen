@@ -8,7 +8,7 @@ The corridor to the barracks was narrow. The smoke came along it in low layers. 
 
 Lysette read the names on her sheet in a low voice as they went. She stopped at the name of the conscript boy. Said that the mark beside it was still empty. And Felix said that an empty mark was not the same as a dead mark. She said that she knew. That she had written both kinds before. That she preferred the empty ones. Eden heard her and said nothing. Because the corridor ahead had gone dark in a way smoke alone did not make dark.
 
-A Husk came out of the smoke ahead of them with its hands up. And Felix put an arrow to his string and stopped. Because the thing was between them and the door they wanted. There was no room in the corridor to shoot past it. Eden moved to knock on the hard shadow behind it. Then stopped, because the smoke in the corridor had no edge that he could trust,. A Door needed an edge or it would not open.
+A Husk came out of the smoke ahead of them with its hands up. And Felix put an arrow to his string and stopped. Because the thing was between them and the door they wanted. There was no room in the corridor to shoot past it. Eden moved to knock on the hard shadow behind it. Then stopped, because the smoke in the corridor had no edge that he could trust,. A opening needed an edge or it would not open.
 
 Felix put the bow down and took something from his coat. It was round and iron-faced and worn at the strap. It was lighter than it looked. There was a small mark under the strap that caught the light from the fire.
 
@@ -36,7 +36,7 @@ Felix's face changed. "Something said my name back."
 
 "Put it between the door and the Husk and walk."
 
-Felix walked, and the shield took the first blow with a sound that went down the corridor, and the Husk's long arm stopped against the iron as if it had hit a wall, and Felix pushed with his shoulder and the shield went forward, and the Husk went back into the smoke, and Lysette put two baton strokes into the joint of its knee and it went down.
+Felix walked, and the shield took the first blow with a sound that went down the corridor, and the Husk's long arm stopped against the iron and it had hit a wall, and Felix pushed with his shoulder and the shield went forward, and the Husk went back into the smoke, and Lysette put two baton strokes into the joint of its knee and it went down.
 
 The round shield took the second blow from the Husk and held. And Felix pushed the thing back into the wall. Kept it there with the iron edge under its throat. And Lysette came past him with her batons. Struck the joint at its elbow. The arm fell, and the Husk folded down onto the stone. Felix stood with his breath hard in his chest. The shield still on his arm. He said that the shield was warm. And Eden said that it always was. And Felix said that he had not known shields could be warm.
 
@@ -46,7 +46,7 @@ A sound came from behind them. And Clara was in the doorway of the barracks with
 
 "I can close it," Clara said. She put her staff against the wall. Took her hand off the boy. She closed her eyes, and the grey at the edge of the wound stopped moving and then went dark and then was gone, and she opened her eyes, and her mouth was tight with the cost of it, and she sat down on the step because her legs would not hold her.
 
-Rowan came down the corridor with his hands out. His face open with worry. He got to his knees beside her. Took the hand that was not hurt. He said her name three times because he did not know what else to say. She said that she was all right. He said that she was not. She said that she was all right enough. He said that there was a difference. He was going to sit there until she was all the way all right. She shut her eyes and let him hold her hand.
+Rowan came down the corridor with his hands out. His face open with worry. He got to his knees beside her. Took the hand that was not hurt. He said her name three times because he did not know what else to say. She said that she was all right. He said that she was not. She said that she was all right enough. He said that there was a difference. He was going to sit there until she was all and all right. She shut her eyes and let him hold her hand.
 
 Felix stood with the round shield on his arm. The feather mark under the strap. He looked at the shield. Then at Eden, and then at the smoke at the far end of the corridor, and he said, "I am going to put this down in a minute, and when I do, I want you to tell me what it is, and I want the whole answer this time."
 
@@ -58,7 +58,7 @@ Felix stood with the round shield on his arm. The feather mark under the strap. 
 
 Lysette knelt beside them with her book shut and her hands folded. She looked at the round shield. The feather mark and then at EdenShe wrote nothing down. After a while she got up. Went to the door to watch the north lane. She stood there with her back to them. Her shoulders were straight.
 
-They sat in the corridor for a while because nobody was ready to stand up. The smoke thinned and the cold came back through the door. The boy sat with his back against the wall. His hands in his lap. Watched Felix as if Felix were a thing he had never seen before. Felix let him watch, and he kept the shield on his arm, and after a while he took it off and put it across his knees, and the feather mark showed on the inside where the strap had rubbed it bright.
+They sat in the corridor for a while because nobody was ready to stand up. The smoke thinned and the cold came back through the door. The boy sat with his back against the wall. His hands in his lap. Watched Felix and Felix were a thing he had never seen before. Felix let him watch, and he kept the shield on his arm, and after a while he took it off and put it across his knees, and the feather mark showed on the inside where the strap had rubbed it bright.
 
 "Who is Perrin? the boy asked.
 

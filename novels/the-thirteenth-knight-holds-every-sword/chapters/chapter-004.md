@@ -20,7 +20,7 @@ Lysette stood at the end of the south tables with her black book open. "Nine min
 
 "Soup is water with ambitions." She took the roll off his tray, then put it back and set a second one beside it. "Sit and eat both."
 
-He sat, and she stayed standing with one finger on the page, reading the room over his head the way a sentry reads a road.
+He sat, and she stayed standing with one finger on the page, reading the room over his head and a sentry reads a road.
 
 Felix was already at the end of the table with a book against the salt pot, and he had not looked up yet, which was how he said hello. Then he did look up, and he looked past Eden at the aisle, and his book went down flat on the table.
 
@@ -28,9 +28,9 @@ Felix was already at the end of the table with a book against the salt pot, and 
 
 "Yes."
 
-Felix sat up slowly, as if his back hurt, and he moved the salt pot an inch to the left for no reason at all.
+Felix sat up slowly, and his back hurt, and he moved the salt pot an inch to the left for no reason at all.
 
-The aisle between the tables went quiet. A girl came down it in a dark coat with silver thread at the collar. She was fair like the Prince, with the same straight back, but where he made space by standing still, she made it by walking into it. A small bronze pin sat on her collar, and she carried no tray. She stopped at the end of the south table and looked at Eden as if she had found a book she had lost.
+The aisle between the tables went quiet. A girl came down it in a dark coat with silver thread at the collar. She was fair like the Prince, with the same straight back, but where he made space by standing still, she made it by walking into it. A small bronze pin sat on her collar, and she carried no tray. She stopped at the end of the south table and looked at Eden and she knew him at once.
 
 "Wren," she said. "The sleeper came to lunch."
 
@@ -64,7 +64,7 @@ Lysette said, "When was the last time?"
 
 "Yes, it suits you." Seraphine looked at them under the table.
 
-Lysette wrote something, slowly, and she did not tilt the book this time. Seraphine watched her write, and her smile changed at one corner, as if the page were the interesting part of the room.
+Lysette wrote something, slowly, and she did not tilt the book this time. Seraphine watched her write, and her smile changed at one corner, and the page held her attention.
 
 "You don't remember me," Seraphine said to Eden.
 
@@ -80,7 +80,7 @@ Lysette wrote something, slowly, and she did not tilt the book this time. Seraph
 
 "So am I." Seraphine put the spoon down and stood. She pulled her gloves on, one finger at a time. "Arms class after lunch. Okoru is putting us in pairs." At the end of the table she turned. "You'll be at the back, Wren. You're always at the back."
 
-She took an apple from the bowl by the door on her way out. The door closed behind her, and the room's noise came back in a rush, as if it had been holding its breath.
+She took an apple from the bowl by the door on her way out. The door closed behind her, and the room's noise came back in a rush, and the room had been quiet.
 
 Felix watched the door she had gone through. "She knows your name."
 
@@ -90,7 +90,7 @@ Felix watched the door she had gone through. "She knows your name."
 
 "That is how names work."
 
-Felix looked at him for a moment, then picked up his book and put it down again without opening it. "She looked at you as if she had known you for years."
+Felix looked at him for a moment, then picked up his book and put it down again without opening it. "She looked at you and she knew you."
 
 "She is a princess. She looks at everyone that way."
 
@@ -116,7 +116,7 @@ He ate both rolls, and she watched him do it and wrote one more line in the book
 
 The low arms hall sat under the east wall, and its floor was packed earth with a year of sawdust on it. Practice weapons stood in racks along the walls: spears, wooden bats, short sticks, and shields with leather rims. The windows were high and small, and the rain had got into the air, so the whole hall smelled of cold iron.
 
-Okoru stood at the far end with his one arm behind his back. His other sleeve was folded and pinned at the shoulder. He was a wide man with grey at his temples and a face like a door that had been shut for years. In his hand he held a short wooden stick, and he used it to point.
+Okoru stood at the far end with his one arm behind his back. His other sleeve was folded and pinned at the shoulder. He was a wide man with grey at his temples and a face and closed. In his hand he held a short wooden stick, and he used it to point.
 
 "Year 5," he said. The hall went quiet. "Pairs."
 
@@ -130,7 +130,7 @@ Seraphine held up her rapier. "I wanted the shield."
 
 "Then today you have a rapier." He turned his stick over. "Three touches, no heads. If I say stop, you are dead. Begin."
 
-Lysette drew her batons. They were short black sticks, no longer than her forearm, and she held them close to her body with the left one tilted higher than the right. They were made for a room, not a field. A stair, a corridor, the space between two people. She could not reach past a long blade with them, so the other person had to come to her.
+Lysette drew her batons. They were short black sticks, no longer than her forearm, and she held them close to her body with the left one tilted higher than the right. They were made for a room, not a field and a stair, a corridor, the space between two people. She could not reach past a long blade with them, so the other person had to come to her.
 
 Seraphine came in with her rapier thin and bright, and it moved first, a line at Lysette's eyes that turned into a line at her ribs. Lysette's left stick caught it, her right stick came up, and Seraphine stepped back before it arrived.
 
@@ -162,7 +162,7 @@ Seraphine offered her hand. Lysette looked at it, then took it once, hard. "You 
 
 "I know," Seraphine said. "You didn't."
 
-Rowan had been waiting with his spear across his shoulders. It was taller than he was, and he carried it the way a farmer carries a tool he is fond of. "I'm not good at this, but I'm good at hitting things. Okoru says there is a difference."
+Rowan had been waiting with his spear across his shoulders. It was taller than he was, and he carried it and a farmer carries a tool he is fond of. "I'm not good at this, but I'm good at hitting things. Okoru says there is a difference."
 
 "There is," Eden said.
 
@@ -170,7 +170,7 @@ Rowan had been waiting with his spear across his shoulders. It was taller than h
 
 Eden raised the practice shield. It was round, about the size of a tea tray, with a leather rim and a strap for the forearm. Inside the rim, someone had burned a row of initials and a date. He held it edge-forward, elbow tight to his ribs, and turned his body behind it.
 
-Rowan came in with a long, honest thrust, and there was no trick in it. Eden turned the shield, and the spearhead slid past his shoulder with a sound like a nail on a plate. Rowan pulled it back and tried again, lower. Eden stepped, turned, and the spear went past.
+Rowan came in with a long, honest thrust, and there was no trick in it. Eden turned the shield, and the spearhead slid past his shoulder with a sound with a small hard sound. Rowan pulled it back and tried again, lower and Eden stepped, turned, and the spear went past.
 
 "You can hit me," Rowan said.
 
@@ -232,7 +232,7 @@ Okoru walked over, not fast, and he did not hurry. He stopped in front of Eden a
 
 "Okoru," Seraphine said. "He is eighth, he blocks well, and it is not a crime."
 
-Okoru looked at her for a moment, then at Eden again, and his eyes went from Eden's hand to his shoulder to the mat, the way a man reads a page.
+Okoru looked at her for a moment, then at Eden again, and his eyes went from Eden's hand to his shoulder to the mat, and a man reads a page.
 
 "Again," he said, and walked away.
 

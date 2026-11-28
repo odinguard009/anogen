@@ -13,6 +13,7 @@ Write for readers who recently learned English (target CEFR A1-A2, owner order 2
 - One idea per sentence. Mostly 6-14 words, mean 9-12; link ideas with and, but, because, so, then, when, after. No more than 3 short (under 6 words) sentences in a row except in a fast fight. Simple past, active voice. No semicolons, no parentheses, no sentence over 30 words, at most one which/that/who clause.
 - Concrete nouns (door, rope, knife, bread). Numbers and distances said clearly (in steps).
 - PLAIN GROUP WORD: write "group", not "lance", for a team of students. Use the official name once with a plain gloss: "Lance Nine, a group of five students". **[Black Lancer]** is a job name, not a group.
+- NO ANALOGY DESCRIPTION (owner order 2026-11-28): describe a thing by what the reader sees and what the character does. Do not build its picture from *rectangle, knuckle, pale edge, grey-blue, the way it..., a shape/line/pool of...* Say: 'A black gap appeared in the stone. It was as tall as Eden. A thin line of light lay on one side. Eden called that gap **[Door]**.'
 - NO MOOD METAPHORS (owner order 2026-11-28): do not use *cold*, *shadow*, *the air went thick*, *as if*, or *like a* to hint at a feeling. Say what the person sees, does or says. One plain comparison per chapter maximum.
 - Figurative language: at most one simple comparison per page, taken from this world (lamps, ink, locks, bells, motor-cars), never a stock simile ("like a hen"). Jokes work from plain words.
 - Keep paragraphs short (1-4 lines on a phone).

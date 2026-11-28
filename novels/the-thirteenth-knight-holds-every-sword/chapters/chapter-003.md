@@ -14,7 +14,7 @@ Eden looked at the window too. "Did she?"
 
 "She has been dead eleven years." Vesk said it without any weight, the way he said everything.
 
-Vesk was a small man in grey, with eyes the yellow of a lamp wick. He wore black plate the way other men wore coats, and he spoke slowly.
+Vesk was a small man in grey, with eyes the yellow of a lamp wick. He wore black plate and other men wore coats, and he spoke slowly.
 
 "Who called?" Eden asked.
 
@@ -52,13 +52,13 @@ Eden took off his coat and folded it on the coal. He stood where his shadow was 
 
 The lamp above the stair went dim. His shadow spread under him in a clean round pool, edge sharp as a drawn line. He stepped backward into it, and the cold came up through his boots to his knees.
 
-The plates rose from the pool from the feet up. Sabatons first, a soft click. Greaves, knee wings, thigh plates, the faulds. Each one closed cold for one heartbeat and then turned warm. The chest plate sealed with a deep sound, the way a vault door seals. Pauldrons, one and then the other. Vambraces. Gauntlets last, the fingers closing one by one.
+The plates rose from the pool from the feet up. Sabatons first, a soft click. Greaves, knee wings, thigh plates, the faulds. Each one closed cold for one heartbeat and then turned warm. The chest plate sealed with a deep sound, and a vault door seals. Pauldrons, one and then the other. Vambraces. Gauntlets last, the fingers closing one by one.
 
 The helm came up smooth and black, with no face and one narrow slit of white light. It closed over his head, and every sound in the world dropped away except his own breath.
 
 A long plain coat unrolled from his shoulders and settled without a sound.
 
-**[Umra]** had no weight. It made no noise. The cellar turned grey-blue, and every edge grew sharp: the chute, the stair, the line where the light stopped under the door.
+**[Umra]** had no weight. It made no noise. The cellar turned dark, and every edge grew sharp: the chute, the stair, the line where the light stopped under the door.
 
 Eden took one step. The coal did not move under his boot.
 
@@ -84,7 +84,7 @@ The switchroom was long and narrow, and Eden stood in the corridor door at its e
 
 She pulled a plug and pushed it into another hole. Somewhere in the city, a telephone rang in an empty room.
 
-Eden counted the room. One door behind him. One window, painted shut. The lamp. The board's shadow, big enough. He had one clear thought, the way he always did before a fight. The voices came out of the board, and the board was her mouth. Stop the mouth.
+Eden counted the room. One door behind him. One window, painted shut. The lamp. The board's shadow, big enough. He had one clear thought, and he always did before a fight. The voices came out of the board, and the board was her mouth. Stop the mouth.
 
 He crossed the carpet in six steps and stopped at the board's east end, at the edge of the lamp's light, six steps from her chair. He tapped the dark part of the wall twice with his knuckles. A black gap appeared in the stone. It was as tall as Eden. A thin line of light lay on one side. Eden called that gap **[Door]**.
 
@@ -112,7 +112,7 @@ Eden's shield did not move. His eyes stayed on her shoulders, not her mouth.
 
 "Say my middle name," he said.
 
-The smile stayed where it was. The mouth moved a beat later. "Your mother—"
+The smile stayed where it was. The mouth moved a beat later. "Your mother..."
 
 "Say it."
 
@@ -158,7 +158,7 @@ Eden stood still and counted. The third tone faded. Then a fourth came, so faint
 
 He let **[Inead]** go. The gold light went out of the room, and the lamp was only a lamp again. He knocked once on the ring, and **[Exa]** unfolded back into a lance. Then he put it away in the black under his hand.
 
-The Frost came then, the way it always did after the armor: a cold that started in his fingers and settled behind his eyes. He breathed out slowly. The helm opened, the plates went back into the floor one by one, and the coal-smelling air of the exchange came in.
+The Frost came then, and it always did after the armor: a cold that started in his fingers and settled behind his eyes. He breathed out slowly. The helm opened, the plates went back into the floor one by one, and the coal-smelling air of the exchange came in.
 
 Vesk was already at the board with a cloth. "No trace," he said. "I know. You say it every time."
 
@@ -184,7 +184,7 @@ Vesk leaned over his arm. "The school."
 
 Vesk was quiet for a moment. Then he took a folded paper from inside his plate and held it out. "The grey office sent this up the stair while you were inside. A boy on a bicycle. He did not wait."
 
-The paper was folded in three, the way Ysolde folded everything. One line, in her small flat hand.
+The paper was folded in three, and Ysolde folded everything. One line, in her small flat hand.
 
 Form 13-B. Before the first bell.
 

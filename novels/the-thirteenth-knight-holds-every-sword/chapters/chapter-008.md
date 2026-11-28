@@ -4,15 +4,15 @@ The Undercroft workshop corridor was dark, and the lamps in their glass cages ha
 
 The stores book had given him one mark beside the core order: W3, written in the same careful hand as the signature. He had copied the mark on the back of his form, waited for the night bell, and come down alone. A lantern carried by two people made two shadows, and two shadows made a story.
 
-The workshop level was the lowest floor of the Undercroft, and the air was colder there than in the maze. Water ran behind the wall, and the sound came through the stone as a low, steady note. The doors on the left were numbered in chalk, and the numbers had been rubbed by hands. At the second door, a black thread crossed the frame at knee height, and the thread was pulled tight. Eden stepped over it and put his hand on the wall. The third door had no thread, and the dust under it had been swept to one side.
+The workshop level was the lowest floor of the Undercroft, and the air was colder there than in the maze. Water ran behind the wall, and the sound came through the stone as a low, steady note. The doors on the left were numbered in chalk, and the numbers had been rubbed by hands. At the second door, a black thread crossed the frame at knee height, and the thread was pulled tight. Eden stepped over it and put his hand on the wall. The third door had no thread, and the grey dust under it had been swept to one side.
 
 He put his hand on the door and listened. Inside the room, a drawer closed with a soft click, and then a man breathed out through his nose. Eden counted two breaths and pushed the door with one finger.
 
-The room was black. A high window let in a square of moonlight, and the light fell on a bench of tools. A man stood at the bench with his back to the door, and his hands were in a glass jar. The jar was full of grey dust, and the dust caught the moon like ash. The bench under the window was Sorn's old bench, and a brass plate on the front still carried his name. Someone had scratched the plate with a nail, but the letters were clear. A row of tools hung above it on hooks, and each tool had a clean handle and a dusty head.
+The room was black. A high window let in a square of moonlight, and the light fell on a bench of tools. A man stood at the bench with his back to the door, and his hands were in a glass jar. The jar was full of grey dust, and the grey dust caught the moon and it was pale. The bench under the window was Sorn's old bench, and a brass plate on the front still carried his name. Someone had scratched the plate with a nail, but the letters were clear. A row of tools hung above it on hooks, and each tool had a clean handle and a dusty head.
 
-Eden needed light. He took the dark lantern from his coat and opened the shutter one finger wide. The beam made a thin edge between the door and the dark, and he knocked twice on the edge with his knuckle. The shadow split, and a black Door opened in the frame.
+Eden needed light. He took the dark lantern from his coat and opened the shutter one finger wide. The beam made a thin edge between the door and the shadow, and he knockedtapped twice on the edge with his finger. The shadow split, and a black opening opened in the frame.
 
-The man turned. He was thin, with a scarf over his mouth and a staff coat torn at one sleeve. He saw the Door, and he ran for the passage at the back of the room.
+The man turned. He was thin, with a scarf over his mouth and a staff coat torn at one sleeve. He saw the opening, and he ran for the passage at the back of the room.
 
 A tower shield came down across the passage. It was black and as tall as a man, and it hit the stone with a low note that Eden felt in his teeth. Gorrath stood behind it, and his shoulders filled the passage from wall to wall.
 
@@ -20,9 +20,9 @@ A tower shield came down across the passage. It was black and as tall as a man, 
 
 "No," Gorrath said. "I am a wall."
 
-The man kicked the shield. The shield did not move, and the kick came back up his leg. He turned toward the bench, and Mirelle stepped out of the shadow beside the Door. She was small and pale, with a thin braid and a blade no wider than a needle.
+The man kicked the shield. The shield did not move, and the kick came back up his leg. He turned toward the bench, and Mirelle stepped out of the shadow beside the opening. She was small and pale, with a thin braid and a blade no wider than a needle.
 
-"**[Sile]**," she said, and the word was almost a breath. The long thin blade went up through the small Door, through the torn sleeve, and into the door frame behind it. The man's arm stopped in the air. The blade made no sound, and the sleeve did not tear any further. It was one stroke, and it held him like a pin in cloth. The limit was the Door: without an opening, the blade had nowhere to pass.
+"**[Sile]**," she said, and the word was almost a breath. The long thin blade went up through the small opening, through the torn sleeve, and into the door frame behind it. The man's arm stopped in the air. The blade made no sound, and the sleeve did not tear any further. It was one stroke, and it held him and he could not move. The limit was the opening: without an opening, the blade had nowhere to pass.
 
 The man looked at the blade, then at Eden. "I was looking for my gloves."
 
@@ -30,7 +30,7 @@ The man looked at the blade, then at Eden. "I was looking for my gloves."
 
 "Do I look like a cleaner?"
 
-"The cleaners have keys," Gorrath said. "You have dust on your cuffs."
+"The cleaners have keys," Gorrath said. "You have grey dust on your cuffs."
 
 The man looked at his cuffs, and his face changed. He put his hand behind his back, and Gorrath moved the shield an inch. The man stopped.
 
@@ -46,7 +46,7 @@ The man looked at the high window, and his mouth moved.
 
 "Gloves," Mirelle said.
 
-"In a dust jar," Gorrath said, and he shook his head.
+"In a grey dust jar," Gorrath said, and he shook his head.
 
 Eden walked to the bench and took the jar. The glass was cold, and the grey dust inside had been packed into a block. A leather tag lay beside it, and the tag had one word on it: "Nine."
 
@@ -74,11 +74,11 @@ He looked at Mirelle. "No kill."
 
 Mirelle looked at him, and her pale eyes did not move. "Proof is in the jar."
 
-"The jar is dust. Dust is not a name." Eden put the jar in his coat beside the slip. "We take the dust and the paper. He goes."
+"The jar is grey dust. grey dust is not a name." Eden put the jar in his coat beside the slip. "We take the grey dust and the paper. He goes."
 
 "He will run to his people."
 
-"Then his people will know we have the dust." Eden looked at the man. "Tell them a black shield took it."
+"Then his people will know we have the grey dust." Eden looked at the man. "Tell them a black shield took it."
 
 The man's face changed at the words, and he stopped breathing for a moment. Gorrath pulled the shield back from the passage, and the man ran. Mirelle pulled the blade from the frame, and the torn sleeve stayed behind, pinned to the wood by nothing at all.
 
@@ -104,9 +104,9 @@ Gorrath filled the doorway. "The passage is clear. He went up the east stair."
 
 "He saw the shield."
 
-Mirelle came to the bench and looked at the jars. "He came back for the dust. Why?"
+Mirelle came to the bench and looked at the jars. "He came back for the grey dust. Why?"
 
-"Because the dust is heavy to make and easy to carry," Eden said. "One jar fills three cores."
+"Because the grey dust is heavy to make and easy to carry," Eden said. "One jar fills three cores."
 
 "How do you know?"
 
@@ -128,7 +128,7 @@ Gorrath nodded, and his shield rang once as he set it down.
 
 They went up the east stair in the dark, and the stone steps were cold through his boots. At the top, a door opened into the old classroom corridor. A line of moonlight lay across the floor, and a man sat in a chair by the window with a stack of papers on his knee.
 
-It was the vice-headmaster. Halvard Strent sat in a wooden chair with a blanket over his knees, and a cup of tea stood on the floor beside him. The cup had no steam. A plate of biscuits sat on the chair arm, and half of one biscuit was gone. He wore a grey coat with a pen in the pocket, and his hair was thin and white. He held a paper up to the moon and made a small mark with his pen.
+It was the vice-school head. Halvard Strent sat in a wooden chair with a blanket over his knees, and a cup of tea stood on the floor beside him. The cup had no steam. A plate of biscuits sat on the chair arm, and half of one biscuit was gone. He wore a grey coat with a pen in the pocket, and his hair was thin and white. He held a paper up to the moon and made a small mark with his pen.
 
 "Wren," Strent said, and he looked over the paper. "You are up late."
 
@@ -150,19 +150,19 @@ Eden took one and put it in his coat.
 
 "I read the ones I need."
 
-"Still." Strent put his pen down. "I can speak for you on Friday. The headmistress listens to me more than she admits."
+"Still." Strent put his pen down. "I can speak for you on Friday. The school head listens to me more than she admits."
 
 "No," Eden said.
 
 "You do not know what I would say."
 
-"I know what the Committee would hear. A vice-headmaster spoke for me, so the case is important. Then they would look at me, and I do not want to be looked at."
+"I know what the Committee would hear. A vice-school head spoke for me, so the case is important. Then they would look at me, and I do not want to be looked at."
 
 Strent looked at him for a moment. "That is a good answer, and a sad one."
 
 Strent smiled, and the smile was kind and tired. "I heard the workshop door. The hinges are old, and the third door has a voice of its own. Did you find what you wanted?"
 
-"A jar of dust."
+"A jar of grey dust."
 
 "That is not a thing I would want." Strent picked up his pen again, and he began to hum. The tune was low and slow, and it had four notes that went down and then one that went up.
 

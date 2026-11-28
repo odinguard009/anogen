@@ -124,7 +124,7 @@ Eden had a paper in his desk. The woman who ran the school had signed it, and it
 
 She opened her mouth and shut it again. Eden thought she could not tell if he was making fun of her. He was not. A boy on the floor above him played a wooden flute every night. It had eleven notes, and he played the ninth one wrong every time.
 
-"Fine," she said. "Do the first two. And if one word of this gets out, I will know it was you, because you are the only one who—" She stopped. "Before you start making up reasons."
+"Fine," she said. "Do the first two. And if one word of this gets out, I will know it was you, because you are the only one who..." She stopped. "Before you start making up reasons."
 
 "I wasn't going to."
 
@@ -144,7 +144,7 @@ She opened her mouth and shut it again. Eden thought she could not tell if he wa
 
 Her voice cracked, and she stopped and waited for it to pass.
 
-"Then he came to me after," she said. "And asked if I was going. With anyone. Because he's nice. He's nice to everybody, he has no idea. He never had any idea. And the stupid part is, I don't even—"
+"Then he came to me after," she said. "And asked if I was going. With anyone. Because he's nice. He's nice to everybody, he has no idea. He never had any idea. And the stupid part is, I don't even..."
 
 She did not finish that one at all.
 
@@ -176,7 +176,7 @@ She looked down at the cloth again, maybe for the first time, and ran her finger
 
 She went still, and Eden watched her think about it. Was.
 
-"Then why would you give it to some girl who was—" She waved her hand in a quick, angry circle at her own face.
+"Then why would you give it to some girl who was..." She waved her hand in a quick, angry circle at her own face.
 
 "You were using your armband."
 

@@ -42,13 +42,13 @@ Seraphine put a hand to it. "It is meant to be like that."
 
 "Then I will write it again."
 
-A prefect came past and asked what the second entry was for, and Lysette held out the book so he could read it, and he read "crooked collar" and looked at Seraphine's collar, which was now very straight.
+A older student came past and asked what the second entry was for, and Lysette held out the book so he could read it, and he read "crooked collar" and looked at Seraphine's collar, which was now very straight.
 
 "It was crooked," Lysette said.
 
 "It is not now."
 
-"That is the point of a report," Lysette said, and the prefect went away with a confused face.
+"That is the point of a report," Lysette said, and the older student went away with a confused face.
 
 Seraphine watched him go and then leaned across the table. "You are writing me up because of him," she said, and she pointed at Eden with her spoon.
 
@@ -156,4 +156,4 @@ She went down the stair, and Eden stayed on the bench until the roof door had st
 
 He went down the stair at last, and the hall was dark, and the green poster on the board showed its gold lanterns in the half light. He stopped in front of it for a while, and he read the line about formal dress, and then he walked past it to the store room where his coat hung, and he took the key from his pocket and opened the door.
 
-The store room was cold and empty, and his drill spear stood in its rack with dust on the blunted cap. He put his coat on a hook and sat on the crate by the door, and he listened to the pipes in the wall until the evening bell rang over the court.
+The store room was cold and empty, and his drill spear stood in its rack with grey dust on the blunted cap. He put his coat on a hook and sat on the crate by the door, and he listened to the pipes in the wall until the evening bell rang over the court.

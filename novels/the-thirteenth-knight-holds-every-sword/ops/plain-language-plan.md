@@ -136,3 +136,8 @@ Semua poin sudah diberikan aturan kanoniknya di `consistency-arc1.md`.
 ## 8. Status
 
 Setting sudah dipasang, rencana sudah diperbarui. **Chapter 1–50 belum diubah.** Menunggu perintah eksplisit untuk Tahap 1/2.
+
+## Keputusan 2026-11-28: rewrite penuh, bukan patch satu kalimat
+Scan 50 bab menemukan 213 penanda kalimat analogi/abstrak (like a 49, as if 64, the way 52, rectangle/knuckle/edge/grey-blue 15, dll.). 16 bab punya 5+ penanda. Memperbaiki satu per satu tidak praktis dan meninggalkan gaya campuran.
+
+Keputusan: seluruh arc 1 ditulis ulang dengan aturan baru (pilot ch 1,2,3,6,16 sudah selesai). Aturan anti-analogi ditambahkan ke profile.md, audience.md, quality-contract.md, writing-rules.md, dan tools/check_chapter.py audience_check agar tidak terulang.

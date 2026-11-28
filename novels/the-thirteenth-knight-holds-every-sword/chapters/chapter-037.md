@@ -40,9 +40,9 @@ The file was a confirm. It named a Veil in the garrison at PR 110, the date, hou
 
 He had marked it. He never marked a confirm without seeing the grey. And the rule was older than his time on the Wall. And he had kept it every time. And here was his own mark on his own page with the date beside it. He looked at the mark for a long time. And then he turned the file over. Because there was a fact on the other side that he wanted to find.
 
-The facts were there. The hour was right. The place was right. The dust report was right. The name was wrong in a way he could not explain. Because the name on the page was a man and the face in his mind was a shape with a hook in it. And the hook kept turning into the corner of a uniform when he tried to hold it. He had tried to recall that face for six years. And he had written once that he could not. And he had burned the page he wrote it on.
+The facts were there. The hour was right. The place was right. The grey dust report was right. The name was wrong in a way he could not explain. Because the name on the page was a man and the face in his mind was a shape with a hook in it. And the hook kept turning into the corner of a uniform when he tried to hold it. He had tried to recall that face for six years. And he had written once that he could not. And he had burned the page he wrote it on.
 
-He turned to the second page. Because a confirm had a witness column and he wanted to see whose name was in it. The column was empty. There was no witness and no second mark and no note about a face. A clerk whose name he did not know had signed the page. The third page had a list of the dust recovered from the scene. And the fourth had a bill for a uniform that had been destroyed. And the bill had been paid by the crown and dated three weeks after the event.
+He turned to the second page. Because a confirm had a witness column and he wanted to see whose name was in it. The column was empty. There was no witness and no second mark and no note about a face. A clerk whose name he did not know had signed the page. The third page had a list of the grey dust recovered from the scene. And the fourth had a bill for a uniform that had been destroyed. And the bill had been paid by the crown and dated three weeks after the event.
 
 He shut the file and put it back in his coat. The wind came over the parapet and moved the loose stone dust. And he stood in the wind shadow with his hand on the file and his breath held. And he let the breath go when he had counted ten.
 
@@ -68,7 +68,7 @@ Felix found him there. He came up the stair with his bow case on his shoulder an
 
 Eden said nothing, and Felix stood beside him for a while. Then he said one more thing in the flat way he said facts about bows and roads. "I do not think you did anything wrong," he said. "I think you are afraid that you did, and that is a different thing, and it is the first time I have seen you be afraid of anything." Eden looked at him, and Felix looked at the wall. "Do not ask me how I know," he said. "You stand too still."
 
-Eden said nothing, and Felix stood beside him for a while, then went down the stair, and Eden heard his boots all the way to the yard.
+Eden said nothing, and Felix stood beside him for a while, then went down the stair, and Eden heard his boots all and to the yard.
 
 Clara came up later with a cup of tea in both hands and gave it to him without asking. She sat beside him and looked at the file in his coat, then at the wall.
 
@@ -86,7 +86,7 @@ Clara came up later with a cup of tea in both hands and gave it to him without a
 
 He drank the tea with the spoon, because the cup was wrapped in her gloves and he did not want to take them, and when it was finished he handed the cup back.
 
-At the bottom of the file there was a last page. And the page had been torn out at the stitch. And the stitching holes were still there in the fold. Eden held the file up to the light from the lamp and counted the holes. And there had been five sheets and now there were four. And the missing sheet had gone cleanly. As if someone had wanted the file to be complete except for one thing.
+At the bottom of the file there was a last page. And the page had been torn out at the stitch. And the stitching holes were still there in the fold. Eden held the file up to the light from the lamp and counted the holes. And there had been five sheets and now there were four. And the missing sheet had gone cleanly. and someone had wanted the file to be complete except for one thing.
 
 He wrote one line in his notebook and put it in his coat: "Last page missing. PR 110." Then he went down the stair, and he did not tell Ysolde's courier, and he did not tell Lysette, and he did not tell Felix, who had asked for nothing.
 

@@ -1,6 +1,6 @@
 # Chapter 31: The Southern Wall
 
-The Southern Wall ran east and west until it was lost in the grey. And the camp sat against it in rows of low stone huts. And the wind came over the parapet with dust in it. Eden had been cold in the academy yard. And he had been cold on the roof, and this cold was different. It came through the wall and up through his boot soles. And it did not let go when he moved. Because there was no sun on the north face of the Wall. Eden stood in the muster yard at six with his coat up to his throat. And the cold went through the seams of the school uniform and found the skin at his wrists.
+The Southern Wall ran east and west until it was lost in the grey. And the camp sat against it in rows of low stone huts. And the wind came over the parapet with grey dust in it. Eden had been cold in the academy yard. And he had been cold on the roof, and this cold was different. It came through the wall and up through his boot soles. And it did not let go when he moved. Because there was no sun on the north face of the Wall. Eden stood in the muster yard at six with his coat up to his throat. And the cold went through the seams of the school uniform and found the skin at his wrists.
 
 spear Nine had been posted as its own unit, and that was new. The other spears stood in groups of twenty along the yard wall. And the veterans watched the five of them with the quiet interest of men who had seen a term's worth of rumours about a rank-eight sleeper.
 
@@ -42,7 +42,7 @@ The sergeant took them to a practice bay behind the stores. Where a row of consc
 
 "This is a mana-lock musket," he said, and the conscripts leaned in to look. The gun was longer than a hunting piece, and the glass tube held a small blue spell, and a thin mana line ran from the tube to the brass ring at the back. The sergeant said it worked in rain and did not need powder, and that the ball inside was heavy enough to knock a man down when it went straight. "It is a good tool," he said. "It is not a wall."
 
-He raised his free arm, and the air near his shoulder went thick, and the snow on a nearby crate flattened where it fell, and two conscripts stepped back without being told. Eden watched the line of the man's shoulder and the way the cold air bent around it. And he wrote one word in his notebook: aura.
+He raised his free arm, and the air near his shoulder went thick, and the snow on a nearby crate flattened where it fell, and two conscripts stepped back without being told. Eden watched the line of the man's shoulder and and the cold air bent around it. And he wrote one word in his notebook: aura.
 
 The sergeant fired the musket into a sand bank. And the gun gave a hard click and a puff of blue light. And the ball went into the sand and stuck there. Then he fired again, and the glass tube made a cracking sound, and the ball came out sideways and hit the ground three paces short.
 
@@ -64,11 +64,11 @@ Eden wrote three words in his notebook: mana-lock, misfire, Ward-plate. He put a
 
 A bell rang twice from the wall gate, and the sergeant's face changed into something shorter. "Probe," he said, and he went up the stair with four veterans ahead of him, and spear Nine followed because Okoru had told them to watch and not to help.
 
-Eden saw the Hushborn before he understood what it was: a grey shape on the outer face of the wall with long arms and no neck. And it climbed with its hands flat on the stone as if the wall were a ladder it had used before. A veteran fired a musket into its chest. And the ball sank into grey flesh and stayed there, and the thing kept climbing.
+Eden saw the Hushborn before he understood what it was: a grey shape on the outer face of the wall with long arms and no neck. And it climbed with its hands flat on the stone and the wall were a ladder it had used before. A veteran fired a musket into its chest. And the ball sank into grey flesh and stayed there, and the thing kept climbing.
 
 "That is why you carry a blade," a soldier beside Eden said, and he put his own aura up and went over the parapet with a short blade, and the blade went through the grey shape at the shoulder and the thing fell back into the dark without a sound.
 
-Two more veterans finished the probe while the conscripts watched, and it was over in a minute and a half, and the soldiers went back to their posts as if a thing climbing the wall at dawn were a matter of sweeping the step.
+Two more veterans finished the probe while the conscripts watched, and it was over in a minute and a half, and the soldiers went back to their posts and a thing climbing the wall at dawn were a matter of sweeping the step.
 
 Lysette had written four lines in her book. "They did not call us," she said.
 
@@ -90,9 +90,9 @@ Felix, who had been quiet, said, "They climb like that because the wall is made 
 
 Eden looked at Felix, and then at the wall, and he said nothing.
 
-On the way down to the stores, a man with a round face and a limp handed out tins from a crate, and he hummed a tune with four notes down and one that went up while he did it, and he did not seem to know that he was humming.
+On and down to the stores, a man with a round face and a limp handed out tins from a crate, and he hummed a tune with four notes down and one that went up while he did it, and he did not seem to know that he was humming.
 
-"Groundskeeper Hallow was left here when the school went north," the man said, and he gave Eden a tin of beans and a spoon wrapped in paper. "I run the stores, and I knew the man who ran them before me, and I can tell you which tins are lying about their date." He looked at Eden's face for a moment and then looked away. "Cold out," he said, and he went on humming while he counted the next crate.
+"grounds man Hallow was left here when the school went north," the man said, and he gave Eden a tin of beans and a spoon wrapped in paper. "I run the stores, and I knew the man who ran them before me, and I can tell you which tins are lying about their date." He looked at Eden's face for a moment and then looked away. "Cold out," he said, and he went on humming while he counted the next crate.
 
 An old soldier sat on a barrel by the store door with his hands around a cup, and he had a grey moustache and a missing finger on his left hand, and he watched Eden and the others with the calm of a man who had decided they were not interesting yet.
 
@@ -112,7 +112,7 @@ Nobody asked who she was, and the old man did not explain, and the wind went ove
 
 "The ground," Eden said, and he did not say anything else.
 
-The groundskeeper came back with a second crate and hummed the same four notes down and one up, and he stopped when he saw Eden looking at him.
+The grounds man came back with a second crate and hummed the same four notes down and one up, and he stopped when he saw Eden looking at him.
 
 "Do I know that tune?" Eden asked.
 

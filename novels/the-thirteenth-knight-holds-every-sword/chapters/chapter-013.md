@@ -1,6 +1,6 @@
 # Chapter 13: The Lamp-House
 
-Vesk came out of the shadow under the stair and stood in the lamplight with his hands in his coat pockets. "Long Stair," he said. "The lamplighter is late, and the third bell is in twenty minutes."
+Vesk came out of the shadow under the stair and stood in the lamplight with his hands in his coat pockets. "Long Stair," he said. "The lamp man is late, and the third bell is in twenty minutes."
 
 Eden closed his book and put it in his coat. "Is it a Veil?"
 
@@ -14,7 +14,7 @@ Eden closed his book and put it in his coat. "Is it a Veil?"
 
 "No one knows, and no one is asking." Vesk stepped back into the shadow. "The bell is yours."
 
-Umra came out of Eden's shadow without a sound. The black plate closed over his chest and arms, and the white-thread slit in the helm made a thin bright line across his face. The cellar air went grey-blue around him, and every edge in the stairwell grew sharp: the iron rail, the step, the line where the lamp light stopped on the wall. He put one glove on the rail and felt the cold through the leather.
+Umra came out of Eden's shadow without a sound. The black plate closed over his chest and arms, and the white-thread slit in the helm made a thin bright line across his face. The cellar air went dark around him, and every edge in the stairwell grew sharp: the iron rail, the step, the line where the lamp light stopped on the wall. He put one glove on the rail and felt the cold through the leather.
 
 The Long Stair climbed the outside of the plateau in four turns, and the lamps stood on iron poles at every landing. The wind came up the rock in cold pushes, and the city lay below in a grid of yellow windows. Eden kept to the wall side where the shadow was deepest, and he counted the poles as he went: eight, nine, ten, and the eleventh lamp was out.
 
@@ -38,17 +38,17 @@ Eden stopped at the door. The man's shadow on the wall was flat and still, and i
 
 "Not this one." The smile held. "This one is mine."
 
-The man's smile came again, late and smaller. He took a long brass pole from the rack, and his hand went around it with the slow care of someone who had done it for eleven years. Eden drew **[Inead]**. The gold sword made one clear note in the room, and the light from it laid the truth over the man's face: the skin went thin as paper, the eyes became two dark seams, and the grey body showed under the coat like dust under a sheet.
+The man's smile came again, late and smaller. He took a long brass pole from the rack, and his hand went around it with the slow care of someone who had done it for eleven years. Eden drew **[Inead]**. The gold sword made one clear note in the room, and the light from it laid the truth over the man's face: the skin went thin as paper, the eyes became two dark seams, and the grey body showed under the coat like grey dust under a sheet.
 
 The bronze pole came down. Eden put Umra's shoulder into it and turned the blow on the flat of the blade, and the pole bent at the middle and struck the glass rack. Lamps swung and rang, and one chimney fell and broke. The Veil came on with its hands open, and its smile had vanished, and its shadow lagged half a step behind it on the wall.
 
-Eden knocked twice on the shadow edge where the wall met the floor. A black Door opened in the dark under the rack, and the Veil's next step took it into the dark. The body was held there, and the grey did not come out. Eden put Inead through the opening in one cut, and the light flashed on the brass hooks, and the thing inside came apart into grey dust that fell in a soft line onto the stone.
+Eden tapped twice on the shadow edge where the wall met the floor. A black opening opened in the dark under the rack, and the Veil's next step took it into the dark. The body was held there, and the grey did not come out. Eden put Inead through the opening in one cut, and the light flashed on the brass hooks, and the thing inside came apart into grey dust that fell in a soft line onto the stone.
 
-The Door closed. The lamp-house was quiet except for the wind at the glass roof, and the oil on the floor kept the shape of a boot. Eden put Inead away, and the grey-blue air went back to normal around him, and Umra folded into his shadow without a sound. He took the broken chimney from the floor and set it upright on the rack, and then he walked down the stair before the third bell could finish ringing.
+The opening closed. The lamp-house was quiet except for the wind at the glass roof, and the oil on the floor kept the shape of a boot. Eden put Inead away, and the dark air went back to normal around him, and Umra folded into his shadow without a sound. He took the broken chimney from the floor and set it upright on the rack, and then he walked down the stair before the third bell could finish ringing.
 
 * * *
 
-The report came at breakfast the next morning. A first-year from the lower school stood in the Committee room with his cap in his hands and his ears red, and he told Lysette Hollen that the lamplighter had not come down all night, and that the spare lamp on the landing was still dark.
+The report came at breakfast the next morning. A first-year from the lower school stood in the Committee room with his cap in his hands and his ears red, and he told Lysette Hollen that the lamp man had not come down all night, and that the spare lamp on the landing was still dark.
 
 "The lamp-house door was open," the boy said. "There was oil on the floor, and a broken glass, and no man."
 
@@ -148,7 +148,7 @@ The Committee room was empty when Lysette came back from the stair, and Eden wen
 
 Above the desk, the wall was a different colour.
 
-Eden stopped in the doorway. The paint around the space was pale grey from years of smoke, and inside the space it was a lighter cream, clean and square, with a thin line of dust at the edge where a frame had once hung against the wall. Nothing hung there now. The pale shape had no nails in it and no marks, and it was the size of a tall picture, and its edges were clean.
+Eden stopped in the doorway. The paint around the space was pale grey from years of smoke, and inside the space it was a lighter cream, clean and square, with a thin line of grey dust at the edge where a frame had once hung against the wall. Nothing hung there now. The pale shape had no nails in it and no marks, and it was the size of a tall picture, and its edges were clean.
 
 Lysette followed his eyes and put her book down. "The room came that way," she said. "There was a frame when I was little, and my mother had it taken down."
 
@@ -164,6 +164,6 @@ Lysette followed his eyes and put her book down. "The room came that way," she s
 
 "No," Lysette said. "I want to know what was in it."
 
-Eden looked at the pale square again. It was the exact shape of the opening in the lamp-house replay, tall and narrow with a clean edge at the top, and the wall around it kept the faint outline of a frame that no longer existed.
+Eden looked at the pale square again. It was the exact shape of the opening in the lamp-house replay, tall and narrow with a light edge at the top, and the wall around it kept the faint outline of a frame that no longer existed.
 
 "The Thirteenth Vigil was here," Lysette said, and her pen moved across the page. "I will find out who opens the doors."

@@ -24,7 +24,7 @@ The yard clock said ten, and the hall doors had been shut since the eighth bell,
 
 The boy went back to his plates, and Eden watched him stack them in twos, and he thought about the count of spoons in the pantry and the count of men in the hall, and which of the two was easier to trust.
 
-Forty people sat on the boards of the atrium with their backs to the stage, and four Embers watched the doors with short blades at their sides. Smoke from the broken chandelier chain hung in the air, and every lamp the Crowns had brought threw a hard black shadow under a table.
+Forty people sat on the boards of the glass hall with their backs to the stage, and four Embers watched the doors with short blades at their sides. Smoke from the broken chandelier chain hung in the air, and every lamp the Crowns had brought threw a hard black shadow under a table.
 
 Eden eased down through the east lattice where the glass had gone. **[Exa]** was folded across his forearm, and he turned the shield edge-on so no lamp could catch it. A shadow band from a broken lamp frame ran along the iron, and he used it as a path.
 
@@ -50,7 +50,7 @@ The man sat down, and the woman beside him took his hand, and the Cinder moved t
 
 Two Embers lifted their lanterns toward the east lattice. Eden went into the deep shadow of a lamp frame and held his breath, and the light slid over the iron two feet above his head.
 
-""Dust," one of them said, and they turned back.
+""grey dust," one of them said, and they turned back.
 
 "I saw a shadow move."
 
@@ -100,7 +100,7 @@ Ilsabet's grey arm swung up and came down on the stage edge with a sound like we
 
 The **[Hrak]** was her graft grown from shoulder to fist until the coat seam split, and every use spent her and pushed the grey higher. It needed reach, and nothing more.
 
-Eden knocked once on the hard edge where a lamp threw its light across a fallen chair. An opening showed under the chair, and he stepped in and came out behind the stage where its shadow met the brick. No one saw him cross the floor, because the opening never showed where it led.
+Eden knocked once on the light edge where a lamp threw its light across a fallen chair. An opening showed under the chair, and he stepped in and came out behind the stage where its shadow met the brick. No one saw him cross the floor, because the opening never showed where it led.
 
 "Where did he go?" a hostage whispered.
 
@@ -114,7 +114,7 @@ He had taken the blow where the shield could take it, and his feet were still un
 
 The **[Lintel]** was the shield flat overhead with a blade drawn from under it in the same motion. It needed the first blow on the shield before the cut came. The gold light made a graft honest: it showed the grey for what it was, and it gave one cut from the shield's edge, with no second swing in it.
 
-Ilsabet's face went glassy, and the grey showed under her pale coat, and her arm stopped in the air. Eden cut once from the shield edge. The arm went still, and the veins at her jaw stopped moving. She sat down on the stage as if someone had asked her to.
+Ilsabet's face went glassy, and the grey showed under her pale coat, and her arm stopped in the air. Eden cut once from the shield edge. The arm went still, and the veins at her jaw stopped moving. She sat down on the stage and someone had asked her to.
 
 "She is down," a man said, and the hall changed in one breath.
 
@@ -136,7 +136,7 @@ Felix kept his hand over Seraphine's, and her fingers had gone still. She looked
 
 A staff-coated man stood among the hostages near the west wall with his hands folded, and he was studying a green and gold hanging on the wall with hounds in the grass.
 
-"Good hunting in that one," he said to a prefect beside him, and he tilted his head as if he had all the time in the world.
+"Good hunting in that one," he said to a older student beside him, and he tilted his head as if he had all the time in the world.
 
 Merrow. The gold passed over his face for half a beat, and he looked at it and then away, and he did not move.
 
@@ -150,7 +150,7 @@ Eden passed within four steps of him with the shield overhead and the sword bare
 
 The Embers put down their blades one by one, and the hostages stood in pairs, and the hall began to make the small noises of a room that was alive again. The hall smelled of hot wax and smoke, and the boards under the tables had been scored by iron shoes, and every face had turned toward the stage when Ilsabet spoke.
 
-A prefect found the boy with the cut under his chin and led him to a chair, and a healer came down from the gallery with a cloth, and the boy kept his hands on the table edge even after he was told to let go.
+A older student found the boy with the cut under his chin and led him to a chair, and a healer came down from the gallery with a cloth, and the boy kept his hands on the table edge even after he was told to let go.
 
 "Is it over?" a girl asked.
 
@@ -158,7 +158,7 @@ A prefect found the boy with the cut under his chin and led him to a chair, and 
 
 Eden folded **[Exa]** into its ring and put both weapons away, and the gold went out of the hall, and the dark figure went with it.
 
-At the east door Lysette stood with a Seal guard at her shoulder and a round sheet in her hand. She had seen too much smoke and too little of him, and she was looking at every shadow in the room as if one might become an answer.
+At the east door Lysette stood with a Seal guard at her shoulder and a round sheet in her hand. She had seen too much smoke and too little of him, and she was looking at every shadow in the room and one might become an answer.
 
 "Nobody came through this door," the guard said.
 

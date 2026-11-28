@@ -10,9 +10,9 @@ The Husks came up the north lane in a line. Their long hands scraped the wall as
 
 Lysette came up behind him with her round sheet in her hand and said the numbers again: forty-one at the gate. Forty on the step, and one still walking somewhere in the smoke. Rowan had his light in his palms and his shield on his arm. His face was set because he had been told to hold and holding was what he did. Felix was already at the corner with an arrow at his cheek. And Clara had her staff across her shoulders and her mouth shut. And Eden saw all of them in one look and knew that he did not have to give another order.
 
-"Lance Nine," Eden said, and the five of them moved.
+"the group," Eden said, and the five of them moved.
 
-The wagon's shadow was hard and clean under the wheel. And Eden knocked twice on the edge of it and the dark took the first three Husks before they reached the step. The fourth turned and ran into the fifth. The lane made a sound like a door shutting in a deep house. Felix stood at the corner with an arrow at his cheek and his eyes on the yard. He did not shoot, because the wagon had done the work.
+The wagon's shadow was hard and clean under the wheel. And Eden tapped twice on the edge of it and the dark took the first three Husks before they reached the step. The fourth turned and ran into the fifth. The lane made a sound like a door shutting in a deep house. Felix stood at the corner with an arrow at his cheek and his eyes on the yard. He did not shoot, because the wagon had done the work.
 
 The cook stood on the kitchen step with a ladle in her hand and counted the people coming past her. She called the numbers aloud because she had always counted that way. When she got to forty she stopped and called the number again. Because the yard was still full of smoke and she did not trust her eyes.
 
@@ -26,9 +26,9 @@ It did not come up apple-sized and soft. It came up his arms and out through the
 
 "**[Ithe]**," Rowan said, and his voice cracked on the word.
 
-The **[Ithe]** was a burst of gold from the spear head that drove the Hushborn back and threw hard shadows. It spent the warmth in his hands and left him cold. After one burst his hands did not always answer when he told them to. The Husks at the step went back three paces and then fell. The light went out of Rowan's arms as if a mouth had closed over it. He staggered and put a hand on the wall. His face had gone the colour of ash.
+The **[Ithe]** was a burst of gold from the spear head that drove the Hushborn back and threw hard shadows. It spent the warmth in his hands and left him cold. After one burst his hands did not always answer when he told them to. The Husks at the step went back three paces and then fell. The light went out of Rowan's arms and a mouth had closed over it. He staggered and put a hand on the wall. His face had gone the colour of ash.
 
-Clara was beside him before he fell. She put her staff across the crack in the stone and held it thereA green line ran out along the crack and up the wall. The Husks on the far side of it stopped as if they had come to the edge of a river they could not cross.
+Clara was beside him before he fell. She put her staff across the crack in the stone and held it thereA green line ran out along the crack and up the wall. The Husks on the far side of it stopped and they had come to the edge of a river they could not cross.
 
 "**[Wyl]**," Clara said, and her voice was low and steady.
 
@@ -38,7 +38,7 @@ Eden saw the grass and wrote nothing down. Because there was no plain word for a
 
 Okoru fought his way out of the smoke with his stick in his hand and a cut on his sleeve. He came to the step and said that the yard was lost and that the people had to go out through the south gate in lines of ten. And Lysette said that she had the list and would call the names. And Okoru said that a list was a good thing and that he had been right to teach her to keep one. Then he went back into the smoke because there were men still inside it. The cook hit an Ember in the wrist with her ladle and told it to leave her kitchen alone.
 
-Valerius came through the south gate with Lance One behind him. They were late and they were furious. His white band was covered in soot. He stopped in the middle of the yard and looked at the burning camp. The air around his raised shoulder frosted over for one breath and then went clear. The men near him stepped back because they had seen it or because they had felt it. And Eden had seen it and kept his face still.
+Valerius came through the south gate with the other group behind him. They were late and they were furious. His white band was covered in soot. He stopped in the middle of the yard and looked at the burning camp. The air around his raised shoulder frosted over for one breath and then went clear. The men near him stepped back because they had seen it or because they had felt it. And Eden had seen it and kept his face still.
 
 "Who held this yard? Valerius asked, and nobody answered, and he looked at the wagon in the lane and the black mouth of the shadow under it, and at the green line by the step, and at Rowan sitting with his back against the wall with his hands in his lap, and he said nothing else.
 

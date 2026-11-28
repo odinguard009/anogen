@@ -1,8 +1,8 @@
 # Chapter 43: The Quiet Watch
 
-The storm held off all day. The sky went the colour of old iron. The wind stayed low behind the wall as if it were waiting for something. spear Nine took the last watch from the eighth bell to dawn. And Eden stood at the left parapet with the scarf under his coat and his gloves sealed at the wrists.
+The storm held off all day. The sky went the colour of old iron. The wind stayed low behind the wall and it were waiting for something. spear Nine took the last watch from the eighth bell to dawn. And Eden stood at the left parapet with the scarf under his coat and his gloves sealed at the wrists.
 
-The wall was quiet in the way a wall is quiet before snow. The men on the next stretch had stopped talking an hour earlier. The lamps burned low because the oil had thickened in the cold. Eden counted the turns of the parapet and then stopped counting. Because a thing with a number was a thing he could hold. He wanted to hold something while the dark beyond the wall stayed so still.
+The wall was quiet in and a wall is quiet before snow. The men on the next stretch had stopped talking an hour earlier. The lamps burned low because the oil had thickened in the cold. Eden counted the turns of the parapet and then stopped counting. Because a thing with a number was a thing he could hold. He wanted to hold something while the dark beyond the wall stayed so still.
 
 A soldier from the next stretch came along the wall at the tenth bell with his hands wrapped in cloth and his face drawn tight. He asked Clara whether she could look at his fingers. She put down her staff and took his hands. The cloth came away with a sound like paper stuck to a wound. Three fingers on his left hand were black at the tips. The skin around the nails had gone hard and pale. He kept his hands still while she looked at them. Which was a thing a man did when he was more frightened than he wanted to show.
 
@@ -28,7 +28,7 @@ He stood beside her with his shield in his hand and his shoulders hunched. He wa
 
 Lysette was on the right parapet with her round sheet in her hand. She had spent the first hour of the watch watching Rowan. As she had spent most of the winter. Then she found that she was watching Eden instead. She could not say when the change had happened. He was standing at the left with his hand on the stone and his head slightly down. There was nothing remarkable about him that she could see. She shut her book and opened it again and wrote a line about a loose rail. Because a loose rail was a thing she could write down without writing his name.
 
-Clara came past her on the way back from RowanShe stopped and looked at the dark beyond the wall. Then she said, without turning, "I know he will never see me."
+Clara came past her on and back from RowanShe stopped and looked at the dark beyond the wall. Then she said, without turning, "I know he will never see me."
 
 Lysette put her pencil down, because there was no form for a sentence like that.
 
@@ -46,13 +46,13 @@ Felix checked the oil lines in the dark while the others stood at their posts. H
 
 The watch went on, and the sky lightened by slow degrees, and the dark beyond the wall became grey land. The birds on the warment lifted their heads one at a time. Felix came back from the stores and stood at the stair with his hands in his pockets. He looked at Eden and then at the line of boots on the step. He did not ask who had put a peppermint there. Because a peppermint on a step was a thing a person could understand without asking.
 
-Near dawn the groundskeeper came up the stair with a broom over his shoulder. He was early and he was humming, and he stopped when he saw the watch still at the wall. He stood with his hands on the broom and his face open and friendly. He hummed the last note again. The note went down and up, and his chest moved with it.
+Near dawn the grounds man came up the stair with a broom over his shoulder. He was early and he was humming, and he stopped when he saw the watch still at the wall. He stood with his hands on the broom and his face open and friendly. He hummed the last note again. The note went down and up, and his chest moved with it.
 
 Eden watched the man's shadow on the stone. And the shadow held the shape of the broom and the round cap. And it did not move when his chest moved. And it stayed still while the tune went on. And Eden put his hand on the wall and counted his breaths. And the breaths were right and the shadow was wrong. And he did not say anything. Because a man who was about to be sure of a thing should not hurry it.
 
 When the watch ended, Clara went down the stair ahead of the others. Rowan went after her with the spare glove in his hand, and he called her name once, and she stopped and turned. He held the glove out and said that he wanted it back only if she did not need it, and she said that she needed it, and he smiled and put it in his pocket anyway. Eden watched them from the parapet. And Lysette came up beside him and put the round sheet in her coat. And she said that the report was finished and that she had written nothing about Clara's hands. And he said that she had been kind. And she said that she had been accurate. And that the two things were different and she was not going to discuss it.
 
-"Did you see the groundskeeper? she asked.
+"Did you see the grounds man? she asked.
 
 "Yes."
 

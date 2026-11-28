@@ -20,7 +20,7 @@ The roof door was unlatched when Eden reached it, and he went up slowly. The bel
 
 Lysette sat on the bench beside the water tank, and her silver shoes stood on the low wall to dry. She had taken the pins out of her hair, and it hung over one shoulder in a pale line. The locket lay against the white cloth at her throat.
 
-She did not stand when he came out. She looked at him for a while, then at the door behind him, then at the roof, and then at him again. She had been crying, and the powder on her cheeks had gone wet in two places. She had wiped them with her hand and made the marks longer. Her gown was grey at the hem from glass dust, and one silver pin had fallen out. Her hair had come down on the wrong side.
+She did not stand when he came out. She looked at him for a while, then at the door behind him, then at the roof, and then at him again. She had been crying, and the powder on her cheeks had gone wet in two places. She had wiped them with her hand and made the marks longer. Her gown was grey at the hem from glass grey dust, and one silver pin had fallen out. Her hair had come down on the wrong side.
 
 "Were you up here the whole time?" she asked.
 
@@ -92,7 +92,7 @@ They moved across the gravel in four slow steps and then stopped, because neithe
 
 "You said no, and you stood there with your hands in your pockets. I wrote a line about it that night."
 
-"Since the first day you gave me a handkerchief and asked if the light had lit." She looked at his coat pocket, and then at his face, and then away. "I have kept it in my pocket every day since, and I never washed it."
+"Since the first day you gave me a small cloth and asked if the light had lit." She looked at his coat pocket, and then at his face, and then away. "I have kept it in my pocket every day since, and I never washed it."
 
 Eden stopped moving. "I thought you would wash it and give it back."
 
@@ -104,7 +104,7 @@ Eden stopped moving. "I thought you would wash it and give it back."
 
 "I know." She looked at him steadily. "I am going to wash it, and then you will have no reason to ask for it back."
 
-It is a poor handkerchief, and it is mine now."
+It is a poor small cloth, and it is mine now."
 
 The band below began the slow tune again from the top, and they stood in the middle of the roof garden. The gravel crunched under their boots when the wind pushed them. After a while Lysette took her hand from his shoulder and stepped back one pace. She kept the other hand in his until the tune ended.
 
@@ -116,7 +116,7 @@ The band below began the slow tune again from the top, and they stood in the mid
 
 Eden looked at the straw, and then at her, and then at the sky. The stars were clear, and the city below had gone quiet in patches. He was colder than he had been an hour before.
 
-"What about the handkerchief?" he asked.
+"What about the small cloth?" he asked.
 
 "You will find it in the morning," Lysette said, and she sat down on the bench and put her shoes back on. "I keep my promises in my own time."
 
@@ -136,8 +136,8 @@ Eden got up and walked to the tree. The mint bed had been watered overnight, and
 
 The gloves were hers, and they were still damp at the cuffs. He took them down before the wind carried them over the wall. Something white showed in the right-hand glove, and he turned it over. A folded square of cloth lay in the palm of the leather.
 
-It was his mother's handkerchief, and the silver feather in one corner was clean and bright, and the brown stain from November was gone. It had been washed and folded along the old creases, and it smelled of soap and the mint from the herb bed. One stitch at a corner had come loose, and she had mended it with a different thread, and the new thread was white against the old grey. He put his thumb on the stitch and followed it to the end, and then he folded the cloth again along her creases.
+It was his mother's small cloth, and the silver feather in one corner was clean and bright, and the brown stain from November was gone. It had been washed and folded along the old creases, and it smelled of soap and the mint from the herb bed. One stitch at a corner had come loose, and she had mended it with a different thread, and the new thread was white against the old grey. He put his thumb on the stitch and followed it to the end, and then he folded the cloth again along her creases.
 
-Eden held it in both hands for a while, and then he put it in his coat pocket. He carried the gloves to the bench where the black book had been, and there was no book there now. Lysette was gone, and only the trams were coming up the hill. He stood with the gloves in one hand and the handkerchief in the other. He looked at the bench, the water tank, and the herb bed where he had slept. The apple tree had dropped three small apples in the night, and he picked one up and put it in his pocket beside the cloth.
+Eden held it in both hands for a while, and then he put it in his coat pocket. He carried the gloves to the bench where the black book had been, and there was no book there now. Lysette was gone, and only the trams were coming up the hill. He stood with the gloves in one hand and the small cloth in the other. He looked at the bench, the water tank, and the herb bed where he had slept. The apple tree had dropped three small apples in the night, and he picked one up and put it in his pocket beside the cloth.
 
 The stair was cold and the top banister had come loose. He put the apple in his pocket beside the cloth, and he went down the stair with the gloves in his hand, and he did not look back at the tree.

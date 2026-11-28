@@ -18,13 +18,13 @@ Gorrath waited in the alley with his shield across his chest and his one free ha
 
 Gorrath thought about that. "I have answered bells before, and I have always been wrong."
 
-Umra closed over him in the shadow of the awning. The black plate was cold at his chest, and the helm slit made one white line across his view. The air went grey-blue around the row. He drew **[Exa]** from his shadow and knocked once on the ring. The lance folded into the tray-sized shield, and he carried it at his hip as he went up the step.
+Umra closed over him in the shadow of the awning. The black plate was cold at his chest, and the helm slit made one white line across his view. The air went dark around the row. He drew **[Exa]** from his shadow and knockedtapped once on the ring. The lance folded into the tray-sized shield, and he carried it at his hip as he went up the step.
 
 The front door opened into a hall with a stair on the right and a row of coats on pegs to the left. Nobody stood in the hall. A board had been set across the lower stair with a bell wire tied to it. The wire ran under the door into the back room. Eden put one boot on the bottom step and stopped, and he waited for the house to show him what it wanted.
 
-It showed him three shadows on the wall, a fourth by the coats, and a fifth behind the stair rail. The cell had been expecting the Vigil, and it had placed its people where a single black figure would have to pass. A man coughed in the back room, and a chair scraped the floor. Then the house went quiet in the way a house goes quiet when everyone listens.
+It showed him three shadows on the wall, a fourth by the coats, and a fifth behind the stair rail. The cell had been expecting the Vigil, and it had placed its people where a single black figure would have to pass. A man coughed in the back room, and a chair scraped the floor. Then the house went quiet in and a house goes quiet when everyone listens.
 
-Eden did not go up the stair. He put his back to the wall beside the door and knocked twice on the hard edge where the lamplight met the dark under the coats.
+Eden did not go up the stair. He put his back to the wall beside the door and knocked twice on the light edge where the lamplight met the dark under the coats.
 
 A black opening appeared in the shadow behind the pegs. Gorrath came out as a shape rather than a man, with broad shoulders and a shield held low. He did not speak in his own voice, and he did not need to. The **[Knock and Answer]** was something he did with shadows, not with a mouth.
 
@@ -44,7 +44,7 @@ In the back room a man said, "They have the stair."
 
 "Then who is on the stair?"
 
-Nobody answered, because everybody in the house was looking at the wall where the shadows were speaking. The safe held three jars of dust and a folded letter, and the letter was addressed to a name that Eden did not know.
+Nobody answered, because everybody in the house was looking at the wall where the shadows were speaking. The safe held three jars of grey dust and a folded letter, and the letter was addressed to a name that Eden did not know.
 
 "Where is the plan for the Ball?" Eden asked.
 
@@ -106,7 +106,7 @@ Eden asked, and the men did not answer. Gorrath asked again in the voice of a ma
 
 The man looked at the hall shadows, and for the first time he looked afraid.
 
-Eden left the papers on the table and took only the plan. He did not take the jars of dust, because the children lived two streets away and the vats had already taught him what dust could do. Gorrath watched the five men while he worked, and not one of them moved.
+Eden left the papers on the table and took only the plan. He did not take the jars of grey dust, because the children lived two streets away and the vats had already taught him what grey dust could do. Gorrath watched the five men while he worked, and not one of them moved.
 
 Gorrath shrugged, and the shield rang once when he set it down. "Then we take the plan and go."
 

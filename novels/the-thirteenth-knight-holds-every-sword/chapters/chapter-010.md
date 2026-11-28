@@ -1,24 +1,24 @@
 # Chapter 10: Lysette's Day
 
-The Committee room was cold at seven in the morning, and Lysette Hollen had the window open because the stove smoked. She stood at the long table with a clipboard in one hand and read the night report to the two prefects on duty. "Two lamps broken on the east stair, one window left open in the library, and a first-year asleep in the linen closet."
+The Committee room was cold at seven in the morning, and Lysette Hollen had the window open because the stove smoked. She stood at the long table with a clipboard in one hand and read the night report to the two older students on duty. "Two lamps broken on the east stair, one window left open in the library, and a first-year asleep in the linen closet."
 
-"Which first-year?" the taller prefect asked.
+"Which first-year?" the taller older student asked.
 
 "Bram. He says the closet is warmer than his dormitory."
 
 "It is."
 
-"That is not the point." Lysette wrote the name in her book and drew one line under it. "The point is that the closet has no fire door, and I will not explain a burned boy to the headmistress."
+"That is not the point." Lysette wrote the name in her book and drew one line under it. "The point is that the closet has no fire door, and I will not explain a burned boy to the school head."
 
-The prefects left with their coats half on, and Lysette stayed behind to finish the round sheet. Three floors, forty-one rooms, and one name beside each room. She had walked that round every morning for two years. She could tell from the sound of a corridor whether the night had gone well.
+The older students left with their coats half on, and Lysette stayed behind to finish the round sheet. Three floors, forty-one rooms, and one name beside each room. She had walked that round every morning for two years. She could tell from the sound of a corridor whether the night had gone well.
 
-At nine she stood in the small hearing room with Eden Wren and a folder of papers. The panel was the headmistress, the deputy of studies, and a clerk with a stack of forms. The headmistress sat with her hands folded and her eyes half closed, and she looked like a woman asleep in a warm chair. Lysette knew better than to believe it.
+At nine she stood in the small hearing room with Eden Wren and a folder of papers. The panel was the school head, the deputy of studies, and a clerk with a stack of forms. The school head sat with her hands folded and her eyes half closed, and she looked like a woman asleep in a warm chair. Lysette knew better than to believe it.
 
 "Sixty-one absences," the clerk read out. "Unexcused."
 
 "Fifty-nine," Lysette said. "Two were illness, and I have the notes."
 
-The headmistress opened one eye. "You keep his notes?"
+The school head opened one eye. "You keep his notes?"
 
 "I keep the notes of every student in my year, madam."
 
@@ -28,7 +28,7 @@ The headmistress opened one eye. "You keep his notes?"
 
 Eden said nothing. He stood with his hands behind his back and his eyes on the far wall. In the corridor he had agreed to let her talk. Lysette had asked him for one word, and he had given her one word.
 
-"Wren," the headmistress said. "Do you have anything to say?"
+"Wren," the school head said. "Do you have anything to say?"
 
 "He has a medical exemption," Lysette said. "It says rest in open air, and it includes roofs."
 
@@ -36,11 +36,11 @@ Eden said nothing. He stood with his hands behind his back and his eyes on the f
 
 "He does not sleep through Grammar. He scores highest in Grammar."
 
-The headmistress looked at the folder for a while and turned a page. "That is true, and it is the only reason we are having a conversation instead of a suspension. Two conditions." She held up one finger. "He attends every class for the rest of the term."
+The school head looked at the folder for a while and turned a page. "That is true, and it is the only reason we are having a conversation instead of a suspension. Two conditions." She held up one finger. "He attends every class for the rest of the term."
 
 "And if he is ill?" Lysette asked.
 
-"Then he brings a note from a doctor." The headmistress held up a second finger. "And you sign his attendance sheet each week. If a class is missing, the sheet comes back to me with your name on it."
+"Then he brings a note from a doctor." The school head held up a second finger. "And you sign his attendance sheet each week. If a class is missing, the sheet comes back to me with your name on it."
 
 Lysette's pen stopped above the paper. "Yes, madam."
 
@@ -124,11 +124,11 @@ The records room was under the library, and the Committee kept student files in 
 
 His file was thin.
 
-Most files in the drawer were thick with reports, letters, and notes from teachers. Eden's file held four pages: a scholarship letter, one page of marks, a medical exemption, and a form with a palace stamp in the corner. The family page was blank, and the page for his previous school was blank too.
+Most files in the drawer were thick with reports, letters, and notes from teachers. Eden's file held four pages: a paid school place letter, one page of marks, a medical exemption, and a form with a palace stamp in the corner. The family page was blank, and the page for his previous school was blank too.
 
 Lysette turned the pages twice. "Where were you before this?" she said to the paper, and the paper did not answer.
 
-She read the scholarship letter again. It was signed by a clerk, and the money came from a fund kept by the palace office. The address was a street she knew, because the tram stopped there. It was a row of cheap rooms behind the depot, with one pump and a broken step.
+She read the paid school place letter again. It was signed by a clerk, and the money came from a fund kept by the palace office. The address was a street she knew, because the tram stopped there. It was a row of cheap rooms behind the depot, with one pump and a broken step.
 
 "Nobody pays for this school from that street," she said.
 
@@ -164,7 +164,7 @@ She wrote three lines in her book and went back down. At the bottom of the stair
 
 That evening she emptied her coat pockets onto the bed: two pencils, a tram ticket, a key, and a folded square of white cloth.
 
-The handkerchief was still folded the way he had given it to her on the roof. The silver feather in one corner had gone a little grey at the edge. She had meant to wash it that same week. She had washed her gloves twice since then, and her collar three times, and she had forgotten the handkerchief entirely.
+The small cloth was still folded and he had given it to her on the roof. The silver feather in one corner had gone a little grey at the edge. She had meant to wash it that same week. She had washed her gloves twice since then, and her collar three times, and she had forgotten the small cloth entirely.
 
 Lysette sat on the bed with the cloth in her hands. The room was quiet, and the rain had stopped, and somewhere below a door opened and closed.
 

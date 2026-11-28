@@ -40,7 +40,7 @@ Eden stood five steps south of the line with the **[Drill Lance]** low and the d
 
 Okoru leaned on the west wall with another strip of dried meat, and he was chewing when the judge raised the bell. "Good," he said around the meat. "Yesterday he stopped chewing, and I did not like it."
 
-"Is that a rule?" the prefect beside him asked.
+"Is that a rule?" the older student beside him asked.
 
 "No," Okoru said. "It is a habit, and habits tell you when a day has gone wrong."
 
@@ -176,7 +176,7 @@ She wrote a line in her black book and walked back through the rope without aski
 
 * * *
 
-The yard emptied slowly, and the judges carried their table inside, and the grey flag came down from its pole. Valerius stayed by the north wall with his gloves in one hand, and he waited until Lysette was gone and the prefects had taken the rope away.
+The yard emptied slowly, and the judges carried their table inside, and the grey flag came down from its pole. Valerius stayed by the north wall with his gloves in one hand, and he waited until Lysette was gone and the older students had taken the rope away.
 
 Eden took off the helm and held it under his arm, and the cold air came into his face. The plates of the harness held their weight through his shoulders, and the strip of meat in Okoru's hand had stopped moving.
 

@@ -1,6 +1,6 @@
 # Chapter 9: The Debrief
 
-The palace had a side door for people who did not want to be seen. Eden used it on Thursday at ten in the morning. The tram had stopped two streets away because of a broken rail, so he walked the rest of the way with his collar up against the cold. The palace wall was grey and very long, and the gate guard read his pass twice before he let him through. A clerk in the gatehouse wrote his name in a book, and the pen scratched at the paper like a small animal.
+The palace had a side door for people who did not want to be seen. Eden used it on Thursday at ten in the morning. The tram had stopped two streets away because of a broken rail, so he walked the rest of and with his collar up against the cold. The palace wall was grey and very long, and the gate guard read his pass twice before he let him through. A clerk in the gatehouse wrote his name in a book, and the pen scratched at the paper like a small animal.
 
 A footman took his coat and led him up a back stair to the third floor. The carpets up there were thin, and the lamps were turned low, and the air smelled of paper and cold tea. At the end of the hall a clock ticked behind a closed door, and the sound was louder than a clock should be.
 
@@ -14,7 +14,7 @@ Eden sat in a chair that was hard and straight. "You asked for a report."
 
 "The door was important."
 
-"The door was a rectangle." She took out a form. "This month I have questions for you."
+"The door was a gap." She took out a form. "This month I have questions for you."
 
 She set the form on the desk and turned it so he could read it. The form had a number at the top, 13-B, and a row of boxes with small words beside each one. Most of the boxes had been filled in with a typewriter, and one had been filled in by hand.
 
@@ -64,11 +64,11 @@ The first circle was black and round, and the second was a thin grey line that c
 
 "I will watch him."
 
-"I know." She wrote another line. "Tell me about the dust."
+"I know." She wrote another line. "Tell me about the grey dust."
 
 "It was packed inside the core before the plate cracked, and it kept the shape of the plate when the core broke."
 
-"How much dust was there?"
+"How much grey dust was there?"
 
 "One jar, and the jar was one third empty."
 
@@ -76,7 +76,7 @@ The first circle was black and round, and the second was a thin grey line that c
 
 "In my coat," Eden said, and he put it on the desk.
 
-Ysolde opened the jar and looked inside without touching the dust. "Grey dust is expensive, and one jar fills three cores. Someone is building a store, and a store means a plan."
+Ysolde opened the jar and looked inside without touching the grey dust. "Grey dust is expensive, and one jar fills three cores. Someone is building a store, and a store means a plan."
 
 "Or a sale."
 
@@ -90,7 +90,7 @@ Ysolde opened the jar and looked inside without touching the dust. "Grey dust is
 
 "That is not what she wrote." Ysolde looked at him. "Now tell me about Strent."
 
-Eden did not ask how she knew about that night. "Halvard Strent is the vice-headmaster, and he grades papers by moonlight because lamps give him headaches."
+Eden did not ask how she knew about that night. "Halvard Strent is the vice-school head, and he grades papers by moonlight because lamps give him headaches."
 
 "Is that all?"
 
@@ -152,7 +152,7 @@ Eden put the cake on the plate. "I am fine."
 
 "You are always fine." The king said it without any edge, and he looked into the fire. "I was always fine at your age. It was a useful thing to be."
 
-The room was quiet except for the fire, and the king picked up his cup and put it down without drinking. "I heard about the warrant, and the headmistress is fair. She will not take a scholarship away for a roof."
+The room was quiet except for the fire, and the king picked up his cup and put it down without drinking. "I heard about the warrant, and the school head is fair. She will not take a paid school place away for a roof."
 
 "She might."
 

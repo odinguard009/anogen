@@ -32,11 +32,11 @@ Lysette Hollen came around the corner with her black book under her arm, and she
 
 The duel yard was a square of pale stone with a chalk line across the middle, and the judges' table stood on the north side under a grey flag. Five steps north of the line, Valerius tightened his glove with his teeth and did not look at the crowd. Eden stood five steps south with the **[Drill Lance]** in one hand and a drill shield on his arm.
 
-Students lined the north wall in two rows, and the prefects kept them behind a rope. The judges wore white collars and carried clipboards, and each had two pens, one for the touch and one for the bell. The grey flag above them had no crest, and it moved when nobody touched it.
+Students lined the north wall in two rows, and the older students kept them behind a rope. The judges wore white collars and carried clipboards, and each had two pens, one for the touch and one for the bell. The grey flag above them had no crest, and it moved when nobody touched it.
 
-Okoru stood at the west wall with a strip of dried meat in his hand and chewed without hurry. "Ladder duel," he told the prefect beside him. "One touch to the body, or the bell. Nobody here will rescue anybody."
+Okoru stood at the west wall with a strip of dried meat in his hand and chewed without hurry. "Ladder duel," he told the older student beside him. "One touch to the body, or the bell. Nobody here will rescue anybody."
 
-"Is the boy nervous?" the prefect asked.
+"Is the boy nervous?" the older student asked.
 
 "He is never nervous," Okoru said. "That is the problem."
 
@@ -118,7 +118,7 @@ The third wall held its place, and the space between the walls was narrow enough
 
 "Then stay behind it."
 
-Eden gave ground. He let his shoulder drop an inch and let the lance point fall, and Valerius's eyes went to the drop the way a duellist's eyes always went to a weakness. The crowd along the north wall went quiet, and the grey flag moved once although the air was still.
+Eden gave ground. He let his shoulder drop an inch and let the lance point fall, and Valerius's eyes went to the drop and a duellist's eyes always went to a weakness. The crowd along the north wall went quiet, and the grey flag moved once although the air was still.
 
 * * *
 
@@ -152,13 +152,13 @@ Eden looked at the stub of the lance, and at the gap he had found, and he did no
 
 The wall rose too fast. Valerius had placed it in a hurry, and its edge did not meet the ground. A gap stood under it, wide enough for a boot. Eden put his shield into the gap and pushed. The wall slid sideways with a sound like thin ice breaking, and it passed his shoulder and left cold air behind.
 
-Valerius's sword came in at his ribs. Eden turned on his front foot the way a door turns on its iron pin, and the blade went past the place where his body had been. His heel stayed where it was, and his hips went around, and the lance butt came up under Valerius's knee and stopped one finger short of the joint.
+Valerius's sword came in at his ribs. Eden turned on his front foot and a door turns on its iron pin, and the blade went past the place where his body had been. His heel stayed where it was, and his hips went around, and the lance butt came up under Valerius's knee and stopped one finger short of the joint.
 
 "**[Hinge]**," Eden said, and his voice stayed flat and quiet.
 
 The front foot went numb as he set it down. The bell rang on the touch, and the two men stood very close, with the lance butt an inch from the knee and Valerius's sword an inch from the ribs, and neither of them moved. Valerius took half a step back and put out his free hand, and Eden kept the lance where it was. The judge's pen scratched on paper. Along the north wall, students began to stand.
 
-Through the narrow strip of the helm, Eden saw Rowan stand up on the wall with both fists in the air. Lysette sat on the bench beside the prefects with her book open on her knee, and she was writing, and she did not look up at all.
+Through the narrow strip of the helm, Eden saw Rowan stand up on the wall with both fists in the air. Lysette sat on the bench beside the older students with her book open on her knee, and she was writing, and she did not look up at all.
 
 Okoru had stopped chewing. The strip of meat hung from his hand, and he looked at Eden's front foot, and then at the pale wall pushed aside on the stone, and then at the chalk line again.
 

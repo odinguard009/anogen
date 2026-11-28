@@ -14,7 +14,7 @@ Five lines of chalk covered the slate, and Rowan read them out loud because he r
 
 Eden nodded once, and he kept his face still.
 
-School drill plate stood on a rack by the gate, with a label on the rail: **[Crest Harness]**. Dark grey cloth covered steel plates at the chest and shoulders. Brass buckles ran down the front, and a small white crest sat on the left chest. That metal was so cold it hurt through the cloth when Eden lifted it. He put the coat on first. Small sounds came from the buckles as he pulled them tight, one after another. Shoulder plates settled with a dull click. Bracers locked at the wrist. These boots were heavier than his own by half. Last came the helm. It was a plain steel cap with a bar across the eyes, and it smelled of oil and old sweat. He stood still for one breath inside it. Inside, the world narrowed to a strip of grey light. Then he took one step. That harness pulled at his shoulders as if a hand held him back.
+School drill plate stood on a rack by the gate, with a label on the rail: **[Crest Harness]**. Dark grey cloth covered steel plates at the chest and shoulders. Brass buckles ran down the front, and a small white crest sat on the left chest. That metal was so cold it hurt through the cloth when Eden lifted it. He put the coat on first. Small sounds came from the buckles as he pulled them tight, one after another. Shoulder plates settled with a dull click. Bracers locked at the wrist. These boots were heavier than his own by half. Last came the helm. It was a plain steel cap with a bar across the eyes, and it smelled of oil and old sweat. He stood still for one breath inside it. Inside, the world narrowed to a strip of grey light. Then he took one step. That harness pulled at his shoulders and a hand held him back.
 
 "Walk to the gate and back," Okoru said.
 
@@ -72,9 +72,9 @@ They stood in the dark and argued about a passage, and the clock above the gate 
 
 On the other side, a second wall came down, and the passage became a room with two doors and no marks on either one. Rowan hit the wall with the butt of his spear, and the sound came back flat. Clara put her hand on the stone and looked at the floor.
 
-"There is dust moving," she said. "It comes from under that door."
+"There is grey dust moving," she said. "It comes from under that door."
 
-"Everything has dust," Lysette said.
+"Everything has grey dust," Lysette said.
 
 "Not like this. It comes in puffs, like breathing."
 
@@ -98,7 +98,7 @@ Lysette looked at the floor, and then at him, and her face changed in a way he c
 
 "One lamp, one shadow. That door has two."
 
-Clara stepped closer to the left door and put her hand on it. "The dust comes from this one."
+Clara stepped closer to the left door and put her hand on it. "The grey dust comes from this one."
 
 "Then we go left," Rowan said.
 
@@ -130,7 +130,7 @@ They backed to the wall, and the constructs came on in a line. Rowan's shield to
 
 "**[Witness]**," she said.
 
-Behind her, the air went pale, and a ghost-light replay opened like a sheet of thin rain. It showed the hall four minutes ago. spear One ran through it, and the far door was open. A construct pulled the door shut behind them. Faint and cold, the picture shook at the edges.
+Behind her, the air went pale, and a ghost-light replay opened like pale rain. It showed the hall four minutes ago. spear One ran through it, and the far door was open. A construct pulled the door shut behind them. Faint and cold, the picture shook at the edges.
 
 "The far door is on the left," Lysette said through her teeth. "It is open for four breaths, and then the wall closes it."
 

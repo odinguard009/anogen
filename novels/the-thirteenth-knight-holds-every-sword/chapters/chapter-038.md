@@ -24,7 +24,7 @@ Rowan asked Lysette to write down a new joke for the ledger. Because Felix had s
 
 A soldier from the next stretch asked Rowan whether the school still had fires like this. And Rowan said that the school had a fire in the great hall on feast days and that it was bigger than this one. The soldier asked whether there were speeches. And Rowan said there were always speeches. The soldier said that was the difference between a school fire and an army fire. That an army fire was better for it. Felix said nothing, but he moved his tin closer to the warm side of the circle, and Clara moved with him without being asked.
 
-More men came and the circle grew wider. They talked about the summer postings and the price of boots and the man who had stolen a crate of socks from the quartermaster in NovemberThen it went quiet in the way a fire circle goes quiet when a person decides to say something.
+More men came and the circle grew wider. They talked about the summer postings and the price of boots and the man who had stolen a crate of socks from the stores man in NovemberThen it went quiet in and a fire circle goes quiet when a person decides to say something.
 
 A man at the back asked whether the Wall had always been this cold. The old soldier beside him said it had been colder in his father's time. That not one man had been alive to enjoy it, and the men laughed. Rowan passed the tin of bread around a second time. And Lysette took a piece and put it on the stone beside her. She did not eat it.
 
@@ -60,7 +60,7 @@ Eden said nothing. He had told himself in the yard that he always confirmed and 
 
 After Lysette walked away, Rowan stood up and said he would go and find her, and Clara told him to sit down, and he sat. He asked her why, and she said he would know in a minute. He did not know in a minute, but he stayed. Felix looked at the place where Lysette had sat and then at Eden. He opened his mouth, and Eden shook his head once, and Felix shut it again, and he was the only one who had seen the small movement.
 
-The men went to bed in twos and threes. The fire burned down, and Lysette stood up and took her book. She waited a moment as if someone might speak. Then walked away with her head up and her shoulders straight.
+The men went to bed in twos and threes. The fire burned down, and Lysette stood up and took her book. She waited a moment and someone might speak. Then walked away with her head up and her shoulders straight.
 
 Eden stayed until the coals went grey. Then he put his boot on the edge of the stone circle and pressed it down. He sat with his hands in his lap and the night air coming over the wall and did not go to bed until the last bell.
 
@@ -144,7 +144,7 @@ Felix looked at the wall and then at the fire.
 
 "Because you will eat it anyway. Felix walked away, and Eden ate the bun, and it was burned, and it was warm in the middle, and he did not say anything about either of those facts.
 
-The wall went on with its ordinary work. And the men checked the parapet and counted the tins and cleaned the lamps. And the silence did not come back that week. And every morning the birds on the warment called at dawn as if nothing had happened. And Eden counted them because they were a thing with a number.
+The wall went on with its ordinary work. And the men checked the parapet and counted the tins and cleaned the lamps. And the silence did not come back that week. And every morning the birds on the warment called at dawn and nothing had happened. And Eden counted them because they were a thing with a number.
 
 "Did you sleep? Felix asked Eden at the end of the week.
 

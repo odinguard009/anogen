@@ -1,6 +1,6 @@
 # Chapter 39: The Oil Line
 
-Rowan asked the question at the coal table in the morning. He asked it in the way he asked everything, with no warning and no softening. "Why does Lysette hate you? he said, and he put his cup down while he waited for the answer.
+Rowan asked the question at the coal table in the morning. He asked it in and he asked everything, with no warning and no softening. "Why does Lysette hate you? he said, and he put his cup down while he waited for the answer.
 
 Eden put his spoon in his cup. "I do not know."
 
@@ -38,7 +38,7 @@ The wall was grey and the sky was lower than it had been. The men were working a
 
 Rowan asked who had tied the knots if the man had only one arm. And Okoru said that a one-armed man could tie a knot with his teeth and his knee. That he had seen it done. Clara asked whether the man had still had his teeth. And Okoru said that he had. That this was the part of the story people always asked about first. Felix asked how long the man had held the gate. And Okoru said that the story said all night. That stories made time longer. That six hours in a cistern in winter was a night by anyone's count.
 
-Rowan asked whether that was true. And Okoru said that it was a Wall story and that a Wall story was true in the way a map was true: it showed you where to stand. Not what had happened. Eden wrote one line in his notebook about bells with no hands on the ropes. He put a mark beside it, and he did not say what the mark meant.
+Rowan asked whether that was true. And Okoru said that it was a Wall story and that a Wall story was true in and a map was true: it showed you where to stand. Not what had happened. Eden wrote one line in his notebook about bells with no hands on the ropes. He put a mark beside it, and he did not say what the mark meant.
 
 After the story, Okoru gave Eden a tin of oil and a brush and told him to lay a line under the camp stores where the lamp men would see it. "For the lamps," he said.
 
@@ -48,9 +48,9 @@ Lysette was in the stores counting tins when he came in. She did not ask what he
 
 "You missed a spot," she said. She pointed at the beam with the end of her pencil. Then she walked on with her tins.
 
-The stores smelled of oil and tins and old dust. The crates went up in two rows to the beam. The beam had a scar along one edge where a lamp had been hung for years. Lysette put her tins on the counter and took out her pencil. She read the numbers on the tins in a low voice. She wrote them down, and after a while she stopped reading the numbers and listened to the brush instead. Eden heard her stop, and he kept painting, and he did not look up, and the oil went on the beam in a dark line that did not wobble.
+The stores smelled of oil and tins and old grey dust. The crates went up in two rows to the beam. The beam had a scar along one edge where a lamp had been hung for years. Lysette put her tins on the counter and took out her pencil. She read the numbers on the tins in a low voice. She wrote them down, and after a while she stopped reading the numbers and listened to the brush instead. Eden heard her stop, and he kept painting, and he did not look up, and the oil went on the beam in a dark line that did not wobble.
 
-Eden painted the spot, and he wondered whether she had seen the shape of the line, because it was not a line for lamps, and the lamp men did not need oil on the underside of a beam behind crates. It was a mark for a Door: a clean dark edge between the oil and the stone. It held a shadow in the morning light. He painted the last inch and put the brush in the tin. He sat back on his heels and looked at the line. It was straight, and it was his.
+Eden painted the spot, and he wondered whether she had seen the shape of the line, because it was not a line for lamps, and the lamp men did not need oil on the underside of a beam behind crates. It was a mark for a opening: a clean dark edge between the oil and the stone. It held a shadow in the morning light. He painted the last inch and put the brush in the tin. He sat back on his heels and looked at the line. It was straight, and it was his.
 
 Vesk came out of the shadow under the crates while he was still kneeling. And the little man's eyes were lamp-yellow in the dark.
 

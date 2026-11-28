@@ -64,3 +64,6 @@ No --force. No skipping. No "close enough." No exceptions.
 - Every new name, group, power and creature gets one plain sentence at first use (style/audience.md, bible/consistency-arc1.md).
 - Describe powers by visible object + movement + result + cost; then use the plain phrase, not the label.
 - `plain_language_strict` starts as false. Switch to true only after the 1-50 rewrite, on owner order.
+
+## Rule 16: No analogy descriptions
+Describe what the reader sees and what the character does. Ban: rectangle, knuckle, pale edge, clean edge, grey-blue, 'the way it...'. Keep the plain gap/light example in profile.md section 1.

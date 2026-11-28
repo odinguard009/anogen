@@ -116,7 +116,7 @@ Felix brought the news at lunch. He sat with Eden behind the stables and took a 
 
 "Give me the bad one."
 
-"Lysette has a roof stakeout on Friday. Two prefects and a lantern."
+"Lysette has a roof stakeout on Friday. Two older students and a lantern."
 
 "And the good?"
 
@@ -130,7 +130,7 @@ Eden took one. "You are a poor double agent."
 
 "I am a very good one." Felix looked at the wall. "She knows I lie to her, and she knows I tell you when she is coming. She still brings the lunch, so everybody is honest about the part that matters."
 
-On Friday the two prefects sat on the roof with a lantern and a round sheet, and they wrote nothing for two hours because Eden was in the library. He was not in the library. He was in the old store room next to the infirmary with a chair tilted back and his coat over his face, and he slept for forty minutes without an interruption.
+On Friday the two older students sat on the roof with a lantern and a round sheet, and they wrote nothing for two hours because Eden was in the library. He was not in the library. He was in the old store room next to the infirmary with a chair tilted back and his coat over his face, and he slept for forty minutes without an interruption.
 
 Seraphine found him there just before the bell. "Wren!" she said, and she stood in the doorway with her hands on her hips. "You are not where Felix said you were."
 

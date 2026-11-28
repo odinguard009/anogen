@@ -1,6 +1,6 @@
 # Chapter 19: The East Kitchen
 
-The east kitchen was the size of a classroom. Three ovens stood along one wall, and a long table ran down the middle. The cooking club had covered the table in flour before Lance Nine arrived. Rowan had volunteered the Lance for the Ball-week bake in the middle of lunch. He had volunteered it before asking anyone.
+The east kitchen was the size of a classroom. Three ovens stood along one wall, and a long table ran down the middle. The cooking club had covered the table in flour before the group arrived. Rowan had volunteered the Lance for the Ball-week bake in the middle of lunch. He had volunteered it before asking anyone.
 
 "The Ball needs cakes," he told them. "Four hundred small cakes, and we are the ones making them."
 
@@ -108,7 +108,7 @@ The oven door fell off.
 
 A jet of flame came out of the oven mouth and ran toward the bowls. The flour in the air turned orange, and the cooking club captain shouted from the door. Clara put her hands up and threw water from the bucket, and the water missed the flame and went across the floor. Rowan pushed the table, and the table did not move, and Felix pulled him back by his apron strings.
 
-Eden had one hand on the **[Exa]** case at his back, and the lance came into his hand black and cold. He knocked once on the iron ring, and it folded into the tray-sized door-shield with the ring on the outside, and he put it between the flame and the bowls, and he held it with both hands. The blast hit the shield and went over their heads. The shield rang once, and the flame went out as if someone had closed a door on it. Eden held it there for two breaths, and the heat came through the steel into his gloves, and then the air behind it went quiet.
+Eden had one hand on the **[Exa]** case at his back, and the lance came into his hand black and cold. He knocked once on the iron ring, and it folded into the tray-sized door-shield with the ring on the outside, and he put it between the flame and the bowls, and he held it with both hands. The blast hit the shield and went over their heads. The shield rang once, and the flame went out and someone had closed a door on it. Eden held it there for two breaths, and the heat came through the steel into his gloves, and then the air behind it went quiet.
 
 Eden unfolded the lance and put it back in the case before anyone turned around.
 
@@ -150,8 +150,8 @@ The east kitchen was still warm at the end of the afternoon. The four heaps of f
 
 Clara put a cake in her mouth and closed her eyes, and then she opened them. "It is a cake," she said, "and it is not a soufflé."
 
-Felix ate one and said nothing, and Seraphine wrote in her book, and Rowan took the last cake from the tray and held it up to the light as if it might tell him something.
+Felix ate one and said nothing, and Seraphine wrote in her book, and Rowan took the last cake from the tray and held it up to the light and it might tell him something.
 
 Eden counted again and said nothing. Lysette came back with the finished form and set it on the table, and she did not look at any of them. Seraphine leaned against the table beside her with her flour-covered apron and smiled in a way that was sweet and careful. She waited for the answer.
 
-"Lysette," she said, "who are you going to the Ball with now?"
+"Lysette," she said, "who are you going to the Ball with now?" He waited.

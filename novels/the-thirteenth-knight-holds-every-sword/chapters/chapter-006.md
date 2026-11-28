@@ -16,7 +16,7 @@ Clara read her sheet without any change on her face, and she said, "Three."
 
 "Eight," Eden said, and he did not look up from his sheet.
 
-Okoru tapped the fourth sheet with his stick. "Lance Nine, a group of five students," he said. He read the names: Clara, Rowan, Lysette, Felix, Eden. He read the numbers again in the same order and called it a sum. "Three, two, four, nineteen, eight."
+Okoru tapped the fourth sheet with his stick. "the group, a group of five students," he said. He read the names: Clara, Rowan, Lysette, Felix, Eden. He read the numbers again in the same order and called it a sum. "Three, two, four, nineteen, eight."
 
 "Why is Felix on it?" Rowan asked.
 
@@ -76,7 +76,7 @@ Felix took his hand out of his pocket. "It was a peppermint."
 
 "Walk to the chapel."
 
-Okoru folded the grey dust into his coat and left the hall with his stick under his arm. Eden looked at the paper disappearing into the black cloth, and he kept his own face still. A cracked core had come from stores, and every core in the school had an order behind it. The thought sat in his mind like a stone in a boot.
+Okoru folded the grey dust into his coat and left the hall with his stick under his arm. Eden looked at the paper disappearing into the black cloth, and he kept his own face still. A cracked core had come from stores, and every core in the school had an order behind it. The thought sat in his mind and he could not put it away.
 
 Lysette closed her book and walked beside him toward the door. "The grey dust," she said. "You looked at it before he folded the paper."
 
@@ -118,9 +118,9 @@ The light went out, and the corridor turned grey again. "My mother used to say I
 
 "That is what I thought she meant."
 
-He said it so plainly that the others laughed, and he laughed with them, one beat late and glad of it. A senior prefect stopped at the corner to ask about drill, and Rowan told him a story about a snow-covered boot. Felix listened with his whole face.
+He said it so plainly that the others laughed, and he laughed with them, one beat late and glad of it. A senior older student stopped at the corner to ask about drill, and Rowan told him a story about a snow-covered boot. Felix listened with his whole face.
 
-Clara watched Rowan watch the prefect, and something in her face went still, the way a lamp goes still before someone switches it off. Lysette watched Rowan too, and then she watched Eden watching him, and she wrote another line.
+Clara watched Rowan watch the older student, and something in her face went still, and a lamp goes still before someone switches it off. Lysette watched Rowan too, and then she watched Eden watching him, and she wrote another line.
 
 A row of stone pots stood under the fresco's last window. The lilies in them had drooped all week, brown at the edges, with their heads down over the rim. Clara moved one pot an inch to make room for her bag, then sat on the bench beside it.
 

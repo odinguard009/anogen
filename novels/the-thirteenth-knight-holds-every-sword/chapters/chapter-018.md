@@ -10,7 +10,7 @@ Ysolde gave the order in the palace corridor on Friday morning, and she did not 
 
 "You are difficult to see." Ysolde put the card away. "Those are different things. Report at the end of the week."
 
-Eden walked back to the academy with the order in his coat and a small notebook in his pocket. He had watched Rowan for two weeks without meaning to, and he knew things about him that Rowan had never told anyone. Rowan put his books down in a stack of three. He ate bread before soup. He said good morning to the gate porter by name, and he never remembered the names of the prefects who sat beside him at assembly.
+Eden walked back to the academy with the order in his coat and a small notebook in his pocket. He had watched Rowan for two weeks without meaning to, and he knew things about him that Rowan had never told anyone. Rowan put his books down in a stack of three. He ate bread before soup. He said good morning to the gate porter by name, and he never remembered the names of the older students who sat beside him at assembly.
 
 Rowan Tallis noticed everything except danger. The next day he saw that Clara had changed the band on her wrist, and he asked her about it in the middle of class. The day after that he saw a new stitch in Felix's coat and asked who had sewn it. When Seraphine sat down beside him, he told her that her tea was cold before she had taken a sip.
 
@@ -56,11 +56,11 @@ Felix thought about that. "Then he will never see the man in the grey coat," he 
 
 A man in a grey staff coat stood across the court for ten minutes, and Rowan did not see him at all. Eden watched the man from the library window. The man wrote in a notebook, and he kept his left hand in his pocket, and his coat had a tear under the arm where a badge had been pulled off. When Rowan came out of class with Clara, the man folded the notebook and walked toward the gate ahead of them.
 
-Eden followed at a distance into the lower city, and he kept one hand in his coat pocket with the notebook ready. The man took the tram to the dye stop and walked down toward the canal. Rowan and Clara went another way with a prefect, so Eden followed the man. That was the easier choice. Ysolde's order had said to watch Rowan, and the man who watched Rowan was part of the same problem.
+Eden followed at a distance into the lower city, and he kept one hand in his coat pocket with the notebook ready. The man took the tram to the dye stop and walked down toward the canal. Rowan and Clara went another way with a older student, so Eden followed the man. That was the easier choice. Ysolde's order had said to watch Rowan, and the man who watched Rowan was part of the same problem.
 
 The man walked past the bakery where the children knew Eden's name, and he did not look at it. He turned into a lane with no lamps. The lane smelled of wet lime and old dye, and a drain ran along one side with a thin line of water. A cat sat on a windowsill and watched Eden pass, and then it went back to sleep. Halfway down, the man took a small mirror from his pocket and held it up at an angle, and the glass caught the light from the street behind them. Eden stepped into a doorway and waited until the mirror went away. Eden stopped at the mouth of the lane and waited, and the man stopped too, and then he went on into the dark.
 
-Eden followed him with one hand on the wall and his feet placed carefully, because the lane had a step down in the middle that he remembered from the bakery walk. The wall on the left held the shadow of a high cellar grate, and a hard edge of light ended there. He put two knuckles on the edge and knocked twice. A **[Door]** opened in the dark under the grate, black and upright, with a thin line of light at one side.
+Eden followed him with one hand on the wall and his feet placed carefully, because the lane had a step down in the middle that he remembered from the bakery walk. The wall on the left held the shadow of a high cellar grate, and a light edge of light ended there. He put two knuckles on the edge and knocked twice. A **[Door]** opened in the dark under the grate, black and upright, with a thin line of light at one side.
 
 The man turned at the sound. Eden stepped into the opening, and the man came after him, because the lane was narrow and the only way past was through the dark. Eden shut the black opening on him and waited ten breaths with his hand on the wall. The lane was a lane again, with the step down in the middle and no light at all, and the man was held in the dark. Eden did not know how long the dark held a person, and he did not want to find out with his hand on the grate. The stone under his boots was damp, and the wind came down the lane in short pushes, and a tram bell rang twice at the stop he had passed.
 
@@ -112,7 +112,7 @@ Ysolde put her hand over the slip. "Then think of the windows as well."
 
 Eden took the badge from the desk. It was a square of grey cloth with a small burnt mark where a flame had been sewn, and the thread had been pulled out in a hurry. "Are the other names on the list coming?"
 
-"Some of them." Ysolde turned a card over. "The duke will be there, and the headmistress, and the border captains. Your name is on the working list as a senior student, though I cannot imagine who put it there."
+"Some of them." Ysolde turned a card over. "The duke will be there, and the school head, and the border captains. Your name is on the working list as a senior student, though I cannot imagine who put it there."
 
 "I can," Eden said.
 

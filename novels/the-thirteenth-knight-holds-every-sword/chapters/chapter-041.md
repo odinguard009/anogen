@@ -22,7 +22,7 @@ For three nights he did the same thing. He slept in the camp under Lysette's eye
 
 Vesk led him down through a gap behind the fourth lamp. The shadow of the lamp fell on a crack in the stone. The crack opened when Vesk knocked twice. And Eden went in with his shield across his chest. The stair went down for a long time. The air changed from cold to damp. The damp had a smell that Eden could not place at first. Then he placed it, and it was the smell of a cellar that had been closed for years with something living in it.
 
-The tunnel was not a tunnel in the way a cellar was a tunnel. It had walls that breathed, and the stone moved a little when he put his hand on it, and the air had a smell like wet iron and old bread, and Vesk walked ahead in a shadow that kept the shape of a tall man with a limp.
+The tunnel was not a tunnel in and a cellar was a tunnel. It had walls that breathed, and the stone moved a little when he put his hand on it, and the air had a smell like wet iron and old bread, and Vesk walked ahead in a shadow that kept the shape of a tall man with a limp.
 
 "It is a living thing," Vesk said. He said it from the dark where his small body was hidden. "The old maps call it a road, and it is not a road. It is a mouth that has been here longer than the Wall."
 
@@ -30,13 +30,13 @@ The tunnel was not a tunnel in the way a cellar was a tunnel. It had walls that 
 
 "Under the camp, and then further south than the maps say. Vesk's coat dragged on the stone. "Your oil lines are good. They give me an edge to walk in."
 
-Eden had laid the lines two days before the first night. Painting dark oil under beams and along the sill of empty stores. The lamp men had walked past them without looking twice. The lines held shadows in the morning light. The shadows were Doors waiting for a knock. He marked the mouth of the tunnel on a piece of paper with a pencil. He marked the turn where the stone breathed hardest. He put the paper in his boot because the camp was searched in the mornings.
+Eden had laid the lines two days before the first night. Painting dark oil under beams and along the sill of empty stores. The lamp men had walked past them without looking twice. The lines held shadows in the morning light. The shadows were openings waiting for a knock. He marked the mouth of the tunnel on a piece of paper with a pencil. He marked the turn where the stone breathed hardest. He put the paper in his boot because the camp was searched in the mornings.
 
 Eden marked the turn where the wall breathed hardest. He put a small scratch on the stone with his spear point so that he would find it in the dark. And Vesk watched him do it and said that a mark was a promise to come back. That some promises were better not made. Eden said nothing, and he wrote the turn in his notebook, and he put the notebook inside his coat where the sweat would not reach it.
 
 On the second night he found gloves.
 
-They lay on a flat stone in a side passage. They were grey work gloves with the fingers curled as if a hand had just taken them off. There were grey veins on the leather where the skin had touched it. Eden picked one up with the tip of his spear and turned it over. The inside was warm.
+They lay on a flat stone in a side passage. They were grey work gloves with the fingers curled and a hand had just taken them off. There were grey veins on the leather where the skin had touched it. Eden picked one up with the tip of his spear and turned it over. The inside was warm.
 
 "Grafted," Vesk said. "Not a Veil. A person wearing Hush under the skin. Doing it recently, because the leather has not gone hard yet."
 
@@ -50,7 +50,7 @@ It was in the grey dust of the tunnel floor. Deep and wide, with a row of small 
 
 He put his glove near the print without touching it. The print was longer than his hand and deeper at the toe. The nails in the heel had left little round marks in the grey. There were nine of them on one side and eight on the other because one nail was missing. He counted them twice, and he counted them a third time because the number mattered, and then he covered the print with his boot so that Vesk would not step on it, and he waited until the little man had gone past.
 
-A groundskeeper's boot, he thought, and he did not write it down.
+A grounds man's boot, he thought, and he did not write it down.
 
 Felix looked at the grey in the tin when Eden showed it to him. He did not ask where it had come from. He said that the grey had been on the glove in a thin line. Like a man had touched it and then taken his hand away quickly. That was a different thing from a Husk mark, and Eden said that he knew. Felix said that if Eden ever wanted a second pair of eyes down there he should ask. And Eden said that he would. And Felix said that he knew he would not. That he would come anyway if the third night turned into a fourth.
 
@@ -62,11 +62,11 @@ A conscript at the back had come in late and had not been given a hood. His cuff
 
 Okoru sent him to the infirmary with two men. He told the rest of them to seal their cuffs twice. And Eden watched the strip of leather in Okoru's hand. The grey line on it had grown longer while he looked at it. He pulled his own cuff down over his glove and tied the second fold.
 
-Deep in the tunnel on the fourth night. Eden put his hand on the breathing wall and tried to read the next turn the way he read a lamp shadow. For one heartbeat the reading went blank. And there was no line in his mind and no shape in the dark. As if someone on the other side of the wall had looked away from him and closed a door.
+Deep in the tunnel on the fourth night. Eden put his hand on the breathing wall and tried to read the next turn and he read a lamp shadow. For one heartbeat the reading went blank. And there was no line in his mind and no shape in the dark. and someone on the other side of the wall had looked away from him and closed a door.
 
 He stood still with his hand on the stone until the reading came back. And Vesk said nothing, and the dark ahead of them kept its shape, and Eden drew a breath and went on, and he did not tell Vesk that for one heartbeat he had not known where he was.
 
-They came back at dawn, and the camp was waking, and the groundskeeper was in the yard with a broom and a pair of grey boots on his feet, and he hummed a tune with four notes down and one that went up, and he waved at Eden as if he had been expecting him.
+They came back at dawn, and the camp was waking, and the grounds man was in the yard with a broom and a pair of grey boots on his feet, and he hummed a tune with four notes down and one that went up, and he waved at Eden and he had been expecting him.
 
 Eden looked at the boots, and then at the nails in the heels, and then at the ridge worn down on one side, and he went past with his hands in his pockets and his gloves sealed under his coat.
 

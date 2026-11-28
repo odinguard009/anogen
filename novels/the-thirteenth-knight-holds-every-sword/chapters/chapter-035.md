@@ -24,9 +24,9 @@ The lottery tin went down the line. Each man put his hand in and pulled out a sl
 
 Gorrath complained in Eden's head all morning. He said that the Wall had too many bells and not enough food. That a man could not fight on frozen bread. That the last time he had fought on frozen bread he had been fighting the wrong army. Eden told him to be quiet. And Gorrath said that he would be quiet when the bread got warmer. Then he went on complaining in a lower voice.
 
-The ration lottery was held at noon behind the stores hut. The sergeant put numbered slips in a tin and shook them. Each man drew a slip and got a tin of beans or a tin of soup or a bar of hard chocolate. Rowan drew number forty-one and got soup. And Felix drew number nine and got chocolate. He gave the chocolate to Clara because she had drawn nothing but tea. Seraphine drew number eleven and got soup and a post change. She looked at the slip for a while and then folded it. She went to find the prefect who kept the post board.
+The ration lottery was held at noon behind the stores hut. The sergeant put numbered slips in a tin and shook them. Each man drew a slip and got a tin of beans or a tin of soup or a bar of hard chocolate. Rowan drew number forty-one and got soup. And Felix drew number nine and got chocolate. He gave the chocolate to Clara because she had drawn nothing but tea. Seraphine drew number eleven and got soup and a post change. She looked at the slip for a while and then folded it. She went to find the older student who kept the post board.
 
-The post board was a sheet of tin nailed to the stores wall with the names written in chalk. And Odessa's name was on the east stretch and Seraphine's was on the stretch beside Eden's. The prefect who kept the board had a cold and wiped his nose on his sleeve while he wrote the change. He did not ask why a princess wanted to stand in the wind beside a rank-eight student. He wrote the number of the swap and went back inside. And Eden watched him go and knew that Lysette would see the change before the hour was out.
+The post board was a sheet of tin nailed to the stores wall with the names written in chalk. And Odessa's name was on the east stretch and Seraphine's was on the stretch beside Eden's. The older student who kept the board had a cold and wiped his nose on his sleeve while he wrote the change. He did not ask why a princess wanted to stand in the wind beside a rank-eight student. He wrote the number of the swap and went back inside. And Eden watched him go and knew that Lysette would see the change before the hour was out.
 
 She came back ten minutes later and stood beside Eden's post, and she was smiling at nothing in particular.
 
@@ -36,7 +36,7 @@ She came back ten minutes later and stood beside Eden's post, and she was smilin
 
 "Because you are always here, and I want to know what it is you see." She snapped her fingers and winked, and the space between the posts went blank for a beat and then filled with grey light.
 
-Eden looked at the post board. Odessa stood on Seraphine's stretch with her hands in her pockets, and the prefect was writing a number without looking up.
+Eden looked at the post board. Odessa stood on Seraphine's stretch with her hands in her pockets, and the older student was writing a number without looking up.
 
 "**[Switcheroo]**," Seraphine said, and she said it softly so that only Eden heard.
 
@@ -54,7 +54,7 @@ Felix was three posts away with his bow across his chest. And he kept his eyes o
 
 Felix said nothing, and his ears went red. Eden watched a candle bend its flame backward when Seraphine leaned toward it, and he wrote the word candle in his notebook.
 
-Late in the shift the talk ran out. The wind dropped, and the wall went quiet in the way it did before a change in the weather. Seraphine stopped counting jokes and stood with her hands on the rail.
+Late in the shift the talk ran out. The wind dropped, and the wall went quiet in and it did before a change in the weather. Seraphine stopped counting jokes and stood with her hands on the rail.
 
 "It was cold like this," she said, and she was not looking at Eden and not looking at Felix, and her voice had lost its bright edge. "At the lodge. There was a fire, and it still was not warm enough."
 
@@ -70,9 +70,9 @@ Seraphine turned. "You said nine."
 
 She looked at him for a while, and then she said, "That is the kind of thing you would notice," and she went back to looking at the dark. Felix put a hand on her sleeve and did not say anything. The candle burned straight again because there was no wind left to bend it.
 
-Eden stayed at his post after the prefect called the change. And he watched the dark beyond the parapet because it was easier than watching Seraphine and Felix stand three paces apart without looking at each other. The candle burned down to a stub and went out. And the smell of wax went away in the cold air. And he wrote one line in his notebook about the flame bending backward and left it there because there was no plain word for what it meant.
+Eden stayed at his post after the older student called the change. And he watched the dark beyond the parapet because it was easier than watching Seraphine and Felix stand three paces apart without looking at each other. The candle burned down to a stub and went out. And the smell of wax went away in the cold air. And he wrote one line in his notebook about the flame bending backward and left it there because there was no plain word for what it meant.
 
-At the end of the shift Lysette came along the wall with her book open and a form in her hand. She stopped at Seraphine's post and looked at the board, then at Seraphine, then at the prefect's sheet.
+At the end of the shift Lysette came along the wall with her book open and a form in her hand. She stopped at Seraphine's post and looked at the board, then at Seraphine, then at the older student's sheet.
 
 "You swapped posts," she said.
 
@@ -80,11 +80,11 @@ At the end of the shift Lysette came along the wall with her book open and a for
 
 Lysette wrote a line on the form. And her pen shook, and the ink made a small blot at the end of the word. She wrote a second line under it and drew a box around both lines. And she held the form with both hands. And the paper shook in her hand while she wrote Seraphine's name.
 
-"Post change without prefect approval," she said, and her voice was steady and her hands were not. "I have to write this up."
+"Post change without older student approval," she said, and her voice was steady and her hands were not. "I have to write this up."
 
 In the mess hut that night Felix ate his soup slowly and counted the pieces of bread in his bowl. And Seraphine sat across the table and counted them with him. When he got to six she said that six was a good number, and he said that six was a number and nothing more. And she wrote that down in her book and said that it was joke seventy-eight. Felix put his spoon down and looked at her for a longer time than he meant to. And then he went back to his soup. And the corner of his mouth moved in a way that Eden saw and did not name.
 
-Rowan asked the sergeant whether the chocolate had been counted in the lottery or handed out by mistake. And the sergeant said the chocolate was a mistake. And Rowan asked whether mistakes were usable. And the sergeant said that mistakes were the whole reason the army had a quartermaster. Rowan wrote that on his glove with a pencil. The pencil broke, and Clara gave him hers without being asked, and he wrote the sentence again in bigger letters so he could read it in the morning.
+Rowan asked the sergeant whether the chocolate had been counted in the lottery or handed out by mistake. And the sergeant said the chocolate was a mistake. And Rowan asked whether mistakes were usable. And the sergeant said that mistakes were the whole reason the army had a stores man. Rowan wrote that on his glove with a pencil. The pencil broke, and Clara gave him hers without being asked, and he wrote the sentence again in bigger letters so he could read it in the morning.
 
 Lysette sat at the end of the table with the form in front of her and did not eat. The ink had dried in a blot where her hand had shaken, and she drew a square around it. She drew another square around the first one, and Seraphine watched her from across the room and stopped smiling. "You do not have to send it," Seraphine said, and her voice was careful. "I know I do not have to," Lysette said, and she folded the form into thirds and put it in her book. "That is what makes it worse."
 

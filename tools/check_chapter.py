@@ -149,10 +149,12 @@ def audience_check(num, body):
     low = body.lower()
     found = []
 
-    asif = len(re.findall(r"\bas if\b", low))
+    narration = " ".join(para for para in body.split("\n\n") if not para.lstrip().startswith(chr(34)))
+    low_n = narration.lower()
+    asif = len(re.findall(r"\bas if\b", low_n))
     if asif:
         found.append(f"audience: 'as if' x{asif} (target 0): say what you see")
-    likea = len(re.findall(r"\blike a\b", low))
+    likea = len(re.findall(r"\blike a\b", low_n))
     if likea > 1:
         found.append(f"audience: 'like a' x{likea} (max 1): use one plain comparison or none")
 
@@ -182,6 +184,19 @@ def audience_check(num, body):
     if mood > 2:
         found.append(f"audience: mood shortcuts x{mood}: say what people see, do or say")
 
+    bad_desc = {
+        "rectangle": r"\brectangle\b",
+        "knuckle": r"\bknuckle\b",
+        "pale/clean edge": r"\b(?:pale|clean|hard|sharp) edge\b",
+        "grey-blue": r"\bgrey-blue\b",
+    }
+    for label, pat in bad_desc.items():
+        c = len(re.findall(pat, low))
+        if c:
+            found.append(f"audience: analogy word '{label}' x{c}: say what the reader sees and does")
+    the_way = len(re.findall(r"\bthe way\b", low))
+    if the_way > 1:
+        found.append(f"audience: 'the way' x{the_way} (max 1): write the action plainly")
     return ([], found) if strict else (found, [])
 
 

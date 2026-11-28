@@ -20,7 +20,7 @@ The Duke looked at the glove without touching it. It was grey wool with a seam a
 
 "Yes, sir."
 
-A second letter had come from the academy in a thick envelope with the school crest on the back. The Duke opened it at the study door and read it twice before sitting down. It was a form about attendance, and it listed sixty-one absences. A vice-headmaster whose name he knew had signed it.
+A second letter had come from the academy in a thick envelope with the school crest on the back. The Duke opened it at the study door and read it twice before sitting down. It was a form about attendance, and it listed sixty-one absences. A vice-school head whose name he knew had signed it.
 
 "Strent," the Duke said. "Halvard Strent graded my son's essays for two years and wrote me three letters. In all three he said how clever the boy was." His eye went over the line again. "Now he signs a form with sixty-one absences and no note about an exemption. He sends it to a father not named on the Wren file. "It went to my town house," the Duke said. "Not here, where the staff would see the crest, and not to the academy office, where a clerk would file it. Somebody chose an empty room in a house I use four times a year." "To be read by you," Bertram said. "Or by whoever opens my post when I am not there," the Duke said."
 
@@ -38,7 +38,7 @@ Bertram said nothing.
 
 Bertram took a key from his pocket and crossed to a cabinet in the corner. With the key he opened a drawer and took out a thin folder with a grey label. Bertram put it on the desk and stepped back.
 
-The Duke opened it. The thin file held a scholarship letter, a page of marks, a medical exemption, and one form with a palace stamp. There was no birth page and no family page and no note about a mother. The guardian line said only Household in a typed hand that did not care.
+The Duke opened it. The thin file held a paid school place letter, a page of marks, a medical exemption, and one form with a palace stamp. There was no birth page and no family page and no note about a mother. The guardian line said only Household in a typed hand that did not care.
 
 He read the file twice, as he had read the form, and then a third time. There was a line in the academy letter that he had skipped.
 
@@ -76,7 +76,7 @@ The Duke walked out of the study and across the hall into the cold chapel, and c
 
 He did not put it on. He stood before it with his hands behind his back and hummed a tune with four notes down and one up. The tune filled the chapel and emptied it, and an hour went by without a word. He thought about the line on the form and the boy who had written nothing in eleven years, and about the word mother. He hummed the four notes down and the one note up, and then again. The tune was the only sound in the chapel apart from the lamp, and it went out through the open door.
 
-Outside, the yard had gone quiet, and a horse stamped once in the stable, and a bird moved in the ivy. Bertram did not knock again, because he had been told to wait an hour, and he counted an hour the way the Duke did.
+Outside, the yard had gone quiet, and a horse stamped once in the stable, and a bird moved in the ivy. Bertram did not knock again, because he had been told to wait an hour, and he counted an hour and the Duke did.
 
 At the end of that hour Bertram opened the door, and the Duke stood where he had been left with his hat in his hand and a calm face. That lamp had burned low while he stood there, and the silver gave back a thin line of light. There was a mark on the stone where his boot had turned an hour before and stayed.
 

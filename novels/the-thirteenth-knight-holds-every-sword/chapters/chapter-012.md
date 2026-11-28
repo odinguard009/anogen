@@ -90,7 +90,7 @@ A bell rang over the academy, and somewhere in the yard a horse kicked a door. T
 
 "Then give me the true one."
 
-Eden turned to him. Felix was looking at the yard gate, and his face was calm, and he had asked the question as if it were about the weather.
+Eden turned to him. Felix was looking at the yard gate, and his face was calm, and he had asked the question and it were about the weather.
 
 "I cannot," Eden said.
 
@@ -114,7 +114,7 @@ Eden did not answer. The horses in the stables moved in their stalls, and a stab
 
 "Because you gave me a true answer, and I wanted to give you one back." Felix looked at the word on the wall. "You cannot tell me yours, and that is all right. You said it plainly, and I believe you."
 
-Eden looked at the chalk word for a while. The letters had a small curl at the end of the last letter, and the dust had already begun to fill the lines.
+Eden looked at the chalk word for a while. The letters had a small curl at the end of the last letter, and the grey dust had already begun to fill the lines.
 
 "I have a middle name," he said.
 

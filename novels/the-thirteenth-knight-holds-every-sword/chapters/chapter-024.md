@@ -14,11 +14,11 @@ The guard looked at the tray and then at his cap. "You are new."
 
 He left the tray in the pantry, took his coat from under a pile of cloth, and went up the service stair. The Justiciar Seal guards stood at the four hall doors in pairs, wearing half-plate with seal-shaped buckles. They checked every servant who went in and out. Eden had no paper for the roof, so he did not use a door. He went up the outside of the kitchen chimney on a ladder left there for the lamp men. The cold wind took his breath away at the top.
 
-The roof above the glass atrium sloped in two directions. Eden lay on the high side with his coat pulled tight and his boots on the lead ridge. Below him the east hall was full of light. The band played a slow tune that came up through the glass in pieces, and he heard the scrape of chairs when people stood.
+The roof above the glass glass hall sloped in two directions. Eden lay on the high side with his coat pulled tight and his boots on the lead ridge. Below him the east hall was full of light. The band played a slow tune that came up through the glass in pieces, and he heard the scrape of chairs when people stood.
 
 He had come up at the first bell and found the rail where the gallery joined the roof, and then he had waited. The plan in his coat said the Crowns would take the hall on the thirteenth, and the hall was full on the twelfth. He had not been able to stay away. Ysolde's order had said to stay away from the Ball, and he had kept it until the sun went down.
 
-The atrium glass was a grid of iron bars under a layer of dust. The chandelier hung fifteen steps below him at the centre of the hall. Its shadow lay on the roof glass to the east because the lamps burned on the west wall. The shadow had the shape of a dark flower with a long stem. Eden watched the shadow move when people passed below. He kept one hand on the iron bar and the other on the black case at his back.
+The glass hall glass was a grid of iron bars under a layer of grey dust. The chandelier hung fifteen steps below him at the centre of the hall. Its shadow lay on the roof glass to the east because the lamps burned on the west wall. The shadow had the shape of a dark flower with a long stem. Eden watched the shadow move when people passed below. He kept one hand on the iron bar and the other on the black case at his back.
 
 A door opened in the roof, and Lysette came out onto the glass in a pale gown with her hair pinned up. Her white collar had been replaced by a thin silver chain. She saw him and stopped, and then she walked along the lead ridge with her skirts held up in one hand. She sat on the bench two steps from him.
 
@@ -33,7 +33,7 @@ A door opened in the roof, and Lysette came out onto the glass in a pale gown wi
 "It was quiet on the roof in November as well," she said, and she sat down before she said anything else.
 "Yes," Eden said.
 
-"Rowan is dancing with Clara, and he is laughing so hard that the prefects are looking."
+"Rowan is dancing with Clara, and he is laughing so hard that the older students are looking."
 
 "Good."
 
@@ -73,7 +73,7 @@ Eden thought about it. "The roof is cold."
 
 "No," he said. "It is true, and it is not useful."
 
-She laughed once, and the laugh came out small, and and the eleventh bell rang somewhere below them, and the lanterns in the atrium went out. The band kept the same tune for four bars after the lights died, and then a drum stopped, and the rest of the music fell apart.
+She laughed once, and the laugh came out small, and and the eleventh bell rang somewhere below them, and the lanterns in the glass hall went out. The band kept the same tune for four bars after the lights died, and then a drum stopped, and the rest of the music fell apart.
 
 The hall went dark in one step, and the band kept playing because the musicians could not see their own sheets. A woman screamed, and then twenty people did, and the sound came up through the glass in a dull wave. Eden rolled onto his stomach and looked down at the chandelier.
 
@@ -93,7 +93,7 @@ Eden put his hand on the iron bar and pushed himself up. Lysette caught his slee
 
 The chandelier came around again, and the broken link gave a sharp tug. The frame swung wider. Below, Seraphine looked up at the sound, and Felix pulled her chair back. Both were under the north edge of the chandelier when the second link began to go.
 
-Eden drew **[Exa]** from his shadow and knocked twice on the iron bar beside the chandelier's own shadow. The lamps had cut a hard edge there. A black Door opened in the dark flower on the roof glass. The chandelier's shadow went into the opening as the frame swung under it. The frame went with the shadow, and the hall lost its chandelier in one beat. There was no crash and no sound of iron on stone. The dark flower on the roof glass kept its shape for a moment, and then it was only a shadow again. The iron bar under Eden's hand was cold.
+Eden drew **[Exa]** from his shadow and knockedtapped twice on the iron bar beside the chandelier's own shadow. The lamps had cut a light edge there. A black opening opened in the dark flower on the roof glass. The chandelier's shadow went into the opening as the frame swung under it. The frame went with the shadow, and the hall lost its chandelier in one beat. There was no crash and no sound of iron on stone. The dark flower on the roof glass kept its shape for a moment, and then it was only a shadow again. The iron bar under Eden's hand was cold.
 
 The chain end swung over an empty patch of floor and struck the boards where nobody stood. The broken link rang once and was still.
 
@@ -107,7 +107,7 @@ Eden put the lance away and lay flat on the glass again. Lysette was very close 
 
 "I do not know," Eden said, and it was true, and it was the most useful thing he had said all night.
 
-Below them, the hall doors opened, and fourteen people walked in with grey bands on their sleeves. They carried short blades and lanterns of their own. The hostages in the middle of the hall began to move away from them, and the band stopped, and the new lanterns showed the tables and the pale walls and the streaks of dust on the glass roof. The hostages were herded toward the middle of the floor, and a woman with a grey band at her cuff held a knife at a boy's throat, and the boy sat with his hands on his knees. A man in a pale coat stood on the stage at the far end, with frost-white lines at his neck where a graft had climbed, and he watched the doors rather than the hostages.
+Below them, the hall doors opened, and fourteen people walked in with grey bands on their sleeves. They carried short blades and lanterns of their own. The hostages in the middle of the hall began to move away from them, and the band stopped, and the new lanterns showed the tables and the pale walls and the streaks of grey dust on the glass roof. The hostages were herded toward the middle of the floor, and a woman with a grey band at her cuff held a knife at a boy's throat, and the boy sat with his hands on his knees. A man in a pale coat stood on the stage at the far end, with frost-white lines at his neck where a graft had climbed, and he watched the doors rather than the hostages.
 
 "Who is that on the stage?" Lysette whispered.
 

@@ -1,6 +1,6 @@
 # Chapter 7: The Warrant
 
-The roof garden bench was warm from the morning sun, and Eden had one hour before lunch. He put his coat over his face and folded his arms, and the city noise came up through the stone like water through a pipe. Below the low wall, the city was a grey grid of roofs and tram lines, and the morning bells had not rung yet.
+The roof garden bench was warm from the morning sun, and Eden had one hour before lunch. He put his coat over his face and folded his arms, and the city noise came up through the stone through the stone. Below the low wall, the city was a grey grid of roofs and tram lines, and the morning bells had not rung yet.
 
 Footsteps crossed the gravel, loud and fast. "Wren!" Rowan's voice carried across the whole roof, and a pigeon left the wall. "I brought bread, and I brought apples, and I have news."
 
@@ -174,7 +174,7 @@ Rowan stayed on the bench for another minute, and then he stood with a sigh. "Lu
 
 "Before dawn," Eden said.
 
-"Before dawn," Rowan said, and he smiled as if he had won something. "I took it for us."
+"Before dawn," Rowan said, and he smiled and he had won something. "I took it for us."
 
 "Take it back."
 
@@ -268,7 +268,7 @@ Eden looked up from his notebook. "Word, will, and shape," he said.
 
 The teacher waited for more, and Eden gave him nothing else.
 
-A folded note landed on his desk. Eden opened it under the desk lid. "Friday. Bring the paper. Do not argue with the headmistress." The writing was small and straight. Eden wrote under it: "I do not argue." He folded the note and sent it back along the bench, and Lysette read it without turning her head.
+A folded note landed on his desk. Eden opened it under the desk lid. "Friday. Bring the paper. Do not argue with the school head." The writing was small and straight. Eden wrote under it: "I do not argue." He folded the note and sent it back along the bench, and Lysette read it without turning her head.
 
 At the end of the lesson, Eden walked out with the notebook under his arm. The black card made a thin dark line between the pages, and he could feel its corner against his side.
 

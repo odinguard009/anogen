@@ -72,7 +72,7 @@ She held it out, then looked past him into his room and bed, desk, chair, nothin
 
 "I sleep dressed."
 
-"That's—" She let it go. "South tables. Walk."
+"That's..." She let it go. "South tables. Walk."
 
 They walked with her half a step ahead. She had to look back every eleven steps to check he was still there. Two older students saw them coming and pressed themselves against the wall.
 
@@ -136,7 +136,7 @@ His tea had gone cold while he read, so Eden took the pot and filled the cup. He
 
 That was the whole talk, and Eden ate two rolls.
 
-The doors at the north end banged open. Rowan came in with Clara beside them, both still in drill coats. Clay marked Rowan's sleeves, and a red practice-blade mark crossed the back of his hand. Clara had a ribbon on her collar and a grey streak on her cheek. She walked the way people walk when they have already been awake for three hours.
+The doors at the north end banged open. Rowan came in with Clara beside them, both still in drill coats. Clay marked Rowan's sleeves, and a red practice-blade mark crossed the back of his hand. Clara had a ribbon on her collar and a grey streak on her cheek. She walked and people walk when they have already been awake for three hours.
 
 "Wren," Rowan Tallis said. He saw the table and came over, because he came over to every table.
 
@@ -156,7 +156,7 @@ Rowan took the bench beside her, and the bench complained. He put three rolls on
 
 Lysette's voice came across the hall. "Tallis. Sit down or leave."
 
-Rowan sat down so fast that his knee hit the table. Clara's mouth moved, almost a smile, and she pulled her plate out of the way.
+Rowan sat down so fast that his knee hit the table. Clara's mouth moved, almost a smile, and she pulled her plate out of and.
 
 Eden watched the room instead of the table. Three tables over, a boy in a grey coat watched Rowan and then looked away. An older student by the door counted heads with a pencil. Lysette wrote something in her black book without looking at the page.
 
@@ -180,7 +180,7 @@ The lesson was about wards and a ward was a spell that guarded a place. It was a
 
 The letters began to hum, a low sound felt in the back teeth. A thin curl of smoke rose from the third line. The front row leaned back together, and someone's inkpot slid an inch along the bench by itself.
 
-Brandmeier did not turn. She looked up into the benches, all the way to the top. Then she found Eden in the front half, where he had never sat.
+Brandmeier did not turn. She looked up into the benches, all and to the top. Then she found Eden in the front half, where he had never sat.
 
 "Mr. Wren," she said. "You have been away so often this year that the office asked if you had died. So tell me, where is the mistake?"
 
@@ -234,7 +234,7 @@ He heard about the class. Eden saw it land when Valerius turned his head and fou
 
 "Lysette," he said, politely. She answered with a small bow.
 
-Then he looked at Eden, the way he always did, and he read the look on Eden's face and found the bad line.
+Then he looked at Eden, and he always did, and he read the look on Eden's face and found the bad line.
 
 "Brandmeier," he said. "A ward with no subject."
 

@@ -64,7 +64,7 @@ The king stopped four paces away. He did not call the boy's name. And he did not
 
 "Cadet Wren," he said, and his voice was tired and kind. "Your mother would have hated the cold."
 
-Eden kept his hands on the shovel. The king waited for a moment. And then he nodded once, as if he had expected no answer and had come to accept it, and he walked on toward the gate with his secretary a step behind.
+Eden kept his hands on the shovel. The king waited for a moment. And then he nodded once, and he had expected no answer and had come to accept it, and he walked on toward the gate with his secretary a step behind.
 
 Lysette had been standing by the stores with her book open. And she saw the king stop. And she saw him speak, and she wrote nothing in her book. When the carriages had gone down the road she came over and looked at the scarf at Eden's throat. And then she looked at his face.
 

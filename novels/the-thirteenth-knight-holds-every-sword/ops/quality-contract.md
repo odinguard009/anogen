@@ -31,3 +31,6 @@ Audience: minimum age 15, mostly non-native English speakers. Every chapter must
 - no two names for one thing (Thirteenth Vigil, Husk/Hushborn, etc.).
 
 Enforcement is staged: brief.md `plain_language_strict: false` makes these WARNINGS while chapters 1-50 are still old. After the rewrite, set `plain_language_strict: true`; then violations become ERRORS. The owner orders the switch.
+
+## Rule 8: No analogy descriptions (owner order 2026-11-28)
+Do not describe a thing with rectangle, knuckle, pale/clean edge, grey-blue, or 'the way it...'. Write the action, the object, one visible detail, then the name. Tools/check_chapter.py audience_check warns now and errors after plain_language_strict is switched on.

@@ -2,9 +2,9 @@
 
 The palace courtyard was wet with morning rain. The guards at the inner door checked Valerius's name against a list before they let him pass. A page led him along a corridor of brown wood and tall windows. The thick carpet hid the sound of his boots. The war council room was on the ground floor of the palace. Its long table had been polished until the maps looked like water on it. Valerius came in at nine with his gloves on and his blade left outside. He took the chair that had been his father's before him.
 
-He had spent the night after the match thinking about a boy who would not strike first. The boy had not explained why, and no answer fit the facts. Eden Wren was rank eight, slept on a roof, and scored highest in his year. He moved like a man taught to struggle before he learned to read. Valerius had checked the academy records and found a scholarship paid by the palace and a family page that was empty. He had written those two things on a sheet of paper and locked it in his desk. Writing them down made them real. His father had used this chair for eleven years and had never looked at a map without asking who had paid for the string. Valerius had asked that question in the morning. The clerk said the string came from the quartermaster, who took orders from the king's secretary. That was a chain of hands, and no name at the end of it.
+He had spent the night after the match thinking about a boy who would not strike first. The boy had not explained why, and no answer fit the facts. Eden Wren was rank eight, slept on a roof, and scored highest in his year. He moved like a man taught to struggle before he learned to read. Valerius had checked the academy records and found a paid school place paid by the palace and a family page that was empty. He had written those two things on a sheet of paper and locked it in his desk. Writing them down made them real. His father had used this chair for eleven years and had never looked at a map without asking who had paid for the string. Valerius had asked that question in the morning. The clerk said the string came from the stores man, who took orders from the king's secretary. That was a chain of hands, and no name at the end of it.
 
-The match had not cleared the matter. A boy who waited for a bell on another man's touch was either a coward or a man keeping a larger appointment. Valerius had watched him stand still under a blade twice, and it was not cowardice. He hated the hiding, and he hated more that nobody else in the school seemed to notice it. A clerk put a cup of tea beside his elbow and took it away again when the king's secretary asked for silence. Valerius had spoken to the steward on the way in. The steward walked beside him with a list in his hand.
+The match had not cleared the matter. A boy who waited for a bell on another man's touch was either a coward or a man keeping a larger appointment. Valerius had watched him stand still under a blade twice, and it was not cowardice. He hated the hiding, and he hated more that nobody else in the school seemed to notice it. A clerk put a cup of tea beside his elbow and took it away again when the king's secretary asked for silence. Valerius had spoken to the steward on and in. The steward walked beside him with a list in his hand.
 
 "How many doors?" Valerius asked.
 
@@ -14,7 +14,7 @@ The match had not cleared the matter. A boy who waited for a bell on another man
 
 "I will send the plan to your rooms, sir." A footman called the steward away just then, and the plan had not come.
 
-Count Merrow sat two places down with a paper knife in his hand. He smiled across the table as if they had met at a dance. He was a small man with a kind face and careful sleeves. Every minister in the room turned to him when he spoke. They did not turn that way for the king, and Valerius had noticed it before. Merrow never raised his voice, and he never asked a direct question. He said a thing twice, and the second saying sounded like an answer someone else had given.
+Count Merrow sat two places down with a paper knife in his hand. He smiled across the table and they had met at a dance. He was a small man with a kind face and careful sleeves. Every minister in the room turned to him when he spoke. They did not turn that way for the king, and Valerius had noticed it before. Merrow never raised his voice, and he never asked a direct question. He said a thing twice, and the second saying sounded like an answer someone else had given.
 
 "Valerius," Merrow said. "You look better than the last time I saw you. The academy agrees with you."
 
@@ -48,7 +48,7 @@ A minister with a grey beard tapped the bend with his finger. "That curve is new
 
 The whispers went around the table in a low wave, and Valerius let them run. He had learned that ministers repeated a thing until it sounded like evidence, and then they wrote it down. One of the whispers reached him clearly: "the Void Host". Another minister said the words again with his hand over his mouth. The man beside him looked toward the king to see if they had been heard.
 
-King Theodric sat at the head of the table with a folded paper in front of him, and he had not touched his tea. His face was thinner than it had been at the last audience, and the skin under his eyes was grey. The phrase came from a clerk in the adjutant's office, written in the margin of a supply bill. Now three ministers were saying it as if they had seen the thing. Valerius had first heard it in a tavern near the Wall, where a soldier said the grey could not be killed and that something older was moving under the ice. He listened to the whispers with his head tilted, and then he asked for the ledger. A clerk brought him a book with a blue spine.
+King Theodric sat at the head of the table with a folded paper in front of him, and he had not touched his tea. His face was thinner than it had been at the last audience, and the skin under his eyes was grey. The phrase came from a clerk in the adjutant's office, written in the margin of a supply bill. Now three ministers were saying it and they had seen the thing. Valerius had first heard it in a tavern near the Wall, where a soldier said the grey could not be killed and that something older was moving under the ice. He listened to the whispers with his head tilted, and then he asked for the ledger. A clerk brought him a book with a blue spine.
 
 "Three hundred and eleven men lost in the last rotation," the king said, and he read from the book without raising his voice. "The adjutant wrote that number himself, and he does not write numbers twice." He shut the book. "Somebody will tell me what the bend around Verandel means, or somebody will tell me why I must wait."
 
@@ -62,9 +62,9 @@ Count Merrow put down his paper knife. "Your Majesty, the bend is troubling, but
 
 The king looked at the map for a while, and then he looked at Merrow, and then at Valerius. "You are the senior matchlist of the year, and you will be in the hall with the rest of us. Tell me what you would guard."
 
-"Doors, windows, and the food," Valerius said. "In that order."
+"openings, windows, and the food," Valerius said. "In that order."
 
-"Good." The king sat back. "Then speak with the palace steward, and take one prefect with you. The council will reconvene after the Ball."
+"Good." The king sat back. "Then speak with the palace steward, and take one older student with you. The council will reconvene after the Ball."
 
 The ministers folded their papers and stood, and the room filled with the sound of chairs. Valerius stayed with his hand on the map edge, and he looked at the bend around Verandel again, because it still had no explanation on it.
 

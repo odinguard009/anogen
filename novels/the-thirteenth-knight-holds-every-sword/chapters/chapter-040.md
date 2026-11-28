@@ -14,13 +14,13 @@ That report from the Wall had come in on a grey sheet. It listed the PR 110 file
 
 There was a knock at the door and a footman put his head into the room. He said that the king was still awake and had asked for her twice. And Ysolde said that she knew. The footman said the king had asked for the second envelope by name, and she said she had heard him the first time. The footman shut the door.
 
-One second envelope did not exist in the file, and that was the trouble. There was one envelope in the Archon drawer with a grey label. It had been there since the day she took the office. The king had asked for a second one three times in six weeks. Each time she had told him there was only one, and each time he looked at her as if she were lying to protect him, which she did not.
+One second envelope did not exist in the file, and that was the trouble. There was one envelope in the Archon drawer with a grey label. It had been there since the day she took the office. The king had asked for a second one three times in six weeks. Each time she had told him there was only one, and each time he looked at her and she were lying to protect him, which she did not.
 
-She opened the bottom drawer of the cabinet and took out a file with a brown label. The label said: WENDELL, AUBREC, physician, dismissed PR 113. The file was thin and the paper had gone soft at the edges. The first page said that Aubrec Wendell had been the physician to the Duchess Argentine and that he had vanished in the week the Duchess died. That no body had been found. That the Justiciar Seal had closed the case after eleven days.
+She opened the bottom drawer of the cabinet and took out a file with a brown label. The label said: WENDELL, AUBREC, doctor, dismissed PR 113. The file was thin and the paper had gone soft at the edges. The first page said that Aubrec Wendell had been the doctor to the Duchess Argentine and that he had vanished in the week the Duchess died. That no body had been found. That the Justiciar Seal had closed the case after eleven days.
 
-A physician who vanished was an ordinary thing in the ledgers. The clerk who had written this file had been careful and bored. He had put the word dismissed at the top because that was the word the order had used. Ysolde had read the word three times. She had read the date beside it four times. The date was the week Liora died. The week was the same week a boy with grey eyes had been taken to the palace in a basket and given a name that was not his own.
+A doctor who vanished was an ordinary thing in the ledgers. The clerk who had written this file had been careful and bored. He had put the word dismissed at the top because that was the word the order had used. Ysolde had read the word three times. She had read the date beside it four times. The date was the week Liora died. The week was the same week a boy with grey eyes had been taken to the palace in a basket and given a name that was not his own.
 
-Ysolde turned the page. There was a list of the physician's rooms and a list of his tools. One line at the bottom said that a small silver locket had been missing from his rooms and that the family had not wanted it back. There was a note in the margin in a different hand. Small and slanting, and it said only: asked after the child. It had no date and no signature. The clerk who had written the rest of the file had not crossed it out or explained it. That was the most interesting thing about it. Because clerks did not leave strange lines in files unless someone had told them to.
+Ysolde turned the page. There was a list of the doctor's rooms and a list of his tools. One line at the bottom said that a small silver locket had been missing from his rooms and that the family had not wanted it back. There was a note in the margin in a different hand. Small and slanting, and it said only: asked after the child. It had no date and no signature. The clerk who had written the rest of the file had not crossed it out or explained it. That was the most interesting thing about it. Because clerks did not leave strange lines in files unless someone had told them to.
 
 She put her hand over that line. Then she took a card from the deck and laid it on top of it. She sat for a while with her hand on the card.
 
@@ -32,13 +32,13 @@ That office was quiet except for the clock. The cards lay in a fan on the desk. 
 
 She stood up so quickly that the cards on the desk moved. She put a hand on the back of the chair and held it there until the room stopped shifting. A bellwire from the Wall at that hour with a message about boots was either a small thing reported by a bored clerk or a large thing reported by a frightened one. And she did not know which. And she wanted the next ten seconds to be longer than they were.
 
-That clerk came in with a grey slip in his hand and his coat over his pyjamas. And he read from the slip because his hands were too cold to hold it steady. "Camp stores report a missing groundskeeper's boots," he said.
+That clerk came in with a grey slip in his hand and his coat over his pyjamas. And he read from the slip because his hands were too cold to hold it steady. "Camp stores report a missing grounds man's boots," he said.
 
 Ysolde took the slip, and she read it herself, and then she read it again.
 
-"Which groundskeeper? she asked.
+"Which grounds man? she asked.
 
-"It does not say, ma'am. It says a pair of grey boots was left outside the stores. And the groundskeeper says they are his, and that he did not leave them there."
+"It does not say, ma'am. It says a pair of grey boots was left outside the stores. And the grounds man says they are his, and that he did not leave them there."
 
 "Is he hurt?"
 
@@ -50,7 +50,7 @@ Ysolde put the slip on the desk beside the Duke's letter. And she looked at the 
 
 That clerk wrote on his pad and went out. And the bellwire stopped clattering, and the office was quiet again. Ysolde put the unopened Liora letter back in the safe. And she put the brown file back in the drawer. And she turned out the desk lamp and sat in the dark with the fan of cards in her hand. And she did not deal them again until the clock struck one.
 
-"Is the groundskeeper hurt?" she asked the clerk again.
+"Is the grounds man hurt?" she asked the clerk again.
 
 "No, ma'am."
 
@@ -78,6 +78,6 @@ The clerk looked at her and then at the door, and he said that clerks were paid 
 
 That office was quiet again, and the clock ticked, and she took the fan of cards and laid them out one by one on the blotter. The king was still there, the Duke was still there, and the high priestess was there twice. She put the second one back in the deck, because it was a card she did not like at midnight. She dealt again, and the king came up beside a card with no picture on it. She looked at the two of them for a while, then swept the cards into a pile and put the deck away.
 
-The second envelope was a thing the king wanted, and the boots were a thing someone wanted found. The line in the physician's file was a thing someone had wanted written, and all three things had come to her desk in one week. She wrote one line on a blank card and put it in the tray: "Someone is asking after the boy, and someone is answering."
+The second envelope was a thing the king wanted, and the boots were a thing someone wanted found. The line in the doctor's file was a thing someone had wanted written, and all three things had come to her desk in one week. She wrote one line on a blank card and put it in the tray: "Someone is asking after the boy, and someone is answering."
 
 At one o'clock she turned out the lamp and sat in the dark with her hands on the desk, and the city went on being quiet outside, and she did not open the letter. She wrote the hour at the top of a fresh page and put the page in the tray. It was a small thing, and it was a true thing, and it was the only thing she could do before morning.

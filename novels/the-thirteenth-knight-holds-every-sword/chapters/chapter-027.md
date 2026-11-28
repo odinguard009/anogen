@@ -1,10 +1,10 @@
 # Chapter 27: The Reading
 
-The morning paper came off the steam press at six. The boys outside held it up before the ink was dry. Eden came out of the kitchen stair and saw the front page over a prefect's shoulder. Three lines covered the Ball, and one headline said the Vigil had acted without law.
+The morning paper came off the steam press at six. The boys outside held it up before the ink was dry. Eden came out of the kitchen stair and saw the front page over a older student's shoulder. Three lines covered the Ball, and one headline said the Vigil had acted without law.
 
 He took a copy from the pile and read it at the gate. The press in the print shop had a steam whistle that went off at six, and the boys were still laughing at it. The girl who sold buns had wrapped three copies around her tray. The paper said fourteen armed Crowns had held the east hall, and one person in black had cleared it. That person had left before the guards arrived. It said the king would ask questions. It did not say that a chandelier had gone, or that a grafted woman sat on the stage. It did not say that forty people had walked out of the hall on their own feet.
 
-On the third page a column with a black border remembered the "Hollen affair of PR 110." It gave no detail, and said the Seal had closed the file. Eden read the year twice. He counted his pulse after the second reading because the stomach below his ribs had gone cold. The count was eighty-one, and the morning average was sixty-eight. He wrote both numbers in his notebook and put the paper in the bin. A prefect asked why he had bought a paper if he was going to throw it away. Eden said he had wanted to read the year. The prefect asked which year, and Eden told him, and the prefect walked away.
+On the third page a column with a black border remembered the "Hollen affair of PR 110." It gave no detail, and said the Seal had closed the file. Eden read the year twice. He counted his pulse after the second reading because the stomach below his ribs had gone cold. The count was eighty-one, and the morning average was sixty-eight. He wrote both numbers in his notebook and put the paper in the bin. A older student asked why he had bought a paper if he was going to throw it away. Eden said he had wanted to read the year. The older student asked which year, and Eden told him, and the older student walked away.
 
 Lysette was already at the gate with a paper of her own, and she had folded the third page inward so that the black border did not show. Lysette Hollen saw him look at the fold, and she folded it once more.
 
@@ -118,7 +118,7 @@ Ysolde read the letter in her office and put it face down on the desk. "It is no
 
 "I will stay away."
 
-"Good." Ysolde turned a card over and then put it back in the deck. "And take your handkerchief with you. You left it on the roof twice this week, and the second time a girl carried it down."
+"Good." Ysolde turned a card over and then put it back in the deck. "And take your small cloth with you. You left it on the roof twice this week, and the second time a girl carried it down."
 
 Eden put his hand in his coat pocket, and the cloth was there, folded along Lysette's creases. "I did not leave it the second time," he said.
 

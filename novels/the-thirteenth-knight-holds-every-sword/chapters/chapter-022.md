@@ -75,7 +75,7 @@ Eden stepped in with the shield up. The man nearest the door had his collar open
 
 The **[Draught]** needed one exact opening: collar and jaw, or glove and wrist, where armor had no part. It gave no room for a swing, and it gave no second gap in the same man. It stopped a point at the throat as well as it gave one.
 
-A second man reached for a jar of dust. Eden caught his wrist on the shield edge. The jar fell and broke on the stone, and grey dust went into the air. Vesk's borrowed voice cut across the room with an order to hold position. Two men froze, because they had heard that voice give orders before. The fine dust hung in the lamplight and settled on the jars. The smell grew sharp enough to taste.
+A second man reached for a jar of grey dust. Eden caught his wrist on the shield edge. The jar fell and broke on the stone, and grey dust went into the air. Vesk's borrowed voice cut across the room with an order to hold position. Two men froze, because they had heard that voice give orders before. The fine grey dust hung in the lamplight and settled on the jars. The smell grew sharp enough to taste.
 
 "Stand down," Vesk said.
 
@@ -89,7 +89,7 @@ Both hands went on the table, and the man at the window did not move.
 
 The third leader was the man with the grey neck. He came across the table with a knife, and his veins showed dark at his throat. He reached Eden. Eden put the shield into the knife and turned the man's arm. The lance found the gap between glove and wrist. The knife fell. The grey in the man's neck went darker for a beat, and then he sat down. Both hands lay open on the table.
 
-The dust stung Eden's nose. He knew that smell: dry and thin, with a edge like cold metal. It was the smell that clung to a Veil after it fell to dust, and it was not the same thing, and he did not let himself think it was. The nose remembered before the mind could correct it.
+The grey dust stung Eden's nose. He knew that smell: dry and thin, with a edge like cold metal. It was the smell that clung to a Veil after it fell to grey dust, and it was not the same thing, and he did not let himself think it was. The nose remembered before the mind could correct it.
 
 "How many?" Vesk asked from the door.
 

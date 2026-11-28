@@ -78,7 +78,7 @@ Another click. A child: "Your mother rang."
 
 The room smelled of hot copper and cold sweat. Eden put one gloved finger against the door and pushed.
 
-The switchroom was long and narrow, and Eden stood in the corridor door at its east end. Along the north wall stood the board, twelve steps wide. It was dark wood full of holes and brass pins and little shutters. Copper cables ran up and across the ceiling like roots. It stood a handbreadth clear of the wall. One lamp hung on a cord over the aisle, a few steps in from the board's east end. Its light threw the board's shadow past that end onto the bare wall, a black square taller than a man. The woman sat at the middle of the board with her back to him, a headset over her ears, her grey coat on the chair.
+The switchroom was long and narrow, and Eden stood in the corridor door at its east end. Along the north wall stood the board, twelve steps wide. It was dark wood full of holes and brass pins and little shutters. Copper cables ran across the ceiling. It stood a handbreadth clear of the wall. One lamp hung on a cord over the aisle, a few steps in from the board's east end. Its light threw the board's shadow past that end onto the bare wall, a black square taller than a man. The woman sat at the middle of the board with her back to him, a headset over her ears, her grey coat on the chair.
 
 "Your mother rang," she said into the headset. "Come to the exchange. Bring a coat. It is cold."
 
@@ -86,9 +86,9 @@ She pulled a plug and pushed it into another hole. Somewhere in the city, a tele
 
 Eden counted the room. One door behind him. One window, painted shut. The lamp. The board's shadow, big enough. He had one clear thought, the way he always did before a fight. The voices came out of the board, and the board was her mouth. Stop the mouth.
 
-He crossed the carpet in six steps and stopped at the board's east end, at the edge of the lamp's light, six steps from her chair. Then he tapped the wall inside the spilled shadow twice. **[Door]** opened: a black rectangle in the stone, taller than a man, with a pale edge on one side.
+He crossed the carpet in six steps and stopped at the board's east end, at the edge of the lamp's light, six steps from her chair. He tapped the dark part of the wall twice with his knuckles. A black gap appeared in the stone. It was as tall as Eden. A thin line of light lay on one side. Eden called that gap **[Door]**.
 
-The sound was small and hard. The cables' shadows leaned toward the opening. The hum dropped a little, and the lamp steadied.
+The tap made a small sound. The dark shapes of the cables moved toward the gap. The low noise in the room grew quieter, and the lamp stopped moving.
 
 The woman turned around.
 
@@ -120,7 +120,7 @@ The Veil said a name. It was not his.
 
 He did remember a song. That was the trouble with Veils. They pulled the words out of the air and the air out of your chest. But a name had to be given, and nobody had given her his.
 
-She came again, fast and wrong-jointed, the bar low. Eden gave ground. One step back, then two, and the Veil followed him down the aisle, away from the board and the opening. She was winning, and she knew it. The corridor door was three steps behind him.
+She came again quickly, with the bar held low. Eden gave ground. One step back, then two, and the Veil followed him down the aisle, away from the board and the opening. She was winning, and she knew it. The corridor door was three steps behind him.
 
 Then she looked up at the lamp.
 
@@ -128,7 +128,7 @@ She dropped the bar and reached for the cord. If the lamp went out, the board's 
 
 He did not go for her hand. He went for the cord first. He caught the cord above her fingers and swung the lamp away.
 
-The lamp swung, and every shadow in the room moved. The cables' shadows slid across the ceiling and fell into the opening. The cables above the board went slack.
+The lamp swung, and every shadow in the room moved. The dark shapes of the cables moved across the ceiling and went into the gap. The cables above the board went slack.
 
 He put the shield's edge into her wrist. He drove her back along the aisle with his shoulder, until her back hit the end of the board. The hum stopped. The chord broke apart into single voices, thin and far: a man, a widow, a boy of nine.
 

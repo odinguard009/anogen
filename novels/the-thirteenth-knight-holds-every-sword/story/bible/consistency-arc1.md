@@ -59,7 +59,35 @@ A scan of chapters 1–50 found the same thing called by two names, and special 
 7. "handkerchief" and "scarf" both appear; confirm they are never treated as one object.
 8. First-use labels for **[Tavu]**, **[Ithe]**, **[Wyl]**, **[Osk]**, **[Thessa]**, **[Grask]**, **[Citation]**, **[Lampwick]** exist in `first-use.md`; keep the descriptions and the costs when rewriting.
 
-## 6. Rule for all future chapters
+## 6b. Plain-word map for confusing words
+
+The owner cannot follow sentences that use these words without warning. Use the left column meaning everywhere.
+
+| Word problem | Canonical plain use | Rule |
+|---|---|---|
+| **door** / **Door** | A real door is "door" (287 uses in ch 1–50). Eden's power is a **black opening in a shadow** (26 capital-D uses). | In narration, write "a black opening". Keep **[Door]** only on first use, with: "a black opening in the shadow". Never write "door" alone for the power after that. |
+| **knock** | Ordinary knocking on a door = "knock". Eden's trigger = "tap the shadow twice" or "tap the ring once". | Replace magic "knock" with "tap" in narration. Explain once: "He tapped the dark edge twice. A black opening appeared." Keep the word "knock" only if a character says it as the name of the move. |
+| **ash** | Ash = what is left after a fire. | Never use "ash" for a killed Veil, Husk, or Ember. Use "grey dust" for remains. |
+| **dust** | Ordinary dirt on a floor = "dirt". Powder from stone = "stone dust". Remains of grey things = "grey dust". | Never write bare "dust" for remains; 89 uses of "dust" exist, only 25 say "grey dust". Say which dust it is every time. |
+
+## 6c. Power cards — what the reader must SEE
+
+Rule: write one plain sentence of what the reader can see at first use. After that use the plain phrase, not the label. The label is for the ledger, not for every sentence.
+
+| Power | Plain sentence at first use | Plain phrase after that | Cost, said plainly |
+|---|---|---|---|
+| **[Umra]** (Eden) | "Black plates covered his chest and arms, and the helmet had a narrow slit." | "the black plates" | cold, heavy joints |
+| **[Inead]** (Eden) | "A sword made of gold light stood in his hand." | "the gold sword" | light shows him; small ache behind the eyes |
+| **[Exa]** (Eden) | "A black lance hung at his back in a leather case. One tap on its ring folded it into a small black shield." | "the black lance", "the small shield" | only as strong as his arm |
+| **[Door]** (Eden) | "He tapped the dark edge twice and a black opening appeared in the shadow." | "a black opening" | needs a sharp edge of light and dark |
+| **[Latch] / [Hinge] / [Draught]** | Show the hand movement and where the point goes; then name it once. | "the ring caught the blade", "he turned on his front foot", "the point went through the gap" | numb arm / numb foot / one exact opening |
+| **[Void Heir]** | "Under his name on the register stood a third line he had never seen." | "the third line" | never said aloud |
+| Valerius's **Verdict / [Injunction]** | "He drew a line on the stone and said one sentence. A pale wall stood where the line had been." | "the line", "the pale wall" | one short breath per wall |
+| Valerius's **aura** | "The snow flattened near his raised arm and the men beside him stepped back." | "his raised arm" | no numbers; show the effect |
+
+Never describe a power only by mood words such as "cold", "shadow", "thick air", "frosted over". Show the object, the movement, and the result.
+
+## 6d. Rule for all future chapters
 
 - One thing = one name.
 - Explain the name at first use in one plain sentence.

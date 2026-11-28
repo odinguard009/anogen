@@ -65,10 +65,30 @@ Contoh penggantian gaya Holy Emperor:
 
 Jadi fokus perbaikan bukan “memendekkan kalimat”, melainkan **mengganti kata abstrak/idiom dengan kata konkret, menjelaskan istilah di tempat, dan memakai suara yang berbicara langsung kepada pembaca**.
 
+### 2c. Kenapa kata *doors, ash, knock, dust* dan kekuatan Eden/Valerius membingungkan
+
+Data dari 50 bab kita:
+
+- `door/doors` biasa dipakai 310 kali; `Door/Doors` (kekuatan Eden) 26 kali. **Satu ejaan untuk dua hal**: pintu rumah dan “pintu bayangan”.
+- `knock/knocked/knocking` 67 kali. Kata yang sama dipakai untuk mengetuk pintu nyata dan untuk memicu kekuatan Eden. Pembaca tidak diberi tahu bahwa itu dua hal berbeda.
+- `ash` 32 kali, `dust` 89 kali, tetapi hanya 25 yang menyebut "grey dust". Jadi pembaca tidak tahu apakah abu/debu itu sisa api, debu lantai, atau sisa musuh.
+- Label kekuatan jarang muncul: **[Umra]** 8 kali, **[Inead]** 11 kali, **[Exa]** 18 kali, **[Door]** 26 kali, **[Injunction]** 1 kali, "aura" 4 kali. Artinya hampir semua penjelasan hanya ada di awal, lalu cerita lanjut dengan kata abstrak seperti *cold, shadow, the air went thick, frosted over*.
+
+**Sebab utamanya:** kita memakai **nama kanon sebagai pengganti penjelasan**. Pembaca diberi label, bukan gambaran. Aturan lama malah memperkuat ini: "jangan perlihatkan ke mana Door pergi" → akhirnya tertulis "held in the dark" yang terdengar kabur. Kekuatan Valerius lebih parah karena hampir tidak pernah dijelaskan secara visual; yang ada hanya "a pale wall" dan "frosted over".
+
+**Solusi yang diusulkan:**
+
+1. Pisahkan kata: pintu nyata tetap "door"; kekuatan Eden jadi **"a black opening in the shadow"**, label **[Door]** hanya di first use.
+2. Pisahkan gerakan: pintu nyata "knock"; pemicu Eden **"tap the shadow twice"** atau **"tap the ring once"**.
+3. Pisahkan bahan: "ash" hanya sisa api; sisa musuh selalu **"grey dust"**; debu lantai "dirt"; debu batu "stone dust".
+4. Tiap kekuatan dapat **kartu kekuatan**: satu kalimat tentang apa yang terlihat, satu frasa pengganti, satu kalimat biaya. Kartu sudah ditambahkan ke `story/bible/consistency-arc1.md` bagian 6c.
+5. Valerius: tunjukkan garis di batu, kalimat yang ia ucapkan, dinding pucat yang berdiri, dan satu napas yang hilang. Jangan pakai "aura frosted over" sebagai penjelasan.
+6. Guard baru: daftar kata yang harus punya penjelasan di dekat first use (*door/knock/dust/ash* dan semua label kekuatan).
+
 ## 3. Setting yang sudah dipasang di repo (belum ada bab yang diubah)
 
 - `story/style/audience.md` — audience 15+, non-native, kata umum, idiom hanya jika maknanya terlihat, satu ide per kalimat, istilah dijelaskan saat first use, pakai satu kata yang sama untuk benda yang sama.
-- `story/bible/consistency-arc1.md` — nama kanonik, daftar benda yang tidak boleh tertukar, dan 8 inkosistensi yang ditemukan.
+- `story/bible/consistency-arc1.md` — nama kanonik, daftar benda yang tidak boleh tertukar, 8 inkosistensi, peta kata *door/knock/dust/ash*, dan kartu kekuatan Eden–Valerius.
 
 ## 4. Inkonsistensi yang ditemukan di bab 1–50
 
@@ -98,7 +118,7 @@ Semua poin sudah diberikan aturan kanoniknya di `consistency-arc1.md`.
 
 - **Tahap 0 — Selesai:** riset 50 chapter, setting audience, setting konsistensi, rencana ini.
 - **Tahap 1 — Menunggu perintah:** kunci aturan baru ke `profile.md`, `banned.md`, `quality-contract.md`, `writing-rules.md`, `tools/check_chapter.py`, dan glossary kecil. Tidak ada bab diubah.
-- **Tahap 2 — Pilot:** tulis ulang 2 bab sebagai contoh, misalnya **ch 1** (perkenalan) dan **ch 6** (Lance Nine). Minta pemilik membaca hasil sebelum lanjut.
+- **Tahap 2 — Pilot:** tulis ulang 4 bab sebagai contoh: **ch 1** (perkenalan), **ch 3** (first use Door/Umra/Inead), **ch 6** (Lance Nine → "the group"), dan **ch 16** (Valerius/Injunction). Minta pemilik membaca hasil sebelum lanjut.
 - **Tahap 3 — Produksi:** bab 1–50 per batch 3–5 bab, critic tiap 10 bab, cek konsistensi dan 6-gram tiap batch.
 - **Tahap 4 — Penutup:** audit arc, `validate 1-50`, `milestone_check`, rebuild EPUB.
 
@@ -109,6 +129,8 @@ Semua poin sudah diberikan aturan kanoniknya di `consistency-arc1.md`.
 - Tidak ada lagi dua nama untuk satu hal (Vigil/Black Thirteen, Husk/Hushborn).
 - `like a` ≤ 1/bab, `as if` = 0, idiom kabur = 0, penanda kiasan suasana turun dari ±6/1000 kata menjadi ≤2/1000 kata.
 - Narasi memakai "group" untuk tim siswa; "lance" tidak dipakai lagi sebagai kata grup.
+- Tidak ada lagi "Door" untuk kekuatan dalam narasi (pakai "a black opening"), tidak ada "knock" untuk pemicu (pakai "tap"), tidak ada "ash" untuk sisa musuh, tidak ada "dust" tanpa jenis.
+- Kekuatan Eden dan Valerius selalu punya kalimat "apa yang terlihat" sebelum label dipakai.
 - 50/50 bab tetap lolos `check_chapter.py --strict`, `validate`, `milestone_check`.
 
 ## 8. Status
